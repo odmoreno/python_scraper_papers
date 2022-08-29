@@ -1,0 +1,26 @@
+[INFO  - 2021-09-21T08:55:15.906Z] GhostDriver - Main - running on port 49761
+[INFO  - 2021-09-21T08:55:18.003Z] Session [a4ee37f0-1ab9-11ec-89ff-851b1eab404b] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2021-09-21T08:55:18.003Z] Session [a4ee37f0-1ab9-11ec-89ff-851b1eab404b] - page.customHeaders:  - {}
+[INFO  - 2021-09-21T08:55:18.003Z] Session [a4ee37f0-1ab9-11ec-89ff-851b1eab404b] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-10-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2021-09-21T08:55:18.003Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: a4ee37f0-1ab9-11ec-89ff-851b1eab404b
+[ERROR - 2021-09-21T08:55:19.682Z] Session [a4ee37f0-1ab9-11ec-89ff-851b1eab404b] - page.onError - msg: TypeError: MouseEventConstructor is not a constructor (evaluating 'new MouseEvent')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2021-09-21T08:55:19.682Z] Session [a4ee37f0-1ab9-11ec-89ff-851b1eab404b] - page.onError - stack:
+  global code (https://observatoriolegislativo.ec/static/js/asambleistas.js?v=3:3)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2021-09-21T08:55:19.683Z] Session [a4ee37f0-1ab9-11ec-89ff-851b1eab404b] - page.onError - msg: TypeError: undefined is not an object (evaluating 'nombre.replace')
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2021-09-21T08:55:19.683Z] Session [a4ee37f0-1ab9-11ec-89ff-851b1eab404b] - page.onError - stack:
+  abrir_twitter (https://observatoriolegislativo.ec/static/js/asambleistas.js?v=3:24)
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2021-09-21T08:55:19.689Z] Session [a4ee37f0-1ab9-11ec-89ff-851b1eab404b] - page.onError - msg: ReferenceError: Can't find variable: Asambleistas
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2021-09-21T08:55:19.690Z] Session [a4ee37f0-1ab9-11ec-89ff-851b1eab404b] - page.onError - stack:
+  global code (https://observatoriolegislativo.ec/composicion/asambleistas/pedro-anibal-zapata-rumipamba/:88)
+
+  phantomjs://platform/console++.js:263 in error

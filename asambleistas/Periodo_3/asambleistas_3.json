@@ -1,0 +1,1224 @@
+[
+  {
+    "nombre": "Joel Eduardo Abad Verdugo",
+    "tipo": "Provincial",
+    "provincia": "Cañar",
+    "partido": "Pachakutik",
+    "suplente": [
+      "Lucíla Saeteros"
+    ]
+  },
+  {
+    "nombre": "Jorge Farah Abedrabbo García",
+    "tipo": "Provincial",
+    "provincia": "Bolívar",
+    "partido": "Alianza SUMA - Partido Social Cristiano",
+    "suplente": []
+  },
+  {
+    "nombre": "Joao Aarón Acuña Figueroa",
+    "tipo": "Provincial",
+    "provincia": "Manabí Distrito 2",
+    "partido": "Alianza UNES",
+    "suplente": [
+      "Gema Moreira"
+    ]
+  },
+  {
+    "nombre": "Jose Clemente Agualsaca Guamán",
+    "tipo": "Nacional",
+    "provincia": "Nacional",
+    "partido": "Alianza UNES",
+    "suplente": [
+      "Nuria Butiña"
+    ]
+  },
+  {
+    "nombre": "Pamela Alejandra Aguirre Zambonino",
+    "tipo": "Provincial",
+    "provincia": "Imbabura",
+    "partido": "Alianza UNES",
+    "suplente": []
+  },
+  {
+    "nombre": "María Vanessa Álava Moreira",
+    "tipo": "Provincial",
+    "provincia": "Manabí Distrito 1",
+    "partido": "Alianza UNES",
+    "suplente": [
+      "Yalina Coppiano"
+    ]
+  },
+  {
+    "nombre": "Ronny Xavier Aleaga Santos",
+    "tipo": "Provincial",
+    "provincia": "Guayas Distrito 2",
+    "partido": "Alianza UNES",
+    "suplente": [
+      "Emily Vera"
+    ]
+  },
+  {
+    "nombre": "Luis Fernando Almeida Moran",
+    "tipo": "Provincial",
+    "provincia": "Guayas Distrito 1",
+    "partido": "Alianza Partido Social Cristiano - Madera de Guerrero",
+    "suplente": [
+      "Jenny Almeida"
+    ]
+  },
+  {
+    "nombre": "Marcos Humberto Alvarado Espinel",
+    "tipo": "Provincial",
+    "provincia": "Los Ríos",
+    "partido": "Alianza UNES",
+    "suplente": [
+      "Monica Salazar"
+    ]
+  },
+  {
+    "nombre": "Ferdinan Arturo Álvarez Zambrano",
+    "tipo": "Provincial",
+    "provincia": "Guayas Distrito 3",
+    "partido": "Alianza UNES",
+    "suplente": [
+      "Maria Cecilia Herrera"
+    ]
+  },
+  {
+    "nombre": "Wilma Piedad Andrade Muñoz",
+    "tipo": "Nacional",
+    "provincia": "Nacional",
+    "partido": "Partido Izquierda Democrática",
+    "suplente": [
+      "Sebastián Ibarra"
+    ]
+  },
+  {
+    "nombre": "María del Carmen Aquino Merchán",
+    "tipo": "Provincial",
+    "provincia": "Santa Elena",
+    "partido": "Alianza UNETE",
+    "suplente": [
+      "Roberto Lucas"
+    ]
+  },
+  {
+    "nombre": "Alexandra Manuela Arce Pluas",
+    "tipo": "Provincial",
+    "provincia": "Guayas Distrito 3",
+    "partido": "Alianza UNES",
+    "suplente": [
+      "Walter Gómez"
+    ]
+  },
+  {
+    "nombre": "Nathalie  Andrea Arias Arias",
+    "tipo": "Nacional",
+    "provincia": "Nacional",
+    "partido": "CREO",
+    "suplente": []
+  },
+  {
+    "nombre": "María Fernanda Astudillo Barrezueta",
+    "tipo": "Provincial",
+    "provincia": "El Oro",
+    "partido": "Alianza UNES",
+    "suplente": [
+      "Jorge Quevedo"
+    ]
+  },
+  {
+    "nombre": "Dalton Emory Bacigalupo Buenaventura",
+    "tipo": "Provincial",
+    "provincia": "Cotopaxi",
+    "partido": "Partido Izquierda Democrática",
+    "suplente": [
+      "Sherlín Pacheco"
+    ]
+  },
+  {
+    "nombre": "Lenin Daniel Barreto Zambrano",
+    "tipo": "Provincial",
+    "provincia": "Manabí Distrito 1",
+    "partido": "Alianza UNES",
+    "suplente": [
+      "Manuel Panezo"
+    ]
+  },
+  {
+    "nombre": "José Fernando Cabascango Collaguazo",
+    "tipo": "Provincial",
+    "provincia": "Pichincha Distrito 3",
+    "partido": "Pachakutik",
+    "suplente": [
+      "Sandra Montenegro"
+    ]
+  },
+  {
+    "nombre": "Janeth Paola Cabezas Castillo",
+    "tipo": "Nacional",
+    "provincia": "Nacional",
+    "partido": "Alianza UNES",
+    "suplente": [
+      "Mateo Flores"
+    ]
+  },
+  {
+    "nombre": "Marlon Wulester Cadena Carrera",
+    "tipo": "Provincial",
+    "provincia": "Pichincha Distrito 3",
+    "partido": "Partido Izquierda Democrática",
+    "suplente": [
+      "Pujaña Pazmiño"
+    ]
+  },
+  {
+    "nombre": "Efrén Noé Calapucha Grefa",
+    "tipo": "Provincial",
+    "provincia": "Pastaza",
+    "partido": "Pachakutik",
+    "suplente": [
+      "Narcisa Medina"
+    ]
+  },
+  {
+    "nombre": "Peter Fernando Calo Caisalitin",
+    "tipo": "Provincial",
+    "provincia": "Cotopaxi",
+    "partido": "Pachakutik",
+    "suplente": [
+      "Pilar Llano"
+    ]
+  },
+  {
+    "nombre": "Rina Asunción Campain Brambilla",
+    "tipo": "Provincial",
+    "provincia": "Esmeraldas",
+    "partido": "CREO",
+    "suplente": [
+      "Carlos David Gallardo Cheme"
+    ]
+  },
+  {
+    "nombre": "Jessica Carolina Castillo Cárdenas",
+    "tipo": "Provincial",
+    "provincia": "Pichincha Distrito 2",
+    "partido": "Pachakutik",
+    "suplente": [
+      "Alexander Hidalgo"
+    ]
+  },
+  {
+    "nombre": "Fernando Enrique Cedeño Rivadeneria",
+    "tipo": "Provincial",
+    "provincia": "Manabí Distrito 2",
+    "partido": "Alianza UNES",
+    "suplente": [
+      "María Bustamante"
+    ]
+  },
+  {
+    "nombre": "Rosa Elizabeth Cerda Cerda",
+    "tipo": "Provincial",
+    "provincia": "Napo",
+    "partido": "Pachakutik",
+    "suplente": [
+      "Alex Pérez"
+    ]
+  },
+  {
+    "nombre": "Luis Patricio Cervantes Villalba",
+    "tipo": "Provincial",
+    "provincia": "Imbabura",
+    "partido": "CREO",
+    "suplente": [
+      "Abelardo Chachalo"
+    ]
+  },
+  {
+    "nombre": "Omar Vicente Cevallos Peña",
+    "tipo": "Provincial",
+    "provincia": "Guayas Distrito 4",
+    "partido": "Independiente",
+    "suplente": []
+  },
+  {
+    "nombre": "Marjorie de Los Ángeles Chávez Macías",
+    "tipo": "Provincial",
+    "provincia": "Pichincha Distrito 1",
+    "partido": "Partido Social Cristiano",
+    "suplente": [
+      "Miguel Angel Pavon"
+    ]
+  },
+  {
+    "nombre": "José Ricardo Chávez Valencia",
+    "tipo": "Provincial",
+    "provincia": "Santo Domingo de los Tsáchilas",
+    "partido": "Alianza UNES",
+    "suplente": [
+      "Felicia Barros"
+    ]
+  },
+  {
+    "nombre": "Segundo José Chimbo Chimbo",
+    "tipo": "Provincial",
+    "provincia": "Bolívar",
+    "partido": "Pachakutik",
+    "suplente": [
+      "Erika Rivadeneira"
+    ]
+  },
+  {
+    "nombre": "Guido Alberto Chiriboga High",
+    "tipo": "Provincial",
+    "provincia": "Guayas Distrito 3",
+    "partido": "CREO",
+    "suplente": [
+      [
+        "María Isabel Intriago",
+        " Arianna Stephany Burgos Carrera"
+      ]
+    ]
+  },
+  {
+    "nombre": "José Celestino Chumpi Jua",
+    "tipo": "Provincial",
+    "provincia": "Morona Santiago",
+    "partido": "Pachakutik",
+    "suplente": [
+      "Verónica Lituma"
+    ]
+  },
+  {
+    "nombre": "Ana Belén Cordero Cuesta",
+    "tipo": "Nacional",
+    "provincia": "Nacional",
+    "partido": "CREO",
+    "suplente": []
+  },
+  {
+    "nombre": "Comps Pascacio Cordova Díaz",
+    "tipo": "Provincial",
+    "provincia": "Sucumbíos",
+    "partido": "Alianza UNES",
+    "suplente": [
+      "Andrea Girón"
+    ]
+  },
+  {
+    "nombre": "Raisa Irina Corral Alava",
+    "tipo": "Nacional",
+    "provincia": "Nacional",
+    "partido": "Alianza UNES",
+    "suplente": [
+      "Victor Medina"
+    ]
+  },
+  {
+    "nombre": "Pierina Sara Mercedes Correa Delgado",
+    "tipo": "Nacional",
+    "provincia": "Nacional",
+    "partido": "Alianza UNES",
+    "suplente": [
+      "Carlos Acosta"
+    ]
+  },
+  {
+    "nombre": "Hugo Benjamin Cruz Andrade",
+    "tipo": "Provincial",
+    "provincia": "Manabí Distrito 1",
+    "partido": "Movimiento Construye",
+    "suplente": [
+      "Oscar Arcentales"
+    ]
+  },
+  {
+    "nombre": "Roberto Emilio Cuero Medina",
+    "tipo": "Provincial",
+    "provincia": "Guayas Distrito 1",
+    "partido": "Alianza UNES",
+    "suplente": [
+      "Blanca López"
+    ]
+  },
+  {
+    "nombre": "Esther Adelina Cuesta Santana",
+    "tipo": "Provincial",
+    "provincia": "Europa, Asia y Oceanía",
+    "partido": "Alianza UNES",
+    "suplente": [
+      "José Kaviedes"
+    ]
+  },
+  {
+    "nombre": "Mariano Curicama Guamán",
+    "tipo": "Provincial",
+    "provincia": "Chimborazo",
+    "partido": "MINGA",
+    "suplente": [
+      "Vanessa Estrada"
+    ]
+  },
+  {
+    "nombre": "Victoria Tatiana Desintonio Malave",
+    "tipo": "Provincial",
+    "provincia": "Guayas Distrito 2",
+    "partido": "Alianza UNES",
+    "suplente": [
+      [
+        "Jorge Desintonio",
+        " Jorge Erwin Vélez Vélez"
+      ]
+    ]
+  },
+  {
+    "nombre": "María Soledad Diab Aguilar",
+    "tipo": "Provincial",
+    "provincia": "Guayas Distrito 3",
+    "partido": "Alianza Partido Social Cristiano - Madera de Guerrero",
+    "suplente": []
+  },
+  {
+    "nombre": "Isabel María Enrríquez Jaya",
+    "tipo": "Provincial",
+    "provincia": "Zamora Chinchipe",
+    "partido": "Alianza por la Dignidad de Zamora Chinchipe",
+    "suplente": [
+      "Miguel Sarango"
+    ]
+  },
+  {
+    "nombre": "Diego Fernando Esparza Aguirre",
+    "tipo": "Provincial",
+    "provincia": "Zamora Chinchipe",
+    "partido": "Alianza Honestidad",
+    "suplente": [
+      "Daysi Jiménez"
+    ]
+  },
+  {
+    "nombre": "Eugenia Sofía Espín Reyes",
+    "tipo": "Provincial",
+    "provincia": "Guayas Distrito 1",
+    "partido": "Alianza UNES",
+    "suplente": [
+      [
+        "Juan Carlos Pulido",
+        " Francisco Jose Estarellas Solis"
+      ]
+    ]
+  },
+  {
+    "nombre": "Rodrigo Olmedo Fajardo Campoverde",
+    "tipo": "Provincial",
+    "provincia": "Azuay",
+    "partido": "Partido Izquierda Democrática",
+    "suplente": [
+      "Gissela Cañar Cruz"
+    ]
+  },
+  {
+    "nombre": "Pedro Carlos Falquez Batallas",
+    "tipo": "Provincial",
+    "provincia": "El Oro",
+    "partido": "Partido Social Cristiano",
+    "suplente": [
+      "Mercedes Serrano"
+    ]
+  },
+  {
+    "nombre": "Dina Maribel Farinango Quilumbaquín",
+    "tipo": "Provincial",
+    "provincia": "Pichincha Distrito 4",
+    "partido": "Pachakutik",
+    "suplente": [
+      "Vicente Ludeña"
+    ]
+  },
+  {
+    "nombre": "Juan Fernando Flores Arroyo",
+    "tipo": "Represante Extranjero",
+    "provincia": "América Latina, El Caribe y África",
+    "partido": "CREO",
+    "suplente": [
+      "Carla Cruz"
+    ]
+  },
+  {
+    "nombre": "Vanessa Lorena Freire Vergara",
+    "tipo": "Provincial",
+    "provincia": "Los Ríos",
+    "partido": "Alianza UNES",
+    "suplente": [
+      "Alexis Matute"
+    ]
+  },
+  {
+    "nombre": "Edwin Ramiro Frias Borja",
+    "tipo": "Provincial",
+    "provincia": "Tungurahua",
+    "partido": "Partido Izquierda Democrática",
+    "suplente": [
+      "Sebastián Romero"
+    ]
+  },
+  {
+    "nombre": "Luisa Magdalena González Alcívar",
+    "tipo": "Provincial",
+    "provincia": "Manabí Distrito 1",
+    "partido": "Alianza UNES",
+    "suplente": [
+      "Diana Avellán"
+    ]
+  },
+  {
+    "nombre": "Ronal Eduardo González Valero",
+    "tipo": "Provincial",
+    "provincia": "Los Ríos",
+    "partido": "Alianza UNES",
+    "suplente": [
+      "Paola Macías"
+    ]
+  },
+  {
+    "nombre": "Augusto Alejandro Guamán Rivera",
+    "tipo": "Provincial",
+    "provincia": "Sucumbíos",
+    "partido": "Movimiento Acuerdo Ecuatoriano",
+    "suplente": [
+      "Pamela Mera"
+    ]
+  },
+  {
+    "nombre": "Ludvia Yeseña Guamaní Vásquez",
+    "tipo": "Provincial",
+    "provincia": "Pichincha Distrito 4",
+    "partido": "Partido Izquierda Democrática",
+    "suplente": [
+      "Jorge Ayala"
+    ]
+  },
+  {
+    "nombre": "Amparo Rocío Guanoluisa Farinango",
+    "tipo": "Provincial",
+    "provincia": "Pichincha Distrito 2",
+    "partido": "Partido Izquierda Democrática",
+    "suplente": [
+      "Luis Reinoso"
+    ]
+  },
+  {
+    "nombre": "Ana Cecilia Herrera Gómez",
+    "tipo": "Provincial",
+    "provincia": "Cotopaxi",
+    "partido": "Alianza UNES",
+    "suplente": [
+      "Franklin Arce"
+    ]
+  },
+  {
+    "nombre": "Marcela Priscila Holguín Naranjo",
+    "tipo": "Provincial",
+    "provincia": "Pichincha Distrito 1",
+    "partido": "Alianza UNES",
+    "suplente": [
+      "Jorge Ruiz"
+    ]
+  },
+  {
+    "nombre": "Washington Elías Jachero Robalino",
+    "tipo": "Provincial",
+    "provincia": "Pastaza",
+    "partido": "Independiente",
+    "suplente": [
+      "Daniela Vallejo"
+    ]
+  },
+  {
+    "nombre": "Cesar Alejandro Jaramillo Gómez",
+    "tipo": "Provincial",
+    "provincia": "Pichincha Distrito 1",
+    "partido": "Partido Izquierda Democrática",
+    "suplente": [
+      "Veronica Carillo"
+    ]
+  },
+  {
+    "nombre": "Fausto Alejandro Jarrín Terán",
+    "tipo": "Provincial",
+    "provincia": "Pichincha Distrito 4",
+    "partido": "Alianza UNES",
+    "suplente": [
+      "Gissela Garzón"
+    ]
+  },
+  {
+    "nombre": "Francisco Eduardo Jiménez Sánchez",
+    "tipo": "Provincial",
+    "provincia": "Guayas Distrito 2",
+    "partido": "CREO",
+    "suplente": [
+      "Briana Villao"
+    ]
+  },
+  {
+    "nombre": "Bella Daniela Jiménez Torres",
+    "tipo": "Provincial",
+    "provincia": "Guayas Distrito 1",
+    "partido": "Partido Izquierda Democrática",
+    "suplente": []
+  },
+  {
+    "nombre": "Xavier Andrés Jurado Bedran",
+    "tipo": "Provincial",
+    "provincia": "Guayas Distrito 4",
+    "partido": "Alianza UNES",
+    "suplente": [
+      "Eleana Romero"
+    ]
+  },
+  {
+    "nombre": "Henry Fabián Kronfle Kozhaya",
+    "tipo": "Nacional",
+    "provincia": "Nacional",
+    "partido": "Partido Social Cristiano",
+    "suplente": [
+      "Maria de Lourdes Alarcon Campuzano"
+    ]
+  },
+  {
+    "nombre": "Lenin Jose Lara Rivadeneira",
+    "tipo": "Provincial",
+    "provincia": "Esmeraldas",
+    "partido": "Centro Democrático",
+    "suplente": [
+      "Lupe Pinto"
+    ]
+  },
+  {
+    "nombre": "Francisco Javier León Flores",
+    "tipo": "Provincial",
+    "provincia": "Guayas Distrito 4",
+    "partido": "Independiente",
+    "suplente": [
+      "Emilia Ruiz"
+    ]
+  },
+  {
+    "nombre": "Juan Cristóbal Lloret Valdivieso",
+    "tipo": "Provincial",
+    "provincia": "Azuay",
+    "partido": "Alianza UNES",
+    "suplente": [
+      "Fernanda Mendez"
+    ]
+  },
+  {
+    "nombre": "Esperanza Guadalupe Llori Abarca",
+    "tipo": "Provincial",
+    "provincia": "Orellana",
+    "partido": "Alianza Renace La Esperanza",
+    "suplente": [
+      "Stalin Aguirre"
+    ]
+  },
+  {
+    "nombre": "Rafael Lucero Sisa",
+    "tipo": "Provincial",
+    "provincia": "Chimborazo",
+    "partido": "Pachakutik",
+    "suplente": [
+      "Dennis Acaro"
+    ]
+  },
+  {
+    "nombre": "Blasco Remigio Luna Arévalo",
+    "tipo": "Provincial",
+    "provincia": "Cañar",
+    "partido": "Alianza UNES",
+    "suplente": [
+      "Cristina Buñay"
+    ]
+  },
+  {
+    "nombre": "Angel Salvador Maita Zapata",
+    "tipo": "Represante Extranjero",
+    "provincia": "EEUU y Canadá",
+    "partido": "Pachakutik",
+    "suplente": [
+      "Silvia Capuz"
+    ]
+  },
+  {
+    "nombre": "Byron Vinicio Maldonado Ontaneda",
+    "tipo": "Provincial",
+    "provincia": "Loja",
+    "partido": "CREO",
+    "suplente": [
+      "Mercedes Correa"
+    ]
+  },
+  {
+    "nombre": "Luis Aníbal Marcillo Ruiz",
+    "tipo": "Provincial",
+    "provincia": "Imbabura",
+    "partido": "Partido Izquierda Democrática",
+    "suplente": []
+  },
+  {
+    "nombre": "Gustavo Enrique Mateus Acosta",
+    "tipo": "Represante Extranjero",
+    "provincia": "Europa, Asia y Oceanía",
+    "partido": "Alianza UNES",
+    "suplente": [
+      "Margarita Del Cisne"
+    ]
+  },
+  {
+    "nombre": "Rosa Belén Mayorga Tapia",
+    "tipo": "Provincial",
+    "provincia": "Tungurahua",
+    "partido": "Alianza UNES",
+    "suplente": [
+      "Carmen Andagana"
+    ]
+  },
+  {
+    "nombre": "Manuel Asunción Medina Quizhpe",
+    "tipo": "Provincial",
+    "provincia": "Loja",
+    "partido": "Minka por la Vida",
+    "suplente": [
+      "Alexandra Granda"
+    ]
+  },
+  {
+    "nombre": "Eduardo Israel Mendoza Hurtado",
+    "tipo": "Provincial",
+    "provincia": "Los Ríos",
+    "partido": "Partido Político Avanza",
+    "suplente": [
+      [
+        "Verónica Herrera",
+        " Georgina Verónica Herrera Cedeño"
+      ]
+    ]
+  },
+  {
+    "nombre": "Patricia Monserrat Mendoza Jiménez",
+    "tipo": "Provincial",
+    "provincia": "Esmeraldas",
+    "partido": "Centro Democrático",
+    "suplente": [
+      [
+        "Edison Robinzon",
+        " Pavel Silfrido Estupiñán George"
+      ]
+    ]
+  },
+  {
+    "nombre": "Lenin Francisco Mera Cedeño",
+    "tipo": "Provincial",
+    "provincia": "Santa Elena",
+    "partido": "Alianza UNES",
+    "suplente": [
+      "Daysee Alfonso"
+    ]
+  },
+  {
+    "nombre": "Lyne Katiuska Miranda Giler",
+    "tipo": "Provincial",
+    "provincia": "Manabí Distrito 2",
+    "partido": "Alianza UNES",
+    "suplente": [
+      "Tomas Burgos"
+    ]
+  },
+  {
+    "nombre": "Gissella Cecibel Molina Álvarez",
+    "tipo": "Provincial",
+    "provincia": "Cotopaxi",
+    "partido": "Pachakutik",
+    "suplente": [
+      "Efraín Chiguano"
+    ]
+  },
+  {
+    "nombre": "Marcos Raúl Luis Molina Jurado",
+    "tipo": "Provincial",
+    "provincia": "Guayas Distrito 2",
+    "partido": "Partido Izquierda Democrática",
+    "suplente": []
+  },
+  {
+    "nombre": "María Gabriela Molina Menéndez",
+    "tipo": "Provincial",
+    "provincia": "Manabí Distrito 2",
+    "partido": "Alianza UNES",
+    "suplente": [
+      "Francisco Hidalgo"
+    ]
+  },
+  {
+    "nombre": "Johanna Nicole Moreira Córdova",
+    "tipo": "Provincial",
+    "provincia": "El Oro",
+    "partido": "Partido Izquierda Democrática",
+    "suplente": [
+      "Joseph Villacreses"
+    ]
+  },
+  {
+    "nombre": "Christian Pabel Muñoz López",
+    "tipo": "Provincial",
+    "provincia": "Pichincha Distrito 3",
+    "partido": "Alianza UNES",
+    "suplente": [
+      "Jahiren Noriega"
+    ]
+  },
+  {
+    "nombre": "Ramiro Vladimir Narváez Garzón",
+    "tipo": "Provincial",
+    "provincia": "Carchi",
+    "partido": "Partido Izquierda Democrática",
+    "suplente": [
+      "Monica Ati"
+    ]
+  },
+  {
+    "nombre": "Daniel Roy-Gilchrist Noboa Azin",
+    "tipo": "Provincial",
+    "provincia": "Santa Elena",
+    "partido": "Movimiento Ecuatoriano Unido",
+    "suplente": [
+      "Ana León"
+    ]
+  },
+  {
+    "nombre": "Silvia Patricia Nuñez Ramos",
+    "tipo": "Provincial",
+    "provincia": "Chimborazo",
+    "partido": "Alianza UNES",
+    "suplente": [
+      "Antonio Paredes"
+    ]
+  },
+  {
+    "nombre": "Diego Hernán Ordoñez Guerrero",
+    "tipo": "Provincial",
+    "provincia": "Pichincha Distrito 3",
+    "partido": "Alianza CREO - ADE",
+    "suplente": [
+      "Blanca Sacancela"
+    ]
+  },
+  {
+    "nombre": "Javier Eduardo Ortiz Jarrín",
+    "tipo": "Provincial",
+    "provincia": "Esmeraldas",
+    "partido": "Partido Social Cristiano",
+    "suplente": [
+      [
+        "Alito Pinto",
+        " Fanny Alexandra Pinto Tuarez"
+      ]
+    ]
+  },
+  {
+    "nombre": "Amada María Ortiz Olaya",
+    "tipo": "Provincial",
+    "provincia": "Santo Domingo de los Tsáchilas",
+    "partido": "Independiente",
+    "suplente": []
+  },
+  {
+    "nombre": "Johanna Cecibel Ortiz Villavicencio",
+    "tipo": "Provincial",
+    "provincia": "Loja",
+    "partido": "Alianza UNES",
+    "suplente": [
+      "Juan Carlos Torres"
+    ]
+  },
+  {
+    "nombre": "Mónica Estefanía Palacios Zambrano",
+    "tipo": "Represante Extranjero",
+    "provincia": "EEUU y Canadá",
+    "partido": "Alianza UNES",
+    "suplente": [
+      "Jorge Miranda"
+    ]
+  },
+  {
+    "nombre": "Dallyana Marianela Passailaigue Manosalvas",
+    "tipo": "Provincial",
+    "provincia": "Guayas Distrito 2",
+    "partido": "Alianza Partido Social Cristiano - Madera de Guerrero",
+    "suplente": [
+      [
+        "Eriberto Rafael Llamuca Cepeda",
+        " Roberto Antonio Gilbert Febres Cordero"
+      ]
+    ]
+  },
+  {
+    "nombre": "Mireya Katerine Pazmiño Arregui",
+    "tipo": "Provincial",
+    "provincia": "Bolívar",
+    "partido": "Pachakutik",
+    "suplente": [
+      "Luis Guamba"
+    ]
+  },
+  {
+    "nombre": "Darwin Stalin Pereira Chamba",
+    "tipo": "Provincial",
+    "provincia": "El Oro",
+    "partido": "Pachakutik",
+    "suplente": [
+      "María Carreño"
+    ]
+  },
+  {
+    "nombre": "Diana Elizabeth Pesantez Salto",
+    "tipo": "Provincial",
+    "provincia": "Azuay",
+    "partido": "Azuay Primero",
+    "suplente": []
+  },
+  {
+    "nombre": "Jorge Washington Pinto Dávila",
+    "tipo": "Provincial",
+    "provincia": "Pichincha Distrito 2",
+    "partido": "Alianza CREO - ADE",
+    "suplente": [
+      "Maria Belen Alvarez"
+    ]
+  },
+  {
+    "nombre": "Lucia Shadira Placencia Tapia",
+    "tipo": "Provincial",
+    "provincia": "Loja",
+    "partido": "Partido Izquierda Democrática",
+    "suplente": [
+      "Dario Sozoranga"
+    ]
+  },
+  {
+    "nombre": "María José Plaza Gómez De La Torre",
+    "tipo": "Provincial",
+    "provincia": "Pichincha Distrito 1",
+    "partido": "Alianza CREO - ADE",
+    "suplente": [
+      "Raul Marcelo Pozo"
+    ]
+  },
+  {
+    "nombre": "Nelly Zolanda Pluas Arias",
+    "tipo": "Provincial",
+    "provincia": "Guayas Distrito 4",
+    "partido": "Alianza Partido Social Cristiano - Madera de Guerrero",
+    "suplente": [
+      "Edson Cristóbal Alvarado López"
+    ]
+  },
+  {
+    "nombre": "Edgar Patricio Quezada Patiño",
+    "tipo": "Provincial",
+    "provincia": "Sucumbíos",
+    "partido": "Pachakutik",
+    "suplente": []
+  },
+  {
+    "nombre": "Salvador Quishpe Lozano",
+    "tipo": "Nacional",
+    "provincia": "Nacional",
+    "partido": "Pachakutik",
+    "suplente": [
+      "Sonia Robles"
+    ]
+  },
+  {
+    "nombre": "Ana María Raffo Guevara",
+    "tipo": "Provincial",
+    "provincia": "Guayas Distrito 4",
+    "partido": "Alianza UNES",
+    "suplente": [
+      "Kelber Bermudez"
+    ]
+  },
+  {
+    "nombre": "Eckenner Reader Recalde Álava",
+    "tipo": "Provincial",
+    "provincia": "Pichincha Distrito 2",
+    "partido": "Partido Izquierda Democrática",
+    "suplente": [
+      "Karina Suasnavas"
+    ]
+  },
+  {
+    "nombre": "César Eduardo Rohon Hervas",
+    "tipo": "Provincial",
+    "provincia": "Guayas Distrito 3",
+    "partido": "Independiente",
+    "suplente": [
+      "Elina Narváez"
+    ]
+  },
+  {
+    "nombre": "Fredy Ramiro Rojas Cuenca",
+    "tipo": "Provincial",
+    "provincia": "Galápagos",
+    "partido": "CREO",
+    "suplente": []
+  },
+  {
+    "nombre": "Mario Fernando Ruiz Jácome",
+    "tipo": "Provincial",
+    "provincia": "Imbabura",
+    "partido": "Pachakutik",
+    "suplente": [
+      "Rosa Carlosama"
+    ]
+  },
+  {
+    "nombre": "Bertha Patricia Sanchez Gallegos",
+    "tipo": "Nacional",
+    "provincia": "Nacional",
+    "partido": "Pachakutik",
+    "suplente": [
+      "Jorge Raza"
+    ]
+  },
+  {
+    "nombre": "Mariuxi Cleopatra Sánchez Sarango",
+    "tipo": "Provincial",
+    "provincia": "Orellana",
+    "partido": "Alianza UNES",
+    "suplente": [
+      "Wilson Paredes"
+    ]
+  },
+  {
+    "nombre": "Sandra Sofía Sanchez Urgiles",
+    "tipo": "Provincial",
+    "provincia": "Azuay",
+    "partido": "Minka por la Vida",
+    "suplente": [
+      "Jhonny Marcelo Tapia Mogrovejo"
+    ]
+  },
+  {
+    "nombre": "Xavier Adolfo Santos Sabando",
+    "tipo": "Provincial",
+    "provincia": "Manabí Distrito 2",
+    "partido": "Partido Izquierda Democrática",
+    "suplente": [
+      "Johanna Monserrate"
+    ]
+  },
+  {
+    "nombre": "Javier Virgilio Saquicela Espinoza",
+    "tipo": "Provincial",
+    "provincia": "Cañar",
+    "partido": "Movimiento Democracia Sí",
+    "suplente": [
+      "Tatiana Borja"
+    ]
+  },
+  {
+    "nombre": "Luis Bruno Segovia Mejía",
+    "tipo": "Provincial",
+    "provincia": "Azuay",
+    "partido": "Minka por la Vida",
+    "suplente": [
+      "Fernanda Orellana"
+    ]
+  },
+  {
+    "nombre": "Johnny Enrique Terán Barragán",
+    "tipo": "Provincial",
+    "provincia": "Los Ríos",
+    "partido": "Partido Social Cristiano",
+    "suplente": [
+      "Alisson Haon"
+    ]
+  },
+  {
+    "nombre": "Luis Esteban Torres Cobo",
+    "tipo": "Provincial",
+    "provincia": "Tungurahua",
+    "partido": "Alianza Partido Social Cristiano - Tiempo de Cambio",
+    "suplente": [
+      "Felipe Bonilla"
+    ]
+  },
+  {
+    "nombre": "Marco Stalin Troya Fuertes",
+    "tipo": "Provincial",
+    "provincia": "Los Ríos",
+    "partido": "Movimiento Ecuatoriano Unido",
+    "suplente": [
+      "Juan Carlos Troya"
+    ]
+  },
+  {
+    "nombre": "Ricardo Ulcuango Farinango",
+    "tipo": "Nacional",
+    "provincia": "Nacional",
+    "partido": "Alianza UNES",
+    "suplente": [
+      "Evelyn Zambrano"
+    ]
+  },
+  {
+    "nombre": "Jhajaira Estefanía Urresta Guzmán",
+    "tipo": "Provincial",
+    "provincia": "Pichincha Distrito 2",
+    "partido": "Alianza UNES",
+    "suplente": [
+      "Eduardo Jiménez"
+    ]
+  },
+  {
+    "nombre": "José Luis Vallejo Ayala",
+    "tipo": "Provincial",
+    "provincia": "Carchi",
+    "partido": "Alianza UNES",
+    "suplente": [
+      "Yolanda Obando"
+    ]
+  },
+  {
+    "nombre": "Ricardo Xavier Vanegas Cortazar",
+    "tipo": "Nacional",
+    "provincia": "Nacional",
+    "partido": "Pachakutik",
+    "suplente": [
+      "Kimberly Mishelle Castillo Cárdenas"
+    ]
+  },
+  {
+    "nombre": "Washington Julio Darwin Varela Salazar",
+    "tipo": "Provincial",
+    "provincia": "Napo",
+    "partido": "Alianza Partido Sociedad Patriotica -Antisuyo Ushito",
+    "suplente": [
+      "Andrea Pardo"
+    ]
+  },
+  {
+    "nombre": "Ligia del Consuelo Vega Olmedo",
+    "tipo": "Provincial",
+    "provincia": "Morona Santiago",
+    "partido": "Pachakutik",
+    "suplente": [
+      "Cristian Waam"
+    ]
+  },
+  {
+    "nombre": "Pedro Ramiro Velasco Erazo",
+    "tipo": "Provincial",
+    "provincia": "Carchi",
+    "partido": "Partido Político Avanza",
+    "suplente": [
+      "Trinidad Espinoza"
+    ]
+  },
+  {
+    "nombre": "Rebeca Viviana Veloz Ramírez",
+    "tipo": "Provincial",
+    "provincia": "Santo Domingo de los Tsáchilas",
+    "partido": "Alianza UNES",
+    "suplente": [
+      "Emerson Hinojosa"
+    ]
+  },
+  {
+    "nombre": "Fernando Alcibiades Villavicencio Valencia",
+    "tipo": "Nacional",
+    "provincia": "Nacional",
+    "partido": "Alianza Honestidad",
+    "suplente": [
+      "Sara Velastegui"
+    ]
+  },
+  {
+    "nombre": "John Henry Vinueza Salinas",
+    "tipo": "Provincial",
+    "provincia": "Chimborazo",
+    "partido": "Unión Ecuatoriana",
+    "suplente": [
+      "Deysi Yuquilema"
+    ]
+  },
+  {
+    "nombre": "Nathalie Maria Viteri Jimenez",
+    "tipo": "Nacional",
+    "provincia": "Nacional",
+    "partido": "Partido Social Cristiano",
+    "suplente": []
+  },
+  {
+    "nombre": "Geraldine Weber Moreno",
+    "tipo": "Provincial",
+    "provincia": "Guayas Distrito 1",
+    "partido": "Alianza Partido Social Cristiano - Madera de Guerrero",
+    "suplente": []
+  },
+  {
+    "nombre": "Cristian Omar Yucailla Yucailla",
+    "tipo": "Provincial",
+    "provincia": "Tungurahua",
+    "partido": "Pachakutik",
+    "suplente": [
+      "Cesar Freire"
+    ]
+  },
+  {
+    "nombre": "Gruber Cesario Zambrano Azua",
+    "tipo": "Provincial",
+    "provincia": "Santo Domingo de los Tsáchilas",
+    "partido": "Independiente",
+    "suplente": [
+      "Shyrabel Loor"
+    ]
+  },
+  {
+    "nombre": "Carlos Victor Zambrano Landin",
+    "tipo": "Provincial",
+    "provincia": "El Oro",
+    "partido": "Alianza UNES",
+    "suplente": [
+      "Sara Cabrera"
+    ]
+  },
+  {
+    "nombre": "Eitel James Zambrano Ortiz",
+    "tipo": "Nacional",
+    "provincia": "Nacional",
+    "partido": "Independiente",
+    "suplente": [
+      "Teresa Velásquez"
+    ]
+  },
+  {
+    "nombre": "Eduardo Mauricio Zambrano Valle",
+    "tipo": "Represante Extranjero",
+    "provincia": "América Latina, El Caribe y África",
+    "partido": "Alianza UNES",
+    "suplente": [
+      "Xiomara Alay"
+    ]
+  },
+  {
+    "nombre": "Pedro Aníbal Zapata Rumipamba",
+    "tipo": "Provincial",
+    "provincia": "Galápagos",
+    "partido": "Partido Social Cristiano",
+    "suplente": []
+  }
+]

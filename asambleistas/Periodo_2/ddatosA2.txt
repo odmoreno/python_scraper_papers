@@ -1,0 +1,7 @@
+Diccionario de datos 
+
+Nombre del archivo : asambleistas_2.json
+Descripción : Diccionario de datos de los asambleistas del periodo 2 (Pleno 2017 - 2021)
+
+
+

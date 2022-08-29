@@ -1,0 +1,3988 @@
+[
+  {
+    "nombre": "Raúl Eugenio Abad Vélez",
+    "partido": "Movimiento Alianza PAIS",
+    "provincia": "Cañar",
+    "tipo": "Provincial",
+    "genero": "Masculino",
+    "profesion": "Profesor",
+    "telefono": "23991689-1690",
+    "blog": "http://www.asambleanacional.gob.ec/blogs/raulabad",
+    "suplente": [ "María Mercedes Guamán Mayancela" ],
+    "proyectos de ley presentados": "1",
+    "observaciones a proyectos de ley": "nan",
+    "pedidos de informacion": "nan",
+    "redes": [
+      {
+        "email": "raul.abad@asambleanacional.gob.ec",
+        "twitter": "https://twitter.com/raulabadvelez"
+      }
+    ],
+    "votaciones": {
+      "asistencias": "456",
+      "suplentes": "30",
+      "ausencias": "43"
+    },
+    "comisiones": [{
+      "comision": "Comisión Permanente de Educación, Cultura y Ciencia y Tecnología",
+      "rol": "Presidente"
+    }]
+  },
+  {
+    "nombre": "Pepe Luis Acacho González",
+    "partido": "Movimiento de Unidad Plurinacional Pachakutik",
+    "provincia": "Morona Santiago",
+    "tipo": "Provincial",
+    "genero": "Masculino",
+    "profesion": "Licenciado en Ciencias de la Educación",
+    "telefono": "23991539-1540",
+    "blog": "http://www.asambleanacional.gob.ec/blogs/pepeacacho",
+    "suplente": [ "Ulbio Efren Cárdenas Saquicela" ],
+    "proyectos de ley presentados": "3",
+    "observaciones a proyectos de ley": "8",
+    "pedidos de informacion": "8",
+    "redes": [
+      {
+        "email": " pepe.acacho@asambleanacional.gob.ec",
+        "twitter": "https://twitter.com/PepeAcacho"
+      }
+    ],
+    "votaciones": {
+      "asistencias": "418",
+      "suplentes": "26",
+      "ausencias": "85"
+    },
+    "comisiones": [{
+      "comision": "Comisión Permanente de Biodiversidad y Recursos Naturales",
+      "rol": "Integrante"
+    }]
+  },
+  {
+    "nombre": "Esthela Liliana Acero Lachimba",
+    "partido": "Movimiento Alianza PAIS",
+    "provincia": "Pichincha",
+    "tipo": "Provincial",
+    "genero": "Femenino",
+    "profesion": "Ingeniera Industrial",
+    "telefono": "23991647-1648",
+    "blog": "http://www.asambleanacional.gob.ec/blogs/esthelaacero",
+    "suplente": [ "Lenin Alberto Morales Pozo" ],
+    "proyectos de ley presentados": "nan",
+    "observaciones a proyectos de ley": "nan",
+    "pedidos de informacion": "nan",
+    "redes": [
+      {
+        "email": " esthela.acero@asambleanacional.gob.ec",
+        "twitter": "nan"
+      }
+    ],
+    "votaciones": {
+      "asistencias": "346",
+      "suplentes": "156",
+      "ausencias": "27"
+    },
+    "comisiones": [{
+      "comision": "Comisión Permanente de Soberanía Alimentaria y Desarrollo del Sector Agropecuario y Pesquero",
+      "rol": "Integrante"
+    }]
+  },
+  {
+    "nombre": "Placido Armando Aguilar",
+    "partido": "Movimiento Alianza PAIS",
+    "provincia": "Sucumbíos",
+    "tipo": "Provincial",
+    "genero": "Masculino",
+    "profesion": "Dr. en Jurisprudencia",
+    "telefono": "023991655/1656",
+    "blog": "http://www.asambleanacional.gob.ec/blogs/armandoaguilar",
+    "suplente": [ "Ludis Cuaudina Landazuri Olmedo, María del Pilar Almeida Manosalvas" ],
+    "proyectos de ley presentados": "2",
+    "observaciones a proyectos de ley": "nan",
+    "pedidos de informacion": "nan",
+    "redes": [
+      {
+        "email": "armando.aguilar@asambleanacional.gob.ec",
+        "twitter": "https://twitter.com/aaaguilar2013"
+      }
+    ],
+    "votaciones": {
+      "asistencias": "380",
+      "suplentes": "131",
+      "ausencias": "18"
+    },
+    "comisiones": [{
+      "comision": "Comisión Permanente de Educación, Cultura y Ciencia y Tecnología",
+      "rol": "integrante"
+    }]
+  },
+  {
+    "nombre": "Marcela Paola Aguiñaga Vallejo",
+    "partido": "Movimiento Alianza PAIS",
+    "provincia": "Nacional",
+    "tipo": "Nacional",
+    "genero": "Femenino",
+    "profesion": "Abogada",
+    "telefono": "3991364-1366",
+    "blog": "http://www.asambleanacional.gob.ec/blogs/marcelaaguinaga",
+    "suplente": [ "Francisco Walking Hago Celi" ],
+    "proyectos de ley presentados": "3",
+    "observaciones a proyectos de ley": "nan",
+    "pedidos de informacion": "nan",
+    "redes": [
+      {
+        "email": "marcela.aguinaga@asambleanacional.gob.ec",
+        "twitter": "https://twitter.com/marcelaguinaga"
+      }
+    ],
+    "votaciones": {
+      "asistencias": "415",
+      "suplentes": "58",
+      "ausencias": "56"
+    },
+    "comisiones": [{
+      "comision": "Comisión Permanente de Biodiversidad y Recursos Naturales",
+      "rol": "Integrante"
+    },{
+      "comision": "Comisión Especial para tratar la propuesta de enmiendas constitucionales",
+      "rol": "Integrante"
+    }]
+  },
+  {
+    "nombre": "Dora Anadela Aguirre Hidalgo",
+    "partido": "Movimiento Alianza PAIS",
+    "provincia": "Europa, Asia y Oceanía",
+    "tipo": "Represante Extranjero",
+    "genero": "Femenino",
+    "profesion": "Técnica Especialista en Administración ",
+    "telefono": "3991549-1550",
+    "blog": "http://www.asambleanacional.gob.ec/blogs/doraaguirre",
+    "suplente": [ "Leonardo Ortíz Lara" ],
+    "proyectos de ley presentados": "1",
+    "observaciones a proyectos de ley": "nan",
+    "pedidos de informacion": "nan",
+    "redes": [
+      {
+        "email": "dora.aguirre@asambleanacional.gob.ec",
+        "twitter": "https://twitter.com/doraaguirre"
+      }
+    ],
+    "votaciones": {
+      "asistencias": "411",
+      "suplentes": "102",
+      "ausencias": "16"
+    },
+    "comisiones": [{
+      "comision": "Comisión Permanente de Soberanía, Integración, Relaciones Internacionales y Seguridad Integral",
+      "rol": "Integrante"
+    }]
+  },
+  {
+    "nombre": "Mariana del Rocío Alban Torres",
+    "partido": "Movimiento Alianza PAIS",
+    "provincia": "Cotopaxi",
+    "tipo": "Provincial",
+    "genero": "Femenino",
+    "profesion": "Licenciada en Contabilidad y Auditoría",
+    "telefono": "23991695-1696",
+    "blog": "http://www.asambleanacional.gob.ec/blogs/marianaalban",
+    "suplente": [ "Guillermo Orlando Quindigalle Lictapuzon" ],
+    "proyectos de ley presentados": "nan",
+    "observaciones a proyectos de ley": "nan",
+    "pedidos de informacion": "nan",
+    "redes": [
+      {
+        "email": "rocio.alban@asambleanacional.gob.ec",
+        "twitter": "https://twitter.com/RocioAlbanT"
+      }
+    ],
+    "votaciones": {
+      "asistencias": "403",
+      "suplentes": "109",
+      "ausencias": "17"
+    },
+    "comisiones": [{
+      "comision": "Comisión Permanente de Régimen Económico y Tributario y su Regulación y Control",
+      "rol": "Integrante"
+    }]
+  },
+  {
+    "nombre": "Mónica Rocio Alemán Marmol",
+    "partido": "Movimiento Alianza PAIS",
+    "provincia": "Pichincha",
+    "tipo": "Provincial",
+    "genero": "Femenino",
+    "profesion": "nan",
+    "telefono": "nan",
+    "blog": "nan",
+    "suplente": [ ],
+    "proyectos de ley presentados": "nan",
+    "observaciones a proyectos de ley": "nan",
+    "pedidos de informacion": "nan",
+    "redes": [
+      {
+        "email": "nan",
+        "twitter": "nan"
+      }
+    ],
+    "votaciones": {
+      "asistencias": "132",
+      "suplentes": "33",
+      "ausencias": "17"
+    },
+    "comisiones": []
+  },
+  {
+    "nombre": "Rosana Alvarado Carrión",
+    "partido": "Movimiento Alianza PAIS",
+    "provincia": "Azuay",
+    "tipo": "Provincial",
+    "genero": "Femenino",
+    "profesion": "Dr. en Jurisprudencia",
+    "telefono": "239913581359",
+    "blog": "http://www.asambleanacional.gob.ec/blogs/rosanaalvarado",
+    "suplente": [ "Segundo César Cabrera Fajardo" ],
+    "proyectos de ley presentados": "2",
+    "observaciones a proyectos de ley": "nan",
+    "pedidos de informacion": "nan",
+    "redes": [
+      {
+        "email": "rosana.alvarado@asambleanacional.gob.ec",
+        "twitter": "https://twitter.com/alvaradorosana"
+      }
+    ],
+    "votaciones": {
+      "asistencias": "426",
+      "suplentes": "73",
+      "ausencias": "29"
+    },
+    "comisiones": [{
+      "comision": "Comisión Permanente de Régimen Económico y Tributario y su Regulación y Control",
+      "rol": "Integrante"
+    },{
+      "comision": "Comisión Especial para tratar la propuesta de enmiendas constitucionales",
+      "rol": "Integrante"
+    }]
+  },
+  {
+    "nombre": "Mauro Edmundo Andino Reinoso",
+    "partido": "Movimiento Alianza PAIS",
+    "provincia": "Chimborazo",
+    "tipo": "Provincial",
+    "genero": "Masculino",
+    "profesion": "Abogado",
+    "telefono": "3991024-1028",
+    "blog": "http://www.asambleanacional.gob.ec/blogs/mauroandino",
+    "suplente": [ "Margarita Beatriz Guevara Alvarado" ],
+    "proyectos de ley presentados": "nan",
+    "observaciones a proyectos de ley": "nan",
+    "pedidos de informacion": "nan",
+    "redes": [
+      {
+        "email": "mauro.andino@asambleanacional.gob.ec",
+        "twitter": "https://twitter.com/mauroandinor"
+      }
+    ],
+    "votaciones": {
+      "asistencias": "414",
+      "suplentes": "23",
+      "ausencias": "92"
+    },
+    "comisiones": [{
+      "comision": "Comisión Permanente de Justicia y Estructura del Estado",
+      "rol": "Presidente"
+    }]
+  },
+  {
+    "nombre": "Júpiter Gozoso de la Cruz Andrade Varela",
+    "partido": "Partido Político AVANZA",
+    "provincia": "Manabí",
+    "tipo": "Provincial",
+    "genero": "Masculino",
+    "profesion": "Abogado",
+    "telefono": "23991501-1502",
+    "blog": "http://www.asambleanacional.gob.ec/blogs/jupiterandrade",
+    "suplente": [ "Washintong Omar Hurtado Bravo , Luis Alberto Andrade Solórzano , Alba Janet Cantos Mendoza , Zobeida Melina Arteaga Arteaga" ],
+    "proyectos de ley presentados": "9",
+    "observaciones a proyectos de ley": "nan",
+    "pedidos de informacion": "nan",
+    "redes": [
+      {
+        "email": "jupiter.andrade@asambleanacional.gob.ec",
+        "twitter": "https://twitter.com/GozosoAndrade"
+      }
+    ],
+    "votaciones": {
+      "asistencias": "284",
+      "suplentes": "113",
+      "ausencias": "132"
+    },
+    "comisiones": [{
+      "comision": "Comisión Permanente de Derechos de los Trabajadores y la Seguridad Social",
+      "rol": "Integrante"
+    }]
+  },
+  {
+    "nombre": "Blanca Azucena Argüello Troya",
+    "partido": "Movimiento Alianza PAIS",
+    "provincia": "Pichincha",
+    "tipo": "Provincial",
+    "genero": "Femenino",
+    "profesion": "Dirigente barrial",
+    "telefono": "23991665/1666",
+    "blog": "http://www.asambleanacional.gob.ec/blogs/blancaarguello",
+    "suplente": [ "Carlos Tupiza , Mónica Anabel Hermosa Acosta" ],
+    "proyectos de ley presentados": "nan",
+    "observaciones a proyectos de ley": "nan",
+    "pedidos de informacion": "nan",
+    "redes": [
+      {
+        "email": "blanca.arguello@asambleanacional.gob.ec",
+        "twitter": "https://twitter.com/ArguelloBlanca"
+      }
+    ],
+    "votaciones": {
+      "asistencias": "426",
+      "suplentes": "57",
+      "ausencias": "46"
+    },
+    "comisiones": [{
+      "comision": "Comisión Permanente de Derechos a la salud",
+      "rol": "Integrante"
+    }]
+  },
+  {
+    "nombre": "Verónica Elizabeth Arias Fernández",
+    "partido": "Movimiento Acción Regional por la Equidad",
+    "provincia": "Loja",
+    "tipo": "Provincial",
+    "genero": "Femenino",
+    "profesion": "Abogada",
+    "telefono": "3991000",
+    "blog": "http://www.asambleanacional.gob.ec/blogs/veronicaarias",
+    "suplente": [ ],
+    "proyectos de ley presentados": "nan",
+    "observaciones a proyectos de ley": "nan",
+    "pedidos de informacion": "nan",
+    "redes": [
+      {
+        "email": "veronica.arias@asambleanacional.gob.ec",
+        "twitter": "https://twitter.com/veronicaariasf"
+      }
+    ],
+    "votaciones": {
+      "asistencias": "261",
+      "suplentes": "0",
+      "ausencias": "160"
+    },
+    "comisiones": [{
+      "comision": "Comisión Permanente de Participación Ciudadana y Control Social",
+      "rol": "Integrante"
+    },{
+      "comision": "Comisión Especial para tratar la propuesta de enmiendas constitucionales",
+      "rol": "Presidente"
+    }]
+  },
+  {
+    "nombre": "Alberto Jesús Arias Ramírez",
+    "partido": "Movimiento Alianza PAIS",
+    "provincia": "Guayas",
+    "tipo": "Provincial",
+    "genero": "Masculino",
+    "profesion": "Dirigente de transporte",
+    "telefono": "23991611-1612",
+    "blog": "http://www.asambleanacional.gob.ec/blogs/albertoarias",
+    "suplente": [ "Eliana Lisset Rivas Alava" ],
+    "proyectos de ley presentados": "nan",
+    "observaciones a proyectos de ley": "nan",
+    "pedidos de informacion": "nan",
+    "redes": [
+      {
+        "email": "alberto.arias@asambleanacional.gob.ec",
+        "twitter": "https://twitter.com/albertoariasec"
+      }
+    ],
+    "votaciones": {
+      "asistencias": "214",
+      "suplentes": "185",
+      "ausencias": "130"
+    },
+    "comisiones": [{
+      "comision": "Comisión Permanente de Participación Ciudadana y Control Social",
+      "rol": "Integrante"
+    }]
+  },
+  {
+    "nombre": "Marcia Cecilia Arregui Rueda",
+    "partido": "Movimiento Alianza PAIS",
+    "provincia": "Los Ríos",
+    "tipo": "Provincial",
+    "genero": "Femenino",
+    "profesion": "Licenciada Comunicación Social",
+    "telefono": "23991597-1598",
+    "blog": "http://www.asambleanacional.gob.ec/blogs/marciaarregui",
+    "suplente": [ "José Leonidas Villamar Casal" ],
+    "proyectos de ley presentados": "nan",
+    "observaciones a proyectos de ley": "nan",
+    "pedidos de informacion": "nan",
+    "redes": [
+      {
+        "email": "marcia.arregui@asambleanacional.gob.ec",
+        "twitter": "https://twitter.com/MarciaArregui"
+      }
+    ],
+    "votaciones": {
+      "asistencias": "319",
+      "suplentes": "87",
+      "ausencias": "123"
+    },
+    "comisiones": [{
+      "comision": "Comisión Permanente de Soberanía Alimentaria y Desarrollo del Sector Agropecuario y Pesquero",
+      "rol": "Integrante"
+    }]
+  },
+  {
+    "nombre": "Raúl Vicente Auquilla Ortega",
+    "partido": "Movimiento Político Nacional Creando Oportunidades",
+    "provincia": "Loja",
+    "tipo": "Provincial",
+    "genero": "Masculino",
+    "profesion": "Ingeniero Civil",
+    "telefono": "23991571-157",
+    "blog": "http://www.asambleanacional.gob.ec/blogs/raulauquilla",
+    "suplente": [ "Cecilia del Cisne Ludeña Sotomayor , Johanna Marisela Valverde Aguirre" ],
+    "proyectos de ley presentados": "10",
+    "observaciones a proyectos de ley": "21",
+    "pedidos de informacion": "12",
+    "redes": [
+      {
+        "email": "raul.auquilla@asambleanacional.gob.ec",
+        "twitter": "https://twitter.com/RaulAuquillaO"
+      }
+    ],
+    "votaciones": {
+      "asistencias": "430",
+      "suplentes": "35",
+      "ausencias": "64"
+    },
+    "comisiones": [{
+      "comision": "Comisión Permanente de Soberanía, Integración, Relaciones Internacionales y Seguridad Integral",
+      "rol": "Integrante"
+    }]
+  },
+  {
+    "nombre": "Zoila Teresa Benavides Zambrano",
+    "partido": "Movimiento Alianza PAIS",
+    "provincia": "Manabí",
+    "tipo": "Provincial",
+    "genero": "Femenino",
+    "profesion": "Magister en gerencia educativa",
+    "telefono": "239916971698",
+    "blog": "http://www.asambleanacional.gob.ec/blogs/zoilabenavides",
+    "suplente": [ "José Lenin Marquez López" ],
+    "proyectos de ley presentados": "nan",
+    "observaciones a proyectos de ley": "nan",
+    "pedidos de informacion": "nan",
+    "redes": [
+      {
+        "email": "zoila.benavides@asambleanacional.gob.ec",
+        "twitter": "https://twitter.com/Tereasambleista"
+      }
+    ],
+    "votaciones": {
+      "asistencias": "361",
+      "suplentes": "135",
+      "ausencias": "33"
+    },
+    "comisiones": [{
+      "comision": "Comisión Permanente de Educación, Cultura y Ciencia y Tecnología",
+      "rol": "integrante"
+    }]
+  },
+  {
+    "nombre": "Carlos Alberto Bergmann Reyna",
+    "partido": "Movimiento Alianza PAIS",
+    "provincia": "Manabí",
+    "tipo": "Provincial",
+    "genero": "Masculino",
+    "profesion": "Empresario",
+    "telefono": "23991693-1694",
+    "blog": "http://www.asambleanacional.gob.ec/blogs/carlosbergmann",
+    "suplente": [ "María Luisa Moreno Intriago" ],
+    "proyectos de ley presentados": "nan",
+    "observaciones a proyectos de ley": "nan",
+    "pedidos de informacion": "nan",
+    "redes": [
+      {
+        "email": "carlos.bergmann@asambleanacional.gob.ec",
+        "twitter": "https://twitter.com/bergmannerestu"
+      }
+    ],
+    "votaciones": {
+      "asistencias": "356",
+      "suplentes": "58",
+      "ausencias": "115"
+    },
+    "comisiones": [{
+      "comision": "Comisión Permanente de Régimen Económico y Tributario y su Regulación y Control",
+      "rol": "Integrante"
+    }]
+  },
+  {
+    "nombre": "Galo Borja Pérez",
+    "partido": "Movimiento Alianza PAIS",
+    "provincia": "El Oro",
+    "tipo": "Provincial",
+    "genero": "Masculino",
+    "profesion": "Arquitecto",
+    "telefono": "23991037",
+    "blog": "http://www.asambleanacional.gob.ec/blogs/galoborja",
+    "suplente": [ "Rosita Paulina López Siguenza , Rocío Barriga" ],
+    "proyectos de ley presentados": "1",
+    "observaciones a proyectos de ley": "nan",
+    "pedidos de informacion": "nan",
+    "redes": [
+      {
+        "email": "galo.borja@asambleanacional.gob.ec",
+        "twitter": "https://twitter.com/GaloBorja35"
+      }
+    ],
+    "votaciones": {
+      "asistencias": "437",
+      "suplentes": "60",
+      "ausencias": "32"
+    },
+    "comisiones": [{
+      "comision": "Comisión Permanente de Régimen Económico y Tributario y su Regulación y Control",
+      "rol": "Vicepresidente"
+    }]
+  },
+  {
+    "nombre": "María Lorena Bravo Ramírez",
+    "partido": "Movimiento Alianza PAIS",
+    "provincia": "Guayas",
+    "tipo": "Nacional",
+    "genero": "Femenino",
+    "profesion": "nan",
+    "telefono": "nan",
+    "blog": "nan",
+    "suplente": [ ],
+    "proyectos de ley presentados": "nan",
+    "observaciones a proyectos de ley": "nan",
+    "pedidos de informacion": "nan",
+    "redes": [
+      {
+        "email": "nan",
+        "twitter": "https://twitter.com/LorenaBravoR"
+      }
+    ],
+    "votaciones": {
+      "asistencias": "95",
+      "suplentes": "40",
+      "ausencias": "16"
+    },
+    "comisiones": []
+  },
+  {
+    "nombre": "Mónica Cristina Brito Mendoza",
+    "partido": "Movimiento Alianza PAIS",
+    "provincia": "Guayas",
+    "tipo": "Provincial",
+    "genero": "Femenino",
+    "profesion": "nan",
+    "telefono": "nan",
+    "blog": "nan",
+    "suplente": [ ],
+    "proyectos de ley presentados": "nan",
+    "observaciones a proyectos de ley": "nan",
+    "pedidos de informacion": "nan",
+    "redes": [
+      {
+        "email": "nan",
+        "twitter": "https://twitter.com/monicabrito35"
+      }
+    ],
+    "votaciones": {
+      "asistencias": "125",
+      "suplentes": "59",
+      "ausencias": "34"
+    },
+    "comisiones": []
+  },
+  {
+    "nombre": "María Soledad Buendía Herdoiza",
+    "partido": "Movimiento Alianza PAIS",
+    "provincia": "Pichincha",
+    "tipo": "Provincial",
+    "genero": "Femenino",
+    "profesion": "Ingeniera de Gestión Empresarial",
+    "telefono": "3991675-1676",
+    "blog": "http://www.asambleanacional.gob.ec/blogs/soledadbuendia",
+    "suplente": [ "Efren Rodrigo Reyes Machuca , Edwin Rodrigo Miño Arcos , Francisco Marcelo Solorzano Aviles" ],
+    "proyectos de ley presentados": "nan",
+    "observaciones a proyectos de ley": "nan",
+    "pedidos de informacion": "nan",
+    "redes": [
+      {
+        "email": "maria.buendia@asambleanacional.gob.ec",
+        "twitter": "https://twitter.com/solbuendia"
+      }
+    ],
+    "votaciones": {
+      "asistencias": "336",
+      "suplentes": "120",
+      "ausencias": "73"
+    },
+    "comisiones": [{
+      "comision": "Comisión Permanente de Desarrollo Económico, Productivo y la Microempresa",
+      "rol": "Integrante"
+    },{
+      "comision": "Comisión Especial para tratar la propuesta de enmiendas constitucionales",
+      "rol": "Integrante"
+    }]
+  },
+  {
+    "nombre": "Fernando Xavier Bustamante Ponce",
+    "partido": "Independiente ",
+    "provincia": "Pichincha",
+    "tipo": "Provincial",
+    "genero": "Masculino",
+    "profesion": "Magister en Administración Pública",
+    "telefono": "3991060-1064",
+    "blog": "http://www.asambleanacional.gob.ec/blogs/fernandobustamante",
+    "suplente": [ "Lidia Victoria Paredes Benavides" ],
+    "proyectos de ley presentados": "nan",
+    "observaciones a proyectos de ley": "nan",
+    "pedidos de informacion": "nan",
+    "redes": [
+      {
+        "email": "fernando.bustamante@asambleanacional.gob.ec",
+        "twitter": "https://twitter.com/bustamantefx"
+      }
+    ],
+    "votaciones": {
+      "asistencias": "416",
+      "suplentes": "83",
+      "ausencias": "30"
+    },
+    "comisiones": [{
+      "comision": "Comisión Permanente de Soberanía, Integración, Relaciones Internacionales y Seguridad Integral",
+      "rol": "Presidente"
+    }]
+  },
+  {
+    "nombre": "Arcadio Bustos Chiliquinga",
+    "partido": "Partido Sociedad Patriótica 21 de enero",
+    "provincia": "Sucumbíos",
+    "tipo": "Provincial",
+    "genero": "Masculino",
+    "profesion": "Dirigente de organizaciones",
+    "telefono": "23991513-1514",
+    "blog": "http://www.asambleanacional.gob.ec/blogs/arcadiobustos",
+    "suplente": [ "Gladys Lucía Castro Ajila" ],
+    "proyectos de ley presentados": "13",
+    "observaciones a proyectos de ley": "nan",
+    "pedidos de informacion": "nan",
+    "redes": [
+      {
+        "email": "arcadio.bustos@asambleanacional.gob.ec",
+        "twitter": "https://twitter.com/ArcadioBustos"
+      }
+    ],
+    "votaciones": {
+      "asistencias": "374",
+      "suplentes": "68",
+      "ausencias": "87"
+    },
+    "comisiones": [{
+      "comision": "Comisión Permanente de Biodiversidad y Recursos Naturales",
+      "rol": "Integrante"
+    }]
+  },
+  {
+    "nombre": "Richard Oswaldo Calderón Saltos",
+    "partido": "Movimiento Alianza PAIS",
+    "provincia": "Imbabura",
+    "tipo": "Provincial",
+    "genero": "Masculino",
+    "profesion": "Economista",
+    "telefono": "3991042-1046",
+    "blog": "http://www.asambleanacional.gob.ec/blogs/richardcalderon",
+    "suplente": [ "Lorena Gabriela Quimbiulco Bedón" ],
+    "proyectos de ley presentados": "nan",
+    "observaciones a proyectos de ley": "nan",
+    "pedidos de informacion": "nan",
+    "redes": [
+      {
+        "email": "richard.calderon@asambleanacional.gob.ec",
+        "twitter": "https://twitter.com/RichardImbabura"
+      }
+    ],
+    "votaciones": {
+      "asistencias": "368",
+      "suplentes": "108",
+      "ausencias": "53"
+    },
+    "comisiones": [{
+      "comision": "Comisión Permanente de Gobiernos Autónomos, Descentralización, Competencias y Organización Territorial",
+      "rol": "Presidente"
+    }]
+  },
+  {
+    "nombre": "María Augusta Calle Andrade",
+    "partido": "Movimiento Alianza PAIS",
+    "provincia": "Pichincha",
+    "tipo": "Provincial",
+    "genero": "Femenino",
+    "profesion": "Periodista",
+    "telefono": "23991061",
+    "blog": "http://www.asambleanacional.gob.ec/blogs/mariacalle",
+    "suplente": [ "Xavier Iván Casanova Cepeda" ],
+    "proyectos de ley presentados": "nan",
+    "observaciones a proyectos de ley": "nan",
+    "pedidos de informacion": "nan",
+    "redes": [
+      {
+        "email": " maria.calle@asambleanacional.gob.ec",
+        "twitter": "https://twitter.com/MACAesPAIS"
+      }
+    ],
+    "votaciones": {
+      "asistencias": "406",
+      "suplentes": "95",
+      "ausencias": "28"
+    },
+    "comisiones": [{
+      "comision": "Comisión Permanente de Soberanía, Integración, Relaciones Internacionales y Seguridad Integral",
+      "rol": "Vicepresidente"
+    }]
+  },
+  {
+    "nombre": "Betty Elizabeth Carrillo Gallegos",
+    "partido": "Movimiento Alianza PAIS",
+    "provincia": "Tungurahua",
+    "tipo": "Provincial",
+    "genero": "Femenino",
+    "profesion": "Dr. en Jurisprudencia",
+    "telefono": "39911031",
+    "blog": "http://www.asambleanacional.gob.ec/blogs/bettycarrillo",
+    "suplente": [ "José Segundo Toalombo Chimborazo" ],
+    "proyectos de ley presentados": "2",
+    "observaciones a proyectos de ley": "nan",
+    "pedidos de informacion": "nan",
+    "redes": [
+      {
+        "email": "betty.carrillo@asambleanacional.gob.ec",
+        "twitter": "https://twitter.com/bettycarrillo35"
+      }
+    ],
+    "votaciones": {
+      "asistencias": "384",
+      "suplentes": "55",
+      "ausencias": "90"
+    },
+    "comisiones": [{
+      "comision": "Comisión Permanente de Derechos de los Trabajadores y la Seguridad Social",
+      "rol": "Integrante"
+    }]
+  },
+  {
+    "nombre": "María José Carrión Cevallos",
+    "partido": "Movimiento Alianza PAIS",
+    "provincia": "Pichincha",
+    "tipo": "Provincial",
+    "genero": "Femenino",
+    "profesion": "Médico",
+    "telefono": "3991677-1678",
+    "blog": "http://www.asambleanacional.gob.ec/blogs/mariacarrion",
+    "suplente": [ "Gerardo Elías Anrrango Zambrano" ],
+    "proyectos de ley presentados": "nan",
+    "observaciones a proyectos de ley": "nan",
+    "pedidos de informacion": "nan",
+    "redes": [
+      {
+        "email": "maria.carrion@asambleanacional.gob.ec",
+        "twitter": "https://twitter.com/majo_carrion "
+      }
+    ],
+    "votaciones": {
+      "asistencias": "363",
+      "suplentes": "49",
+      "ausencias": "117"
+    },
+    "comisiones": [{
+      "comision": "Comisión Permanente de Derechos a la salud",
+      "rol": "Integrante"
+    },{
+      "comision": "Comisión Permanente de Fiscalización y Control Político",
+      "rol": "Presidente"
+    }]
+  },
+  {
+    "nombre": "Miguel Angel Carvajal Aguirre",
+    "partido": "Movimiento Alianza PAIS",
+    "provincia": "Nacional",
+    "tipo": "Nacional",
+    "genero": "Masculino",
+    "profesion": "Licenciado en Sociología",
+    "telefono": "3991006/1008",
+    "blog": "http://www.asambleanacional.gob.ec/blogs/miguelcarvajal",
+    "suplente": [ "Susana Valeria Cajas Lara , Miguel Ángel Carvajal Aguirre" ],
+    "proyectos de ley presentados": "nan",
+    "observaciones a proyectos de ley": "nan",
+    "pedidos de informacion": "nan",
+    "redes": [
+      {
+        "email": "miguel.carvajal@asambleanacional.gob.ec",
+        "twitter": "https://twitter.com/MCarvajal_A"
+      }
+    ],
+    "votaciones": {
+      "asistencias": "378",
+      "suplentes": "109",
+      "ausencias": "42"
+    },
+    "comisiones": [{
+      "comision": "Comisión Permanente de Soberanía Alimentaria y Desarrollo del Sector Agropecuario y Pesquero",
+      "rol": "Presidente"
+    }]
+  },
+  {
+    "nombre": "René Caza",
+    "partido": "Movimiento Alianza PAIS",
+    "provincia": "Pichincha",
+    "tipo": "Provincial",
+    "genero": "Masculino",
+    "profesion": "nan",
+    "telefono": "3991634",
+    "blog": "http://www.asambleanacional.gob.ec/es/blogs/rene-caza",
+    "suplente": [ ],
+    "proyectos de ley presentados": "2",
+    "observaciones a proyectos de ley": "16",
+    "pedidos de informacion": "7",
+    "redes": [
+      {
+        "email": "hugorene_1@hotmail.com",
+        "twitter": "https://twitter.com/ReneCazaT"
+      }
+    ],
+    "votaciones": {
+      "asistencias": "216",
+      "suplentes": "0",
+      "ausencias": "18"
+    },
+    "comisiones": []
+  },
+  {
+    "nombre": "Johanna Elizabeth Cedeño Zambrano",
+    "partido": "Movimiento Alianza PAIS",
+    "provincia": "Santo Domingo de los Tsáchilas",
+    "tipo": "Provincial",
+    "genero": "Femenino",
+    "profesion": "nan",
+    "telefono": "3991679-1680",
+    "blog": "http://www.asambleanacional.gob.ec/blogs/johannacedeno",
+    "suplente": [ "Lider Olaya" ],
+    "proyectos de ley presentados": "1",
+    "observaciones a proyectos de ley": "nan",
+    "pedidos de informacion": "nan",
+    "redes": [
+      {
+        "email": "johanna.cedeno@asambleanacional.gob.ec",
+        "twitter": "https://twitter.com/JohannaCedeno"
+      }
+    ],
+    "votaciones": {
+      "asistencias": "333",
+      "suplentes": "77",
+      "ausencias": "119"
+    },
+    "comisiones": [{
+      "comision": "Comisión Permanente de Participación Ciudadana y Control Social",
+      "rol": "Vicepresidente"
+    }]
+  },
+  {
+    "nombre": "Hólger Ezequiel Chávez Canales",
+    "partido": "Movimiento Alianza PAIS",
+    "provincia": "Bolívar",
+    "tipo": "Provincial",
+    "genero": "Masculino",
+    "profesion": "Abogado",
+    "telefono": "3991669/1670",
+    "blog": "http://www.asambleanacional.gob.ec/blogs/holgerchavez",
+    "suplente": [ "Margod Elisaved Salazar Paucar" ],
+    "proyectos de ley presentados": "1",
+    "observaciones a proyectos de ley": "nan",
+    "pedidos de informacion": "nan",
+    "redes": [
+      {
+        "email": "holger.chavez@asambleanacional.gob.ec",
+        "twitter": "https://twitter.com/holgerchavezc"
+      }
+    ],
+    "votaciones": {
+      "asistencias": "367",
+      "suplentes": "74",
+      "ausencias": "88"
+    },
+    "comisiones": [{
+      "comision": "Comisión Permanente de Biodiversidad y Recursos Naturales",
+      "rol": "Integrante"
+    },{
+      "comision": "Comisión Permanente de Fiscalización y Control Político",
+      "rol": "Integrante"
+    }]
+  },
+  {
+    "nombre": "Vinicio Vethowen Chica Arévalo",
+    "partido": "Movimiento Alianza PAIS",
+    "provincia": "Morona Santiago",
+    "tipo": "Provincial",
+    "genero": "Masculino",
+    "profesion": "Dr. en Jurisprudencia",
+    "telefono": "3991639/1640",
+    "blog": "http://www.asambleanacional.gob.ec/blogs/vethowenchica",
+    "suplente": [ "Alexandra Elizabeth Delgado Gutiérrez" ],
+    "proyectos de ley presentados": "nan",
+    "observaciones a proyectos de ley": "nan",
+    "pedidos de informacion": "nan",
+    "redes": [
+      {
+        "email": "vethowen.chica@asambleanacional.gob.ec",
+        "twitter": "https://twitter.com/VETHOWENCHICA"
+      }
+    ],
+    "votaciones": {
+      "asistencias": "367",
+      "suplentes": "74",
+      "ausencias": "88"
+    },
+    "comisiones": [{
+      "comision": "Comisión Permanente de Régimen Económico y Tributario y su Regulación y Control",
+      "rol": "Integrante"
+    }]
+  },
+  {
+    "nombre": "Pavel Chica Arteaga",
+    "partido": "Movimiento Político Nacional Creando Oportunidades",
+    "provincia": "Esmeraldas",
+    "tipo": "Provincial",
+    "genero": "Masculino",
+    "profesion": "nan",
+    "telefono": "nan",
+    "blog": "nan",
+    "suplente": [ "Emily Jesús Medina Tambaco" ],
+    "proyectos de ley presentados": "1",
+    "observaciones a proyectos de ley": "nan",
+    "pedidos de informacion": "nan",
+    "redes": [
+      {
+        "email": "nan",
+        "twitter": "https://twitter.com/ChicaPavel"
+      }
+    ],
+    "votaciones": {
+      "asistencias": "138",
+      "suplentes": "96",
+      "ausencias": "62"
+    },
+    "comisiones": [{
+      "comision": "Comisión Permanente de Soberanía Alimentaria y Desarrollo del Sector Agropecuario y Pesquero",
+      "rol": "Integrante"
+    }]
+  },
+  {
+    "nombre": "Wilson Alfonso Chicaiza Toapanta",
+    "partido": "Movimiento Político Nacional Creando Oportunidades",
+    "provincia": "Pichincha",
+    "tipo": "Provincial",
+    "genero": "Masculino",
+    "profesion": "Economista",
+    "telefono": "3991569/1570",
+    "blog": "http://www.asambleanacional.gob.ec/blogs/wilsonchicaiza",
+    "suplente": [ "Victoria Espinoza" ],
+    "proyectos de ley presentados": "12",
+    "observaciones a proyectos de ley": "1",
+    "pedidos de informacion": "1",
+    "redes": [
+      {
+        "email": "wilson.chicaiza@asambleanacional.gob.ec",
+        "twitter": "https://twitter.com/wilsonchicaiza"
+      }
+    ],
+    "votaciones": {
+      "asistencias": "509",
+      "suplentes": "0",
+      "ausencias": "20"
+    },
+    "comisiones": [{
+      "comision": "Comisión Permanente de Educación, Cultura y Ciencia y Tecnología",
+      "rol": "integrante"
+    }]
+  },
+  {
+    "nombre": "Mariana de las Mercedes Constante Nieto",
+    "partido": "Movimiento Alianza PAIS",
+    "provincia": "Pichincha",
+    "tipo": "Provincial",
+    "genero": "Femenino",
+    "profesion": "nan",
+    "telefono": "nan",
+    "blog": "nan",
+    "suplente": [ ],
+    "proyectos de ley presentados": "nan",
+    "observaciones a proyectos de ley": "nan",
+    "pedidos de informacion": "nan",
+    "redes": [
+      {
+        "email": "nan",
+        "twitter": "nan"
+      }
+    ],
+    "votaciones": {
+      "asistencias": "63",
+      "suplentes": "0",
+      "ausencias": "1"
+    },
+    "comisiones": []
+  },
+  {
+    "nombre": "Edgar Eduardo Córdova Encalada",
+    "partido": "Movimiento Alianza PAIS",
+    "provincia": "El Oro",
+    "tipo": "Provincial",
+    "genero": "Masculino",
+    "profesion": "nan",
+    "telefono": "3991681-1682",
+    "blog": "http://www.asambleanacional.gob.ec/blogs/edgarcordova",
+    "suplente": [ "Bélgica Elizabeth Dávila Ramírez" ],
+    "proyectos de ley presentados": "nan",
+    "observaciones a proyectos de ley": "nan",
+    "pedidos de informacion": "nan",
+    "redes": [
+      {
+        "email": "edgar.cordova@asambleanacional.gob.ec",
+        "twitter": "https://twitter.com/EdgarCordova_35"
+      }
+    ],
+    "votaciones": {
+      "asistencias": "382",
+      "suplentes": "66",
+      "ausencias": "81"
+    },
+    "comisiones": [{
+      "comision": "Comisión Permanente de Desarrollo Económico, Productivo y la Microempresa",
+      "rol": "Integrante"
+    }]
+  },
+  {
+    "nombre": "Henry Eduardo Cucalón Camacho",
+    "partido": "Partido Social Cristiano",
+    "provincia": "Guayas",
+    "tipo": "Provincial",
+    "genero": "Masculino",
+    "profesion": "Abogado",
+    "telefono": "3991535-1536",
+    "blog": "http://www.asambleanacional.gob.ec/blogs/henrycucalon",
+    "suplente": [ "Yenny María Poveda Saltos" ],
+    "proyectos de ley presentados": "nan",
+    "observaciones a proyectos de ley": "nan",
+    "pedidos de informacion": "nan",
+    "redes": [
+      {
+        "email": "henry.cucalon@asambleanacional.gob.ec",
+        "twitter": "https://twitter.com/henrycucalon"
+      }
+    ],
+    "votaciones": {
+      "asistencias": "384",
+      "suplentes": "39",
+      "ausencias": "106"
+    },
+    "comisiones": [{
+      "comision": "Comisión Permanente de Gobiernos Autónomos, Descentralización, Competencias y Organización Territorial",
+      "rol": "Integrante"
+    }]
+  },
+  {
+    "nombre": "Liuba Elisa Cuesta Ríos",
+    "partido": "Movimiento Alianza PAIS",
+    "provincia": "Guayas",
+    "tipo": "Provincial",
+    "genero": "Femenino",
+    "profesion": "nan",
+    "telefono": "3991683-1316",
+    "blog": "http://www.asambleanacional.gob.ec/blogs/liubacuesta",
+    "suplente": [ "Pedro Roberto Geovanny Macías García" ],
+    "proyectos de ley presentados": "1",
+    "observaciones a proyectos de ley": "nan",
+    "pedidos de informacion": "nan",
+    "redes": [
+      {
+        "email": " liuba.cuesta@asambleanacional.gob.ec",
+        "twitter": "https://twitter.com/liuba_cuesta"
+      }
+    ],
+    "votaciones": {
+      "asistencias": "316",
+      "suplentes": "105",
+      "ausencias": "108"
+    },
+    "comisiones": [{
+      "comision": "Comisión Permanente de Soberanía Alimentaria y Desarrollo del Sector Agropecuario y Pesquero",
+      "rol": "Integrante"
+    }]
+  },
+  {
+    "nombre": "Reyta Dahik",
+    "partido": "Partido Socialista Ecuatoriano",
+    "provincia": "Bolívar",
+    "tipo": "Provincial",
+    "genero": "Femenino",
+    "profesion": "nan",
+    "telefono": "nan",
+    "blog": "nan",
+    "suplente": [ ],
+    "proyectos de ley presentados": "1",
+    "observaciones a proyectos de ley": "nan",
+    "pedidos de informacion": "nan",
+    "redes": [
+      {
+        "email": "nan",
+        "twitter": "nan"
+      }
+    ],
+    "votaciones": {
+      "asistencias": "143",
+      "suplentes": "4",
+      "ausencias": "27"
+    },
+    "comisiones": []
+  },
+  {
+    "nombre": "Herman Ulises De la Cruz Bernardo",
+    "partido": "Movimiento Alianza PAIS",
+    "provincia": "Carchi",
+    "tipo": "Provincial",
+    "genero": "Masculino",
+    "profesion": "Futbolista",
+    "telefono": "3991685-1686",
+    "blog": "http://www.asambleanacional.gob.ec/blogs/ulisesdelacruz",
+    "suplente": [ "Rita del Carmen Pozo Castillo" ],
+    "proyectos de ley presentados": "1",
+    "observaciones a proyectos de ley": "nan",
+    "pedidos de informacion": "nan",
+    "redes": [
+      {
+        "email": "ulises.delacruz@asambleanacional.gob.ec",
+        "twitter": "https://twitter.com/Ulisesdlc"
+      }
+    ],
+    "votaciones": {
+      "asistencias": "454",
+      "suplentes": "6",
+      "ausencias": "69"
+    },
+    "comisiones": [{
+      "comision": "Comisión Permanente de Gobiernos Autónomos, Descentralización, Competencias y Organización Territorial",
+      "rol": "Integrante"
+    }]
+  },
+  {
+    "nombre": "Adriana Moisotti De la Cruz Gaspar",
+    "partido": "Movimiento Alianza PAIS",
+    "provincia": "Guayas",
+    "tipo": "Provincial",
+    "genero": "Femenino",
+    "profesion": "Tecnóloga en Gerencia Social y Desarrollo Humano",
+    "telefono": "3991691-1692",
+    "blog": "http://www.asambleanacional.gob.ec/blogs/adrianadelacruz",
+    "suplente": [ "Francisco José Estarellas Solis" ],
+    "proyectos de ley presentados": "2",
+    "observaciones a proyectos de ley": "nan",
+    "pedidos de informacion": "nan",
+    "redes": [
+      {
+        "email": "adriana.delacruz@asambleanacional.gob.ec",
+        "twitter": "https://twitter.com/AdrianaMiosotty"
+      }
+    ],
+    "votaciones": {
+      "asistencias": "369",
+      "suplentes": "80",
+      "ausencias": "80"
+    },
+    "comisiones": [{
+      "comision": "Comisión Permanente de Derechos a la salud",
+      "rol": "Integrante"
+    }]
+  },
+  {
+    "nombre": "Agustín Xavier Delgado Chalá",
+    "partido": "Movimiento Alianza PAIS",
+    "provincia": "Imbabura",
+    "tipo": "Provincial",
+    "genero": "Masculino",
+    "profesion": "Futbolista",
+    "telefono": "2991658-1671",
+    "blog": "http://www.asambleanacional.gob.ec/blogs/agustindelgado",
+    "suplente": [ "María Alegría Piñan Cajas" ],
+    "proyectos de ley presentados": "1",
+    "observaciones a proyectos de ley": "nan",
+    "pedidos de informacion": "nan",
+    "redes": [
+      {
+        "email": "agustin.delgado@asambleanacional.gob.ec",
+        "twitter": "https://twitter.com/TinDelgado35"
+      }
+    ],
+    "votaciones": {
+      "asistencias": "371",
+      "suplentes": "73",
+      "ausencias": "85"
+    },
+    "comisiones": [{
+      "comision": "Comisión Permanente de Participación Ciudadana y Control Social",
+      "rol": "Integrante"
+    }]
+  },
+  {
+    "nombre": "María Gabriela Díaz Coka",
+    "partido": "Partido Político AVANZA",
+    "provincia": "Pastaza",
+    "tipo": "Provincial",
+    "genero": "Femenino",
+    "profesion": "Comunicadora Social",
+    "telefono": "3991000",
+    "blog": "http://www.asambleanacional.gob.ec/blogs/gabrieladiaz",
+    "suplente": [ ],
+    "proyectos de ley presentados": "nan",
+    "observaciones a proyectos de ley": "nan",
+    "pedidos de informacion": "nan",
+    "redes": [
+      {
+        "email": "gabriela.diaz@asambleanacional.gob.ec",
+        "twitter": "https://twitter.com/GabrielaDiazEC"
+      }
+    ],
+    "votaciones": {
+      "asistencias": "252",
+      "suplentes": "0",
+      "ausencias": "169"
+    },
+    "comisiones": [{
+      "comision": "Comisión Permanente de Derechos Colectivos, Comunitarios y la Interculturalidad",
+      "rol": "Integrante"
+    }]
+  },
+  {
+    "nombre": "Patricio Donoso Chiriboga",
+    "partido": "Movimiento Político Nacional Creando Oportunidades",
+    "provincia": "Nacional",
+    "tipo": "Nacional",
+    "genero": "Masculino",
+    "profesion": "Arquitecto",
+    "telefono": "3991567-1568",
+    "blog": "http://www.asambleanacional.gob.ec/blogs/patriciodonoso",
+    "suplente": [ "Laura Gross" ],
+    "proyectos de ley presentados": "nan",
+    "observaciones a proyectos de ley": "nan",
+    "pedidos de informacion": "nan",
+    "redes": [
+      {
+        "email": "patricio.donoso@asambleanacional.gob.ec",
+        "twitter": "https://twitter.com/donoso2013"
+      }
+    ],
+    "votaciones": {
+      "asistencias": "464",
+      "suplentes": "0",
+      "ausencias": "65"
+    },
+    "comisiones": [{
+      "comision": "Comisión Permanente de Desarrollo Económico, Productivo y la Microempresa",
+      "rol": "Integrante"
+    },{
+      "comision": "Comisión Especial para tratar la propuesta de enmiendas constitucionales",
+      "rol": "Integrante"
+    }]
+  },
+  {
+    "nombre": "Letty Vanessa Fajardo Mosquera",
+    "partido": "Movimiento Alianza PAIS",
+    "provincia": "Santa Elena",
+    "tipo": "Provincial",
+    "genero": "Femenino",
+    "profesion": "Ing en Gestión Empresarial Internacional ",
+    "telefono": "23991643-1644",
+    "blog": "http://www.asambleanacional.gob.ec/blogs/vanessafajardo",
+    "suplente": [ "César Palacios , Fernando Antonio Granados Cerezo" ],
+    "proyectos de ley presentados": "4",
+    "observaciones a proyectos de ley": "nan",
+    "pedidos de informacion": "nan",
+    "redes": [
+      {
+        "email": "vanessa.fajardo@asambleanacional.gob.ec",
+        "twitter": "https://twitter.com/VanessaFajardoM"
+      }
+    ],
+    "votaciones": {
+      "asistencias": "316",
+      "suplentes": "75",
+      "ausencias": "138"
+    },
+    "comisiones": [{
+      "comision": "Comisión Permanente de Régimen Económico y Tributario y su Regulación y Control",
+      "rol": "Integrante"
+    },{
+      "comision": "Comisión Permanente de Fiscalización y Control Político",
+      "rol": "Integrante"
+    }]
+  },
+  {
+    "nombre": "Evelyn Pamela Falconí Loqui",
+    "partido": "Movimiento Alianza PAIS",
+    "provincia": "Los Ríos",
+    "tipo": "Provincial",
+    "genero": "Femenino",
+    "profesion": "Odontologa",
+    "telefono": "3991079",
+    "blog": "http://asambleanacional.gob.ec/blogs/pamela_falconi/",
+    "suplente": [ "Carlos Manuel Camacho Coloma" ],
+    "proyectos de ley presentados": "1",
+    "observaciones a proyectos de ley": "nan",
+    "pedidos de informacion": "nan",
+    "redes": [
+      {
+        "email": "evelyn.falconi@asambleanacional.gob.ec",
+        "twitter": "https://twitter.com/PameFalconi"
+      }
+    ],
+    "votaciones": {
+      "asistencias": "421",
+      "suplentes": "36",
+      "ausencias": "72"
+    },
+    "comisiones": [{
+      "comision": "Comisión Permanente de Biodiversidad y Recursos Naturales",
+      "rol": "Integrante"
+    }]
+  },
+  {
+    "nombre": "Richard Wilson Farfán Aponte",
+    "partido": "Movimiento Alianza PAIS",
+    "provincia": "Loja",
+    "tipo": "Provincial",
+    "genero": "Masculino",
+    "profesion": "Ingeniero Comercial",
+    "telefono": "3001340-1341",
+    "blog": "http://www.asambleanacional.gob.ec/blogs/richardfarfan",
+    "suplente": [ "María Sebastiana Fares Guaillas" ],
+    "proyectos de ley presentados": "2",
+    "observaciones a proyectos de ley": "nan",
+    "pedidos de informacion": "nan",
+    "redes": [
+      {
+        "email": "richard.farfan@asambleanacional.gob.ec",
+        "twitter": "https://twitter.com/rwfarfan"
+      }
+    ],
+    "votaciones": {
+      "asistencias": "387",
+      "suplentes": "80",
+      "ausencias": "62"
+    },
+    "comisiones": [{
+      "comision": "Comisión Permanente de Fiscalización y Control Político",
+      "rol": "Integrante"
+    }]
+  },
+  {
+    "nombre": "Paco Fierro Oviedo",
+    "partido": "Partido Sociedad Patriótica 21 de enero",
+    "provincia": "Chimborazo",
+    "tipo": "Provincial",
+    "genero": "Masculino",
+    "profesion": "Licenciado en Administración ",
+    "telefono": "239911523-1524",
+    "blog": "http://www.asambleanacional.gob.ec/blogs/pacofierro",
+    "suplente": [ "Plinio Efraín Tamayo Peralvo" ],
+    "proyectos de ley presentados": "11",
+    "observaciones a proyectos de ley": "nan",
+    "pedidos de informacion": "nan",
+    "redes": [
+      {
+        "email": "paco.fierro@asambleanacional.gob.ec",
+        "twitter": "https://twitter.com/PacoFierroPSP3"
+      }
+    ],
+    "votaciones": {
+      "asistencias": "457",
+      "suplentes": "5",
+      "ausencias": "67"
+    },
+    "comisiones": [{
+      "comision": "Comisión Permanente de Derechos a la salud",
+      "rol": "Integrante"
+    }]
+  },
+  {
+    "nombre": "Gastón Alberto Gagliardo Loor",
+    "partido": "Movimiento Alianza PAIS",
+    "provincia": "Guayas",
+    "tipo": "Provincial",
+    "genero": "Masculino",
+    "profesion": "Licenciado en Ciencias de la Educación",
+    "telefono": "3991645-1646",
+    "blog": "http://www.asambleanacional.gob.ec/blogs/gastongagliardo",
+    "suplente": [ "Clinton Eliud Torres Pineda , Rosaisela de las Mercedes Montiel Arreaga" ],
+    "proyectos de ley presentados": "nan",
+    "observaciones a proyectos de ley": "31",
+    "pedidos de informacion": "15",
+    "redes": [
+      {
+        "email": "gaston.gagliardo@asambleanacional.gob.ec",
+        "twitter": "https://twitter.com/GastonGagliardo"
+      }
+    ],
+    "votaciones": {
+      "asistencias": "355",
+      "suplentes": "124",
+      "ausencias": "50"
+    },
+    "comisiones": [{
+      "comision": "Comisión Permanente de Educación, Cultura y Ciencia y Tecnología",
+      "rol": "integrante"
+    }]
+  },
+  {
+    "nombre": "María Esperanza Galván Gracia",
+    "partido": "Movimiento Alianza PAIS",
+    "provincia": "Esmeraldas",
+    "tipo": "Provincial",
+    "genero": "Femenino",
+    "profesion": "Abogada ",
+    "telefono": "23991656-1660",
+    "blog": "http://www.asambleanacional.gob.ec/blogs/mariagalvan",
+    "suplente": [ "Pablo Antonio De La Torre Ramírez , María Esperanza Galván Gracia" ],
+    "proyectos de ley presentados": "nan",
+    "observaciones a proyectos de ley": "nan",
+    "pedidos de informacion": "nan",
+    "redes": [
+      {
+        "email": "maria.galvan@asambleanacional.gob.ec",
+        "twitter": "https://twitter.com/paquigalvan"
+      }
+    ],
+    "votaciones": {
+      "asistencias": "215",
+      "suplentes": "295",
+      "ausencias": "19"
+    },
+    "comisiones": [{
+      "comision": "Comisión Permanente de Desarrollo Económico, Productivo y la Microempresa",
+      "rol": "Integrante"
+    }]
+  },
+  {
+    "nombre": "William Antonio Garzón Ricaurte",
+    "partido": "Movimiento Alianza PAIS",
+    "provincia": "Santo Domingo de los Tsáchilas",
+    "tipo": "Provincial",
+    "genero": "Masculino",
+    "profesion": "Doctor en medicina y cirujía",
+    "telefono": "3991663-1664",
+    "blog": "http://www.asambleanacional.gob.ec/blogs/williamgarzon",
+    "suplente": [ "María Albertina Calazacón Aguavil" ],
+    "proyectos de ley presentados": "1",
+    "observaciones a proyectos de ley": "nan",
+    "pedidos de informacion": "nan",
+    "redes": [
+      {
+        "email": "william.garzon@asambleanacional.gob.ec",
+        "twitter": "https://twitter.com/drwilliamgarzon"
+      }
+    ],
+    "votaciones": {
+      "asistencias": "401",
+      "suplentes": "72",
+      "ausencias": "56"
+    },
+    "comisiones": [{
+      "comision": "Comisión Permanente de Derechos a la salud ",
+      "rol": "Presidente"
+    }]
+  },
+  {
+    "nombre": "Gina Jakeline Godoy Andrade",
+    "partido": "Movimiento Alianza PAIS",
+    "provincia": "Guayas",
+    "tipo": "Provincial",
+    "genero": "Femenino",
+    "profesion": "Abogada",
+    "telefono": "23991025",
+    "blog": "http://www.asambleanacional.gob.ec/blogs/ginagodoy",
+    "suplente": [ "José Luis Macas , Eduardo José Sánchez Peralta" ],
+    "proyectos de ley presentados": "nan",
+    "observaciones a proyectos de ley": "nan",
+    "pedidos de informacion": "nan",
+    "redes": [
+      {
+        "email": " gina.godoy@asambleanacional.gob.ec",
+        "twitter": "https://twitter.com/GinaGodoyAndrad"
+      }
+    ],
+    "votaciones": {
+      "asistencias": "384",
+      "suplentes": "99",
+      "ausencias": "46"
+    },
+    "comisiones": [{
+      "comision": "Comisión Permanente de Justicia y Estructura del Estado",
+      "rol": "Integrante"
+    }]
+  },
+  {
+    "nombre": "Miryam Catarina González Serrano",
+    "partido": "Movimiento Alianza PAIS",
+    "provincia": "Loja",
+    "tipo": "Provincial",
+    "genero": "Femenino",
+    "profesion": "Dra. En Ciencias de Educación",
+    "telefono": "23991055-1056",
+    "blog": "http://www.asambleanacional.gob.ec/blogs/miryamgonzalez",
+    "suplente": [ "Arlig Granda Nixon" ],
+    "proyectos de ley presentados": "3",
+    "observaciones a proyectos de ley": "nan",
+    "pedidos de informacion": "nan",
+    "redes": [
+      {
+        "email": "miryam.gonzalez@asambleanacional.gob.ec",
+        "twitter": "https://twitter.com/Miryamoficial"
+      }
+    ],
+    "votaciones": {
+      "asistencias": "329",
+      "suplentes": "64",
+      "ausencias": "136"
+    },
+    "comisiones": [{
+      "comision": "Comisión Permanente de Educación, Cultura y Ciencia y Tecnología",
+      "rol": "integrante"
+    }]
+  },
+  {
+    "nombre": "Miltón Rodrigo Gualán Japa",
+    "partido": "Movimiento de Unidad Plurinacional Pachakutik",
+    "provincia": "Zamora Chinchipe",
+    "tipo": "Provincial",
+    "genero": "Masculino",
+    "profesion": "nan",
+    "telefono": "23991545-1546",
+    "blog": "http://www.asambleanacional.gob.ec/blogs/miltongualan",
+    "suplente": [ "Andrea Maribel Quezada Carrión" ],
+    "proyectos de ley presentados": "nan",
+    "observaciones a proyectos de ley": "nan",
+    "pedidos de informacion": "nan",
+    "redes": [
+      {
+        "email": "nan",
+        "twitter": "https://twitter.com/miltong15"
+      }
+    ],
+    "votaciones": {
+      "asistencias": "230",
+      "suplentes": "33",
+      "ausencias": "116"
+    },
+    "comisiones": [{
+      "comision": "Comisión Permanente de Soberanía, Integración, Relaciones Internacionales y Seguridad Integral",
+      "rol": "Integrante"
+    }]
+  },
+  {
+    "nombre": "Alex Francisco Guamán Castro",
+    "partido": "Movimiento Alianza PAIS",
+    "provincia": "EEUU y Canadá",
+    "tipo": "Represante Extranjero",
+    "genero": "Masculino",
+    "profesion": "Químico Industrial",
+    "telefono": "3991667-1668",
+    "blog": "http://www.asambleanacional.gob.ec/blogs/alexguaman",
+    "suplente": [ "Noryan Karina Sánchez Larrea , José Clemente Agualsaca Guamán" ],
+    "proyectos de ley presentados": "2",
+    "observaciones a proyectos de ley": "nan",
+    "pedidos de informacion": "nan",
+    "redes": [
+      {
+        "email": "alex.guaman@asambleanacional.gob.ec",
+        "twitter": "https://twitter.com/agc106"
+      }
+    ],
+    "votaciones": {
+      "asistencias": "401",
+      "suplentes": "14",
+      "ausencias": "114"
+    },
+    "comisiones": [{
+      "comision": "Comisión Permanente de Derechos de los Trabajadores y la Seguridad Social",
+      "rol": "Integrante"
+    }]
+  },
+  {
+    "nombre": "Luis Gilberto Guamangate Ante",
+    "partido": "Movimiento Alianza PAIS",
+    "provincia": "Cotopaxi",
+    "tipo": "Provincial",
+    "genero": "Masculino",
+    "profesion": "Magister en Dirección de Empresas",
+    "telefono": "23991657-1672",
+    "blog": "http://www.asambleanacional.gob.ec/blogs/luisguamangate",
+    "suplente": [ "Blanca Cecilia Bombón López" ],
+    "proyectos de ley presentados": "3",
+    "observaciones a proyectos de ley": "nan",
+    "pedidos de informacion": "nan",
+    "redes": [
+      {
+        "email": "luis.guamangate@asambleanacional.gob.ec",
+        "twitter": "https://twitter.com/GilbertoGuamang"
+      }
+    ],
+    "votaciones": {
+      "asistencias": "376",
+      "suplentes": "118",
+      "ausencias": "35"
+    },
+    "comisiones": [{
+      "comision": "Comisión Permanente de Justicia y Estructura del Estado",
+      "rol": "Integrante"
+    }]
+  },
+  {
+    "nombre": "Verónica Margarita Guevara Villacrés",
+    "partido": "Movimiento Alianza PAIS",
+    "provincia": "Guayas",
+    "tipo": "Provincial",
+    "genero": "Femenino",
+    "profesion": "Licenciada en Comunicación Social ",
+    "telefono": "23991637-1638",
+    "blog": "http://www.asambleanacional.gob.ec/blogs/veronicaguevara",
+    "suplente": [ ],
+    "proyectos de ley presentados": "nan",
+    "observaciones a proyectos de ley": "nan",
+    "pedidos de informacion": "nan",
+    "redes": [
+      {
+        "email": "veronica.guevara@asambleanacional.gob.ec",
+        "twitter": "https://twitter.com/VeroGuevarav"
+      }
+    ],
+    "votaciones": {
+      "asistencias": "373",
+      "suplentes": "107",
+      "ausencias": "49"
+    },
+    "comisiones": [{
+      "comision": "Comisión Permanente de Derechos a la salud",
+      "rol": "Integrante"
+    }]
+  },
+  {
+    "nombre": "Fausto Gilmar Gutiérrez Borbúa",
+    "partido": "Partido Sociedad Patriótica 21 de enero",
+    "provincia": "Nacional",
+    "tipo": "Nacional",
+    "genero": "Masculino",
+    "profesion": "Ingeniero Mecánico ",
+    "telefono": "239911517-1518",
+    "blog": "http://asambleanacional.gob.ec/blogs/gilmar_gutierrez/",
+    "suplente": [ "Marina Elizabeth Albán Gallo" ],
+    "proyectos de ley presentados": "4",
+    "observaciones a proyectos de ley": "nan",
+    "pedidos de informacion": "4",
+    "redes": [
+      {
+        "email": "http://www.asambleanacional.gob.ec/blogs/gilmargutierrez",
+        "twitter": "https://twitter.com/3Gilmar"
+      }
+    ],
+    "votaciones": {
+      "asistencias": "346",
+      "suplentes": "107",
+      "ausencias": "75"
+    },
+    "comisiones": [{
+      "comision": "Comisión Permanente de Derechos Colectivos, Comunitarios y la Interculturalidad",
+      "rol": "Integrante"
+    }]
+  },
+  {
+    "nombre": "Liliana Maura Guzmán Ochoa",
+    "partido": "Movimiento Alianza PAIS",
+    "provincia": "Azuay",
+    "tipo": "Provincial",
+    "genero": "Femenino",
+    "profesion": "Dra. Jurisprudencia",
+    "telefono": "23991651-1652",
+    "blog": "http://www.asambleanacional.gob.ec/blogs/lilianaguzman",
+    "suplente": [ "Carlos Eduardo Rodas Marca" ],
+    "proyectos de ley presentados": "7",
+    "observaciones a proyectos de ley": "nan",
+    "pedidos de informacion": "nan",
+    "redes": [
+      {
+        "email": " liliana.guzman@asambleanacional.gob.ec",
+        "twitter": "https://twitter.com/lilimguzman "
+      }
+    ],
+    "votaciones": {
+      "asistencias": "345",
+      "suplentes": "146",
+      "ausencias": "38"
+    },
+    "comisiones": [{
+      "comision": "Comisión Permanente de Gobiernos Autónomos, Descentralización, Competencias y Organización Territorial",
+      "rol": "Integrante"
+    }]
+  },
+  {
+    "nombre": "José Francisco Guzmán Segovia",
+    "partido": "Movimiento Sociedad Unidad Más Acción",
+    "provincia": "Nacional",
+    "tipo": "Nacional",
+    "genero": "Masculino",
+    "profesion": "nan",
+    "telefono": "nan",
+    "blog": "nan",
+    "suplente": [ ],
+    "proyectos de ley presentados": "nan",
+    "observaciones a proyectos de ley": "nan",
+    "pedidos de informacion": "nan",
+    "redes": [
+      {
+        "email": "nan",
+        "twitter": "nan"
+      }
+    ],
+    "votaciones": {
+      "asistencias": "35",
+      "suplentes": "3",
+      "ausencias": "21"
+    },
+    "comisiones": []
+  },
+  {
+    "nombre": "Francisco Hagó",
+    "partido": "Movimiento Alianza PAIS",
+    "provincia": "Nacional",
+    "tipo": "Nacional",
+    "genero": "Masculino",
+    "profesion": "nan",
+    "telefono": "nan",
+    "blog": "nan",
+    "suplente": [ ],
+    "proyectos de ley presentados": "nan",
+    "observaciones a proyectos de ley": "nan",
+    "pedidos de informacion": "nan",
+    "redes": [
+      {
+        "email": "nan",
+        "twitter": "nan"
+      }
+    ],
+    "votaciones": {
+      "asistencias": "124",
+      "suplentes": "35",
+      "ausencias": "13"
+    },
+    "comisiones": []
+  },
+  {
+    "nombre": "Virgilio Humberto Hernández Enríquez",
+    "partido": "Movimiento Alianza PAIS",
+    "provincia": "Pichincha",
+    "tipo": "Provincial",
+    "genero": "Masculino",
+    "profesion": "MSC.  Ciencias Políticas ",
+    "telefono": "23991085-1086",
+    "blog": "http://www.asambleanacional.gob.ec/blogs/virgiliohernandez",
+    "suplente": [ "María Eugenia Gutierrez Moscoso , César Augusto Andrade Rocha" ],
+    "proyectos de ley presentados": "2",
+    "observaciones a proyectos de ley": "nan",
+    "pedidos de informacion": "nan",
+    "redes": [
+      {
+        "email": "virgilio.hernandez@asambleanacional.gob.ec",
+        "twitter": "https://twitter.com/virgiliohernand"
+      }
+    ],
+    "votaciones": {
+      "asistencias": "356",
+      "suplentes": "131",
+      "ausencias": "42"
+    },
+    "comisiones": [{
+      "comision": "Comisión Permanente de Régimen Económico y Tributario y su Regulación y Control",
+      "rol": "Presidente"
+    }]
+  },
+  {
+    "nombre": "Nicolás José Issa Wagner",
+    "partido": "Movimiento Alianza PAIS",
+    "provincia": "Guayas",
+    "tipo": "Provincial",
+    "genero": "Masculino",
+    "profesion": "Dr. en Jurisprudencia",
+    "telefono": "23991649-1650",
+    "blog": "http://www.asambleanacional.gob.ec/blogs/nicolasissa",
+    "suplente": [ "María Del Carmen Alman Corozo" ],
+    "proyectos de ley presentados": "nan",
+    "observaciones a proyectos de ley": "nan",
+    "pedidos de informacion": "nan",
+    "redes": [
+      {
+        "email": "nicolas.issa@asambleanacional.gob.ec",
+        "twitter": "https://twitter.com/nicoissa"
+      }
+    ],
+    "votaciones": {
+      "asistencias": "197",
+      "suplentes": "89",
+      "ausencias": "243"
+    },
+    "comisiones": [{
+      "comision": "Comisión Permanente de Justicia y Estructura del Estado",
+      "rol": "Integrante"
+    }]
+  },
+  {
+    "nombre": "Víctor Hugo Jaramillo",
+    "partido": "Movimiento Alianza PAIS",
+    "provincia": "Zamora Chinchipe",
+    "tipo": "Provincial",
+    "genero": "Masculino",
+    "profesion": "nan",
+    "telefono": "nan",
+    "blog": "nan",
+    "suplente": [ ],
+    "proyectos de ley presentados": "nan",
+    "observaciones a proyectos de ley": "nan",
+    "pedidos de informacion": "nan",
+    "redes": [
+      {
+        "email": "nan",
+        "twitter": "nan"
+      }
+    ],
+    "votaciones": {
+      "asistencias": "27",
+      "suplentes": "61",
+      "ausencias": "21"
+    },
+    "comisiones": []
+  },
+  {
+    "nombre": "Betty Maricela Jerez Pilla",
+    "partido": "Movimiento Alianza PAIS",
+    "provincia": "Tungurahua",
+    "tipo": "Provincial",
+    "genero": "Femenino",
+    "profesion": "Abogada",
+    "telefono": "23991627-1628",
+    "blog": "http://www.asambleanacional.gob.ec/blogs/bettyjerez",
+    "suplente": [ "Hugo Fernando Carrillo Crespo" ],
+    "proyectos de ley presentados": "nan",
+    "observaciones a proyectos de ley": "nan",
+    "pedidos de informacion": "nan",
+    "redes": [
+      {
+        "email": "betty.jerez@asambleanacional.gob.ec",
+        "twitter": "https://twitter.com/jerez_betty"
+      }
+    ],
+    "votaciones": {
+      "asistencias": "414",
+      "suplentes": "102",
+      "ausencias": "13"
+    },
+    "comisiones": [{
+      "comision": "Comisión Permanente de Justicia y Estructura del Estado",
+      "rol": "Integrante"
+    }]
+  },
+  {
+    "nombre": "Italia Luisa Jijón Buendía",
+    "partido": "Movimiento Alianza PAIS",
+    "provincia": "Esmeraldas",
+    "tipo": "Nacional",
+    "genero": "Femenino",
+    "profesion": "nan",
+    "telefono": "nan",
+    "blog": "nan",
+    "suplente": [ ],
+    "proyectos de ley presentados": "nan",
+    "observaciones a proyectos de ley": "nan",
+    "pedidos de informacion": "nan",
+    "redes": [
+      {
+        "email": "nan",
+        "twitter": "https://twitter.com/italiajijonb"
+      }
+    ],
+    "votaciones": {
+      "asistencias": "59",
+      "suplentes": "13",
+      "ausencias": "19"
+    },
+    "comisiones": []
+  },
+  {
+    "nombre": "María Cristina Kronfle Gómez",
+    "partido": "Partido Social Cristiano",
+    "provincia": "Guayas",
+    "tipo": "Provincial",
+    "genero": "Femenino",
+    "profesion": "Abogada",
+    "telefono": "23991105-1106",
+    "blog": "http://www.asambleanacional.gob.ec/blogs/mariacristinakronfle",
+    "suplente": [ "Pedro Andrés Martillo Guerrero , Daniel Ernesto Cuellar Araujo" ],
+    "proyectos de ley presentados": "7",
+    "observaciones a proyectos de ley": "2",
+    "pedidos de informacion": "19",
+    "redes": [
+      {
+        "email": "macristina.kronfle@asambleanacional.gob.ec",
+        "twitter": "https://twitter.com/mckronfle"
+      }
+    ],
+    "votaciones": {
+      "asistencias": "293",
+      "suplentes": "46",
+      "ausencias": "190"
+    },
+    "comisiones": [{
+      "comision": "Comisión Permanente de Derechos a la salud",
+      "rol": "Integrante"
+    }]
+  },
+  {
+    "nombre": "Oscar Oswaldo Larriva Alvarado",
+    "partido": "Independiente ",
+    "provincia": "Azuay",
+    "tipo": "Provincial",
+    "genero": "Masculino",
+    "profesion": "Contador Público y Economista",
+    "telefono": "23991036-1040",
+    "blog": "http://www.asambleanacional.gob.ec/blogs/oscarlarriva",
+    "suplente": [ "Celia María Jaigua Alvarado , Alicia Jaramillo Febres" ],
+    "proyectos de ley presentados": "2",
+    "observaciones a proyectos de ley": "nan",
+    "pedidos de informacion": "nan",
+    "redes": [
+      {
+        "email": "oscar.larriva@asambleanacional.gob.ec",
+        "twitter": "https://twitter.com/OswaldoLarriva"
+      }
+    ],
+    "votaciones": {
+      "asistencias": "259",
+      "suplentes": "161",
+      "ausencias": "109"
+    },
+    "comisiones": [{
+      "comision": "Comisión Permanente de Desarrollo Económico, Productivo y la Microempresa",
+      "rol": "Integrante"
+    }]
+  },
+  {
+    "nombre": "Oscar Alfonso Ledesma Zamora",
+    "partido": "Movimiento Alianza PAIS",
+    "provincia": "Pastaza",
+    "tipo": "Provincial",
+    "genero": "Masculino",
+    "profesion": "Lic. En Ciencias de la Educación ",
+    "telefono": "23991621-1622",
+    "blog": "http://www.asambleanacional.gob.ec/blogs/oscarledesma",
+    "suplente": [ "Karina Maritza Salazar Martínez" ],
+    "proyectos de ley presentados": "1",
+    "observaciones a proyectos de ley": "nan",
+    "pedidos de informacion": "nan",
+    "redes": [
+      {
+        "email": " oscar.ledesma@asambleanacional.gob.ec",
+        "twitter": "https://twitter.com/osaleza8181"
+      }
+    ],
+    "votaciones": {
+      "asistencias": "445",
+      "suplentes": "55",
+      "ausencias": "29"
+    },
+    "comisiones": [{
+      "comision": "Comisión Permanente de Biodiversidad y Recursos Naturales",
+      "rol": "Vicepresidente"
+    }]
+  },
+  {
+    "nombre": "Henry Manuel Llanes Suarez",
+    "partido": "Movimiento Político Nacional Creando Oportunidades",
+    "provincia": "Pichincha",
+    "tipo": "Provincial",
+    "genero": "Masculino",
+    "profesion": "Lcdo. En Sociología y Ciencias Polticas",
+    "telefono": "0998034794",
+    "blog": "http://www.asambleanacional.gob.ec/es/blogs/henry-manuel-llanes-suarez",
+    "suplente": [ ],
+    "proyectos de ley presentados": "7",
+    "observaciones a proyectos de ley": "1",
+    "pedidos de informacion": "2",
+    "redes": [
+      {
+        "email": "henryllanes35@gmail.com",
+        "twitter": "https://twitter.com/henry_llanes"
+      }
+    ],
+    "votaciones": {
+      "asistencias": "63",
+      "suplentes": "0",
+      "ausencias": "2"
+    },
+    "comisiones": []
+  },
+  {
+    "nombre": "Rita Matías Apolinario",
+    "partido": " Movimiento Peninsular Creyendo en Nuestra Gente",
+    "provincia": "Santa Elena",
+    "tipo": "Provincial",
+    "genero": "Femenino",
+    "profesion": "nan",
+    "telefono": "nan",
+    "blog": "nan",
+    "suplente": [ ],
+    "proyectos de ley presentados": "nan",
+    "observaciones a proyectos de ley": "nan",
+    "pedidos de informacion": "nan",
+    "redes": [
+      {
+        "email": "nan",
+        "twitter": "https://twitter.com/RitaMatiasA"
+      }
+    ],
+    "votaciones": {
+      "asistencias": "222",
+      "suplentes": "0",
+      "ausencias": "66"
+    },
+    "comisiones": [{
+      "comision": "Comisión Permanente de Derechos Colectivos, Comunitarios y la Interculturalidad",
+      "rol": "Integrante"
+    }]
+  },
+  {
+    "nombre": "Víctor Clemente Medina Mera",
+    "partido": "Movimiento Alianza PAIS",
+    "provincia": "Guayas",
+    "tipo": "Provincial",
+    "genero": "Masculino",
+    "profesion": "Abogado",
+    "telefono": "3991000",
+    "blog": "http://www.asambleanacional.gob.ec/blogs/victormedina",
+    "suplente": [ ],
+    "proyectos de ley presentados": "nan",
+    "observaciones a proyectos de ley": "nan",
+    "pedidos de informacion": "nan",
+    "redes": [
+      {
+        "email": "victor.medina@asambleanacional.gob.ec",
+        "twitter": "https://twitter.com/MashiVictmedina"
+      }
+    ],
+    "votaciones": {
+      "asistencias": "244",
+      "suplentes": "22",
+      "ausencias": "155"
+    },
+    "comisiones": [{
+      "comision": "Comisión Permanente de Derechos a la salud",
+      "rol": "Integrante"
+    },{
+      "comision": "Comisión Permanente de Fiscalización y Control Político",
+      "rol": "Integrante"
+    }]
+  },
+  {
+    "nombre": "Esteban Andrés Melo Garzón",
+    "partido": "Movimiento Alianza PAIS",
+    "provincia": "Europa, Asia y Oceanía",
+    "tipo": "Represante Extranjero",
+    "genero": "Masculino",
+    "profesion": "Lic. Ciencias Económicas",
+    "telefono": "3991625-1626",
+    "blog": "http://www.asambleanacional.gob.ec/blogs/estebanmelo",
+    "suplente": [ "Amparo Diana Moreno Chiriboga" ],
+    "proyectos de ley presentados": "1",
+    "observaciones a proyectos de ley": "nan",
+    "pedidos de informacion": "nan",
+    "redes": [
+      {
+        "email": "esteban.melo@asambleanacional.gob.ec",
+        "twitter": "https://twitter.com/EstebanMeloG"
+      }
+    ],
+    "votaciones": {
+      "asistencias": "405",
+      "suplentes": "170",
+      "ausencias": "14"
+    },
+    "comisiones": [{
+      "comision": "Comisión Permanente de Desarrollo Económico, Productivo y la Microempresa",
+      "rol": "Integrante"
+    },{
+      "comision": "Comisión Permanente de Fiscalización y Control Político",
+      "rol": "Integrante"
+    }]
+  },
+  {
+    "nombre": "Daniel Isac Mendoza Arévalo",
+    "partido": "Movimiento Alianza PAIS",
+    "provincia": "Manabí",
+    "tipo": "Provincial",
+    "genero": "Masculino",
+    "profesion": "nan",
+    "telefono": "nan",
+    "blog": "nan",
+    "suplente": [ ],
+    "proyectos de ley presentados": "1",
+    "observaciones a proyectos de ley": "nan",
+    "pedidos de informacion": "nan",
+    "redes": [
+      {
+        "email": "nan",
+        "twitter": "nan"
+      }
+    ],
+    "votaciones": {
+      "asistencias": "95",
+      "suplentes": "5",
+      "ausencias": "22"
+    },
+    "comisiones": []
+  },
+  {
+    "nombre": "José Ricardo Moncayo Cevallos",
+    "partido": "Movimiento Político Nacional Creando Oportunidades",
+    "provincia": "Chimborazo",
+    "tipo": "Provincial",
+    "genero": "Masculino",
+    "profesion": "Arquitecto  Urbanista ",
+    "telefono": "23991565-1566",
+    "blog": "http://www.asambleanacional.gob.ec/blogs/josemoncayo",
+    "suplente": [ "Patricio Corral Dávalos" ],
+    "proyectos de ley presentados": "1",
+    "observaciones a proyectos de ley": "nan",
+    "pedidos de informacion": "nan",
+    "redes": [
+      {
+        "email": "jose.moncayo@asambleanacional.gob.ec",
+        "twitter": "nan"
+      }
+    ],
+    "votaciones": {
+      "asistencias": "394",
+      "suplentes": "28",
+      "ausencias": "107"
+    },
+    "comisiones": [{
+      "comision": "Comisión Permanente de Educación, Cultura y Ciencia y Tecnología",
+      "rol": "integrante"
+    }]
+  },
+  {
+    "nombre": "Mae Montaño Valencia",
+    "partido": "Movimiento Político Nacional Creando Oportunidades",
+    "provincia": "Nacional",
+    "tipo": "Nacional",
+    "genero": "Femenino",
+    "profesion": "Lic. Ciencias de la Educación",
+    "telefono": "239911563-1564",
+    "blog": "http://www.asambleanacional.gob.ec/blogs/maemontano",
+    "suplente": [ "José Patricio López Andrade" ],
+    "proyectos de ley presentados": "8",
+    "observaciones a proyectos de ley": "6",
+    "pedidos de informacion": "nan",
+    "redes": [
+      {
+        "email": "mae.montano@asambleanacional.gob.ec",
+        "twitter": "https://twitter.com/maemontanov"
+      }
+    ],
+    "votaciones": {
+      "asistencias": "497",
+      "suplentes": "12",
+      "ausencias": "20"
+    },
+    "comisiones": [{
+      "comision": "Comisión Permanente de Participación Ciudadana y Control Social",
+      "rol": "Integrante"
+    }]
+  },
+  {
+    "nombre": "Santiago Montenegro",
+    "partido": "Movimiento Alianza PAIS",
+    "provincia": "Manabí",
+    "tipo": "Provincial",
+    "genero": "Masculino",
+    "profesion": "nan",
+    "telefono": "nan",
+    "blog": "nan",
+    "suplente": [ "Irma Gómez" ],
+    "proyectos de ley presentados": "nan",
+    "observaciones a proyectos de ley": "nan",
+    "pedidos de informacion": "nan",
+    "redes": [
+      {
+        "email": "nan",
+        "twitter": "https://twitter.com/smontenegro2923"
+      }
+    ],
+    "votaciones": {
+      "asistencias": "171",
+      "suplentes": "8",
+      "ausencias": "78"
+    },
+    "comisiones": [{
+      "comision": "Comisión Permanente de Derechos Colectivos, Comunitarios y la Interculturalidad",
+      "rol": "Integrante"
+    }]
+  },
+  {
+    "nombre": "Grace Holanda Moreira Macías",
+    "partido": "Independiente ",
+    "provincia": "Nacional",
+    "tipo": "Nacional",
+    "genero": "Femenino",
+    "profesion": "nan",
+    "telefono": "nan",
+    "blog": "nan",
+    "suplente": [ "Andrea Macías Huerta | Andrea Macias Huerta | Christian Garzón" ],
+    "proyectos de ley presentados": "nan",
+    "observaciones a proyectos de ley": "nan",
+    "pedidos de informacion": "nan",
+    "redes": [
+      {
+        "email": "nan",
+        "twitter": "https://twitter.com/gracemoreima"
+      }
+    ],
+    "votaciones": {
+      "asistencias": "154",
+      "suplentes": "123",
+      "ausencias": "39"
+    },
+    "comisiones": [{
+      "comision": "Comisión Permanente de Régimen Económico y Tributario y su Regulación y Control",
+      "rol": "Integrante"
+    }]
+  },
+  {
+    "nombre": "Miguel Angel Moreta Panchez",
+    "partido": "Movimiento Político Nacional Creando Oportunidades",
+    "provincia": "Santo Domingo de los Tsáchilas",
+    "tipo": "Provincial",
+    "genero": "Masculino",
+    "profesion": "Doctor en Jurisprudencia y Abogado",
+    "telefono": "23991561-1562",
+    "blog": "http://www.asambleanacional.gob.ec/blogs/miguelmoreta",
+    "suplente": [ "Walther Oswaldo Sivinta Taipe" ],
+    "proyectos de ley presentados": "8",
+    "observaciones a proyectos de ley": "25",
+    "pedidos de informacion": "26",
+    "redes": [
+      {
+        "email": "miguel.moreta@asambleanacional.gob.ec",
+        "twitter": "https://twitter.com/miguelamoreta "
+      }
+    ],
+    "votaciones": {
+      "asistencias": "460",
+      "suplentes": "15",
+      "ausencias": "54"
+    },
+    "comisiones": [{
+      "comision": "Comisión Permanente de Justicia y Estructura del Estado",
+      "rol": "Integrante"
+    }]
+  },
+  {
+    "nombre": "Isabel Piedad Mosquera Yánez",
+    "partido": "Movimiento Alianza PAIS",
+    "provincia": "Nacional",
+    "tipo": "Nacional",
+    "genero": "Femenino",
+    "profesion": "nan",
+    "telefono": "3991000",
+    "blog": "http://www.asambleanacional.gob.ec/blogs/isabelmosquera",
+    "suplente": [ ],
+    "proyectos de ley presentados": "nan",
+    "observaciones a proyectos de ley": "nan",
+    "pedidos de informacion": "nan",
+    "redes": [
+      {
+        "email": "isabel.mosquera@asambleanacional.gob.ec",
+        "twitter": "nan"
+      }
+    ],
+    "votaciones": {
+      "asistencias": "271",
+      "suplentes": "40",
+      "ausencias": "110"
+    },
+    "comisiones": [{
+      "comision": "Comisión Permanente de Participación Ciudadana y Control Social",
+      "rol": "Integrante"
+    }]
+  },
+  {
+    "nombre": "Herman Anibal Moya Duque",
+    "partido": "Movimiento Alianza PAIS",
+    "provincia": "Napo",
+    "tipo": "Provincial",
+    "genero": "Masculino",
+    "profesion": "Licenciado en Ciencias de la Eduación",
+    "telefono": "nan",
+    "blog": "http://www.asambleanacional.gob.ec/contenido/asambleista_herman_moya_duque",
+    "suplente": [ "Ing.Campos Elías Rosales" ],
+    "proyectos de ley presentados": "nan",
+    "observaciones a proyectos de ley": "nan",
+    "pedidos de informacion": "nan",
+    "redes": [
+      {
+        "email": "nan",
+        "twitter": "https://twitter.com/moya_herman"
+      }
+    ],
+    "votaciones": {
+      "asistencias": "364",
+      "suplentes": "16",
+      "ausencias": "41"
+    },
+    "comisiones": [{
+      "comision": "Comisión Permanente de Educación, Cultura y Ciencia y Tecnología",
+      "rol": "integrante"
+    }]
+  },
+  {
+    "nombre": "Rosa Elvira Muñoz Avendaño",
+    "partido": "Movimiento Alianza PAIS",
+    "provincia": "Chimborazo",
+    "tipo": "Provincial",
+    "genero": "Femenino",
+    "profesion": "Abogada",
+    "telefono": "23991075",
+    "blog": "http://www.asambleanacional.gob.ec/blogs/rosamunoz",
+    "suplente": [ "Rafael Lucero Sisa" ],
+    "proyectos de ley presentados": "nan",
+    "observaciones a proyectos de ley": "nan",
+    "pedidos de informacion": "nan",
+    "redes": [
+      {
+        "email": "rosa.munoz@asambleanacional.gob.ec",
+        "twitter": "nan"
+      }
+    ],
+    "votaciones": {
+      "asistencias": "431",
+      "suplentes": "27",
+      "ausencias": "71"
+    },
+    "comisiones": [{
+      "comision": "Comisión Permanente de Soberanía Alimentaria y Desarrollo del Sector Agropecuario y Pesquero",
+      "rol": "Integrante"
+    },{
+      "comision": "Comisión Especial para tratar la propuesta de enmiendas constitucionales",
+      "rol": "Integrante"
+    }]
+  },
+  {
+    "nombre": "Mariangel Muñoz Vicuña",
+    "partido": "Movimiento Alianza PAIS",
+    "provincia": "Azuay",
+    "tipo": "Provincial",
+    "genero": "Femenino",
+    "profesion": "Abogada",
+    "telefono": "23991641-1642",
+    "blog": "http://www.asambleanacional.gob.ec/blogs/mariangelmunoz",
+    "suplente": [ "Fausto Efraín Ordoñez Almeida" ],
+    "proyectos de ley presentados": "nan",
+    "observaciones a proyectos de ley": "nan",
+    "pedidos de informacion": "nan",
+    "redes": [
+      {
+        "email": "mariangel.munoz@asambleanacional.gob.ec",
+        "twitter": "https://twitter.com/MariangelMuoz"
+      }
+    ],
+    "votaciones": {
+      "asistencias": "370",
+      "suplentes": "44",
+      "ausencias": "115"
+    },
+    "comisiones": [{
+      "comision": "Comisión Permanente de Justicia y Estructura del Estado",
+      "rol": "Vicepresidente"
+    }]
+  },
+  {
+    "nombre": "María Alexandra Ocles Padilla",
+    "partido": "Movimiento Alianza PAIS",
+    "provincia": "Nacional",
+    "tipo": "Nacional",
+    "genero": "Femenino",
+    "profesion": "Licenciada en Ciencias de la Educación",
+    "telefono": "23991629/1630",
+    "blog": "http://www.asambleanacional.gob.ec/blogs/alexandraocles",
+    "suplente": [ "Hector Hugo Quiroz Vallejo" ],
+    "proyectos de ley presentados": "1",
+    "observaciones a proyectos de ley": "nan",
+    "pedidos de informacion": "nan",
+    "redes": [
+      {
+        "email": "alexandra.ocles@asambleanacional.gob.ec",
+        "twitter": "https://twitter.com/alexocles"
+      }
+    ],
+    "votaciones": {
+      "asistencias": "455",
+      "suplentes": "46",
+      "ausencias": "28"
+    },
+    "comisiones": [{
+      "comision": "Comisión Permanente de Gobiernos Autónomos, Descentralización, Competencias y Organización Territorial",
+      "rol": "Integrante"
+    },{
+      "comision": "Comisión Permanente de Fiscalización y Control Político",
+      "rol": "Integrante"
+    }]
+  },
+  {
+    "nombre": "Magali Margoth Orellana Marquinez",
+    "partido": "Movimiento de Unidad Plurinacional Pachakutik",
+    "provincia": "Orellana",
+    "tipo": "Provincial",
+    "genero": "Femenino",
+    "profesion": "Ingeniera en Sistemas",
+    "telefono": "23991547-1548",
+    "blog": "http://www.asambleanacional.gob.ec/blogs/magaliorellana",
+    "suplente": [ "Manuel Yanza | Carlos Martín Gaibor Romero" ],
+    "proyectos de ley presentados": "5",
+    "observaciones a proyectos de ley": "nan",
+    "pedidos de informacion": "nan",
+    "redes": [
+      {
+        "email": "magali.orellana@asambleanacional.gob.ec",
+        "twitter": "https://twitter.com/magyorellana"
+      }
+    ],
+    "votaciones": {
+      "asistencias": "307",
+      "suplentes": "86",
+      "ausencias": "136"
+    },
+    "comisiones": [{
+      "comision": "Comisión Permanente de Justicia y Estructura del Estado",
+      "rol": "Integrante"
+    }]
+  },
+  {
+    "nombre": "Esther Flavia Ortiz Gaspar",
+    "partido": "Movimiento Alianza PAIS",
+    "provincia": "Esmeraldas",
+    "tipo": "Provincial",
+    "genero": "Femenino",
+    "profesion": "nan",
+    "telefono": "23991653/1654",
+    "blog": "http://www.asambleanacional.gob.ec/blogs/estherortiz",
+    "suplente": [ "Esther Ortiz" ],
+    "proyectos de ley presentados": "nan",
+    "observaciones a proyectos de ley": "nan",
+    "pedidos de informacion": "nan",
+    "redes": [
+      {
+        "email": "esther.ortiz@asambleanacional.gob.ec",
+        "twitter": "https://twitter.com/esthersitaortiz"
+      }
+    ],
+    "votaciones": {
+      "asistencias": "347",
+      "suplentes": "100",
+      "ausencias": "46"
+    },
+    "comisiones": [{
+      "comision": "Comisión Permanente de Soberanía Alimentaria y Desarrollo del Sector Agropecuario y Pesquero",
+      "rol": "Integrante"
+    }]
+  },
+  {
+    "nombre": "Bayron Eduardo Pacheco Ordóñez",
+    "partido": "Partido Político AVANZA",
+    "provincia": "Cañar",
+    "tipo": "Provincial",
+    "genero": "Masculino",
+    "profesion": "Abogado y Doctor en Jurisprudencia",
+    "telefono": "23991511-1512",
+    "blog": "http://www.asambleanacional.gob.ec/blogs/bayronpacheco",
+    "suplente": [ "Ruth Elizabeth Loyola Vásquez" ],
+    "proyectos de ley presentados": "5",
+    "observaciones a proyectos de ley": "13",
+    "pedidos de informacion": "23",
+    "redes": [
+      {
+        "email": "bayron.pacheco@asambleanacional.gob.ec",
+        "twitter": "https://twitter.com/BAYRONPACHECO"
+      }
+    ],
+    "votaciones": {
+      "asistencias": "349",
+      "suplentes": "24",
+      "ausencias": "156"
+    },
+    "comisiones": [{
+      "comision": "Comisión Permanente de Derechos a la salud",
+      "rol": "Integrante"
+    },{
+      "comision": "Comisión Especial para tratar la propuesta de enmiendas constitucionales",
+      "rol": "Integrante"
+    }]
+  },
+  {
+    "nombre": "Gladys Paulina Padrón Saeteros",
+    "partido": "Movimiento Alianza PAIS",
+    "provincia": "Cañar",
+    "tipo": "Provincial",
+    "genero": "Femenino",
+    "profesion": " Ingeniera en Turismo",
+    "telefono": "23991631-1632",
+    "blog": "http://www.asambleanacional.gob.ec/blogs/gladyspadron",
+    "suplente": [ "Luis Lorenzo Sanango Aucama" ],
+    "proyectos de ley presentados": "nan",
+    "observaciones a proyectos de ley": "nan",
+    "pedidos de informacion": "nan",
+    "redes": [
+      {
+        "email": " gladys.padron@asambleanacional.gob.ec",
+        "twitter": "https://twitter.com/PaulinaPadrn"
+      }
+    ],
+    "votaciones": {
+      "asistencias": "426",
+      "suplentes": "78",
+      "ausencias": "25"
+    },
+    "comisiones": [{
+      "comision": "Comisión Permanente de Derechos Colectivos, Comunitarios y la Interculturalidad",
+      "rol": "Integrante"
+    }]
+  },
+  {
+    "nombre": "Diana Lucía Peña Carrasco",
+    "partido": "Movimiento Alianza PAIS",
+    "provincia": "América Latina, El Caribe y África",
+    "tipo": "Represante Extranjero",
+    "genero": "Femenino",
+    "profesion": "nan",
+    "telefono": "3991601-1602",
+    "blog": "http://www.asambleanacional.gob.ec/blogs/dianapena",
+    "suplente": [ "José Eduardo Torres Lara" ],
+    "proyectos de ley presentados": "2",
+    "observaciones a proyectos de ley": "nan",
+    "pedidos de informacion": "nan",
+    "redes": [
+      {
+        "email": "diana.pena@asambleanacional.gob.ec",
+        "twitter": "https://twitter.com/dianapenaec"
+      }
+    ],
+    "votaciones": {
+      "asistencias": "307",
+      "suplentes": "138",
+      "ausencias": "84"
+    },
+    "comisiones": [{
+      "comision": "Comisión Permanente de Derechos de los Trabajadores y la Seguridad Social",
+      "rol": "Integrante"
+    }]
+  },
+  {
+    "nombre": "Juana Marisol Peñafiel Montesdeoca",
+    "partido": "Movimiento Alianza PAIS",
+    "provincia": "Imbabura",
+    "tipo": "Provincial",
+    "genero": "Femenino",
+    "profesion": "Abogada y Doctora en Jurisprudencia",
+    "telefono": "23991687-1688",
+    "blog": "http://www.asambleanacional.gob.ec/blogs/marisolpenafiel",
+    "suplente": [ "Gisela Quinchiguango" ],
+    "proyectos de ley presentados": "nan",
+    "observaciones a proyectos de ley": "nan",
+    "pedidos de informacion": "nan",
+    "redes": [
+      {
+        "email": "marisol.penafiel@asambleanacional.gob.ec",
+        "twitter": "https://twitter.com/MARISOLPENAFIEL"
+      }
+    ],
+    "votaciones": {
+      "asistencias": "382",
+      "suplentes": "86",
+      "ausencias": "61"
+    },
+    "comisiones": [{
+      "comision": "Comisión Permanente de Justicia y Estructura del Estado",
+      "rol": "Integrante"
+    },{
+      "comision": "Comisión Permanente de Fiscalización y Control Político",
+      "rol": "Integrante"
+    }]
+  },
+  {
+    "nombre": "Ximena del Rocío Peña Pacheco",
+    "partido": "Movimiento Alianza PAIS",
+    "provincia": "EEUU y Canadá",
+    "tipo": "Represante Extranjero",
+    "genero": "Femenino",
+    "profesion": "Lic. Administracion de Empresas",
+    "telefono": "3991603-1604",
+    "blog": "http://www.asambleanacional.gob.ec/blogs/ximenapena",
+    "suplente": [ "Hernán Astudillo" ],
+    "proyectos de ley presentados": "1",
+    "observaciones a proyectos de ley": "nan",
+    "pedidos de informacion": "nan",
+    "redes": [
+      {
+        "email": "ximena.pena@asambleanacional.gob.ec",
+        "twitter": "https://twitter.com/XimenaPena1 "
+      }
+    ],
+    "votaciones": {
+      "asistencias": "390",
+      "suplentes": "24",
+      "ausencias": "115"
+    },
+    "comisiones": [{
+      "comision": "Comisión Permanente de Régimen Económico y Tributario y su Regulación y Control",
+      "rol": "Integrante"
+    }]
+  },
+  {
+    "nombre": "Ximena Mercedes Ponce León",
+    "partido": "Movimiento Alianza PAIS",
+    "provincia": "Pichincha",
+    "tipo": "Provincial",
+    "genero": "Femenino",
+    "profesion": "Magister en Ingeniería Industrial",
+    "telefono": "23991054-1058",
+    "blog": "http://www.asambleanacional.gob.ec/blogs/ximenaponce",
+    "suplente": [ "Segundo Modesto Campoverde Calva" ],
+    "proyectos de ley presentados": "nan",
+    "observaciones a proyectos de ley": "nan",
+    "pedidos de informacion": "nan",
+    "redes": [
+      {
+        "email": "ximena.ponce@asambleanacional.gob.ec",
+        "twitter": "https://twitter.com/XimePonceLeon"
+      }
+    ],
+    "votaciones": {
+      "asistencias": "404",
+      "suplentes": "107",
+      "ausencias": "18"
+    },
+    "comisiones": [{
+      "comision": "Comisión Permanente de Derechos a la salud",
+      "rol": "Integrante"
+    },
+    {
+      "comision": "Comisión Permanente de Educación, Cultura y Ciencia y Tecnología",
+      "rol": "Vicepresidente"
+    }]
+  },
+  {
+    "nombre": "Luis Antonio Posso Salgado",
+    "partido": "Partido Político AVANZA",
+    "provincia": "Imbabura",
+    "tipo": "Provincial",
+    "genero": "Masculino",
+    "profesion": "Doctor en Ciencias de la Eduación",
+    "telefono": "23991521-1522",
+    "blog": "http://www.asambleanacional.gob.ec/blogs/luisposso",
+    "suplente": [ "Alicia Magadalena Soto Montalvo" ],
+    "proyectos de ley presentados": "7",
+    "observaciones a proyectos de ley": "nan",
+    "pedidos de informacion": "nan",
+    "redes": [
+      {
+        "email": " luis.posso@asambleanacional.gob.ec",
+        "twitter": "https://twitter.com/PossoAntonio"
+      }
+    ],
+    "votaciones": {
+      "asistencias": "354",
+      "suplentes": "13",
+      "ausencias": "162"
+    },
+    "comisiones": [{
+      "comision": "Comisión Permanente de Derechos Colectivos, Comunitarios y la Interculturalidad",
+      "rol": "Integrante"
+    }]
+  },
+  {
+    "nombre": "Roberth Mauricio Proaño Cifuentes",
+    "partido": "Movimiento Alianza PAIS",
+    "provincia": "Pichincha",
+    "tipo": "Provincial",
+    "genero": "Masculino",
+    "profesion": "Magister en Desarrollo Rural",
+    "telefono": "23991000",
+    "blog": "http://www.asambleanacional.gob.ec/blogs/roberthproano",
+    "suplente": [ "Jenny Elizabeth Pillajo Tuqures" ],
+    "proyectos de ley presentados": "4",
+    "observaciones a proyectos de ley": "nan",
+    "pedidos de informacion": "nan",
+    "redes": [
+      {
+        "email": "roberth.proano@asambleanacional.gob.ec",
+        "twitter": "https://twitter.com/MauricioProanio  "
+      }
+    ],
+    "votaciones": {
+      "asistencias": "393",
+      "suplentes": "100",
+      "ausencias": "36"
+    },
+    "comisiones": [{
+      "comision": "Comisión Permanente de Soberanía Alimentaria y Desarrollo del Sector Agropecuario y Pesquero",
+      "rol": "Vicepresidente"
+    }]
+  },
+  {
+    "nombre": "María Elizabeth Reinoso Lescano",
+    "partido": "Movimiento Alianza PAIS",
+    "provincia": "Tungurahua",
+    "tipo": "Provincial",
+    "genero": "Femenino",
+    "profesion": "Ingeniera en Contabilidad y Auditoria",
+    "telefono": "023991662 - 023991661",
+    "blog": "http://www.asambleanacional.gob.ec/blogs/elizabethreinoso",
+    "suplente": [ "Leonardo Darío Velasteguí Ramos" ],
+    "proyectos de ley presentados": "nan",
+    "observaciones a proyectos de ley": "nan",
+    "pedidos de informacion": "nan",
+    "redes": [
+      {
+        "email": "maria.reinoso@asambleanacional.gob.ec",
+        "twitter": "https://twitter.com/ElizabethReino8"
+      }
+    ],
+    "votaciones": {
+      "asistencias": "311",
+      "suplentes": "67",
+      "ausencias": "43"
+    },
+    "comisiones": [{
+      "comision": "Comisión Permanente de Biodiversidad y Recursos Naturales",
+      "rol": "Integrante"
+    }]
+  },
+  {
+    "nombre": "Cristina Eugenia Reyes Hidalgo",
+    "partido": "Partido Social Cristiano",
+    "provincia": "Guayas",
+    "tipo": "Provincial",
+    "genero": "Femenino",
+    "profesion": "Abogada",
+    "telefono": "3991531-1532",
+    "blog": "http://www.asambleanacional.gob.ec/blogs/cristinareyes",
+    "suplente": [ "Pablo Andrés Muentes Alvarado" ],
+    "proyectos de ley presentados": "8",
+    "observaciones a proyectos de ley": "14",
+    "pedidos de informacion": "4",
+    "redes": [
+      {
+        "email": "cristina.reyes@asambleanacional.gob.ec",
+        "twitter": "https://twitter.com/CristinaReyesec"
+      }
+    ],
+    "votaciones": {
+      "asistencias": "360",
+      "suplentes": "39",
+      "ausencias": "130"
+    },
+    "comisiones": [{
+      "comision": "Comisión Permanente de Derechos de los Trabajadores y la Seguridad Social",
+      "rol": "Integrante"
+    }]
+  },
+  {
+    "nombre": "Gabriela Alejandra Rivadeneira Burbano",
+    "partido": "Movimiento Alianza PAIS",
+    "provincia": "Imbabura",
+    "tipo": "Nacional",
+    "genero": "Femenino",
+    "profesion": "Lic. Ingeniería en Desarrollo. (semestre final)",
+    "telefono": "nan",
+    "blog": "http://www.asambleanacional.gob.ec/blogs/gabrielarivadeneira",
+    "suplente": [ "Francisco Marcelo Solórzano Avilés" ],
+    "proyectos de ley presentados": "6",
+    "observaciones a proyectos de ley": "nan",
+    "pedidos de informacion": "nan",
+    "redes": [
+      {
+        "email": "nan",
+        "twitter": "https://twitter.com/GabrielaEsPais"
+      }
+    ],
+    "votaciones": {
+      "asistencias": "424",
+      "suplentes": "43",
+      "ausencias": "62"
+    },
+    "comisiones": []
+  },
+  {
+    "nombre": "Ángel Armando Rivero Doguer",
+    "partido": "Movimiento Alianza PAIS",
+    "provincia": "Guayas",
+    "tipo": "Provincial",
+    "genero": "Masculino",
+    "profesion": "Dirigente social",
+    "telefono": "3991605-1606",
+    "blog": "http://www.asambleanacional.gob.ec/blogs/angelrivero",
+    "suplente": [ "Anita Patricia Barahona Revelo" ],
+    "proyectos de ley presentados": "3",
+    "observaciones a proyectos de ley": "nan",
+    "pedidos de informacion": "nan",
+    "redes": [
+      {
+        "email": " angel.rivero@asambleanacional.gob.ec",
+        "twitter": "https://twitter.com/angelriverogogu"
+      }
+    ],
+    "votaciones": {
+      "asistencias": "342",
+      "suplentes": "98",
+      "ausencias": "89"
+    },
+    "comisiones": [{
+      "comision": "Comisión Permanente de Derechos de los Trabajadores y la Seguridad Social",
+      "rol": "Vicepresidente"
+    }]
+  },
+  {
+    "nombre": "María Verónica Rodríguez Delgado",
+    "partido": "Alianza PAIS - Unidad Primero",
+    "provincia": "Manabí",
+    "tipo": "Provincial",
+    "genero": "Femenino",
+    "profesion": "Gerente Bancaria ",
+    "telefono": "39911505-1506",
+    "blog": "http://www.asambleanacional.gob.ec/blogs/mariarodriguez",
+    "suplente": [ "amalia moran" ],
+    "proyectos de ley presentados": "nan",
+    "observaciones a proyectos de ley": "nan",
+    "pedidos de informacion": "nan",
+    "redes": [
+      {
+        "email": "maria.rodriguez@asambleanacional.gob.ec",
+        "twitter": "https://twitter.com/verorodriguezd"
+      }
+    ],
+    "votaciones": {
+      "asistencias": "398",
+      "suplentes": "19",
+      "ausencias": "112"
+    },
+    "comisiones": [{
+      "comision": "Comisión Permanente de Soberanía, Integración, Relaciones Internacionales y Seguridad Integral",
+      "rol": "Integrante"
+    }]
+  },
+  {
+    "nombre": "Franco Segundo Romero Loayza",
+    "partido": "Independiente ",
+    "provincia": "El Oro",
+    "tipo": "Provincial",
+    "genero": "Masculino",
+    "profesion": "nan",
+    "telefono": "3991529-1530",
+    "blog": "http://www.asambleanacional.gob.ec/blogs/francoromero",
+    "suplente": [ "Mercedes Maritza Serrano Viteri" ],
+    "proyectos de ley presentados": "1",
+    "observaciones a proyectos de ley": "nan",
+    "pedidos de informacion": "nan",
+    "redes": [
+      {
+        "email": "franco.romero@asambleanacional.gob.ec",
+        "twitter": "nan"
+      }
+    ],
+    "votaciones": {
+      "asistencias": "435",
+      "suplentes": "18",
+      "ausencias": "76"
+    },
+    "comisiones": [{
+      "comision": "Comisión Permanente de Soberanía, Integración, Relaciones Internacionales y Seguridad Integral",
+      "rol": "Integrante"
+    }]
+  },
+  {
+    "nombre": "Lautaro Enrique Sáenz de Viteri Zajia",
+    "partido": "Movimiento Alianza PAIS",
+    "provincia": "Los Ríos",
+    "tipo": "Provincial",
+    "genero": "Masculino",
+    "profesion": "Estudiante de derecho",
+    "telefono": "3991609-1610",
+    "blog": "http://www.asambleanacional.gob.ec/blogs/lautarosaenz",
+    "suplente": [ "Beatríz Candelaria García Pluas" ],
+    "proyectos de ley presentados": "nan",
+    "observaciones a proyectos de ley": "nan",
+    "pedidos de informacion": "nan",
+    "redes": [
+      {
+        "email": " lautaro.saenz@asambleanacional.gob.ec",
+        "twitter": "https://twitter.com/lautarosaenz_z"
+      }
+    ],
+    "votaciones": {
+      "asistencias": "183",
+      "suplentes": "92",
+      "ausencias": "254"
+    },
+    "comisiones": [{
+      "comision": "Comisión Permanente de Derechos de los Trabajadores y la Seguridad Social",
+      "rol": "Integrante"
+    }]
+  },
+  {
+    "nombre": "Guadalupe Dolores Salazar Cedeño",
+    "partido": "Movimiento Alianza PAIS",
+    "provincia": "Guayas",
+    "tipo": "Provincial",
+    "genero": "Femenino",
+    "profesion": "Maestra de Educación Básica",
+    "telefono": "3991170-1171",
+    "blog": "http://www.asambleanacional.gob.ec/blogs/guadalupesalazar",
+    "suplente": [ "Bolívar Stalin Subia Barreiro" ],
+    "proyectos de ley presentados": "2",
+    "observaciones a proyectos de ley": "1",
+    "pedidos de informacion": "nan",
+    "redes": [
+      {
+        "email": " guadalupe.salazar@asambleanacional.gob.ec",
+        "twitter": "https://twitter.com/lolysalazar35"
+      }
+    ],
+    "votaciones": {
+      "asistencias": "329",
+      "suplentes": "177",
+      "ausencias": "23"
+    },
+    "comisiones": [{
+      "comision": "Comisión Permanente de Derechos Colectivos, Comunitarios y la Interculturalidad",
+      "rol": "Vicepresidente"
+    }]
+  },
+  {
+    "nombre": "Diego Salgado Rivadeneira",
+    "partido": "Movimiento Político Nacional Creando Oportunidades",
+    "provincia": "Pichincha",
+    "tipo": "Provincial",
+    "genero": "Masculino",
+    "profesion": "Lic en ciencias politicas e internacionales",
+    "telefono": "3991557-1558",
+    "blog": "http://www.asambleanacional.gob.ec/blogs/diegosalgado",
+    "suplente": [ "Alisva Arruelas , Cristina Plaza" ],
+    "proyectos de ley presentados": "nan",
+    "observaciones a proyectos de ley": "nan",
+    "pedidos de informacion": "nan",
+    "redes": [
+      {
+        "email": "diego.salgado@asambleanacional.gob.ec",
+        "twitter": "https://twitter.com/diegosalgadorib "
+      }
+    ],
+    "votaciones": {
+      "asistencias": "372",
+      "suplentes": "11",
+      "ausencias": "146"
+    },
+    "comisiones": [{
+      "comision": "Comisión Permanente de Soberanía, Integración, Relaciones Internacionales y Seguridad Integral",
+      "rol": "Integrante"
+    }]
+  },
+  {
+    "nombre": "Montgómery Luis Sánchez Ordoñez",
+    "partido": "Movimiento Alianza PAIS",
+    "provincia": "El Oro",
+    "tipo": "Provincial",
+    "genero": "Masculino",
+    "profesion": "Ingeniero",
+    "telefono": "3991116-1120",
+    "blog": "http://www.asambleanacional.gob.ec/blogs/montgomerysanchez",
+    "suplente": [ "Elena Ana del Rocío Vaca Cojitambo" ],
+    "proyectos de ley presentados": "nan",
+    "observaciones a proyectos de ley": "nan",
+    "pedidos de informacion": "nan",
+    "redes": [
+      {
+        "email": "montgomery.sanchez@asambleanacional.gob.ec",
+        "twitter": "https://twitter.com/MongoAmigo"
+      }
+    ],
+    "votaciones": {
+      "asistencias": "274",
+      "suplentes": "82",
+      "ausencias": "173"
+    },
+    "comisiones": [{
+      "comision": "Comisión Permanente de Gobiernos Autónomos, Descentralización, Competencias y Organización Territorial",
+      "rol": "Integrante"
+    },{
+      "comision": "Comisión Permanente de Fiscalización y Control Político",
+      "rol": "Vicepresidente"
+    }]
+  },
+  {
+    "nombre": "Saadin Alfredo Serrano Valladares",
+    "partido": "Partido Social Cristiano",
+    "provincia": "Nacional",
+    "tipo": "Nacional",
+    "genero": "Masculino",
+    "profesion": "nan",
+    "telefono": "nan",
+    "blog": "nan",
+    "suplente": [ ],
+    "proyectos de ley presentados": "nan",
+    "observaciones a proyectos de ley": "nan",
+    "pedidos de informacion": "nan",
+    "redes": [
+      {
+        "email": "nan",
+        "twitter": "nan"
+      }
+    ],
+    "votaciones": {
+      "asistencias": "20",
+      "suplentes": "34",
+      "ausencias": "5"
+    },
+    "comisiones": []
+  },
+  {
+    "nombre": "Sofía Irene Silva Maldonado",
+    "partido": "Movimiento Alianza PAIS",
+    "provincia": "Los Ríos",
+    "tipo": "Provincial",
+    "genero": "Femenino",
+    "profesion": "nan",
+    "telefono": "nan",
+    "blog": "nan",
+    "suplente": [ ],
+    "proyectos de ley presentados": "nan",
+    "observaciones a proyectos de ley": "nan",
+    "pedidos de informacion": "nan",
+    "redes": [
+      {
+        "email": "nan",
+        "twitter": "nan"
+      }
+    ],
+    "votaciones": {
+      "asistencias": "42",
+      "suplentes": "4",
+      "ausencias": "7"
+    },
+    "comisiones": []
+  },
+  {
+    "nombre": "César Fausto Solorzano Sarria",
+    "partido": "Partido Sociedad Patriótica 21 de enero",
+    "provincia": "Napo",
+    "tipo": "Provincial",
+    "genero": "Masculino",
+    "profesion": "Ingeniero en Sistemas",
+    "telefono": "3991519-1520",
+    "blog": "http://www.asambleanacional.gob.ec/blogs/cesarsolorzano",
+    "suplente": [ "Diana Yolanda Aguinda Tapuy" ],
+    "proyectos de ley presentados": "2",
+    "observaciones a proyectos de ley": "nan",
+    "pedidos de informacion": "nan",
+    "redes": [
+      {
+        "email": " cesar.solorzano@asambleanacional.gob.ec",
+        "twitter": "https://twitter.com/csolorzano3"
+      }
+    ],
+    "votaciones": {
+      "asistencias": "340",
+      "suplentes": "53",
+      "ausencias": "135"
+    },
+    "comisiones": [{
+      "comision": "Comisión Permanente de Biodiversidad y Recursos Naturales",
+      "rol": "Integrante"
+    }]
+  },
+  {
+    "nombre": "Moisés Fernando Tacle Galárraga",
+    "partido": "Partido Social Cristiano",
+    "provincia": "Guayas",
+    "tipo": "Provincial",
+    "genero": "Masculino",
+    "profesion": "Político",
+    "telefono": "3991322-1323",
+    "blog": "http://www.asambleanacional.gob.ec/blogs/moisestacle",
+    "suplente": [ "Olga Mercedes Alava Vargas" ],
+    "proyectos de ley presentados": "1",
+    "observaciones a proyectos de ley": "23",
+    "pedidos de informacion": "nan",
+    "redes": [
+      {
+        "email": " moises.tacle@asambleanacional.gob.ec",
+        "twitter": "https://twitter.com/MoisesTacle"
+      }
+    ],
+    "votaciones": {
+      "asistencias": "441",
+      "suplentes": "6",
+      "ausencias": "82"
+    },
+    "comisiones": [{
+      "comision": "Comisión Permanente de Desarrollo Económico, Productivo y la Microempresa",
+      "rol": "Integrante"
+    }]
+  },
+  {
+    "nombre": "Luis Fernando Tapia Lombeyda",
+    "partido": "Independiente ",
+    "provincia": "Bolívar",
+    "tipo": "Provincial",
+    "genero": "Masculino",
+    "profesion": "Licenciado en Educación Física",
+    "telefono": "3991515-1516",
+    "blog": "http://www.asambleanacional.gob.ec/blogs/luistapia",
+    "suplente": [ "María Paulina Mera Rodríguez" ],
+    "proyectos de ley presentados": "7",
+    "observaciones a proyectos de ley": "7",
+    "pedidos de informacion": "2",
+    "redes": [
+      {
+        "email": "luis.tapia@asambleanacional.gob.ec",
+        "twitter": "nan"
+      }
+    ],
+    "votaciones": {
+      "asistencias": "362",
+      "suplentes": "123",
+      "ausencias": "44"
+    },
+    "comisiones": [{
+      "comision": "Comisión Permanente de Participación Ciudadana y Control Social",
+      "rol": "Integrante"
+    },{
+      "comision": "Comisión Permanente de Fiscalización y Control Político",
+      "rol": "Integrante"
+    }]
+  },
+  {
+    "nombre": "Ramón Fortunato Terán Salcedo",
+    "partido": "Partido Social Cristiano",
+    "provincia": "Los Ríos",
+    "tipo": "Provincial",
+    "genero": "Masculino",
+    "profesion": "Empresario",
+    "telefono": "3991553-1554",
+    "blog": "http://asambleanacional.gob.ec/blogs/ramon_teran",
+    "suplente": [ "Dayse Inés Yela Burgos" ],
+    "proyectos de ley presentados": "nan",
+    "observaciones a proyectos de ley": "nan",
+    "pedidos de informacion": "nan",
+    "redes": [
+      {
+        "email": "ramon.teran@asambleanacional.gob.ec",
+        "twitter": "https://twitter.com/jteransalcedo"
+      }
+    ],
+    "votaciones": {
+      "asistencias": "305",
+      "suplentes": "64",
+      "ausencias": "52"
+    },
+    "comisiones": [{
+      "comision": "Comisión Permanente de Participación Ciudadana y Control Social",
+      "rol": "Integrante"
+    },{
+      "comision": "Comisión Permanente de Fiscalización y Control Político",
+      "rol": "Integrante"
+    }]
+  },
+  {
+    "nombre": "Segundo Fausto Terán Sarzosa",
+    "partido": "Movimiento Alianza PAIS",
+    "provincia": "Manabí",
+    "tipo": "Provincial",
+    "genero": "Masculino",
+    "profesion": "Ing Bursatil",
+    "telefono": "3991329-1330",
+    "blog": "http://www.asambleanacional.gob.ec/blogs/segundoteran",
+    "suplente": [ "Paola De Los Ángeles Cajas Arcos" ],
+    "proyectos de ley presentados": "2",
+    "observaciones a proyectos de ley": "nan",
+    "pedidos de informacion": "nan",
+    "redes": [
+      {
+        "email": "segundo.teran@asambleanacional.gob.ec",
+        "twitter": "https://twitter.com/FaustoTeranS"
+      }
+    ],
+    "votaciones": {
+      "asistencias": "457",
+      "suplentes": "47",
+      "ausencias": "25"
+    },
+    "comisiones": [{
+      "comision": "Comisión Permanente de Gobiernos Autónomos, Descentralización, Competencias y Organización Territorial",
+      "rol": "Vicepresidente"
+    }]
+  },
+  {
+    "nombre": "Lourdes Licenia Tibán Guala",
+    "partido": "Movimiento de Unidad Plurinacional Pachakutik",
+    "provincia": "Nacional",
+    "tipo": "Nacional",
+    "genero": "Femenino",
+    "profesion": "Abogada",
+    "telefono": "3991543-1544",
+    "blog": "http://www.asambleanacional.gob.ec/blogs/lourdestiban",
+    "suplente": [ "Jorge Elías Escala Zambrano" ],
+    "proyectos de ley presentados": "9",
+    "observaciones a proyectos de ley": "nan",
+    "pedidos de informacion": "nan",
+    "redes": [
+      {
+        "email": " lourdes.tiban@asambleanacional.gob.ec",
+        "twitter": "https://twitter.com/LourdesTiban"
+      }
+    ],
+    "votaciones": {
+      "asistencias": "328",
+      "suplentes": "19",
+      "ausencias": "182"
+    },
+    "comisiones": [{
+      "comision": "Comisión Permanente de Soberanía Alimentaria y Desarrollo del Sector Agropecuario y Pesquero",
+      "rol": "Integrante"
+    }]
+  },
+  {
+    "nombre": "Raúl Ignacio Tobar Núñez",
+    "partido": "Movimiento Alianza PAIS",
+    "provincia": "Sucumbíos",
+    "tipo": "Provincial",
+    "genero": "Masculino",
+    "profesion": "Ingeniero en Administración Pública",
+    "telefono": "23991000",
+    "blog": "http://www.asambleanacional.gob.ec/blogs/lourdestiban",
+    "suplente": [ "Pilar Almeida" ],
+    "proyectos de ley presentados": "1",
+    "observaciones a proyectos de ley": "nan",
+    "pedidos de informacion": "nan",
+    "redes": [
+      {
+        "email": "raul.tobar@asambleanacional.gob.ec",
+        "twitter": "https://twitter.com/RaulEsPais"
+      }
+    ],
+    "votaciones": {
+      "asistencias": "354",
+      "suplentes": "49",
+      "ausencias": "18"
+    },
+    "comisiones": [{
+      "comision": "Comisión Permanente de Biodiversidad y Recursos Naturales",
+      "rol": "Integrante"
+    }]
+  },
+  {
+    "nombre": "Luis Fernando Torres Torres",
+    "partido": "Movimiento Cambio-PSC",
+    "provincia": "Tungurahua",
+    "tipo": "Provincial",
+    "genero": "Masculino",
+    "profesion": "Abogado",
+    "telefono": "3991324-1325",
+    "blog": "http://www.asambleanacional.gob.ec/blogs/luistorres",
+    "suplente": [ "Luis Esteban Torres Cobo , María José López Cobo" ],
+    "proyectos de ley presentados": "4",
+    "observaciones a proyectos de ley": "nan",
+    "pedidos de informacion": "nan",
+    "redes": [
+      {
+        "email": "luis.torres@asambleanacional.gob.ec",
+        "twitter": "https://twitter.com/lftorrest "
+      }
+    ],
+    "votaciones": {
+      "asistencias": "428",
+      "suplentes": "42",
+      "ausencias": "59"
+    },
+    "comisiones": [{
+      "comision": "Comisión Permanente de Justicia y Estructura del Estado",
+      "rol": "Integrante"
+    },{
+      "comision": "Comisión Especial para tratar la propuesta de enmiendas constitucionales",
+      "rol": "Integrante"
+    }]
+  },
+  {
+    "nombre": "César Umajinga Guamán",
+    "partido": "Movimiento de Unidad Plurinacional Pachakutik",
+    "provincia": "Cotopaxi",
+    "tipo": "Provincial",
+    "genero": "Masculino",
+    "profesion": "Abogado",
+    "telefono": "3991541-1542",
+    "blog": "http://www.asambleanacional.gob.ec/blogs/cesarumaginga",
+    "suplente": [ "Abrahan Elio Salazar Chicaiza" ],
+    "proyectos de ley presentados": "1",
+    "observaciones a proyectos de ley": "nan",
+    "pedidos de informacion": "nan",
+    "redes": [
+      {
+        "email": "cesar.umaginga@asambleanacional.gob.ec",
+        "twitter": "https://twitter.com/umaginga1969"
+      }
+    ],
+    "votaciones": {
+      "asistencias": "351",
+      "suplentes": "21",
+      "ausencias": "157"
+    },
+    "comisiones": [{
+      "comision": "Comisión Permanente de Soberanía Alimentaria y Desarrollo del Sector Agropecuario y Pesquero",
+      "rol": "Integrante"
+    }]
+  },
+  {
+    "nombre": "Fanny Esther Uribe López",
+    "partido": "Partido Político AVANZA",
+    "provincia": "Galápagos",
+    "tipo": "Provincial",
+    "genero": "Femenino",
+    "profesion": "Licenciada en Ciencias de la Educación",
+    "telefono": "3991503-1504",
+    "blog": "http://www.asambleanacional.gob.ec/blogs/fannyuribe",
+    "suplente": [ "Erminia Ines Gordillo Galarza , Milton Camilo Aguas Sanmiguel" ],
+    "proyectos de ley presentados": "5",
+    "observaciones a proyectos de ley": "nan",
+    "pedidos de informacion": "nan",
+    "redes": [
+      {
+        "email": "fanny.uribe@asambleanacional.gob.ec",
+        "twitter": "https://twitter.com/FannyUribeLopez"
+      }
+    ],
+    "votaciones": {
+      "asistencias": "325",
+      "suplentes": "35",
+      "ausencias": "169"
+    },
+    "comisiones": [{
+      "comision": "Comisión Permanente de Desarrollo Económico, Productivo y la Microempresa",
+      "rol": "Integrante"
+    }]
+  },
+  {
+    "nombre": "Rocío del Carmen Valarezo Ordóñez",
+    "partido": "Movimiento Alianza PAIS",
+    "provincia": "El Oro",
+    "tipo": "Provincial",
+    "genero": "Femenino",
+    "profesion": "Lic en Admionistración Educativa",
+    "telefono": "3991090-1091",
+    "blog": "http://www.asambleanacional.gob.ec/blogs/rociovalarezo",
+    "suplente": [ "Lenin Mauricio Iñiguez Apolo" ],
+    "proyectos de ley presentados": "2",
+    "observaciones a proyectos de ley": "nan",
+    "pedidos de informacion": "nan",
+    "redes": [
+      {
+        "email": "rocio.valarezo@asambleanacional.gob.ec",
+        "twitter": "https://twitter.com/Rocio_Valarezo"
+      }
+    ],
+    "votaciones": {
+      "asistencias": "432",
+      "suplentes": "41",
+      "ausencias": "56"
+    },
+    "comisiones": [{
+      "comision": "Comisión Permanente de Soberanía, Integración, Relaciones Internacionales y Seguridad Integral",
+      "rol": "Integrante"
+    }]
+  },
+  {
+    "nombre": "Bairon Leonardo Valle Pinargote",
+    "partido": "Movimiento Alianza PAIS",
+    "provincia": "Guayas",
+    "tipo": "Provincial",
+    "genero": "Masculino",
+    "profesion": "Profesor",
+    "telefono": "3991331-1332",
+    "blog": "http://www.asambleanacional.gob.ec/blogs/baironvalle",
+    "suplente": [ "Nilda Cecibel Mejía Pluas" ],
+    "proyectos de ley presentados": "1",
+    "observaciones a proyectos de ley": "nan",
+    "pedidos de informacion": "nan",
+    "redes": [
+      {
+        "email": " bairon.valle@asambleanacional.gob.ec",
+        "twitter": "https://twitter.com/BaironValleP"
+      }
+    ],
+    "votaciones": {
+      "asistencias": "379",
+      "suplentes": "149",
+      "ausencias": "0"
+    },
+    "comisiones": [{
+      "comision": "Comisión Permanente de Derechos de los Trabajadores y la Seguridad Social",
+      "rol": "Integrante"
+    }]
+  },
+  {
+    "nombre": "Anny Marllely Vásconez Arteaga",
+    "partido": "Movimiento Alianza PAIS",
+    "provincia": "Nacional",
+    "tipo": "Nacional",
+    "genero": "Femenino",
+    "profesion": "Abogada",
+    "telefono": "3991019-1020",
+    "blog": "http://www.asambleanacional.gob.ec/blogs/marllelyvasconez",
+    "suplente": [ "Rodrigo Collaguazo" ],
+    "proyectos de ley presentados": "2",
+    "observaciones a proyectos de ley": "nan",
+    "pedidos de informacion": "nan",
+    "redes": [
+      {
+        "email": "marllely.vasconez@asambleanacional.gob.ec",
+        "twitter": "https://twitter.com/MarllelyPais35"
+      }
+    ],
+    "votaciones": {
+      "asistencias": "407",
+      "suplentes": "93",
+      "ausencias": "29"
+    },
+    "comisiones": [{
+      "comision": "Comisión Permanente de Derechos de los Trabajadores y la Seguridad Social",
+      "rol": "Presidente"
+    }]
+  },
+  {
+    "nombre": "Ángel Ramiro Vela Caizapanta",
+    "partido": "Movimiento Alianza PAIS",
+    "provincia": "Cotopaxi",
+    "tipo": "Provincial",
+    "genero": "Masculino",
+    "profesion": "Doctor en Psicología Juídica",
+    "telefono": "3991334-1335",
+    "blog": "http://www.asambleanacional.gob.ec/blogs/angelvela",
+    "suplente": [ "Carmen Elena Intriago Macías" ],
+    "proyectos de ley presentados": "nan",
+    "observaciones a proyectos de ley": "nan",
+    "pedidos de informacion": "nan",
+    "redes": [
+      {
+        "email": "angel.vela@asambleanacional.gob.ec",
+        "twitter": "https://twitter.com/Ramiro_A_Vela"
+      }
+    ],
+    "votaciones": {
+      "asistencias": "363",
+      "suplentes": "149",
+      "ausencias": "17"
+    },
+    "comisiones": [{
+      "comision": "Comisión Permanente de Soberanía Alimentaria y Desarrollo del Sector Agropecuario y Pesquero",
+      "rol": "Integrante"
+    }]
+  },
+  {
+    "nombre": "María Soledad Vela Cheroni",
+    "partido": "Movimiento Alianza PAIS",
+    "provincia": "Manabí",
+    "tipo": "Provincial",
+    "genero": "Femenino",
+    "profesion": "Periodista",
+    "telefono": "023991607/1608",
+    "blog": "http://www.asambleanacional.gob.ec/blogs/soledadvela",
+    "suplente": [ "Manuel Antonio Solórzano , Manuel Antonio Solorzano" ],
+    "proyectos de ley presentados": "3",
+    "observaciones a proyectos de ley": "nan",
+    "pedidos de informacion": "nan",
+    "redes": [
+      {
+        "email": " soledad.vela@asambleanacional.gob.ec",
+        "twitter": "https://twitter.com/SoledadVela"
+      }
+    ],
+    "votaciones": {
+      "asistencias": "402",
+      "suplentes": "117",
+      "ausencias": "10"
+    },
+    "comisiones": [{
+      "comision": "Comisión Permanente de Soberanía, Integración, Relaciones Internacionales y Seguridad Integral",
+      "rol": "Integrante"
+    }]
+  },
+  {
+    "nombre": "Carlos Alberto Velasco Enríquez",
+    "partido": "Movimiento Alianza PAIS",
+    "provincia": "Carchi",
+    "tipo": "Provincial",
+    "genero": "Masculino",
+    "profesion": "Médico Salubrista",
+    "telefono": "023991066/1072",
+    "blog": "http://www.asambleanacional.gob.ec/blogs/carlosvelasco",
+    "suplente": [ "Yolanda Josefina Chamorro Hidalgo" ],
+    "proyectos de ley presentados": "4",
+    "observaciones a proyectos de ley": "nan",
+    "pedidos de informacion": "nan",
+    "redes": [
+      {
+        "email": "carlos.velasco@asambleanacional.gob.ec",
+        "twitter": "https://twitter.com/CarlosVelascoEn"
+      }
+    ],
+    "votaciones": {
+      "asistencias": "376",
+      "suplentes": "108",
+      "ausencias": "45"
+    },
+    "comisiones": [{
+      "comision": "Comisión Permanente de Derechos a la salud ",
+      "rol": "Vicepresidente"
+    }]
+  },
+  {
+    "nombre": "José Felix Véliz Briones",
+    "partido": "Movimiento Alianza PAIS",
+    "provincia": "Manabí",
+    "tipo": "Provincial",
+    "genero": "Masculino",
+    "profesion": "Docente",
+    "telefono": "3991615-1616",
+    "blog": "http://www.asambleanacional.gob.ec/blogs/joseveliz",
+    "suplente": [ "Marlene Margarita Velez" ],
+    "proyectos de ley presentados": "nan",
+    "observaciones a proyectos de ley": "nan",
+    "pedidos de informacion": "nan",
+    "redes": [
+      {
+        "email": " jose.veliz@asambleanacional.gob.ec",
+        "twitter": "https://twitter.com/gatofelix35pais"
+      }
+    ],
+    "votaciones": {
+      "asistencias": "271",
+      "suplentes": "171",
+      "ausencias": "87"
+    },
+    "comisiones": [{
+      "comision": "Comisión Permanente de Derechos Colectivos, Comunitarios y la Interculturalidad",
+      "rol": "Integrante"
+    }]
+  },
+  {
+    "nombre": "Mary Nesbith Verduga Cedeño",
+    "partido": "Movimiento Alianza PAIS",
+    "provincia": "Santo Domingo de los Tsáchilas",
+    "tipo": "Provincial",
+    "genero": "Femenino",
+    "profesion": "Comunicadora Social",
+    "telefono": "3991252-1254",
+    "blog": "http://www.asambleanacional.gob.ec/blogs/maryverduga",
+    "suplente": [ "Manuel Alfredo Ochoa Morante" ],
+    "proyectos de ley presentados": "2",
+    "observaciones a proyectos de ley": "nan",
+    "pedidos de informacion": "nan",
+    "redes": [
+      {
+        "email": "mary.verduga@asambleanacional.gob.ec",
+        "twitter": "https://twitter.com/mary_verduga"
+      }
+    ],
+    "votaciones": {
+      "asistencias": "394",
+      "suplentes": "102",
+      "ausencias": "33"
+    },
+    "comisiones": [{
+      "comision": "Comisión Permanente de Derechos de los Trabajadores y la Seguridad Social",
+      "rol": "Integrante"
+    }]
+  },
+  {
+    "nombre": "María Alejandra Vicuña Muñoz",
+    "partido": "Movimiento Alianza PAIS",
+    "provincia": "Guayas",
+    "tipo": "Provincial",
+    "genero": "Femenino",
+    "profesion": "Psicólogia Clínica",
+    "telefono": "3991067",
+    "blog": "http://www.asambleanacional.gob.ec/blogs/mariavicuna",
+    "suplente": [ "Enrique Alejandro Joniaux Blum" ],
+    "proyectos de ley presentados": "3",
+    "observaciones a proyectos de ley": "nan",
+    "pedidos de informacion": "nan",
+    "redes": [
+      {
+        "email": "maria.vicuna@asambleanacional.gob.ec",
+        "twitter": "https://twitter.com/marialevicuna"
+      }
+    ],
+    "votaciones": {
+      "asistencias": "399",
+      "suplentes": "52",
+      "ausencias": "78"
+    },
+    "comisiones": [{
+      "comision": "Comisión Permanente de Derechos a la salud",
+      "rol": "Integrante"
+    }]
+  },
+  {
+    "nombre": "Ángel Ramiro Vilema Freire",
+    "partido": "Independiente ",
+    "provincia": "Galápagos",
+    "tipo": "Nacional",
+    "genero": "Masculino",
+    "profesion": "Abogado",
+    "telefono": "3991043",
+    "blog": "http://www.asambleanacional.gob.ec/blogs/angelvilema",
+    "suplente": [ "Angélica María Andino Robalino" ],
+    "proyectos de ley presentados": "1",
+    "observaciones a proyectos de ley": "nan",
+    "pedidos de informacion": "nan",
+    "redes": [
+      {
+        "email": "angel.vilema@asambleanacional.gob.ec",
+        "twitter": "https://twitter.com/AngelVilemaF  "
+      }
+    ],
+    "votaciones": {
+      "asistencias": "293",
+      "suplentes": "112",
+      "ausencias": "124"
+    },
+    "comisiones": [{
+      "comision": "Comisión Permanente de Gobiernos Autónomos, Descentralización, Competencias y Organización Territorial",
+      "rol": "Integrante"
+    }]
+  },
+  {
+    "nombre": "Octavio Xavier Enrique Villacreses Peña",
+    "partido": "Movimiento Alianza PAIS",
+    "provincia": "Guayas",
+    "tipo": "Provincial",
+    "genero": "Masculino",
+    "profesion": "Arquitecto",
+    "telefono": "3991252-1253",
+    "blog": "http://www.asambleanacional.gob.ec/blogs/octaviovillacreses",
+    "suplente": [ "Cristina Soraya Medina Alejandro , Cristina Soraya Alejandro Medina"],
+    "proyectos de ley presentados": "3",
+    "observaciones a proyectos de ley": "nan",
+    "pedidos de informacion": "nan",
+    "redes": [
+      {
+        "email": "octavio.villacreses@asambleanacional.gob.ec",
+        "twitter": "https://twitter.com/ox_villacresesp"
+      }
+    ],
+    "votaciones": {
+      "asistencias": "353",
+      "suplentes": "132",
+      "ausencias": "43"
+    },
+    "comisiones": [{
+      "comision": "Comisión Permanente de Gobiernos Autónomos, Descentralización, Competencias y Organización Territorial",
+      "rol": "Integrante"
+    }]
+  },
+  {
+    "nombre": "Diego Armando Vintimilla Jarrín",
+    "partido": "Movimiento Alianza PAIS",
+    "provincia": "Azuay",
+    "tipo": "Provincial",
+    "genero": "Masculino",
+    "profesion": "Dirigente estudiantil",
+    "telefono": "3991252-1253",
+    "blog": "http://www.asambleanacional.gob.ec/blogs/diegovintimilla",
+    "suplente": [ "Elvia Azucena Ponce Rubio" ],
+    "proyectos de ley presentados": "nan",
+    "observaciones a proyectos de ley": "nan",
+    "pedidos de informacion": "nan",
+    "redes": [
+      {
+        "email": "diego.vintimilla@asambleanacional.gob.ec",
+        "twitter": "https://twitter.com/diego_vintimill"
+      }
+    ],
+    "votaciones": {
+      "asistencias": "379",
+      "suplentes": "115",
+      "ausencias": "35"
+    },
+    "comisiones": [{
+      "comision": "Comisión Permanente de Educación, Cultura y Ciencia y Tecnología",
+      "rol": "integrante"
+    }]
+  },
+  {
+    "nombre": "Carlos Eloy Viteri Gualinga",
+    "partido": "Movimiento Alianza PAIS",
+    "provincia": "Nacional",
+    "tipo": "Nacional",
+    "genero": "Masculino",
+    "profesion": "Antropólogo",
+    "telefono": "3991078-1082",
+    "blog": "http://www.asambleanacional.gob.ec/blogs/carlosviteri",
+    "suplente": [ "Diana Angelina Coello Jaramillo" ],
+    "proyectos de ley presentados": "1",
+    "observaciones a proyectos de ley": "nan",
+    "pedidos de informacion": "nan",
+    "redes": [
+      {
+        "email": "carlos.viteri@asambleanacional.gob.ec",
+        "twitter": "https://twitter.com/cviterigualinga"
+      }
+    ],
+    "votaciones": {
+      "asistencias": "449",
+      "suplentes": "45",
+      "ausencias": "35"
+    },
+    "comisiones": [{
+      "comision": "Comisión Permanente de Biodiversidad y Recursos Naturales",
+      "rol": "Presidente"
+    }]
+  },
+  {
+    "nombre": "Christian Humberto Viteri López",
+    "partido": "Independiente ",
+    "provincia": "Guayas",
+    "tipo": "Provincial",
+    "genero": "Masculino",
+    "profesion": "Abogado - Ingeniero Comercial",
+    "telefono": "23991000",
+    "blog": "http://www.asambleanacional.gob.ec/blogs/christianviteri",
+    "suplente": [ "Luis Humberto Monge Espinel , luis humberto monce espinel"],
+    "proyectos de ley presentados": "2",
+    "observaciones a proyectos de ley": "nan",
+    "pedidos de informacion": "nan",
+    "redes": [
+      {
+        "email": "christian.viteri@asambleanacional.gob.ec",
+        "twitter": "https://twitter.com/chrisviteri"
+      }
+    ],
+    "votaciones": {
+      "asistencias": "195",
+      "suplentes": "63",
+      "ausencias": "163"
+    },
+    "comisiones": [{
+      "comision": "Comisión Permanente de Justicia y Estructura del Estado",
+      "rol": "Integrante"
+    }]
+  },
+  {
+    "nombre": "Castulo René Yandún Pozo",
+    "partido": "Movimiento Integración Democrática del Carchi",
+    "provincia": "Carchi",
+    "tipo": "Provincial",
+    "genero": "Masculino",
+    "profesion": "General retirado",
+    "telefono": "3991537-1538",
+    "blog": "http://www.asambleanacional.gob.ec/blogs/reneyandun",
+    "suplente": [ "Sandra Susana Landazuri Córdova"],
+    "proyectos de ley presentados": "2",
+    "observaciones a proyectos de ley": "nan",
+    "pedidos de informacion": "nan",
+    "redes": [
+      {
+        "email": "castulo.yandun@asambleanacional.gob.ec",
+        "twitter": "https://twitter.com/reneyandun"
+      }
+    ],
+    "votaciones": {
+      "asistencias": "433",
+      "suplentes": "58",
+      "ausencias": "38"
+    },
+    "comisiones": [{
+      "comision": "Comisión Permanente de Gobiernos Autónomos, Descentralización, Competencias y Organización Territorial",
+      "rol": "Integrante"
+    }]
+  },
+  {
+    "nombre": "José Ricardo Zambrano Arteaga",
+    "partido": "Movimiento Alianza PAIS",
+    "provincia": "Manabí",
+    "tipo": "Provincial",
+    "genero": "Masculino",
+    "profesion": "Economista",
+    "telefono": "3991257",
+    "blog": "http://www.asambleanacional.gob.ec/blogs/ricardozambrano",
+    "suplente": [ "María Marisol Mera Rivadeneira"],
+    "proyectos de ley presentados": "nan",
+    "observaciones a proyectos de ley": "nan",
+    "pedidos de informacion": "nan",
+    "redes": [
+      {
+        "email": " jose.zambrano@asambleanacional.gob.ec",
+        "twitter": "https://twitter.com/ricardozampais"
+      }
+    ],
+    "votaciones": {
+      "asistencias": "346",
+      "suplentes": "35",
+      "ausencias": "148"
+    },
+    "comisiones": [{
+      "comision": "Comisión Permanente de Soberanía Alimentaria y Desarrollo del Sector Agropecuario y Pesquero",
+      "rol": "Integrante"
+    }]
+  },
+  {
+    "nombre": "Eduardo Alfonso Isidro Zambrano Cabanilla",
+    "partido": "Movimiento Alianza PAIS",
+    "provincia": "América Latina, El Caribe y África",
+    "tipo": "Represante Extranjero",
+    "genero": "Masculino",
+    "profesion": "Contador Público",
+    "telefono": "3991260-1261",
+    "blog": "http://www.asambleanacional.gob.ec/blogs/eduardozambrano",
+    "suplente": [ "Mayte Soraya Marín Ávila"],
+    "proyectos de ley presentados": "2",
+    "observaciones a proyectos de ley": "nan",
+    "pedidos de informacion": "nan",
+    "redes": [
+      {
+        "email": "eduardo.zambrano@asambleanacional.gob.ec",
+        "twitter": "https://twitter.com/EduzambranoAsam"
+      }
+    ],
+    "votaciones": {
+      "asistencias": "344",
+      "suplentes": "45",
+      "ausencias": "140"
+    },
+    "comisiones": [{
+      "comision": "Comisión Permanente de Soberanía, Integración, Relaciones Internacionales y Seguridad Integral",
+      "rol": "Integrante"
+    }]
+  },
+  {
+    "nombre": "Noralma Elizabeth Zambrano Castro",
+    "partido": "Movimiento Alianza PAIS",
+    "provincia": "Santa Elena",
+    "tipo": "Provincial",
+    "genero": "Femenino",
+    "profesion": "Docente",
+    "telefono": "3991262-1263",
+    "blog": "http://www.asambleanacional.gob.ec/blogs/noralmazambrano",
+    "suplente": [ "Luis Mariano Villón Pozo"],
+    "proyectos de ley presentados": "1",
+    "observaciones a proyectos de ley": "nan",
+    "pedidos de informacion": "nan",
+    "redes": [
+      {
+        "email": "noralma.zambrano@asambleanacional.gob.ec",
+        "twitter": "https://twitter.com/noralmazambrano"
+      }
+    ],
+    "votaciones": {
+      "asistencias": "413",
+      "suplentes": "57",
+      "ausencias": "59"
+    },
+    "comisiones": [{
+      "comision": "Comisión Permanente de Educación, Cultura y Ciencia y Tecnología",
+      "rol": "integrante"
+    }]
+  },
+  {
+    "nombre": "Alberto Alexander Zambrano Chacha",
+    "partido": "Movimiento Alianza PAIS",
+    "provincia": "Orellana",
+    "tipo": "Provincial",
+    "genero": "Masculino",
+    "profesion": "Licenciado en Ciencias de la Educación",
+    "telefono": "3991268-1269",
+    "blog": "http://www.asambleanacional.gob.ec/blogs/albertozambrano",
+    "suplente": [ "Santa Felicita Obando Morales"],
+    "proyectos de ley presentados": "nan",
+    "observaciones a proyectos de ley": "nan",
+    "pedidos de informacion": "nan",
+    "redes": [
+      {
+        "email": "alberto.zambrano@asambleanacional.gob.ec",
+        "twitter": "https://twitter.com/AlbertoZambra20"
+      }
+    ],
+    "votaciones": {
+      "asistencias": "388",
+      "suplentes": "85",
+      "ausencias": "56"
+    },
+    "comisiones": [{
+      "comision": "Comisión Permanente de Biodiversidad y Recursos Naturales",
+      "rol": "Integrante"
+    }]
+  },
+  {
+    "nombre": "José Leonidas Zapata Mantilla",
+    "partido": "Movimiento Alianza PAIS",
+    "provincia": "Los Ríos",
+    "tipo": "Provincial",
+    "genero": "Masculino",
+    "profesion": "Dirigente de transportistas",
+    "telefono": "23991263",
+    "blog": "http://www.asambleanacional.gob.ec/blogs/josezapata",
+    "suplente": [ "Grace Marisol Serrano Segura"],
+    "proyectos de ley presentados": "nan",
+    "observaciones a proyectos de ley": "nan",
+    "pedidos de informacion": "nan",
+    "redes": [
+      {
+        "email": "jose.zapata@asambleanacional.gob.ec",
+        "twitter": "https://twitter.com/jose_zapata1"
+      }
+    ],
+    "votaciones": {
+      "asistencias": "95",
+      "suplentes": "357",
+      "ausencias": "77"
+    },
+    "comisiones": [{
+      "comision": "Comisión Permanente de Participación Ciudadana y Control Social",
+      "rol": "Integrante"
+    }]
+  }
+]
