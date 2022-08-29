@@ -30,9 +30,8 @@ class dblpClient:
 
     def get_all_links(self, html):
         bs = soup(html, 'html.parser')  # MISSING 'html.parser'
-        mainpage = bs.find(id='main')
         uls = bs.find(id='main').findAll('ul',  {"class": "publ-list"})
-        print(uls)
+
         logging.info('Uls: ' + str(uls))
 
         return uls
