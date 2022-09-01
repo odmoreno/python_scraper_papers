@@ -22,10 +22,6 @@ class dblpClient:
         self.currentYear = ''
         self.currentEditor = ''
 
-    def clear_page(self):
-        clear = lambda: os.system('cls')
-        clear()
-
     def get_page(self, url):
         req = get(url, verify=False)
         if req.status_code == 200:
