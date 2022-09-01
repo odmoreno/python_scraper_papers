@@ -48,10 +48,7 @@ def main():
     value = check_if_exist_file(config.path_to_search_results, 'conferences')
     data = []
     if value:
-        with open('data/conferences.csv', newline='') as f:
-            reader = csv.reader(f)
-            for row in reader:
-                data.append(row[0])
+        data = get_data_conferences()
     else:
         data = load_all_conferences()
 

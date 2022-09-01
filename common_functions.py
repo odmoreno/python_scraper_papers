@@ -53,6 +53,14 @@ def check_if_exist_file(path_to_search_results, file_name) -> bool:
         return False
     return True
 
+def get_data_conferences():
+    data = []
+    with open('data/conferences.csv', newline='') as f:
+        reader = csv.reader(f)
+        for row in reader:
+            data.append(row[0])
+    return data
+
 def fail_message(e):
     """
     Print failure message
