@@ -1,14 +1,6 @@
 import config
 from common_functions import *
-
-"""
-Vinci 2021,
-Vinci 2020
-"""
-list_of_conference = [
-    'https://dl.acm.org/doi/proceedings/10.1145/3481549',
-    'https://dl.acm.org/doi/proceedings/10.1145/3430036'
-]
+from list_papers import *
 
 dblp_base_url = 'https://dblp.org/db/conf/vinci/index.html'
 
@@ -24,6 +16,7 @@ def load_all_conferences():
         driver_for_dblp.get(dblp_base_url)
         # 3 - parse source code
         soup = BeautifulSoup(driver_for_dblp.page_source, "html.parser")
+        uls = soup.findAll("ul", class_="publ-list")
         # 4 - Get the result containers
         result_containers = soup.findAll("li", class_="ee")
         # 5 - check href
@@ -33,15 +26,19 @@ def load_all_conferences():
             # create the csv writer
             writer = csv.writer(f)
             # write the header
-            writer.writerow(['urls'])
-            for li in result_containers:
+            #writer.writerow(['urls'])
+            for li, ul in zip(result_containers, uls):
+                id_conference = ul.next_element.attrs['id']
+                id_split = id_conference.split('/')
+                conf_age = id_split[len(id_split)-1]
                 href = li.find("a").attrs['href']
-                hrefs.append(href)
-                data = [href]
+                data = ['vinci', conf_age, href]
+                hrefs.append(data)
                 writer.writerow(data)
-        return  hrefs
+        return hrefs
     except Exception as e:
         fail_message(e)
+        driver_for_dblp.quit()
 
 
 def main():
@@ -53,6 +50,9 @@ def main():
         data = load_all_conferences()
 
     print(data)
+    papers_client = AcmClient(data)
+    papers_client.main_fun()
+
     print('Finish')
 
 
