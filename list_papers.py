@@ -63,6 +63,7 @@ class AcmClient:
                     item_citation = soup.findAll("div", class_="issue-heading")
                     item_content = soup.findAll("div", class_="issue-item__content")
                     #loop and search for results
+                    #for citation, content in (item_citation, item_content):
                     for citation, content in (item_citation, item_content):
                         tipo_de_paper = citation.find('div', {'class': 'issue-heading'}).text
                         contenido = content.find('div', {'class': 'issue-item__content-right'})
