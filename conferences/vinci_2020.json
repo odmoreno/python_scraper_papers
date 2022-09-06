@@ -1,0 +1,591 @@
+{
+  "10.1145/3430036.3430041": {
+    "type": "research-article",
+    "title": "Survey of treemap layout algorithms",
+    "url": "https://doi.org/10.1145/3430036.3430041",
+    "year": "2020",
+    "authors": "{name: Willy Scheibel, url: https:/dl.acm.org/profile/99659051346}, {name: Daniel Limberger, url: https:/dl.acm.org/profile/82458918757}, {name:  + 1, url: https:/dl.acm.orgjavascript:void(0)}",
+    "citations": "2",
+    "downloads": "435",
+    "doi": "10.1145/3430036.3430041",
+    "extra": [
+      "December 2020",
+      "Article No.: 1",
+      "pp 1–9",
+      "https://doi.org/10.1145/3430036.3430041"
+    ],
+    "conference_title": "VINCI 2020: The 13th International Symposium on Visual Information Communication and Interaction, Eindhoven, The Netherlands, 8-10 December, 2020.",
+    "publisher": "ACM",
+    "conference_isbn": "978-1-4503-8750-7"
+  },
+  "10.1145/3430036.3430054": {
+    "type": "research-article",
+    "title": "Survey on user studies on the effectiveness of treemaps",
+    "url": "https://doi.org/10.1145/3430036.3430054",
+    "year": "2020",
+    "authors": "{name: Carolin Fiedler, url: https:/dl.acm.org/profile/99659638986}, {name: Willy Scheibel, url: https:/dl.acm.org/profile/99659051346}, {name:  + 3, url: https:/dl.acm.orgjavascript:void(0)}",
+    "citations": "3",
+    "downloads": "137",
+    "doi": "10.1145/3430036.3430054",
+    "extra": [
+      "December 2020",
+      "Article No.: 2",
+      "pp 1–10",
+      "https://doi.org/10.1145/3430036.3430054"
+    ],
+    "conference_title": "VINCI 2020: The 13th International Symposium on Visual Information Communication and Interaction, Eindhoven, The Netherlands, 8-10 December, 2020.",
+    "publisher": "ACM",
+    "conference_isbn": "978-1-4503-8750-7"
+  },
+  "10.1145/3430036.3430037": {
+    "type": "research-article",
+    "title": "Multiple linked perspectives on hierarchical data",
+    "url": "https://doi.org/10.1145/3430036.3430037",
+    "year": "2020",
+    "authors": "{name: Michael Burch, url: https:/dl.acm.org/profile/81331488994}, {name:  + 2, url: https:/dl.acm.orgjavascript:void(0)}",
+    "citations": "1",
+    "downloads": "39",
+    "doi": "10.1145/3430036.3430037",
+    "extra": [
+      "December 2020",
+      "Article No.: 3",
+      "pp 1–8",
+      "https://doi.org/10.1145/3430036.3430037"
+    ],
+    "conference_title": "VINCI 2020: The 13th International Symposium on Visual Information Communication and Interaction, Eindhoven, The Netherlands, 8-10 December, 2020.",
+    "publisher": "ACM",
+    "conference_isbn": "978-1-4503-8750-7"
+  },
+  "10.1145/3430036.3430067": {
+    "type": "short-paper",
+    "title": "Machine learning interpretability through contribution-value plots",
+    "url": "https://doi.org/10.1145/3430036.3430067",
+    "year": "2020",
+    "authors": "{name: Dennis Collaris, url: https:/dl.acm.org/profile/99659647335}, {name: Jarke J. van Wijk, url: https:/dl.acm.org/profile/81100294190}",
+    "citations": "1",
+    "downloads": "101",
+    "doi": "10.1145/3430036.3430067",
+    "extra": [
+      "December 2020",
+      "Article No.: 4",
+      "pp 1–5",
+      "https://doi.org/10.1145/3430036.3430067"
+    ],
+    "conference_title": "VINCI 2020: The 13th International Symposium on Visual Information Communication and Interaction, Eindhoven, The Netherlands, 8-10 December, 2020.",
+    "publisher": "ACM",
+    "conference_isbn": "978-1-4503-8750-7"
+  },
+  "10.1145/3430036.3430060": {
+    "type": "research-article",
+    "title": "Cluster-clean-label: an interactive machine learning approach for labeling high-dimensional data",
+    "url": "https://doi.org/10.1145/3430036.3430060",
+    "year": "2020",
+    "authors": "{name: David Beil, url: https:/dl.acm.org/profile/99659631159}, {name: Andreas Theissler, url: https:/dl.acm.org/profile/99659153126}",
+    "citations": "2",
+    "downloads": "122",
+    "doi": "10.1145/3430036.3430060",
+    "extra": [
+      "December 2020",
+      "Article No.: 5",
+      "pp 1–8",
+      "https://doi.org/10.1145/3430036.3430060"
+    ],
+    "conference_title": "VINCI 2020: The 13th International Symposium on Visual Information Communication and Interaction, Eindhoven, The Netherlands, 8-10 December, 2020.",
+    "publisher": "ACM",
+    "conference_isbn": "978-1-4503-8750-7"
+  },
+  "10.1145/3430036.3430058": {
+    "type": "research-article",
+    "title": "The machine learning model as a guide: pointing users to interesting instances for labeling through visual cues",
+    "url": "https://doi.org/10.1145/3430036.3430058",
+    "year": "2020",
+    "authors": "{name: Benedikt Grimmeisen, url: https:/dl.acm.org/profile/99659626707}, {name:  + 1, url: https:/dl.acm.orgjavascript:void(0)}",
+    "citations": "5",
+    "downloads": "107",
+    "doi": "10.1145/3430036.3430058",
+    "extra": [
+      "December 2020",
+      "Article No.: 6",
+      "pp 1–8",
+      "https://doi.org/10.1145/3430036.3430058"
+    ],
+    "conference_title": "VINCI 2020: The 13th International Symposium on Visual Information Communication and Interaction, Eindhoven, The Netherlands, 8-10 December, 2020.",
+    "publisher": "ACM",
+    "conference_isbn": "978-1-4503-8750-7"
+  },
+  "10.1145/3430036.3430053": {
+    "type": "research-article",
+    "title": "Visualizing dynamic graphs with heat triangles",
+    "url": "https://doi.org/10.1145/3430036.3430053",
+    "year": "2020",
+    "authors": "{name: Ya Ting Hu, url: https:/dl.acm.org/profile/99659633097}, {name: Michael Burch, url: https:/dl.acm.org/profile/81331488994}, {name:  + 1, url: https:/dl.acm.orgjavascript:void(0)}",
+    "citations": "1",
+    "downloads": "33",
+    "doi": "10.1145/3430036.3430053",
+    "extra": [
+      "December 2020",
+      "Article No.: 7",
+      "pp 1–8",
+      "https://doi.org/10.1145/3430036.3430053"
+    ],
+    "conference_title": "VINCI 2020: The 13th International Symposium on Visual Information Communication and Interaction, Eindhoven, The Netherlands, 8-10 December, 2020.",
+    "publisher": "ACM",
+    "conference_isbn": "978-1-4503-8750-7"
+  },
+  "10.1145/3430036.3430065": {
+    "type": "research-article",
+    "title": "A visualization of family relations inspired by the London metro map",
+    "url": "https://doi.org/10.1145/3430036.3430065",
+    "year": "2020",
+    "authors": "{name: Jan Korst, url: https:/dl.acm.org/profile/81343497499}, {name: Verus Pronk, url: https:/dl.acm.org/profile/81100528828}, {name:  + 1, url: https:/dl.acm.orgjavascript:void(0)}",
+    "citations": "1",
+    "downloads": "54",
+    "doi": "10.1145/3430036.3430065",
+    "extra": [
+      "December 2020",
+      "Article No.: 8",
+      "pp 1–8",
+      "https://doi.org/10.1145/3430036.3430065"
+    ],
+    "conference_title": "VINCI 2020: The 13th International Symposium on Visual Information Communication and Interaction, Eindhoven, The Netherlands, 8-10 December, 2020.",
+    "publisher": "ACM",
+    "conference_isbn": "978-1-4503-8750-7"
+  },
+  "10.1145/3430036.3430052": {
+    "type": "research-article",
+    "title": "eDBLP: visualizing scientific publications",
+    "url": "https://doi.org/10.1145/3430036.3430052",
+    "year": "2020",
+    "authors": "{name: Michael Burch, url: https:/dl.acm.org/profile/81331488994}, {name: Abdullah Saeed, url: https:/dl.acm.org/profile/99659635217}, {name:  + 4, url: https:/dl.acm.orgjavascript:void(0)}",
+    "citations": "1",
+    "downloads": "33",
+    "doi": "10.1145/3430036.3430052",
+    "extra": [
+      "December 2020",
+      "Article No.: 9",
+      "pp 1–8",
+      "https://doi.org/10.1145/3430036.3430052"
+    ],
+    "conference_title": "VINCI 2020: The 13th International Symposium on Visual Information Communication and Interaction, Eindhoven, The Netherlands, 8-10 December, 2020.",
+    "publisher": "ACM",
+    "conference_isbn": "978-1-4503-8750-7"
+  },
+  "10.1145/3430036.3430050": {
+    "type": "research-article",
+    "title": "Visualization of nonlinear programming for robot motion planning",
+    "url": "https://doi.org/10.1145/3430036.3430050",
+    "year": "2020",
+    "authors": "{name: David Hägele, url: https:/dl.acm.org/profile/99659637828}, {name: Moataz Abdelaal, url: https:/dl.acm.org/profile/99659635911}, {name:  + 3, url: https:/dl.acm.orgjavascript:void(0)}",
+    "citations": "2",
+    "downloads": "85",
+    "doi": "10.1145/3430036.3430050",
+    "extra": [
+      "December 2020",
+      "Article No.: 10",
+      "pp 1–8",
+      "https://doi.org/10.1145/3430036.3430050"
+    ],
+    "conference_title": "VINCI 2020: The 13th International Symposium on Visual Information Communication and Interaction, Eindhoven, The Netherlands, 8-10 December, 2020.",
+    "publisher": "ACM",
+    "conference_isbn": "978-1-4503-8750-7"
+  },
+  "10.1145/3430036.3430038": {
+    "type": "research-article",
+    "title": "Comparative visual gaze analysis for virtual board games",
+    "url": "https://doi.org/10.1145/3430036.3430038",
+    "year": "2020",
+    "authors": "{name: Tanja Munz, url: https:/dl.acm.org/profile/99659536978}, {name: Noel Schäfer, url: https:/dl.acm.org/profile/99659628672}, {name:  + 4, url: https:/dl.acm.orgjavascript:void(0)}",
+    "citations": "0",
+    "downloads": "53",
+    "doi": "10.1145/3430036.3430038",
+    "extra": [
+      "December 2020",
+      "Article No.: 11",
+      "pp 1–8",
+      "https://doi.org/10.1145/3430036.3430038"
+    ],
+    "conference_title": "VINCI 2020: The 13th International Symposium on Visual Information Communication and Interaction, Eindhoven, The Netherlands, 8-10 December, 2020.",
+    "publisher": "ACM",
+    "conference_isbn": "978-1-4503-8750-7"
+  },
+  "10.1145/3430036.3430059": {
+    "type": "research-article",
+    "title": "Context-aware placement of items with gaze-based interaction",
+    "url": "https://doi.org/10.1145/3430036.3430059",
+    "year": "2020",
+    "authors": "{name: Shigeo Takahashi, url: https:/dl.acm.org/profile/81410594549}, {name:  + 3, url: https:/dl.acm.orgjavascript:void(0)}",
+    "citations": "1",
+    "downloads": "61",
+    "doi": "10.1145/3430036.3430059",
+    "extra": [
+      "December 2020",
+      "Article No.: 12",
+      "pp 1–8",
+      "https://doi.org/10.1145/3430036.3430059"
+    ],
+    "conference_title": "VINCI 2020: The 13th International Symposium on Visual Information Communication and Interaction, Eindhoven, The Netherlands, 8-10 December, 2020.",
+    "publisher": "ACM",
+    "conference_isbn": "978-1-4503-8750-7"
+  },
+  "10.1145/3430036.3430061": {
+    "type": "research-article",
+    "title": "PasVis: enhancing public transport maps with interactive passenger data visualizations",
+    "url": "https://doi.org/10.1145/3430036.3430061",
+    "year": "2020",
+    "authors": "{name: Michael Burch, url: https:/dl.acm.org/profile/81331488994}, {name: Yves Staudt, url: https:/dl.acm.org/profile/99659635934}, {name:  + 6, url: https:/dl.acm.orgjavascript:void(0)}",
+    "citations": "2",
+    "downloads": "54",
+    "doi": "10.1145/3430036.3430061",
+    "extra": [
+      "December 2020",
+      "Article No.: 13",
+      "pp 1–8",
+      "https://doi.org/10.1145/3430036.3430061"
+    ],
+    "conference_title": "VINCI 2020: The 13th International Symposium on Visual Information Communication and Interaction, Eindhoven, The Netherlands, 8-10 December, 2020.",
+    "publisher": "ACM",
+    "conference_isbn": "978-1-4503-8750-7"
+  },
+  "10.1145/3430036.3430042": {
+    "type": "research-article",
+    "title": "Exploring vibrotactile cues for interactive guidance in data visualization",
+    "url": "https://doi.org/10.1145/3430036.3430042",
+    "year": "2020",
+    "authors": "{name: Wenkai Han, url: https:/dl.acm.org/profile/99659645425}, {name: Hans-Jörg Schulz, url: https:/dl.acm.org/profile/81317499938}",
+    "citations": "2",
+    "downloads": "97",
+    "doi": "10.1145/3430036.3430042",
+    "extra": [
+      "December 2020",
+      "Article No.: 14",
+      "pp 1–10",
+      "https://doi.org/10.1145/3430036.3430042"
+    ],
+    "conference_title": "VINCI 2020: The 13th International Symposium on Visual Information Communication and Interaction, Eindhoven, The Netherlands, 8-10 December, 2020.",
+    "publisher": "ACM",
+    "conference_isbn": "978-1-4503-8750-7"
+  },
+  "10.1145/3430036.3430066": {
+    "type": "short-paper",
+    "title": "XplainableClusterExplorer: a novel approach for interactive feature selection for clustering",
+    "url": "https://doi.org/10.1145/3430036.3430066",
+    "year": "2020",
+    "authors": "{name: Eric Fezer, url: https:/dl.acm.org/profile/99659645745}, {name: Dominik Raab, url: https:/dl.acm.org/profile/99659628001}, {name:  + 1, url: https:/dl.acm.orgjavascript:void(0)}",
+    "citations": "0",
+    "downloads": "54",
+    "doi": "10.1145/3430036.3430066",
+    "extra": [
+      "December 2020",
+      "Article No.: 15",
+      "pp 1–5",
+      "https://doi.org/10.1145/3430036.3430066"
+    ],
+    "conference_title": "VINCI 2020: The 13th International Symposium on Visual Information Communication and Interaction, Eindhoven, The Netherlands, 8-10 December, 2020.",
+    "publisher": "ACM",
+    "conference_isbn": "978-1-4503-8750-7"
+  },
+  "10.1145/3430036.3430043": {
+    "type": "research-article",
+    "title": "Voronoier: from images to Voronoi diagrams",
+    "url": "https://doi.org/10.1145/3430036.3430043",
+    "year": "2020",
+    "authors": "{name: Michael Burch, url: https:/dl.acm.org/profile/81331488994}, {name: John van Lith, url: https:/dl.acm.org/profile/99659628088}, {name:  + 2, url: https:/dl.acm.orgjavascript:void(0)}",
+    "citations": "0",
+    "downloads": "48",
+    "doi": "10.1145/3430036.3430043",
+    "extra": [
+      "December 2020",
+      "Article No.: 16",
+      "pp 1–9",
+      "https://doi.org/10.1145/3430036.3430043"
+    ],
+    "conference_title": "VINCI 2020: The 13th International Symposium on Visual Information Communication and Interaction, Eindhoven, The Netherlands, 8-10 December, 2020.",
+    "publisher": "ACM",
+    "conference_isbn": "978-1-4503-8750-7"
+  },
+  "10.1145/3430036.3430056": {
+    "type": "short-paper",
+    "title": "Tools for developing color ramps for representing quantitative data",
+    "url": "https://doi.org/10.1145/3430036.3430056",
+    "year": "2020",
+    "authors": "{name: Kazuo Misue, url: https:/dl.acm.org/profile/81100517120}",
+    "citations": "0",
+    "downloads": "31",
+    "doi": "10.1145/3430036.3430056",
+    "extra": [
+      "December 2020",
+      "Article No.: 17",
+      "pp 1–5",
+      "https://doi.org/10.1145/3430036.3430056"
+    ],
+    "conference_title": "VINCI 2020: The 13th International Symposium on Visual Information Communication and Interaction, Eindhoven, The Netherlands, 8-10 December, 2020.",
+    "publisher": "ACM",
+    "conference_isbn": "978-1-4503-8750-7"
+  },
+  "10.1145/3430036.3430049": {
+    "type": "short-paper",
+    "title": "Comparing dimensionality reductions for eye movement data",
+    "url": "https://doi.org/10.1145/3430036.3430049",
+    "year": "2020",
+    "authors": "{name: Michael Burch, url: https:/dl.acm.org/profile/81331488994}, {name: Tos Kuipers, url: https:/dl.acm.org/profile/99659633189}, {name:  + 2, url: https:/dl.acm.orgjavascript:void(0)}",
+    "citations": "0",
+    "downloads": "67",
+    "doi": "10.1145/3430036.3430049",
+    "extra": [
+      "December 2020",
+      "Article No.: 18",
+      "pp 1–5",
+      "https://doi.org/10.1145/3430036.3430049"
+    ],
+    "conference_title": "VINCI 2020: The 13th International Symposium on Visual Information Communication and Interaction, Eindhoven, The Netherlands, 8-10 December, 2020.",
+    "publisher": "ACM",
+    "conference_isbn": "978-1-4503-8750-7"
+  },
+  "10.1145/3430036.3430071": {
+    "type": "short-paper",
+    "title": "Revisiting common pitfalls in graphical representations utilizing a case-based learning approach",
+    "url": "https://doi.org/10.1145/3430036.3430071",
+    "year": "2020",
+    "authors": "{name: Vinh T. Nguyen, url: https:/dl.acm.org/profile/99659285748}, {name: Kwanghee Jung, url: https:/dl.acm.org/profile/99659638327}, {name:  + 1, url: https:/dl.acm.orgjavascript:void(0)}",
+    "citations": "1",
+    "downloads": "36",
+    "doi": "10.1145/3430036.3430071",
+    "extra": [
+      "December 2020",
+      "Article No.: 19",
+      "pp 1–5",
+      "https://doi.org/10.1145/3430036.3430071"
+    ],
+    "conference_title": "VINCI 2020: The 13th International Symposium on Visual Information Communication and Interaction, Eindhoven, The Netherlands, 8-10 December, 2020.",
+    "publisher": "ACM",
+    "conference_isbn": "978-1-4503-8750-7"
+  },
+  "10.1145/3430036.3430047": {
+    "type": "short-paper",
+    "title": "Inner-process visualization of hidden states in recurrent neural networks",
+    "url": "https://doi.org/10.1145/3430036.3430047",
+    "year": "2020",
+    "authors": "{name: Rafael Garcia, url: https:/dl.acm.org/profile/99659532401}, {name: Daniel Weiskopf, url: https:/dl.acm.org/profile/81100214723}",
+    "citations": "2",
+    "downloads": "49",
+    "doi": "10.1145/3430036.3430047",
+    "extra": [
+      "December 2020",
+      "Article No.: 20",
+      "pp 1–5",
+      "https://doi.org/10.1145/3430036.3430047"
+    ],
+    "conference_title": "VINCI 2020: The 13th International Symposium on Visual Information Communication and Interaction, Eindhoven, The Netherlands, 8-10 December, 2020.",
+    "publisher": "ACM",
+    "conference_isbn": "978-1-4503-8750-7"
+  },
+  "10.1145/3430036.3430045": {
+    "type": "research-article",
+    "title": "2.5D dust & magnet visualization for large multivariate data",
+    "url": "https://doi.org/10.1145/3430036.3430045",
+    "year": "2020",
+    "authors": "{name: Jan Ole Vollmer, url: https:/dl.acm.org/profile/99659133331}, {name: Jürgen Döllner, url: https:/dl.acm.org/profile/81100019985}",
+    "citations": "1",
+    "downloads": "65",
+    "doi": "10.1145/3430036.3430045",
+    "extra": [
+      "December 2020",
+      "Article No.: 21",
+      "pp 1–8",
+      "https://doi.org/10.1145/3430036.3430045"
+    ],
+    "conference_title": "VINCI 2020: The 13th International Symposium on Visual Information Communication and Interaction, Eindhoven, The Netherlands, 8-10 December, 2020.",
+    "publisher": "ACM",
+    "conference_isbn": "978-1-4503-8750-7"
+  },
+  "10.1145/3430036.3430070": {
+    "type": "short-paper",
+    "title": "Visual analysis of video recorded dinghy sailing sessions",
+    "url": "https://doi.org/10.1145/3430036.3430070",
+    "year": "2020",
+    "authors": "{name: Gijs M. W. Reichert, url: https:/dl.acm.org/profile/99659644893}, {name:  + 3, url: https:/dl.acm.orgjavascript:void(0)}",
+    "citations": "1",
+    "downloads": "43",
+    "doi": "10.1145/3430036.3430070",
+    "extra": [
+      "December 2020",
+      "Article No.: 22",
+      "pp 1–5",
+      "https://doi.org/10.1145/3430036.3430070"
+    ],
+    "conference_title": "VINCI 2020: The 13th International Symposium on Visual Information Communication and Interaction, Eindhoven, The Netherlands, 8-10 December, 2020.",
+    "publisher": "ACM",
+    "conference_isbn": "978-1-4503-8750-7"
+  },
+  "10.1145/3430036.3430044": {
+    "type": "short-paper",
+    "title": "VizWick: a multiperspective view of hierarchical data",
+    "url": "https://doi.org/10.1145/3430036.3430044",
+    "year": "2020",
+    "authors": "{name: Michael Burch, url: https:/dl.acm.org/profile/81331488994}, {name:  + 7, url: https:/dl.acm.orgjavascript:void(0)}",
+    "citations": "0",
+    "downloads": "48",
+    "doi": "10.1145/3430036.3430044",
+    "extra": [
+      "December 2020",
+      "Article No.: 23",
+      "pp 1–5",
+      "https://doi.org/10.1145/3430036.3430044"
+    ],
+    "conference_title": "VINCI 2020: The 13th International Symposium on Visual Information Communication and Interaction, Eindhoven, The Netherlands, 8-10 December, 2020.",
+    "publisher": "ACM",
+    "conference_isbn": "978-1-4503-8750-7"
+  },
+  "10.1145/3430036.3430069": {
+    "type": "short-paper",
+    "title": "A scalable \"exploranation\" technique for hierarchically indexed table data",
+    "url": "https://doi.org/10.1145/3430036.3430069",
+    "year": "2020",
+    "authors": "{name: Natsuki Hosokawa, url: https:/dl.acm.org/profile/99659651445}, {name:  + 2, url: https:/dl.acm.orgjavascript:void(0)}",
+    "citations": "0",
+    "downloads": "40",
+    "doi": "10.1145/3430036.3430069",
+    "extra": [
+      "December 2020",
+      "Article No.: 24",
+      "pp 1–5",
+      "https://doi.org/10.1145/3430036.3430069"
+    ],
+    "conference_title": "VINCI 2020: The 13th International Symposium on Visual Information Communication and Interaction, Eindhoven, The Netherlands, 8-10 December, 2020.",
+    "publisher": "ACM",
+    "conference_isbn": "978-1-4503-8750-7"
+  },
+  "10.1145/3430036.3430064": {
+    "type": "Article",
+    "title": "Guiding graph exploration by combining layouts and reorderings",
+    "url": "https://doi.org/10.1145/3430036.3430064",
+    "year": "2020",
+    "authors": "{name: Michael Burch, url: https:/dl.acm.org/profile/81331488994}, {name:  + 6, url: https:/dl.acm.orgjavascript:void(0)}",
+    "citations": "1",
+    "downloads": "48",
+    "doi": "10.1145/3430036.3430064",
+    "extra": [
+      "December 2020",
+      "Article No.: 25",
+      "pp 1–5",
+      "https://doi.org/10.1145/3430036.3430064"
+    ],
+    "conference_title": "VINCI 2020: The 13th International Symposium on Visual Information Communication and Interaction, Eindhoven, The Netherlands, 8-10 December, 2020.",
+    "publisher": "ACM",
+    "conference_isbn": "978-1-4503-8750-7"
+  },
+  "10.1145/3430036.3430068": {
+    "type": "poster",
+    "title": "A fast method for detecting minority structures in a graph",
+    "url": "https://doi.org/10.1145/3430036.3430068",
+    "year": "2020",
+    "authors": "{name: Fangfang Zhou, url: https:/dl.acm.org/profile/81549260756}, {name: \"Qian Chen\", url: https:/dl.acm.org/profile/99659651490}, {name:  + 5, url: https:/dl.acm.orgjavascript:void(0)}",
+    "citations": "0",
+    "downloads": "30",
+    "doi": "10.1145/3430036.3430068",
+    "extra": [
+      "December 2020",
+      "Article No.: 26",
+      "pp 1–2",
+      "https://doi.org/10.1145/3430036.3430068"
+    ],
+    "conference_title": "VINCI 2020: The 13th International Symposium on Visual Information Communication and Interaction, Eindhoven, The Netherlands, 8-10 December, 2020.",
+    "publisher": "ACM",
+    "conference_isbn": "978-1-4503-8750-7"
+  },
+  "10.1145/3430036.3430063": {
+    "type": "poster",
+    "title": "Leveraging aesthetic expression in visualization to communicate positive facts during COVID-19 pandemic",
+    "url": "https://doi.org/10.1145/3430036.3430063",
+    "year": "2020",
+    "authors": "{name: Wei Li, url: https:/dl.acm.org/profile/99659135854}, {name: Mathias Funk, url: https:/dl.acm.org/profile/81343492899}, {name:  + 1, url: https:/dl.acm.orgjavascript:void(0)}",
+    "citations": "0",
+    "downloads": "53",
+    "doi": "10.1145/3430036.3430063",
+    "extra": [
+      "December 2020",
+      "Article No.: 27",
+      "pp 1–2",
+      "https://doi.org/10.1145/3430036.3430063"
+    ],
+    "conference_title": "VINCI 2020: The 13th International Symposium on Visual Information Communication and Interaction, Eindhoven, The Netherlands, 8-10 December, 2020.",
+    "publisher": "ACM",
+    "conference_isbn": "978-1-4503-8750-7"
+  },
+  "10.1145/3430036.3432753": {
+    "type": "poster",
+    "title": "Depicting uncertainty in 2.5D treemaps",
+    "url": "https://doi.org/10.1145/3430036.3432753",
+    "year": "2020",
+    "authors": "{name: Daniel Limberger, url: https:/dl.acm.org/profile/82458918757}, {name:  + 2, url: https:/dl.acm.orgjavascript:void(0)}",
+    "citations": "0",
+    "downloads": "22",
+    "doi": "10.1145/3430036.3432753",
+    "extra": [
+      "December 2020",
+      "Article No.: 28",
+      "pp 1–2",
+      "https://doi.org/10.1145/3430036.3432753"
+    ],
+    "conference_title": "VINCI 2020: The 13th International Symposium on Visual Information Communication and Interaction, Eindhoven, The Netherlands, 8-10 December, 2020.",
+    "publisher": "ACM",
+    "conference_isbn": "978-1-4503-8750-7"
+  },
+  "10.1145/3430036.3430057": {
+    "type": "poster",
+    "title": "Visualization of contributions to open-source projects",
+    "url": "https://doi.org/10.1145/3430036.3430057",
+    "year": "2020",
+    "authors": "{name: Andreas Schreiber, url: https:/dl.acm.org/profile/81100086957}",
+    "citations": "1",
+    "downloads": "30",
+    "doi": "10.1145/3430036.3430057",
+    "extra": [
+      "December 2020",
+      "Article No.: 29",
+      "pp 1–2",
+      "https://doi.org/10.1145/3430036.3430057"
+    ],
+    "conference_title": "VINCI 2020: The 13th International Symposium on Visual Information Communication and Interaction, Eindhoven, The Netherlands, 8-10 December, 2020.",
+    "publisher": "ACM",
+    "conference_isbn": "978-1-4503-8750-7"
+  },
+  "10.1145/3430036.3430072": {
+    "type": "short-paper",
+    "title": "ScagnosticsViewer: tracking time series patterns via scagnostics meatures",
+    "url": "https://doi.org/10.1145/3430036.3430072",
+    "year": "2020",
+    "authors": "{name: Ngan V. T. Nguyen, url: https:/dl.acm.org/profile/99659453108}, {name:  + 3, url: https:/dl.acm.orgjavascript:void(0)}",
+    "citations": "1",
+    "downloads": "26",
+    "doi": "10.1145/3430036.3430072",
+    "extra": [
+      "December 2020",
+      "Article No.: 30",
+      "pp 1–4",
+      "https://doi.org/10.1145/3430036.3430072"
+    ],
+    "conference_title": "VINCI 2020: The 13th International Symposium on Visual Information Communication and Interaction, Eindhoven, The Netherlands, 8-10 December, 2020.",
+    "publisher": "ACM",
+    "conference_isbn": "978-1-4503-8750-7"
+  },
+  "10.1145/3430036.3430073": {
+    "type": "short-paper",
+    "title": "Subsyst simulator: an interactive infographic for knowledge transfer",
+    "url": "https://doi.org/10.1145/3430036.3430073",
+    "year": "2020",
+    "authors": "{name: Alexis Lozano Angulo, url: https:/dl.acm.org/profile/99659638981}, {name:  + 2, url: https:/dl.acm.orgjavascript:void(0)}",
+    "citations": "1",
+    "downloads": "49",
+    "doi": "10.1145/3430036.3430073",
+    "extra": [
+      "December 2020",
+      "Article No.: 31",
+      "pp 1–5",
+      "https://doi.org/10.1145/3430036.3430073"
+    ],
+    "conference_title": "VINCI 2020: The 13th International Symposium on Visual Information Communication and Interaction, Eindhoven, The Netherlands, 8-10 December, 2020.",
+    "publisher": "ACM",
+    "conference_isbn": "978-1-4503-8750-7"
+  }
+}

@@ -1,0 +1,261 @@
+{
+  "10.1145/2636240.2636844": {
+    "type": "research-article",
+    "title": "Adaptive Visualization Interface That Manages User's Cognitive Load Based on Interaction Characteristics",
+    "url": "https://doi.org/10.1145/2636240.2636844",
+    "year": "2014",
+    "authors": [
+      {
+        "name": "Anatoly Yelizarov",
+        "url": "https:/dl.acm.org/profile/99658638712"
+      },
+      {
+        "name": "Dennis Gamayunov",
+        "url": "https:/dl.acm.org/profile/81336489058"
+      }
+    ],
+    "citations": "8",
+    "downloads": "346",
+    "doi": "10.1145/2636240.2636844",
+    "extra": [
+      "August 2014",
+      "pp 1–8",
+      "https://doi.org/10.1145/2636240.2636844"
+    ],
+    "conference_title": "The 7th International Symposium on Visual Information Communication and Interaction, VINCI '14, Sydney, NSW, Australia, August 5-8, 2014.",
+    "publisher": "ACM",
+    "conference_isbn": "978-1-4503-2765-7"
+  },
+  "10.1145/2636240.2636850": {
+    "type": "research-article",
+    "title": "CoVE: A Colony Visualization System for Animal Pedigrees",
+    "url": "https://doi.org/10.1145/2636240.2636850",
+    "year": "2014",
+    "authors": [
+      {
+        "name": "Brady Cannon",
+        "url": "https:/dl.acm.org/profile/99658638266"
+      },
+      {
+        "name": "Minoti Hiremath",
+        "url": "https:/dl.acm.org/profile/99658638173"
+      },
+      {
+        "name": " + 2",
+        "url": "https:/dl.acm.orgjavascript:void(0)"
+      }
+    ],
+    "citations": "1",
+    "downloads": "98",
+    "doi": "10.1145/2636240.2636850",
+    "extra": [
+      "August 2014",
+      "pp 9–18",
+      "https://doi.org/10.1145/2636240.2636850"
+    ],
+    "conference_title": "The 7th International Symposium on Visual Information Communication and Interaction, VINCI '14, Sydney, NSW, Australia, August 5-8, 2014.",
+    "publisher": "ACM",
+    "conference_isbn": "978-1-4503-2765-7"
+  },
+  "10.1145/2636240.2636841": {
+    "type": "research-article",
+    "title": "A Space-Filling Multidimensional Visualization (SFMDVis for Exploratory Data Analysis",
+    "url": "https://doi.org/10.1145/2636240.2636841",
+    "year": "2014",
+    "authors": [
+      {
+        "name": "Tze-Haw Huang",
+        "url": "https:/dl.acm.org/profile/81430601375"
+      },
+      {
+        "name": " + 3",
+        "url": "https:/dl.acm.orgjavascript:void(0)"
+      }
+    ],
+    "citations": "3",
+    "downloads": "161",
+    "doi": "10.1145/2636240.2636841",
+    "extra": [
+      "August 2014",
+      "pp 19–28",
+      "https://doi.org/10.1145/2636240.2636841"
+    ],
+    "conference_title": "The 7th International Symposium on Visual Information Communication and Interaction, VINCI '14, Sydney, NSW, Australia, August 5-8, 2014.",
+    "publisher": "ACM",
+    "conference_isbn": "978-1-4503-2765-7"
+  },
+  "10.1145/2636240.2636839": {
+    "type": "research-article",
+    "title": "A Flip-Book of Edge-Splatted Small Multiples for Visualizing Dynamic Graphs",
+    "url": "https://doi.org/10.1145/2636240.2636839",
+    "year": "2014",
+    "authors": [
+      {
+        "name": "Michael Burch",
+        "url": "https:/dl.acm.org/profile/81331488994"
+      },
+      {
+        "name": "Daniel Weiskopf",
+        "url": "https:/dl.acm.org/profile/81100214723"
+      }
+    ],
+    "citations": "11",
+    "downloads": "232",
+    "doi": "10.1145/2636240.2636839",
+    "extra": [
+      "August 2014",
+      "pp 29–38",
+      "https://doi.org/10.1145/2636240.2636839"
+    ],
+    "conference_title": "The 7th International Symposium on Visual Information Communication and Interaction, VINCI '14, Sydney, NSW, Australia, August 5-8, 2014.",
+    "publisher": "ACM",
+    "conference_isbn": "978-1-4503-2765-7"
+  },
+  "10.1145/2636240.2636858": {
+    "type": "research-article",
+    "title": "Visualizing Bag-of-Features Image Categorization Using Anchored Maps",
+    "url": "https://doi.org/10.1145/2636240.2636858",
+    "year": "2014",
+    "authors": [
+      {
+        "name": "Gao Yi",
+        "url": "https:/dl.acm.org/profile/99658640147"
+      },
+      {
+        "name": "Hsiang-Yun Wu",
+        "url": "https:/dl.acm.org/profile/81440610884"
+      },
+      {
+        "name": " + 3",
+        "url": "https:/dl.acm.orgjavascript:void(0)"
+      }
+    ],
+    "citations": "1",
+    "downloads": "121",
+    "doi": "10.1145/2636240.2636858",
+    "extra": [
+      "August 2014",
+      "pp 39–48",
+      "https://doi.org/10.1145/2636240.2636858"
+    ],
+    "conference_title": "The 7th International Symposium on Visual Information Communication and Interaction, VINCI '14, Sydney, NSW, Australia, August 5-8, 2014.",
+    "publisher": "ACM",
+    "conference_isbn": "978-1-4503-2765-7"
+  },
+  "10.1145/2636240.2636854": {
+    "type": "research-article",
+    "title": "Parallel Coordinates with Data Labels",
+    "url": "https://doi.org/10.1145/2636240.2636854",
+    "year": "2014",
+    "authors": [
+      {
+        "name": "Hong Zhou",
+        "url": "https:/dl.acm.org/profile/81453634205"
+      },
+      {
+        "name": "Panpan Xu",
+        "url": "https:/dl.acm.org/profile/81487645560"
+      },
+      {
+        "name": " + 2",
+        "url": "https:/dl.acm.orgjavascript:void(0)"
+      }
+    ],
+    "citations": "3",
+    "downloads": "201",
+    "doi": "10.1145/2636240.2636854",
+    "extra": [
+      "August 2014",
+      "pp 49–57",
+      "https://doi.org/10.1145/2636240.2636854"
+    ],
+    "conference_title": "The 7th International Symposium on Visual Information Communication and Interaction, VINCI '14, Sydney, NSW, Australia, August 5-8, 2014.",
+    "publisher": "ACM",
+    "conference_isbn": "978-1-4503-2765-7"
+  },
+  "10.1145/2636240.2636843": {
+    "type": "research-article",
+    "title": "Generating Reusable Visual Notations using Model Transformation",
+    "url": "https://doi.org/10.1145/2636240.2636843",
+    "year": "2014",
+    "authors": [
+      {
+        "name": "Iman Avazpour",
+        "url": "https:/dl.acm.org/profile/81440623086"
+      },
+      {
+        "name": "John C. Grundy",
+        "url": "https:/dl.acm.org/profile/81100261843"
+      },
+      {
+        "name": " + 1",
+        "url": "https:/dl.acm.orgjavascript:void(0)"
+      }
+    ],
+    "citations": "1",
+    "downloads": "73",
+    "doi": "10.1145/2636240.2636843",
+    "extra": [
+      "August 2014",
+      "pp 58–67",
+      "https://doi.org/10.1145/2636240.2636843"
+    ],
+    "conference_title": "The 7th International Symposium on Visual Information Communication and Interaction, VINCI '14, Sydney, NSW, Australia, August 5-8, 2014.",
+    "publisher": "ACM",
+    "conference_isbn": "978-1-4503-2765-7"
+  },
+  "10.1145/2636240.2636840": {
+    "type": "research-article",
+    "title": "Encapsulating Interaction Techniques of 3D Language Editors in Visual Patterns",
+    "url": "https://doi.org/10.1145/2636240.2636840",
+    "year": "2014",
+    "authors": [
+      {
+        "name": "Jan Wolter",
+        "url": "https:/dl.acm.org/profile/99658640625"
+      },
+      {
+        "name": "Uwe Kastens",
+        "url": "https:/dl.acm.org/profile/81100449926"
+      }
+    ],
+    "citations": "0",
+    "downloads": "85",
+    "doi": "10.1145/2636240.2636840",
+    "extra": [
+      "August 2014",
+      "pp 68–77",
+      "https://doi.org/10.1145/2636240.2636840"
+    ],
+    "conference_title": "The 7th International Symposium on Visual Information Communication and Interaction, VINCI '14, Sydney, NSW, Australia, August 5-8, 2014.",
+    "publisher": "ACM",
+    "conference_isbn": "978-1-4503-2765-7"
+  },
+  "10.1145/2636240.2636846": {
+    "type": "research-article",
+    "title": "Interactive Sand Art Drawing Using Kinect",
+    "url": "https://doi.org/10.1145/2636240.2636846",
+    "year": "2014",
+    "authors": [
+      {
+        "name": "Kai-Min Chen",
+        "url": "https:/dl.acm.org/profile/99658641338"
+      },
+      {
+        "name": "Sai-Keung Wong",
+        "url": "https:/dl.acm.org/profile/81548026358"
+      }
+    ],
+    "citations": "5",
+    "downloads": "364",
+    "doi": "10.1145/2636240.2636846",
+    "extra": [
+      "August 2014",
+      "pp 78–87",
+      "https://doi.org/10.1145/2636240.2636846"
+    ],
+    "conference_title": "The 7th International Symposium on Visual Information Communication and Interaction, VINCI '14, Sydney, NSW, Australia, August 5-8, 2014.",
+    "publisher": "ACM",
+    "conference_isbn": "978-1-4503-2765-7"
+  }
+}

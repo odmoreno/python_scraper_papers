@@ -1,5 +1,6 @@
 from common_functions import *
 import json
+import time
 
 class AcmClient:
     def __init__(self,urls):
@@ -9,9 +10,9 @@ class AcmClient:
 
     def save_data_to_json(self, name, data):
         filename = 'data/' + name + '.json'
-        json_string = json.dumps(data, indent=2)
+        json_string = json.dumps(data, ensure_ascii= False, indent=2)
         # Using a JSON string
-        with open(filename, 'w') as outfile:
+        with open(filename, 'w', encoding="utf-8") as outfile:
             outfile.write(json_string)
 
 
@@ -58,16 +59,18 @@ class AcmClient:
         t_author_list = str(authors).strip("[]")
         author_list = t_author_list.replace("'", "")
         # Citation
-        n_citation = contenido.find("div", class_="citation").find('span').text
+        n_citation = contenido.find("div", class_="citation").find('span')
+        n_citation = '' if n_citation is None else n_citation.text
         # Downloads
-        n_descargas = contenido.find("div", class_="metric").find('span').text
+        n_descargas = contenido.find("div", class_="metric")
+        n_descargas = '' if n_descargas is None else n_descargas.find('span').text
         data = {
             "type": tipo,
             "title" : title,
             "url" : url,
             "year": p_year,
             #"journal": journal,
-            "authors": author_list,
+            "authors": authors,
             "citations": n_citation,
             "downloads": n_descargas,
             "doi" : doi,
@@ -85,43 +88,50 @@ class AcmClient:
             for url in self.list_urls:
                 # get the name of conference
                 name = url[0] + '_' + url[1]
+                conference_title = url[3]
+                conference_publisher = url[4]
+                conference_isbn = url[6]
                 conference = {}
                 # Check if exist path of json
                 flag_path = check_if_exist_file_json(config.path_to_search_results, name)
                 if not flag_path:
                     self.driver_for_acm.get(url[2])
+                    time.sleep(10)
+                    # open accordions tabs accordion-tabbed__content
+                    #popup = self.driver_for_acm.find_elements_by_class_name('accordion-tabbed__content')
+                    elements = self.driver_for_acm.find_elements_by_xpath("//a[contains(@class, 'section__title accordion-tabbed__control left-bordered-title')]")
+                    for element in elements:
+                        #element.click()
+                        self.driver_for_acm.execute_script("arguments[0].click();", element)
+
+                    clickmore = self.driver_for_acm.find_elements_by_xpath("//a[contains(@class, 'removed-items-count')]")
+                    for el in clickmore:
+                        #element.click()
+                        self.driver_for_acm.execute_script("arguments[0].click();", el)
+
+                    self.driver_for_acm.execute_script(
+                        "document.getElementsByClassName('accordion-tabbed__content')[0].style.display='block';")
+
                     # parse source code
                     soup = BeautifulSoup(self.driver_for_acm.page_source, "html.parser")
-                    '''
-                    #find buttons
-                    liss = self.driver_for_acm.find_elements_by_class_name('removed-items-count')
-                    for a in liss:
-                        a.click()
-                    '''
-                    # Get info of conference
-                    meta_info = soup.find("div", class_="item-meta__info")
-
+                    #time.sleep(10)
                     # Get the result containers
                     result_containers = soup.findAll("div", class_="issue-item clearfix")
                     item_citation = soup.findAll("div", class_="issue-heading")
                     item_content = soup.findAll("div", class_="issue-item__content")
                     #loop and search for results
                     for index in range(len(item_content)):
-
+                        #print(index)
                         citation = item_citation[index]
                         tipo_de_paper = citation.text
                         contenido = item_content[index].find('div', {'class': 'issue-item__content-right'})
                         data = self.get_data_papers(tipo_de_paper, contenido)
+                        data['conference_title'] = conference_title
+                        data['publisher'] = conference_publisher
+                        data['conference_isbn'] = conference_isbn
                         conference[data['doi']] = data
 
                     self.save_data_to_json(name, conference)
-                    """
-                     for citation, content in (item_citation, item_content):
-                        tipo_de_paper = citation.find('div', {'class': 'issue-heading'}).text
-                        contenido = content.find('div', {'class': 'issue-item__content-right'})
-                        data = self.get_data_papers(tipo_de_paper, contenido)
-                    """
-
                 else:
                     print('Ya existe :', name)
 

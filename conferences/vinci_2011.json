@@ -1,0 +1,306 @@
+{
+  "10.1145/2016656.2016657": {
+    "type": "research-article",
+    "title": "Designing visual analytics systems for organizational environments",
+    "url": "https://doi.org/10.1145/2016656.2016657",
+    "year": "2011",
+    "authors": "{name: Xiaoyu Wang, url: https:/dl.acm.org/profile/81467645327}, {name: Eric Bier, url: https:/dl.acm.org/profile/81100084142}, {name:  + 3, url: https:/dl.acm.orgjavascript:void(0)}",
+    "citations": "0",
+    "downloads": "313",
+    "doi": "10.1145/2016656.2016657",
+    "extra": [
+      "August 2011",
+      "Article No.: 1",
+      "pp 1–9",
+      "https://doi.org/10.1145/2016656.2016657"
+    ],
+    "conference_title": "The 2011 Visual Information Communication - International Symposium, VINCI '11, Hong Kong, China - August 04 - 05, 2011.",
+    "publisher": "ACM",
+    "conference_isbn": "978-1-4503-0786-4"
+  },
+  "10.1145/2016656.2016658": {
+    "type": "research-article",
+    "title": "Visualization of large category hierarchies",
+    "url": "https://doi.org/10.1145/2016656.2016658",
+    "year": "2011",
+    "authors": "{name: Robert P. Biuk-Aghai, url: https:/dl.acm.org/profile/81100203521}, {name:  + 2, url: https:/dl.acm.orgjavascript:void(0)}",
+    "citations": "1",
+    "downloads": "261",
+    "doi": "10.1145/2016656.2016658",
+    "extra": [
+      "August 2011",
+      "Article No.: 2",
+      "pp 1–10",
+      "https://doi.org/10.1145/2016656.2016658"
+    ],
+    "conference_title": "The 2011 Visual Information Communication - International Symposium, VINCI '11, Hong Kong, China - August 04 - 05, 2011.",
+    "publisher": "ACM",
+    "conference_isbn": "978-1-4503-0786-4"
+  },
+  "10.1145/2016656.2016659": {
+    "type": "research-article",
+    "title": "A visual analysis tool that smoothly switches between tabular forms and parallel coordinates",
+    "url": "https://doi.org/10.1145/2016656.2016659",
+    "year": "2011",
+    "authors": "{name: Kazuo Misue, url: https:/dl.acm.org/profile/81100517120}, {name: Takashi Yuki, url: https:/dl.acm.org/profile/81487644992}",
+    "citations": "0",
+    "downloads": "135",
+    "doi": "10.1145/2016656.2016659",
+    "extra": [
+      "August 2011",
+      "Article No.: 3",
+      "pp 1–7",
+      "https://doi.org/10.1145/2016656.2016659"
+    ],
+    "conference_title": "The 2011 Visual Information Communication - International Symposium, VINCI '11, Hong Kong, China - August 04 - 05, 2011.",
+    "publisher": "ACM",
+    "conference_isbn": "978-1-4503-0786-4"
+  },
+  "10.1145/2016656.2016660": {
+    "type": "research-article",
+    "title": "A hyperbolic tree based interface for exploring massive files",
+    "url": "https://doi.org/10.1145/2016656.2016660",
+    "year": "2011",
+    "authors": "{name: Zhirong Zeng, url: https:/dl.acm.org/profile/81542207356}, {name: Kun Wang, url: https:/dl.acm.org/profile/81487643126}, {name:  + 3, url: https:/dl.acm.orgjavascript:void(0)}",
+    "citations": "0",
+    "downloads": "232",
+    "doi": "10.1145/2016656.2016660",
+    "extra": [
+      "August 2011",
+      "Article No.: 4",
+      "pp 1–9",
+      "https://doi.org/10.1145/2016656.2016660"
+    ],
+    "conference_title": "The 2011 Visual Information Communication - International Symposium, VINCI '11, Hong Kong, China - August 04 - 05, 2011.",
+    "publisher": "ACM",
+    "conference_isbn": "978-1-4503-0786-4"
+  },
+  "10.1145/2016656.2016661": {
+    "type": "research-article",
+    "title": "MusiCube: a visual music recommendation system featuring interactive evolutionary computing",
+    "url": "https://doi.org/10.1145/2016656.2016661",
+    "year": "2011",
+    "authors": "{name: Yuri Saito, url: https:/dl.acm.org/profile/81487645949}, {name: Takayuki Itoh, url: https:/dl.acm.org/profile/81100329777}",
+    "citations": "16",
+    "downloads": "385",
+    "doi": "10.1145/2016656.2016661",
+    "extra": [
+      "August 2011",
+      "Article No.: 5",
+      "pp 1–6",
+      "https://doi.org/10.1145/2016656.2016661"
+    ],
+    "conference_title": "The 2011 Visual Information Communication - International Symposium, VINCI '11, Hong Kong, China - August 04 - 05, 2011.",
+    "publisher": "ACM",
+    "conference_isbn": "978-1-4503-0786-4"
+  },
+  "10.1145/2016656.2016662": {
+    "type": "research-article",
+    "title": "Support of self-management for chronic kidney failure patients",
+    "url": "https://doi.org/10.1145/2016656.2016662",
+    "year": "2011",
+    "authors": "{name: Yasuhiko Sota, url: https:/dl.acm.org/profile/81487652857}, {name:  + 4, url: https:/dl.acm.orgjavascript:void(0)}",
+    "citations": "4",
+    "downloads": "276",
+    "doi": "10.1145/2016656.2016662",
+    "extra": [
+      "August 2011",
+      "Article No.: 6",
+      "pp 1–7",
+      "https://doi.org/10.1145/2016656.2016662"
+    ],
+    "conference_title": "The 2011 Visual Information Communication - International Symposium, VINCI '11, Hong Kong, China - August 04 - 05, 2011.",
+    "publisher": "ACM",
+    "conference_isbn": "978-1-4503-0786-4"
+  },
+  "10.1145/2016656.2016663": {
+    "type": "research-article",
+    "title": "Geo-tagged mobile photo sharing in collaborative emergency management",
+    "url": "https://doi.org/10.1145/2016656.2016663",
+    "year": "2011",
+    "authors": "{name: Anna Wu, url: https:/dl.acm.org/profile/81430655874}, {name: Xin Yan, url: https:/dl.acm.org/profile/81487647520}, {name:  + 1, url: https:/dl.acm.orgjavascript:void(0)}",
+    "citations": "10",
+    "downloads": "384",
+    "doi": "10.1145/2016656.2016663",
+    "extra": [
+      "August 2011",
+      "Article No.: 7",
+      "pp 1–8",
+      "https://doi.org/10.1145/2016656.2016663"
+    ],
+    "conference_title": "The 2011 Visual Information Communication - International Symposium, VINCI '11, Hong Kong, China - August 04 - 05, 2011.",
+    "publisher": "ACM",
+    "conference_isbn": "978-1-4503-0786-4"
+  },
+  "10.1145/2016656.2016664": {
+    "type": "research-article",
+    "title": "Empirical studies of pen tilting performance in pen-based user interfaces",
+    "url": "https://doi.org/10.1145/2016656.2016664",
+    "year": "2011",
+    "authors": "{name: Feng Tian, url: https:/dl.acm.org/profile/81100106876}, {name: Xiang Cao, url: https:/dl.acm.org/profile/81100130420}, {name: Fei Lu, url: https:/dl.acm.org/profile/81484645699}, {name:  + 3, url: https:/dl.acm.orgjavascript:void(0)}",
+    "citations": "0",
+    "downloads": "239",
+    "doi": "10.1145/2016656.2016664",
+    "extra": [
+      "August 2011",
+      "Article No.: 8",
+      "pp 1–10",
+      "https://doi.org/10.1145/2016656.2016664"
+    ],
+    "conference_title": "The 2011 Visual Information Communication - International Symposium, VINCI '11, Hong Kong, China - August 04 - 05, 2011.",
+    "publisher": "ACM",
+    "conference_isbn": "978-1-4503-0786-4"
+  },
+  "10.1145/2016656.2016665": {
+    "type": "research-article",
+    "title": "Controlled dataflow visual programming languages",
+    "url": "https://doi.org/10.1145/2016656.2016665",
+    "year": "2011",
+    "authors": "{name: Philip T. Cox, url: https:/dl.acm.org/profile/81408600520}, {name: Simon Gauvin, url: https:/dl.acm.org/profile/81100654649}",
+    "citations": "3",
+    "downloads": "407",
+    "doi": "10.1145/2016656.2016665",
+    "extra": [
+      "August 2011",
+      "Article No.: 9",
+      "pp 1–10",
+      "https://doi.org/10.1145/2016656.2016665"
+    ],
+    "conference_title": "The 2011 Visual Information Communication - International Symposium, VINCI '11, Hong Kong, China - August 04 - 05, 2011.",
+    "publisher": "ACM",
+    "conference_isbn": "978-1-4503-0786-4"
+  },
+  "10.1145/2016656.2016666": {
+    "type": "research-article",
+    "title": "Visualizing inference process of a rule engine",
+    "url": "https://doi.org/10.1145/2016656.2016666",
+    "year": "2011",
+    "authors": "{name: Jian Shi, url: https:/dl.acm.org/profile/81487652078}, {name: Ying Qiao, url: https:/dl.acm.org/profile/81550008956}, {name: Hongan Wang, url: https:/dl.acm.org/profile/81100220294}",
+    "citations": "1",
+    "downloads": "300",
+    "doi": "10.1145/2016656.2016666",
+    "extra": [
+      "August 2011",
+      "Article No.: 10",
+      "pp 1–9",
+      "https://doi.org/10.1145/2016656.2016666"
+    ],
+    "conference_title": "The 2011 Visual Information Communication - International Symposium, VINCI '11, Hong Kong, China - August 04 - 05, 2011.",
+    "publisher": "ACM",
+    "conference_isbn": "978-1-4503-0786-4"
+  },
+  "10.1145/2016656.2016667": {
+    "type": "research-article",
+    "title": "Coaxial interactive viewer: a multi-dimensional data visualization with spatial distortional views",
+    "url": "https://doi.org/10.1145/2016656.2016667",
+    "year": "2011",
+    "authors": "{name: Jiawan Zhang, url: https:/dl.acm.org/profile/81453614419}, {name: Yi Zhang, url: https:/dl.acm.org/profile/81487649595}, {name:  + 3, url: https:/dl.acm.orgjavascript:void(0)}",
+    "citations": "1",
+    "downloads": "244",
+    "doi": "10.1145/2016656.2016667",
+    "extra": [
+      "August 2011",
+      "Article No.: 11",
+      "pp 1–7",
+      "https://doi.org/10.1145/2016656.2016667"
+    ],
+    "conference_title": "The 2011 Visual Information Communication - International Symposium, VINCI '11, Hong Kong, China - August 04 - 05, 2011.",
+    "publisher": "ACM",
+    "conference_isbn": "978-1-4503-0786-4"
+  },
+  "10.1145/2016656.2016668": {
+    "type": "research-article",
+    "title": "InfoShape: high-level views of multidimensional information",
+    "url": "https://doi.org/10.1145/2016656.2016668",
+    "year": "2011",
+    "authors": "{name: Jie Hao, url: https:/dl.acm.org/profile/81418594635}, {name: Kang Zhang, url: https:/dl.acm.org/profile/81350576955}",
+    "citations": "1",
+    "downloads": "134",
+    "doi": "10.1145/2016656.2016668",
+    "extra": [
+      "August 2011",
+      "Article No.: 12",
+      "pp 1–8",
+      "https://doi.org/10.1145/2016656.2016668"
+    ],
+    "conference_title": "The 2011 Visual Information Communication - International Symposium, VINCI '11, Hong Kong, China - August 04 - 05, 2011.",
+    "publisher": "ACM",
+    "conference_isbn": "978-1-4503-0786-4"
+  },
+  "10.1145/2016656.2016669": {
+    "type": "research-article",
+    "title": "Visual analysis of people's mobility pattern from mobile phone data",
+    "url": "https://doi.org/10.1145/2016656.2016669",
+    "year": "2011",
+    "authors": "{name: Jiansu Pu, url: https:/dl.acm.org/profile/81487651695}, {name: Panpan Xu, url: https:/dl.acm.org/profile/81487645560}, {name:  + 4, url: https:/dl.acm.orgjavascript:void(0)}",
+    "citations": "4",
+    "downloads": "569",
+    "doi": "10.1145/2016656.2016669",
+    "extra": [
+      "August 2011",
+      "Article No.: 13",
+      "pp 1–10",
+      "https://doi.org/10.1145/2016656.2016669"
+    ],
+    "conference_title": "The 2011 Visual Information Communication - International Symposium, VINCI '11, Hong Kong, China - August 04 - 05, 2011.",
+    "publisher": "ACM",
+    "conference_isbn": "978-1-4503-0786-4"
+  },
+  "10.1145/2016656.2016670": {
+    "type": "research-article",
+    "title": "A graph-based fuzzy linguistic metadata schema for describing spatial relationships",
+    "url": "https://doi.org/10.1145/2016656.2016670",
+    "year": "2011",
+    "authors": "{name: Yu Su, url: https:/dl.acm.org/profile/81479650318}, {name: Margaret H. Dunham, url: https:/dl.acm.org/profile/81409595451}",
+    "citations": "0",
+    "downloads": "144",
+    "doi": "10.1145/2016656.2016670",
+    "extra": [
+      "August 2011",
+      "Article No.: 14",
+      "pp 1–10",
+      "https://doi.org/10.1145/2016656.2016670"
+    ],
+    "conference_title": "The 2011 Visual Information Communication - International Symposium, VINCI '11, Hong Kong, China - August 04 - 05, 2011.",
+    "publisher": "ACM",
+    "conference_isbn": "978-1-4503-0786-4"
+  },
+  "10.1145/2016656.2016671": {
+    "type": "research-article",
+    "title": "SFViz: interest-based friends exploration and recommendation in social networks",
+    "url": "https://doi.org/10.1145/2016656.2016671",
+    "year": "2011",
+    "authors": "{name: Liang Gou, url: https:/dl.acm.org/profile/81502758188}, {name: Fang You, url: https:/dl.acm.org/profile/81351599219}, {name:  + 3, url: https:/dl.acm.orgjavascript:void(0)}",
+    "citations": "37",
+    "downloads": "942",
+    "doi": "10.1145/2016656.2016671",
+    "extra": [
+      "August 2011",
+      "Article No.: 15",
+      "pp 1–10",
+      "https://doi.org/10.1145/2016656.2016671"
+    ],
+    "conference_title": "The 2011 Visual Information Communication - International Symposium, VINCI '11, Hong Kong, China - August 04 - 05, 2011.",
+    "publisher": "ACM",
+    "conference_isbn": "978-1-4503-0786-4"
+  },
+  "10.1145/2016656.2016672": {
+    "type": "research-article",
+    "title": "Visual signatures for financial time series",
+    "url": "https://doi.org/10.1145/2016656.2016672",
+    "year": "2011",
+    "authors": "{name: Su Te Lei, url: https:/dl.acm.org/profile/81100482168}, {name: Kang Zhang, url: https:/dl.acm.org/profile/81350576955}",
+    "citations": "6",
+    "downloads": "419",
+    "doi": "10.1145/2016656.2016672",
+    "extra": [
+      "August 2011",
+      "Article No.: 16",
+      "pp 1–10",
+      "https://doi.org/10.1145/2016656.2016672"
+    ],
+    "conference_title": "The 2011 Visual Information Communication - International Symposium, VINCI '11, Hong Kong, China - August 04 - 05, 2011.",
+    "publisher": "ACM",
+    "conference_isbn": "978-1-4503-0786-4"
+  }
+}

@@ -1,0 +1,506 @@
+{
+  "10.1145/3105971.3105972": {
+    "type": "research-article",
+    "title": "Visualizing uncertainty in flow diagrams: a case study in product costing",
+    "url": "https://doi.org/10.1145/3105971.3105972",
+    "year": "2017",
+    "authors": "{name: Zana Vosough, url: https:/dl.acm.org/profile/99659194221}, {name:  + 3, url: https:/dl.acm.orgjavascript:void(0)}",
+    "citations": "2",
+    "downloads": "258",
+    "doi": "10.1145/3105971.3105972",
+    "extra": [
+      "August 2017",
+      "pp 1–8",
+      "https://doi.org/10.1145/3105971.3105972"
+    ],
+    "conference_title": "Proceedings of the 10th International Symposium on Visual Information Communication and Interaction, VINCI 2017, Bangkok, Thailand, August 14-16, 2017.",
+    "publisher": "ACM",
+    "conference_isbn": "978-1-4503-5292-5"
+  },
+  "10.1145/3105971.3105980": {
+    "type": "research-article",
+    "title": "A radviz-based visualization for understanding fuzzy clustering results",
+    "url": "https://doi.org/10.1145/3105971.3105980",
+    "year": "2017",
+    "authors": "{name: Fangfang Zhou, url: https:/dl.acm.org/profile/81549260756}, {name: Minghui Chen, url: https:/dl.acm.org/profile/99659194235}, {name:  + 6, url: https:/dl.acm.orgjavascript:void(0)}",
+    "citations": "4",
+    "downloads": "121",
+    "doi": "10.1145/3105971.3105980",
+    "extra": [
+      "August 2017",
+      "pp 9–15",
+      "https://doi.org/10.1145/3105971.3105980"
+    ],
+    "conference_title": "Proceedings of the 10th International Symposium on Visual Information Communication and Interaction, VINCI 2017, Bangkok, Thailand, August 14-16, 2017.",
+    "publisher": "ACM",
+    "conference_isbn": "978-1-4503-5292-5"
+  },
+  "10.1145/3105971.3105983": {
+    "type": "research-article",
+    "title": "Partial precedence of context-sensitive graph grammars",
+    "url": "https://doi.org/10.1145/3105971.3105983",
+    "year": "2017",
+    "authors": "{name: Yang Zou, url: https:/dl.acm.org/profile/99659194214}, {name: Xiaoqin Zeng, url: https:/dl.acm.org/profile/81319505316}, {name:  + 2, url: https:/dl.acm.orgjavascript:void(0)}",
+    "citations": "2",
+    "downloads": "39",
+    "doi": "10.1145/3105971.3105983",
+    "extra": [
+      "August 2017",
+      "pp 16–23",
+      "https://doi.org/10.1145/3105971.3105983"
+    ],
+    "conference_title": "Proceedings of the 10th International Symposium on Visual Information Communication and Interaction, VINCI 2017, Bangkok, Thailand, August 14-16, 2017.",
+    "publisher": "ACM",
+    "conference_isbn": "978-1-4503-5292-5"
+  },
+  "10.1145/3105971.3105986": {
+    "type": "short-paper",
+    "title": "An application of optimization method for storyline based on cluster analysis",
+    "url": "https://doi.org/10.1145/3105971.3105986",
+    "year": "2017",
+    "authors": "{name: Yuhua Liu, url: https:/dl.acm.org/profile/81549102456}, {name: Hanfei Lin, url: https:/dl.acm.org/profile/99659194118}, {name:  + 2, url: https:/dl.acm.orgjavascript:void(0)}",
+    "citations": "1",
+    "downloads": "93",
+    "doi": "10.1145/3105971.3105986",
+    "extra": [
+      "August 2017",
+      "pp 24–28",
+      "https://doi.org/10.1145/3105971.3105986"
+    ],
+    "conference_title": "Proceedings of the 10th International Symposium on Visual Information Communication and Interaction, VINCI 2017, Bangkok, Thailand, August 14-16, 2017.",
+    "publisher": "ACM",
+    "conference_isbn": "978-1-4503-5292-5"
+  },
+  "10.1145/3105971.3105975": {
+    "type": "research-article",
+    "title": "Personal visual analytics for android security risk lifelog",
+    "url": "https://doi.org/10.1145/3105971.3105975",
+    "year": "2017",
+    "authors": "{name: Sangbong Yoo, url: https:/dl.acm.org/profile/99658989829}, {name: Hong Ryeol Ryu, url: https:/dl.acm.org/profile/99658730770}, {name:  + 3, url: https:/dl.acm.orgjavascript:void(0)}",
+    "citations": "1",
+    "downloads": "136",
+    "doi": "10.1145/3105971.3105975",
+    "extra": [
+      "August 2017",
+      "pp 29–36",
+      "https://doi.org/10.1145/3105971.3105975"
+    ],
+    "conference_title": "Proceedings of the 10th International Symposium on Visual Information Communication and Interaction, VINCI 2017, Bangkok, Thailand, August 14-16, 2017.",
+    "publisher": "ACM",
+    "conference_isbn": "978-1-4503-5292-5"
+  },
+  "10.1145/3105971.3105982": {
+    "type": "research-article",
+    "title": "Visualization of time series data with spatial context: communicating the energy production of power plants",
+    "url": "https://doi.org/10.1145/3105971.3105982",
+    "year": "2017",
+    "authors": "{name: Nils Rodrigues, url: https:/dl.acm.org/profile/99659194260}, {name: Rudolf Netzel, url: https:/dl.acm.org/profile/81558361656}, {name:  + 5, url: https:/dl.acm.orgjavascript:void(0)}",
+    "citations": "3",
+    "downloads": "234",
+    "doi": "10.1145/3105971.3105982",
+    "extra": [
+      "August 2017",
+      "pp 37–44",
+      "https://doi.org/10.1145/3105971.3105982"
+    ],
+    "conference_title": "Proceedings of the 10th International Symposium on Visual Information Communication and Interaction, VINCI 2017, Bangkok, Thailand, August 14-16, 2017.",
+    "publisher": "ACM",
+    "conference_isbn": "978-1-4503-5292-5"
+  },
+  "10.1145/3105971.3105981": {
+    "type": "research-article",
+    "title": "Visualizing activity traces to support collaborative literature searching",
+    "url": "https://doi.org/10.1145/3105971.3105981",
+    "year": "2017",
+    "authors": "{name: Kumaripaba Athukorala, url: https:/dl.acm.org/profile/81500651305}, {name:  + 6, url: https:/dl.acm.orgjavascript:void(0)}",
+    "citations": "2",
+    "downloads": "144",
+    "doi": "10.1145/3105971.3105981",
+    "extra": [
+      "August 2017",
+      "pp 45–52",
+      "https://doi.org/10.1145/3105971.3105981"
+    ],
+    "conference_title": "Proceedings of the 10th International Symposium on Visual Information Communication and Interaction, VINCI 2017, Bangkok, Thailand, August 14-16, 2017.",
+    "publisher": "ACM",
+    "conference_isbn": "978-1-4503-5292-5"
+  },
+  "10.1145/3105971.3105984": {
+    "type": "short-paper",
+    "title": "Visual support for rastering of unequally spaced time series",
+    "url": "https://doi.org/10.1145/3105971.3105984",
+    "year": "2017",
+    "authors": "{name: Christian Bors, url: https:/dl.acm.org/profile/99659194168}, {name: Markus Bögl, url: https:/dl.acm.org/profile/81474695092}, {name:  + 2, url: https:/dl.acm.orgjavascript:void(0)}",
+    "citations": "4",
+    "downloads": "133",
+    "doi": "10.1145/3105971.3105984",
+    "extra": [
+      "August 2017",
+      "pp 53–57",
+      "https://doi.org/10.1145/3105971.3105984"
+    ],
+    "conference_title": "Proceedings of the 10th International Symposium on Visual Information Communication and Interaction, VINCI 2017, Bangkok, Thailand, August 14-16, 2017.",
+    "publisher": "ACM",
+    "conference_isbn": "978-1-4503-5292-5"
+  },
+  "10.1145/3105971.3105987": {
+    "type": "short-paper",
+    "title": "Visual considerations of relative trajectory models of moving objects",
+    "url": "https://doi.org/10.1145/3105971.3105987",
+    "year": "2017",
+    "authors": "{name: Kazuo Misue, url: https:/dl.acm.org/profile/81100517120}, {name: Kosuke Otake, url: https:/dl.acm.org/profile/99659194175}, {name:  + 1, url: https:/dl.acm.orgjavascript:void(0)}",
+    "citations": "0",
+    "downloads": "52",
+    "doi": "10.1145/3105971.3105987",
+    "extra": [
+      "August 2017",
+      "pp 58–62",
+      "https://doi.org/10.1145/3105971.3105987"
+    ],
+    "conference_title": "Proceedings of the 10th International Symposium on Visual Information Communication and Interaction, VINCI 2017, Bangkok, Thailand, August 14-16, 2017.",
+    "publisher": "ACM",
+    "conference_isbn": "978-1-4503-5292-5"
+  },
+  "10.1145/3105971.3105990": {
+    "type": "poster",
+    "title": "Anamorphic fluid: exploring spatial organization and movements of images in a simulated fluid environment",
+    "url": "https://doi.org/10.1145/3105971.3105990",
+    "year": "2017",
+    "authors": "{name: Jieliang Luo, url: https:/dl.acm.org/profile/99659820717}, {name: Donghao Ren, url: https:/dl.acm.org/profile/84460132057}, {name:  + 1, url: https:/dl.acm.orgjavascript:void(0)}",
+    "citations": "0",
+    "downloads": "60",
+    "doi": "10.1145/3105971.3105990",
+    "extra": [
+      "August 2017",
+      "pp 63–64",
+      "https://doi.org/10.1145/3105971.3105990"
+    ],
+    "conference_title": "Proceedings of the 10th International Symposium on Visual Information Communication and Interaction, VINCI 2017, Bangkok, Thailand, August 14-16, 2017.",
+    "publisher": "ACM",
+    "conference_isbn": "978-1-4503-5292-5"
+  },
+  "10.1145/3105971.3108443": {
+    "type": "poster",
+    "title": "Using sunflower metaphor to reduce clutter of scatterplot",
+    "url": "https://doi.org/10.1145/3105971.3108443",
+    "year": "2017",
+    "authors": "{name: Congmin Li, url: https:/dl.acm.org/profile/99659194233}, {name: Jie Li, url: https:/dl.acm.org/profile/99658620368}",
+    "citations": "1",
+    "downloads": "52",
+    "doi": "10.1145/3105971.3108443",
+    "extra": [
+      "August 2017",
+      "pp 65–66",
+      "https://doi.org/10.1145/3105971.3108443"
+    ],
+    "conference_title": "Proceedings of the 10th International Symposium on Visual Information Communication and Interaction, VINCI 2017, Bangkok, Thailand, August 14-16, 2017.",
+    "publisher": "ACM",
+    "conference_isbn": "978-1-4503-5292-5"
+  },
+  "10.1145/3105971.3108447": {
+    "type": "poster",
+    "title": "Visualizing thai stock performance using parallel coordinates",
+    "url": "https://doi.org/10.1145/3105971.3108447",
+    "year": "2017",
+    "authors": "{name: Boyi Li, url: https:/dl.acm.org/profile/99659194283}, {name: Amontep Wijitcharoen, url: https:/dl.acm.org/profile/99659194157}, {name:  + 1, url: https:/dl.acm.orgjavascript:void(0)}",
+    "citations": "0",
+    "downloads": "78",
+    "doi": "10.1145/3105971.3108447",
+    "extra": [
+      "August 2017",
+      "pp 67–68",
+      "https://doi.org/10.1145/3105971.3108447"
+    ],
+    "conference_title": "Proceedings of the 10th International Symposium on Visual Information Communication and Interaction, VINCI 2017, Bangkok, Thailand, August 14-16, 2017.",
+    "publisher": "ACM",
+    "conference_isbn": "978-1-4503-5292-5"
+  },
+  "10.1145/3105971.3108450": {
+    "type": "poster",
+    "title": "Visual clustering-based apriori ARM methodology for obtaining quality association rules",
+    "url": "https://doi.org/10.1145/3105971.3108450",
+    "year": "2017",
+    "authors": "{name: Simon Fong, url: https:/dl.acm.org/profile/81339499259}, {name:  + 2, url: https:/dl.acm.orgjavascript:void(0)}",
+    "citations": "3",
+    "downloads": "110",
+    "doi": "10.1145/3105971.3108450",
+    "extra": [
+      "August 2017",
+      "pp 69–70",
+      "https://doi.org/10.1145/3105971.3108450"
+    ],
+    "conference_title": "Proceedings of the 10th International Symposium on Visual Information Communication and Interaction, VINCI 2017, Bangkok, Thailand, August 14-16, 2017.",
+    "publisher": "ACM",
+    "conference_isbn": "978-1-4503-5292-5"
+  },
+  "10.1145/3105971.3108444": {
+    "type": "poster",
+    "title": "Towards a design generation methodology",
+    "url": "https://doi.org/10.1145/3105971.3108444",
+    "year": "2017",
+    "authors": "{name: Kang Zhang, url: https:/dl.acm.org/profile/81350576955}, {name: Yihang Bo, url: https:/dl.acm.org/profile/99659194158}, {name: Yi Yang, url: https:/dl.acm.org/profile/99659194162}",
+    "citations": "1",
+    "downloads": "101",
+    "doi": "10.1145/3105971.3108444",
+    "extra": [
+      "August 2017",
+      "pp 71–72",
+      "https://doi.org/10.1145/3105971.3108444"
+    ],
+    "conference_title": "Proceedings of the 10th International Symposium on Visual Information Communication and Interaction, VINCI 2017, Bangkok, Thailand, August 14-16, 2017.",
+    "publisher": "ACM",
+    "conference_isbn": "978-1-4503-5292-5"
+  },
+  "10.1145/3105971.3108442": {
+    "type": "poster",
+    "title": "Visual analysis of driving styles from vehicle experiment data",
+    "url": "https://doi.org/10.1145/3105971.3108442",
+    "year": "2017",
+    "authors": "{name: Xianglei Zhu, url: https:/dl.acm.org/profile/99659194208}, {name: Shuai Zhao, url: https:/dl.acm.org/profile/99659194272}, {name:  + 2, url: https:/dl.acm.orgjavascript:void(0)}",
+    "citations": "0",
+    "downloads": "45",
+    "doi": "10.1145/3105971.3108442",
+    "extra": [
+      "August 2017",
+      "pp 73–74",
+      "https://doi.org/10.1145/3105971.3108442"
+    ],
+    "conference_title": "Proceedings of the 10th International Symposium on Visual Information Communication and Interaction, VINCI 2017, Bangkok, Thailand, August 14-16, 2017.",
+    "publisher": "ACM",
+    "conference_isbn": "978-1-4503-5292-5"
+  },
+  "10.1145/3105971.3108445": {
+    "type": "poster",
+    "title": "Data-driven dementia diagnosis record visualization system",
+    "url": "https://doi.org/10.1145/3105971.3108445",
+    "year": "2017",
+    "authors": "{name: Wenjun Guo, url: https:/dl.acm.org/profile/84459002557}, {name: Seungwook Kim, url: https:/dl.acm.org/profile/99659194257}, {name:  + 4, url: https:/dl.acm.orgjavascript:void(0)}",
+    "citations": "0",
+    "downloads": "92",
+    "doi": "10.1145/3105971.3108445",
+    "extra": [
+      "August 2017",
+      "pp 75–76",
+      "https://doi.org/10.1145/3105971.3108445"
+    ],
+    "conference_title": "Proceedings of the 10th International Symposium on Visual Information Communication and Interaction, VINCI 2017, Bangkok, Thailand, August 14-16, 2017.",
+    "publisher": "ACM",
+    "conference_isbn": "978-1-4503-5292-5"
+  },
+  "10.1145/3105971.3108446": {
+    "type": "poster",
+    "title": "Network-based visualization tool for analyzing gene expression data",
+    "url": "https://doi.org/10.1145/3105971.3108446",
+    "year": "2017",
+    "authors": "{name: Thanyathorn Thanapattheerakul, url: https:/dl.acm.org/profile/99659127931}, {name:  + 2, url: https:/dl.acm.orgjavascript:void(0)}",
+    "citations": "0",
+    "downloads": "64",
+    "doi": "10.1145/3105971.3108446",
+    "extra": [
+      "August 2017",
+      "pp 77–78",
+      "https://doi.org/10.1145/3105971.3108446"
+    ],
+    "conference_title": "Proceedings of the 10th International Symposium on Visual Information Communication and Interaction, VINCI 2017, Bangkok, Thailand, August 14-16, 2017.",
+    "publisher": "ACM",
+    "conference_isbn": "978-1-4503-5292-5"
+  },
+  "10.1145/3105971.3108448": {
+    "type": "poster",
+    "title": "Gene-set profiles: visualizing dissimilarity within gene co-expression networks for biomarker identification",
+    "url": "https://doi.org/10.1145/3105971.3108448",
+    "year": "2017",
+    "authors": "{name: Saila Shama, url: https:/dl.acm.org/profile/99659194254}, {name: Philip Lu, url: https:/dl.acm.org/profile/99659194245}, {name:  + 3, url: https:/dl.acm.orgjavascript:void(0)}",
+    "citations": "0",
+    "downloads": "35",
+    "doi": "10.1145/3105971.3108448",
+    "extra": [
+      "August 2017",
+      "pp 79–80",
+      "https://doi.org/10.1145/3105971.3108448"
+    ],
+    "conference_title": "Proceedings of the 10th International Symposium on Visual Information Communication and Interaction, VINCI 2017, Bangkok, Thailand, August 14-16, 2017.",
+    "publisher": "ACM",
+    "conference_isbn": "978-1-4503-5292-5"
+  },
+  "10.1145/3105971.3105992": {
+    "type": "poster",
+    "title": "Overall quality evaluation of graph layouts based on regression analysis",
+    "url": "https://doi.org/10.1145/3105971.3105992",
+    "year": "2017",
+    "authors": "{name: Jiafan Li, url: https:/dl.acm.org/profile/99659097484}, {name: Changbo Wang, url: https:/dl.acm.org/profile/81100220966}, {name:  + 3, url: https:/dl.acm.orgjavascript:void(0)}",
+    "citations": "0",
+    "downloads": "57",
+    "doi": "10.1145/3105971.3105992",
+    "extra": [
+      "August 2017",
+      "pp 81–82",
+      "https://doi.org/10.1145/3105971.3105992"
+    ],
+    "conference_title": "Proceedings of the 10th International Symposium on Visual Information Communication and Interaction, VINCI 2017, Bangkok, Thailand, August 14-16, 2017.",
+    "publisher": "ACM",
+    "conference_isbn": "978-1-4503-5292-5"
+  },
+  "10.1145/3105971.3108449": {
+    "type": "poster",
+    "title": "Network analysis of inter-organizational success factor relationships",
+    "url": "https://doi.org/10.1145/3105971.3108449",
+    "year": "2017",
+    "authors": "{name: Wutthipong Kongburan, url: https:/dl.acm.org/profile/99659154692}, {name:  + 3, url: https:/dl.acm.orgjavascript:void(0)}",
+    "citations": "0",
+    "downloads": "49",
+    "doi": "10.1145/3105971.3108449",
+    "extra": [
+      "August 2017",
+      "pp 83–84",
+      "https://doi.org/10.1145/3105971.3108449"
+    ],
+    "conference_title": "Proceedings of the 10th International Symposium on Visual Information Communication and Interaction, VINCI 2017, Bangkok, Thailand, August 14-16, 2017.",
+    "publisher": "ACM",
+    "conference_isbn": "978-1-4503-5292-5"
+  },
+  "10.1145/3105971.3105977": {
+    "type": "research-article",
+    "title": "Exploring gaze-adaptive features for interacting with multi-document visualizations",
+    "url": "https://doi.org/10.1145/3105971.3105977",
+    "year": "2017",
+    "authors": "{name: Barış Serim, url: https:/dl.acm.org/profile/82259259657}, {name: Luca Chech, url: https:/dl.acm.org/profile/83058634857}, {name:  + 4, url: https:/dl.acm.orgjavascript:void(0)}",
+    "citations": "1",
+    "downloads": "111",
+    "doi": "10.1145/3105971.3105977",
+    "extra": [
+      "August 2017",
+      "pp 85–92",
+      "https://doi.org/10.1145/3105971.3105977"
+    ],
+    "conference_title": "Proceedings of the 10th International Symposium on Visual Information Communication and Interaction, VINCI 2017, Bangkok, Thailand, August 14-16, 2017.",
+    "publisher": "ACM",
+    "conference_isbn": "978-1-4503-5292-5"
+  },
+  "10.1145/3105971.3105974": {
+    "type": "research-article",
+    "title": "Computer-aided generation of mandala thangka patterns",
+    "url": "https://doi.org/10.1145/3105971.3105974",
+    "year": "2017",
+    "authors": "{name: Jiajing Zhang, url: https:/dl.acm.org/profile/99659185901}, {name: Kang Zhang, url: https:/dl.acm.org/profile/81350576955}, {name:  + 2, url: https:/dl.acm.orgjavascript:void(0)}",
+    "citations": "2",
+    "downloads": "133",
+    "doi": "10.1145/3105971.3105974",
+    "extra": [
+      "August 2017",
+      "pp 93–100",
+      "https://doi.org/10.1145/3105971.3105974"
+    ],
+    "conference_title": "Proceedings of the 10th International Symposium on Visual Information Communication and Interaction, VINCI 2017, Bangkok, Thailand, August 14-16, 2017.",
+    "publisher": "ACM",
+    "conference_isbn": "978-1-4503-5292-5"
+  },
+  "10.1145/3105971.3105973": {
+    "type": "research-article",
+    "title": "Eye movement plots",
+    "url": "https://doi.org/10.1145/3105971.3105973",
+    "year": "2017",
+    "authors": "{name: Michael Burch, url: https:/dl.acm.org/profile/81331488994}",
+    "citations": "2",
+    "downloads": "101",
+    "doi": "10.1145/3105971.3105973",
+    "extra": [
+      "August 2017",
+      "pp 101–108",
+      "https://doi.org/10.1145/3105971.3105973"
+    ],
+    "conference_title": "Proceedings of the 10th International Symposium on Visual Information Communication and Interaction, VINCI 2017, Bangkok, Thailand, August 14-16, 2017.",
+    "publisher": "ACM",
+    "conference_isbn": "978-1-4503-5292-5"
+  },
+  "10.1145/3105971.3105989": {
+    "type": "short-paper",
+    "title": "artVIS: an interactive visualization for painting collections",
+    "url": "https://doi.org/10.1145/3105971.3105989",
+    "year": "2017",
+    "authors": "{name: Michael Burch, url: https:/dl.acm.org/profile/81331488994}, {name: Uwe Kloos, url: https:/dl.acm.org/profile/81466647554}, {name:  + 6, url: https:/dl.acm.orgjavascript:void(0)}",
+    "citations": "2",
+    "downloads": "114",
+    "doi": "10.1145/3105971.3105989",
+    "extra": [
+      "August 2017",
+      "pp 109–112",
+      "https://doi.org/10.1145/3105971.3105989"
+    ],
+    "conference_title": "Proceedings of the 10th International Symposium on Visual Information Communication and Interaction, VINCI 2017, Bangkok, Thailand, August 14-16, 2017.",
+    "publisher": "ACM",
+    "conference_isbn": "978-1-4503-5292-5"
+  },
+  "10.1145/3105971.3105976": {
+    "type": "research-article",
+    "title": "Map-like visualisations vs. treemaps: an experimental comparison",
+    "url": "https://doi.org/10.1145/3105971.3105976",
+    "year": "2017",
+    "authors": "{name: Robert P. Biuk-Aghai, url: https:/dl.acm.org/profile/81100203521}, {name:  + 2, url: https:/dl.acm.orgjavascript:void(0)}",
+    "citations": "4",
+    "downloads": "279",
+    "doi": "10.1145/3105971.3105976",
+    "extra": [
+      "August 2017",
+      "pp 113–120",
+      "https://doi.org/10.1145/3105971.3105976"
+    ],
+    "conference_title": "Proceedings of the 10th International Symposium on Visual Information Communication and Interaction, VINCI 2017, Bangkok, Thailand, August 14-16, 2017.",
+    "publisher": "ACM",
+    "conference_isbn": "978-1-4503-5292-5"
+  },
+  "10.1145/3105971.3105978": {
+    "type": "research-article",
+    "title": "Evaluating the effects of size in linesets",
+    "url": "https://doi.org/10.1145/3105971.3105978",
+    "year": "2017",
+    "authors": "{name: Dominique Tranquille, url: https:/dl.acm.org/profile/99659194112}, {name:  + 3, url: https:/dl.acm.orgjavascript:void(0)}",
+    "citations": "1",
+    "downloads": "44",
+    "doi": "10.1145/3105971.3105978",
+    "extra": [
+      "August 2017",
+      "pp 121–128",
+      "https://doi.org/10.1145/3105971.3105978"
+    ],
+    "conference_title": "Proceedings of the 10th International Symposium on Visual Information Communication and Interaction, VINCI 2017, Bangkok, Thailand, August 14-16, 2017.",
+    "publisher": "ACM",
+    "conference_isbn": "978-1-4503-5292-5"
+  },
+  "10.1145/3105971.3105979": {
+    "type": "research-article",
+    "title": "Towards Glyph-based visualizations for big data clustering",
+    "url": "https://doi.org/10.1145/3105971.3105979",
+    "year": "2017",
+    "authors": "{name: Mandy Keck, url: https:/dl.acm.org/profile/81479645196}, {name: Dietrich Kammer, url: https:/dl.acm.org/profile/81479656070}, {name:  + 5, url: https:/dl.acm.orgjavascript:void(0)}",
+    "citations": "6",
+    "downloads": "268",
+    "doi": "10.1145/3105971.3105979",
+    "extra": [
+      "August 2017",
+      "pp 129–136",
+      "https://doi.org/10.1145/3105971.3105979"
+    ],
+    "conference_title": "Proceedings of the 10th International Symposium on Visual Information Communication and Interaction, VINCI 2017, Bangkok, Thailand, August 14-16, 2017.",
+    "publisher": "ACM",
+    "conference_isbn": "978-1-4503-5292-5"
+  },
+  "10.1145/3105971.3105988": {
+    "type": "short-paper",
+    "title": "How Network-based and set-based visualizations aid consistency checking in ontologies",
+    "url": "https://doi.org/10.1145/3105971.3105988",
+    "year": "2017",
+    "authors": "{name: Yuri Sato, url: https:/dl.acm.org/profile/99659194250}, {name: Gem Stapleton, url: https:/dl.acm.org/profile/81339530296}, {name:  + 3, url: https:/dl.acm.orgjavascript:void(0)}",
+    "citations": "1",
+    "downloads": "90",
+    "doi": "10.1145/3105971.3105988",
+    "extra": [
+      "August 2017",
+      "pp 137–141",
+      "https://doi.org/10.1145/3105971.3105988"
+    ],
+    "conference_title": "Proceedings of the 10th International Symposium on Visual Information Communication and Interaction, VINCI 2017, Bangkok, Thailand, August 14-16, 2017.",
+    "publisher": "ACM",
+    "conference_isbn": "978-1-4503-5292-5"
+  }
+}

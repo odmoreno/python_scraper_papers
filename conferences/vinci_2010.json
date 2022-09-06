@@ -1,0 +1,420 @@
+{
+  "10.1145/1865841.1865843": {
+    "type": "keynote",
+    "title": "Beyond the interface: a distributed cognition perspective",
+    "url": "https://doi.org/10.1145/1865841.1865843",
+    "year": "2010",
+    "authors": "{name: James D. Hollan, url: https:/dl.acm.org/profile/81332504463}",
+    "citations": "0",
+    "downloads": "",
+    "doi": "10.1145/1865841.1865843",
+    "extra": [
+      "September 2010",
+      "Article No.: 1",
+      "pp 1",
+      "https://doi.org/10.1145/1865841.1865843"
+    ],
+    "conference_title": "2010 International Symposium on Visual Information Communication, VINCI '10, Beijing, China - September 28 - 29, 2010.",
+    "publisher": "ACM",
+    "conference_isbn": "978-1-4503-0436-8"
+  },
+  "10.1145/1865841.1865844": {
+    "type": "keynote",
+    "title": "The promise of zoomable user interfaces",
+    "url": "https://doi.org/10.1145/1865841.1865844",
+    "year": "2010",
+    "authors": "{name: Benjamin B. Bederson, url: https:/dl.acm.org/profile/81100083927}",
+    "citations": "4",
+    "downloads": "",
+    "doi": "10.1145/1865841.1865844",
+    "extra": [
+      "September 2010",
+      "Article No.: 2",
+      "pp 1",
+      "https://doi.org/10.1145/1865841.1865844"
+    ],
+    "conference_title": "2010 International Symposium on Visual Information Communication, VINCI '10, Beijing, China - September 28 - 29, 2010.",
+    "publisher": "ACM",
+    "conference_isbn": "978-1-4503-0436-8"
+  },
+  "10.1145/1865841.1865845": {
+    "type": "keynote",
+    "title": "Browsing a highly connected information space: can natural language processing help?",
+    "url": "https://doi.org/10.1145/1865841.1865845",
+    "year": "2010",
+    "authors": "{name: Cecile Paris, url: https:/dl.acm.org/profile/81100495902}",
+    "citations": "0",
+    "downloads": "",
+    "doi": "10.1145/1865841.1865845",
+    "extra": [
+      "September 2010",
+      "Article No.: 3",
+      "pp 1",
+      "https://doi.org/10.1145/1865841.1865845"
+    ],
+    "conference_title": "2010 International Symposium on Visual Information Communication, VINCI '10, Beijing, China - September 28 - 29, 2010.",
+    "publisher": "ACM",
+    "conference_isbn": "978-1-4503-0436-8"
+  },
+  "10.1145/1865841.1865846": {
+    "type": "keynote",
+    "title": "2D and 3D conceptual design sketching: interface, modelling and progress",
+    "url": "https://doi.org/10.1145/1865841.1865846",
+    "year": "2010",
+    "authors": "{name: Shengfeng Qin, url: https:/dl.acm.org/profile/81100549711}",
+    "citations": "0",
+    "downloads": "",
+    "doi": "10.1145/1865841.1865846",
+    "extra": [
+      "September 2010",
+      "Article No.: 4",
+      "pp 1",
+      "https://doi.org/10.1145/1865841.1865846"
+    ],
+    "conference_title": "2010 International Symposium on Visual Information Communication, VINCI '10, Beijing, China - September 28 - 29, 2010.",
+    "publisher": "ACM",
+    "conference_isbn": "978-1-4503-0436-8"
+  },
+  "10.1145/1865841.1865848": {
+    "type": "research-article",
+    "title": "Difference of inflow and outflow based 3D streamline placement",
+    "url": "https://doi.org/10.1145/1865841.1865848",
+    "year": "2010",
+    "authors": "{name: Shaorong Wang, url: https:/dl.acm.org/profile/81470646542}, {name: Yisong Chen, url: https:/dl.acm.org/profile/99659385433}, {name:  + 2, url: https:/dl.acm.orgjavascript:void(0)}",
+    "citations": "0",
+    "downloads": "110",
+    "doi": "10.1145/1865841.1865848",
+    "extra": [
+      "September 2010",
+      "Article No.: 5",
+      "pp 1–7",
+      "https://doi.org/10.1145/1865841.1865848"
+    ],
+    "conference_title": "2010 International Symposium on Visual Information Communication, VINCI '10, Beijing, China - September 28 - 29, 2010.",
+    "publisher": "ACM",
+    "conference_isbn": "978-1-4503-0436-8"
+  },
+  "10.1145/1865841.1865849": {
+    "type": "research-article",
+    "title": "The research of the regional pollutant concentration visualization based on the particles",
+    "url": "https://doi.org/10.1145/1865841.1865849",
+    "year": "2010",
+    "authors": "{name: Zhifang Jiang, url: https:/dl.acm.org/profile/81548917056}, {name: Miaomiao Li, url: https:/dl.acm.org/profile/81470649191}, {name:  + 3, url: https:/dl.acm.orgjavascript:void(0)}",
+    "citations": "0",
+    "downloads": "90",
+    "doi": "10.1145/1865841.1865849",
+    "extra": [
+      "September 2010",
+      "Article No.: 6",
+      "pp 1–5",
+      "https://doi.org/10.1145/1865841.1865849"
+    ],
+    "conference_title": "2010 International Symposium on Visual Information Communication, VINCI '10, Beijing, China - September 28 - 29, 2010.",
+    "publisher": "ACM",
+    "conference_isbn": "978-1-4503-0436-8"
+  },
+  "10.1145/1865841.1865850": {
+    "type": "research-article",
+    "title": "Simulating self-organizing behaviors of fish school",
+    "url": "https://doi.org/10.1145/1865841.1865850",
+    "year": "2010",
+    "authors": "{name: Ye Yuan, url: https:/dl.acm.org/profile/81470641837}, {name: Zhongke Wu, url: https:/dl.acm.org/profile/81440595151}",
+    "citations": "1",
+    "downloads": "138",
+    "doi": "10.1145/1865841.1865850",
+    "extra": [
+      "September 2010",
+      "Article No.: 7",
+      "pp 1–5",
+      "https://doi.org/10.1145/1865841.1865850"
+    ],
+    "conference_title": "2010 International Symposium on Visual Information Communication, VINCI '10, Beijing, China - September 28 - 29, 2010.",
+    "publisher": "ACM",
+    "conference_isbn": "978-1-4503-0436-8"
+  },
+  "10.1145/1865841.1865852": {
+    "type": "research-article",
+    "title": "Visualization of BP neural network using parallel coordinates",
+    "url": "https://doi.org/10.1145/1865841.1865852",
+    "year": "2010",
+    "authors": "{name: Jing Zhao, url: https:/dl.acm.org/profile/81470647974}",
+    "citations": "0",
+    "downloads": "160",
+    "doi": "10.1145/1865841.1865852",
+    "extra": [
+      "September 2010",
+      "Article No.: 8",
+      "pp 1–5",
+      "https://doi.org/10.1145/1865841.1865852"
+    ],
+    "conference_title": "2010 International Symposium on Visual Information Communication, VINCI '10, Beijing, China - September 28 - 29, 2010.",
+    "publisher": "ACM",
+    "conference_isbn": "978-1-4503-0436-8"
+  },
+  "10.1145/1865841.1865853": {
+    "type": "research-article",
+    "title": "Column-based cluster and bar axis density in parallel coordinates",
+    "url": "https://doi.org/10.1145/1865841.1865853",
+    "year": "2010",
+    "authors": "{name: Lei Tang, url: https:/dl.acm.org/profile/81456623039}, {name: Xue-qing Li, url: https:/dl.acm.org/profile/81460647035}, {name:  + 2, url: https:/dl.acm.orgjavascript:void(0)}",
+    "citations": "0",
+    "downloads": "97",
+    "doi": "10.1145/1865841.1865853",
+    "extra": [
+      "September 2010",
+      "Article No.: 9",
+      "pp 1–8",
+      "https://doi.org/10.1145/1865841.1865853"
+    ],
+    "conference_title": "2010 International Symposium on Visual Information Communication, VINCI '10, Beijing, China - September 28 - 29, 2010.",
+    "publisher": "ACM",
+    "conference_isbn": "978-1-4503-0436-8"
+  },
+  "10.1145/1865841.1865854": {
+    "type": "research-article",
+    "title": "Exploring the relative importance of crossing number and crossing angle",
+    "url": "https://doi.org/10.1145/1865841.1865854",
+    "year": "2010",
+    "authors": "{name: Weidong Huang, url: https:/dl.acm.org/profile/81100080630}, {name: Maolin Huang, url: https:/dl.acm.org/profile/81100079792}",
+    "citations": "7",
+    "downloads": "143",
+    "doi": "10.1145/1865841.1865854",
+    "extra": [
+      "September 2010",
+      "Article No.: 10",
+      "pp 1–8",
+      "https://doi.org/10.1145/1865841.1865854"
+    ],
+    "conference_title": "2010 International Symposium on Visual Information Communication, VINCI '10, Beijing, China - September 28 - 29, 2010.",
+    "publisher": "ACM",
+    "conference_isbn": "978-1-4503-0436-8"
+  },
+  "10.1145/1865841.1865856": {
+    "type": "research-article",
+    "title": "Semantic comparison of structured visual dataflow programs",
+    "url": "https://doi.org/10.1145/1865841.1865856",
+    "year": "2010",
+    "authors": "{name: Philip T. Cox, url: https:/dl.acm.org/profile/81408600520}, {name: Anh Dang, url: https:/dl.acm.org/profile/81314488396}",
+    "citations": "2",
+    "downloads": "137",
+    "doi": "10.1145/1865841.1865856",
+    "extra": [
+      "September 2010",
+      "Article No.: 11",
+      "pp 1–9",
+      "https://doi.org/10.1145/1865841.1865856"
+    ],
+    "conference_title": "2010 International Symposium on Visual Information Communication, VINCI '10, Beijing, China - September 28 - 29, 2010.",
+    "publisher": "ACM",
+    "conference_isbn": "978-1-4503-0436-8"
+  },
+  "10.1145/1865841.1865857": {
+    "type": "research-article",
+    "title": "A model driven visualization platform for workflow",
+    "url": "https://doi.org/10.1145/1865841.1865857",
+    "year": "2010",
+    "authors": "{name: Jiayao Chen, url: https:/dl.acm.org/profile/81470649413}, {name: Xueqing Li, url: https:/dl.acm.org/profile/99659399355}, {name:  + 1, url: https:/dl.acm.orgjavascript:void(0)}",
+    "citations": "0",
+    "downloads": "93",
+    "doi": "10.1145/1865841.1865857",
+    "extra": [
+      "September 2010",
+      "Article No.: 12",
+      "pp 1–6",
+      "https://doi.org/10.1145/1865841.1865857"
+    ],
+    "conference_title": "2010 International Symposium on Visual Information Communication, VINCI '10, Beijing, China - September 28 - 29, 2010.",
+    "publisher": "ACM",
+    "conference_isbn": "978-1-4503-0436-8"
+  },
+  "10.1145/1865841.1865858": {
+    "type": "research-article",
+    "title": "Process visualization to solve the travelling salesman problem",
+    "url": "https://doi.org/10.1145/1865841.1865858",
+    "year": "2010",
+    "authors": "{name: J. Joshua Thomas, url: https:/dl.acm.org/profile/81440610062}, {name: Choy Chee Ken, url: https:/dl.acm.org/profile/81470645933}",
+    "citations": "2",
+    "downloads": "219",
+    "doi": "10.1145/1865841.1865858",
+    "extra": [
+      "September 2010",
+      "Article No.: 13",
+      "pp 1–8",
+      "https://doi.org/10.1145/1865841.1865858"
+    ],
+    "conference_title": "2010 International Symposium on Visual Information Communication, VINCI '10, Beijing, China - September 28 - 29, 2010.",
+    "publisher": "ACM",
+    "conference_isbn": "978-1-4503-0436-8"
+  },
+  "10.1145/1865841.1865860": {
+    "type": "research-article",
+    "title": "A developing framework for interactive temporal data visualization",
+    "url": "https://doi.org/10.1145/1865841.1865860",
+    "year": "2010",
+    "authors": "{name: Xiongfei Luo, url: https:/dl.acm.org/profile/81460642808}, {name: Dongxing Teng, url: https:/dl.acm.org/profile/81384607002}, {name:  + 4, url: https:/dl.acm.orgjavascript:void(0)}",
+    "citations": "1",
+    "downloads": "227",
+    "doi": "10.1145/1865841.1865860",
+    "extra": [
+      "September 2010",
+      "Article No.: 14",
+      "pp 1–10",
+      "https://doi.org/10.1145/1865841.1865860"
+    ],
+    "conference_title": "2010 International Symposium on Visual Information Communication, VINCI '10, Beijing, China - September 28 - 29, 2010.",
+    "publisher": "ACM",
+    "conference_isbn": "978-1-4503-0436-8"
+  },
+  "10.1145/1865841.1865861": {
+    "type": "research-article",
+    "title": "Cooperative concept map based on cognitive model for visual analysis",
+    "url": "https://doi.org/10.1145/1865841.1865861",
+    "year": "2010",
+    "authors": "{name: Yi Du, url: https:/dl.acm.org/profile/81470647228}, {name: Cuixia Ma, url: https:/dl.acm.org/profile/81384602486}, {name:  + 2, url: https:/dl.acm.orgjavascript:void(0)}",
+    "citations": "0",
+    "downloads": "139",
+    "doi": "10.1145/1865841.1865861",
+    "extra": [
+      "September 2010",
+      "Article No.: 15",
+      "pp 1–8",
+      "https://doi.org/10.1145/1865841.1865861"
+    ],
+    "conference_title": "2010 International Symposium on Visual Information Communication, VINCI '10, Beijing, China - September 28 - 29, 2010.",
+    "publisher": "ACM",
+    "conference_isbn": "978-1-4503-0436-8"
+  },
+  "10.1145/1865841.1865862": {
+    "type": "research-article",
+    "title": "Interactive visualization with user perspective: a new concept",
+    "url": "https://doi.org/10.1145/1865841.1865862",
+    "year": "2010",
+    "authors": "{name: Quang Vinh Nguyen, url: https:/dl.acm.org/profile/81100511332}, {name:  + 2, url: https:/dl.acm.orgjavascript:void(0)}",
+    "citations": "2",
+    "downloads": "144",
+    "doi": "10.1145/1865841.1865862",
+    "extra": [
+      "September 2010",
+      "Article No.: 16",
+      "pp 1–6",
+      "https://doi.org/10.1145/1865841.1865862"
+    ],
+    "conference_title": "2010 International Symposium on Visual Information Communication, VINCI '10, Beijing, China - September 28 - 29, 2010.",
+    "publisher": "ACM",
+    "conference_isbn": "978-1-4503-0436-8"
+  },
+  "10.1145/1865841.1865864": {
+    "type": "research-article",
+    "title": "Harvesting discourse strategies for rapid prototyping of tailored information delivery systems",
+    "url": "https://doi.org/10.1145/1865841.1865864",
+    "year": "2010",
+    "authors": "{name: Shijian Lu, url: https:/dl.acm.org/profile/99659619706}, {name: Cécile Paris, url: https:/dl.acm.org/profile/81100495902}",
+    "citations": "0",
+    "downloads": "60",
+    "doi": "10.1145/1865841.1865864",
+    "extra": [
+      "September 2010",
+      "Article No.: 17",
+      "pp 1–7",
+      "https://doi.org/10.1145/1865841.1865864"
+    ],
+    "conference_title": "2010 International Symposium on Visual Information Communication, VINCI '10, Beijing, China - September 28 - 29, 2010.",
+    "publisher": "ACM",
+    "conference_isbn": "978-1-4503-0436-8"
+  },
+  "10.1145/1865841.1865865": {
+    "type": "research-article",
+    "title": "TagNetLens: multiscale visualization of knowledge structures in social tags",
+    "url": "https://doi.org/10.1145/1865841.1865865",
+    "year": "2010",
+    "authors": "{name: Liang Gou, url: https:/dl.acm.org/profile/81502758188}, {name: Shaoke Zhang, url: https:/dl.acm.org/profile/81430627791}, {name:  + 2, url: https:/dl.acm.orgjavascript:void(0)}",
+    "citations": "1",
+    "downloads": "121",
+    "doi": "10.1145/1865841.1865865",
+    "extra": [
+      "September 2010",
+      "Article No.: 18",
+      "pp 1–9",
+      "https://doi.org/10.1145/1865841.1865865"
+    ],
+    "conference_title": "2010 International Symposium on Visual Information Communication, VINCI '10, Beijing, China - September 28 - 29, 2010.",
+    "publisher": "ACM",
+    "conference_isbn": "978-1-4503-0436-8"
+  },
+  "10.1145/1865841.1865866": {
+    "type": "research-article",
+    "title": "Visually searching the web for structural content",
+    "url": "https://doi.org/10.1145/1865841.1865866",
+    "year": "2010",
+    "authors": "{name: Hirofumi Miyamoto, url: https:/dl.acm.org/profile/81470647019}, {name: Masahito Hirakawa, url: https:/dl.acm.org/profile/81100170303}",
+    "citations": "0",
+    "downloads": "105",
+    "doi": "10.1145/1865841.1865866",
+    "extra": [
+      "September 2010",
+      "Article No.: 19",
+      "pp 1–8",
+      "https://doi.org/10.1145/1865841.1865866"
+    ],
+    "conference_title": "2010 International Symposium on Visual Information Communication, VINCI '10, Beijing, China - September 28 - 29, 2010.",
+    "publisher": "ACM",
+    "conference_isbn": "978-1-4503-0436-8"
+  },
+  "10.1145/1865841.1865868": {
+    "type": "research-article",
+    "title": "A visual analytics system for financial time-series data",
+    "url": "https://doi.org/10.1145/1865841.1865868",
+    "year": "2010",
+    "authors": "{name: Su Te Lei, url: https:/dl.acm.org/profile/81100482168}, {name: Kang Zhang, url: https:/dl.acm.org/profile/81350576955}",
+    "citations": "6",
+    "downloads": "593",
+    "doi": "10.1145/1865841.1865868",
+    "extra": [
+      "September 2010",
+      "Article No.: 20",
+      "pp 1–9",
+      "https://doi.org/10.1145/1865841.1865868"
+    ],
+    "conference_title": "2010 International Symposium on Visual Information Communication, VINCI '10, Beijing, China - September 28 - 29, 2010.",
+    "publisher": "ACM",
+    "conference_isbn": "978-1-4503-0436-8"
+  },
+  "10.1145/1865841.1865869": {
+    "type": "research-article",
+    "title": "Event-based approach to money laundering data analysis and visualization",
+    "url": "https://doi.org/10.1145/1865841.1865869",
+    "year": "2010",
+    "authors": "{name: Tat-Man Cheong, url: https:/dl.acm.org/profile/81470654406}, {name: Yain-Whar Si, url: https:/dl.acm.org/profile/81100394289}",
+    "citations": "4",
+    "downloads": "295",
+    "doi": "10.1145/1865841.1865869",
+    "extra": [
+      "September 2010",
+      "Article No.: 21",
+      "pp 1–11",
+      "https://doi.org/10.1145/1865841.1865869"
+    ],
+    "conference_title": "2010 International Symposium on Visual Information Communication, VINCI '10, Beijing, China - September 28 - 29, 2010.",
+    "publisher": "ACM",
+    "conference_isbn": "978-1-4503-0436-8"
+  },
+  "10.1145/1865841.1865870": {
+    "type": "research-article",
+    "title": "An interactive sensemaking framework for mobile visual analytics",
+    "url": "https://doi.org/10.1145/1865841.1865870",
+    "year": "2010",
+    "authors": "{name: Anna Wu, url: https:/dl.acm.org/profile/81430655874}, {name: Xiaolong(Luke) Zhang, url: https:/dl.acm.org/profile/81316491376}, {name:  + 1, url: https:/dl.acm.orgjavascript:void(0)}",
+    "citations": "2",
+    "downloads": "293",
+    "doi": "10.1145/1865841.1865870",
+    "extra": [
+      "September 2010",
+      "Article No.: 22",
+      "pp 1–10",
+      "https://doi.org/10.1145/1865841.1865870"
+    ],
+    "conference_title": "2010 International Symposium on Visual Information Communication, VINCI '10, Beijing, China - September 28 - 29, 2010.",
+    "publisher": "ACM",
+    "conference_isbn": "978-1-4503-0436-8"
+  }
+}

@@ -32,7 +32,19 @@ def load_all_conferences():
                 id_split = id_conference.split('/')
                 conf_age = id_split[len(id_split)-1]
                 href = li.find("a").attrs['href']
-                data = ['vinci', conf_age, href]
+                title = ul.find('span', {'class': 'title'}).text
+                publisher = ul.find(attrs={"itemprop": "publisher"})
+                datepublished = ul.find(attrs={"itemprop": "datePublished"})
+                isbn = ul.find(attrs={"itemprop": "isbn"})
+                isbn = '' if isbn is None else isbn.text
+                publisher = '' if publisher is None else publisher.text
+                if datepublished.text == '':
+                    idsplit = id.split('/')
+                    datepublished = idsplit[len(idsplit)-1]
+                else:
+                    datepublished = datepublished.text
+
+                data = ['vinci', conf_age, href, title, publisher, datepublished, isbn]
                 hrefs.append(data)
                 writer.writerow(data)
         return hrefs
