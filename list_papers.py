@@ -126,7 +126,7 @@ class AcmClient:
                         tipo_de_paper = citation.text
                         contenido = item_content[index].find('div', {'class': 'issue-item__content-right'})
                         data = self.get_data_papers(tipo_de_paper, contenido)
-                        data['conference_title'] = conference_title
+                        #data['conference_title'] = conference_title
                         data['publisher'] = conference_publisher
                         data['conference_isbn'] = conference_isbn
                         conference[data['doi']] = data

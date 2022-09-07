@@ -57,7 +57,8 @@ class PostData:
         try:
             title = paper['title']
             querystring = "SELECT * FROM papers as p"
-            querystring += " WHERE p.title LIKE '%" + title + "%'"
+            #querystring += " WHERE p.title LIKE '%" + title + "%'"
+            querystring += ' WHERE p.title LIKE "%' + title + '%"'
             self.cursor.execute(querystring)
             mobile_records = self.cursor.fetchall()
             if len(mobile_records) > 0:
