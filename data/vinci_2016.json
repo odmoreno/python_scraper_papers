@@ -1,0 +1,825 @@
+{
+  "10.1145/2968220.2968226": {
+    "type": "research-article",
+    "title": "The Dynamic Call Graph Matrix",
+    "url": "https://doi.org/10.1145/2968220.2968226",
+    "year": "2016",
+    "authors": [
+      {
+        "name": "Michael Burch",
+        "url": "https:/dl.acm.org/profile/81331488994"
+      }
+    ],
+    "citations": "7",
+    "downloads": "221",
+    "doi": "10.1145/2968220.2968226",
+    "extra": [
+      "September 2016",
+      "pp 1–8",
+      "https://doi.org/10.1145/2968220.2968226"
+    ],
+    "conference_title": "Proceedings of the 9th International Symposium on Visual Information Communication and Interaction, VINCI 2016, Dallas, TX, USA, September 24-26, 2016.",
+    "publisher": "ACM",
+    "conference_isbn": "978-1-4503-4149-3"
+  },
+  "10.1145/2968220.2968229": {
+    "type": "research-article",
+    "title": "BranchingSets: Interactively Visualizing Categories on Node-Link Diagrams",
+    "url": "https://doi.org/10.1145/2968220.2968229",
+    "year": "2016",
+    "authors": [
+      {
+        "name": "Francesco Paduano",
+        "url": "https:/dl.acm.org/profile/99659010090"
+      },
+      {
+        "name": " + 2",
+        "url": "https:/dl.acm.orgjavascript:void(0)"
+      }
+    ],
+    "citations": "3",
+    "downloads": "114",
+    "doi": "10.1145/2968220.2968229",
+    "extra": [
+      "September 2016",
+      "pp 9–16",
+      "https://doi.org/10.1145/2968220.2968229"
+    ],
+    "conference_title": "Proceedings of the 9th International Symposium on Visual Information Communication and Interaction, VINCI 2016, Dallas, TX, USA, September 24-26, 2016.",
+    "publisher": "ACM",
+    "conference_isbn": "978-1-4503-4149-3"
+  },
+  "10.1145/2968220.2968242": {
+    "type": "research-article",
+    "title": "A Guided Tour of Literature Review: Facilitating Academic Paper Reading with Narrative Visualization",
+    "url": "https://doi.org/10.1145/2968220.2968242",
+    "year": "2016",
+    "authors": [
+      {
+        "name": "Yun Wang",
+        "url": "https:/dl.acm.org/profile/99659020506"
+      },
+      {
+        "name": "Dongyu Liu",
+        "url": "https:/dl.acm.org/profile/99659070996"
+      },
+      {
+        "name": " + 3",
+        "url": "https:/dl.acm.orgjavascript:void(0)"
+      }
+    ],
+    "citations": "5",
+    "downloads": "488",
+    "doi": "10.1145/2968220.2968242",
+    "extra": [
+      "September 2016",
+      "pp 17–24",
+      "https://doi.org/10.1145/2968220.2968242"
+    ],
+    "conference_title": "Proceedings of the 9th International Symposium on Visual Information Communication and Interaction, VINCI 2016, Dallas, TX, USA, September 24-26, 2016.",
+    "publisher": "ACM",
+    "conference_isbn": "978-1-4503-4149-3"
+  },
+  "10.1145/2968220.2968221": {
+    "type": "short-paper",
+    "title": "IDSPlanet: A Novel Radial Visualization of Intrusion Detection Alerts",
+    "url": "https://doi.org/10.1145/2968220.2968221",
+    "year": "2016",
+    "authors": [
+      {
+        "name": "Yang Shi",
+        "url": "https:/dl.acm.org/profile/81556666156"
+      },
+      {
+        "name": "Yaoxue Zhang",
+        "url": "https:/dl.acm.org/profile/81339540126"
+      },
+      {
+        "name": " + 5",
+        "url": "https:/dl.acm.orgjavascript:void(0)"
+      }
+    ],
+    "citations": "1",
+    "downloads": "271",
+    "doi": "10.1145/2968220.2968221",
+    "extra": [
+      "September 2016",
+      "pp 25–29",
+      "https://doi.org/10.1145/2968220.2968221"
+    ],
+    "conference_title": "Proceedings of the 9th International Symposium on Visual Information Communication and Interaction, VINCI 2016, Dallas, TX, USA, September 24-26, 2016.",
+    "publisher": "ACM",
+    "conference_isbn": "978-1-4503-4149-3"
+  },
+  "10.1145/2968220.2968238": {
+    "type": "short-paper",
+    "title": "Bus Lines Explorer: Interactive Exploration of Public Transportation Data",
+    "url": "https://doi.org/10.1145/2968220.2968238",
+    "year": "2016",
+    "authors": [
+      {
+        "name": "Rainer Splechtna",
+        "url": "https:/dl.acm.org/profile/81100655096"
+      },
+      {
+        "name": " + 5",
+        "url": "https:/dl.acm.orgjavascript:void(0)"
+      }
+    ],
+    "citations": "0",
+    "downloads": "193",
+    "doi": "10.1145/2968220.2968238",
+    "extra": [
+      "September 2016",
+      "pp 30–34",
+      "https://doi.org/10.1145/2968220.2968238"
+    ],
+    "conference_title": "Proceedings of the 9th International Symposium on Visual Information Communication and Interaction, VINCI 2016, Dallas, TX, USA, September 24-26, 2016.",
+    "publisher": "ACM",
+    "conference_isbn": "978-1-4503-4149-3"
+  },
+  "10.1145/2968220.2968224": {
+    "type": "research-article",
+    "title": "Enhancing Infographics Based on Symmetry Saliency",
+    "url": "https://doi.org/10.1145/2968220.2968224",
+    "year": "2016",
+    "authors": [
+      {
+        "name": "Kouhei Yasuda",
+        "url": "https:/dl.acm.org/profile/99659068906"
+      },
+      {
+        "name": " + 2",
+        "url": "https:/dl.acm.orgjavascript:void(0)"
+      }
+    ],
+    "citations": "1",
+    "downloads": "176",
+    "doi": "10.1145/2968220.2968224",
+    "extra": [
+      "September 2016",
+      "pp 35–42",
+      "https://doi.org/10.1145/2968220.2968224"
+    ],
+    "conference_title": "Proceedings of the 9th International Symposium on Visual Information Communication and Interaction, VINCI 2016, Dallas, TX, USA, September 24-26, 2016.",
+    "publisher": "ACM",
+    "conference_isbn": "978-1-4503-4149-3"
+  },
+  "10.1145/2968220.2968248": {
+    "type": "research-article",
+    "title": "Deep Exploration of Multidimensional Data with Linkable Scatterplots",
+    "url": "https://doi.org/10.1145/2968220.2968248",
+    "year": "2016",
+    "authors": [
+      {
+        "name": "Quang Vinh Nguyen",
+        "url": "https:/dl.acm.org/profile/81100511332"
+      },
+      {
+        "name": " + 3",
+        "url": "https:/dl.acm.orgjavascript:void(0)"
+      }
+    ],
+    "citations": "6",
+    "downloads": "145",
+    "doi": "10.1145/2968220.2968248",
+    "extra": [
+      "September 2016",
+      "pp 43–50",
+      "https://doi.org/10.1145/2968220.2968248"
+    ],
+    "conference_title": "Proceedings of the 9th International Symposium on Visual Information Communication and Interaction, VINCI 2016, Dallas, TX, USA, September 24-26, 2016.",
+    "publisher": "ACM",
+    "conference_isbn": "978-1-4503-4149-3"
+  },
+  "10.1145/2968220.2968230": {
+    "type": "research-article",
+    "title": "Visibility Widgets: Managing Occlusion of Quantitative Data in 3D Terrain Visualization",
+    "url": "https://doi.org/10.1145/2968220.2968230",
+    "year": "2016",
+    "authors": [
+      {
+        "name": "Martin Röhlig",
+        "url": "https:/dl.acm.org/profile/99658770290"
+      },
+      {
+        "name": "Heidrun Schumann",
+        "url": "https:/dl.acm.org/profile/81100094349"
+      }
+    ],
+    "citations": "3",
+    "downloads": "81",
+    "doi": "10.1145/2968220.2968230",
+    "extra": [
+      "September 2016",
+      "pp 51–58",
+      "https://doi.org/10.1145/2968220.2968230"
+    ],
+    "conference_title": "Proceedings of the 9th International Symposium on Visual Information Communication and Interaction, VINCI 2016, Dallas, TX, USA, September 24-26, 2016.",
+    "publisher": "ACM",
+    "conference_isbn": "978-1-4503-4149-3"
+  },
+  "10.1145/2968220.2968235": {
+    "type": "research-article",
+    "title": "Eliciting Tacit Expertise in 3D Volume Segmentation",
+    "url": "https://doi.org/10.1145/2968220.2968235",
+    "year": "2016",
+    "authors": [
+      {
+        "name": "Ruth West",
+        "url": "https:/dl.acm.org/profile/81320496219"
+      },
+      {
+        "name": "Meghan Kajihara",
+        "url": "https:/dl.acm.org/profile/99659067772"
+      },
+      {
+        "name": " + 10",
+        "url": "https:/dl.acm.orgjavascript:void(0)"
+      }
+    ],
+    "citations": "2",
+    "downloads": "246",
+    "doi": "10.1145/2968220.2968235",
+    "extra": [
+      "September 2016",
+      "pp 59–66",
+      "https://doi.org/10.1145/2968220.2968235"
+    ],
+    "conference_title": "Proceedings of the 9th International Symposium on Visual Information Communication and Interaction, VINCI 2016, Dallas, TX, USA, September 24-26, 2016.",
+    "publisher": "ACM",
+    "conference_isbn": "978-1-4503-4149-3"
+  },
+  "10.1145/2968220.2968236": {
+    "type": "research-article",
+    "title": "A Comparative Study on Inter-Device Interaction: One-Handed Interaction VS Two-Handed Interaction",
+    "url": "https://doi.org/10.1145/2968220.2968236",
+    "year": "2016",
+    "authors": [
+      {
+        "name": "Zheng Huang",
+        "url": "https:/dl.acm.org/profile/99659036087"
+      },
+      {
+        "name": "Jed Limke",
+        "url": "https:/dl.acm.org/profile/99659068000"
+      },
+      {
+        "name": "Jun Kong",
+        "url": "https:/dl.acm.org/profile/81408600332"
+      }
+    ],
+    "citations": "3",
+    "downloads": "148",
+    "doi": "10.1145/2968220.2968236",
+    "extra": [
+      "September 2016",
+      "pp 67–74",
+      "https://doi.org/10.1145/2968220.2968236"
+    ],
+    "conference_title": "Proceedings of the 9th International Symposium on Visual Information Communication and Interaction, VINCI 2016, Dallas, TX, USA, September 24-26, 2016.",
+    "publisher": "ACM",
+    "conference_isbn": "978-1-4503-4149-3"
+  },
+  "10.1145/2968220.2968239": {
+    "type": "research-article",
+    "title": "What Makes You Think This Is a Map?: Suggestions for Creating Map-like Visualisations",
+    "url": "https://doi.org/10.1145/2968220.2968239",
+    "year": "2016",
+    "authors": [
+      {
+        "name": "Patrick Cheong-Iao Pang",
+        "url": "https:/dl.acm.org/profile/99658770790"
+      },
+      {
+        "name": " + 2",
+        "url": "https:/dl.acm.orgjavascript:void(0)"
+      }
+    ],
+    "citations": "4",
+    "downloads": "215",
+    "doi": "10.1145/2968220.2968239",
+    "extra": [
+      "September 2016",
+      "pp 75–82",
+      "https://doi.org/10.1145/2968220.2968239"
+    ],
+    "conference_title": "Proceedings of the 9th International Symposium on Visual Information Communication and Interaction, VINCI 2016, Dallas, TX, USA, September 24-26, 2016.",
+    "publisher": "ACM",
+    "conference_isbn": "978-1-4503-4149-3"
+  },
+  "10.1145/2968220.2968240": {
+    "type": "research-article",
+    "title": "How People Deploy Dimensional Information to Estimate Relative Values",
+    "url": "https://doi.org/10.1145/2968220.2968240",
+    "year": "2016",
+    "authors": [
+      {
+        "name": "Yi-Na Li",
+        "url": "https:/dl.acm.org/profile/99658766518"
+      },
+      {
+        "name": "Dong-Jin Li",
+        "url": "https:/dl.acm.org/profile/99658766563"
+      }
+    ],
+    "citations": "1",
+    "downloads": "55",
+    "doi": "10.1145/2968220.2968240",
+    "extra": [
+      "September 2016",
+      "pp 83–90",
+      "https://doi.org/10.1145/2968220.2968240"
+    ],
+    "conference_title": "Proceedings of the 9th International Symposium on Visual Information Communication and Interaction, VINCI 2016, Dallas, TX, USA, September 24-26, 2016.",
+    "publisher": "ACM",
+    "conference_isbn": "978-1-4503-4149-3"
+  },
+  "10.1145/2968220.2968241": {
+    "type": "short-paper",
+    "title": "Do Defaults Matter?: Evaluating the Effect of Defaults on User Preference for Multi-Class Scatterplots",
+    "url": "https://doi.org/10.1145/2968220.2968241",
+    "year": "2016",
+    "authors": [
+      {
+        "name": "Casey Haber",
+        "url": "https:/dl.acm.org/profile/99659068785"
+      },
+      {
+        "name": "Lyndon Ong Yiu",
+        "url": "https:/dl.acm.org/profile/99659068146"
+      },
+      {
+        "name": " + 2",
+        "url": "https:/dl.acm.orgjavascript:void(0)"
+      }
+    ],
+    "citations": "0",
+    "downloads": "110",
+    "doi": "10.1145/2968220.2968241",
+    "extra": [
+      "September 2016",
+      "pp 91–95",
+      "https://doi.org/10.1145/2968220.2968241"
+    ],
+    "conference_title": "Proceedings of the 9th International Symposium on Visual Information Communication and Interaction, VINCI 2016, Dallas, TX, USA, September 24-26, 2016.",
+    "publisher": "ACM",
+    "conference_isbn": "978-1-4503-4149-3"
+  },
+  "10.1145/2968220.2968222": {
+    "type": "research-article",
+    "title": "Visual Analysis of User-Driven Association Rule Mining",
+    "url": "https://doi.org/10.1145/2968220.2968222",
+    "year": "2016",
+    "authors": [
+      {
+        "name": "Hui Lei",
+        "url": "https:/dl.acm.org/profile/99659068491"
+      },
+      {
+        "name": "Cong Xie",
+        "url": "https:/dl.acm.org/profile/99659067824"
+      },
+      {
+        "name": " + 4",
+        "url": "https:/dl.acm.orgjavascript:void(0)"
+      }
+    ],
+    "citations": "1",
+    "downloads": "129",
+    "doi": "10.1145/2968220.2968222",
+    "extra": [
+      "September 2016",
+      "pp 96–103",
+      "https://doi.org/10.1145/2968220.2968222"
+    ],
+    "conference_title": "Proceedings of the 9th International Symposium on Visual Information Communication and Interaction, VINCI 2016, Dallas, TX, USA, September 24-26, 2016.",
+    "publisher": "ACM",
+    "conference_isbn": "978-1-4503-4149-3"
+  },
+  "10.1145/2968220.2968223": {
+    "type": "research-article",
+    "title": "Supporting Collaborative Political Decision Making: An Interactive Policy Process Visualization System",
+    "url": "https://doi.org/10.1145/2968220.2968223",
+    "year": "2016",
+    "authors": [
+      {
+        "name": "Tobias Ruppert",
+        "url": "https:/dl.acm.org/profile/81474695617"
+      },
+      {
+        "name": " + 5",
+        "url": "https:/dl.acm.orgjavascript:void(0)"
+      }
+    ],
+    "citations": "1",
+    "downloads": "228",
+    "doi": "10.1145/2968220.2968223",
+    "extra": [
+      "September 2016",
+      "pp 104–111",
+      "https://doi.org/10.1145/2968220.2968223"
+    ],
+    "conference_title": "Proceedings of the 9th International Symposium on Visual Information Communication and Interaction, VINCI 2016, Dallas, TX, USA, September 24-26, 2016.",
+    "publisher": "ACM",
+    "conference_isbn": "978-1-4503-4149-3"
+  },
+  "10.1145/2968220.2968244": {
+    "type": "short-paper",
+    "title": "Spatiotemporal Analytics of Topic Trajectory",
+    "url": "https://doi.org/10.1145/2968220.2968244",
+    "year": "2016",
+    "authors": [
+      {
+        "name": "Jiangen He",
+        "url": "https:/dl.acm.org/profile/99659191638"
+      },
+      {
+        "name": "Chaomei Chen",
+        "url": "https:/dl.acm.org/profile/81100119664"
+      }
+    ],
+    "citations": "2",
+    "downloads": "152",
+    "doi": "10.1145/2968220.2968244",
+    "extra": [
+      "September 2016",
+      "pp 112–116",
+      "https://doi.org/10.1145/2968220.2968244"
+    ],
+    "conference_title": "Proceedings of the 9th International Symposium on Visual Information Communication and Interaction, VINCI 2016, Dallas, TX, USA, September 24-26, 2016.",
+    "publisher": "ACM",
+    "conference_isbn": "978-1-4503-4149-3"
+  },
+  "10.1145/2968220.2968246": {
+    "type": "short-paper",
+    "title": "A Hybrid Approach for Event Social Influence Visualization",
+    "url": "https://doi.org/10.1145/2968220.2968246",
+    "year": "2016",
+    "authors": [
+      {
+        "name": "Wenqian Ji",
+        "url": "https:/dl.acm.org/profile/99659068616"
+      },
+      {
+        "name": "Yan Tang",
+        "url": "https:/dl.acm.org/profile/99659067476"
+      },
+      {
+        "name": " + 5",
+        "url": "https:/dl.acm.orgjavascript:void(0)"
+      }
+    ],
+    "citations": "0",
+    "downloads": "81",
+    "doi": "10.1145/2968220.2968246",
+    "extra": [
+      "September 2016",
+      "pp 117–121",
+      "https://doi.org/10.1145/2968220.2968246"
+    ],
+    "conference_title": "Proceedings of the 9th International Symposium on Visual Information Communication and Interaction, VINCI 2016, Dallas, TX, USA, September 24-26, 2016.",
+    "publisher": "ACM",
+    "conference_isbn": "978-1-4503-4149-3"
+  },
+  "10.1145/2968220.2968228": {
+    "type": "research-article",
+    "title": "Adaptively Tiled Image Mosaics Utilizing Measures of Color and Region Entropy",
+    "url": "https://doi.org/10.1145/2968220.2968228",
+    "year": "2016",
+    "authors": [
+      {
+        "name": "Lina Zhang",
+        "url": "https:/dl.acm.org/profile/81490644010"
+      },
+      {
+        "name": "Kwan-Liu Ma",
+        "url": "https:/dl.acm.org/profile/81452595774"
+      },
+      {
+        "name": "Jinhui Yu",
+        "url": "https:/dl.acm.org/profile/99659664633"
+      }
+    ],
+    "citations": "2",
+    "downloads": "134",
+    "doi": "10.1145/2968220.2968228",
+    "extra": [
+      "September 2016",
+      "pp 122–129",
+      "https://doi.org/10.1145/2968220.2968228"
+    ],
+    "conference_title": "Proceedings of the 9th International Symposium on Visual Information Communication and Interaction, VINCI 2016, Dallas, TX, USA, September 24-26, 2016.",
+    "publisher": "ACM",
+    "conference_isbn": "978-1-4503-4149-3"
+  },
+  "10.1145/2968220.2968232": {
+    "type": "research-article",
+    "title": "Generation of Miro's Surrealism",
+    "url": "https://doi.org/10.1145/2968220.2968232",
+    "year": "2016",
+    "authors": [
+      {
+        "name": "Lu Xiong",
+        "url": "https:/dl.acm.org/profile/99659068053"
+      },
+      {
+        "name": "Kang Zhang",
+        "url": "https:/dl.acm.org/profile/81350576955"
+      }
+    ],
+    "citations": "11",
+    "downloads": "234",
+    "doi": "10.1145/2968220.2968232",
+    "extra": [
+      "September 2016",
+      "pp 130–137",
+      "https://doi.org/10.1145/2968220.2968232"
+    ],
+    "conference_title": "Proceedings of the 9th International Symposium on Visual Information Communication and Interaction, VINCI 2016, Dallas, TX, USA, September 24-26, 2016.",
+    "publisher": "ACM",
+    "conference_isbn": "978-1-4503-4149-3"
+  },
+  "10.1145/2968220.2968227": {
+    "type": "poster",
+    "title": "EduVis: Visualization for Education Knowledge Graph Based on Web Data",
+    "url": "https://doi.org/10.1145/2968220.2968227",
+    "year": "2016",
+    "authors": [
+      {
+        "name": "Kai Sun",
+        "url": "https:/dl.acm.org/profile/99659067653"
+      },
+      {
+        "name": "Yuhua Liu",
+        "url": "https:/dl.acm.org/profile/81549102456"
+      },
+      {
+        "name": " + 2",
+        "url": "https:/dl.acm.orgjavascript:void(0)"
+      }
+    ],
+    "citations": "2",
+    "downloads": "450",
+    "doi": "10.1145/2968220.2968227",
+    "extra": [
+      "September 2016",
+      "pp 138–139",
+      "https://doi.org/10.1145/2968220.2968227"
+    ],
+    "conference_title": "Proceedings of the 9th International Symposium on Visual Information Communication and Interaction, VINCI 2016, Dallas, TX, USA, September 24-26, 2016.",
+    "publisher": "ACM",
+    "conference_isbn": "978-1-4503-4149-3"
+  },
+  "10.1145/2968220.2968231": {
+    "type": "poster",
+    "title": "Visualizing Time-Variant Sets on a Handheld Device",
+    "url": "https://doi.org/10.1145/2968220.2968231",
+    "year": "2016",
+    "authors": [
+      {
+        "name": "Iliesa S. K. Delai",
+        "url": "https:/dl.acm.org/profile/99659664742"
+      },
+      {
+        "name": "Meilan Jin",
+        "url": "https:/dl.acm.org/profile/99659068939"
+      },
+      {
+        "name": " + 1",
+        "url": "https:/dl.acm.orgjavascript:void(0)"
+      }
+    ],
+    "citations": "0",
+    "downloads": "66",
+    "doi": "10.1145/2968220.2968231",
+    "extra": [
+      "September 2016",
+      "pp 140–141",
+      "https://doi.org/10.1145/2968220.2968231"
+    ],
+    "conference_title": "Proceedings of the 9th International Symposium on Visual Information Communication and Interaction, VINCI 2016, Dallas, TX, USA, September 24-26, 2016.",
+    "publisher": "ACM",
+    "conference_isbn": "978-1-4503-4149-3"
+  },
+  "10.1145/2968220.2968233": {
+    "type": "poster",
+    "title": "Interactive Exploration of Multidimensional YouTube Data Using the GPLOM Technique",
+    "url": "https://doi.org/10.1145/2968220.2968233",
+    "year": "2016",
+    "authors": [
+      {
+        "name": "Seimei Matsusaki",
+        "url": "https:/dl.acm.org/profile/99659068113"
+      },
+      {
+        "name": "Xi Han",
+        "url": "https:/dl.acm.org/profile/99659067967"
+      },
+      {
+        "name": " + 2",
+        "url": "https:/dl.acm.orgjavascript:void(0)"
+      }
+    ],
+    "citations": "0",
+    "downloads": "69",
+    "doi": "10.1145/2968220.2968233",
+    "extra": [
+      "September 2016",
+      "pp 142–143",
+      "https://doi.org/10.1145/2968220.2968233"
+    ],
+    "conference_title": "Proceedings of the 9th International Symposium on Visual Information Communication and Interaction, VINCI 2016, Dallas, TX, USA, September 24-26, 2016.",
+    "publisher": "ACM",
+    "conference_isbn": "978-1-4503-4149-3"
+  },
+  "10.1145/2968220.2968237": {
+    "type": "poster",
+    "title": "The Effect of Color on Short-term Memory in Information Visualization",
+    "url": "https://doi.org/10.1145/2968220.2968237",
+    "year": "2016",
+    "authors": [
+      {
+        "name": "Xin Kang",
+        "url": "https:/dl.acm.org/profile/99659068200"
+      }
+    ],
+    "citations": "1",
+    "downloads": "530",
+    "doi": "10.1145/2968220.2968237",
+    "extra": [
+      "September 2016",
+      "pp 144–145",
+      "https://doi.org/10.1145/2968220.2968237"
+    ],
+    "conference_title": "Proceedings of the 9th International Symposium on Visual Information Communication and Interaction, VINCI 2016, Dallas, TX, USA, September 24-26, 2016.",
+    "publisher": "ACM",
+    "conference_isbn": "978-1-4503-4149-3"
+  },
+  "10.1145/2968220.2968243": {
+    "type": "poster",
+    "title": "Design for the future: Incorporating Cradle to Cradle Design into our street",
+    "url": "https://doi.org/10.1145/2968220.2968243",
+    "year": "2016",
+    "authors": [
+      {
+        "name": "Yinan Li",
+        "url": "https:/dl.acm.org/profile/99659068315"
+      },
+      {
+        "name": "Jian Wang",
+        "url": "https:/dl.acm.org/profile/99659068936"
+      }
+    ],
+    "citations": "0",
+    "downloads": "53",
+    "doi": "10.1145/2968220.2968243",
+    "extra": [
+      "September 2016",
+      "pp 146–147",
+      "https://doi.org/10.1145/2968220.2968243"
+    ],
+    "conference_title": "Proceedings of the 9th International Symposium on Visual Information Communication and Interaction, VINCI 2016, Dallas, TX, USA, September 24-26, 2016.",
+    "publisher": "ACM",
+    "conference_isbn": "978-1-4503-4149-3"
+  },
+  "10.1145/2968220.2968245": {
+    "type": "poster",
+    "title": "VolSelectAware: Visual-Cognition Coupled Non-Visual Data-Driven Volume Selection for Immersive Scientific Visualizations",
+    "url": "https://doi.org/10.1145/2968220.2968245",
+    "year": "2016",
+    "authors": [
+      {
+        "name": "Daniel Wilches",
+        "url": "https:/dl.acm.org/profile/99659068554"
+      },
+      {
+        "name": "Amy Banic",
+        "url": "https:/dl.acm.org/profile/83059087157"
+      }
+    ],
+    "citations": "3",
+    "downloads": "76",
+    "doi": "10.1145/2968220.2968245",
+    "extra": [
+      "September 2016",
+      "pp 148–149",
+      "https://doi.org/10.1145/2968220.2968245"
+    ],
+    "conference_title": "Proceedings of the 9th International Symposium on Visual Information Communication and Interaction, VINCI 2016, Dallas, TX, USA, September 24-26, 2016.",
+    "publisher": "ACM",
+    "conference_isbn": "978-1-4503-4149-3"
+  },
+  "10.1145/2968220.2972225": {
+    "type": "poster",
+    "title": "Visual Analysis of TED Talk Topic Trends",
+    "url": "https://doi.org/10.1145/2968220.2972225",
+    "year": "2016",
+    "authors": [
+      {
+        "name": "Sarah Hong",
+        "url": "https:/dl.acm.org/profile/99659067636"
+      },
+      {
+        "name": "Yuyi Liu",
+        "url": "https:/dl.acm.org/profile/99659067860"
+      },
+      {
+        "name": "Zhao Xiao",
+        "url": "https:/dl.acm.org/profile/99659052542"
+      }
+    ],
+    "citations": "1",
+    "downloads": "263",
+    "doi": "10.1145/2968220.2972225",
+    "extra": [
+      "September 2016",
+      "pp 150–151",
+      "https://doi.org/10.1145/2968220.2972225"
+    ],
+    "conference_title": "Proceedings of the 9th International Symposium on Visual Information Communication and Interaction, VINCI 2016, Dallas, TX, USA, September 24-26, 2016.",
+    "publisher": "ACM",
+    "conference_isbn": "978-1-4503-4149-3"
+  },
+  "10.1145/2968220.2972226": {
+    "type": "poster",
+    "title": "A Mapping of Color Information from Inputted Images to Generated Polygons: A Case Study of Generative Design of Epoxy-Terrazzo Artistry",
+    "url": "https://doi.org/10.1145/2968220.2972226",
+    "year": "2016",
+    "authors": [
+      {
+        "name": "Jie Wu",
+        "url": "https:/dl.acm.org/profile/99659067654"
+      },
+      {
+        "name": "Guangxi Chen",
+        "url": "https:/dl.acm.org/profile/99659068256"
+      }
+    ],
+    "citations": "0",
+    "downloads": "62",
+    "doi": "10.1145/2968220.2972226",
+    "extra": [
+      "September 2016",
+      "pp 152–153",
+      "https://doi.org/10.1145/2968220.2972226"
+    ],
+    "conference_title": "Proceedings of the 9th International Symposium on Visual Information Communication and Interaction, VINCI 2016, Dallas, TX, USA, September 24-26, 2016.",
+    "publisher": "ACM",
+    "conference_isbn": "978-1-4503-4149-3"
+  },
+  "10.1145/2968220.2968234": {
+    "type": "poster",
+    "title": "Visual Communication Power Construction and Multimodal Discourse Analysis of Tobacco Control Advertising",
+    "url": "https://doi.org/10.1145/2968220.2968234",
+    "year": "2016",
+    "authors": [
+      {
+        "name": "Wang Qian",
+        "url": "https:/dl.acm.org/profile/99659068830"
+      },
+      {
+        "name": "Xiao Bing",
+        "url": "https:/dl.acm.org/profile/99659067729"
+      }
+    ],
+    "citations": "0",
+    "downloads": "135",
+    "doi": "10.1145/2968220.2968234",
+    "extra": [
+      "September 2016",
+      "pp 154–155",
+      "https://doi.org/10.1145/2968220.2968234"
+    ],
+    "conference_title": "Proceedings of the 9th International Symposium on Visual Information Communication and Interaction, VINCI 2016, Dallas, TX, USA, September 24-26, 2016.",
+    "publisher": "ACM",
+    "conference_isbn": "978-1-4503-4149-3"
+  },
+  "10.1145/2968220.2968249": {
+    "type": "panel",
+    "title": "Facilitating Visualization Capacity Building",
+    "url": "https://doi.org/10.1145/2968220.2968249",
+    "year": "2016",
+    "authors": [
+      {
+        "name": "Vetria L. Byrd",
+        "url": "https:/dl.acm.org/profile/81487640747"
+      },
+      {
+        "name": "Joseph A. Cottam",
+        "url": "https:/dl.acm.org/profile/81372593397"
+      }
+    ],
+    "citations": "1",
+    "downloads": "177",
+    "doi": "10.1145/2968220.2968249",
+    "extra": [
+      "September 2016",
+      "pp 156",
+      "https://doi.org/10.1145/2968220.2968249"
+    ],
+    "conference_title": "Proceedings of the 9th International Symposium on Visual Information Communication and Interaction, VINCI 2016, Dallas, TX, USA, September 24-26, 2016.",
+    "publisher": "ACM",
+    "conference_isbn": "978-1-4503-4149-3"
+  }
+}

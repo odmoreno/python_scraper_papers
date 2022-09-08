@@ -1,0 +1,94 @@
+{
+  "10.1145/3430036.3430041": {
+    "type": "research-article",
+    "title": "Survey of treemap layout algorithms",
+    "url": "https://doi.org/10.1145/3430036.3430041",
+    "year": "2020",
+    "authors": [
+      {
+        "name": "Willy Scheibel",
+        "url": "https:/dl.acm.org/profile/99659051346"
+      },
+      {
+        "name": "Daniel Limberger",
+        "url": "https:/dl.acm.org/profile/82458918757"
+      },
+      {
+        "name": " + 1",
+        "url": "https:/dl.acm.orgjavascript:void(0)"
+      }
+    ],
+    "citations": "2",
+    "downloads": "435",
+    "doi": "10.1145/3430036.3430041",
+    "extra": [
+      "December 2020",
+      "Article No.: 1",
+      "pp 1–9",
+      "https://doi.org/10.1145/3430036.3430041"
+    ],
+    "conference_title": "VINCI 2020: The 13th International Symposium on Visual Information Communication and Interaction, Eindhoven, The Netherlands, 8-10 December, 2020.",
+    "publisher": "ACM",
+    "conference_isbn": "978-1-4503-8750-7"
+  },
+  "10.1145/3430036.3430054": {
+    "type": "research-article",
+    "title": "Survey on user studies on the effectiveness of treemaps",
+    "url": "https://doi.org/10.1145/3430036.3430054",
+    "year": "2020",
+    "authors": [
+      {
+        "name": "Carolin Fiedler",
+        "url": "https:/dl.acm.org/profile/99659638986"
+      },
+      {
+        "name": "Willy Scheibel",
+        "url": "https:/dl.acm.org/profile/99659051346"
+      },
+      {
+        "name": " + 3",
+        "url": "https:/dl.acm.orgjavascript:void(0)"
+      }
+    ],
+    "citations": "3",
+    "downloads": "137",
+    "doi": "10.1145/3430036.3430054",
+    "extra": [
+      "December 2020",
+      "Article No.: 2",
+      "pp 1–10",
+      "https://doi.org/10.1145/3430036.3430054"
+    ],
+    "conference_title": "VINCI 2020: The 13th International Symposium on Visual Information Communication and Interaction, Eindhoven, The Netherlands, 8-10 December, 2020.",
+    "publisher": "ACM",
+    "conference_isbn": "978-1-4503-8750-7"
+  },
+  "10.1145/3430036.3430037": {
+    "type": "research-article",
+    "title": "Multiple linked perspectives on hierarchical data",
+    "url": "https://doi.org/10.1145/3430036.3430037",
+    "year": "2020",
+    "authors": [
+      {
+        "name": "Michael Burch",
+        "url": "https:/dl.acm.org/profile/81331488994"
+      },
+      {
+        "name": " + 2",
+        "url": "https:/dl.acm.orgjavascript:void(0)"
+      }
+    ],
+    "citations": "1",
+    "downloads": "39",
+    "doi": "10.1145/3430036.3430037",
+    "extra": [
+      "December 2020",
+      "Article No.: 3",
+      "pp 1–8",
+      "https://doi.org/10.1145/3430036.3430037"
+    ],
+    "conference_title": "VINCI 2020: The 13th International Symposium on Visual Information Communication and Interaction, Eindhoven, The Netherlands, 8-10 December, 2020.",
+    "publisher": "ACM",
+    "conference_isbn": "978-1-4503-8750-7"
+  }
+}

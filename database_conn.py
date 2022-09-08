@@ -27,3 +27,21 @@ for row in mobile_records:
     print(row)
 
 print("Print each row and it's columns values")
+
+
+conn2 = psycopg2.connect(
+    host="200.10.150.106",
+    database="subset",
+    user="postgres",
+    password="postgres")
+
+print("Opened database subset successfully")
+cursor1 = conn2.cursor()
+querystring1 = "SELECT * FROM papers LIMIT 20"
+
+cursor1.execute(querystring1)
+mobile_records = cursor1.fetchall()
+for row in mobile_records:
+    print(row)
+
+print("Print each row and it's columns values")

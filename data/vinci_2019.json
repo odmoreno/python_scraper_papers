@@ -1,0 +1,98 @@
+{
+  "10.1145/3356422.3356433": {
+    "type": "research-article",
+    "title": "Visual Analytics of Urban Transportation from a Bike-Sharing and Taxi Perspective",
+    "url": "https://doi.org/10.1145/3356422.3356433",
+    "year": "2019",
+    "authors": [
+      {
+        "name": "Haoran Dai",
+        "url": "https:/dl.acm.org/profile/99659483556"
+      },
+      {
+        "name": "Yubo Tao",
+        "url": "https:/dl.acm.org/profile/81421599679"
+      },
+      {
+        "name": "Hai Lin",
+        "url": "https:/dl.acm.org/profile/81408600175"
+      }
+    ],
+    "citations": "3",
+    "downloads": "118",
+    "doi": "10.1145/3356422.3356433",
+    "extra": [
+      "September 2019",
+      "Article No.: 1",
+      "pp 1–8",
+      "https://doi.org/10.1145/3356422.3356433"
+    ],
+    "conference_title": "Proceedings of the 12th International Symposium on Visual Information Communication and Interaction, VINCI 2019, Shanghai, China, September 20-22, 2019.",
+    "publisher": "ACM",
+    "conference_isbn": "978-1-4503-7626-6"
+  },
+  "10.1145/3356422.3356440": {
+    "type": "research-article",
+    "title": "Revealing Travel Patterns from Dockless Bike-sharing Data Based on Tensor Decomposition",
+    "url": "https://doi.org/10.1145/3356422.3356440",
+    "year": "2019",
+    "authors": [
+      {
+        "name": "Hao Tang",
+        "url": "https:/dl.acm.org/profile/99659483577"
+      },
+      {
+        "name": "Sixiang Fei",
+        "url": "https:/dl.acm.org/profile/99659482760"
+      },
+      {
+        "name": "Xiaoying Shi",
+        "url": "https:/dl.acm.org/profile/99659482636"
+      }
+    ],
+    "citations": "1",
+    "downloads": "158",
+    "doi": "10.1145/3356422.3356440",
+    "extra": [
+      "September 2019",
+      "Article No.: 2",
+      "pp 1–7",
+      "https://doi.org/10.1145/3356422.3356440"
+    ],
+    "conference_title": "Proceedings of the 12th International Symposium on Visual Information Communication and Interaction, VINCI 2019, Shanghai, China, September 20-22, 2019.",
+    "publisher": "ACM",
+    "conference_isbn": "978-1-4503-7626-6"
+  },
+  "10.1145/3356422.3356439": {
+    "type": "research-article",
+    "title": "Visual predictive modeling of incomplete time series panel data",
+    "url": "https://doi.org/10.1145/3356422.3356439",
+    "year": "2019",
+    "authors": [
+      {
+        "name": "Hanbyul Yeon",
+        "url": "https:/dl.acm.org/profile/99658765084"
+      },
+      {
+        "name": "Mingyu Pi",
+        "url": "https:/dl.acm.org/profile/99659482864"
+      },
+      {
+        "name": " + 2",
+        "url": "https:/dl.acm.orgjavascript:void(0)"
+      }
+    ],
+    "citations": "0",
+    "downloads": "74",
+    "doi": "10.1145/3356422.3356439",
+    "extra": [
+      "September 2019",
+      "Article No.: 3",
+      "pp 1–8",
+      "https://doi.org/10.1145/3356422.3356439"
+    ],
+    "conference_title": "Proceedings of the 12th International Symposium on Visual Information Communication and Interaction, VINCI 2019, Shanghai, China, September 20-22, 2019.",
+    "publisher": "ACM",
+    "conference_isbn": "978-1-4503-7626-6"
+  }
+}

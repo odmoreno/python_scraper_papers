@@ -43,7 +43,6 @@ def create_file(path_to_search_results, file_name) -> str:
     return file_path
 
 
-
 def check_if_exist_file(path_to_search_results, file_name) -> bool:
     """
     Check if file exist
