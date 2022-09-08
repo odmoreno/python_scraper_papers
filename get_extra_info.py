@@ -36,6 +36,15 @@ class Info:
         self.authors_tmp_dict = authors
         #return [papers, authors]
 
+    def load_data2(self):
+        with open(self.real_authors_path, encoding='utf-8') as fh:
+            autores = json.load(fh)
+        with open(self.institution_temp_path, encoding='utf-8') as fh:
+            insti = json.load(fh)
+
+        self.authors_set = autores
+        self.intitution_set = insti
+
     def save_data(self):
         #save current papers
         json_string = json.dumps(self.papers_dict, ensure_ascii= False, indent=2)
@@ -138,6 +147,7 @@ class Info:
 
     def get_authors(self):
         try:
+            self.load_data2()
             for author in self.authors_tmp_dict.values():
                 self.get_authors_info(author)
 
@@ -150,44 +160,47 @@ class Info:
 
     def get_authors_info(self, autor):
         url = autor['url']
-        self.driver_for_acm.get(url)
-        time.sleep(5)
-        buttons = self.driver_for_acm.find_elements_by_class_name("removed-items-count")
-        for but in buttons:
-            self.driver_for_acm.execute_script("arguments[0].click();", but)
-        time.sleep(5)
+        if autor['id']  not in self.authors_set:
+            self.driver_for_acm.get(url)
+            time.sleep(5)
+            buttons = self.driver_for_acm.find_elements_by_class_name("removed-items-count")
+            for but in buttons:
+                self.driver_for_acm.execute_script("arguments[0].click();", but)
+            time.sleep(5)
 
-        # parse source code
-        soup = BeautifulSoup(self.driver_for_acm.page_source, "html.parser")
-        #print(soup.prettify()) #removed-items-count
-        institutions_ul = soup.find("ul", class_="rlist--inline list-of-institutions truncate-list trunc-done")
-        if institutions_ul is None:
-            institutions_ul = soup.find("ul", class_="rlist--inline list-of-institutions truncate-list")
+            # parse source code
+            soup = BeautifulSoup(self.driver_for_acm.page_source, "html.parser")
+            # print(soup.prettify()) #removed-items-count
+            institutions_ul = soup.find("ul", class_="rlist--inline list-of-institutions truncate-list trunc-done")
+            if institutions_ul is None:
+                institutions_ul = soup.find("ul", class_="rlist--inline list-of-institutions truncate-list")
 
-        list = []
-        for li in institutions_ul:
-            temp_url = li.a["href"]
-            name = li.text.strip()
-            lst = ["https:/", self.base_url, temp_url]
-            url_insti = "".join(lst)
-            split_text = temp_url.split("/")
-            #temp_id = temp_url[13:]
-            temp_id = split_text[len(split_text)-1]
-            data ={
-                'id' : temp_id,
-                'name': name,
-                 'url': url_insti
-            }
-            self.intitution_set[data['id']] = data
-            list.append(data)
+            list = []
+            for li in institutions_ul:
+                temp_url = li.a["href"]
+                name = li.text.strip()
+                lst = ["https:/", self.base_url, temp_url]
+                url_insti = "".join(lst)
+                split_text = temp_url.split("/")
+                # temp_id = temp_url[13:]
+                temp_id = split_text[len(split_text) - 1]
+                data = {
+                    'id': temp_id,
+                    'name': name,
+                    'url': url_insti
+                }
+                self.intitution_set[data['id']] = data
+                list.append(data)
 
-        autor['venue'] = list
-        self.authors_set[autor['id']] = autor
-        metrics_div = soup.find("div", class_="owl-stage")
-        #guardamos en jsons
-        self.save_autores()
-        self.save_institutions()
-        print('Listo', autor['name'])
+            autor['venue'] = list
+            self.authors_set[autor['id']] = autor
+            metrics_div = soup.find("div", class_="owl-stage")
+            # guardamos en jsons
+            self.save_autores()
+            self.save_institutions()
+            print('Listo', autor['name'])
+        else:
+            print("ya existe", autor['name'])
         """
         for metric in metrics_div:
             metric_info = metric
