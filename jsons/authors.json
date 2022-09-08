@@ -1,2078 +1,1264 @@
 {
   "99659583267": {
     "name": "René  Cutura",
-    "venue": "TU Wien and University of Stuttgart, Austria",
+    "venue": [
+      {
+        "id": "60015815",
+        "name": "University of Stuttgart",
+        "url": "https://dl.acm.org/institution/60015815"
+      },
+      {
+        "id": "60018163",
+        "name": "Vienna University of Technology",
+        "url": "https://dl.acm.org/institution/60018163"
+      },
+      {
+        "id": "60025988",
+        "name": "University of Vienna",
+        "url": "https://dl.acm.org/institution/60025988"
+      }
+    ],
     "url": "https://dl.acm.org/profile/99659583267",
     "id": "99659583267"
   },
   "99660233714": {
     "name": "Cristina  Morariu",
-    "venue": "University of Stuttgart, Germany",
+    "venue": [
+      {
+        "id": "60015815",
+        "name": "University of Stuttgart",
+        "url": "https://dl.acm.org/institution/60015815"
+      }
+    ],
     "url": "https://dl.acm.org/profile/99660233714",
     "id": "99660233714"
   },
   "99659275761": {
     "name": "Zhanglin  Cheng",
-    "venue": "Shenzen Institutes of Advanced Technology, China",
+    "venue": [
+      {
+        "id": "60102083",
+        "name": "Shenzhen Institute of Advanced Technology",
+        "url": "https://dl.acm.org/institution/60102083"
+      }
+    ],
     "url": "https://dl.acm.org/profile/99659275761",
     "id": "99659275761"
   },
   "82658976157": {
     "name": "Yunhai  Wang",
-    "venue": "Shandong University, China",
+    "venue": [
+      {
+        "id": "60031031",
+        "name": "Shandong University",
+        "url": "https://dl.acm.org/institution/60031031"
+      },
+      {
+        "id": "60102083",
+        "name": "Shenzhen Institute of Advanced Technology",
+        "url": "https://dl.acm.org/institution/60102083"
+      }
+    ],
     "url": "https://dl.acm.org/profile/82658976157",
     "id": "82658976157"
   },
   "81100214723": {
     "name": "Daniel  Weiskopf",
-    "venue": "VISUS, University of Stuttgart, Stuttgart, Germany",
+    "venue": [
+      {
+        "id": "60015815",
+        "name": "University of Stuttgart",
+        "url": "https://dl.acm.org/institution/60015815"
+      },
+      {
+        "id": "60018491",
+        "name": "Simon Fraser University",
+        "url": "https://dl.acm.org/institution/60018491"
+      },
+      {
+        "id": "60000251",
+        "name": "IEEE",
+        "url": "https://dl.acm.org/institution/60000251"
+      },
+      {
+        "id": "60017246",
+        "name": "University of Tübingen",
+        "url": "https://dl.acm.org/institution/60017246"
+      }
+    ],
     "url": "https://dl.acm.org/profile/81100214723",
     "id": "81100214723"
   },
   "81375621529": {
     "name": "Michael  Sedlmair",
-    "venue": "University of Stuttgart, Germany",
+    "venue": [
+      {
+        "id": "60015815",
+        "name": "University of Stuttgart",
+        "url": "https://dl.acm.org/institution/60015815"
+      },
+      {
+        "id": "60016458",
+        "name": "Jacobs University Bremen",
+        "url": "https://dl.acm.org/institution/60016458"
+      },
+      {
+        "id": "60025988",
+        "name": "University of Vienna",
+        "url": "https://dl.acm.org/institution/60025988"
+      },
+      {
+        "id": "60010365",
+        "name": "The University of British Columbia",
+        "url": "https://dl.acm.org/institution/60010365"
+      },
+      {
+        "id": "javascript:void(0)",
+        "name": "+ 2",
+        "url": "https://dl.acm.orgjavascript:void(0)"
+      }
+    ],
     "url": "https://dl.acm.org/profile/81375621529",
     "id": "81375621529"
   },
   "81100329777": {
     "name": "Takayuki  Itoh",
-    "venue": "Ochanomizu University, Japan",
+    "venue": [
+      {
+        "id": "60007912",
+        "name": "Ochanomizu University",
+        "url": "https://dl.acm.org/institution/60007912"
+      },
+      {
+        "id": "60107858",
+        "name": "IBM Japan, Ltd.",
+        "url": "https://dl.acm.org/institution/60107858"
+      }
+    ],
     "url": "https://dl.acm.org/profile/81100329777",
     "id": "81100329777"
   },
   "99659915690": {
     "name": "Asuka  Nakabayashi",
-    "venue": "Ochanomizu University, Japan",
+    "venue": [
+      {
+        "id": "60007912",
+        "name": "Ochanomizu University",
+        "url": "https://dl.acm.org/institution/60007912"
+      }
+    ],
     "url": "https://dl.acm.org/profile/99659915690",
     "id": "99659915690"
   },
   "81100399955": {
     "name": "Mariko  Hagita",
-    "venue": "Ochanomizu University, Japan",
+    "venue": [
+      {
+        "id": "60007912",
+        "name": "Ochanomizu University",
+        "url": "https://dl.acm.org/institution/60007912"
+      },
+      {
+        "id": "60025997",
+        "name": "Keio University",
+        "url": "https://dl.acm.org/institution/60025997"
+      }
+    ],
     "url": "https://dl.acm.org/profile/81100399955",
     "id": "81100399955"
   },
   "99659915368": {
     "name": "Maath  Musleh",
-    "venue": "Linnaeus University, Sweden",
+    "venue": [],
     "url": "https://dl.acm.org/profile/99659915368",
     "id": "99659915368"
   },
   "99659465677": {
     "name": "Angelos  Chatzimparmpas",
-    "venue": "Linnaeus University, Sweden",
+    "venue": [
+      {
+        "id": "60108011",
+        "name": "Linnaeus University, Växjö",
+        "url": "https://dl.acm.org/institution/60108011"
+      },
+      {
+        "id": "60006517",
+        "name": "University of Western Macedonia",
+        "url": "https://dl.acm.org/institution/60006517"
+      }
+    ],
     "url": "https://dl.acm.org/profile/99659465677",
     "id": "99659465677"
   },
   "81472654517": {
     "name": "Ilir Jusufi",
-    "venue": "Linnaeus University, Sweden",
+    "venue": [
+      {
+        "id": "60104372",
+        "name": "Linnaeus University, Kalmar",
+        "url": "https://dl.acm.org/institution/60104372"
+      },
+      {
+        "id": "60108011",
+        "name": "Linnaeus University, Växjö",
+        "url": "https://dl.acm.org/institution/60108011"
+      },
+      {
+        "id": "60014439",
+        "name": "University of California, Davis",
+        "url": "https://dl.acm.org/institution/60014439"
+      }
+    ],
     "url": "https://dl.acm.org/profile/81472654517",
     "id": "81472654517"
   },
   "99659248999": {
     "name": "Alexander  Achberger",
-    "venue": "Mercedes-Benz AG, Germany",
+    "venue": [
+      {
+        "id": "60085150",
+        "name": "Mercedes Benz Cars",
+        "url": "https://dl.acm.org/institution/60085150"
+      },
+      {
+        "id": "60015815",
+        "name": "University of Stuttgart",
+        "url": "https://dl.acm.org/institution/60015815"
+      }
+    ],
     "url": "https://dl.acm.org/profile/99659248999",
     "id": "99659248999"
   },
   "99659583503": {
     "name": "Frank  Heyen",
-    "venue": "University of Stuttgart, Germany",
+    "venue": [
+      {
+        "id": "60015815",
+        "name": "University of Stuttgart",
+        "url": "https://dl.acm.org/institution/60015815"
+      }
+    ],
     "url": "https://dl.acm.org/profile/99659583503",
     "id": "99659583503"
   },
   "99659915852": {
     "name": "Kresimir  Vidakovic",
-    "venue": "Hochschule der Medien - University of Applied Sciences, Germany",
+    "venue": [
+      {
+        "id": "60003027",
+        "name": "Stuttgart Media University",
+        "url": "https://dl.acm.org/institution/60003027"
+      }
+    ],
     "url": "https://dl.acm.org/profile/99659915852",
     "id": "99659915852"
   },
   "99659915755": {
     "name": "Martin  Büßemeyer",
-    "venue": "Hasso Plattner Institute, Faculty of Digital Engineering, University of Potsdam, Germany",
+    "venue": [
+      {
+        "id": "60106550",
+        "name": "Hasso Plattner Institute for Digital Engineering gGmbH",
+        "url": "https://dl.acm.org/institution/60106550"
+      }
+    ],
     "url": "https://dl.acm.org/profile/99659915755",
     "id": "99659915755"
   },
   "82458918757": {
     "name": "Daniel Limberger",
-    "venue": "Hasso Plattner Institute, University of Potsdam, Potsdam, Germany",
+    "venue": [
+      {
+        "id": "60106550",
+        "name": "Hasso Plattner Institute for Digital Engineering gGmbH",
+        "url": "https://dl.acm.org/institution/60106550"
+      },
+      {
+        "id": "60021763",
+        "name": "University of Potsdam",
+        "url": "https://dl.acm.org/institution/60021763"
+      }
+    ],
     "url": "https://dl.acm.org/profile/82458918757",
     "id": "82458918757"
   },
   "99659051346": {
     "name": "Willy  Scheibel",
-    "venue": "University of Potsdam, Germany",
+    "venue": [
+      {
+        "id": "60021763",
+        "name": "University of Potsdam",
+        "url": "https://dl.acm.org/institution/60021763"
+      },
+      {
+        "id": "60106550",
+        "name": "Hasso Plattner Institute for Digital Engineering gGmbH",
+        "url": "https://dl.acm.org/institution/60106550"
+      }
+    ],
     "url": "https://dl.acm.org/profile/99659051346",
     "id": "99659051346"
   },
   "81100019985": {
     "name": "Jürgen  Döllner",
-    "venue": "Hasso Plattner Institute, University of Potsdam, Potsdam, Germany",
+    "venue": [
+      {
+        "id": "60106550",
+        "name": "Hasso Plattner Institute for Digital Engineering gGmbH",
+        "url": "https://dl.acm.org/institution/60106550"
+      },
+      {
+        "id": "60021763",
+        "name": "University of Potsdam",
+        "url": "https://dl.acm.org/institution/60021763"
+      },
+      {
+        "id": "60000401",
+        "name": "University of Münster",
+        "url": "https://dl.acm.org/institution/60000401"
+      }
+    ],
     "url": "https://dl.acm.org/profile/81100019985",
     "id": "81100019985"
   },
   "99659916274": {
     "name": "Jan  van Dieken",
-    "venue": "Hasso Plattner Institute, Faculty of Digital Engineering, University of Potsdam, Germany",
+    "venue": [
+      {
+        "id": "60106550",
+        "name": "Hasso Plattner Institute for Digital Engineering gGmbH",
+        "url": "https://dl.acm.org/institution/60106550"
+      }
+    ],
     "url": "https://dl.acm.org/profile/99659916274",
     "id": "99659916274"
   },
   "99659275978": {
     "name": "Ayush  Kumar",
-    "venue": "Schepens Eye Research Institute,Harvard Medical School, United States",
+    "venue": [
+      {
+        "id": "60002746",
+        "name": "Harvard Medical School",
+        "url": "https://dl.acm.org/institution/60002746"
+      },
+      {
+        "id": "60026415",
+        "name": "Stony Brook University",
+        "url": "https://dl.acm.org/institution/60026415"
+      }
+    ],
     "url": "https://dl.acm.org/profile/99659275978",
     "id": "99659275978"
   },
   "99659034607": {
     "name": "Bharat  Goel",
-    "venue": "Stony Brook University, United States",
+    "venue": [
+      {
+        "id": "60026415",
+        "name": "Stony Brook University",
+        "url": "https://dl.acm.org/institution/60026415"
+      }
+    ],
     "url": "https://dl.acm.org/profile/99659034607",
     "id": "99659034607"
   },
   "99659915763": {
     "name": "Keshav Rajupet Premkumar",
-    "venue": "Stony Brook University, United States",
+    "venue": [
+      {
+        "id": "60026415",
+        "name": "Stony Brook University",
+        "url": "https://dl.acm.org/institution/60026415"
+      }
+    ],
     "url": "https://dl.acm.org/profile/99659915763",
     "id": "99659915763"
   },
   "81331488994": {
     "name": "Michael  Burch",
-    "venue": "VISUS, University of Stuttgart, Allmandring, Stuttgart",
+    "venue": [
+      {
+        "id": "60101868",
+        "name": "University of Applied Sciences Western Switzerland",
+        "url": "https://dl.acm.org/institution/60101868"
+      },
+      {
+        "id": "60032882",
+        "name": "Eindhoven University of Technology",
+        "url": "https://dl.acm.org/institution/60032882"
+      },
+      {
+        "id": "javascript:void(0)",
+        "name": "+ 4",
+        "url": "https://dl.acm.orgjavascript:void(0)"
+      }
+    ],
     "url": "https://dl.acm.org/profile/81331488994",
     "id": "81331488994"
   },
   "81452605314": {
     "name": "Klaus D Mueller",
-    "venue": "Stony Brook University, United States",
+    "venue": [
+      {
+        "id": "60026415",
+        "name": "Stony Brook University",
+        "url": "https://dl.acm.org/institution/60026415"
+      },
+      {
+        "id": "60000251",
+        "name": "IEEE",
+        "url": "https://dl.acm.org/institution/60000251"
+      },
+      {
+        "id": "60003500",
+        "name": "The Ohio State University",
+        "url": "https://dl.acm.org/institution/60003500"
+      }
+    ],
     "url": "https://dl.acm.org/profile/81452605314",
     "id": "81452605314"
   },
   "99659915568": {
     "name": "Lauren  Edlin",
-    "venue": "Queen Mary University of London, United Kingdom",
+    "venue": [
+      {
+        "id": "60022109",
+        "name": "Queen Mary University of London",
+        "url": "https://dl.acm.org/institution/60022109"
+      }
+    ],
     "url": "https://dl.acm.org/profile/99659915568",
     "id": "99659915568"
   },
   "81320493799": {
     "name": "Joshua D Reiss",
-    "venue": "Queen Mary University of London, United Kingdom",
+    "venue": [
+      {
+        "id": "60022109",
+        "name": "Queen Mary University of London",
+        "url": "https://dl.acm.org/institution/60022109"
+      },
+      {
+        "id": "60033387",
+        "name": "University of London",
+        "url": "https://dl.acm.org/institution/60033387"
+      }
+    ],
     "url": "https://dl.acm.org/profile/81320493799",
     "id": "81320493799"
   },
   "99659658214": {
     "name": "Cameron  Edmond",
-    "venue": "University of New South Wales, Australia",
+    "venue": [
+      {
+        "id": "60028333",
+        "name": "UNSW Sydney",
+        "url": "https://dl.acm.org/institution/60028333"
+      }
+    ],
     "url": "https://dl.acm.org/profile/99659658214",
     "id": "99659658214"
   },
   "99658723776": {
     "name": "Robert  Lawther",
-    "venue": "University of New South Wales, Australia",
+    "venue": [
+      {
+        "id": "60028333",
+        "name": "UNSW Sydney",
+        "url": "https://dl.acm.org/institution/60028333"
+      }
+    ],
     "url": "https://dl.acm.org/profile/99658723776",
     "id": "99658723776"
   },
   "81488668405": {
     "name": "Maxime  Cordeil",
-    "venue": "Monash University, Australia",
+    "venue": [
+      {
+        "id": "60019578",
+        "name": "Monash University",
+        "url": "https://dl.acm.org/institution/60019578"
+      },
+      {
+        "id": "60031004",
+        "name": "The University of Queensland",
+        "url": "https://dl.acm.org/institution/60031004"
+      },
+      {
+        "id": "60102124",
+        "name": "Federal University of Toulouse Midi-Pyrénées",
+        "url": "https://dl.acm.org/institution/60102124"
+      },
+      {
+        "id": "javascript:void(0)",
+        "name": "+ 1",
+        "url": "https://dl.acm.orgjavascript:void(0)"
+      }
+    ],
     "url": "https://dl.acm.org/profile/81488668405",
     "id": "81488668405"
   },
   "81464670479": {
     "name": "Tomasz P Bednarz",
-    "venue": "CSIRO Data 61, Melbourne, Australia",
+    "venue": [
+      {
+        "id": "60012808",
+        "name": "Epicentre",
+        "url": "https://dl.acm.org/institution/60012808"
+      },
+      {
+        "id": "60028333",
+        "name": "UNSW Sydney",
+        "url": "https://dl.acm.org/institution/60028333"
+      },
+      {
+        "id": "60108057",
+        "name": "CSIRO Data61",
+        "url": "https://dl.acm.org/institution/60108057"
+      },
+      {
+        "id": "60160437",
+        "name": "ARC Centre of Excellence for Mathematical & Statistical Frontiers",
+        "url": "https://dl.acm.org/institution/60160437"
+      },
+      {
+        "id": "javascript:void(0)",
+        "name": "+ 2",
+        "url": "https://dl.acm.orgjavascript:void(0)"
+      }
+    ],
     "url": "https://dl.acm.org/profile/81464670479",
     "id": "81464670479"
   },
   "99659914931": {
     "name": "Miguel  Alfonso Feijóo-García",
-    "venue": "Universidad de los Andes and Universidad El Bosque, Colombia",
+    "venue": [
+      {
+        "id": "60070348",
+        "name": "Universidad El Bosque",
+        "url": "https://dl.acm.org/institution/60070348"
+      }
+    ],
     "url": "https://dl.acm.org/profile/99659914931",
     "id": "99659914931"
   },
   "99659915656": {
     "name": "José  Tiberio Hernández-Peñalosa",
-    "venue": "Universidad de los Andes, Colombia",
+    "venue": [
+      {
+        "id": "60052106",
+        "name": "University of the Andes, Colombia",
+        "url": "https://dl.acm.org/institution/60052106"
+      }
+    ],
     "url": "https://dl.acm.org/profile/99659915656",
     "id": "99659915656"
   },
   "99659473900": {
     "name": "Christina  Stoiber",
-    "venue": "St. Poelten UAS, Austria",
+    "venue": [],
     "url": "https://dl.acm.org/profile/99659473900",
     "id": "99659473900"
   },
   "99659914993": {
     "name": "Conny  Walchshofer",
-    "venue": "JKU Linz, Austria",
+    "venue": [
+      {
+        "id": "60021931",
+        "name": "Johannes Kepler University Linz",
+        "url": "https://dl.acm.org/institution/60021931"
+      }
+    ],
     "url": "https://dl.acm.org/profile/99659914993",
     "id": "99659914993"
   },
   "99659915944": {
     "name": "Florian  Grassinger",
-    "venue": "St. Poelten UAS, Austria",
+    "venue": [],
     "url": "https://dl.acm.org/profile/99659915944",
     "id": "99659915944"
   },
   "87258908057": {
     "name": "Holger  Stitz",
-    "venue": "datavisyn GmbH, Austria",
+    "venue": [
+      {
+        "id": "60021931",
+        "name": "Johannes Kepler University Linz",
+        "url": "https://dl.acm.org/institution/60021931"
+      },
+      {
+        "id": "javascript:void(0)",
+        "name": "+ 1",
+        "url": "https://dl.acm.orgjavascript:void(0)"
+      }
+    ],
     "url": "https://dl.acm.org/profile/87258908057",
     "id": "87258908057"
   },
   "81375612900": {
     "name": "Marc  Streit",
-    "venue": "JKU Linz, Austria",
+    "venue": [
+      {
+        "id": "60021931",
+        "name": "Johannes Kepler University Linz",
+        "url": "https://dl.acm.org/institution/60021931"
+      },
+      {
+        "id": "60002746",
+        "name": "Harvard Medical School",
+        "url": "https://dl.acm.org/institution/60002746"
+      },
+      {
+        "id": "60019663",
+        "name": "Graz University of Technology",
+        "url": "https://dl.acm.org/institution/60019663"
+      }
+    ],
     "url": "https://dl.acm.org/profile/81375612900",
     "id": "81375612900"
   },
   "81503660777": {
     "name": "Wolfgang  Aigner",
-    "venue": "St. Poelten UAS, Austria",
+    "venue": [
+      {
+        "id": "60025467",
+        "name": "St. Polten University of Applied Sciences",
+        "url": "https://dl.acm.org/institution/60025467"
+      },
+      {
+        "id": "60018163",
+        "name": "Vienna University of Technology",
+        "url": "https://dl.acm.org/institution/60018163"
+      }
+    ],
     "url": "https://dl.acm.org/profile/81503660777",
     "id": "81503660777"
   },
   "99659916186": {
     "name": "Akshay  Murari",
-    "venue": "UNC Charlotte, United States",
+    "venue": [
+      {
+        "id": "60006951",
+        "name": "The University of North Carolina at Charlotte",
+        "url": "https://dl.acm.org/institution/60006951"
+      }
+    ],
     "url": "https://dl.acm.org/profile/99659916186",
     "id": "99659916186"
   },
   "99659090947": {
     "name": "Elias  Mahfoud",
-    "venue": "UNC Charlotte, United States",
+    "venue": [
+      {
+        "id": "60006951",
+        "name": "The University of North Carolina at Charlotte",
+        "url": "https://dl.acm.org/institution/60006951"
+      }
+    ],
     "url": "https://dl.acm.org/profile/99659090947",
     "id": "99659090947"
   },
   "81467643151": {
     "name": "Weichao  Wang",
-    "venue": "UNC Charlotte, United States",
+    "venue": [
+      {
+        "id": "60006951",
+        "name": "The University of North Carolina at Charlotte",
+        "url": "https://dl.acm.org/institution/60006951"
+      }
+    ],
     "url": "https://dl.acm.org/profile/81467643151",
     "id": "81467643151"
   },
   "81100052641": {
     "name": "Aidong Lu",
-    "venue": "UNC Charlotte, United States",
+    "venue": [
+      {
+        "id": "60006951",
+        "name": "The University of North Carolina at Charlotte",
+        "url": "https://dl.acm.org/institution/60006951"
+      },
+      {
+        "id": "60017717",
+        "name": "The University of North Carolina System",
+        "url": "https://dl.acm.org/institution/60017717"
+      },
+      {
+        "id": "60009254",
+        "name": "Purdue University",
+        "url": "https://dl.acm.org/institution/60009254"
+      },
+      {
+        "id": "60000251",
+        "name": "IEEE",
+        "url": "https://dl.acm.org/institution/60000251"
+      }
+    ],
     "url": "https://dl.acm.org/profile/81100052641",
     "id": "81100052641"
   },
   "99659915448": {
     "name": "Hinako  Sassa",
-    "venue": "Ochanomizu University, Japan",
+    "venue": [
+      {
+        "id": "60007912",
+        "name": "Ochanomizu University",
+        "url": "https://dl.acm.org/institution/60007912"
+      }
+    ],
     "url": "https://dl.acm.org/profile/99659915448",
     "id": "99659915448"
   },
   "99658718448": {
     "name": "Mitsuo Yoshida",
-    "venue": "Toyohashi University of Technology, Japan",
+    "venue": [
+      {
+        "id": "60003497",
+        "name": "Toyohashi University of Technology",
+        "url": "https://dl.acm.org/institution/60003497"
+      }
+    ],
     "url": "https://dl.acm.org/profile/99658718448",
     "id": "99658718448"
   },
   "99659915576": {
     "name": "Oliver  Moseler",
-    "venue": "University of Trier, Germany",
+    "venue": [
+      {
+        "id": "60011891",
+        "name": "University of Trier",
+        "url": "https://dl.acm.org/institution/60011891"
+      }
+    ],
     "url": "https://dl.acm.org/profile/99659915576",
     "id": "99659915576"
   },
   "99659915201": {
     "name": "Lucas  Kreber",
-    "venue": "University of Trier, Germany",
+    "venue": [
+      {
+        "id": "60011891",
+        "name": "University of Trier",
+        "url": "https://dl.acm.org/institution/60011891"
+      }
+    ],
     "url": "https://dl.acm.org/profile/99659915201",
     "id": "99659915201"
   },
   "81100020010": {
     "name": "Stephan  Diehl",
-    "venue": "University of Trier, Germany",
+    "venue": [
+      {
+        "id": "60011891",
+        "name": "University of Trier",
+        "url": "https://dl.acm.org/institution/60011891"
+      },
+      {
+        "id": "60005870",
+        "name": "Catholic University in Eichstätt",
+        "url": "https://dl.acm.org/institution/60005870"
+      },
+      {
+        "id": "60033241",
+        "name": "Saarland University",
+        "url": "https://dl.acm.org/institution/60033241"
+      }
+    ],
     "url": "https://dl.acm.org/profile/81100020010",
     "id": "81100020010"
   },
   "99659914928": {
     "name": "Chen  He",
-    "venue": "University of Helsinki, Finland",
+    "venue": [
+      {
+        "id": "60002952",
+        "name": "University of Helsinki",
+        "url": "https://dl.acm.org/institution/60002952"
+      }
+    ],
     "url": "https://dl.acm.org/profile/99659914928",
     "id": "99659914928"
   },
   "81548012985": {
     "name": "Luana  Micallef",
-    "venue": "Aalto University",
+    "venue": [
+      {
+        "id": "60030840",
+        "name": "University of Copenhagen",
+        "url": "https://dl.acm.org/institution/60030840"
+      },
+      {
+        "id": "60103653",
+        "name": "Aalto University",
+        "url": "https://dl.acm.org/institution/60103653"
+      },
+      {
+        "id": "javascript:void(0)",
+        "name": "+ 2",
+        "url": "https://dl.acm.orgjavascript:void(0)"
+      }
+    ],
     "url": "https://dl.acm.org/profile/81548012985",
     "id": "81548012985"
   },
   "82259259657": {
     "name": "Barış  Serim",
-    "venue": "University of Helsinki and Aalto University",
+    "venue": [
+      {
+        "id": "60002952",
+        "name": "University of Helsinki",
+        "url": "https://dl.acm.org/institution/60002952"
+      },
+      {
+        "id": "60000944",
+        "name": "Helsinki Institute for Information Technology",
+        "url": "https://dl.acm.org/institution/60000944"
+      },
+      {
+        "id": "60006369",
+        "name": "Koc University",
+        "url": "https://dl.acm.org/institution/60006369"
+      }
+    ],
     "url": "https://dl.acm.org/profile/82259259657",
     "id": "82259259657"
   },
   "99659191803": {
     "name": "Tung  Vuong",
-    "venue": "University of Helsinki, Finland",
+    "venue": [
+      {
+        "id": "60002952",
+        "name": "University of Helsinki",
+        "url": "https://dl.acm.org/institution/60002952"
+      }
+    ],
     "url": "https://dl.acm.org/profile/99659191803",
     "id": "99659191803"
   },
   "81339525898": {
     "name": "Tuukka  Ruotsalo",
-    "venue": "University of Helsinki, Finland",
+    "venue": [
+      {
+        "id": "60002952",
+        "name": "University of Helsinki",
+        "url": "https://dl.acm.org/institution/60002952"
+      },
+      {
+        "id": "60030840",
+        "name": "University of Copenhagen",
+        "url": "https://dl.acm.org/institution/60030840"
+      },
+      {
+        "id": "60103653",
+        "name": "Aalto University",
+        "url": "https://dl.acm.org/institution/60103653"
+      }
+    ],
     "url": "https://dl.acm.org/profile/81339525898",
     "id": "81339525898"
   },
   "81100644548": {
     "name": "Giulio Iacucci",
-    "venue": "University of Helsinki",
+    "venue": [
+      {
+        "id": "60002952",
+        "name": "University of Helsinki",
+        "url": "https://dl.acm.org/institution/60002952"
+      },
+      {
+        "id": "60103653",
+        "name": "Aalto University",
+        "url": "https://dl.acm.org/institution/60103653"
+      },
+      {
+        "id": "60000944",
+        "name": "Helsinki Institute for Information Technology",
+        "url": "https://dl.acm.org/institution/60000944"
+      },
+      {
+        "id": "60012954",
+        "name": "University of Oulu",
+        "url": "https://dl.acm.org/institution/60012954"
+      }
+    ],
     "url": "https://dl.acm.org/profile/81100644548",
     "id": "81100644548"
   },
   "81100493799": {
     "name": "Günter Wallner",
-    "venue": "TU Eindhoven, Netherlands",
+    "venue": [
+      {
+        "id": "60021931",
+        "name": "Johannes Kepler University Linz",
+        "url": "https://dl.acm.org/institution/60021931"
+      },
+      {
+        "id": "60101868",
+        "name": "University of Applied Sciences Western Switzerland",
+        "url": "https://dl.acm.org/institution/60101868"
+      },
+      {
+        "id": "javascript:void(0)",
+        "name": "+ 3",
+        "url": "https://dl.acm.orgjavascript:void(0)"
+      }
+    ],
     "url": "https://dl.acm.org/profile/81100493799",
     "id": "81100493799"
   },
   "81100431196": {
     "name": "Huub M M van de Wetering",
-    "venue": "Eindhoven University of Technology, Eindhoven, The Netherlands",
+    "venue": [
+      {
+        "id": "60032882",
+        "name": "Eindhoven University of Technology",
+        "url": "https://dl.acm.org/institution/60032882"
+      },
+      {
+        "id": "60018308",
+        "name": "Xi'an Jiaotong University",
+        "url": "https://dl.acm.org/institution/60018308"
+      }
+    ],
     "url": "https://dl.acm.org/profile/81100431196",
     "id": "81100431196"
   },
   "99659915567": {
     "name": "Freek  Rooks",
-    "venue": "TU Eindhoven, Netherlands",
+    "venue": [
+      {
+        "id": "60032882",
+        "name": "Eindhoven University of Technology",
+        "url": "https://dl.acm.org/institution/60032882"
+      }
+    ],
     "url": "https://dl.acm.org/profile/99659915567",
     "id": "99659915567"
   },
   "99659915351": {
     "name": "Olof  Morra",
-    "venue": "TU Eindhoven, Netherlands",
+    "venue": [
+      {
+        "id": "60032882",
+        "name": "Eindhoven University of Technology",
+        "url": "https://dl.acm.org/institution/60032882"
+      }
+    ],
     "url": "https://dl.acm.org/profile/99659915351",
     "id": "99659915351"
   },
   "84460003257": {
     "name": "Gonzalo Gabriel Méndez",
-    "venue": "Escuela Superior Politécnica del Litoral, Ecuador",
+    "venue": [
+      {
+        "id": "60072061",
+        "name": "Litoral Polytechnic School",
+        "url": "https://dl.acm.org/institution/60072061"
+      },
+      {
+        "id": "60002306",
+        "name": "University of Calgary",
+        "url": "https://dl.acm.org/institution/60002306"
+      },
+      {
+        "id": "60022132",
+        "name": "University of St Andrews",
+        "url": "https://dl.acm.org/institution/60022132"
+      }
+    ],
     "url": "https://dl.acm.org/profile/84460003257",
     "id": "84460003257"
   },
   "99659915372": {
     "name": "Oscar  Moreno",
-    "venue": "Escuela Superior Politécnica del Litoral, Ecuador",
+    "venue": [
+      {
+        "id": "60072061",
+        "name": "Litoral Polytechnic School",
+        "url": "https://dl.acm.org/institution/60072061"
+      }
+    ],
     "url": "https://dl.acm.org/profile/99659915372",
     "id": "99659915372"
   },
   "99659915322": {
     "name": "Daniel  Atzberger",
-    "venue": "Hasso Plattner Institute, Faculty of Digital Engineering, University of Potsdam, Germany",
+    "venue": [
+      {
+        "id": "60021763",
+        "name": "University of Potsdam",
+        "url": "https://dl.acm.org/institution/60021763"
+      },
+      {
+        "id": "60106550",
+        "name": "Hasso Plattner Institute for Digital Engineering gGmbH",
+        "url": "https://dl.acm.org/institution/60106550"
+      }
+    ],
     "url": "https://dl.acm.org/profile/99659915322",
     "id": "99659915322"
   },
   "81492646025": {
     "name": "Patricio  Mendoza",
-    "venue": "Escuela Superior Politécnica del Litoral, Ecuador",
+    "venue": [
+      {
+        "id": "60072061",
+        "name": "Litoral Polytechnic School",
+        "url": "https://dl.acm.org/institution/60072061"
+      }
+    ],
     "url": "https://dl.acm.org/profile/81492646025",
     "id": "81492646025"
   },
   "99659914952": {
     "name": "Sebastian  Eckl",
-    "venue": "Reutlingen University, Germany",
+    "venue": [
+      {
+        "id": "60025746",
+        "name": "Reutlingen University",
+        "url": "https://dl.acm.org/institution/60025746"
+      }
+    ],
     "url": "https://dl.acm.org/profile/99659914952",
     "id": "99659914952"
   },
   "99659915658": {
     "name": "Nick  Kerschagel",
-    "venue": "Reutlingen University, Germany",
+    "venue": [
+      {
+        "id": "60025746",
+        "name": "Reutlingen University",
+        "url": "https://dl.acm.org/institution/60025746"
+      }
+    ],
     "url": "https://dl.acm.org/profile/99659915658",
     "id": "99659915658"
   },
   "81466647554": {
     "name": "Uwe  Kloos",
-    "venue": "University of Stuttgart and University of Reutlingen, Stuttgart and Reutlingen, Germany",
+    "venue": [
+      {
+        "id": "60025746",
+        "name": "Reutlingen University",
+        "url": "https://dl.acm.org/institution/60025746"
+      },
+      {
+        "id": "60272259",
+        "name": "University of Applied Sciences of the Grisons",
+        "url": "https://dl.acm.org/institution/60272259"
+      },
+      {
+        "id": "60015815",
+        "name": "University of Stuttgart",
+        "url": "https://dl.acm.org/institution/60015815"
+      }
+    ],
     "url": "https://dl.acm.org/profile/81466647554",
     "id": "81466647554"
   },
   "99659915851": {
     "name": "Maitreya  Save",
-    "venue": "North Carolina State University, United States",
+    "venue": [
+      {
+        "id": "60004923",
+        "name": "NC State University",
+        "url": "https://dl.acm.org/institution/60004923"
+      }
+    ],
     "url": "https://dl.acm.org/profile/99659915851",
     "id": "99659915851"
   },
   "81100375996": {
     "name": "Benjamin Allen Watson",
-    "venue": "North Carolina State University, United States",
+    "venue": [
+      {
+        "id": "60004923",
+        "name": "NC State University",
+        "url": "https://dl.acm.org/institution/60004923"
+      },
+      {
+        "id": "60000251",
+        "name": "IEEE",
+        "url": "https://dl.acm.org/institution/60000251"
+      },
+      {
+        "id": "60007363",
+        "name": "Northwestern University",
+        "url": "https://dl.acm.org/institution/60007363"
+      },
+      {
+        "id": "60030835",
+        "name": "University of Alberta",
+        "url": "https://dl.acm.org/institution/60030835"
+      },
+      {
+        "id": "60019647",
+        "name": "Georgia Institute of Technology",
+        "url": "https://dl.acm.org/institution/60019647"
+      }
+    ],
     "url": "https://dl.acm.org/profile/81100375996",
     "id": "81100375996"
   },
   "99659915798": {
     "name": "Dong  Li",
-    "venue": "East China Normal University, China",
+    "venue": [
+      {
+        "id": "60021200",
+        "name": "East China Normal University",
+        "url": "https://dl.acm.org/institution/60021200"
+      }
+    ],
     "url": "https://dl.acm.org/profile/99659915798",
     "id": "99659915798"
   },
   "99659290545": {
     "name": "Hong  Yin",
-    "venue": "East China Normal University",
+    "venue": [
+      {
+        "id": "60021200",
+        "name": "East China Normal University",
+        "url": "https://dl.acm.org/institution/60021200"
+      }
+    ],
     "url": "https://dl.acm.org/profile/99659290545",
     "id": "99659290545"
   },
   "81100220966": {
     "name": "Changbo  Wang",
-    "venue": "School of Computer Science and Software Engineering, East China Normal, University Shanghai, P.R.China",
+    "venue": [
+      {
+        "id": "60021200",
+        "name": "East China Normal University",
+        "url": "https://dl.acm.org/institution/60021200"
+      },
+      {
+        "id": "60023813",
+        "name": "Shanghai University",
+        "url": "https://dl.acm.org/institution/60023813"
+      },
+      {
+        "id": "60117933",
+        "name": "State Key Lab of CAD&CG, Zhejiang University",
+        "url": "https://dl.acm.org/institution/60117933"
+      }
+    ],
     "url": "https://dl.acm.org/profile/81100220966",
     "id": "81100220966"
   },
   "99659915122": {
     "name": "Sicheng  Song",
-    "venue": "East China Normal University, China",
+    "venue": [
+      {
+        "id": "60021200",
+        "name": "East China Normal University",
+        "url": "https://dl.acm.org/institution/60021200"
+      }
+    ],
     "url": "https://dl.acm.org/profile/99659915122",
     "id": "99659915122"
   },
   "99659482820": {
     "name": "Kirlin  Li",
-    "venue": "East China Normal University, China",
+    "venue": [
+      {
+        "id": "60021200",
+        "name": "East China Normal University",
+        "url": "https://dl.acm.org/institution/60021200"
+      }
+    ],
     "url": "https://dl.acm.org/profile/99659482820",
     "id": "99659482820"
   },
   "99658761360": {
     "name": "Chenhui  Li",
-    "venue": "School of Computer Science and Software Engineering, East of China Normal University",
+    "venue": [
+      {
+        "id": "60021200",
+        "name": "East China Normal University",
+        "url": "https://dl.acm.org/institution/60021200"
+      },
+      {
+        "id": "60008928",
+        "name": "Hong Kong Polytechnic University",
+        "url": "https://dl.acm.org/institution/60008928"
+      }
+    ],
     "url": "https://dl.acm.org/profile/99658761360",
     "id": "99658761360"
   },
   "99659915850": {
     "name": "Qiaorui  Chen",
-    "venue": "Zhejiang University, China",
+    "venue": [
+      {
+        "id": "60117832",
+        "name": "School of Aeronautics and Astronautics, Zhejiang University",
+        "url": "https://dl.acm.org/institution/60117832"
+      },
+      {
+        "id": "60003970",
+        "name": "Zhejiang University",
+        "url": "https://dl.acm.org/institution/60003970"
+      }
+    ],
     "url": "https://dl.acm.org/profile/99659915850",
     "id": "99659915850"
   },
   "99659915914": {
     "name": "Shuai  Zhang",
-    "venue": "Zhejiang University, China",
+    "venue": [
+      {
+        "id": "60117832",
+        "name": "School of Aeronautics and Astronautics, Zhejiang University",
+        "url": "https://dl.acm.org/institution/60117832"
+      },
+      {
+        "id": "60003970",
+        "name": "Zhejiang University",
+        "url": "https://dl.acm.org/institution/60003970"
+      }
+    ],
     "url": "https://dl.acm.org/profile/99659915914",
     "id": "99659915914"
   },
   "81452604154": {
     "name": "Yao  Zheng",
-    "venue": "Zhejiang University, China",
+    "venue": [
+      {
+        "id": "60003970",
+        "name": "Zhejiang University",
+        "url": "https://dl.acm.org/institution/60003970"
+      },
+      {
+        "id": "60117832",
+        "name": "School of Aeronautics and Astronautics, Zhejiang University",
+        "url": "https://dl.acm.org/institution/60117832"
+      },
+      {
+        "id": "60118080",
+        "name": "School of Computer and Computing Science",
+        "url": "https://dl.acm.org/institution/60118080"
+      }
+    ],
     "url": "https://dl.acm.org/profile/81452604154",
     "id": "81452604154"
   },
   "99659916273": {
     "name": "Marco  Schmid",
-    "venue": "University of Applied Sciences, Switzerland",
+    "venue": [],
     "url": "https://dl.acm.org/profile/99659916273",
     "id": "99659916273"
   },
   "99659915055": {
     "name": "Rahel  Haymoz",
-    "venue": "University of Applied Sciences, Switzerland",
+    "venue": [
+      {
+        "id": "60101868",
+        "name": "University of Applied Sciences Western Switzerland",
+        "url": "https://dl.acm.org/institution/60101868"
+      }
+    ],
     "url": "https://dl.acm.org/profile/99659915055",
     "id": "99659915055"
-  },
-  "99659916017": {
-    "name": "David  Schiller",
-    "venue": "University of Applied Sciences, Switzerland",
-    "url": "https://dl.acm.org/profile/99659916017",
-    "id": "99659916017"
-  },
-  "99659638986": {
-    "name": "Carolin  Fiedler",
-    "venue": "University of Potsdam, Germany",
-    "url": "https://dl.acm.org/profile/99659638986",
-    "id": "99659638986"
-  },
-  "81375606710": {
-    "name": "Matthias  Trapp",
-    "venue": "Hasso Plattner Institute, University of Potsdam, Potsdam, Germany",
-    "url": "https://dl.acm.org/profile/81375606710",
-    "id": "81375606710"
-  },
-  "99659653162": {
-    "name": "Nico  Klaassen",
-    "venue": "Eindhoven University of Technology, Eindhoven, The Netherlands",
-    "url": "https://dl.acm.org/profile/99659653162",
-    "id": "99659653162"
-  },
-  "99659483556": {
-    "name": "Haoran  Dai",
-    "venue": "State Key Lab of CAD&CG, Zhejiang University, Hangzhou, China",
-    "url": "https://dl.acm.org/profile/99659483556",
-    "id": "99659483556"
-  },
-  "81421599679": {
-    "name": "Yubo  Tao",
-    "venue": "State Key Lab of CAD&CG, Zhejiang University, Hangzhou, China",
-    "url": "https://dl.acm.org/profile/81421599679",
-    "id": "81421599679"
-  },
-  "81408600175": {
-    "name": "Hai  Lin",
-    "venue": "State Key Lab of CAD&CG, Zhejiang University, Hangzhou, China",
-    "url": "https://dl.acm.org/profile/81408600175",
-    "id": "81408600175"
-  },
-  "99659483577": {
-    "name": "Hao  Tang",
-    "venue": "School of Computer Science and Technology, Hangzhou Dianzi University, Hangzhou, Zhejiang, China",
-    "url": "https://dl.acm.org/profile/99659483577",
-    "id": "99659483577"
-  },
-  "99659482760": {
-    "name": "Sixiang  Fei",
-    "venue": "School of Computer Science and Technology, Hangzhou Dianzi University, Hangzhou, Zhejiang, China",
-    "url": "https://dl.acm.org/profile/99659482760",
-    "id": "99659482760"
-  },
-  "99659482636": {
-    "name": "Xiaoying  Shi",
-    "venue": "School of Computer Science and Technology, Hangzhou Dianzi University, Hangzhou, Zhejiang, China",
-    "url": "https://dl.acm.org/profile/99659482636",
-    "id": "99659482636"
-  },
-  "99658765084": {
-    "name": "Hanbyul  Yeon",
-    "venue": "Sejong University",
-    "url": "https://dl.acm.org/profile/99658765084",
-    "id": "99658765084"
-  },
-  "99659482864": {
-    "name": "Mingyu  Pi",
-    "venue": "Sejong University, Seoul, S.Korea",
-    "url": "https://dl.acm.org/profile/99659482864",
-    "id": "99659482864"
-  },
-  "99659483077": {
-    "name": "Hyesook  Son",
-    "venue": "Sejong University, Seoul, S.Korea",
-    "url": "https://dl.acm.org/profile/99659483077",
-    "id": "99659483077"
-  },
-  "81372592812": {
-    "name": "Yun  Jang",
-    "venue": "Sejong University",
-    "url": "https://dl.acm.org/profile/81372592812",
-    "id": "81372592812"
-  },
-  "99659291193": {
-    "name": "Rohan  Goel",
-    "venue": "BITS Pilani, Department of Computer Science, Goa, India",
-    "url": "https://dl.acm.org/profile/99659291193",
-    "id": "99659291193"
-  },
-  "99659290090": {
-    "name": "Samiha  Fadloun",
-    "venue": "LIRMM, Université de Montpellier, CNRS, Montpellier, France",
-    "url": "https://dl.acm.org/profile/99659290090",
-    "id": "99659290090"
-  },
-  "99659290844": {
-    "name": "Sarah  Valentin",
-    "venue": "CIRAD, ASTRE, TETIS, Université de Montpellier, Montpellier, France",
-    "url": "https://dl.acm.org/profile/99659290844",
-    "id": "99659290844"
-  },
-  "81375620314": {
-    "name": "Arnaud  Sallaberry",
-    "venue": "LIRMM, Université Paul-Valéry Montpellier 3, Université de Montpellier, CNRS, Montpellier, France",
-    "url": "https://dl.acm.org/profile/81375620314",
-    "id": "81375620314"
-  },
-  "81384592979": {
-    "name": "Mathieu Roche",
-    "venue": "TETIS, AgroParisTech, CIRAD, CNRS, Irstea, Université de Montpellier, Montpellier, France",
-    "url": "https://dl.acm.org/profile/81384592979",
-    "id": "81384592979"
-  },
-  "81100236660": {
-    "name": "Pascal  Poncelet",
-    "venue": "LIRMM, Université de Montpellier, CNRS, Montpellier, France",
-    "url": "https://dl.acm.org/profile/81100236660",
-    "id": "81100236660"
-  },
-  "99659291871": {
-    "name": "Humphrey O Obie",
-    "venue": "Swinburne University of Technology, Melbourne, Australia",
-    "url": "https://dl.acm.org/profile/99659291871",
-    "id": "99659291871"
-  },
-  "81490649118": {
-    "name": "Caslon  Chua",
-    "venue": "Swinburne University of Technology, Melbourne, Australia",
-    "url": "https://dl.acm.org/profile/81490649118",
-    "id": "81490649118"
-  },
-  "81440623086": {
-    "name": "Iman Avazpour",
-    "venue": "Deakin University, Geelong, Australia",
-    "url": "https://dl.acm.org/profile/81440623086",
-    "id": "81440623086"
-  },
-  "99659003381": {
-    "name": "Mohamed Almorsy Abdelrazek",
-    "venue": "Deakin University, Geelong, Australia",
-    "url": "https://dl.acm.org/profile/99659003381",
-    "id": "99659003381"
-  },
-  "81100261843": {
-    "name": "John C. Grundy",
-    "venue": "Monash University, Melbourne, Australia",
-    "url": "https://dl.acm.org/profile/81100261843",
-    "id": "81100261843"
-  },
-  "99659289556": {
-    "name": "Yaru  Du",
-    "venue": "School of Computer Science and Software Engineering, East of China Normal University",
-    "url": "https://dl.acm.org/profile/99659289556",
-    "id": "99659289556"
-  },
-  "99659493271": {
-    "name": "Liang  Zhou",
-    "venue": "VISUS, University of Stuttgart, Stuttgart, Germany",
-    "url": "https://dl.acm.org/profile/99659493271",
-    "id": "99659493271"
-  },
-  "81490688158": {
-    "name": "Hansjörg  Schmauder",
-    "venue": "University of Stuttgart, Stuttgart",
-    "url": "https://dl.acm.org/profile/81490688158",
-    "id": "81490688158"
-  },
-  "99659256604": {
-    "name": "Xiaoyu  Wang",
-    "venue": "Department of Computer Science, The University of Texas at Dallas, Richardson, TX, USA",
-    "url": "https://dl.acm.org/profile/99659256604",
-    "id": "99659256604"
-  },
-  "99659194249": {
-    "name": "Yufeng  Liu",
-    "venue": "Hohai University, Nanjing, China",
-    "url": "https://dl.acm.org/profile/99659194249",
-    "id": "99659194249"
-  },
-  "99658620368": {
-    "name": "Jie  Li",
-    "venue": "Tianjin University, Tianjin, PR China",
-    "url": "https://dl.acm.org/profile/99658620368",
-    "id": "99658620368"
-  },
-  "81350576955": {
-    "name": "K. Zhang",
-    "venue": "Department of Computer Science, The University of Texas at Dallas, Richardson, TX, USA",
-    "url": "https://dl.acm.org/profile/81350576955",
-    "id": "81350576955"
-  },
-  "99659291201": {
-    "name": "Daniil  Rodin",
-    "venue": "Technion, Haifa, Israel",
-    "url": "https://dl.acm.org/profile/99659291201",
-    "id": "99659291201"
-  },
-  "81100400502": {
-    "name": "Gershon  Elber",
-    "venue": "Technion, nana, Israel",
-    "url": "https://dl.acm.org/profile/81100400502",
-    "id": "81100400502"
-  },
-  "99659292007": {
-    "name": "Mehmood  Ghaffar",
-    "venue": "IPK Gatersleben/Bielefeld University, Seeland/Bielefeld, ST/NRW, Germany",
-    "url": "https://dl.acm.org/profile/99659292007",
-    "id": "99659292007"
-  },
-  "99659292087": {
-    "name": "Niklas  Biere",
-    "venue": "Bielefeld University, Bielefeld, NRW, Germany",
-    "url": "https://dl.acm.org/profile/99659292087",
-    "id": "99659292087"
-  },
-  "99659290368": {
-    "name": "Daniel  Jäger",
-    "venue": "Bielefeld University, Bielefeld, NRW, Germany",
-    "url": "https://dl.acm.org/profile/99659290368",
-    "id": "99659290368"
-  },
-  "81100141840": {
-    "name": "Karsten  Klein",
-    "venue": "University of Konstanz, Konstanz, BW, Germany",
-    "url": "https://dl.acm.org/profile/81100141840",
-    "id": "81100141840"
-  },
-  "81100087062": {
-    "name": "Falk  Schreiber",
-    "venue": "University of Konstanz, Konstanz, BW, Germany",
-    "url": "https://dl.acm.org/profile/81100087062",
-    "id": "81100087062"
-  },
-  "99659291490": {
-    "name": "Olaf  Kruse",
-    "venue": "Bielefeld University, Bielefeld, NRW, Germany",
-    "url": "https://dl.acm.org/profile/99659291490",
-    "id": "99659291490"
-  },
-  "99658771476": {
-    "name": "Björn  Sommer",
-    "venue": "University of Konstanz, Konstanz, BW, Germany",
-    "url": "https://dl.acm.org/profile/99658771476",
-    "id": "99658771476"
-  },
-  "99659289305": {
-    "name": "Luca  Marzialetti",
-    "venue": "Roma Tre University, Rome, Italy",
-    "url": "https://dl.acm.org/profile/99659289305",
-    "id": "99659289305"
-  },
-  "99659290958": {
-    "name": "Massimo  Candela",
-    "venue": "RIPE NCC, Amsterdam, Netherlands",
-    "url": "https://dl.acm.org/profile/99659290958",
-    "id": "99659290958"
-  },
-  "81100464555": {
-    "name": "Giuseppe  Di Battista",
-    "venue": "Roma Tre University, Rome, Italy",
-    "url": "https://dl.acm.org/profile/81100464555",
-    "id": "81100464555"
-  },
-  "99659291294": {
-    "name": "Gerald  Baulig",
-    "venue": "University of Reutlingen",
-    "url": "https://dl.acm.org/profile/99659291294",
-    "id": "99659291294"
-  },
-  "99659292088": {
-    "name": "Tobias  Boley",
-    "venue": "University of Reutlingen",
-    "url": "https://dl.acm.org/profile/99659292088",
-    "id": "99659292088"
-  },
-  "99659290889": {
-    "name": "Arjana  Mehmeti",
-    "venue": "University of Reutlingen",
-    "url": "https://dl.acm.org/profile/99659290889",
-    "id": "99659290889"
-  },
-  "99659291964": {
-    "name": "Dina  Kurbanismailova",
-    "venue": "University of Reutlingen",
-    "url": "https://dl.acm.org/profile/99659291964",
-    "id": "99659291964"
-  },
-  "99659291329": {
-    "name": "Marc  Roswag",
-    "venue": "University of Reutlingen",
-    "url": "https://dl.acm.org/profile/99659291329",
-    "id": "99659291329"
-  },
-  "99659292148": {
-    "name": "Oliver  Streicher",
-    "venue": "University of Reutlingen",
-    "url": "https://dl.acm.org/profile/99659292148",
-    "id": "99659292148"
-  },
-  "99659289339": {
-    "name": "Steffen  Wittig",
-    "venue": "University of Reutlingen",
-    "url": "https://dl.acm.org/profile/99659289339",
-    "id": "99659289339"
-  },
-  "99658638708": {
-    "name": "Nico  Reski",
-    "venue": "VRxAR Labs, Department of Computer Science and Media Technology, Linnaeus University, Växjö, Sweden",
-    "url": "https://dl.acm.org/profile/99658638708",
-    "id": "99658638708"
-  },
-  "81310502395": {
-    "name": "Aris  Alissandrakis",
-    "venue": "VRxAR Labs, Department of Computer Science and Media Technology, Linnaeus University, Växjö, Sweden",
-    "url": "https://dl.acm.org/profile/81310502395",
-    "id": "81310502395"
-  },
-  "81486656627": {
-    "name": "Kostiantyn Kucher",
-    "venue": "Department of Computer Science and Media Technology, Linnaeus University, Växjö, Sweden",
-    "url": "https://dl.acm.org/profile/81486656627",
-    "id": "81486656627"
-  },
-  "99659192192": {
-    "name": "Rafael Messias Martins",
-    "venue": "Department of Computer Science and Media Technology, Linnaeus University, Växjö, Sweden",
-    "url": "https://dl.acm.org/profile/99659192192",
-    "id": "99659192192"
-  },
-  "81100367883": {
-    "name": "Andreas Kerren",
-    "venue": "Department of Computer Science and Media Technology, Linnaeus University, Växjö, Sweden",
-    "url": "https://dl.acm.org/profile/81100367883",
-    "id": "81100367883"
-  },
-  "81470654834": {
-    "name": "Maria  Skeppstedt",
-    "venue": "Department of Computer Science and Media Technology, Linnaeus University, Växjö, Sweden Applied Computational Linguistics, University of Potsdam, Potsdam, Germany",
-    "url": "https://dl.acm.org/profile/81470654834",
-    "id": "81470654834"
-  },
-  "99659291514": {
-    "name": "Alisa  Lincke",
-    "venue": "Linnaeus University, Sweden",
-    "url": "https://dl.acm.org/profile/99659291514",
-    "id": "99659291514"
-  },
-  "81100336369": {
-    "name": "Jenny  Lundberg",
-    "venue": "Linnaeus University, Sweden",
-    "url": "https://dl.acm.org/profile/81100336369",
-    "id": "81100336369"
-  },
-  "99659289733": {
-    "name": "Maria  Thunander",
-    "venue": "Lund University, Sweden",
-    "url": "https://dl.acm.org/profile/99659289733",
-    "id": "99659289733"
-  },
-  "81100334854": {
-    "name": "Marcelo  Milrad",
-    "venue": "Linnaeus University, Sweden",
-    "url": "https://dl.acm.org/profile/81100334854",
-    "id": "81100334854"
-  },
-  "81339515283": {
-    "name": "Jonas  Lundberg",
-    "venue": "Linnaeus University, Sweden",
-    "url": "https://dl.acm.org/profile/81339515283",
-    "id": "81339515283"
-  },
-  "81501663475": {
-    "name": "Daniel Toll",
-    "venue": "Department of Computer Science and Media Technology, Linnaeus University, Kalmar, Sweden",
-    "url": "https://dl.acm.org/profile/81501663475",
-    "id": "81501663475"
-  },
-  "81442618410": {
-    "name": "Anna  Wingkvist",
-    "venue": "Department of Computer Science and Media Technology, Linnaeus University, Växjö, Sweden",
-    "url": "https://dl.acm.org/profile/81442618410",
-    "id": "81442618410"
-  },
-  "99659292129": {
-    "name": "Tomohiro  Kawanabe",
-    "venue": "RIKEN Center for Computational Science, Kobe, Japan",
-    "url": "https://dl.acm.org/profile/99659292129",
-    "id": "99659292129"
-  },
-  "81100125090": {
-    "name": "Jorji  Nonaka",
-    "venue": "RIKEN Center for Computational Science, Kobe, Japan",
-    "url": "https://dl.acm.org/profile/81100125090",
-    "id": "81100125090"
-  },
-  "81100261727": {
-    "name": "Kenji  Ono",
-    "venue": "Research Institute for Information Technology, Kyushu University, Fukuoka, Japan",
-    "url": "https://dl.acm.org/profile/81100261727",
-    "id": "81100261727"
-  },
-  "99659291920": {
-    "name": "Tu  Xing",
-    "venue": "School of Art & Design, Shenzhen University, Guangdong, China",
-    "url": "https://dl.acm.org/profile/99659291920",
-    "id": "99659291920"
-  },
-  "99659290153": {
-    "name": "Anna Sara Fagerholm",
-    "venue": "Department of Design, Mid Sweden University, Sweden",
-    "url": "https://dl.acm.org/profile/99659290153",
-    "id": "99659290153"
-  },
-  "81496672621": {
-    "name": "Mattias  Andersson",
-    "venue": "Department of Design, Mid Sweden University, Sweden",
-    "url": "https://dl.acm.org/profile/81496672621",
-    "id": "81496672621"
-  },
-  "81482662429": {
-    "name": "Björn  Zimmer",
-    "venue": "University of Applied Sciences, Hagenberg, Upper Austria",
-    "url": "https://dl.acm.org/profile/81482662429",
-    "id": "81482662429"
-  },
-  "99659185142": {
-    "name": "Jan  Zenisek",
-    "venue": "University of Applied Sciences, Hagenberg, Upper Austria",
-    "url": "https://dl.acm.org/profile/99659185142",
-    "id": "99659185142"
-  },
-  "81361609796": {
-    "name": "Hans-Christian Jetter",
-    "venue": "University of Applied Sciences, Hagenberg, Upper Austria",
-    "url": "https://dl.acm.org/profile/81361609796",
-    "id": "81361609796"
-  },
-  "99658768907": {
-    "name": "Hyunwoo  Han",
-    "venue": "Lifemedia Interdisciplinary Program, Ajou University, Suwon, South Korea",
-    "url": "https://dl.acm.org/profile/99658768907",
-    "id": "99658768907"
-  },
-  "99659290729": {
-    "name": "Taerin  Yoon",
-    "venue": "Lifemedia Interdisciplinary Program, Ajou University, Suwon, South Korea",
-    "url": "https://dl.acm.org/profile/99659290729",
-    "id": "99659290729"
-  },
-  "99659288906": {
-    "name": "Hyeonsik  Gong",
-    "venue": "Department of Digital Media, Ajou University, Suwon, South Korea",
-    "url": "https://dl.acm.org/profile/99659288906",
-    "id": "99659288906"
-  },
-  "81458652821": {
-    "name": "Kyungwon  Lee",
-    "venue": "Ajou University, Korea",
-    "url": "https://dl.acm.org/profile/81458652821",
-    "id": "81458652821"
-  },
-  "99659194221": {
-    "name": "Zana  Vosough",
-    "venue": "SAP SE, Dresden Germany",
-    "url": "https://dl.acm.org/profile/99659194221",
-    "id": "99659194221"
-  },
-  "81479656070": {
-    "name": "Dietrich Kammer",
-    "venue": "Technische Universität Dresden, Dresden, Germany",
-    "url": "https://dl.acm.org/profile/81479656070",
-    "id": "81479656070"
-  },
-  "81479645196": {
-    "name": "Mandy  Keck",
-    "venue": "Technische Universität Dresden, Dresden, Germany",
-    "url": "https://dl.acm.org/profile/81479645196",
-    "id": "81479645196"
-  },
-  "81372593345": {
-    "name": "Rainer  Groh",
-    "venue": "Technische Universität Dresden, Dresden, Germany",
-    "url": "https://dl.acm.org/profile/81372593345",
-    "id": "81372593345"
-  },
-  "81549260756": {
-    "name": "Fangfang  Zhou",
-    "venue": "Central South University",
-    "url": "https://dl.acm.org/profile/81549260756",
-    "id": "81549260756"
-  },
-  "99659194235": {
-    "name": "Minghui  Chen",
-    "venue": "Central South University, China",
-    "url": "https://dl.acm.org/profile/99659194235",
-    "id": "99659194235"
-  },
-  "99659194186": {
-    "name": "Zeyu  Wang",
-    "venue": "Central South University, China",
-    "url": "https://dl.acm.org/profile/99659194186",
-    "id": "99659194186"
-  },
-  "99659194127": {
-    "name": "Feng  Luo",
-    "venue": "Central South University, China",
-    "url": "https://dl.acm.org/profile/99659194127",
-    "id": "99659194127"
-  },
-  "99659194176": {
-    "name": "Xiaobo  Luo",
-    "venue": "Central South University, China",
-    "url": "https://dl.acm.org/profile/99659194176",
-    "id": "99659194176"
-  },
-  "99659194273": {
-    "name": "Wei  Huang",
-    "venue": "Enterprise Security Group, China",
-    "url": "https://dl.acm.org/profile/99659194273",
-    "id": "99659194273"
-  },
-  "81490680300": {
-    "name": "Yi  Chen",
-    "venue": "Beijing Technology and Business University, China",
-    "url": "https://dl.acm.org/profile/81490680300",
-    "id": "81490680300"
-  },
-  "81549278756": {
-    "name": "Ying  Zhao",
-    "venue": "Central South University",
-    "url": "https://dl.acm.org/profile/81549278756",
-    "id": "81549278756"
-  },
-  "99659194214": {
-    "name": "Yang  Zou",
-    "venue": "Hohai University, Nanjing, China",
-    "url": "https://dl.acm.org/profile/99659194214",
-    "id": "99659194214"
-  },
-  "81319505316": {
-    "name": "Xiaoqin  Zeng",
-    "venue": "Hohai University, Nanjing, China",
-    "url": "https://dl.acm.org/profile/81319505316",
-    "id": "81319505316"
-  },
-  "81548020271": {
-    "name": "Huiyi  Liu",
-    "venue": "Hohai University, Nanjing, China",
-    "url": "https://dl.acm.org/profile/81548020271",
-    "id": "81548020271"
-  },
-  "81549102456": {
-    "name": "Yuhua  Liu",
-    "venue": "School of Computer Science and Software Engineering, East China Normal, University Shanghai, P.R.China",
-    "url": "https://dl.acm.org/profile/81549102456",
-    "id": "81549102456"
-  },
-  "99659194118": {
-    "name": "Hanfei Lin",
-    "venue": "East China Normal University, Shanghai, P.R.China",
-    "url": "https://dl.acm.org/profile/99659194118",
-    "id": "99659194118"
-  },
-  "99659194271": {
-    "name": "Yitao  Liang",
-    "venue": "East China Normal University, Shanghai, P.R.China",
-    "url": "https://dl.acm.org/profile/99659194271",
-    "id": "99659194271"
-  },
-  "99658989829": {
-    "name": "Sangbong  Yoo",
-    "venue": "Sejong University",
-    "url": "https://dl.acm.org/profile/99658989829",
-    "id": "99658989829"
-  },
-  "99658730770": {
-    "name": "Hongryeol  Ryu",
-    "venue": "Yonsei University",
-    "url": "https://dl.acm.org/profile/99658730770",
-    "id": "99658730770"
-  },
-  "81451594353": {
-    "name": "Taekyoung ‘Taekyoung’ Kwon",
-    "venue": "Yonsei University",
-    "url": "https://dl.acm.org/profile/81451594353",
-    "id": "81451594353"
-  },
-  "99659194260": {
-    "name": "Nils  Rodrigues",
-    "venue": "University of Stuttgart",
-    "url": "https://dl.acm.org/profile/99659194260",
-    "id": "99659194260"
-  },
-  "81558361656": {
-    "name": "Rudolf  Netzel",
-    "venue": "University of Stuttgart",
-    "url": "https://dl.acm.org/profile/81558361656",
-    "id": "81558361656"
-  },
-  "99659194145": {
-    "name": "Kazi Riaz Ullah",
-    "venue": "University of Stuttgart",
-    "url": "https://dl.acm.org/profile/99659194145",
-    "id": "99659194145"
-  },
-  "99659194188": {
-    "name": "Alexander  Schultz",
-    "venue": "Fraunhofer Institute for Solar Energy Systems ISE",
-    "url": "https://dl.acm.org/profile/99659194188",
-    "id": "99659194188"
-  },
-  "81440598602": {
-    "name": "Bruno  Burger",
-    "venue": "Fraunhofer Institute for Solar Energy Systems ISE",
-    "url": "https://dl.acm.org/profile/81440598602",
-    "id": "81440598602"
-  },
-  "81548014780": {
-    "name": "Daniel  Weiskopf",
-    "venue": "University of Stuttgart",
-    "url": "https://dl.acm.org/profile/81548014780",
-    "id": "81548014780"
-  },
-  "81500651305": {
-    "name": "Kumaripaba  Athukorala",
-    "venue": "Aalto University",
-    "url": "https://dl.acm.org/profile/81500651305",
-    "id": "81500651305"
-  },
-  "83058808757": {
-    "name": "Chao  An",
-    "venue": "University of Helsinki, Finland",
-    "url": "https://dl.acm.org/profile/83058808757",
-    "id": "83058808757"
-  },
-  "84459914957": {
-    "name": "Aki  Reijonen",
-    "venue": "University of Helsinki, Finland",
-    "url": "https://dl.acm.org/profile/84459914957",
-    "id": "84459914957"
-  },
-  "81100125974": {
-    "name": "Jaakko  Peltonen",
-    "venue": "Aalto University",
-    "url": "https://dl.acm.org/profile/81100125974",
-    "id": "81100125974"
-  },
-  "99659194168": {
-    "name": "Christian  Bors",
-    "venue": "Vienna University of Technology (TU Wien), Vienna, Austria",
-    "url": "https://dl.acm.org/profile/99659194168",
-    "id": "99659194168"
-  },
-  "81474695092": {
-    "name": "Markus  Bögl",
-    "venue": "Vienna University of Technology (TU Wien), Vienna, Austria",
-    "url": "https://dl.acm.org/profile/81474695092",
-    "id": "81474695092"
-  },
-  "81375620061": {
-    "name": "Theresia Gschwandtner",
-    "venue": "Vienna University of Technology (TU Wien), Vienna, Austria",
-    "url": "https://dl.acm.org/profile/81375620061",
-    "id": "81375620061"
-  },
-  "81100255622": {
-    "name": "Silvia  Miksch",
-    "venue": "Vienna University of Technology (TU Wien), Vienna, Austria",
-    "url": "https://dl.acm.org/profile/81100255622",
-    "id": "81100255622"
-  },
-  "81100517120": {
-    "name": "Kazuo Misue",
-    "venue": "University of Tsukuba, Ibaraki",
-    "url": "https://dl.acm.org/profile/81100517120",
-    "id": "81100517120"
-  },
-  "99659194175": {
-    "name": "Kosuke  Otake",
-    "venue": "University of Tsukuba, Ibaraki",
-    "url": "https://dl.acm.org/profile/99659194175",
-    "id": "99659194175"
-  },
-  "99659194114": {
-    "name": "Takahiro  Saito",
-    "venue": "Fujitsu Laboratories Ltd., Kawasaki, Kanagawa",
-    "url": "https://dl.acm.org/profile/99659194114",
-    "id": "99659194114"
-  },
-  "99659820717": {
-    "name": "Jieliang  Luo",
-    "venue": "University of California",
-    "url": "https://dl.acm.org/profile/99659820717",
-    "id": "99659820717"
-  },
-  "84460132057": {
-    "name": "Donghao  Ren",
-    "venue": "University of California",
-    "url": "https://dl.acm.org/profile/84460132057",
-    "id": "84460132057"
-  },
-  "81320492170": {
-    "name": "George  Legrady",
-    "venue": "University of California",
-    "url": "https://dl.acm.org/profile/81320492170",
-    "id": "81320492170"
-  },
-  "99659194233": {
-    "name": "Congmin  Li",
-    "venue": "Tianjin University, Tianjin, China",
-    "url": "https://dl.acm.org/profile/99659194233",
-    "id": "99659194233"
-  },
-  "99659194283": {
-    "name": "Boyi  Li",
-    "venue": "University of Toronto, Toronto, Ontario, Canada",
-    "url": "https://dl.acm.org/profile/99659194283",
-    "id": "99659194283"
-  },
-  "99659194157": {
-    "name": "Amontep  Wijitcharoen",
-    "venue": "King Mongkut's University of Technology Thonburi, Bangkok, Thailand",
-    "url": "https://dl.acm.org/profile/99659194157",
-    "id": "99659194157"
-  },
-  "81413599918": {
-    "name": "Jonathan Hoyin Chan",
-    "venue": "King Mongkut's University of Technology Thonburi, Thailand",
-    "url": "https://dl.acm.org/profile/81413599918",
-    "id": "81413599918"
-  },
-  "81339499259": {
-    "name": "Simon James Fong",
-    "venue": "University of Macau, Taipa, Macau SAR",
-    "url": "https://dl.acm.org/profile/81339499259",
-    "id": "81339499259"
-  },
-  "81100203521": {
-    "name": "Robert P. Biuk-Aghai",
-    "venue": "Department of Computer and Information Science, Faculty of Science and Technology, University of Macau, Avenida da Universidade, Taipa, Macau SAR",
-    "url": "https://dl.acm.org/profile/81100203521",
-    "id": "81100203521"
-  },
-  "99659194248": {
-    "name": "Scarlet  Tin",
-    "venue": "University of Macau, Taipa, Macau SAR",
-    "url": "https://dl.acm.org/profile/99659194248",
-    "id": "99659194248"
-  },
-  "99659194158": {
-    "name": "Yihang  Bo",
-    "venue": "Beijing Film Academy, Beijing, China",
-    "url": "https://dl.acm.org/profile/99659194158",
-    "id": "99659194158"
-  },
-  "99659194162": {
-    "name": "Yi  Yang",
-    "venue": "Chinese Academy of Sciences, Beijing, China",
-    "url": "https://dl.acm.org/profile/99659194162",
-    "id": "99659194162"
-  },
-  "99659194208": {
-    "name": "Xianglei  Zhu",
-    "venue": "China Automotive Technology and Research Center, PR China",
-    "url": "https://dl.acm.org/profile/99659194208",
-    "id": "99659194208"
-  },
-  "99659194272": {
-    "name": "Shuai  Zhao",
-    "venue": "China Automotive Technology and Research Center, PR China",
-    "url": "https://dl.acm.org/profile/99659194272",
-    "id": "99659194272"
-  },
-  "99659194136": {
-    "name": "Quan  Wen",
-    "venue": "China Automotive Technology and Research Center, PR China",
-    "url": "https://dl.acm.org/profile/99659194136",
-    "id": "99659194136"
-  },
-  "84459002557": {
-    "name": "Wenjun  Guo",
-    "venue": "Ajou University, Korea",
-    "url": "https://dl.acm.org/profile/84459002557",
-    "id": "84459002557"
-  },
-  "99659194257": {
-    "name": "Seungwook  Kim",
-    "venue": "Seoul National University, Korea",
-    "url": "https://dl.acm.org/profile/99659194257",
-    "id": "99659194257"
-  },
-  "99659178205": {
-    "name": "Sangjoon  Son",
-    "venue": "Ajou University, Korea",
-    "url": "https://dl.acm.org/profile/99659178205",
-    "id": "99659178205"
-  },
-  "99659178107": {
-    "name": "Changhyung  Hong",
-    "venue": "Ajou University, Korea",
-    "url": "https://dl.acm.org/profile/99659178107",
-    "id": "99659178107"
-  },
-  "81100157592": {
-    "name": "Hyunjung (Helen) Shin",
-    "venue": "Ajou University, Korea",
-    "url": "https://dl.acm.org/profile/81100157592",
-    "id": "81100157592"
-  },
-  "99659127931": {
-    "name": "Thanyathorn Thanapattheerakul",
-    "venue": "King Mongkut's University of Technology Thonburi, Bangkok, Thailand",
-    "url": "https://dl.acm.org/profile/99659127931",
-    "id": "99659127931"
-  },
-  "99659128019": {
-    "name": "Jaturong  Kongmanee",
-    "venue": "Agoda Services Co., Ltd., Bangkok, Thailand",
-    "url": "https://dl.acm.org/profile/99659128019",
-    "id": "99659128019"
-  },
-  "99659194254": {
-    "name": "Saila  Shama",
-    "venue": "University of Toronto, Toronto, Canada",
-    "url": "https://dl.acm.org/profile/99659194254",
-    "id": "99659194254"
-  },
-  "99659194245": {
-    "name": "Philip  Lu",
-    "venue": "University of Toronto, Toronto, Canada",
-    "url": "https://dl.acm.org/profile/99659194245",
-    "id": "99659194245"
-  },
-  "99659194291": {
-    "name": "Narumol  Doungpan",
-    "venue": "KMUTT, Bangkok, Thailand",
-    "url": "https://dl.acm.org/profile/99659194291",
-    "id": "99659194291"
-  },
-  "81384616279": {
-    "name": "Asawin  Meechai",
-    "venue": "KMUTT, Bangkok, Thailand",
-    "url": "https://dl.acm.org/profile/81384616279",
-    "id": "81384616279"
-  },
-  "99659097484": {
-    "name": "Jiafan  Li",
-    "venue": "East China Normal University, Shanghai, P.R. China",
-    "url": "https://dl.acm.org/profile/99659097484",
-    "id": "99659097484"
-  },
-  "99659194115": {
-    "name": "Zhijie  Qiao",
-    "venue": "East China Normal University, Shanghai, P.R. China",
-    "url": "https://dl.acm.org/profile/99659194115",
-    "id": "99659194115"
-  },
-  "99659194278": {
-    "name": "Junjie  Wang",
-    "venue": "East China Normal University, Shanghai, P.R. China",
-    "url": "https://dl.acm.org/profile/99659194278",
-    "id": "99659194278"
-  },
-  "99659154692": {
-    "name": "Wutthipong  Kongburan",
-    "venue": "King Mongkut's University of Technology Thonburi, Thailand",
-    "url": "https://dl.acm.org/profile/99659154692",
-    "id": "99659154692"
-  },
-  "81442613236": {
-    "name": "Praisan  Padungweang",
-    "venue": "King Mongkut's University of Technology Thonburi, Thailand",
-    "url": "https://dl.acm.org/profile/81442613236",
-    "id": "81442613236"
-  },
-  "81550167556": {
-    "name": "Worarat  Krathu",
-    "venue": "King Mongkut's University of Technology Thonburi, Thailand",
-    "url": "https://dl.acm.org/profile/81550167556",
-    "id": "81550167556"
-  },
-  "83058634857": {
-    "name": "Luca  Chech",
-    "venue": "Universitá di Padova, Italy",
-    "url": "https://dl.acm.org/profile/83058634857",
-    "id": "83058634857"
-  },
-  "99659194161": {
-    "name": "Marta  Vasilieva",
-    "venue": "University of Helsinki",
-    "url": "https://dl.acm.org/profile/99659194161",
-    "id": "99659194161"
-  },
-  "99659194174": {
-    "name": "Lorenzo  Papa",
-    "venue": "Universitá di Padova, Italy",
-    "url": "https://dl.acm.org/profile/99659194174",
-    "id": "99659194174"
-  },
-  "81100210885": {
-    "name": "Luciano  Gamberini",
-    "venue": "Universitá di Padova, Italy",
-    "url": "https://dl.acm.org/profile/81100210885",
-    "id": "81100210885"
-  },
-  "99659185901": {
-    "name": "Jiajing  Zhang",
-    "venue": "Zhejiang University, Hangzhou, China",
-    "url": "https://dl.acm.org/profile/99659185901",
-    "id": "99659185901"
-  },
-  "81466642306": {
-    "name": "Ren  Peng",
-    "venue": "Zhejiang University, Hangzhou, China",
-    "url": "https://dl.acm.org/profile/81466642306",
-    "id": "81466642306"
-  },
-  "81381602769": {
-    "name": "Jinhui  Yu",
-    "venue": "Zhejiang University, Hangzhou, China",
-    "url": "https://dl.acm.org/profile/81381602769",
-    "id": "81381602769"
-  },
-  "99659194267": {
-    "name": "Denise  Junger",
-    "venue": "University of Stuttgart and University of Reutlingen, Stuttgart and Reutlingen, Germany",
-    "url": "https://dl.acm.org/profile/99659194267",
-    "id": "99659194267"
-  },
-  "99659194244": {
-    "name": "Isabel  Hagen",
-    "venue": "University of Stuttgart and University of Reutlingen, Stuttgart and Reutlingen, Germany",
-    "url": "https://dl.acm.org/profile/99659194244",
-    "id": "99659194244"
-  },
-  "99659194217": {
-    "name": "Robin  Horst",
-    "venue": "University of Stuttgart and University of Reutlingen, Stuttgart and Reutlingen, Germany",
-    "url": "https://dl.acm.org/profile/99659194217",
-    "id": "99659194217"
-  },
-  "99659194195": {
-    "name": "Lukas  Brand",
-    "venue": "University of Stuttgart and University of Reutlingen, Stuttgart and Reutlingen, Germany",
-    "url": "https://dl.acm.org/profile/99659194195",
-    "id": "99659194195"
-  },
-  "99659194159": {
-    "name": "Armin  Müller",
-    "venue": "University of Stuttgart and University of Reutlingen, Stuttgart and Reutlingen, Germany",
-    "url": "https://dl.acm.org/profile/99659194159",
-    "id": "99659194159"
-  },
-  "99659194207": {
-    "name": "Benjamin  Weinert",
-    "venue": "University of Stuttgart and University of Reutlingen, Stuttgart and Reutlingen, Germany",
-    "url": "https://dl.acm.org/profile/99659194207",
-    "id": "99659194207"
-  },
-  "99658770790": {
-    "name": "Patrick Cheong-Iao Pang",
-    "venue": "Department of Computing and Information Systems, The University of Melbourne, Parkville, Australia",
-    "url": "https://dl.acm.org/profile/99658770790",
-    "id": "99658770790"
-  },
-  "99659194227": {
-    "name": "Bin  Pang",
-    "venue": "University of Macau and Avenida da Universidade, Taipa, Macau",
-    "url": "https://dl.acm.org/profile/99659194227",
-    "id": "99659194227"
-  },
-  "99659194112": {
-    "name": "Dominique  Tranquille",
-    "venue": "University of Brighton, UK",
-    "url": "https://dl.acm.org/profile/99659194112",
-    "id": "99659194112"
-  },
-  "81339530296": {
-    "name": "Gem  Stapleton",
-    "venue": "University of Brighton",
-    "url": "https://dl.acm.org/profile/81339530296",
-    "id": "81339530296"
-  },
-  "81384617071": {
-    "name": "Jim  Burton",
-    "venue": "University of Brighton, UK",
-    "url": "https://dl.acm.org/profile/81384617071",
-    "id": "81384617071"
-  },
-  "81100642599": {
-    "name": "Peter J Rodgers",
-    "venue": "University of Kent, UK",
-    "url": "https://dl.acm.org/profile/81100642599",
-    "id": "81100642599"
-  },
-  "81502795846": {
-    "name": "Thomas  Gründer",
-    "venue": "Technische Universität Dresden, Dresden, Germany",
-    "url": "https://dl.acm.org/profile/81502795846",
-    "id": "81502795846"
-  },
-  "99659194141": {
-    "name": "Thomas  Thom",
-    "venue": "deecoob Technology GmbH, Dresden, Germany",
-    "url": "https://dl.acm.org/profile/99659194141",
-    "id": "99659194141"
-  },
-  "81479655070": {
-    "name": "Martin  Kleinsteuber",
-    "venue": "Mercateo AG, München, Germany",
-    "url": "https://dl.acm.org/profile/81479655070",
-    "id": "81479655070"
-  },
-  "99659194167": {
-    "name": "Alexander  Maasch",
-    "venue": "Chemmedia AG, Chemnitz, Germany",
-    "url": "https://dl.acm.org/profile/99659194167",
-    "id": "99659194167"
-  },
-  "99659194250": {
-    "name": "Yuri  Sato",
-    "venue": "University of Brighton",
-    "url": "https://dl.acm.org/profile/99659194250",
-    "id": "99659194250"
-  },
-  "81100097678": {
-    "name": "Mateja  Jamnik",
-    "venue": "University of Cambridge",
-    "url": "https://dl.acm.org/profile/81100097678",
-    "id": "81100097678"
-  },
-  "99658750308": {
-    "name": "Zohreh  Shams",
-    "venue": "University of Cambridge",
-    "url": "https://dl.acm.org/profile/99658750308",
-    "id": "99658750308"
-  },
-  "99658638715": {
-    "name": "Andrew  Blake",
-    "venue": "University of Brighton",
-    "url": "https://dl.acm.org/profile/99658638715",
-    "id": "99658638715"
-  },
-  "99659010090": {
-    "name": "Francesco  Paduano",
-    "venue": "Dept. of Computer Science, University of Illinois at Chicago",
-    "url": "https://dl.acm.org/profile/99659010090",
-    "id": "99659010090"
-  },
-  "81551311756": {
-    "name": "Ronak  Etemadpour",
-    "venue": "Computer Science Dept., Oklahoma State University",
-    "url": "https://dl.acm.org/profile/81551311756",
-    "id": "81551311756"
-  },
-  "81474644982": {
-    "name": "Angus Graeme Forbes",
-    "venue": "Dept. of Computer Science, University of Illinois at Chicago",
-    "url": "https://dl.acm.org/profile/81474644982",
-    "id": "81474644982"
-  },
-  "99659020506": {
-    "name": "Yun  Wang",
-    "venue": "Hong Kong University of Science and Technology, Clear Water Bay, Hong Kong",
-    "url": "https://dl.acm.org/profile/99659020506",
-    "id": "99659020506"
-  },
-  "99659070996": {
-    "name": "Dongyu  Liu",
-    "venue": "Hong Kong University of Science and Technology, Clear Water Bay, Hong Kong",
-    "url": "https://dl.acm.org/profile/99659070996",
-    "id": "99659070996"
-  },
-  "81100337801": {
-    "name": "Huamin  Qu",
-    "venue": "Hong Kong University of Science and Technology, Clear Water Bay, Hong Kong",
-    "url": "https://dl.acm.org/profile/81100337801",
-    "id": "81100337801"
-  },
-  "81339515235": {
-    "name": "Qiong Luo",
-    "venue": "Hong Kong University of Science and Technology, Clear Water Bay, Hong Kong",
-    "url": "https://dl.acm.org/profile/81339515235",
-    "id": "81339515235"
-  },
-  "81484654594": {
-    "name": "Xiaojuan  Ma",
-    "venue": "Hong Kong University of Science and Technology, Clear Water Bay, Hong Kong",
-    "url": "https://dl.acm.org/profile/81484654594",
-    "id": "81484654594"
-  },
-  "81556666156": {
-    "name": "Yang  Shi",
-    "venue": "Central South University",
-    "url": "https://dl.acm.org/profile/81556666156",
-    "id": "81556666156"
-  },
-  "81339540126": {
-    "name": "Yaoxue  Zhang",
-    "venue": "Central South University",
-    "url": "https://dl.acm.org/profile/81339540126",
-    "id": "81339540126"
-  },
-  "81408600293": {
-    "name": "Guojun  Wang",
-    "venue": "Central South University",
-    "url": "https://dl.acm.org/profile/81408600293",
-    "id": "81408600293"
-  },
-  "81470649905": {
-    "name": "Ronghua  Shi",
-    "venue": "Central South University",
-    "url": "https://dl.acm.org/profile/81470649905",
-    "id": "81470649905"
-  },
-  "99658630885": {
-    "name": "Xing  Liang",
-    "venue": "Arizona State University",
-    "url": "https://dl.acm.org/profile/99658630885",
-    "id": "99658630885"
-  },
-  "81100655096": {
-    "name": "Rainer C Splechtna",
-    "venue": "VRVis Research Center, Vienna, Austria",
-    "url": "https://dl.acm.org/profile/81100655096",
-    "id": "81100655096"
-  },
-  "99658770166": {
-    "name": "Alexandra  Diehl",
-    "venue": "University of Buenos Aires, Buenos Aires, Argentina",
-    "url": "https://dl.acm.org/profile/99658770166",
-    "id": "99658770166"
-  },
-  "81554544456": {
-    "name": "Mai H Elshehaly",
-    "venue": "University of Maryland, Maryland, MD, USA",
-    "url": "https://dl.acm.org/profile/81554544456",
-    "id": "81554544456"
-  },
-  "81544964956": {
-    "name": "Claudio A Delrieux",
-    "venue": "CONICET and U.N.S., Bahía Blanca, Argentina",
-    "url": "https://dl.acm.org/profile/81544964956",
-    "id": "81544964956"
-  },
-  "81100637283": {
-    "name": "Denis Gracanin",
-    "venue": "Virginia Tech Blacksburg, VA, USA",
-    "url": "https://dl.acm.org/profile/81100637283",
-    "id": "81100637283"
-  },
-  "81375609028": {
-    "name": "Krešimir  Matković",
-    "venue": "VRVis Research Center, Vienna, Austria",
-    "url": "https://dl.acm.org/profile/81375609028",
-    "id": "81375609028"
-  },
-  "99659068906": {
-    "name": "Kouhei  Yasuda",
-    "venue": "Graduate School of Frontier Sciences, University of Tokyo, Kashiwa, Japan",
-    "url": "https://dl.acm.org/profile/99659068906",
-    "id": "99659068906"
-  },
-  "81410594549": {
-    "name": "Shigeo Takahashi",
-    "venue": "Department of Computer Science and Engineering, University of Aizu, Aizu-Wakamatsu, Japan",
-    "url": "https://dl.acm.org/profile/81410594549",
-    "id": "81410594549"
-  },
-  "81440610884": {
-    "name": "Hsiangyun  Wu",
-    "venue": "Department of Information and Computer Science, Keio University, Yokohama, Japan",
-    "url": "https://dl.acm.org/profile/81440610884",
-    "id": "81440610884"
-  },
-  "81100511332": {
-    "name": "Quang Vinh Nguyen",
-    "venue": "MARCS Institute and School of Computing, Engineering and Mathematics, Western Sydney University, Australia",
-    "url": "https://dl.acm.org/profile/81100511332",
-    "id": "81100511332"
-  },
-  "81100077710": {
-    "name": "Simeon J Simoff",
-    "venue": "MARCS Institute and School of Computing, Engineering and Mathematics, Western Sydney University, Australia",
-    "url": "https://dl.acm.org/profile/81100077710",
-    "id": "81100077710"
-  },
-  "81452599675": {
-    "name": "Yu  Qian",
-    "venue": "J. Craig Venter Institute, USA",
-    "url": "https://dl.acm.org/profile/81452599675",
-    "id": "81452599675"
-  },
-  "81100079792": {
-    "name": "Maolin  Huang",
-    "venue": "University of Technology, Sydney, Australia",
-    "url": "https://dl.acm.org/profile/81100079792",
-    "id": "81100079792"
-  },
-  "99658770290": {
-    "name": "Martin  Röhlig",
-    "venue": "Institute for Computer Science, Albert-Einstein-Straße, Rostock, Germany",
-    "url": "https://dl.acm.org/profile/99658770290",
-    "id": "99658770290"
-  },
-  "81100094349": {
-    "name": "H. Schumann",
-    "venue": "Institute for Computer Science, Albert-Einstein-Straße, Rostock, Germany",
-    "url": "https://dl.acm.org/profile/81100094349",
-    "id": "81100094349"
-  },
-  "81320496219": {
-    "name": "Ruth West",
-    "venue": "Univ. of North Texas",
-    "url": "https://dl.acm.org/profile/81320496219",
-    "id": "81320496219"
-  },
-  "99659067772": {
-    "name": "Meghan  Kajihara",
-    "venue": "Univ. of North Texas",
-    "url": "https://dl.acm.org/profile/99659067772",
-    "id": "99659067772"
-  },
-  "99658988047": {
-    "name": "Max  Parola",
-    "venue": "Univ. of North Texas",
-    "url": "https://dl.acm.org/profile/99658988047",
-    "id": "99658988047"
-  },
-  "99659067444": {
-    "name": "Kathryn  Hays",
-    "venue": "Univ. of North Texas",
-    "url": "https://dl.acm.org/profile/99659067444",
-    "id": "99659067444"
-  },
-  "99659068485": {
-    "name": "Luke  Hillard",
-    "venue": "Univ. of North Texas",
-    "url": "https://dl.acm.org/profile/99659068485",
-    "id": "99659068485"
-  },
-  "99659067913": {
-    "name": "Anne  Carlew",
-    "venue": "Univ. of North Texas",
-    "url": "https://dl.acm.org/profile/99659067913",
-    "id": "99659067913"
-  },
-  "99659068986": {
-    "name": "Jeremey  Deutsch",
-    "venue": "Univ. of North Texas",
-    "url": "https://dl.acm.org/profile/99659068986",
-    "id": "99659068986"
-  },
-  "99659068083": {
-    "name": "Brandon  Lane",
-    "venue": "Univ. of North Texas",
-    "url": "https://dl.acm.org/profile/99659068083",
-    "id": "99659068083"
-  },
-  "99658628447": {
-    "name": "Michelle  Holloway",
-    "venue": "Wash. Univ. in St. Louis",
-    "url": "https://dl.acm.org/profile/99658628447",
-    "id": "99658628447"
-  },
-  "87658893257": {
-    "name": "Brendan John",
-    "venue": "Rochester Inst. of Tech.",
-    "url": "https://dl.acm.org/profile/87658893257",
-    "id": "87658893257"
-  },
-  "99658988516": {
-    "name": "Anahita  Sanandaji",
-    "venue": "Oregon State University",
-    "url": "https://dl.acm.org/profile/99658988516",
-    "id": "99658988516"
-  },
-  "81100553787": {
-    "name": "Cindy Marie Grimm",
-    "venue": "Oregon State University",
-    "url": "https://dl.acm.org/profile/81100553787",
-    "id": "81100553787"
-  },
-  "99659036087": {
-    "name": "Zheng  Huang",
-    "venue": "Department of Computer Science, North Dakota State University",
-    "url": "https://dl.acm.org/profile/99659036087",
-    "id": "99659036087"
-  },
-  "99659068000": {
-    "name": "Jed  Limke",
-    "venue": "Department of Computer Science, North Dakota State University",
-    "url": "https://dl.acm.org/profile/99659068000",
-    "id": "99659068000"
-  },
-  "81408600332": {
-    "name": "Jun  Kong",
-    "venue": "Department of Computer Science, North Dakota State University",
-    "url": "https://dl.acm.org/profile/81408600332",
-    "id": "81408600332"
-  },
-  "99658765217": {
-    "name": "Muye  Yang",
-    "venue": "Department of Computer and Information Science, Faculty of Science and Technology, University of Macau, Avenida da Universidade, Taipa, Macau SAR",
-    "url": "https://dl.acm.org/profile/99658765217",
-    "id": "99658765217"
-  },
-  "99658766518": {
-    "name": "Yina  Li",
-    "venue": "Business School, Nankai University, Tianjin, P.R. China",
-    "url": "https://dl.acm.org/profile/99658766518",
-    "id": "99658766518"
-  },
-  "99658766563": {
-    "name": "Dongjin  Li",
-    "venue": "Business School, Nankai University, Tianjin, P.R. China",
-    "url": "https://dl.acm.org/profile/99658766563",
-    "id": "99658766563"
-  },
-  "99659068785": {
-    "name": "Casey  Haber",
-    "venue": "University of San Francisco, San Francisco, CA",
-    "url": "https://dl.acm.org/profile/99659068785",
-    "id": "99659068785"
-  },
-  "99659068146": {
-    "name": "Lyndonong  Yiu",
-    "venue": "University of San Francisco, San Francisco, CA",
-    "url": "https://dl.acm.org/profile/99659068146",
-    "id": "99659068146"
-  },
-  "81339508109": {
-    "name": "Alark  Joshi",
-    "venue": "University of San Francisco, San Francisco, CA",
-    "url": "https://dl.acm.org/profile/81339508109",
-    "id": "81339508109"
-  },
-  "81442602782": {
-    "name": "Sophie Engle",
-    "venue": "University of San Francisco, San Francisco, CA",
-    "url": "https://dl.acm.org/profile/81442602782",
-    "id": "81442602782"
-  },
-  "99659068491": {
-    "name": "Hui  Lei",
-    "venue": "Colleage of Electronic and Information Engineering, Changsha University of Science and Technology, Changsha, China",
-    "url": "https://dl.acm.org/profile/99659068491",
-    "id": "99659068491"
-  },
-  "99659067824": {
-    "name": "Cong  Xie",
-    "venue": "Department of Computer Science, Stony Brook University, Stony Brook, USA",
-    "url": "https://dl.acm.org/profile/99659067824",
-    "id": "99659067824"
-  },
-  "99659068366": {
-    "name": "Pingping  Shang",
-    "venue": "State Key Lab of CAD& CG, Zhejiang University, Hangzhou, China",
-    "url": "https://dl.acm.org/profile/99659068366",
-    "id": "99659068366"
-  },
-  "99659068293": {
-    "name": "Fan  Zhang",
-    "venue": "Department of Computer Science, Zhejiang University of Technology, Hangzhou, China",
-    "url": "https://dl.acm.org/profile/99659068293",
-    "id": "99659068293"
-  },
-  "81548161656": {
-    "name": "Weri  Chen",
-    "venue": "State Key Lab of CAD& CG, Zhejiang University, Hangzhou, China",
-    "url": "https://dl.acm.org/profile/81548161656",
-    "id": "81548161656"
-  },
-  "81451598508": {
-    "name": "Qunsheng  Peng",
-    "venue": "State Key Lab of CAD& CG, Zhejiang University, Hangzhou, China",
-    "url": "https://dl.acm.org/profile/81451598508",
-    "id": "81451598508"
-  },
-  "81474695617": {
-    "name": "Tobias Ruppert",
-    "venue": "Fraunhofer IGD, Darmstadt, Germany",
-    "url": "https://dl.acm.org/profile/81474695617",
-    "id": "81474695617"
-  },
-  "99658949790": {
-    "name": "Andreas  Bannach",
-    "venue": "Fraunhofer IGD, Darmstadt, Germany",
-    "url": "https://dl.acm.org/profile/99658949790",
-    "id": "99658949790"
-  },
-  "81442607723": {
-    "name": "Jürgen Bernard",
-    "venue": "TU Darmstadt, Germany",
-    "url": "https://dl.acm.org/profile/81442607723",
-    "id": "81442607723"
-  },
-  "99658654866": {
-    "name": "Hendrik  Lücke-Tieke",
-    "venue": "Fraunhofer IGD, Darmstadt, Germany",
-    "url": "https://dl.acm.org/profile/99658654866",
-    "id": "99658654866"
-  },
-  "99658657326": {
-    "name": "Alex  Ulmer",
-    "venue": "Fraunhofer IGD, Darmstadt, Germany",
-    "url": "https://dl.acm.org/profile/99658657326",
-    "id": "99658657326"
-  },
-  "81332509409": {
-    "name": "Jörn  Kohlhammer",
-    "venue": "Fraunhofer IGD & TU Darmstadt, Germany",
-    "url": "https://dl.acm.org/profile/81332509409",
-    "id": "81332509409"
-  },
-  "99659191638": {
-    "name": "Jiangen  He",
-    "venue": "Drexel University, Philadelphia, Pennsylvania, USA",
-    "url": "https://dl.acm.org/profile/99659191638",
-    "id": "99659191638"
-  },
-  "81100119664": {
-    "name": "Chaomei  Chen",
-    "venue": "Drexel University, Philadelphia, Pennsylvania, USA",
-    "url": "https://dl.acm.org/profile/81100119664",
-    "id": "81100119664"
-  },
-  "99659068616": {
-    "name": "Wenqian  Ji",
-    "venue": "College of Computer and Information, Hohai University, Nanjing, China",
-    "url": "https://dl.acm.org/profile/99659068616",
-    "id": "99659068616"
-  },
-  "99659067476": {
-    "name": "Yan  Tang",
-    "venue": "College of Computer and Information, Hohai University, Nanjing, China",
-    "url": "https://dl.acm.org/profile/99659067476",
-    "id": "99659067476"
-  },
-  "99659068606": {
-    "name": "Pengju  Ma",
-    "venue": "College of Computer and Information, Hohai University, Nanjing, China",
-    "url": "https://dl.acm.org/profile/99659068606",
-    "id": "99659068606"
-  },
-  "99659068288": {
-    "name": "Shijie  Tang",
-    "venue": "College of Computer and Information, Hohai University, Nanjing, China",
-    "url": "https://dl.acm.org/profile/99659068288",
-    "id": "99659068288"
-  },
-  "99659068325": {
-    "name": "Zhipeng  Fang",
-    "venue": "College of Computer and Information, Hohai University, Nanjing, China",
-    "url": "https://dl.acm.org/profile/99659068325",
-    "id": "99659068325"
-  },
-  "99659068772": {
-    "name": "Xuan  Li",
-    "venue": "Baidu, Inc, Beijing, China",
-    "url": "https://dl.acm.org/profile/99659068772",
-    "id": "99659068772"
-  },
-  "81548022965": {
-    "name": "Tianjian  Chen",
-    "venue": "Baidu, Inc, Beijing, China",
-    "url": "https://dl.acm.org/profile/81548022965",
-    "id": "81548022965"
-  },
-  "81490644010": {
-    "name": "Lina  Zhang",
-    "venue": "The State Key Lab of CAD&CG, Zhejiang University, Hangzhou, China",
-    "url": "https://dl.acm.org/profile/81490644010",
-    "id": "81490644010"
-  },
-  "81452595774": {
-    "name": "Kwan-Liu Ma",
-    "venue": "Department of Computer Science, University of California-Davis, Kemper Hall",
-    "url": "https://dl.acm.org/profile/81452595774",
-    "id": "81452595774"
-  },
-  "99659664633": {
-    "name": "Jinhui  Yu",
-    "venue": "The State Key Lab of CAD&CG, Zhejiang University, Hangzhou, China",
-    "url": "https://dl.acm.org/profile/99659664633",
-    "id": "99659664633"
-  },
-  "99659068053": {
-    "name": "Lu  Xiong",
-    "venue": "School of Computer Software, Tianjin University, Tianjin, China",
-    "url": "https://dl.acm.org/profile/99659068053",
-    "id": "99659068053"
-  },
-  "99659067653": {
-    "name": "Kai  Sun",
-    "venue": "School of Computer Science and Software Engineering, East China Normal, University Shanghai, P.R.China",
-    "url": "https://dl.acm.org/profile/99659067653",
-    "id": "99659067653"
-  },
-  "99659067563": {
-    "name": "Zongchao  Guo",
-    "venue": "School of Computer Science and Software Engineering, East China Normal, University Shanghai, P.R.China",
-    "url": "https://dl.acm.org/profile/99659067563",
-    "id": "99659067563"
-  },
-  "99659664742": {
-    "name": "Iliesa S Delai",
-    "venue": "BYU Hawaii, Laie, Hawaii",
-    "url": "https://dl.acm.org/profile/99659664742",
-    "id": "99659664742"
-  },
-  "99659068939": {
-    "name": "Meilan  Jin",
-    "venue": "Brigham Young University, TMCB Provo, Utah",
-    "url": "https://dl.acm.org/profile/99659068939",
-    "id": "99659068939"
-  },
-  "81430638972": {
-    "name": "Geoffrey M Draper",
-    "venue": "BYU Hawaii, Laie, Hawaii",
-    "url": "https://dl.acm.org/profile/81430638972",
-    "id": "81430638972"
-  },
-  "99659068113": {
-    "name": "Seimei  Matsusaki",
-    "venue": "University of San Francisco, San Francisco, CA",
-    "url": "https://dl.acm.org/profile/99659068113",
-    "id": "99659068113"
-  },
-  "99659067967": {
-    "name": "Xi  Han",
-    "venue": "University of San Francisco, San Francisco, CA",
-    "url": "https://dl.acm.org/profile/99659067967",
-    "id": "99659067967"
-  },
-  "99659068200": {
-    "name": "Xin  Kang",
-    "venue": "National Taipei University of Technology, Taipei, Taiwan and School of Software & Microelectronics, Peking University, Beijing, China",
-    "url": "https://dl.acm.org/profile/99659068200",
-    "id": "99659068200"
-  },
-  "99659068315": {
-    "name": "Yinan  Li",
-    "venue": "School of Arts, Southeast University, Nanjing, China",
-    "url": "https://dl.acm.org/profile/99659068315",
-    "id": "99659068315"
-  },
-  "99659068936": {
-    "name": "Jian  Wang",
-    "venue": "School of Arts, Southeast University, Nanjing, China",
-    "url": "https://dl.acm.org/profile/99659068936",
-    "id": "99659068936"
-  },
-  "99659068554": {
-    "name": "Daniel  Wilches",
-    "venue": "3D Interaction and Agents Research Lab, University of Wyoming, Laramie, WY",
-    "url": "https://dl.acm.org/profile/99659068554",
-    "id": "99659068554"
-  },
-  "83059087157": {
-    "name": "Amy Banić",
-    "venue": "3D Interaction and Agents Research Lab, University of Wyoming, Idaho National Laboratory, Laramie, WY",
-    "url": "https://dl.acm.org/profile/83059087157",
-    "id": "83059087157"
-  },
-  "99659067636": {
-    "name": "Sarah Hong",
-    "venue": "Highland Park High School, Dallas, TX, USA",
-    "url": "https://dl.acm.org/profile/99659067636",
-    "id": "99659067636"
-  },
-  "99659067860": {
-    "name": "Yuyi  Liu",
-    "venue": "John Paul II High School, Piano, TX, USA",
-    "url": "https://dl.acm.org/profile/99659067860",
-    "id": "99659067860"
-  },
-  "99659052542": {
-    "name": "Zhao Xiao",
-    "venue": "Tianjin University, Tianjin, P. R. China",
-    "url": "https://dl.acm.org/profile/99659052542",
-    "id": "99659052542"
-  },
-  "99659067654": {
-    "name": "Jie  Wu",
-    "venue": "College of Design and Innovation, Tongji University, Shanghai, China",
-    "url": "https://dl.acm.org/profile/99659067654",
-    "id": "99659067654"
-  },
-  "99659068256": {
-    "name": "Guangxi  Chen",
-    "venue": "College of Design and Innovation, Tongji University, Shanghai, China",
-    "url": "https://dl.acm.org/profile/99659068256",
-    "id": "99659068256"
-  },
-  "99659068830": {
-    "name": "Wang  Qian",
-    "venue": "Shanghai Jiao Tong University, Shanghai, PRC, School of Media and Design, Shanghai Jiao Tong University",
-    "url": "https://dl.acm.org/profile/99659068830",
-    "id": "99659068830"
-  },
-  "99659067729": {
-    "name": "Xiao  Bing",
-    "venue": "Shanghai Jiao Tong University, Shanghai, PRC, School of Media and Design, Shanghai Jiao Tong University",
-    "url": "https://dl.acm.org/profile/99659067729",
-    "id": "99659067729"
   }
 }

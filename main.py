@@ -66,8 +66,8 @@ def main():
     #papers_client = AcmClient(data)
     #papers_client.main_fun()
     extra_info_client = Info(data)
-    extra_info_client.main_fun()
-
+    #extra_info_client.main_fun()
+    extra_info_client.get_authors()
     print('Finish')
 
 

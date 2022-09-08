@@ -2,7 +2,7 @@ from selenium import webdriver
 from typing import List
 from selenium.webdriver.chrome.options import Options
 from webdriver_manager.chrome import ChromeDriverManager
-from Levenshtein import ratio
+#from Levenshtein import ratio
 from urllib.parse import quote
 from bs4 import BeautifulSoup
 from os import path, makedirs
