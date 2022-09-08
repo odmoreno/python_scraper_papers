@@ -1,8 +1,10 @@
 """
 Obtener info adicional del paper como sus autores
 """
+import psycopg2
 import json
 import time
+import re
 from common_functions import *
 
 
@@ -24,6 +26,32 @@ class Info:
         self.institution_path = "jsons/insti.json"
         self.intitution_set2 = {}
 
+        self.conn = self.connect_to_first_db()
+        self.cursor = self.conn.cursor()
+        self.conn2 = self.connect_to_second_db()
+        self.cursor2 = self.conn2.cursor()
+        self.id= 0
+
+        self.headers_authors = ['id', '_id', 'name', 'sid', 'org', 'gid', 'oid', 'orgid', 'acmid', 'url']
+
+    def connect_to_first_db(self):
+        conn = psycopg2.connect(
+            host="200.10.150.106",
+            database="papers_info",
+            user="postgres",
+            password="postgres")
+        print("Opened database successfully")
+        return  conn
+
+    def connect_to_second_db(self):
+        conn = psycopg2.connect(
+            host="200.10.150.106",
+            database="subset",
+            user="postgres",
+            password="postgres")
+        print("Opened database subset successfully")
+        return conn
+
     def load_data(self):
         with open(self.papers_path, encoding='utf-8') as fh:
             papers = json.load(fh)
@@ -44,6 +72,11 @@ class Info:
 
         self.authors_set = autores
         self.intitution_set = insti
+
+    def load_insti(self):
+        with open(self.institution_path, encoding='utf-8') as fh:
+            insti = json.load(fh)
+        self.intitution_set2 = insti
 
     def save_data(self):
         #save current papers
@@ -206,8 +239,25 @@ class Info:
             metric_info = metric
 
         """
+    def get_institutions(self):
+        try:
+            self.load_data2()
+            self.load_insti()
+            for insti in self.intitution_set.values():
+                if insti['id'] != 'javascript:void(0)':
+                    if insti['id'] not in self.intitution_set2:
+                        self.get_institution_info(insti)
+                    else:
+                        print('Existe', insti["name"])
+                else:
+                    print('doh')
+        except Exception as e:
+            print(e)
+            fail_message(e)
+            self.driver_for_acm.quit()
+            raise Exception("Oh crud") from e
 
-    def get_institutions(self, insti):
+    def get_institution_info(self, insti):
         url = insti['url']
         self.driver_for_acm.get(url)
         time.sleep(5)
@@ -217,8 +267,80 @@ class Info:
         address = '' if address_tag is None else address_tag.text
         split_adress = address.split(',')
         for i in range(len(split_adress)):
-            key = 'ad'+i
-            insti[key] = split_adress[i]
+            key = 'ad'+ str(i)
+            insti[key] = split_adress[i].strip()
         self.intitution_set2[insti['id']] = insti
         self.save_institutions2()
+        pass
+
+    def loop_authors(self):
+        self.load_data2()
+        for author in self.authors_set.values():
+            self.find_author(author)
+            pass
+
+    def find_author(self, author):
+        try:
+            name = re.sub(' +', ' ', author['name'])
+            querystring = "SELECT * FROM authors as p"
+            querystring += " WHERE p.name LIKE '%" + name + "%'"
+            self.cursor.execute(querystring)
+            mobile_records = self.cursor.fetchall()
+            if len(mobile_records) > 0:
+                print("hay valores en:", name)
+                self.cursor2.execute(querystring)
+                mobile_records = self.cursor2.fetchall()
+                if len(mobile_records) == 0:
+                    value =  2 if len(mobile_records) > 1 else 1
+                    list = mobile_records[:value]
+                    for row in list:
+                        print(row)
+                        self.insert_row_preview_author(row, author, name)
+                    else:
+                        print("ya existe")
+                        self.id += 1
+            else:
+                print("add info to subset")
+                self.cursor2.execute(querystring)
+                mobile_records = self.cursor2.fetchall()
+                if len(mobile_records) == 0:
+                    self.insert_row_author(author, name)
+                else:
+                    self.id += 1
+
+        except Exception as e:
+            print(name)
+            print(querystring)
+            #print(self.id)
+            fail_message(e)
+            raise Exception("Oh crud") from e
+        pass
+
+    def insert_row_preview_author(self, row, author, author_name):
+        headers = "("
+        headers += ", ".join(self.headers_authors)
+        headers += ")"
+        insert_query = "INSERT INTO authors" + headers + " VALUES (%s,%s,%s,%s,%s,%s,%s,%s,%s,%s)"
+        record_to_insert = (
+        self.id, row[1], author_name, row[3], row[4], row[5], row[6], row[7], author['id'], author['url'])
+        self.cursor2.execute(insert_query, record_to_insert)
+        self.conn2.commit()
+        count = self.cursor2.rowcount
+        self.id += 1
+        print(self.id, "Record inserted successfully into mobile table", author_name)
+
+    def insert_row_author(self, author, author_name):
+        headers = "("
+        headers += ", ".join(self.headers_authors)
+        headers += ")"
+        insert_query = "INSERT INTO authors" + headers + " VALUES (%s,%s,%s,%s,%s,%s,%s,%s,%s,%s)"
+        record_to_insert = (
+            self.id, '', author_name, '', '', '', '', '', author['id'], author['url'])
+
+        self.cursor2.execute(insert_query, record_to_insert)
+        self.conn2.commit()
+        count = self.cursor2.rowcount
+        self.id += 1
+
+        print(count, "Record inserted successfully into mobile table", author_name)
         pass

@@ -1,0 +1,805 @@
+author_id,author_name,institute_id,institute_name
+99659583267,René  Cutura,60015815,University of Stuttgart
+99659583267,René  Cutura,60018163,Vienna University of Technology
+99659583267,René  Cutura,60025988,University of Vienna
+99660233714,Cristina  Morariu,60015815,University of Stuttgart
+99659275761,Zhanglin  Cheng,60102083,Shenzhen Institute of Advanced Technology
+82658976157,Yunhai  Wang,60031031,Shandong University
+82658976157,Yunhai  Wang,60102083,Shenzhen Institute of Advanced Technology
+81100214723,Daniel  Weiskopf,60015815,University of Stuttgart
+81100214723,Daniel  Weiskopf,60018491,Simon Fraser University
+81100214723,Daniel  Weiskopf,60000251,IEEE
+81100214723,Daniel  Weiskopf,60017246,University of Tübingen
+81375621529,Michael  Sedlmair,60015815,University of Stuttgart
+81375621529,Michael  Sedlmair,60016458,Jacobs University Bremen
+81375621529,Michael  Sedlmair,60025988,University of Vienna
+81375621529,Michael  Sedlmair,60010365,The University of British Columbia
+81100329777,Takayuki  Itoh,60007912,Ochanomizu University
+81100329777,Takayuki  Itoh,60107858,"IBM Japan, Ltd."
+99659915690,Asuka  Nakabayashi,60007912,Ochanomizu University
+81100399955,Mariko  Hagita,60007912,Ochanomizu University
+81100399955,Mariko  Hagita,60025997,Keio University
+99659465677,Angelos  Chatzimparmpas,60108011,"Linnaeus University, Växjö"
+99659465677,Angelos  Chatzimparmpas,60006517,University of Western Macedonia
+81472654517,Ilir Jusufi,60104372,"Linnaeus University, Kalmar"
+81472654517,Ilir Jusufi,60108011,"Linnaeus University, Växjö"
+81472654517,Ilir Jusufi,60014439,"University of California, Davis"
+99659248999,Alexander  Achberger,60085150,Mercedes Benz Cars
+99659248999,Alexander  Achberger,60015815,University of Stuttgart
+99659583503,Frank  Heyen,60015815,University of Stuttgart
+99659915852,Kresimir  Vidakovic,60003027,Stuttgart Media University
+99659915755,Martin  Büßemeyer,60106550,Hasso Plattner Institute for Digital Engineering gGmbH
+82458918757,Daniel Limberger,60106550,Hasso Plattner Institute for Digital Engineering gGmbH
+82458918757,Daniel Limberger,60021763,University of Potsdam
+99659051346,Willy  Scheibel,60021763,University of Potsdam
+99659051346,Willy  Scheibel,60106550,Hasso Plattner Institute for Digital Engineering gGmbH
+81100019985,Jürgen  Döllner,60106550,Hasso Plattner Institute for Digital Engineering gGmbH
+81100019985,Jürgen  Döllner,60021763,University of Potsdam
+81100019985,Jürgen  Döllner,60000401,University of Münster
+99659916274,Jan  van Dieken,60106550,Hasso Plattner Institute for Digital Engineering gGmbH
+99659275978,Ayush  Kumar,60002746,Harvard Medical School
+99659275978,Ayush  Kumar,60026415,Stony Brook University
+99659034607,Bharat  Goel,60026415,Stony Brook University
+99659915763,Keshav Rajupet Premkumar,60026415,Stony Brook University
+81331488994,Michael  Burch,60101868,University of Applied Sciences Western Switzerland
+81331488994,Michael  Burch,60032882,Eindhoven University of Technology
+81452605314,Klaus D Mueller,60026415,Stony Brook University
+81452605314,Klaus D Mueller,60000251,IEEE
+81452605314,Klaus D Mueller,60003500,The Ohio State University
+99659915568,Lauren  Edlin,60022109,Queen Mary University of London
+81320493799,Joshua D Reiss,60022109,Queen Mary University of London
+81320493799,Joshua D Reiss,60033387,University of London
+99659658214,Cameron  Edmond,60028333,UNSW Sydney
+99658723776,Robert  Lawther,60028333,UNSW Sydney
+81488668405,Maxime  Cordeil,60019578,Monash University
+81488668405,Maxime  Cordeil,60031004,The University of Queensland
+81488668405,Maxime  Cordeil,60102124,Federal University of Toulouse Midi-Pyrénées
+81464670479,Tomasz P Bednarz,60012808,Epicentre
+81464670479,Tomasz P Bednarz,60028333,UNSW Sydney
+81464670479,Tomasz P Bednarz,60108057,CSIRO Data61
+81464670479,Tomasz P Bednarz,60160437,ARC Centre of Excellence for Mathematical & Statistical Frontiers
+99659914931,Miguel  Alfonso Feijóo-García,60070348,Universidad El Bosque
+99659915656,José  Tiberio Hernández-Peñalosa,60052106,"University of the Andes, Colombia"
+99659914993,Conny  Walchshofer,60021931,Johannes Kepler University Linz
+87258908057,Holger  Stitz,60021931,Johannes Kepler University Linz
+81375612900,Marc  Streit,60021931,Johannes Kepler University Linz
+81375612900,Marc  Streit,60002746,Harvard Medical School
+81375612900,Marc  Streit,60019663,Graz University of Technology
+81503660777,Wolfgang  Aigner,60025467,St. Polten University of Applied Sciences
+81503660777,Wolfgang  Aigner,60018163,Vienna University of Technology
+99659916186,Akshay  Murari,60006951,The University of North Carolina at Charlotte
+99659090947,Elias  Mahfoud,60006951,The University of North Carolina at Charlotte
+81467643151,Weichao  Wang,60006951,The University of North Carolina at Charlotte
+81100052641,Aidong Lu,60006951,The University of North Carolina at Charlotte
+81100052641,Aidong Lu,60017717,The University of North Carolina System
+81100052641,Aidong Lu,60009254,Purdue University
+81100052641,Aidong Lu,60000251,IEEE
+99659915448,Hinako  Sassa,60007912,Ochanomizu University
+99658718448,Mitsuo Yoshida,60003497,Toyohashi University of Technology
+99659915576,Oliver  Moseler,60011891,University of Trier
+99659915201,Lucas  Kreber,60011891,University of Trier
+81100020010,Stephan  Diehl,60011891,University of Trier
+81100020010,Stephan  Diehl,60005870,Catholic University in Eichstätt
+81100020010,Stephan  Diehl,60033241,Saarland University
+99659914928,Chen  He,60002952,University of Helsinki
+81548012985,Luana  Micallef,60030840,University of Copenhagen
+81548012985,Luana  Micallef,60103653,Aalto University
+82259259657,Barış  Serim,60002952,University of Helsinki
+82259259657,Barış  Serim,60000944,Helsinki Institute for Information Technology
+82259259657,Barış  Serim,60006369,Koc University
+99659191803,Tung  Vuong,60002952,University of Helsinki
+81339525898,Tuukka  Ruotsalo,60002952,University of Helsinki
+81339525898,Tuukka  Ruotsalo,60030840,University of Copenhagen
+81339525898,Tuukka  Ruotsalo,60103653,Aalto University
+81100644548,Giulio Iacucci,60002952,University of Helsinki
+81100644548,Giulio Iacucci,60103653,Aalto University
+81100644548,Giulio Iacucci,60000944,Helsinki Institute for Information Technology
+81100644548,Giulio Iacucci,60012954,University of Oulu
+81100493799,Günter Wallner,60021931,Johannes Kepler University Linz
+81100493799,Günter Wallner,60101868,University of Applied Sciences Western Switzerland
+81100431196,Huub M M van de Wetering,60032882,Eindhoven University of Technology
+81100431196,Huub M M van de Wetering,60018308,Xi'an Jiaotong University
+99659915567,Freek  Rooks,60032882,Eindhoven University of Technology
+99659915351,Olof  Morra,60032882,Eindhoven University of Technology
+84460003257,Gonzalo Gabriel Méndez,60072061,Litoral Polytechnic School
+84460003257,Gonzalo Gabriel Méndez,60002306,University of Calgary
+84460003257,Gonzalo Gabriel Méndez,60022132,University of St Andrews
+99659915372,Oscar  Moreno,60072061,Litoral Polytechnic School
+99659915322,Daniel  Atzberger,60021763,University of Potsdam
+99659915322,Daniel  Atzberger,60106550,Hasso Plattner Institute for Digital Engineering gGmbH
+81492646025,Patricio  Mendoza,60072061,Litoral Polytechnic School
+99659914952,Sebastian  Eckl,60025746,Reutlingen University
+99659915658,Nick  Kerschagel,60025746,Reutlingen University
+81466647554,Uwe  Kloos,60025746,Reutlingen University
+81466647554,Uwe  Kloos,60272259,University of Applied Sciences of the Grisons
+81466647554,Uwe  Kloos,60015815,University of Stuttgart
+99659915851,Maitreya  Save,60004923,NC State University
+81100375996,Benjamin Allen Watson,60004923,NC State University
+81100375996,Benjamin Allen Watson,60000251,IEEE
+81100375996,Benjamin Allen Watson,60007363,Northwestern University
+81100375996,Benjamin Allen Watson,60030835,University of Alberta
+81100375996,Benjamin Allen Watson,60019647,Georgia Institute of Technology
+99659915798,Dong  Li,60021200,East China Normal University
+99659290545,Hong  Yin,60021200,East China Normal University
+81100220966,Changbo  Wang,60021200,East China Normal University
+81100220966,Changbo  Wang,60023813,Shanghai University
+81100220966,Changbo  Wang,60117933,"State Key Lab of CAD&CG, Zhejiang University"
+99659915122,Sicheng  Song,60021200,East China Normal University
+99659482820,Kirlin  Li,60021200,East China Normal University
+99658761360,Chenhui  Li,60021200,East China Normal University
+99658761360,Chenhui  Li,60008928,Hong Kong Polytechnic University
+99659915850,Qiaorui  Chen,60117832,"School of Aeronautics and Astronautics, Zhejiang University"
+99659915850,Qiaorui  Chen,60003970,Zhejiang University
+99659915914,Shuai  Zhang,60117832,"School of Aeronautics and Astronautics, Zhejiang University"
+99659915914,Shuai  Zhang,60003970,Zhejiang University
+81452604154,Yao  Zheng,60003970,Zhejiang University
+81452604154,Yao  Zheng,60117832,"School of Aeronautics and Astronautics, Zhejiang University"
+81452604154,Yao  Zheng,60118080,School of Computer and Computing Science
+99659915055,Rahel  Haymoz,60101868,University of Applied Sciences Western Switzerland
+99659638986,Carolin  Fiedler,60021763,University of Potsdam
+81375606710,Matthias  Trapp,60106550,Hasso Plattner Institute for Digital Engineering gGmbH
+81375606710,Matthias  Trapp,60021763,University of Potsdam
+99659653162,Nico  Klaassen,60032882,Eindhoven University of Technology
+99659483556,Haoran  Dai,60117933,"State Key Lab of CAD&CG, Zhejiang University"
+81421599679,Yubo  Tao,60117933,"State Key Lab of CAD&CG, Zhejiang University"
+81421599679,Yubo  Tao,60003970,Zhejiang University
+81408600175,Hai  Lin,60117933,"State Key Lab of CAD&CG, Zhejiang University"
+81408600175,Hai  Lin,60003970,Zhejiang University
+81408600175,Hai  Lin,60009860,Fudan University
+99659483577,Hao  Tang,60013614,Hangzhou Dianzi University
+99659482760,Sixiang  Fei,60013614,Hangzhou Dianzi University
+99659482636,Xiaoying  Shi,60013614,Hangzhou Dianzi University
+99658765084,Hanbyul  Yeon,60027884,Sejong University
+99659482864,Mingyu  Pi,60027884,Sejong University
+99659483077,Hyesook  Son,60027884,Sejong University
+81372592812,Yun  Jang,60027884,Sejong University
+81372592812,Yun  Jang,60025858,"Swiss Federal Institute of Technology, Zurich"
+81372592812,Yun  Jang,60009254,Purdue University
+99659291193,Rohan  Goel,60000414,"Birla Institute of Technology and Science, Pilani"
+99659290090,Samiha  Fadloun,60108488,University of Montpellier
+99659290844,Sarah  Valentin,60108488,University of Montpellier
+81375620314,Arnaud  Sallaberry,60108488,University of Montpellier
+81375620314,Arnaud  Sallaberry,60009278,Universite Paul-Valery Montpellier III
+81375620314,Arnaud  Sallaberry,60014439,"University of California, Davis"
+81384592979,Mathieu Roche,60103240,"Territoires, Environnement, Télédétection et Information Spatiale"
+81384592979,Mathieu Roche,60108488,University of Montpellier
+81384592979,Mathieu Roche,60031011,CIRAD
+81100236660,Pascal  Poncelet,60108488,University of Montpellier
+99659291871,Humphrey O Obie,60019578,Monash University
+99659291871,Humphrey O Obie,60030804,Swinburne University of Technology
+81490649118,Caslon  Chua,60030804,Swinburne University of Technology
+81440623086,Iman Avazpour,60018805,Deakin University
+81440623086,Iman Avazpour,60030804,Swinburne University of Technology
+99659003381,Mohamed Almorsy Abdelrazek,60018805,Deakin University
+81100261843,John C. Grundy,60019578,Monash University
+81100261843,John C. Grundy,60018805,Deakin University
+81100261843,John C. Grundy,60030804,Swinburne University of Technology
+81100261843,John C. Grundy,60005686,The University of Auckland
+99659493271,Liang  Zhou,60025488,The University of Utah
+99659493271,Liang  Zhou,60015815,University of Stuttgart
+81490688158,Hansjörg  Schmauder,60015815,University of Stuttgart
+99659256604,Xiaoyu  Wang,60009415,The University of Texas at Dallas
+99659194249,Yufeng  Liu,60010851,Hohai University
+99658620368,Jie  Li,60019533,Tianjin University
+99658620368,Jie  Li,60033100,Nanjing University
+81350576955,K. Zhang,60009415,The University of Texas at Dallas
+81350576955,K. Zhang,60019533,Tianjin University
+81350576955,K. Zhang,60000251,IEEE
+99659291201,Daniil  Rodin,60022403,Technion - Israel Institute of Technology
+81100400502,Gershon  Elber,60022403,Technion - Israel Institute of Technology
+81100400502,Gershon  Elber,60000251,IEEE
+81100400502,Gershon  Elber,60025488,The University of Utah
+99659292007,Mehmood  Ghaffar,60015595,Bielefeld University
+99659292087,Niklas  Biere,60015595,Bielefeld University
+99659290368,Daniel  Jäger,60015595,Bielefeld University
+81100141840,Karsten  Klein,60019578,Monash University
+81100141840,Karsten  Klein,60025525,University of Konstanz
+81100141840,Karsten  Klein,60025709,The University of Sydney
+81100141840,Karsten  Klein,60032991,Technical University Dortmund
+81100087062,Falk  Schreiber,60025525,University of Konstanz
+81100087062,Falk  Schreiber,60019578,Monash University
+81100087062,Falk  Schreiber,60014059,Martin Luther University of Halle-Wittenberg
+99659291490,Olaf  Kruse,60015595,Bielefeld University
+99658771476,Björn  Sommer,60104069,Royal College of Art
+99658771476,Björn  Sommer,60025525,University of Konstanz
+99658771476,Björn  Sommer,60019578,Monash University
+99658771476,Björn  Sommer,60015595,Bielefeld University
+99659289305,Luca  Marzialetti,60012630,Roma Tre University
+99659290958,Massimo  Candela,60028868,University of Pisa
+81100464555,Giuseppe  Di Battista,60012630,Roma Tre University
+81100464555,Giuseppe  Di Battista,60020919,Basilicata University Potenza
+81100464555,Giuseppe  Di Battista,60032350,Sapienza University of Rome
+99658638708,Nico  Reski,60108011,"Linnaeus University, Växjö"
+81310502395,Aris  Alissandrakis,60108011,"Linnaeus University, Växjö"
+81310502395,Aris  Alissandrakis,60104372,"Linnaeus University, Kalmar"
+81310502395,Aris  Alissandrakis,60032760,University of Hertfordshire
+81486656627,Kostiantyn Kucher,60108011,"Linnaeus University, Växjö"
+81486656627,Kostiantyn Kucher,60104372,"Linnaeus University, Kalmar"
+99659192192,Rafael Messias Martins,60108011,"Linnaeus University, Växjö"
+99659192192,Rafael Messias Martins,60104372,"Linnaeus University, Kalmar"
+81100367883,Andreas Kerren,60108011,"Linnaeus University, Växjö"
+81100367883,Andreas Kerren,60104372,"Linnaeus University, Kalmar"
+81100367883,Andreas Kerren,60009941,University of Kaiserslautern
+81100367883,Andreas Kerren,60018163,Vienna University of Technology
+81470654834,Maria  Skeppstedt,60021763,University of Potsdam
+81470654834,Maria  Skeppstedt,60028378,Stockholm University
+99659291514,Alisa  Lincke,60108011,"Linnaeus University, Växjö"
+81100336369,Jenny  Lundberg,60016636,Blekinge Institute of Technology
+99659289733,Maria  Thunander,60029170,Lund University
+81100334854,Marcelo  Milrad,60108011,"Linnaeus University, Växjö"
+81100334854,Marcelo  Milrad,60104372,"Linnaeus University, Kalmar"
+81339515283,Jonas  Lundberg,60009358,Linköping University
+81339515283,Jonas  Lundberg,60108011,"Linnaeus University, Växjö"
+81339515283,Jonas  Lundberg,60104372,"Linnaeus University, Kalmar"
+81501663475,Daniel Toll,60104372,"Linnaeus University, Kalmar"
+81442618410,Anna  Wingkvist,60108011,"Linnaeus University, Växjö"
+81442618410,Anna  Wingkvist,60104372,"Linnaeus University, Kalmar"
+99659292129,Tomohiro  Kawanabe,60016648,Riken
+81100125090,Jorji  Nonaka,60016648,Riken
+81100125090,Jorji  Nonaka,60011001,Kyoto University
+81100261727,Kenji  Ono,60011047,Kyushu University
+81100261727,Kenji  Ono,60016648,Riken
+81100261727,Kenji  Ono,60018735,Toshiba Corporation
+99659291920,Tu  Xing,60000937,Shenzhen University
+99659290153,Anna Sara Fagerholm,60022958,Mid Sweden University
+81496672621,Mattias  Andersson,60022958,Mid Sweden University
+81482662429,Björn  Zimmer,60019329,"University of Applied Sciences Upper Austria, School of Informatics, Communications and Media"
+81482662429,Björn  Zimmer,60108011,"Linnaeus University, Växjö"
+81482662429,Björn  Zimmer,60031832,Hannover University of Applied Sciences
+99659185142,Jan  Zenisek,60000594,"University of Applied Sciences Upper Austria, Wels"
+81361609796,Hans-Christian Jetter,60012408,University of Lübeck
+99658768907,Hyunwoo  Han,60002445,Ajou University
+99659290729,Taerin  Yoon,60002445,Ajou University
+99659288906,Hyeonsik  Gong,60002445,Ajou University
+81458652821,Kyungwon  Lee,60002445,Ajou University
+99659194221,Zana  Vosough,60072347,SAP AG
+99659194221,Zana  Vosough,60018353,Technische Universität Dresden
+81479656070,Dietrich Kammer,60013559,Dresden University of Applied Sciences
+81479656070,Dietrich Kammer,60018353,Technische Universität Dresden
+81479645196,Mandy  Keck,60019329,"University of Applied Sciences Upper Austria, School of Informatics, Communications and Media"
+81479645196,Mandy  Keck,60018353,Technische Universität Dresden
+81372593345,Rainer  Groh,60018353,Technische Universität Dresden
+81549260756,Fangfang  Zhou,60017060,Central South University
+99659194235,Minghui  Chen,60017060,Central South University
+99659194186,Zeyu  Wang,60017060,Central South University
+99659194127,Feng  Luo,60017060,Central South University
+99659194176,Xiaobo  Luo,60017060,Central South University
+99659194273,Wei  Huang,60017060,Central South University
+81490680300,Yi  Chen,60022528,Beijing Technology and Business University
+81549278756,Ying  Zhao,60017060,Central South University
+99659194214,Yang  Zou,60010851,Hohai University
+81319505316,Xiaoqin  Zeng,60010851,Hohai University
+81319505316,Xiaoqin  Zeng,60009415,The University of Texas at Dallas
+81319505316,Xiaoqin  Zeng,60008928,Hong Kong Polytechnic University
+81548020271,Huiyi  Liu,60010851,Hohai University
+81549102456,Yuhua  Liu,60021200,East China Normal University
+81549102456,Yuhua  Liu,60023813,Shanghai University
+99659194118,Hanfei Lin,60021200,East China Normal University
+99659194271,Yitao  Liang,60021200,East China Normal University
+99658989829,Sangbong  Yoo,60027884,Sejong University
+99658730770,Hongryeol  Ryu,60016912,Yonsei University
+81451594353,Taekyoung ‘Taekyoung’ Kwon,60027884,Sejong University
+81451594353,Taekyoung ‘Taekyoung’ Kwon,60013682,Seoul National University
+81451594353,Taekyoung ‘Taekyoung’ Kwon,60016912,Yonsei University
+81451594353,Taekyoung ‘Taekyoung’ Kwon,60003500,The Ohio State University
+99659194260,Nils  Rodrigues,60015815,University of Stuttgart
+81558361656,Rudolf  Netzel,60015815,University of Stuttgart
+99659194145,Kazi Riaz Ullah,60015815,University of Stuttgart
+99659194188,Alexander  Schultz,60018450,Fraunhofer Institute for Solar Energy Systems ISE
+81440598602,Bruno  Burger,60018450,Fraunhofer Institute for Solar Energy Systems ISE
+81548014780,Daniel  Weiskopf,60015815,University of Stuttgart
+81548014780,Daniel  Weiskopf,60025525,University of Konstanz
+81548014780,Daniel  Weiskopf,60018491,Simon Fraser University
+81500651305,Kumaripaba  Athukorala,60103653,Aalto University
+81500651305,Kumaripaba  Athukorala,60002952,University of Helsinki
+81500651305,Kumaripaba  Athukorala,60000944,Helsinki Institute for Information Technology
+81500651305,Kumaripaba  Athukorala,60012954,University of Oulu
+83058808757,Chao  An,60002952,University of Helsinki
+83058808757,Chao  An,60103653,Aalto University
+84459914957,Aki  Reijonen,60002952,University of Helsinki
+84459914957,Aki  Reijonen,60000944,Helsinki Institute for Information Technology
+81100125974,Jaakko  Peltonen,60011170,University of Tampere
+81100125974,Jaakko  Peltonen,60103653,Aalto University
+81100125974,Jaakko  Peltonen,60000944,Helsinki Institute for Information Technology
+99659194168,Christian  Bors,60018163,Vienna University of Technology
+81474695092,Markus  Bögl,60018163,Vienna University of Technology
+81375620061,Theresia Gschwandtner,60018163,Vienna University of Technology
+81100255622,Silvia  Miksch,60018163,Vienna University of Technology
+81100255622,Silvia  Miksch,60004038,Danube University Krems
+81100517120,Kazuo Misue,60014256,University of Tsukuba
+81100517120,Kazuo Misue,60007951,Fujitsu Ltd.
+99659194175,Kosuke  Otake,60014256,University of Tsukuba
+99659194114,Takahiro  Saito,60007951,Fujitsu Ltd.
+84460132057,Donghao  Ren,60029241,"University of California, Santa Barbara"
+81320492170,George  Legrady,60029241,"University of California, Santa Barbara"
+99659194233,Congmin  Li,60019533,Tianjin University
+99659194283,Boyi  Li,60016849,University of Toronto
+99659194157,Amontep  Wijitcharoen,60008786,King Mongkuts University of Technology Thonburi
+81413599918,Jonathan Hoyin Chan,60008786,King Mongkuts University of Technology Thonburi
+81339499259,Simon James Fong,60022317,University of Macau
+81339499259,Simon James Fong,60019499,Chinese Academy of Sciences
+81339499259,Simon James Fong,60005510,Nanyang Technological University
+81100203521,Robert P. Biuk-Aghai,60022317,University of Macau
+99659194248,Scarlet  Tin,60022317,University of Macau
+99659194162,Yi  Yang,60019499,Chinese Academy of Sciences
+84459002557,Wenjun  Guo,60002445,Ajou University
+99659194257,Seungwook  Kim,60013682,Seoul National University
+99659178205,Sangjoon  Son,60002445,Ajou University
+99659178107,Changhyung  Hong,60002445,Ajou University
+81100157592,Hyunjung (Helen) Shin,60002445,Ajou University
+81100157592,Hyunjung (Helen) Shin,60017246,University of Tübingen
+81100157592,Hyunjung (Helen) Shin,60026840,Friedrich Miescher Laboratory
+81100157592,Hyunjung (Helen) Shin,60013682,Seoul National University
+99659127931,Thanyathorn Thanapattheerakul,60008786,King Mongkuts University of Technology Thonburi
+99659128019,Jaturong  Kongmanee,60031707,Michigan State University
+99659128019,Jaturong  Kongmanee,60021285,Texas Tech University
+99659128019,Jaturong  Kongmanee,60008786,King Mongkuts University of Technology Thonburi
+99659194254,Saila  Shama,60016849,University of Toronto
+99659194245,Philip  Lu,60016849,University of Toronto
+99659194291,Narumol  Doungpan,60008786,King Mongkuts University of Technology Thonburi
+81384616279,Asawin  Meechai,60008786,King Mongkuts University of Technology Thonburi
+99659097484,Jiafan  Li,60021200,East China Normal University
+99659194115,Zhijie  Qiao,60021200,East China Normal University
+99659194278,Junjie  Wang,60021200,East China Normal University
+99659154692,Wutthipong  Kongburan,60008786,King Mongkuts University of Technology Thonburi
+81442613236,Praisan  Padungweang,60008786,King Mongkuts University of Technology Thonburi
+81550167556,Worarat  Krathu,60008786,King Mongkuts University of Technology Thonburi
+81550167556,Worarat  Krathu,60018163,Vienna University of Technology
+83058634857,Luca  Chech,60000481,University of Padova
+99659194161,Marta  Vasilieva,60002952,University of Helsinki
+99659194174,Lorenzo  Papa,60000481,University of Padova
+81100210885,Luciano  Gamberini,60000481,University of Padova
+99659185901,Jiajing  Zhang,60003970,Zhejiang University
+81466642306,Ren  Peng,60003970,Zhejiang University
+81466642306,Ren  Peng,60118080,School of Computer and Computing Science
+81381602769,Jinhui  Yu,60117933,"State Key Lab of CAD&CG, Zhejiang University"
+81381602769,Jinhui  Yu,60003970,Zhejiang University
+99659194267,Denise  Junger,60015815,University of Stuttgart
+99659194244,Isabel  Hagen,60015815,University of Stuttgart
+99659194217,Robin  Horst,60015815,University of Stuttgart
+99659194195,Lukas  Brand,60020927,Landshut University of Applied Sciences
+99659194195,Lukas  Brand,60000765,University of Erlangen-Nuremberg
+99659194195,Lukas  Brand,60015815,University of Stuttgart
+99659194159,Armin  Müller,60015815,University of Stuttgart
+99659194207,Benjamin  Weinert,60020306,University of Oldenburg
+99659194207,Benjamin  Weinert,60015815,University of Stuttgart
+99658770790,Patrick Cheong-Iao Pang,60118847,School of Computing and Information Systems
+99658770790,Patrick Cheong-Iao Pang,60026553,University of Melbourne
+99659194227,Bin  Pang,60022317,University of Macau
+99659194112,Dominique  Tranquille,60007919,University of Brighton
+81339530296,Gem  Stapleton,60007919,University of Brighton
+81339530296,Gem  Stapleton,60010818,University of Kent
+81384617071,Jim  Burton,60007919,University of Brighton
+81100642599,Peter J Rodgers,60010818,University of Kent
+81502795846,Thomas  Gründer,60018353,Technische Universität Dresden
+81479655070,Martin  Kleinsteuber,60019722,Technical University of Munich
+81479655070,Martin  Kleinsteuber,60116268,Mercateo Deutschland AG
+81479655070,Martin  Kleinsteuber,60028717,Ludwig-Maximilians-University Munich
+99659194250,Yuri  Sato,60007919,University of Brighton
+81100097678,Mateja  Jamnik,60031101,University of Cambridge
+81100097678,Mateja  Jamnik,60119999,Department of Computer Science and Technology
+81100097678,Mateja  Jamnik,60027272,The University of Edinburgh
+99658750308,Zohreh  Shams,60030480,University of Bath
+99658750308,Zohreh  Shams,60031101,University of Cambridge
+99658638715,Andrew  Blake,60007919,University of Brighton
+99659010090,Francesco  Paduano,60027561,University of Illinois at Chicago
+81551311756,Ronak  Etemadpour,60007033,City University of New York
+81551311756,Ronak  Etemadpour,60006514,Oklahoma State University - Stillwater
+81551311756,Ronak  Etemadpour,60032759,Oklahoma State University System
+81551311756,Ronak  Etemadpour,60016458,Jacobs University Bremen
+81474644982,Angus Graeme Forbes,60024941,"University of California, Santa Cruz"
+81474644982,Angus Graeme Forbes,60009254,Purdue University
+81474644982,Angus Graeme Forbes,60027561,University of Illinois at Chicago
+81474644982,Angus Graeme Forbes,60010065,The University of Arizona
+99659020506,Yun  Wang,60008592,Hong Kong University of Science and Technology
+99659070996,Dongyu  Liu,60022195,Massachusetts Institute of Technology
+99659070996,Dongyu  Liu,60008592,Hong Kong University of Science and Technology
+81100337801,Huamin  Qu,60008592,Hong Kong University of Science and Technology
+81100337801,Huamin  Qu,60000251,IEEE
+81339515235,Qiong Luo,60008592,Hong Kong University of Science and Technology
+81339515235,Qiong Luo,60025278,Tsinghua University
+81484654594,Xiaojuan  Ma,60008592,Hong Kong University of Science and Technology
+81484654594,Xiaojuan  Ma,60025778,"University of Michigan, Ann Arbor"
+81556666156,Yang  Shi,60073652,Tongji University
+81556666156,Yang  Shi,60017060,Central South University
+81339540126,Yaoxue  Zhang,60025278,Tsinghua University
+81339540126,Yaoxue  Zhang,60017060,Central South University
+81408600293,Guojun  Wang,60025345,Guangzhou University
+81408600293,Guojun  Wang,60017060,Central South University
+81408600293,Guojun  Wang,60030398,Temple University
+81408600293,Guojun  Wang,60031404,The University of Aizu
+81408600293,Guojun  Wang,60008928,Hong Kong Polytechnic University
+81470649905,Ronghua  Shi,60017060,Central South University
+99658630885,Xing  Liang,60003892,Arizona State University
+81100655096,Rainer C Splechtna,60006202,VRVis Research Center
+81100655096,Rainer C Splechtna,60020304,"University of Maryland, College Park (UMD)"
+99658770166,Alexandra  Diehl,60025525,University of Konstanz
+99658770166,Alexandra  Diehl,60001563,University of Buenos Aires
+99658770166,Alexandra  Diehl,60020304,"University of Maryland, College Park (UMD)"
+81554544456,Mai H Elshehaly,60027090,Virginia Polytechnic Institute and State University
+81554544456,Mai H Elshehaly,60020304,"University of Maryland, College Park (UMD)"
+81544964956,Claudio A Delrieux,60013496,South National University
+81544964956,Claudio A Delrieux,60020304,"University of Maryland, College Park (UMD)"
+81100637283,Denis Gracanin,60027090,Virginia Polytechnic Institute and State University
+81100637283,Denis Gracanin,60020304,"University of Maryland, College Park (UMD)"
+81375609028,Krešimir  Matković,60006202,VRVis Research Center
+81375609028,Krešimir  Matković,60020304,"University of Maryland, College Park (UMD)"
+81375609028,Krešimir  Matković,60000251,IEEE
+99659068906,Kouhei  Yasuda,60025272,The University of Tokyo
+81410594549,Shigeo Takahashi,60031404,The University of Aizu
+81410594549,Shigeo Takahashi,60025272,The University of Tokyo
+81410594549,Shigeo Takahashi,60000251,IEEE
+81440610884,Hsiangyun  Wu,60018163,Vienna University of Technology
+81440610884,Hsiangyun  Wu,60025997,Keio University
+81440610884,Hsiangyun  Wu,60025272,The University of Tokyo
+81100511332,Quang Vinh Nguyen,60107806,"The MARCS Institute for Brain, Behaviour and Development"
+81100511332,Quang Vinh Nguyen,60017803,Western Sydney University
+81100511332,Quang Vinh Nguyen,60023932,University of Technology Sydney
+81100077710,Simeon J Simoff,60017803,Western Sydney University
+81100077710,Simeon J Simoff,60107806,"The MARCS Institute for Brain, Behaviour and Development"
+81452599675,Yu  Qian,60004876,J. Craig Venter Institute
+81452599675,Yu  Qian,60009415,The University of Texas at Dallas
+81100079792,Maolin  Huang,60023932,University of Technology Sydney
+81100079792,Maolin  Huang,60019533,Tianjin University
+81100079792,Maolin  Huang,60026990,Tianjin University of Technology
+81100079792,Maolin  Huang,60010571,"The University of Newcastle, Australia"
+99658770290,Martin  Röhlig,60003615,University of Rostock
+81100094349,H. Schumann,60003615,University of Rostock
+81320496219,Ruth West,60024438,University of North Texas
+81320496219,Ruth West,60027550,"University of California, Los Angeles"
+81320496219,Ruth West,60030612,"University of California, San Diego"
+99659067772,Meghan  Kajihara,60024438,University of North Texas
+99658988047,Max  Parola,60024438,University of North Texas
+99659067444,Kathryn  Hays,60024438,University of North Texas
+99659068485,Luke  Hillard,60024438,University of North Texas
+99659067913,Anne  Carlew,60024438,University of North Texas
+99659068986,Jeremey  Deutsch,60024438,University of North Texas
+99659068083,Brandon  Lane,60024438,University of North Texas
+99658628447,Michelle  Holloway,60010261,Washington University in St. Louis
+87658893257,Brendan John,60013959,University of Florida
+87658893257,Brendan John,60001777,Rochester Institute of Technology
+99658988516,Anahita  Sanandaji,60013402,Oregon State University
+81100553787,Cindy Marie Grimm,60013402,Oregon State University
+81100553787,Cindy Marie Grimm,60010261,Washington University in St. Louis
+81100553787,Cindy Marie Grimm,60020547,Texas A&M University
+81100553787,Cindy Marie Grimm,60022144,University of Central Florida
+81100553787,Cindy Marie Grimm,60000251,IEEE
+99659036087,Zheng  Huang,60032270,North Dakota State University
+99659068000,Jed  Limke,60032270,North Dakota State University
+81408600332,Jun  Kong,60032270,North Dakota State University
+81408600332,Jun  Kong,60009415,The University of Texas at Dallas
+99658765217,Muye  Yang,60022317,University of Macau
+99658766518,Yina  Li,60018038,Nankai University
+99658766563,Dongjin  Li,60018038,Nankai University
+99659068785,Casey  Haber,60085748,University of San Francisco
+99659068146,Lyndonong  Yiu,60085748,University of San Francisco
+81339508109,Alark  Joshi,60085748,University of San Francisco
+81339508109,Alark  Joshi,60005455,Yale University
+81339508109,Alark  Joshi,60024997,"University of Maryland, Baltimore County (UMBC)"
+81339508109,Alark  Joshi,60000251,IEEE
+81442602782,Sophie Engle,60085748,University of San Francisco
+81442602782,Sophie Engle,60014439,"University of California, Davis"
+99659068491,Hui  Lei,60001338,Changsha University of Science and Technology
+99659067824,Cong  Xie,60026415,Stony Brook University
+99659068366,Pingping  Shang,60117933,"State Key Lab of CAD&CG, Zhejiang University"
+99659068293,Fan  Zhang,60022195,Massachusetts Institute of Technology
+99659068293,Fan  Zhang,60026282,Zhejiang University of Technology
+81548161656,Weri  Chen,60117933,"State Key Lab of CAD&CG, Zhejiang University"
+81548161656,Weri  Chen,60003970,Zhejiang University
+81451598508,Qunsheng  Peng,60117933,"State Key Lab of CAD&CG, Zhejiang University"
+81451598508,Qunsheng  Peng,60003970,Zhejiang University
+81474695617,Tobias Ruppert,60027424,Fraunhofer Institute for Computer Graphics Research IGD
+99658949790,Andreas  Bannach,60027424,Fraunhofer Institute for Computer Graphics Research IGD
+81442607723,Jürgen Bernard,60012614,University of Zurich
+81442607723,Jürgen Bernard,60010365,The University of British Columbia
+81442607723,Jürgen Bernard,60027424,Fraunhofer Institute for Computer Graphics Research IGD
+99658654866,Hendrik  Lücke-Tieke,60027424,Fraunhofer Institute for Computer Graphics Research IGD
+99658657326,Alex  Ulmer,60027424,Fraunhofer Institute for Computer Graphics Research IGD
+81332509409,Jörn  Kohlhammer,60027424,Fraunhofer Institute for Computer Graphics Research IGD
+81332509409,Jörn  Kohlhammer,60011226,Technical University of Darmstadt
+99659191638,Jiangen  He,60014662,Drexel University
+99659191638,Jiangen  He,60020304,"University of Maryland, College Park (UMD)"
+81100119664,Chaomei  Chen,60014662,Drexel University
+81100119664,Chaomei  Chen,60004538,Dalian University of Technology
+81100119664,Chaomei  Chen,60020623,Brunel University London
+81100119664,Chaomei  Chen,60007573,Glasgow Caledonian University
+99659068616,Wenqian  Ji,60010851,Hohai University
+99659067476,Yan  Tang,60010851,Hohai University
+99659068606,Pengju  Ma,60010851,Hohai University
+99659068288,Shijie  Tang,60010851,Hohai University
+99659068325,Zhipeng  Fang,60010851,Hohai University
+99659068772,Xuan  Li,60112903,"Baidu, Inc."
+81548022965,Tianjian  Chen,60112903,"Baidu, Inc."
+81490644010,Lina  Zhang,60117933,"State Key Lab of CAD&CG, Zhejiang University"
+81452595774,Kwan-Liu Ma,60014439,"University of California, Davis"
+81452595774,Kwan-Liu Ma,60000251,IEEE
+81452595774,Kwan-Liu Ma,60000854,NASA Langley Research Center
+81452595774,Kwan-Liu Ma,60025488,The University of Utah
+99659664633,Jinhui  Yu,60117933,"State Key Lab of CAD&CG, Zhejiang University"
+99659068053,Lu  Xiong,60019533,Tianjin University
+99659067653,Kai  Sun,60023813,Shanghai University
+99659067563,Zongchao  Guo,60023813,Shanghai University
+99659664742,Iliesa S Delai,60003883,Brigham Young University Hawaii
+99659068939,Meilan  Jin,60006832,Brigham Young University
+81430638972,Geoffrey M Draper,60003883,Brigham Young University Hawaii
+81430638972,Geoffrey M Draper,60025488,The University of Utah
+99659068113,Seimei  Matsusaki,60085748,University of San Francisco
+99659067967,Xi  Han,60085748,University of San Francisco
+99659068200,Xin  Kang,60001895,Ningbo University of Technology
+99659068200,Xin  Kang,60014966,Peking University
+99659068200,Xin  Kang,60012392,National Taipei University of Technology
+99659068315,Yinan  Li,60005244,Southeast University
+99659068936,Jian  Wang,60005244,Southeast University
+99659068554,Daniel  Wilches,60008827,University of Wyoming
+83059087157,Amy Banić,60008827,University of Wyoming
+99659052542,Zhao Xiao,60019533,Tianjin University
+99659052542,Zhao Xiao,60021200,East China Normal University
+99659067654,Jie  Wu,60073652,Tongji University
+99659068256,Guangxi  Chen,60073652,Tongji University
+99659068830,Wang  Qian,60025084,Shanghai Jiao Tong University
+99659067729,Xiao  Bing,60025084,Shanghai Jiao Tong University
+81487640747,Vetria Laverne Byrd,60009254,Purdue University
+81487640747,Vetria Laverne Byrd,60027086,The University of Alabama at Birmingham
+81372593397,Joseph A Cottam,60023471,Pacific Northwest National Laboratory
+81372593397,Joseph A Cottam,60021121,Indiana University Bloomington
+99658767899,Koji  Kainou,60014256,University of Tsukuba
+81100070397,Hotaka  Takizawa,60014256,University of Tsukuba
+81100070397,Hotaka  Takizawa,60003497,Toyohashi University of Technology
+99658769229,Mayumi  Aoyagi,60026600,Aichi University of Education
+81309484223,Nobuo  Ezaki,60194074,"National Institute of Technology, Toba College"
+99660176893,Shinji  Mizuno,60022804,Aichi Institute of Technology
+99660176893,Shinji  Mizuno,60003497,Toyohashi University of Technology
+81330495342,Christoph  Müller,60015815,University of Stuttgart
+81336492267,Guido  Reina,60015815,University of Stuttgart
+81332497603,Thomas Ertl,60015815,University of Stuttgart
+81444600345,Michael  Krone,60017246,University of Tübingen
+81444600345,Michael  Krone,60015815,University of Stuttgart
+99658638712,Anatoly  Yelizarov,60007457,Lomonosov Moscow State University
+81336489058,Dennis Yu Gamayunov,60007457,Lomonosov Moscow State University
+99658638266,Brady  Cannon,60031318,Micron Technology Incorporated
+99658638173,Minoti  Hiremath,60001456,Boise State University
+81481649504,Cheryl  Jorcyk,60001456,Boise State University
+81430601375,Tze Haw Huang,60023932,University of Technology Sydney
+81444602443,Laiping  Zhao,60019533,Tianjin University
+81444602443,Laiping  Zhao,60011047,Kyushu University
+99658640147,Gao  Yi,60025272,The University of Tokyo
+87958942257,Kazuyo  Mizuno,60025272,The University of Tokyo
+81453634205,Hong  Zhou,60000937,Shenzhen University
+81453634205,Hong  Zhou,60008592,Hong Kong University of Science and Technology
+81487645560,Panpan  Xu,60076698,Bosch Research and Technology Center
+81487645560,Panpan  Xu,60008592,Hong Kong University of Science and Technology
+81100136462,Zhong  Ming,60000937,Shenzhen University
+81100136462,Zhong  Ming,60003146,Henan University
+81323497372,Haile  Vu,60019578,Monash University
+81323497372,Haile  Vu,60030804,Swinburne University of Technology
+99658640625,Jan  Wolter,60020238,University of Paderborn
+81100449926,Uwe  Kastens,60020238,University of Paderborn
+81100449926,Uwe  Kastens,60029428,"Karlsruhe Institute of Technology, Campus South"
+99658641338,Kaimin  Chen,60012370,National Chiao Tung University Taiwan
+81548026358,Sai Keung Wong,60012370,National Chiao Tung University Taiwan
+81100425686,Paolo  Bottoni,60032350,Sapienza University of Rome
+81100425686,Paolo  Bottoni,60030318,University of Milan
+81350572984,Kamen D Kanev,60103680,Shizuoka University
+81350572984,Kamen D Kanev,60002146,Ontario Tech University
+81350572984,Kamen D Kanev,60031404,The University of Aizu
+81100503196,Nikolay N Mirenkov,60031404,The University of Aizu
+81100503196,Nikolay N Mirenkov,60017604,"Siberian Branch, Russian Academy of Sciences"
+81552904056,Lei  Ren,60013789,Beihang University
+81552904056,Lei  Ren,60001604,Ministry of Education China
+99660111829,Jin  Cui,60013789,Beihang University
+81470647228,Yi  Du,60019499,Chinese Academy of Sciences
+81470647228,Yi  Du,60027363,University of Chinese Academy of Sciences
+81100172122,Guozhong  Dai,60025256,Institute of Software Chinese Academy of Sciences
+81100172122,Guozhong  Dai,60019499,Chinese Academy of Sciences
+81100172122,Guozhong  Dai,60026638,Nokia Corporation
+81100475245,Vincenzo Deufemia,60007061,University of Salerno
+82459248057,Christopher  D'Souza,60010679,Australian Catholic University
+82459248057,Christopher  D'Souza,60017803,Western Sydney University
+81100317930,Athula  Ginige,60025709,The University of Sydney
+81100317930,Athula  Ginige,60017803,Western Sydney University
+81100317930,Athula  Ginige,60109537,Link Campus University
+81479657628,Haifeng  Li,60019616,Harbin Institute of Technology
+82459167457,Dayi  Yang,60019616,Harbin Institute of Technology
+82459085757,Yangyang  Fu,60019616,Harbin Institute of Technology
+82458947557,Hujie  Huang,60019616,Harbin Institute of Technology
+82458827157,Hongyuan  Fang,60019616,Harbin Institute of Technology
+81466644873,Mofei  Song,60033100,Nanjing University
+82458781457,Feiqian  Zhang,60033100,Nanjing University
+81375607623,Zhengxing  Sun,60033100,Nanjing University
+81408596522,Yan  Zhang,60104079,Beijing Electronic Science and Technology Institute
+81408596522,Yan  Zhang,60033100,Nanjing University
+84460499457,Quan  Li,60025278,Tsinghua University
+81550069356,Li  Chen,60025278,Tsinghua University
+81350568307,Jun-Hai Yong,60025278,Tsinghua University
+81472652484,Abhishek P Chhetri,60009415,The University of Texas at Dallas
+99659528788,Eakta  Jain,60015272,Texas Instruments
+99659528788,Eakta  Jain,60009415,The University of Texas at Dallas
+82459080257,Chenghai  Zhang,60021200,East China Normal University
+81549398556,Zaijia  Liu,60025278,Tsinghua University
+81416606402,Xianjunsam  Zheng,60025278,Tsinghua University
+81416606402,Xianjunsam  Zheng,60084261,Siemens USA
+82458982257,Mingyang  Wu,60025278,Tsinghua University
+82458977257,Rui  Dong,60025278,Tsinghua University
+81549374356,Kaiping  Peng,60025278,Tsinghua University
+81375593142,Jie  Liang,60023932,University of Technology Sydney
+81375593142,Jie  Liang,60014966,Peking University
+81375593142,Jie  Liang,60022281,Beijing University of Technology
+81500642052,Rossella  Aiello,60007061,University of Salerno
+81100355192,Giancarlo  Nota,60007061,University of Salerno
+81100149457,Gennaro  Costagliola,60007061,University of Salerno
+81100149457,Gennaro  Costagliola,60000251,IEEE
+82458760257,Fabrizio  Torre,60007061,University of Salerno
+82458612157,Waihou  Ao,60022317,University of Macau
+82459058457,Mattia  de Rosa,60007061,University of Salerno
+81339499356,Andrew  Fish,60007919,University of Brighton
+81315488598,Vittorio  Fuccella,60007061,University of Salerno
+82459181257,Chenxi  Li,60033100,Nanjing University
+82458777657,Yejia  Zhang,60033100,Nanjing University
+82459145257,Tianyang  Liu,60032530,University of Tours
+81339491153,Fatma  Bouali,60104665,University of Lille
+81339491153,Fatma  Bouali,60032530,University of Tours
+81100271205,Gilles  Venturini,60032530,University of Tours
+81100271205,Gilles  Venturini,60024652,Paris-Sud University
+81453651594,William  Plant,60014551,Aston University
+81324493315,Gerald  Schaefer,60000891,Loughborough University
+81324493315,Gerald  Schaefer,60014551,Aston University
+81324493315,Gerald  Schaefer,60006029,Nottingham Trent University
+81324493315,Gerald  Schaefer,60000112,University of East Anglia
+81550168756,Ning  Li,60031031,Shandong University
+81548917056,Zhifang  Jiang,60031031,Shandong University
+82458926857,Zixiang  Liu,60031031,Shandong University
+81322501374,Xiangxu  Meng,60031031,Shandong University
+81322501374,Xiangxu  Meng,60001604,Ministry of Education China
+82459232057,Xiaoting  Bi,60031031,Shandong University
+81540747756,Shenghui  Cheng,60031031,Shandong University
+82459188557,Gerry  Derksen,60026305,Winthrop University
+81363600690,Stan  Ruecker,60000745,University of Illinois Urbana-Champaign
+81363600690,Stan  Ruecker,60032949,IIT Research Institute
+81363600690,Stan  Ruecker,60030835,University of Alberta
+82458635157,Tim  Causer,60022148,University College London
+81548023973,Melissa M Terras,60027272,The University of Edinburgh
+81548023973,Melissa M Terras,60022148,University College London
+99659643290,Yingqing  Xu,60025278,Tsinghua University
+81100264735,Michelle Xue Zhou,60031706,Utah State University
+81100264735,Michelle Xue Zhou,60009253,IBM Research - Almaden
+81100264735,Michelle Xue Zhou,60011048,IBM Research
+81100264735,Michelle Xue Zhou,60021293,International Business Machines
+81388592076,Jing  Fan,60026282,Zhejiang University of Technology
+81388592076,Jing  Fan,60117751,"College of Computer Science and Technology, Zhejiang University"
+81508690581,Xiaoying  Shi,60026282,Zhejiang University of Technology
+81549289956,Zhan  Zhou,60026282,Zhejiang University of Technology
+81388598707,Ying  Tang,60026282,Zhejiang University of Technology
+81339498581,Xiaoping  Fan,60017060,Central South University
+81339498581,Xiaoping  Fan,60109026,Hunan University of Finance and Economics
+81549340856,Ruobo  Xin,60031031,Shandong University
+99659739027,Chuang  Lin,60025278,Tsinghua University
+99659739027,Chuang  Lin,60104026,Tsinghua National Laboratory for Information Science and Technology
+99659747465,Lei  Shi,60025256,Institute of Software Chinese Academy of Sciences
+99659747465,Lei  Shi,60019499,Chinese Academy of Sciences
+81100484491,Shimei  Pan,60020304,"University of Maryland, College Park (UMD)"
+81100484491,Shimei  Pan,60024997,"University of Maryland, Baltimore County (UMBC)"
+81442597296,Weihong  Qian,60107937,IBM China Company Limited
+81442597296,Weihong  Qian,60022933,IBM Research - China
+81442597296,Weihong  Qian,60011048,IBM Research
+81548713556,Dongxu  Duan,60022933,IBM Research - China
+81548713556,Dongxu  Duan,60107937,IBM China Company Limited
+81549326956,Jared  Shenson,60003915,Vanderbilt University
+81504684109,Alark  Joshi,60001456,Boise State University
+81548522456,Xiaojuan  Liu,60023237,Beijing Normal University
+81100220220,Xia Lin,60014662,Drexel University
+81100220220,Xia Lin,60020304,"University of Maryland, College Park (UMD)"
+81100220220,Xia Lin,60022559,Pace University
+81474659807,Tuannhon  Dang,60027561,University of Illinois at Chicago
+81100304143,Leland K Wilkinson,60027561,University of Illinois at Chicago
+81100304143,Leland K Wilkinson,60007363,Northwestern University
+81548739656,Li  Yu,60006951,The University of North Carolina at Charlotte
+81453614419,Jiawan  Zhang,60019533,Tianjin University
+99659918096,Peng  Ye,60010432,Soochow University
+81549269856,Chenming  Pang,60021200,East China Normal University
+81549576556,Cong  Chen,60009415,The University of Texas at Dallas
+81548735956,Roy Chi Kit Chan,60022317,University of Macau
+81548349256,Kewei  Yang,60033100,Nanjing University
+81549407256,Jie  Zhou,60033100,Nanjing University
+99659380172,Yi  Li,60033100,Nanjing University
+81467663707,Xianlin  Hu,60006951,The University of North Carolina at Charlotte
+81435599709,Lane T Harrison,60011410,Worcester Polytechnic Institute
+81435599709,Lane T Harrison,60023143,Tufts University
+81435599709,Lane T Harrison,60006951,The University of North Carolina at Charlotte
+81548355456,Huaguang  Song,60013813,"University of the Pacific, California"
+81100132506,Jinzhu  Gao,60013813,"University of the Pacific, California"
+81100132506,Jinzhu  Gao,60005745,University of Minnesota System
+81100132506,Jinzhu  Gao,60024266,Oak Ridge National Laboratory
+81100132506,Jinzhu  Gao,60000251,IEEE
+81100132506,Jinzhu  Gao,60003500,The Ohio State University
+81549254156,Shuqing  Liu,60019533,Tianjin University
+81549254156,Shuqing  Liu,60025278,Tsinghua University
+81548996956,Jiang  Jian,60025278,Tsinghua University
+81548461556,Guanmin  Liu,60025278,Tsinghua University
+81100080630,Weidong Huang,60023932,University of Technology Sydney
+81100080630,Weidong Huang,60030804,Swinburne University of Technology
+81100080630,Weidong Huang,60015356,University of Tasmania
+81100227371,Chuncheng  Lin,60199493,National Yang Ming Chiao Tung University
+81100227371,Chuncheng  Lin,60012370,National Chiao Tung University Taiwan
+81100227371,Chuncheng  Lin,60104521,University of Taipei
+81467645327,Xiaoyu  Wang,60006951,The University of North Carolina at Charlotte
+81100084142,Eric A. Bier,60028487,Palo Alto Research Center Incorporated
+81100084142,Eric A. Bier,60025038,"University of California, Berkeley"
+81367590837,Thomas James Butkiewicz,60027646,University System of New Hampshire
+81367590837,Thomas James Butkiewicz,60027576,University of New Hampshire Durham
+81100028256,William  Ribarsky,60006951,The University of North Carolina at Charlotte
+81100028256,William  Ribarsky,60000251,IEEE
+81100028256,William  Ribarsky,60019647,Georgia Institute of Technology
+81100028256,William  Ribarsky,60015099,Georgia Tech Research Institute
+81414604610,Wenwen  Dou,60006951,The University of North Carolina at Charlotte
+81466645302,Cheongiao  Pang,60022317,University of Macau
+81487645436,Felix Hon Hou Cheang,60022317,University of Macau
+81487644992,Takashi  Yuki,60014256,University of Tsukuba
+81542207356,Zhirong  Zeng,60019499,Chinese Academy of Sciences
+81487643126,Kun  Wang,60022381,Beijing Jiaotong University
+81384607002,Dongxing  Teng,60025256,Institute of Software Chinese Academy of Sciences
+81384607002,Dongxing  Teng,60019499,Chinese Academy of Sciences
+81100220294,Hong'an  Wang,60025256,Institute of Software Chinese Academy of Sciences
+81100220294,Hong'an  Wang,60118460,Alibaba Group Holding Limited
+81487645949,Yuri  Saito,60007912,Ochanomizu University
+81487652857,Yasuhiko  Sota,60026275,Shimane University
+81487646379,Keisuke  Yamamoto,60026275,Shimane University
+81100170303,Masahito  Hirakawa,60026275,Shimane University
+81100170303,Masahito  Hirakawa,60030788,Hiroshima University
+81430655874,Anna  Wu,60001439,Pennsylvania State University
+81430655874,Anna  Wu,60025278,Tsinghua University
+81487647520,Xin  Yan,60001439,Pennsylvania State University
+81316491376,Xiaolong(Luke)  Zhang,60001439,Pennsylvania State University
+81316491376,Xiaolong(Luke)  Zhang,60013268,Taiyuan University of Technology
+81316491376,Xiaolong(Luke)  Zhang,60014662,Drexel University
+81316491376,Xiaolong(Luke)  Zhang,60010065,The University of Arizona
+81100106876,Feng  Tian,60025256,Institute of Software Chinese Academy of Sciences
+81100106876,Feng  Tian,60019499,Chinese Academy of Sciences
+81100130420,Xiang  Cao,60114381,"Lenovo Group, China"
+81100130420,Xiang  Cao,60098464,Microsoft Research Asia
+81100130420,Xiang  Cao,60021726,Microsoft Research
+81100130420,Xiang  Cao,60098463,Microsoft Research Cambridge
+81100130420,Xiang  Cao,60023004,University of Delaware
+81484645699,Fei Lyu,60016930,Beijing University of Posts and Telecommunications
+81484645699,Fei Lyu,60025256,Institute of Software Chinese Academy of Sciences
+81408600520,Philip Trevor Cox,60015913,Dalhousie University
+81408600520,Philip Trevor Cox,60014171,University of Waterloo
+81100654649,Simon  Gauvin,60015913,Dalhousie University
+81487652078,Jian  Shi,60019499,Chinese Academy of Sciences
+81550008956,Ying  Qiao,60025256,Institute of Software Chinese Academy of Sciences
+81550008956,Ying  Qiao,60019499,Chinese Academy of Sciences
+81487649595,Yi  Zhang,60019533,Tianjin University
+81467659085,Lei  Fu,60019533,Tianjin University
+81487640674,Qinghui  Guo,60019533,Tianjin University
+81418594635,Jie  Hao,60009415,The University of Texas at Dallas
+81487651695,Jiansu  Pu,60008592,Hong Kong University of Science and Technology
+81100228981,Weiwei  Cui,60098464,Microsoft Research Asia
+81100228981,Weiwei  Cui,60021726,Microsoft Research
+81100228981,Weiwei  Cui,60008592,Hong Kong University of Science and Technology
+88159345257,Siyuan  Liu,60027950,Carnegie Mellon University
+88159345257,Siyuan  Liu,60001439,Pennsylvania State University
+88159345257,Siyuan  Liu,60116247,Penn State Smeal College of Business
+81100358196,Lionel Ming Shuan Ni,60008592,Hong Kong University of Science and Technology
+81100358196,Lionel Ming Shuan Ni,60022317,University of Macau
+81100358196,Lionel Ming Shuan Ni,60025084,Shanghai Jiao Tong University
+81479650318,Yu  Su,60017536,Southern Methodist University
+81409595451,Margaret H Dunham,60017536,Southern Methodist University
+81409595451,Margaret H Dunham,60021918,University of Virginia
+81502758188,Liang  Gou,60076698,Bosch Research and Technology Center
+81502758188,Liang  Gou,60095780,Visa Inc.
+81502758188,Liang  Gou,60009253,IBM Research - Almaden
+81502758188,Liang  Gou,60001439,Pennsylvania State University
+81351599219,Fang  You,60021182,Sun Yat-Sen University
+81487643456,Jun  Guo,60021182,Sun Yat-Sen University
+81487650203,Luqi  Wu,60021182,Sun Yat-Sen University
+81100482168,SuTe  Lei,60009415,The University of Texas at Dallas
+81332504463,James D Hollan,60030612,"University of California, San Diego"
+81332504463,James D Hollan,60020304,"University of Maryland, College Park (UMD)"
+81100083927,Ben Bederson,60020304,"University of Maryland, College Park (UMD)"
+81100083927,Ben Bederson,60031278,"RISE, Swedish Institute of Computer Science"
+81100495902,CÉcile Laurance Paris,60108057,CSIRO Data61
+81100495902,CÉcile Laurance Paris,60019544,Macquarie University
+81100495902,CÉcile Laurance Paris,60029470,Commonwealth Scientific and Industrial Research Organization
+81100549711,Shengfeng  Qin,60004636,Northumbria University
+81100549711,Shengfeng  Qin,60020623,Brunel University London
+81470646542,Shaorong  Wang,60014966,Peking University
+99659385433,Yisong  Chen,60014966,Peking University

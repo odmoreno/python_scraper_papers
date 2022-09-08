@@ -1,0 +1,2171 @@
+{
+  "60015815": {
+    "id": "60015815",
+    "name": "University of Stuttgart",
+    "url": "https://dl.acm.org/institution/60015815",
+    "ad0": "Stuttgart",
+    "ad1": "Baden-Wurttemberg",
+    "ad2": "Germany"
+  },
+  "60018163": {
+    "id": "60018163",
+    "name": "Vienna University of Technology",
+    "url": "https://dl.acm.org/institution/60018163",
+    "ad0": "Vienna",
+    "ad1": "Vienna",
+    "ad2": "Austria"
+  },
+  "60025988": {
+    "id": "60025988",
+    "name": "University of Vienna",
+    "url": "https://dl.acm.org/institution/60025988",
+    "ad0": "Vienna",
+    "ad1": "Vienna",
+    "ad2": "Austria"
+  },
+  "60102083": {
+    "id": "60102083",
+    "name": "Shenzhen Institute of Advanced Technology",
+    "url": "https://dl.acm.org/institution/60102083",
+    "ad0": "Shenzhen",
+    "ad1": "China"
+  },
+  "60031031": {
+    "id": "60031031",
+    "name": "Shandong University",
+    "url": "https://dl.acm.org/institution/60031031",
+    "ad0": "Qingdao",
+    "ad1": "Shandong",
+    "ad2": "China"
+  },
+  "60018491": {
+    "id": "60018491",
+    "name": "Simon Fraser University",
+    "url": "https://dl.acm.org/institution/60018491",
+    "ad0": "Burnaby",
+    "ad1": "BC",
+    "ad2": "Canada"
+  },
+  "60000251": {
+    "id": "60000251",
+    "name": "IEEE",
+    "url": "https://dl.acm.org/institution/60000251",
+    "ad0": "New York",
+    "ad1": "NY",
+    "ad2": "United States"
+  },
+  "60017246": {
+    "id": "60017246",
+    "name": "University of Tübingen",
+    "url": "https://dl.acm.org/institution/60017246",
+    "ad0": "Tubingen",
+    "ad1": "Baden-Wurttemberg",
+    "ad2": "Germany"
+  },
+  "60016458": {
+    "id": "60016458",
+    "name": "Jacobs University Bremen",
+    "url": "https://dl.acm.org/institution/60016458",
+    "ad0": "Bremen",
+    "ad1": "Bremen",
+    "ad2": "Germany"
+  },
+  "60010365": {
+    "id": "60010365",
+    "name": "The University of British Columbia",
+    "url": "https://dl.acm.org/institution/60010365",
+    "ad0": "Vancouver",
+    "ad1": "BC",
+    "ad2": "Canada"
+  },
+  "60007912": {
+    "id": "60007912",
+    "name": "Ochanomizu University",
+    "url": "https://dl.acm.org/institution/60007912",
+    "ad0": "Tokyo",
+    "ad1": "Japan"
+  },
+  "60107858": {
+    "id": "60107858",
+    "name": "IBM Japan, Ltd.",
+    "url": "https://dl.acm.org/institution/60107858",
+    "ad0": "Tokyo",
+    "ad1": "Japan"
+  },
+  "60025997": {
+    "id": "60025997",
+    "name": "Keio University",
+    "url": "https://dl.acm.org/institution/60025997",
+    "ad0": "Tokyo",
+    "ad1": "Japan"
+  },
+  "60108011": {
+    "id": "60108011",
+    "name": "Linnaeus University, Växjö",
+    "url": "https://dl.acm.org/institution/60108011",
+    "ad0": "Vaxjo",
+    "ad1": "Sweden"
+  },
+  "60006517": {
+    "id": "60006517",
+    "name": "University of Western Macedonia",
+    "url": "https://dl.acm.org/institution/60006517",
+    "ad0": "Kozani",
+    "ad1": "Greece"
+  },
+  "60104372": {
+    "id": "60104372",
+    "name": "Linnaeus University, Kalmar",
+    "url": "https://dl.acm.org/institution/60104372",
+    "ad0": "Kalmar",
+    "ad1": "Kalmar",
+    "ad2": "Sweden"
+  },
+  "60014439": {
+    "id": "60014439",
+    "name": "University of California, Davis",
+    "url": "https://dl.acm.org/institution/60014439",
+    "ad0": "Davis",
+    "ad1": "CA",
+    "ad2": "United States"
+  },
+  "60085150": {
+    "id": "60085150",
+    "name": "Mercedes Benz Cars",
+    "url": "https://dl.acm.org/institution/60085150",
+    "ad0": "Stuttgart",
+    "ad1": "Germany"
+  },
+  "60003027": {
+    "id": "60003027",
+    "name": "Stuttgart Media University",
+    "url": "https://dl.acm.org/institution/60003027",
+    "ad0": "Stuttgart",
+    "ad1": "Baden-Wurttemberg",
+    "ad2": "Germany"
+  },
+  "60106550": {
+    "id": "60106550",
+    "name": "Hasso Plattner Institute for Digital Engineering gGmbH",
+    "url": "https://dl.acm.org/institution/60106550",
+    "ad0": "Potsdam",
+    "ad1": "Brandenburg",
+    "ad2": "Germany"
+  },
+  "60021763": {
+    "id": "60021763",
+    "name": "University of Potsdam",
+    "url": "https://dl.acm.org/institution/60021763",
+    "ad0": "Potsdam",
+    "ad1": "Brandenburg",
+    "ad2": "Germany"
+  },
+  "60000401": {
+    "id": "60000401",
+    "name": "University of Münster",
+    "url": "https://dl.acm.org/institution/60000401",
+    "ad0": "Munster",
+    "ad1": "Niedersachsen",
+    "ad2": "Germany"
+  },
+  "60002746": {
+    "id": "60002746",
+    "name": "Harvard Medical School",
+    "url": "https://dl.acm.org/institution/60002746",
+    "ad0": "Boston",
+    "ad1": "MA",
+    "ad2": "United States"
+  },
+  "60026415": {
+    "id": "60026415",
+    "name": "Stony Brook University",
+    "url": "https://dl.acm.org/institution/60026415",
+    "ad0": "Southampton",
+    "ad1": "NY",
+    "ad2": "United States"
+  },
+  "60101868": {
+    "id": "60101868",
+    "name": "University of Applied Sciences Western Switzerland",
+    "url": "https://dl.acm.org/institution/60101868",
+    "ad0": "Delemont",
+    "ad1": "JU",
+    "ad2": "Switzerland"
+  },
+  "60032882": {
+    "id": "60032882",
+    "name": "Eindhoven University of Technology",
+    "url": "https://dl.acm.org/institution/60032882",
+    "ad0": "Eindhoven",
+    "ad1": "Netherlands"
+  },
+  "60003500": {
+    "id": "60003500",
+    "name": "The Ohio State University",
+    "url": "https://dl.acm.org/institution/60003500",
+    "ad0": "Marion",
+    "ad1": "OH",
+    "ad2": "United States"
+  },
+  "60022109": {
+    "id": "60022109",
+    "name": "Queen Mary University of London",
+    "url": "https://dl.acm.org/institution/60022109",
+    "ad0": "London",
+    "ad1": "U.K."
+  },
+  "60033387": {
+    "id": "60033387",
+    "name": "University of London",
+    "url": "https://dl.acm.org/institution/60033387",
+    "ad0": "London",
+    "ad1": "U.K."
+  },
+  "60028333": {
+    "id": "60028333",
+    "name": "UNSW Sydney",
+    "url": "https://dl.acm.org/institution/60028333",
+    "ad0": "Sydney",
+    "ad1": "NSW",
+    "ad2": "Australia"
+  },
+  "60019578": {
+    "id": "60019578",
+    "name": "Monash University",
+    "url": "https://dl.acm.org/institution/60019578",
+    "ad0": "Melbourne",
+    "ad1": "VIC",
+    "ad2": "Australia"
+  },
+  "60031004": {
+    "id": "60031004",
+    "name": "The University of Queensland",
+    "url": "https://dl.acm.org/institution/60031004",
+    "ad0": "Brisbane",
+    "ad1": "QLD",
+    "ad2": "Australia"
+  },
+  "60102124": {
+    "id": "60102124",
+    "name": "Federal University of Toulouse Midi-Pyrénées",
+    "url": "https://dl.acm.org/institution/60102124",
+    "ad0": "Toulouse",
+    "ad1": "Occitanie",
+    "ad2": "France"
+  },
+  "60012808": {
+    "id": "60012808",
+    "name": "Epicentre",
+    "url": "https://dl.acm.org/institution/60012808",
+    "ad0": "Paris",
+    "ad1": "France"
+  },
+  "60108057": {
+    "id": "60108057",
+    "name": "CSIRO Data61",
+    "url": "https://dl.acm.org/institution/60108057",
+    "ad0": "Sydney",
+    "ad1": "NSW",
+    "ad2": "Australia"
+  },
+  "60160437": {
+    "id": "60160437",
+    "name": "ARC Centre of Excellence for Mathematical & Statistical Frontiers",
+    "url": "https://dl.acm.org/institution/60160437",
+    "ad0": "Melbourne",
+    "ad1": "VIC",
+    "ad2": "Australia"
+  },
+  "60070348": {
+    "id": "60070348",
+    "name": "Universidad El Bosque",
+    "url": "https://dl.acm.org/institution/60070348",
+    "ad0": "Bogota",
+    "ad1": "Colombia"
+  },
+  "60052106": {
+    "id": "60052106",
+    "name": "University of the Andes, Colombia",
+    "url": "https://dl.acm.org/institution/60052106",
+    "ad0": "Bogota",
+    "ad1": "Distrito Capital",
+    "ad2": "Colombia"
+  },
+  "60021931": {
+    "id": "60021931",
+    "name": "Johannes Kepler University Linz",
+    "url": "https://dl.acm.org/institution/60021931",
+    "ad0": "Linz",
+    "ad1": "Upper Austria",
+    "ad2": "Austria"
+  },
+  "60019663": {
+    "id": "60019663",
+    "name": "Graz University of Technology",
+    "url": "https://dl.acm.org/institution/60019663",
+    "ad0": "Graz",
+    "ad1": "Styria",
+    "ad2": "Austria"
+  },
+  "60025467": {
+    "id": "60025467",
+    "name": "St. Polten University of Applied Sciences",
+    "url": "https://dl.acm.org/institution/60025467",
+    "ad0": "Sankt Polten",
+    "ad1": "Lower Austria",
+    "ad2": "Austria"
+  },
+  "60006951": {
+    "id": "60006951",
+    "name": "The University of North Carolina at Charlotte",
+    "url": "https://dl.acm.org/institution/60006951",
+    "ad0": "Charlotte",
+    "ad1": "NC",
+    "ad2": "United States"
+  },
+  "60017717": {
+    "id": "60017717",
+    "name": "The University of North Carolina System",
+    "url": "https://dl.acm.org/institution/60017717",
+    "ad0": "Chapel Hill",
+    "ad1": "NC",
+    "ad2": "United States"
+  },
+  "60009254": {
+    "id": "60009254",
+    "name": "Purdue University",
+    "url": "https://dl.acm.org/institution/60009254",
+    "ad0": "West Lafayette",
+    "ad1": "IN",
+    "ad2": "United States"
+  },
+  "60003497": {
+    "id": "60003497",
+    "name": "Toyohashi University of Technology",
+    "url": "https://dl.acm.org/institution/60003497",
+    "ad0": "Toyohashi",
+    "ad1": "Aichi",
+    "ad2": "Japan"
+  },
+  "60011891": {
+    "id": "60011891",
+    "name": "University of Trier",
+    "url": "https://dl.acm.org/institution/60011891",
+    "ad0": "Trierweiler",
+    "ad1": "Rheinland-Pfalz",
+    "ad2": "Germany"
+  },
+  "60005870": {
+    "id": "60005870",
+    "name": "Catholic University in Eichstätt",
+    "url": "https://dl.acm.org/institution/60005870",
+    "ad0": "Eichstatt",
+    "ad1": "Bayern",
+    "ad2": "Germany"
+  },
+  "60033241": {
+    "id": "60033241",
+    "name": "Saarland University",
+    "url": "https://dl.acm.org/institution/60033241",
+    "ad0": "Saarbrucken",
+    "ad1": "Saarland",
+    "ad2": "Germany"
+  },
+  "60002952": {
+    "id": "60002952",
+    "name": "University of Helsinki",
+    "url": "https://dl.acm.org/institution/60002952",
+    "ad0": "Helsinki",
+    "ad1": "Finland"
+  },
+  "60030840": {
+    "id": "60030840",
+    "name": "University of Copenhagen",
+    "url": "https://dl.acm.org/institution/60030840",
+    "ad0": "Copenhagen",
+    "ad1": "Hovedstaden",
+    "ad2": "Denmark"
+  },
+  "60103653": {
+    "id": "60103653",
+    "name": "Aalto University",
+    "url": "https://dl.acm.org/institution/60103653",
+    "ad0": "Espoo",
+    "ad1": "Uusimaa",
+    "ad2": "Finland"
+  },
+  "60000944": {
+    "id": "60000944",
+    "name": "Helsinki Institute for Information Technology",
+    "url": "https://dl.acm.org/institution/60000944",
+    "ad0": "Helsinki",
+    "ad1": "Finland"
+  },
+  "60006369": {
+    "id": "60006369",
+    "name": "Koc University",
+    "url": "https://dl.acm.org/institution/60006369",
+    "ad0": "Istanbul",
+    "ad1": "Turkey"
+  },
+  "60012954": {
+    "id": "60012954",
+    "name": "University of Oulu",
+    "url": "https://dl.acm.org/institution/60012954",
+    "ad0": "Oulu",
+    "ad1": "North Ostrobothnia",
+    "ad2": "Finland"
+  },
+  "60018308": {
+    "id": "60018308",
+    "name": "Xi'an Jiaotong University",
+    "url": "https://dl.acm.org/institution/60018308",
+    "ad0": "Xi'an",
+    "ad1": "Shaanxi",
+    "ad2": "China"
+  },
+  "60072061": {
+    "id": "60072061",
+    "name": "Litoral Polytechnic School",
+    "url": "https://dl.acm.org/institution/60072061",
+    "ad0": "Guayaquil",
+    "ad1": "Guayas",
+    "ad2": "Ecuador"
+  },
+  "60002306": {
+    "id": "60002306",
+    "name": "University of Calgary",
+    "url": "https://dl.acm.org/institution/60002306",
+    "ad0": "Calgary",
+    "ad1": "AB",
+    "ad2": "Canada"
+  },
+  "60022132": {
+    "id": "60022132",
+    "name": "University of St Andrews",
+    "url": "https://dl.acm.org/institution/60022132",
+    "ad0": "St Andrews",
+    "ad1": "Fife",
+    "ad2": "U.K."
+  },
+  "60025746": {
+    "id": "60025746",
+    "name": "Reutlingen University",
+    "url": "https://dl.acm.org/institution/60025746",
+    "ad0": "Reutlingen",
+    "ad1": "Baden-Wurttemberg",
+    "ad2": "Germany"
+  },
+  "60272259": {
+    "id": "60272259",
+    "name": "University of Applied Sciences of the Grisons",
+    "url": "https://dl.acm.org/institution/60272259",
+    "ad0": "Chur",
+    "ad1": "Grisons",
+    "ad2": "Switzerland"
+  },
+  "60004923": {
+    "id": "60004923",
+    "name": "NC State University",
+    "url": "https://dl.acm.org/institution/60004923",
+    "ad0": "Raleigh",
+    "ad1": "NC",
+    "ad2": "United States"
+  },
+  "60007363": {
+    "id": "60007363",
+    "name": "Northwestern University",
+    "url": "https://dl.acm.org/institution/60007363",
+    "ad0": "Chicago",
+    "ad1": "IL",
+    "ad2": "United States"
+  },
+  "60030835": {
+    "id": "60030835",
+    "name": "University of Alberta",
+    "url": "https://dl.acm.org/institution/60030835",
+    "ad0": "Edmonton",
+    "ad1": "AB",
+    "ad2": "Canada"
+  },
+  "60019647": {
+    "id": "60019647",
+    "name": "Georgia Institute of Technology",
+    "url": "https://dl.acm.org/institution/60019647",
+    "ad0": "Atlanta",
+    "ad1": "GA",
+    "ad2": "United States"
+  },
+  "60021200": {
+    "id": "60021200",
+    "name": "East China Normal University",
+    "url": "https://dl.acm.org/institution/60021200",
+    "ad0": "Shanghai",
+    "ad1": "China"
+  },
+  "60023813": {
+    "id": "60023813",
+    "name": "Shanghai University",
+    "url": "https://dl.acm.org/institution/60023813",
+    "ad0": "Shanghai",
+    "ad1": "China"
+  },
+  "60117933": {
+    "id": "60117933",
+    "name": "State Key Lab of CAD&CG, Zhejiang University",
+    "url": "https://dl.acm.org/institution/60117933",
+    "ad0": "Hangzhou",
+    "ad1": "Zhejiang",
+    "ad2": "China"
+  },
+  "60008928": {
+    "id": "60008928",
+    "name": "Hong Kong Polytechnic University",
+    "url": "https://dl.acm.org/institution/60008928",
+    "ad0": "Hong Kong",
+    "ad1": "Hong Kong",
+    "ad2": "Hong Kong"
+  },
+  "60117832": {
+    "id": "60117832",
+    "name": "School of Aeronautics and Astronautics, Zhejiang University",
+    "url": "https://dl.acm.org/institution/60117832",
+    "ad0": "Hangzhou",
+    "ad1": "Zhejiang",
+    "ad2": "China"
+  },
+  "60003970": {
+    "id": "60003970",
+    "name": "Zhejiang University",
+    "url": "https://dl.acm.org/institution/60003970",
+    "ad0": "Zhoushan",
+    "ad1": "Zhejiang",
+    "ad2": "China"
+  },
+  "60118080": {
+    "id": "60118080",
+    "name": "School of Computer and Computing Science",
+    "url": "https://dl.acm.org/institution/60118080",
+    "ad0": "Hangzhou",
+    "ad1": "Zhejiang",
+    "ad2": "China"
+  },
+  "60009860": {
+    "id": "60009860",
+    "name": "Fudan University",
+    "url": "https://dl.acm.org/institution/60009860",
+    "ad0": "Shanghai",
+    "ad1": "China"
+  },
+  "60013614": {
+    "id": "60013614",
+    "name": "Hangzhou Dianzi University",
+    "url": "https://dl.acm.org/institution/60013614",
+    "ad0": "Hangzhou",
+    "ad1": "Zhejiang",
+    "ad2": "China"
+  },
+  "60027884": {
+    "id": "60027884",
+    "name": "Sejong University",
+    "url": "https://dl.acm.org/institution/60027884",
+    "ad0": "Seoul",
+    "ad1": "South Korea"
+  },
+  "60025858": {
+    "id": "60025858",
+    "name": "Swiss Federal Institute of Technology, Zurich",
+    "url": "https://dl.acm.org/institution/60025858",
+    "ad0": "Zurich",
+    "ad1": "ZH",
+    "ad2": "Switzerland"
+  },
+  "60000414": {
+    "id": "60000414",
+    "name": "Birla Institute of Technology and Science, Pilani",
+    "url": "https://dl.acm.org/institution/60000414",
+    "ad0": "Hyderabad",
+    "ad1": "TG",
+    "ad2": "India"
+  },
+  "60108488": {
+    "id": "60108488",
+    "name": "University of Montpellier",
+    "url": "https://dl.acm.org/institution/60108488",
+    "ad0": "Montpellier",
+    "ad1": "Occitanie",
+    "ad2": "France"
+  },
+  "60009278": {
+    "id": "60009278",
+    "name": "Universite Paul-Valery Montpellier III",
+    "url": "https://dl.acm.org/institution/60009278",
+    "ad0": "Montpellier",
+    "ad1": "Occitanie",
+    "ad2": "France"
+  },
+  "60103240": {
+    "id": "60103240",
+    "name": "Territoires, Environnement, Télédétection et Information Spatiale",
+    "url": "https://dl.acm.org/institution/60103240",
+    "ad0": "Montpellier",
+    "ad1": "Occitanie",
+    "ad2": "France"
+  },
+  "60031011": {
+    "id": "60031011",
+    "name": "CIRAD",
+    "url": "https://dl.acm.org/institution/60031011",
+    "ad0": "Paris",
+    "ad1": "France"
+  },
+  "60030804": {
+    "id": "60030804",
+    "name": "Swinburne University of Technology",
+    "url": "https://dl.acm.org/institution/60030804",
+    "ad0": "Hawthorn",
+    "ad1": "VIC",
+    "ad2": "Australia"
+  },
+  "60018805": {
+    "id": "60018805",
+    "name": "Deakin University",
+    "url": "https://dl.acm.org/institution/60018805",
+    "ad0": "Waurn Ponds",
+    "ad1": "VIC",
+    "ad2": "Australia"
+  },
+  "60005686": {
+    "id": "60005686",
+    "name": "The University of Auckland",
+    "url": "https://dl.acm.org/institution/60005686",
+    "ad0": "Auckland",
+    "ad1": "AUK",
+    "ad2": "New Zealand"
+  },
+  "60025488": {
+    "id": "60025488",
+    "name": "The University of Utah",
+    "url": "https://dl.acm.org/institution/60025488",
+    "ad0": "Salt Lake City",
+    "ad1": "UT",
+    "ad2": "United States"
+  },
+  "60009415": {
+    "id": "60009415",
+    "name": "The University of Texas at Dallas",
+    "url": "https://dl.acm.org/institution/60009415",
+    "ad0": "Richardson",
+    "ad1": "TX",
+    "ad2": "United States"
+  },
+  "60010851": {
+    "id": "60010851",
+    "name": "Hohai University",
+    "url": "https://dl.acm.org/institution/60010851",
+    "ad0": "Nanjing",
+    "ad1": "Jiangsu",
+    "ad2": "China"
+  },
+  "60019533": {
+    "id": "60019533",
+    "name": "Tianjin University",
+    "url": "https://dl.acm.org/institution/60019533",
+    "ad0": "Tianjin",
+    "ad1": "China"
+  },
+  "60033100": {
+    "id": "60033100",
+    "name": "Nanjing University",
+    "url": "https://dl.acm.org/institution/60033100",
+    "ad0": "Nanjing",
+    "ad1": "Jiangsu",
+    "ad2": "China"
+  },
+  "60022403": {
+    "id": "60022403",
+    "name": "Technion - Israel Institute of Technology",
+    "url": "https://dl.acm.org/institution/60022403",
+    "ad0": "Haifa",
+    "ad1": "Israel"
+  },
+  "60015595": {
+    "id": "60015595",
+    "name": "Bielefeld University",
+    "url": "https://dl.acm.org/institution/60015595",
+    "ad0": "Bielefeld",
+    "ad1": "Nordrhein-Westfalen",
+    "ad2": "Germany"
+  },
+  "60025525": {
+    "id": "60025525",
+    "name": "University of Konstanz",
+    "url": "https://dl.acm.org/institution/60025525",
+    "ad0": "Konstanz",
+    "ad1": "Baden-Wurttemberg",
+    "ad2": "Germany"
+  },
+  "60025709": {
+    "id": "60025709",
+    "name": "The University of Sydney",
+    "url": "https://dl.acm.org/institution/60025709",
+    "ad0": "Sydney",
+    "ad1": "NSW",
+    "ad2": "Australia"
+  },
+  "60032991": {
+    "id": "60032991",
+    "name": "Technical University Dortmund",
+    "url": "https://dl.acm.org/institution/60032991",
+    "ad0": "Dortmund",
+    "ad1": "Nordrhein-Westfalen",
+    "ad2": "Germany"
+  },
+  "60014059": {
+    "id": "60014059",
+    "name": "Martin Luther University of Halle-Wittenberg",
+    "url": "https://dl.acm.org/institution/60014059",
+    "ad0": "Halle",
+    "ad1": "Sachsen-Anhalt",
+    "ad2": "Germany"
+  },
+  "60104069": {
+    "id": "60104069",
+    "name": "Royal College of Art",
+    "url": "https://dl.acm.org/institution/60104069",
+    "ad0": "London",
+    "ad1": "U.K."
+  },
+  "60012630": {
+    "id": "60012630",
+    "name": "Roma Tre University",
+    "url": "https://dl.acm.org/institution/60012630",
+    "ad0": "Rome",
+    "ad1": "RM",
+    "ad2": "Italy"
+  },
+  "60028868": {
+    "id": "60028868",
+    "name": "University of Pisa",
+    "url": "https://dl.acm.org/institution/60028868",
+    "ad0": "Pisa",
+    "ad1": "PI",
+    "ad2": "Italy"
+  },
+  "60020919": {
+    "id": "60020919",
+    "name": "Basilicata University Potenza",
+    "url": "https://dl.acm.org/institution/60020919",
+    "ad0": "Potenza",
+    "ad1": "PZ",
+    "ad2": "Italy"
+  },
+  "60032350": {
+    "id": "60032350",
+    "name": "Sapienza University of Rome",
+    "url": "https://dl.acm.org/institution/60032350",
+    "ad0": "Rome",
+    "ad1": "RM",
+    "ad2": "Italy"
+  },
+  "60032760": {
+    "id": "60032760",
+    "name": "University of Hertfordshire",
+    "url": "https://dl.acm.org/institution/60032760",
+    "ad0": "Hatfield",
+    "ad1": "Hertfordshire",
+    "ad2": "U.K."
+  },
+  "60009941": {
+    "id": "60009941",
+    "name": "University of Kaiserslautern",
+    "url": "https://dl.acm.org/institution/60009941",
+    "ad0": "Kaiserslautern",
+    "ad1": "Rheinland-Pfalz",
+    "ad2": "Germany"
+  },
+  "60028378": {
+    "id": "60028378",
+    "name": "Stockholm University",
+    "url": "https://dl.acm.org/institution/60028378",
+    "ad0": "Stockholm",
+    "ad1": "Stockholm",
+    "ad2": "Sweden"
+  },
+  "60016636": {
+    "id": "60016636",
+    "name": "Blekinge Institute of Technology",
+    "url": "https://dl.acm.org/institution/60016636",
+    "ad0": "Karlskrona",
+    "ad1": "Blekinge",
+    "ad2": "Sweden"
+  },
+  "60029170": {
+    "id": "60029170",
+    "name": "Lund University",
+    "url": "https://dl.acm.org/institution/60029170",
+    "ad0": "Lund",
+    "ad1": "Skane",
+    "ad2": "Sweden"
+  },
+  "60009358": {
+    "id": "60009358",
+    "name": "Linköping University",
+    "url": "https://dl.acm.org/institution/60009358",
+    "ad0": "Linkoping",
+    "ad1": "Östergötland",
+    "ad2": "Sweden"
+  },
+  "60016648": {
+    "id": "60016648",
+    "name": "Riken",
+    "url": "https://dl.acm.org/institution/60016648",
+    "ad0": "Wako",
+    "ad1": "Saitama",
+    "ad2": "Japan"
+  },
+  "60011001": {
+    "id": "60011001",
+    "name": "Kyoto University",
+    "url": "https://dl.acm.org/institution/60011001",
+    "ad0": "Kyoto",
+    "ad1": "Kyoto",
+    "ad2": "Japan"
+  },
+  "60011047": {
+    "id": "60011047",
+    "name": "Kyushu University",
+    "url": "https://dl.acm.org/institution/60011047",
+    "ad0": "Fukuoka",
+    "ad1": "Fukuoka",
+    "ad2": "Japan"
+  },
+  "60018735": {
+    "id": "60018735",
+    "name": "Toshiba Corporation",
+    "url": "https://dl.acm.org/institution/60018735",
+    "ad0": "Tokyo",
+    "ad1": "Japan"
+  },
+  "60000937": {
+    "id": "60000937",
+    "name": "Shenzhen University",
+    "url": "https://dl.acm.org/institution/60000937",
+    "ad0": "Shenzhen",
+    "ad1": "Guangdong",
+    "ad2": "China"
+  },
+  "60022958": {
+    "id": "60022958",
+    "name": "Mid Sweden University",
+    "url": "https://dl.acm.org/institution/60022958",
+    "ad0": "Sweden"
+  },
+  "60019329": {
+    "id": "60019329",
+    "name": "University of Applied Sciences Upper Austria, School of Informatics, Communications and Media",
+    "url": "https://dl.acm.org/institution/60019329",
+    "ad0": "Hagenberg",
+    "ad1": "Upper Austria",
+    "ad2": "Austria"
+  },
+  "60031832": {
+    "id": "60031832",
+    "name": "Hannover University of Applied Sciences",
+    "url": "https://dl.acm.org/institution/60031832",
+    "ad0": "Hannover",
+    "ad1": "Niedersachsen",
+    "ad2": "Germany"
+  },
+  "60000594": {
+    "id": "60000594",
+    "name": "University of Applied Sciences Upper Austria, Wels",
+    "url": "https://dl.acm.org/institution/60000594",
+    "ad0": "Wels",
+    "ad1": "Upper Austria",
+    "ad2": "Austria"
+  },
+  "60012408": {
+    "id": "60012408",
+    "name": "University of Lübeck",
+    "url": "https://dl.acm.org/institution/60012408",
+    "ad0": "Lubeck",
+    "ad1": "Schleswig-Holstein",
+    "ad2": "Germany"
+  },
+  "60002445": {
+    "id": "60002445",
+    "name": "Ajou University",
+    "url": "https://dl.acm.org/institution/60002445",
+    "ad0": "Suwon",
+    "ad1": "Gyeonggi-do",
+    "ad2": "South Korea"
+  },
+  "60072347": {
+    "id": "60072347",
+    "name": "SAP AG",
+    "url": "https://dl.acm.org/institution/60072347",
+    "ad0": "Walldorf",
+    "ad1": "Baden-Wurttemberg",
+    "ad2": "Germany"
+  },
+  "60018353": {
+    "id": "60018353",
+    "name": "Technische Universität Dresden",
+    "url": "https://dl.acm.org/institution/60018353",
+    "ad0": "Dresden",
+    "ad1": "Sachsen",
+    "ad2": "Germany"
+  },
+  "60013559": {
+    "id": "60013559",
+    "name": "Dresden University of Applied Sciences",
+    "url": "https://dl.acm.org/institution/60013559",
+    "ad0": "Dresden",
+    "ad1": "Sachsen",
+    "ad2": "Germany"
+  },
+  "60017060": {
+    "id": "60017060",
+    "name": "Central South University",
+    "url": "https://dl.acm.org/institution/60017060",
+    "ad0": "Changsha",
+    "ad1": "Hunan",
+    "ad2": "China"
+  },
+  "60022528": {
+    "id": "60022528",
+    "name": "Beijing Technology and Business University",
+    "url": "https://dl.acm.org/institution/60022528",
+    "ad0": "Beijing",
+    "ad1": "Beijing",
+    "ad2": "China"
+  },
+  "60016912": {
+    "id": "60016912",
+    "name": "Yonsei University",
+    "url": "https://dl.acm.org/institution/60016912",
+    "ad0": "Seoul",
+    "ad1": "South Korea"
+  },
+  "60013682": {
+    "id": "60013682",
+    "name": "Seoul National University",
+    "url": "https://dl.acm.org/institution/60013682",
+    "ad0": "Seoul",
+    "ad1": "South Korea"
+  },
+  "60018450": {
+    "id": "60018450",
+    "name": "Fraunhofer Institute for Solar Energy Systems ISE",
+    "url": "https://dl.acm.org/institution/60018450",
+    "ad0": "Freiburg im Breisgau",
+    "ad1": "Baden-Wurttemberg",
+    "ad2": "Germany"
+  },
+  "60011170": {
+    "id": "60011170",
+    "name": "University of Tampere",
+    "url": "https://dl.acm.org/institution/60011170",
+    "ad0": "Tampere",
+    "ad1": "Finland"
+  },
+  "60004038": {
+    "id": "60004038",
+    "name": "Danube University Krems",
+    "url": "https://dl.acm.org/institution/60004038",
+    "ad0": "Krems",
+    "ad1": "Lower Austria",
+    "ad2": "Austria"
+  },
+  "60014256": {
+    "id": "60014256",
+    "name": "University of Tsukuba",
+    "url": "https://dl.acm.org/institution/60014256",
+    "ad0": "Tsukuba",
+    "ad1": "Ibaraki Prefecture",
+    "ad2": "Japan"
+  },
+  "60007951": {
+    "id": "60007951",
+    "name": "Fujitsu Ltd.",
+    "url": "https://dl.acm.org/institution/60007951",
+    "ad0": "Minato",
+    "ad1": "Tokyo",
+    "ad2": "Japan"
+  },
+  "60029241": {
+    "id": "60029241",
+    "name": "University of California, Santa Barbara",
+    "url": "https://dl.acm.org/institution/60029241",
+    "ad0": "Santa Barbara",
+    "ad1": "CA",
+    "ad2": "United States"
+  },
+  "60016849": {
+    "id": "60016849",
+    "name": "University of Toronto",
+    "url": "https://dl.acm.org/institution/60016849",
+    "ad0": "Toronto",
+    "ad1": "ON",
+    "ad2": "Canada"
+  },
+  "60008786": {
+    "id": "60008786",
+    "name": "King Mongkuts University of Technology Thonburi",
+    "url": "https://dl.acm.org/institution/60008786",
+    "ad0": "Bangkok",
+    "ad1": "Thailand"
+  },
+  "60022317": {
+    "id": "60022317",
+    "name": "University of Macau",
+    "url": "https://dl.acm.org/institution/60022317",
+    "ad0": "Taipa",
+    "ad1": "Macao"
+  },
+  "60019499": {
+    "id": "60019499",
+    "name": "Chinese Academy of Sciences",
+    "url": "https://dl.acm.org/institution/60019499",
+    "ad0": "Beijing",
+    "ad1": "Beijing",
+    "ad2": "China"
+  },
+  "60005510": {
+    "id": "60005510",
+    "name": "Nanyang Technological University",
+    "url": "https://dl.acm.org/institution/60005510",
+    "ad0": "Singapore City",
+    "ad1": "Singapore"
+  },
+  "60026840": {
+    "id": "60026840",
+    "name": "Friedrich Miescher Laboratory",
+    "url": "https://dl.acm.org/institution/60026840",
+    "ad0": "Tubingen",
+    "ad1": "Baden-Wurttemberg",
+    "ad2": "Germany"
+  },
+  "60031707": {
+    "id": "60031707",
+    "name": "Michigan State University",
+    "url": "https://dl.acm.org/institution/60031707",
+    "ad0": "East Lansing",
+    "ad1": "MI",
+    "ad2": "United States"
+  },
+  "60021285": {
+    "id": "60021285",
+    "name": "Texas Tech University",
+    "url": "https://dl.acm.org/institution/60021285",
+    "ad0": "Lubbock",
+    "ad1": "TX",
+    "ad2": "United States"
+  },
+  "60000481": {
+    "id": "60000481",
+    "name": "University of Padova",
+    "url": "https://dl.acm.org/institution/60000481",
+    "ad0": "Padua",
+    "ad1": "PD",
+    "ad2": "Italy"
+  },
+  "60020927": {
+    "id": "60020927",
+    "name": "Landshut University of Applied Sciences",
+    "url": "https://dl.acm.org/institution/60020927",
+    "ad0": "Landshut",
+    "ad1": "Bayern",
+    "ad2": "Germany"
+  },
+  "60000765": {
+    "id": "60000765",
+    "name": "University of Erlangen-Nuremberg",
+    "url": "https://dl.acm.org/institution/60000765",
+    "ad0": "Erlangen",
+    "ad1": "Bayern",
+    "ad2": "Germany"
+  },
+  "60020306": {
+    "id": "60020306",
+    "name": "University of Oldenburg",
+    "url": "https://dl.acm.org/institution/60020306",
+    "ad0": "Oldenburg",
+    "ad1": "Niedersachsen",
+    "ad2": "Germany"
+  },
+  "60118847": {
+    "id": "60118847",
+    "name": "School of Computing and Information Systems",
+    "url": "https://dl.acm.org/institution/60118847",
+    "ad0": "Melbourne",
+    "ad1": "VIC",
+    "ad2": "Australia"
+  },
+  "60026553": {
+    "id": "60026553",
+    "name": "University of Melbourne",
+    "url": "https://dl.acm.org/institution/60026553",
+    "ad0": "Shepparton",
+    "ad1": "VIC",
+    "ad2": "Australia"
+  },
+  "60007919": {
+    "id": "60007919",
+    "name": "University of Brighton",
+    "url": "https://dl.acm.org/institution/60007919",
+    "ad0": "Brighton",
+    "ad1": "East Sussex",
+    "ad2": "U.K."
+  },
+  "60010818": {
+    "id": "60010818",
+    "name": "University of Kent",
+    "url": "https://dl.acm.org/institution/60010818",
+    "ad0": "Canterbury",
+    "ad1": "Kent",
+    "ad2": "U.K."
+  },
+  "60019722": {
+    "id": "60019722",
+    "name": "Technical University of Munich",
+    "url": "https://dl.acm.org/institution/60019722",
+    "ad0": "Munich",
+    "ad1": "Bayern",
+    "ad2": "Germany"
+  },
+  "60116268": {
+    "id": "60116268",
+    "name": "Mercateo Deutschland AG",
+    "url": "https://dl.acm.org/institution/60116268",
+    "ad0": "Munich",
+    "ad1": "Bayern",
+    "ad2": "Germany"
+  },
+  "60028717": {
+    "id": "60028717",
+    "name": "Ludwig-Maximilians-University Munich",
+    "url": "https://dl.acm.org/institution/60028717",
+    "ad0": "Munich",
+    "ad1": "Bayern",
+    "ad2": "Germany"
+  },
+  "60031101": {
+    "id": "60031101",
+    "name": "University of Cambridge",
+    "url": "https://dl.acm.org/institution/60031101",
+    "ad0": "Cambridge",
+    "ad1": "Cambridgeshire",
+    "ad2": "U.K."
+  },
+  "60119999": {
+    "id": "60119999",
+    "name": "Department of Computer Science and Technology",
+    "url": "https://dl.acm.org/institution/60119999",
+    "ad0": "Cambridge",
+    "ad1": "Cambridgeshire",
+    "ad2": "U.K."
+  },
+  "60027272": {
+    "id": "60027272",
+    "name": "The University of Edinburgh",
+    "url": "https://dl.acm.org/institution/60027272",
+    "ad0": "Edinburgh",
+    "ad1": "Scotland",
+    "ad2": "U.K."
+  },
+  "60030480": {
+    "id": "60030480",
+    "name": "University of Bath",
+    "url": "https://dl.acm.org/institution/60030480",
+    "ad0": "Bath",
+    "ad1": "Somerset",
+    "ad2": "U.K."
+  },
+  "60027561": {
+    "id": "60027561",
+    "name": "University of Illinois at Chicago",
+    "url": "https://dl.acm.org/institution/60027561",
+    "ad0": "Chicago",
+    "ad1": "IL",
+    "ad2": "United States"
+  },
+  "60007033": {
+    "id": "60007033",
+    "name": "City University of New York",
+    "url": "https://dl.acm.org/institution/60007033",
+    "ad0": "New York",
+    "ad1": "NY",
+    "ad2": "United States"
+  },
+  "60006514": {
+    "id": "60006514",
+    "name": "Oklahoma State University - Stillwater",
+    "url": "https://dl.acm.org/institution/60006514",
+    "ad0": "Stillwater",
+    "ad1": "OK",
+    "ad2": "United States"
+  },
+  "60032759": {
+    "id": "60032759",
+    "name": "Oklahoma State University System",
+    "url": "https://dl.acm.org/institution/60032759",
+    "ad0": "Stillwater",
+    "ad1": "OK",
+    "ad2": "United States"
+  },
+  "60024941": {
+    "id": "60024941",
+    "name": "University of California, Santa Cruz",
+    "url": "https://dl.acm.org/institution/60024941",
+    "ad0": "Santa Cruz",
+    "ad1": "CA",
+    "ad2": "United States"
+  },
+  "60010065": {
+    "id": "60010065",
+    "name": "The University of Arizona",
+    "url": "https://dl.acm.org/institution/60010065",
+    "ad0": "Tucson",
+    "ad1": "AZ",
+    "ad2": "United States"
+  },
+  "60008592": {
+    "id": "60008592",
+    "name": "Hong Kong University of Science and Technology",
+    "url": "https://dl.acm.org/institution/60008592",
+    "ad0": "Hong Kong",
+    "ad1": "Hong Kong"
+  },
+  "60022195": {
+    "id": "60022195",
+    "name": "Massachusetts Institute of Technology",
+    "url": "https://dl.acm.org/institution/60022195",
+    "ad0": "Cambridge",
+    "ad1": "MA",
+    "ad2": "United States"
+  },
+  "60025278": {
+    "id": "60025278",
+    "name": "Tsinghua University",
+    "url": "https://dl.acm.org/institution/60025278",
+    "ad0": "Beijing",
+    "ad1": "Beijing",
+    "ad2": "China"
+  },
+  "60025778": {
+    "id": "60025778",
+    "name": "University of Michigan, Ann Arbor",
+    "url": "https://dl.acm.org/institution/60025778",
+    "ad0": "Ann Arbor",
+    "ad1": "MI",
+    "ad2": "United States"
+  },
+  "60073652": {
+    "id": "60073652",
+    "name": "Tongji University",
+    "url": "https://dl.acm.org/institution/60073652",
+    "ad0": "Shanghai",
+    "ad1": "China"
+  },
+  "60025345": {
+    "id": "60025345",
+    "name": "Guangzhou University",
+    "url": "https://dl.acm.org/institution/60025345",
+    "ad0": "Guangzhou",
+    "ad1": "Guangdong",
+    "ad2": "China"
+  },
+  "60030398": {
+    "id": "60030398",
+    "name": "Temple University",
+    "url": "https://dl.acm.org/institution/60030398",
+    "ad0": "Rome",
+    "ad1": "Italy",
+    "ad2": "Italy"
+  },
+  "60031404": {
+    "id": "60031404",
+    "name": "The University of Aizu",
+    "url": "https://dl.acm.org/institution/60031404",
+    "ad0": "Aizuwakamatsu",
+    "ad1": "Fukushima",
+    "ad2": "Japan"
+  },
+  "60003892": {
+    "id": "60003892",
+    "name": "Arizona State University",
+    "url": "https://dl.acm.org/institution/60003892",
+    "ad0": "Tempe",
+    "ad1": "AZ",
+    "ad2": "United States"
+  },
+  "60006202": {
+    "id": "60006202",
+    "name": "VRVis Research Center",
+    "url": "https://dl.acm.org/institution/60006202",
+    "ad0": "Vienna",
+    "ad1": "Vienna",
+    "ad2": "Austria"
+  },
+  "60020304": {
+    "id": "60020304",
+    "name": "University of Maryland, College Park (UMD)",
+    "url": "https://dl.acm.org/institution/60020304",
+    "ad0": "College Park",
+    "ad1": "MD",
+    "ad2": "United States"
+  },
+  "60001563": {
+    "id": "60001563",
+    "name": "University of Buenos Aires",
+    "url": "https://dl.acm.org/institution/60001563",
+    "ad0": "Buenos Aires",
+    "ad1": "Entre Rios",
+    "ad2": "Argentina"
+  },
+  "60027090": {
+    "id": "60027090",
+    "name": "Virginia Polytechnic Institute and State University",
+    "url": "https://dl.acm.org/institution/60027090",
+    "ad0": "Middleburg",
+    "ad1": "VA",
+    "ad2": "United States"
+  },
+  "60013496": {
+    "id": "60013496",
+    "name": "South National University",
+    "url": "https://dl.acm.org/institution/60013496",
+    "ad0": "Bahia Blanca",
+    "ad1": "Provincia de Buenos Aires",
+    "ad2": "Argentina"
+  },
+  "60025272": {
+    "id": "60025272",
+    "name": "The University of Tokyo",
+    "url": "https://dl.acm.org/institution/60025272",
+    "ad0": "Tokyo",
+    "ad1": "Japan"
+  },
+  "60107806": {
+    "id": "60107806",
+    "name": "The MARCS Institute for Brain, Behaviour and Development",
+    "url": "https://dl.acm.org/institution/60107806",
+    "ad0": "Penrith",
+    "ad1": "NSW",
+    "ad2": "Australia"
+  },
+  "60017803": {
+    "id": "60017803",
+    "name": "Western Sydney University",
+    "url": "https://dl.acm.org/institution/60017803",
+    "ad0": "Penrith",
+    "ad1": "NSW",
+    "ad2": "Australia"
+  },
+  "60023932": {
+    "id": "60023932",
+    "name": "University of Technology Sydney",
+    "url": "https://dl.acm.org/institution/60023932",
+    "ad0": "Sydney",
+    "ad1": "NSW",
+    "ad2": "Australia"
+  },
+  "60004876": {
+    "id": "60004876",
+    "name": "J. Craig Venter Institute",
+    "url": "https://dl.acm.org/institution/60004876",
+    "ad0": "Rockville",
+    "ad1": "MD",
+    "ad2": "United States"
+  },
+  "60026990": {
+    "id": "60026990",
+    "name": "Tianjin University of Technology",
+    "url": "https://dl.acm.org/institution/60026990",
+    "ad0": "Tianjin",
+    "ad1": "Tianjin",
+    "ad2": "China"
+  },
+  "60010571": {
+    "id": "60010571",
+    "name": "The University of Newcastle, Australia",
+    "url": "https://dl.acm.org/institution/60010571",
+    "ad0": "Callaghan",
+    "ad1": "NSW",
+    "ad2": "Australia"
+  },
+  "60003615": {
+    "id": "60003615",
+    "name": "University of Rostock",
+    "url": "https://dl.acm.org/institution/60003615",
+    "ad0": "Rostock",
+    "ad1": "Mecklenburg-Vorpommern",
+    "ad2": "Germany"
+  },
+  "60024438": {
+    "id": "60024438",
+    "name": "University of North Texas",
+    "url": "https://dl.acm.org/institution/60024438",
+    "ad0": "Denton",
+    "ad1": "TX",
+    "ad2": "United States"
+  },
+  "60027550": {
+    "id": "60027550",
+    "name": "University of California, Los Angeles",
+    "url": "https://dl.acm.org/institution/60027550",
+    "ad0": "Los Angeles",
+    "ad1": "CA",
+    "ad2": "United States"
+  },
+  "60030612": {
+    "id": "60030612",
+    "name": "University of California, San Diego",
+    "url": "https://dl.acm.org/institution/60030612",
+    "ad0": "San Diego",
+    "ad1": "CA",
+    "ad2": "United States"
+  },
+  "60010261": {
+    "id": "60010261",
+    "name": "Washington University in St. Louis",
+    "url": "https://dl.acm.org/institution/60010261",
+    "ad0": "St. Louis",
+    "ad1": "MO",
+    "ad2": "United States"
+  },
+  "60013959": {
+    "id": "60013959",
+    "name": "University of Florida",
+    "url": "https://dl.acm.org/institution/60013959",
+    "ad0": "Gainesville",
+    "ad1": "FL",
+    "ad2": "United States"
+  },
+  "60001777": {
+    "id": "60001777",
+    "name": "Rochester Institute of Technology",
+    "url": "https://dl.acm.org/institution/60001777",
+    "ad0": "Rochester",
+    "ad1": "NY",
+    "ad2": "United States"
+  },
+  "60013402": {
+    "id": "60013402",
+    "name": "Oregon State University",
+    "url": "https://dl.acm.org/institution/60013402",
+    "ad0": "Bend",
+    "ad1": "OR",
+    "ad2": "United States"
+  },
+  "60020547": {
+    "id": "60020547",
+    "name": "Texas A&M University",
+    "url": "https://dl.acm.org/institution/60020547",
+    "ad0": "College Station",
+    "ad1": "TX",
+    "ad2": "United States"
+  },
+  "60022144": {
+    "id": "60022144",
+    "name": "University of Central Florida",
+    "url": "https://dl.acm.org/institution/60022144",
+    "ad0": "Orlando",
+    "ad1": "FL",
+    "ad2": "United States"
+  },
+  "60032270": {
+    "id": "60032270",
+    "name": "North Dakota State University",
+    "url": "https://dl.acm.org/institution/60032270",
+    "ad0": "Fargo",
+    "ad1": "ND",
+    "ad2": "United States"
+  },
+  "60018038": {
+    "id": "60018038",
+    "name": "Nankai University",
+    "url": "https://dl.acm.org/institution/60018038",
+    "ad0": "Tianjin",
+    "ad1": "China"
+  },
+  "60085748": {
+    "id": "60085748",
+    "name": "University of San Francisco",
+    "url": "https://dl.acm.org/institution/60085748",
+    "ad0": "San Francisco",
+    "ad1": "CA",
+    "ad2": "United States"
+  },
+  "60005455": {
+    "id": "60005455",
+    "name": "Yale University",
+    "url": "https://dl.acm.org/institution/60005455",
+    "ad0": "New Haven",
+    "ad1": "CT",
+    "ad2": "United States"
+  },
+  "60024997": {
+    "id": "60024997",
+    "name": "University of Maryland, Baltimore County (UMBC)",
+    "url": "https://dl.acm.org/institution/60024997",
+    "ad0": "Baltimore",
+    "ad1": "MD",
+    "ad2": "United States"
+  },
+  "60001338": {
+    "id": "60001338",
+    "name": "Changsha University of Science and Technology",
+    "url": "https://dl.acm.org/institution/60001338",
+    "ad0": "Changsha",
+    "ad1": "Hunan",
+    "ad2": "China"
+  },
+  "60026282": {
+    "id": "60026282",
+    "name": "Zhejiang University of Technology",
+    "url": "https://dl.acm.org/institution/60026282",
+    "ad0": "Hangzhou",
+    "ad1": "Zhejiang",
+    "ad2": "China"
+  },
+  "60027424": {
+    "id": "60027424",
+    "name": "Fraunhofer Institute for Computer Graphics Research IGD",
+    "url": "https://dl.acm.org/institution/60027424",
+    "ad0": "Darmstadt",
+    "ad1": "Hessen",
+    "ad2": "Germany"
+  },
+  "60012614": {
+    "id": "60012614",
+    "name": "University of Zurich",
+    "url": "https://dl.acm.org/institution/60012614",
+    "ad0": "Zurich",
+    "ad1": "ZH",
+    "ad2": "Switzerland"
+  },
+  "60011226": {
+    "id": "60011226",
+    "name": "Technical University of Darmstadt",
+    "url": "https://dl.acm.org/institution/60011226",
+    "ad0": "Darmstadt",
+    "ad1": "Hessen",
+    "ad2": "Germany"
+  },
+  "60014662": {
+    "id": "60014662",
+    "name": "Drexel University",
+    "url": "https://dl.acm.org/institution/60014662",
+    "ad0": "Philadelphia",
+    "ad1": "PA",
+    "ad2": "United States"
+  },
+  "60004538": {
+    "id": "60004538",
+    "name": "Dalian University of Technology",
+    "url": "https://dl.acm.org/institution/60004538",
+    "ad0": "Dalian",
+    "ad1": "Liaoning",
+    "ad2": "China"
+  },
+  "60020623": {
+    "id": "60020623",
+    "name": "Brunel University London",
+    "url": "https://dl.acm.org/institution/60020623",
+    "ad0": "Uxbridge",
+    "ad1": "Middlesex",
+    "ad2": "U.K."
+  },
+  "60007573": {
+    "id": "60007573",
+    "name": "Glasgow Caledonian University",
+    "url": "https://dl.acm.org/institution/60007573",
+    "ad0": "Glasgow",
+    "ad1": "Scotland",
+    "ad2": "U.K."
+  },
+  "60112903": {
+    "id": "60112903",
+    "name": "Baidu, Inc.",
+    "url": "https://dl.acm.org/institution/60112903",
+    "ad0": "Beijing",
+    "ad1": "China"
+  },
+  "60000854": {
+    "id": "60000854",
+    "name": "NASA Langley Research Center",
+    "url": "https://dl.acm.org/institution/60000854",
+    "ad0": "Hampton",
+    "ad1": "VA",
+    "ad2": "United States"
+  },
+  "60003883": {
+    "id": "60003883",
+    "name": "Brigham Young University Hawaii",
+    "url": "https://dl.acm.org/institution/60003883",
+    "ad0": "Laie",
+    "ad1": "HI",
+    "ad2": "United States"
+  },
+  "60006832": {
+    "id": "60006832",
+    "name": "Brigham Young University",
+    "url": "https://dl.acm.org/institution/60006832",
+    "ad0": "Provo",
+    "ad1": "UT",
+    "ad2": "United States"
+  },
+  "60001895": {
+    "id": "60001895",
+    "name": "Ningbo University of Technology",
+    "url": "https://dl.acm.org/institution/60001895",
+    "ad0": "Ningbo",
+    "ad1": "Zhejiang",
+    "ad2": "China"
+  },
+  "60014966": {
+    "id": "60014966",
+    "name": "Peking University",
+    "url": "https://dl.acm.org/institution/60014966",
+    "ad0": "Beijing",
+    "ad1": "China"
+  },
+  "60012392": {
+    "id": "60012392",
+    "name": "National Taipei University of Technology",
+    "url": "https://dl.acm.org/institution/60012392",
+    "ad0": "Taipei",
+    "ad1": "Taiwan"
+  },
+  "60005244": {
+    "id": "60005244",
+    "name": "Southeast University",
+    "url": "https://dl.acm.org/institution/60005244",
+    "ad0": "Wuxi",
+    "ad1": "Jiangsu",
+    "ad2": "China"
+  },
+  "60008827": {
+    "id": "60008827",
+    "name": "University of Wyoming",
+    "url": "https://dl.acm.org/institution/60008827",
+    "ad0": "Laramie",
+    "ad1": "WY",
+    "ad2": "United States"
+  },
+  "60025084": {
+    "id": "60025084",
+    "name": "Shanghai Jiao Tong University",
+    "url": "https://dl.acm.org/institution/60025084",
+    "ad0": "Shanghai",
+    "ad1": "China"
+  },
+  "60027086": {
+    "id": "60027086",
+    "name": "The University of Alabama at Birmingham",
+    "url": "https://dl.acm.org/institution/60027086",
+    "ad0": "Birmingham",
+    "ad1": "AL",
+    "ad2": "United States"
+  },
+  "60023471": {
+    "id": "60023471",
+    "name": "Pacific Northwest National Laboratory",
+    "url": "https://dl.acm.org/institution/60023471",
+    "ad0": "Richland",
+    "ad1": "WA",
+    "ad2": "United States"
+  },
+  "60021121": {
+    "id": "60021121",
+    "name": "Indiana University Bloomington",
+    "url": "https://dl.acm.org/institution/60021121",
+    "ad0": "Bloomington",
+    "ad1": "IN",
+    "ad2": "United States"
+  },
+  "60026600": {
+    "id": "60026600",
+    "name": "Aichi University of Education",
+    "url": "https://dl.acm.org/institution/60026600",
+    "ad0": "Kariya",
+    "ad1": "Aichi",
+    "ad2": "Japan"
+  },
+  "60194074": {
+    "id": "60194074",
+    "name": "National Institute of Technology, Toba College",
+    "url": "https://dl.acm.org/institution/60194074",
+    "ad0": "Toba",
+    "ad1": "Mie",
+    "ad2": "Japan"
+  },
+  "60022804": {
+    "id": "60022804",
+    "name": "Aichi Institute of Technology",
+    "url": "https://dl.acm.org/institution/60022804",
+    "ad0": "Toyota",
+    "ad1": "Aichi",
+    "ad2": "Japan"
+  },
+  "60007457": {
+    "id": "60007457",
+    "name": "Lomonosov Moscow State University",
+    "url": "https://dl.acm.org/institution/60007457",
+    "ad0": "Moscow",
+    "ad1": "Moscow Oblast",
+    "ad2": "Russia"
+  },
+  "60031318": {
+    "id": "60031318",
+    "name": "Micron Technology Incorporated",
+    "url": "https://dl.acm.org/institution/60031318",
+    "ad0": "Boise",
+    "ad1": "ID",
+    "ad2": "United States"
+  },
+  "60001456": {
+    "id": "60001456",
+    "name": "Boise State University",
+    "url": "https://dl.acm.org/institution/60001456",
+    "ad0": "Boise",
+    "ad1": "ID",
+    "ad2": "United States"
+  },
+  "60076698": {
+    "id": "60076698",
+    "name": "Bosch Research and Technology Center",
+    "url": "https://dl.acm.org/institution/60076698",
+    "ad0": "Palo Alto",
+    "ad1": "United States"
+  },
+  "60003146": {
+    "id": "60003146",
+    "name": "Henan University",
+    "url": "https://dl.acm.org/institution/60003146",
+    "ad0": "Kaifeng",
+    "ad1": "Henan",
+    "ad2": "China"
+  },
+  "60020238": {
+    "id": "60020238",
+    "name": "University of Paderborn",
+    "url": "https://dl.acm.org/institution/60020238",
+    "ad0": "Paderborn",
+    "ad1": "Nordrhein-Westfalen",
+    "ad2": "Germany"
+  },
+  "60029428": {
+    "id": "60029428",
+    "name": "Karlsruhe Institute of Technology, Campus South",
+    "url": "https://dl.acm.org/institution/60029428",
+    "ad0": "Karlsruhe",
+    "ad1": "Baden-Wurttemberg",
+    "ad2": "Germany"
+  },
+  "60012370": {
+    "id": "60012370",
+    "name": "National Chiao Tung University Taiwan",
+    "url": "https://dl.acm.org/institution/60012370",
+    "ad0": "Hsinchu",
+    "ad1": "Taiwan"
+  },
+  "60030318": {
+    "id": "60030318",
+    "name": "University of Milan",
+    "url": "https://dl.acm.org/institution/60030318",
+    "ad0": "Milan",
+    "ad1": "Italy"
+  },
+  "60103680": {
+    "id": "60103680",
+    "name": "Shizuoka University",
+    "url": "https://dl.acm.org/institution/60103680",
+    "ad0": "Hamamatsu",
+    "ad1": "Shizuoka",
+    "ad2": "Japan"
+  },
+  "60002146": {
+    "id": "60002146",
+    "name": "Ontario Tech University",
+    "url": "https://dl.acm.org/institution/60002146",
+    "ad0": "Oshawa",
+    "ad1": "ON",
+    "ad2": "Canada"
+  },
+  "60017604": {
+    "id": "60017604",
+    "name": "Siberian Branch, Russian Academy of Sciences",
+    "url": "https://dl.acm.org/institution/60017604",
+    "ad0": "Novosibirsk",
+    "ad1": "Novosibirsk Oblast",
+    "ad2": "Russia"
+  },
+  "60013789": {
+    "id": "60013789",
+    "name": "Beihang University",
+    "url": "https://dl.acm.org/institution/60013789",
+    "ad0": "Beijing",
+    "ad1": "China"
+  },
+  "60001604": {
+    "id": "60001604",
+    "name": "Ministry of Education China",
+    "url": "https://dl.acm.org/institution/60001604",
+    "ad0": "Beijing",
+    "ad1": "Beijing",
+    "ad2": "China"
+  },
+  "60027363": {
+    "id": "60027363",
+    "name": "University of Chinese Academy of Sciences",
+    "url": "https://dl.acm.org/institution/60027363",
+    "ad0": "Beijing",
+    "ad1": "China"
+  },
+  "60025256": {
+    "id": "60025256",
+    "name": "Institute of Software Chinese Academy of Sciences",
+    "url": "https://dl.acm.org/institution/60025256",
+    "ad0": "Beijing",
+    "ad1": "Beijing",
+    "ad2": "China"
+  },
+  "60026638": {
+    "id": "60026638",
+    "name": "Nokia Corporation",
+    "url": "https://dl.acm.org/institution/60026638",
+    "ad0": "Espoo",
+    "ad1": "Finland"
+  },
+  "60007061": {
+    "id": "60007061",
+    "name": "University of Salerno",
+    "url": "https://dl.acm.org/institution/60007061",
+    "ad0": "Salerno",
+    "ad1": "SA",
+    "ad2": "Italy"
+  },
+  "60010679": {
+    "id": "60010679",
+    "name": "Australian Catholic University",
+    "url": "https://dl.acm.org/institution/60010679",
+    "ad0": "Banyo",
+    "ad1": "QLD",
+    "ad2": "Australia"
+  },
+  "60109537": {
+    "id": "60109537",
+    "name": "Link Campus University",
+    "url": "https://dl.acm.org/institution/60109537",
+    "ad0": "Rome",
+    "ad1": "Italy"
+  },
+  "60019616": {
+    "id": "60019616",
+    "name": "Harbin Institute of Technology",
+    "url": "https://dl.acm.org/institution/60019616",
+    "ad0": "Weihai",
+    "ad1": "Shandong",
+    "ad2": "China"
+  },
+  "60104079": {
+    "id": "60104079",
+    "name": "Beijing Electronic Science and Technology Institute",
+    "url": "https://dl.acm.org/institution/60104079",
+    "ad0": "Beijing",
+    "ad1": "China"
+  },
+  "60015272": {
+    "id": "60015272",
+    "name": "Texas Instruments",
+    "url": "https://dl.acm.org/institution/60015272",
+    "ad0": "Dallas",
+    "ad1": "TX",
+    "ad2": "United States"
+  },
+  "60084261": {
+    "id": "60084261",
+    "name": "Siemens USA",
+    "url": "https://dl.acm.org/institution/60084261",
+    "ad0": "New York",
+    "ad1": "NY",
+    "ad2": "United States"
+  },
+  "60022281": {
+    "id": "60022281",
+    "name": "Beijing University of Technology",
+    "url": "https://dl.acm.org/institution/60022281",
+    "ad0": "Beijing",
+    "ad1": "Beijing",
+    "ad2": "China"
+  },
+  "60032530": {
+    "id": "60032530",
+    "name": "University of Tours",
+    "url": "https://dl.acm.org/institution/60032530",
+    "ad0": "Tours",
+    "ad1": "Centre-Val de Loire",
+    "ad2": "France"
+  },
+  "60104665": {
+    "id": "60104665",
+    "name": "University of Lille",
+    "url": "https://dl.acm.org/institution/60104665",
+    "ad0": "Lille",
+    "ad1": "Hauts-de-France",
+    "ad2": "France"
+  },
+  "60024652": {
+    "id": "60024652",
+    "name": "Paris-Sud University",
+    "url": "https://dl.acm.org/institution/60024652",
+    "ad0": "Orsay",
+    "ad1": "Ile-de-France",
+    "ad2": "France"
+  },
+  "60014551": {
+    "id": "60014551",
+    "name": "Aston University",
+    "url": "https://dl.acm.org/institution/60014551",
+    "ad0": "Birmingham",
+    "ad1": "West Midlands",
+    "ad2": "U.K."
+  },
+  "60000891": {
+    "id": "60000891",
+    "name": "Loughborough University",
+    "url": "https://dl.acm.org/institution/60000891",
+    "ad0": "Loughborough",
+    "ad1": "Leicestershire",
+    "ad2": "U.K."
+  },
+  "60006029": {
+    "id": "60006029",
+    "name": "Nottingham Trent University",
+    "url": "https://dl.acm.org/institution/60006029",
+    "ad0": "Nottingham",
+    "ad1": "Nottinghamshire",
+    "ad2": "U.K."
+  },
+  "60000112": {
+    "id": "60000112",
+    "name": "University of East Anglia",
+    "url": "https://dl.acm.org/institution/60000112",
+    "ad0": "Norwich",
+    "ad1": "Norfolk",
+    "ad2": "U.K."
+  },
+  "60026305": {
+    "id": "60026305",
+    "name": "Winthrop University",
+    "url": "https://dl.acm.org/institution/60026305",
+    "ad0": "Rock Hill",
+    "ad1": "SC",
+    "ad2": "United States"
+  },
+  "60000745": {
+    "id": "60000745",
+    "name": "University of Illinois Urbana-Champaign",
+    "url": "https://dl.acm.org/institution/60000745",
+    "ad0": "Urbana",
+    "ad1": "IL",
+    "ad2": "United States"
+  },
+  "60032949": {
+    "id": "60032949",
+    "name": "IIT Research Institute",
+    "url": "https://dl.acm.org/institution/60032949",
+    "ad0": "Chicago",
+    "ad1": "IL",
+    "ad2": "United States"
+  },
+  "60022148": {
+    "id": "60022148",
+    "name": "University College London",
+    "url": "https://dl.acm.org/institution/60022148",
+    "ad0": "London",
+    "ad1": "U.K."
+  },
+  "60031706": {
+    "id": "60031706",
+    "name": "Utah State University",
+    "url": "https://dl.acm.org/institution/60031706",
+    "ad0": "Logan",
+    "ad1": "UT",
+    "ad2": "United States"
+  },
+  "60009253": {
+    "id": "60009253",
+    "name": "IBM Research - Almaden",
+    "url": "https://dl.acm.org/institution/60009253",
+    "ad0": "San Jose",
+    "ad1": "CA",
+    "ad2": "United States"
+  },
+  "60011048": {
+    "id": "60011048",
+    "name": "IBM Research",
+    "url": "https://dl.acm.org/institution/60011048",
+    "ad0": "Yorktown Heights",
+    "ad1": "NY",
+    "ad2": "United States"
+  },
+  "60021293": {
+    "id": "60021293",
+    "name": "International Business Machines",
+    "url": "https://dl.acm.org/institution/60021293",
+    "ad0": "Armonk",
+    "ad1": "NY",
+    "ad2": "United States"
+  },
+  "60117751": {
+    "id": "60117751",
+    "name": "College of Computer Science and Technology, Zhejiang University",
+    "url": "https://dl.acm.org/institution/60117751",
+    "ad0": "Hangzhou",
+    "ad1": "Zhejiang",
+    "ad2": "China"
+  },
+  "60109026": {
+    "id": "60109026",
+    "name": "Hunan University of Finance and Economics",
+    "url": "https://dl.acm.org/institution/60109026",
+    "ad0": "Changsha",
+    "ad1": "Hunan",
+    "ad2": "China"
+  },
+  "60104026": {
+    "id": "60104026",
+    "name": "Tsinghua National Laboratory for Information Science and Technology",
+    "url": "https://dl.acm.org/institution/60104026",
+    "ad0": "Beijing",
+    "ad1": "China"
+  },
+  "60107937": {
+    "id": "60107937",
+    "name": "IBM China Company Limited",
+    "url": "https://dl.acm.org/institution/60107937",
+    "ad0": "Beijing",
+    "ad1": "China"
+  },
+  "60022933": {
+    "id": "60022933",
+    "name": "IBM Research - China",
+    "url": "https://dl.acm.org/institution/60022933",
+    "ad0": "Beijing",
+    "ad1": "China"
+  },
+  "60003915": {
+    "id": "60003915",
+    "name": "Vanderbilt University",
+    "url": "https://dl.acm.org/institution/60003915",
+    "ad0": "Nashville",
+    "ad1": "TN",
+    "ad2": "United States"
+  },
+  "60023237": {
+    "id": "60023237",
+    "name": "Beijing Normal University",
+    "url": "https://dl.acm.org/institution/60023237",
+    "ad0": "Beijing",
+    "ad1": "China"
+  },
+  "60022559": {
+    "id": "60022559",
+    "name": "Pace University",
+    "url": "https://dl.acm.org/institution/60022559",
+    "ad0": "New York",
+    "ad1": "NY",
+    "ad2": "United States"
+  },
+  "60010432": {
+    "id": "60010432",
+    "name": "Soochow University",
+    "url": "https://dl.acm.org/institution/60010432",
+    "ad0": "Suzhou",
+    "ad1": "Jiangsu",
+    "ad2": "China"
+  },
+  "60011410": {
+    "id": "60011410",
+    "name": "Worcester Polytechnic Institute",
+    "url": "https://dl.acm.org/institution/60011410",
+    "ad0": "Worcester",
+    "ad1": "MA",
+    "ad2": "United States"
+  },
+  "60023143": {
+    "id": "60023143",
+    "name": "Tufts University",
+    "url": "https://dl.acm.org/institution/60023143",
+    "ad0": "Medford",
+    "ad1": "MA",
+    "ad2": "United States"
+  },
+  "60013813": {
+    "id": "60013813",
+    "name": "University of the Pacific, California",
+    "url": "https://dl.acm.org/institution/60013813",
+    "ad0": "Stockton",
+    "ad1": "CA",
+    "ad2": "United States"
+  },
+  "60005745": {
+    "id": "60005745",
+    "name": "University of Minnesota System",
+    "url": "https://dl.acm.org/institution/60005745",
+    "ad0": "Minneapolis",
+    "ad1": "MN",
+    "ad2": "United States"
+  },
+  "60024266": {
+    "id": "60024266",
+    "name": "Oak Ridge National Laboratory",
+    "url": "https://dl.acm.org/institution/60024266",
+    "ad0": "Oak Ridge",
+    "ad1": "TN",
+    "ad2": "United States"
+  },
+  "60015356": {
+    "id": "60015356",
+    "name": "University of Tasmania",
+    "url": "https://dl.acm.org/institution/60015356",
+    "ad0": "Hobart",
+    "ad1": "TS",
+    "ad2": "Australia"
+  },
+  "60199493": {
+    "id": "60199493",
+    "name": "National Yang Ming Chiao Tung University",
+    "url": "https://dl.acm.org/institution/60199493",
+    "ad0": "Hsinchu",
+    "ad1": "Taiwan"
+  },
+  "60104521": {
+    "id": "60104521",
+    "name": "University of Taipei",
+    "url": "https://dl.acm.org/institution/60104521",
+    "ad0": "Taipei",
+    "ad1": "Taiwan"
+  },
+  "60028487": {
+    "id": "60028487",
+    "name": "Palo Alto Research Center Incorporated",
+    "url": "https://dl.acm.org/institution/60028487",
+    "ad0": "Palo Alto",
+    "ad1": "CA",
+    "ad2": "United States"
+  },
+  "60025038": {
+    "id": "60025038",
+    "name": "University of California, Berkeley",
+    "url": "https://dl.acm.org/institution/60025038",
+    "ad0": "Berkeley",
+    "ad1": "CA",
+    "ad2": "United States"
+  }
+}

@@ -118,6 +118,11 @@ class PostData:
         self.save_id()
         print(count, "Record inserted successfully into mobile table")
 
+    def search_author(self, author):
+        pass
+
+    def loop_authors(self):
+        pass
 
     def main(self):
         for conf in self.data:
