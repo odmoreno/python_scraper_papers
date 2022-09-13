@@ -88,6 +88,7 @@ class AcmClient:
             for url in self.list_urls:
                 # get the name of conference
                 name = url[0] + '_' + url[1]
+                print('Anioi', name)
                 conference_title = url[3]
                 conference_publisher = url[4]
                 conference_isbn = url[6]
@@ -99,10 +100,12 @@ class AcmClient:
                     time.sleep(10)
                     # open accordions tabs accordion-tabbed__content
                     #popup = self.driver_for_acm.find_elements_by_class_name('accordion-tabbed__content')
-                    elements = self.driver_for_acm.find_elements_by_xpath("//a[contains(@class, 'section__title accordion-tabbed__control left-bordered-title')]")
-                    for element in elements:
-                        #element.click()
-                        self.driver_for_acm.execute_script("arguments[0].click();", element)
+                    #elements = self.driver_for_acm.find_elements_by_xpath("//a[contains(@class, 'section__title accordion-tabbed__control left-bordered-title')]")
+                    """
+                    //*[@id="pb-page-content"]/div/main/div[4]/div/div[2]/div[1]/div/div[2]/div/div/div[2]"""
+                    divhead = self.driver_for_acm.find_elements_by_css_selector("a[class='section__title accordion-tabbed__control left-bordered-title']")
+                    for header in divhead:
+                        self.driver_for_acm.execute_script("arguments[0].click();", header)
 
                     clickmore = self.driver_for_acm.find_elements_by_xpath("//a[contains(@class, 'removed-items-count')]")
                     for el in clickmore:
@@ -114,7 +117,7 @@ class AcmClient:
 
                     # parse source code
                     soup = BeautifulSoup(self.driver_for_acm.page_source, "html.parser")
-                    #time.sleep(10)
+                    time.sleep(10)
                     # Get the result containers
                     result_containers = soup.findAll("div", class_="issue-item clearfix")
                     item_citation = soup.findAll("div", class_="issue-heading")

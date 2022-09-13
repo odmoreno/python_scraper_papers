@@ -22,7 +22,6 @@
       "pp 1–8",
       "https://doi.org/10.1145/2801040.2801054"
     ],
-    "conference_title": "Proceedings of the 8th International Symposium on Visual Information Communication and Interaction, VINCI 2015, Tokyo, Japan, August 24-26, 2015.",
     "publisher": "ACM",
     "conference_isbn": "978-1-4503-3482-2"
   },
@@ -53,7 +52,6 @@
       "pp 9–12",
       "https://doi.org/10.1145/2801040.2801043"
     ],
-    "conference_title": "Proceedings of the 8th International Symposium on Visual Information Communication and Interaction, VINCI 2015, Tokyo, Japan, August 24-26, 2015.",
     "publisher": "ACM",
     "conference_isbn": "978-1-4503-3482-2"
   },
@@ -84,7 +82,6 @@
       "pp 13–20",
       "https://doi.org/10.1145/2801040.2801055"
     ],
-    "conference_title": "Proceedings of the 8th International Symposium on Visual Information Communication and Interaction, VINCI 2015, Tokyo, Japan, August 24-26, 2015.",
     "publisher": "ACM",
     "conference_isbn": "978-1-4503-3482-2"
   },
@@ -115,7 +112,796 @@
       "pp 21–26",
       "https://doi.org/10.1145/2801040.2801057"
     ],
-    "conference_title": "Proceedings of the 8th International Symposium on Visual Information Communication and Interaction, VINCI 2015, Tokyo, Japan, August 24-26, 2015.",
+    "publisher": "ACM",
+    "conference_isbn": "978-1-4503-3482-2"
+  },
+  "10.1145/2801040.2801048": {
+    "type": "research-article",
+    "title": "Dynamic Graph Visualization with Multiple Visual Metaphors",
+    "url": "https://doi.org/10.1145/2801040.2801048",
+    "year": "2015",
+    "authors": [
+      {
+        "name": "Michael Burch",
+        "url": "https:/dl.acm.org/profile/81331488994"
+      }
+    ],
+    "citations": "3",
+    "downloads": "272",
+    "doi": "10.1145/2801040.2801048",
+    "extra": [
+      "August 2015",
+      "pp 27–34",
+      "https://doi.org/10.1145/2801040.2801048"
+    ],
+    "publisher": "ACM",
+    "conference_isbn": "978-1-4503-3482-2"
+  },
+  "10.1145/2801040.2801053": {
+    "type": "research-article",
+    "title": "Consistently GPU-Accelerated Graph Visualization",
+    "url": "https://doi.org/10.1145/2801040.2801053",
+    "year": "2015",
+    "authors": [
+      {
+        "name": "Alexandros Panagiotidis",
+        "url": "https:/dl.acm.org/profile/81482658558"
+      },
+      {
+        "name": " + 4",
+        "url": "https:/dl.acm.orgjavascript:void(0)"
+      }
+    ],
+    "citations": "4",
+    "downloads": "133",
+    "doi": "10.1145/2801040.2801053",
+    "extra": [
+      "August 2015",
+      "pp 35–41",
+      "https://doi.org/10.1145/2801040.2801053"
+    ],
+    "publisher": "ACM",
+    "conference_isbn": "978-1-4503-3482-2"
+  },
+  "10.1145/2801040.2801059": {
+    "type": "research-article",
+    "title": "The Graph Landscape: a Concept for the Visual Analysis of Graph Set Properties",
+    "url": "https://doi.org/10.1145/2801040.2801059",
+    "year": "2015",
+    "authors": [
+      {
+        "name": "Andrew Kennedy",
+        "url": "https:/dl.acm.org/profile/99658767810"
+      },
+      {
+        "name": "Karsten Klein",
+        "url": "https:/dl.acm.org/profile/81100141840"
+      },
+      {
+        "name": " + 1",
+        "url": "https:/dl.acm.orgjavascript:void(0)"
+      }
+    ],
+    "citations": "1",
+    "downloads": "149",
+    "doi": "10.1145/2801040.2801059",
+    "extra": [
+      "August 2015",
+      "pp 42–51",
+      "https://doi.org/10.1145/2801040.2801059"
+    ],
+    "publisher": "ACM",
+    "conference_isbn": "978-1-4503-3482-2"
+  },
+  "10.1145/2801040.2801046": {
+    "type": "research-article",
+    "title": "Digital Artwork Creation Using Water and Sand on a Two-Dimensional Surface",
+    "url": "https://doi.org/10.1145/2801040.2801046",
+    "year": "2015",
+    "authors": [
+      {
+        "name": "Ting-Yu Chen",
+        "url": "https:/dl.acm.org/profile/99658767526"
+      },
+      {
+        "name": "Sai-Keung Wong",
+        "url": "https:/dl.acm.org/profile/81548026358"
+      }
+    ],
+    "citations": "1",
+    "downloads": "136",
+    "doi": "10.1145/2801040.2801046",
+    "extra": [
+      "August 2015",
+      "pp 52–60",
+      "https://doi.org/10.1145/2801040.2801046"
+    ],
+    "publisher": "ACM",
+    "conference_isbn": "978-1-4503-3482-2"
+  },
+  "10.1145/2801040.2801044": {
+    "type": "research-article",
+    "title": "HistoryPaper: A Magazine-Style Layout of Representative Web Pages Extracted From Browsing History",
+    "url": "https://doi.org/10.1145/2801040.2801044",
+    "year": "2015",
+    "authors": [
+      {
+        "name": "Chica Matsueda",
+        "url": "https:/dl.acm.org/profile/99658765625"
+      },
+      {
+        "name": "Takayuki Itoh",
+        "url": "https:/dl.acm.org/profile/81100329777"
+      }
+    ],
+    "citations": "0",
+    "downloads": "48",
+    "doi": "10.1145/2801040.2801044",
+    "extra": [
+      "August 2015",
+      "pp 61–68",
+      "https://doi.org/10.1145/2801040.2801044"
+    ],
+    "publisher": "ACM",
+    "conference_isbn": "978-1-4503-3482-2"
+  },
+  "10.1145/2801040.2801051": {
+    "type": "short-paper",
+    "title": "The Fantastic Voyage: an arts-led approach to 3D virtual reality visualization of clinical stroke data",
+    "url": "https://doi.org/10.1145/2801040.2801051",
+    "year": "2015",
+    "authors": [
+      {
+        "name": "John McGhee",
+        "url": "https:/dl.acm.org/profile/81335494516"
+      },
+      {
+        "name": " + 4",
+        "url": "https:/dl.acm.orgjavascript:void(0)"
+      }
+    ],
+    "citations": "4",
+    "downloads": "192",
+    "doi": "10.1145/2801040.2801051",
+    "extra": [
+      "August 2015",
+      "pp 69–74",
+      "https://doi.org/10.1145/2801040.2801051"
+    ],
+    "publisher": "ACM",
+    "conference_isbn": "978-1-4503-3482-2"
+  },
+  "10.1145/2801040.2801058": {
+    "type": "research-article",
+    "title": "Vision-Based Technique and Issues for Multimodal Interaction in Augmented Reality",
+    "url": "https://doi.org/10.1145/2801040.2801058",
+    "year": "2015",
+    "authors": [
+      {
+        "name": "Ajune Wanis Ismail",
+        "url": "https:/dl.acm.org/profile/81442594829"
+      },
+      {
+        "name": " + 2",
+        "url": "https:/dl.acm.orgjavascript:void(0)"
+      }
+    ],
+    "citations": "6",
+    "downloads": "374",
+    "doi": "10.1145/2801040.2801058",
+    "extra": [
+      "August 2015",
+      "pp 75–82",
+      "https://doi.org/10.1145/2801040.2801058"
+    ],
+    "publisher": "ACM",
+    "conference_isbn": "978-1-4503-3482-2"
+  },
+  "10.1145/2801040.2801052": {
+    "type": "research-article",
+    "title": "Visual Cyber Situational Awareness for Critical Infrastructures",
+    "url": "https://doi.org/10.1145/2801040.2801052",
+    "year": "2015",
+    "authors": [
+      {
+        "name": "Marco Angelini",
+        "url": "https:/dl.acm.org/profile/81537766956"
+      },
+      {
+        "name": "Giuseppe Santucci",
+        "url": "https:/dl.acm.org/profile/81100525081"
+      }
+    ],
+    "citations": "6",
+    "downloads": "346",
+    "doi": "10.1145/2801040.2801052",
+    "extra": [
+      "August 2015",
+      "pp 83–92",
+      "https://doi.org/10.1145/2801040.2801052"
+    ],
+    "publisher": "ACM",
+    "conference_isbn": "978-1-4503-3482-2"
+  },
+  "10.1145/2801040.2801061": {
+    "type": "research-article",
+    "title": "An Interactive Radial Visualization of Geoscience Observation Data",
+    "url": "https://doi.org/10.1145/2801040.2801061",
+    "year": "2015",
+    "authors": [
+      {
+        "name": "Jie Li",
+        "url": "https:/dl.acm.org/profile/99658620368"
+      },
+      {
+        "name": "Zhao-Peng Meng",
+        "url": "https:/dl.acm.org/profile/81498648020"
+      },
+      {
+        "name": " + 2",
+        "url": "https:/dl.acm.orgjavascript:void(0)"
+      }
+    ],
+    "citations": "2",
+    "downloads": "135",
+    "doi": "10.1145/2801040.2801061",
+    "extra": [
+      "August 2015",
+      "pp 93–102",
+      "https://doi.org/10.1145/2801040.2801061"
+    ],
+    "publisher": "ACM",
+    "conference_isbn": "978-1-4503-3482-2"
+  },
+  "10.1145/2801040.2801041": {
+    "type": "research-article",
+    "title": "An interactive exploratory search system for on-line apparel shopping",
+    "url": "https://doi.org/10.1145/2801040.2801041",
+    "year": "2015",
+    "authors": [
+      {
+        "name": "Eriko Koike",
+        "url": "https:/dl.acm.org/profile/99658767864"
+      },
+      {
+        "name": "Takayuki Itoh",
+        "url": "https:/dl.acm.org/profile/81100329777"
+      }
+    ],
+    "citations": "0",
+    "downloads": "72",
+    "doi": "10.1145/2801040.2801041",
+    "extra": [
+      "August 2015",
+      "pp 103–108",
+      "https://doi.org/10.1145/2801040.2801041"
+    ],
+    "publisher": "ACM",
+    "conference_isbn": "978-1-4503-3482-2"
+  },
+  "10.1145/2801040.2801049": {
+    "type": "research-article",
+    "title": "Interactive Visual Analysis of Temporal Text Data",
+    "url": "https://doi.org/10.1145/2801040.2801049",
+    "year": "2015",
+    "authors": [
+      {
+        "name": "Aditeya Pandey",
+        "url": "https:/dl.acm.org/profile/99658684477"
+      },
+      {
+        "name": "Kunal Ranjan",
+        "url": "https:/dl.acm.org/profile/99658767511"
+      },
+      {
+        "name": " + 2",
+        "url": "https:/dl.acm.orgjavascript:void(0)"
+      }
+    ],
+    "citations": "1",
+    "downloads": "124",
+    "doi": "10.1145/2801040.2801049",
+    "extra": [
+      "August 2015",
+      "pp 109–114",
+      "https://doi.org/10.1145/2801040.2801049"
+    ],
+    "publisher": "ACM",
+    "conference_isbn": "978-1-4503-3482-2"
+  },
+  "10.1145/2801040.2801063": {
+    "type": "short-paper",
+    "title": "Exploring the Benefits of Text and Sketch in Video Retrieval of Complex Queries",
+    "url": "https://doi.org/10.1145/2801040.2801063",
+    "year": "2015",
+    "authors": [
+      {
+        "name": "Yan Huang",
+        "url": "https:/dl.acm.org/profile/99659047793"
+      },
+      {
+        "name": "Cuixia Ma",
+        "url": "https:/dl.acm.org/profile/81384602486"
+      },
+      {
+        "name": " + 1",
+        "url": "https:/dl.acm.orgjavascript:void(0)"
+      }
+    ],
+    "citations": "0",
+    "downloads": "71",
+    "doi": "10.1145/2801040.2801063",
+    "extra": [
+      "August 2015",
+      "pp 115–120",
+      "https://doi.org/10.1145/2801040.2801063"
+    ],
+    "publisher": "ACM",
+    "conference_isbn": "978-1-4503-3482-2"
+  },
+  "10.1145/2801040.2801062": {
+    "type": "research-article",
+    "title": "Metaphoric Transfer Effect in Information Visualization Using Glyphs",
+    "url": "https://doi.org/10.1145/2801040.2801062",
+    "year": "2015",
+    "authors": [
+      {
+        "name": "Yi-Na Li",
+        "url": "https:/dl.acm.org/profile/99658766518"
+      },
+      {
+        "name": "Dong-Jin Li",
+        "url": "https:/dl.acm.org/profile/99658766563"
+      },
+      {
+        "name": "Kang Zhang",
+        "url": "https:/dl.acm.org/profile/81350576955"
+      }
+    ],
+    "citations": "8",
+    "downloads": "116",
+    "doi": "10.1145/2801040.2801062",
+    "extra": [
+      "August 2015",
+      "pp 121–130",
+      "https://doi.org/10.1145/2801040.2801062"
+    ],
+    "publisher": "ACM",
+    "conference_isbn": "978-1-4503-3482-2"
+  },
+  "10.1145/2801040.2801045": {
+    "type": "research-article",
+    "title": "On the Utility of Large High-Resolution Displays for Comparative Scientific Visualisation",
+    "url": "https://doi.org/10.1145/2801040.2801045",
+    "year": "2015",
+    "authors": [
+      {
+        "name": "Christoph Müller",
+        "url": "https:/dl.acm.org/profile/81330495342"
+      },
+      {
+        "name": " + 4",
+        "url": "https:/dl.acm.orgjavascript:void(0)"
+      }
+    ],
+    "citations": "1",
+    "downloads": "139",
+    "doi": "10.1145/2801040.2801045",
+    "extra": [
+      "August 2015",
+      "pp 131–136",
+      "https://doi.org/10.1145/2801040.2801045"
+    ],
+    "publisher": "ACM",
+    "conference_isbn": "978-1-4503-3482-2"
+  },
+  "10.1145/2801040.2801056": {
+    "type": "research-article",
+    "title": "Enhanced Hexagon-Tiling Algorithm for Map-Like Information Visualisation",
+    "url": "https://doi.org/10.1145/2801040.2801056",
+    "year": "2015",
+    "authors": [
+      {
+        "name": "Muye Yang",
+        "url": "https:/dl.acm.org/profile/99658765217"
+      },
+      {
+        "name": "Robert P. Biuk-Aghai",
+        "url": "https:/dl.acm.org/profile/81100203521"
+      }
+    ],
+    "citations": "15",
+    "downloads": "308",
+    "doi": "10.1145/2801040.2801056",
+    "extra": [
+      "August 2015",
+      "pp 137–142",
+      "https://doi.org/10.1145/2801040.2801056"
+    ],
+    "publisher": "ACM",
+    "conference_isbn": "978-1-4503-3482-2"
+  },
+  "10.1145/2801040.2801064": {
+    "type": "short-paper",
+    "title": "On Clustered Graph Layouts Sketched by Users Based on Predefined Clusters",
+    "url": "https://doi.org/10.1145/2801040.2801064",
+    "year": "2015",
+    "authors": [
+      {
+        "name": "Chun-Cheng Lin",
+        "url": "https:/dl.acm.org/profile/81100227371"
+      },
+      {
+        "name": " + 3",
+        "url": "https:/dl.acm.orgjavascript:void(0)"
+      }
+    ],
+    "citations": "0",
+    "downloads": "58",
+    "doi": "10.1145/2801040.2801064",
+    "extra": [
+      "August 2015",
+      "pp 143–145",
+      "https://doi.org/10.1145/2801040.2801064"
+    ],
+    "publisher": "ACM",
+    "conference_isbn": "978-1-4503-3482-2"
+  },
+  "10.1145/2801040.2801042": {
+    "type": "poster",
+    "title": "Visually Do Statistics: Visual Materials of Covariance in Regressive Analysis",
+    "url": "https://doi.org/10.1145/2801040.2801042",
+    "year": "2015",
+    "authors": [
+      {
+        "name": "Yukari Shirota",
+        "url": "https:/dl.acm.org/profile/81100229818"
+      },
+      {
+        "name": " + 3",
+        "url": "https:/dl.acm.orgjavascript:void(0)"
+      }
+    ],
+    "citations": "0",
+    "downloads": "90",
+    "doi": "10.1145/2801040.2801042",
+    "extra": [
+      "August 2015",
+      "pp 146–147",
+      "https://doi.org/10.1145/2801040.2801042"
+    ],
+    "publisher": "ACM",
+    "conference_isbn": "978-1-4503-3482-2"
+  },
+  "10.1145/2801040.2801047": {
+    "type": "poster",
+    "title": "The Interface Design for Serendipity with Collective Intelligence",
+    "url": "https://doi.org/10.1145/2801040.2801047",
+    "year": "2015",
+    "authors": [
+      {
+        "name": "Makiko Harada",
+        "url": "https:/dl.acm.org/profile/99658764981"
+      },
+      {
+        "name": "Hidenori Watanave",
+        "url": "https:/dl.acm.org/profile/81365592172"
+      }
+    ],
+    "citations": "0",
+    "downloads": "79",
+    "doi": "10.1145/2801040.2801047",
+    "extra": [
+      "August 2015",
+      "pp 148–149",
+      "https://doi.org/10.1145/2801040.2801047"
+    ],
+    "publisher": "ACM",
+    "conference_isbn": "978-1-4503-3482-2"
+  },
+  "10.1145/2801040.2801050": {
+    "type": "research-article",
+    "title": "Synchronizing Digital Signage Content with the Movement of Passerby",
+    "url": "https://doi.org/10.1145/2801040.2801050",
+    "year": "2015",
+    "authors": [
+      {
+        "name": "Nozomi Tamaki",
+        "url": "https:/dl.acm.org/profile/99658767417"
+      },
+      {
+        "name": "Masahito Hirakawa",
+        "url": "https:/dl.acm.org/profile/81100170303"
+      }
+    ],
+    "citations": "1",
+    "downloads": "76",
+    "doi": "10.1145/2801040.2801050",
+    "extra": [
+      "August 2015",
+      "pp 150–151",
+      "https://doi.org/10.1145/2801040.2801050"
+    ],
+    "publisher": "ACM",
+    "conference_isbn": "978-1-4503-3482-2"
+  },
+  "10.1145/2801040.2801060": {
+    "type": "poster",
+    "title": "Enabling Finger-Gesture Interaction with Kinect",
+    "url": "https://doi.org/10.1145/2801040.2801060",
+    "year": "2015",
+    "authors": [
+      {
+        "name": "Harrison Cook",
+        "url": "https:/dl.acm.org/profile/99658765656"
+      },
+      {
+        "name": " + 2",
+        "url": "https:/dl.acm.orgjavascript:void(0)"
+      }
+    ],
+    "citations": "1",
+    "downloads": "171",
+    "doi": "10.1145/2801040.2801060",
+    "extra": [
+      "August 2015",
+      "pp 152–153",
+      "https://doi.org/10.1145/2801040.2801060"
+    ],
+    "publisher": "ACM",
+    "conference_isbn": "978-1-4503-3482-2"
+  },
+  "10.1145/2801040.2801066": {
+    "type": "poster",
+    "title": "Interactive Visualization of Quantitative Data with G2D3",
+    "url": "https://doi.org/10.1145/2801040.2801066",
+    "year": "2015",
+    "authors": [
+      {
+        "name": "Antoine Trouvé",
+        "url": "https:/dl.acm.org/profile/81456607597"
+      },
+      {
+        "name": "Kazuaki J. Murakami",
+        "url": "https:/dl.acm.org/profile/99659767347"
+      }
+    ],
+    "citations": "0",
+    "downloads": "59",
+    "doi": "10.1145/2801040.2801066",
+    "extra": [
+      "August 2015",
+      "pp 154–155",
+      "https://doi.org/10.1145/2801040.2801066"
+    ],
+    "publisher": "ACM",
+    "conference_isbn": "978-1-4503-3482-2"
+  },
+  "10.1145/2801040.2801067": {
+    "type": "poster",
+    "title": "A Layout Technique for Storyline-based Visualization of Consecutive Numerical Time-varying Data",
+    "url": "https://doi.org/10.1145/2801040.2801067",
+    "year": "2015",
+    "authors": [
+      {
+        "name": "Sayaka Yagi",
+        "url": "https:/dl.acm.org/profile/81508696579"
+      },
+      {
+        "name": "Takayuki Itoh",
+        "url": "https:/dl.acm.org/profile/81100329777"
+      },
+      {
+        "name": " + 1",
+        "url": "https:/dl.acm.orgjavascript:void(0)"
+      }
+    ],
+    "citations": "1",
+    "downloads": "119",
+    "doi": "10.1145/2801040.2801067",
+    "extra": [
+      "August 2015",
+      "pp 156–157",
+      "https://doi.org/10.1145/2801040.2801067"
+    ],
+    "publisher": "ACM",
+    "conference_isbn": "978-1-4503-3482-2"
+  },
+  "10.1145/2801040.2801069": {
+    "type": "poster",
+    "title": "Logo Trend Visualization: Logo Design Shape Element Trend and Pattern Analysis",
+    "url": "https://doi.org/10.1145/2801040.2801069",
+    "year": "2015",
+    "authors": [
+      {
+        "name": "Hyoji Ha",
+        "url": "https:/dl.acm.org/profile/99658765559"
+      },
+      {
+        "name": "Sungyun Bae",
+        "url": "https:/dl.acm.org/profile/99658768692"
+      },
+      {
+        "name": " + 2",
+        "url": "https:/dl.acm.orgjavascript:void(0)"
+      }
+    ],
+    "citations": "0",
+    "downloads": "193",
+    "doi": "10.1145/2801040.2801069",
+    "extra": [
+      "August 2015",
+      "pp 158–159",
+      "https://doi.org/10.1145/2801040.2801069"
+    ],
+    "publisher": "ACM",
+    "conference_isbn": "978-1-4503-3482-2"
+  },
+  "10.1145/2801040.2801068": {
+    "type": "poster",
+    "title": "Data Analysis Tool for Arm Movement Pattern in Virtual Catching Task: A Preliminary Development",
+    "url": "https://doi.org/10.1145/2801040.2801068",
+    "year": "2015",
+    "authors": [
+      {
+        "name": "Shinya Tachihara",
+        "url": "https:/dl.acm.org/profile/99658767024"
+      },
+      {
+        "name": " + 5",
+        "url": "https:/dl.acm.orgjavascript:void(0)"
+      }
+    ],
+    "citations": "0",
+    "downloads": "113",
+    "doi": "10.1145/2801040.2801068",
+    "extra": [
+      "August 2015",
+      "pp 160–161",
+      "https://doi.org/10.1145/2801040.2801068"
+    ],
+    "publisher": "ACM",
+    "conference_isbn": "978-1-4503-3482-2"
+  },
+  "10.1145/2801040.2801070": {
+    "type": "poster",
+    "title": "A Visual Approach to Detecting Drive-by Download Attacks",
+    "url": "https://doi.org/10.1145/2801040.2801070",
+    "year": "2015",
+    "authors": [
+      {
+        "name": "Tetsuji Takada",
+        "url": "https:/dl.acm.org/profile/81100211722"
+      },
+      {
+        "name": "Katsuhiro Amako",
+        "url": "https:/dl.acm.org/profile/99658765798"
+      }
+    ],
+    "citations": "1",
+    "downloads": "97",
+    "doi": "10.1145/2801040.2801070",
+    "extra": [
+      "August 2015",
+      "pp 162–163",
+      "https://doi.org/10.1145/2801040.2801070"
+    ],
+    "publisher": "ACM",
+    "conference_isbn": "978-1-4503-3482-2"
+  },
+  "10.1145/2801040.2801065": {
+    "type": "poster",
+    "title": "A Projection-based Medical Augmented Reality System",
+    "url": "https://doi.org/10.1145/2801040.2801065",
+    "year": "2015",
+    "authors": [
+      {
+        "name": "Jiann-Der Lee",
+        "url": "https:/dl.acm.org/profile/81384604143"
+      },
+      {
+        "name": "Hao-Che Lee",
+        "url": "https:/dl.acm.org/profile/99658768773"
+      },
+      {
+        "name": " + 3",
+        "url": "https:/dl.acm.orgjavascript:void(0)"
+      }
+    ],
+    "citations": "0",
+    "downloads": "176",
+    "doi": "10.1145/2801040.2801065",
+    "extra": [
+      "August 2015",
+      "pp 164–165",
+      "https://doi.org/10.1145/2801040.2801065"
+    ],
+    "publisher": "ACM",
+    "conference_isbn": "978-1-4503-3482-2"
+  },
+  "10.1145/2801040.2801071": {
+    "type": "poster",
+    "title": "Enhanced Visualization of News Shot Cloud with Employing Circular Layout",
+    "url": "https://doi.org/10.1145/2801040.2801071",
+    "year": "2015",
+    "authors": [
+      {
+        "name": "Norio Katayama",
+        "url": "https:/dl.acm.org/profile/81100019210"
+      },
+      {
+        "name": "Hiroshi MO",
+        "url": "https:/dl.acm.org/profile/81100494174"
+      },
+      {
+        "name": " + 1",
+        "url": "https:/dl.acm.orgjavascript:void(0)"
+      }
+    ],
+    "citations": "0",
+    "downloads": "45",
+    "doi": "10.1145/2801040.2801071",
+    "extra": [
+      "August 2015",
+      "pp 166–167",
+      "https://doi.org/10.1145/2801040.2801071"
+    ],
+    "publisher": "ACM",
+    "conference_isbn": "978-1-4503-3482-2"
+  },
+  "10.1145/2801040.2801072": {
+    "type": "poster",
+    "title": "Using Virtual Reality Technique to Enhance Experience of Exploring 3D Trajectory Visualizations",
+    "url": "https://doi.org/10.1145/2801040.2801072",
+    "year": "2015",
+    "authors": [
+      {
+        "name": "Meng-Jia Zhang",
+        "url": "https:/dl.acm.org/profile/99658765750"
+      },
+      {
+        "name": "Jie Li",
+        "url": "https:/dl.acm.org/profile/99658620368"
+      },
+      {
+        "name": "Kang Zhang",
+        "url": "https:/dl.acm.org/profile/81350576955"
+      }
+    ],
+    "citations": "2",
+    "downloads": "209",
+    "doi": "10.1145/2801040.2801072",
+    "extra": [
+      "August 2015",
+      "pp 168–169",
+      "https://doi.org/10.1145/2801040.2801072"
+    ],
+    "publisher": "ACM",
+    "conference_isbn": "978-1-4503-3482-2"
+  },
+  "10.1145/2801040.2802138": {
+    "type": "tutorial",
+    "title": "Visually Do Statistics for Business Persons: Visual Materials from Regression to Black-Sholes Model",
+    "url": "https://doi.org/10.1145/2801040.2802138",
+    "year": "2015",
+    "authors": [
+      {
+        "name": "Yukari Shirota",
+        "url": "https:/dl.acm.org/profile/81100229818"
+      },
+      {
+        "name": " + 3",
+        "url": "https:/dl.acm.orgjavascript:void(0)"
+      }
+    ],
+    "citations": "1",
+    "downloads": "46",
+    "doi": "10.1145/2801040.2802138",
+    "extra": [
+      "August 2015",
+      "pp 170–173",
+      "https://doi.org/10.1145/2801040.2802138"
+    ],
     "publisher": "ACM",
     "conference_isbn": "978-1-4503-3482-2"
   }

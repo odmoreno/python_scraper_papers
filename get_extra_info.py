@@ -19,7 +19,7 @@ class Info:
         self.intitution_set = {}
         self.dir = "jsons/"
         self.papers_path = "jsons/papers.json"
-        self.authors_path = "jsons/authors_tmp.json"
+        self.authors_temp_path = "jsons/authors_tmp.json"
         self.load_data()
         self.real_authors_path = "jsons/authors.json"
         self.institution_temp_path = "jsons/insti_temp.json"
@@ -56,7 +56,7 @@ class Info:
         with open(self.papers_path, encoding='utf-8') as fh:
             papers = json.load(fh)
         print(papers)
-        with open(self.authors_path, encoding='utf-8') as fh:
+        with open(self.authors_temp_path, encoding='utf-8') as fh:
             authors = json.load(fh)
         print(authors)
 
@@ -85,7 +85,7 @@ class Info:
             outfile.write(json_string)
         #save current authors
         json_string2 = json.dumps(self.authors_tmp_dict, ensure_ascii= False, indent=2)
-        with open(self.authors_path, 'w', encoding="utf-8") as outfile:
+        with open(self.authors_temp_path, 'w', encoding="utf-8") as outfile:
             outfile.write(json_string2)
 
     def save_autores(self):
@@ -112,8 +112,9 @@ class Info:
         name = '' if name_prop is None else name_prop.text
         venue = '' if venue_prop is None else venue_prop.text
         temp_id = temp_url[9:]
+        name_text = " ".join(name.split())
         data = {
-            'name': name.strip(),
+            'name': name_text,
             'venue': venue.strip(),
             'url': url_author,
             'id': temp_id
