@@ -55,10 +55,10 @@ class Info:
     def load_data(self):
         with open(self.papers_path, encoding='utf-8') as fh:
             papers = json.load(fh)
-        print(papers)
+        #print(papers)
         with open(self.authors_temp_path, encoding='utf-8') as fh:
             authors = json.load(fh)
-        print(authors)
+        #print(authors)
 
         self.papers_dict = papers
         self.authors_tmp_dict = authors
@@ -115,7 +115,7 @@ class Info:
         name_text = " ".join(name.split())
         data = {
             'name': name_text,
-            'venue': venue.strip(),
+            'institution': venue.strip(),
             'url': url_author,
             'id': temp_id
         }
@@ -190,49 +190,52 @@ class Info:
             print(e)
             fail_message(e)
             self.driver_for_acm.quit()
-            raise Exception("Oh crud") from e
 
     def get_authors_info(self, autor):
+
         url = autor['url']
         if autor['id']  not in self.authors_set:
-            self.driver_for_acm.get(url)
-            time.sleep(5)
-            buttons = self.driver_for_acm.find_elements_by_class_name("removed-items-count")
-            for but in buttons:
-                self.driver_for_acm.execute_script("arguments[0].click();", but)
-            time.sleep(5)
+            print('Current autor', autor['name'])
+            if autor['url'] != "":
+                self.driver_for_acm.get(url)
+                time.sleep(5)
+                buttons = self.driver_for_acm.find_elements_by_class_name("removed-items-count")
+                for but in buttons:
+                    self.driver_for_acm.execute_script("arguments[0].click();", but)
+                time.sleep(5)
 
-            # parse source code
-            soup = BeautifulSoup(self.driver_for_acm.page_source, "html.parser")
-            # print(soup.prettify()) #removed-items-count
-            institutions_ul = soup.find("ul", class_="rlist--inline list-of-institutions truncate-list trunc-done")
-            if institutions_ul is None:
-                institutions_ul = soup.find("ul", class_="rlist--inline list-of-institutions truncate-list")
+                # parse source code
+                soup = BeautifulSoup(self.driver_for_acm.page_source, "html.parser")
+                # print(soup.prettify()) #removed-items-count
+                institutions_ul = soup.find("ul", class_="rlist--inline list-of-institutions truncate-list trunc-done")
+                if institutions_ul is None:
+                    institutions_ul = soup.find("ul", class_="rlist--inline list-of-institutions truncate-list")
 
-            list = []
-            for li in institutions_ul:
-                temp_url = li.a["href"]
-                name = li.text.strip()
-                lst = ["https:/", self.base_url, temp_url]
-                url_insti = "".join(lst)
-                split_text = temp_url.split("/")
-                # temp_id = temp_url[13:]
-                temp_id = split_text[len(split_text) - 1]
-                data = {
-                    'id': temp_id,
-                    'name': name,
-                    'url': url_insti
-                }
-                self.intitution_set[data['id']] = data
-                list.append(data)
+                list = []
+                for li in institutions_ul:
+                    temp_url = li.a["href"]
+                    name = li.text.strip()
+                    lst = ["https:/", self.base_url, temp_url]
+                    url_insti = "".join(lst)
+                    split_text = temp_url.split("/")
+                    # temp_id = temp_url[13:]
+                    temp_id = split_text[len(split_text) - 1]
+                    data = {
+                        'id': temp_id,
+                        'name': name,
+                        'url': url_insti
+                    }
+                    self.intitution_set[data['id']] = data
+                    list.append(data)
 
-            autor['venue'] = list
-            self.authors_set[autor['id']] = autor
-            metrics_div = soup.find("div", class_="owl-stage")
-            # guardamos en jsons
-            self.save_autores()
-            self.save_institutions()
-            print('Listo', autor['name'])
+                del autor['venue']
+                autor['institutions'] = list
+                self.authors_set[autor['id']] = autor
+                metrics_div = soup.find("div", class_="owl-stage")
+                # guardamos en jsons
+                self.save_autores()
+                self.save_institutions()
+                print('Listo', autor['name'])
         else:
             print("ya existe", autor['name'])
         """

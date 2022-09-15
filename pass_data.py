@@ -11,7 +11,6 @@ class PostData:
 
         self.data = get_data_conferences()
         self.data = self.data[:12]
-
         self.conn = self.connect_to_first_db()
         self.cursor = self.conn.cursor()
         self.conn2 = self.connect_to_second_db()
