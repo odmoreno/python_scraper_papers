@@ -92,7 +92,6 @@ class dbData:
         self.cursor2.execute(insert_query, record_to_insert)
         count = self.cursor2.rowcount
         self.conn2.commit()
-
         pass
 
     def pass_data_to_db(self):
