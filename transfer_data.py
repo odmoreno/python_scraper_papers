@@ -44,6 +44,7 @@ class dbData:
     def find_institutions(self, insti):
         try:
             name = insti['name']
+            name = insti['name'].replace("'", "''")
             querystring = "SELECT * FROM institution as p"
             querystring += " WHERE p.name LIKE '%" + name + "%'"
             self.cursor2.execute(querystring)
@@ -80,11 +81,12 @@ class dbData:
         headers += ")"
         id_count = self.count_table_inst()
         insert_query = "INSERT INTO institution" + headers + " VALUES (%s,%s,%s,%s,%s,%s,%s)"
+        newname = insti['name'].replace("'", "''")
         record_to_insert = ( id_count,
             insti['id'],
             insti['name'],
             insti['ad0'],
-            insti['ad1'],
+            '' if 'ad1' not in insti else insti['ad1'],
             '' if 'ad2' not in insti else insti['ad2'],
             insti['url'])
         self.cursor2.execute(insert_query, record_to_insert)
