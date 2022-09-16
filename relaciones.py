@@ -16,6 +16,18 @@ class Client:
         self.real_authors_path = "jsons/authors.json"
         self.institution_path = "jsons/insti.json"
         self.intitution_set = {}
+        # conexion con subset db
+        self.conn = self.connect_to_subset_db()
+        self.cursor = self.conn.cursor()
+
+    def connect_to_subset_db(self):
+        conn = psycopg2.connect(
+            host="200.10.150.106",
+            database="subset",
+            user="postgres",
+            password="postgres")
+        print("Opened Subset DB successfully")
+        return conn
 
     def load_data(self):
         with open(self.institution_path, encoding='utf-8') as fh:
@@ -27,6 +39,34 @@ class Client:
         with open(self.papers_path, encoding='utf-8') as fh:
             papers = json.load(fh)
         self.papers_dict = papers
+
+    def loop_ref(self):
+        querystring = "SELECT * FROM papers_reference"
+        self.cursor.execute(querystring)
+        refs = self.cursor.fetchall()
+        list = []
+        for reference in refs:
+            paper_id = reference[1]
+            parent_id = reference[2]
+            paper1 = self.find_paper(paper_id)[0]
+            parent = self.find_paper(parent_id)[0]
+            data = {
+                'paper_id': paper1[0],
+                'paper_title': paper1[2],
+                'paper_doi': paper1[5],
+                'parent_id': parent[0],
+                'parent_title': parent[2],
+                'parent_doi': parent[5]
+            }
+            list.append(data)
+        return list
+
+    def find_paper(self, p_id):
+        querystring = "SELECT * FROM papers"
+        querystring += " WHERE id=" + str(p_id)
+        self.cursor.execute(querystring)
+        paper = self.cursor.fetchall()
+        return paper
 
     def make_rows(self):
         self.load_data()
@@ -61,6 +101,7 @@ class Client:
                 list.append(data)
         return list
 
+
     def make_csv_rel2(self, list):
         csv_file = "jsons/papers_authors.csv"
         csv_columns = ['paper_id', 'paper_name', 'author_id', 'author_name']
@@ -79,9 +120,20 @@ class Client:
             for data in list:
                 writer.writerow(data)
 
+    def make_csv_refs(self, list):
+        csv_file = "jsons/papers_references.csv"
+        csv_columns = ['paper_id', 'paper_title', 'paper_doi', 'parent_id', 'parent_title', 'parent_doi']
+        with open(csv_file, 'w', encoding='utf-8') as csvfile:
+            writer = csv.DictWriter(csvfile, fieldnames=csv_columns)
+            writer.writeheader()
+            for data in list:
+                writer.writerow(data)
+
 if __name__ == '__main__':
     client = Client()
     #list = client.make_rows()
     #client.make_csv_rel1(list)
-    list1 = client.make_rows_papers()
-    client.make_csv_rel2(list1)
+    #list1 = client.make_rows_papers()
+    #client.make_csv_rel2(list1)
+    list = client.loop_ref()
+    client.make_csv_refs(list)

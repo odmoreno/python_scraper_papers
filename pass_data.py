@@ -24,14 +24,12 @@ class PostData:
         f.close()
         return data
 
-
     def save_id(self):
         filename = "data/id.json"
         json_string = json.dumps(self.id, indent=2)
         # Using a JSON string
         with open(filename, 'w') as outfile:
             outfile.write(json_string)
-
 
     def connect_to_first_db(self):
         conn = psycopg2.connect(
