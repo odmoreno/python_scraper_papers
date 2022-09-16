@@ -7,6 +7,7 @@ class dbData:
     def __init__(self):
         self.institution_cols = ['id', '_id', 'name', 'ad1', 'ad2', 'ad3', 'url']
         self.authors_cols = ['id', '_id', 'name', 'sid', 'acmid', 'url']
+        self.author_insti_cols = ['id', 'author_id', 'institution_id']
         # conexion con papers_info
         self.conn1 = self.connect_to_first_db()
         self.cursor = self.conn1.cursor()
@@ -93,6 +94,45 @@ class dbData:
             print(querystring)
             fail_message(e)
 
+    def find_data_ai(self, author):
+        try:
+            name = author['name']
+            name = author['name'].replace("'", "''")
+            querystring = "SELECT * FROM authors as p"
+            querystring += " WHERE p.name LIKE '%" + name + "%'"
+            self.cursor2.execute(querystring)
+            mobile_records = self.cursor2.fetchall()
+            author_in_db = mobile_records[0]
+            for insti in author['institutions']:
+                insti_id = insti['id']
+                query = "SELECT * FROM institution as i"
+                query += " WHERE i._id LIKE '%" + insti_id + "%'"
+                self.cursor2.execute(querystring)
+                mobile_records2 = self.cursor2.fetchall()
+                insti_in_db = mobile_records2[0]
+                self.make_relation_au_insti(author_in_db, insti_in_db)
+        except Exception as e:
+            print(name)
+            print(querystring)
+            fail_message(e)
+
+    def make_relation_au_insti(self, author, insti):
+        print(author)
+        print(insti)
+        headers = "("
+        headers += ", ".join(self.author_insti_cols)
+        headers += ")"
+        id_count = self.count_table_inst('author_institution')
+        insert_query = "INSERT INTO author_institution" + headers + " VALUES (%s,%s,%s)"
+        record_to_insert = (id_count,
+                            author[0],
+                            insti[0])
+
+        self.cursor2.execute(insert_query, record_to_insert)
+        count = self.cursor2.rowcount
+        self.conn2.commit()
+
+
     def count_table_inst(self, table):
         # query to count total number of rows
         sql = 'SELECT count(*) from ' + table
@@ -148,6 +188,12 @@ class dbData:
         count = self.cursor2.rowcount
         self.conn2.commit()
         pass
+
+    def loop_authors_insti(self):
+        self.load_authors()
+        for au in self.authors_set.values():
+
+            pass
 
     def pass_data_to_db_i(self):
         self.load_institutions()
