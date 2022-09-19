@@ -6,6 +6,7 @@ from common_functions import *
 class dbData:
     def __init__(self):
         self.institution_cols = ['id', '_id', 'name', 'ad1', 'ad2', 'ad3', 'url']
+        self.authors_cols = ['id', '_id', 'name', 'sid', 'acmid', 'url']
         # conexion con papers_info
         self.conn1 = connect_to_first_db()
         self.cursor = self.conn1.cursor()
@@ -39,6 +40,15 @@ class dbData:
                             insti['url'])
         return record_to_insert
 
+    def record_author(self,id_count, au, iddb, sid):
+        record_to_insert = (id_count,
+                            iddb,
+                            au['name'],
+                            sid,
+                            au['id'],
+                            au['url'])
+        return record_to_insert
+
     def insert_row(self, dict, cols, table_name, tam, option):
         headers = create_headers(cols)
         id_count = count_table_inst(table_name, self.cursor2)
@@ -48,6 +58,7 @@ class dbData:
         if option == 1:
             record_to_insert = self.record_insti(id_count, dict)
             #dict['id_table'] = id_count
+
         self.cursor2.execute(insert_query, record_to_insert)
         count = self.cursor2.rowcount
         self.conn2.commit()
@@ -55,6 +66,8 @@ class dbData:
             self.insti_ids[dict['id']] = id_count
             save_ids(self.insti_ids, insti_keys_path)
 
+    def insert_row_with_prev_data(self):
+        pass
 
     def find_institutions(self, insti):
         try:
@@ -73,14 +86,50 @@ class dbData:
             print(querystring)
             fail_message(e)
 
+    def find_authors(self, author):
+        try:
+            name = author['name'].replace("'", "''")
+            querystring = "SELECT * FROM authors as p"
+            querystring += " WHERE p.name LIKE '%" + name + "%'"
+            self.cursor.execute(querystring)
+            mobile_records = self.cursor.fetchall()
+            if len(mobile_records) > 0:
+                print("Existe en papers_info db:", name)
+                self.cursor2.execute(querystring)
+                mobile_records2 = self.cursor2.fetchall()
+                if len(mobile_records2) == 0:
+                    pass
+                    #self.insert_row_in_authors(author, mobile_records[0], True)
+            else:
+                print("NO existe insertar")
+                self.cursor2.execute(querystring)
+                mobile_records = self.cursor2.fetchall()
+                if len(mobile_records) == 0:
+                    #self.insert_row_in_authors(author, {})
+                    #self.insert_row(author, self.authors_cols, 'authors', 6, 2)
+                    pass
+                pass
+        except Exception as e:
+            print(name)
+            print(querystring)
+            fail_message(e)
+
+
     def pass_data_to_db_i(self):
         for insti in self.institution_set.values():
             if insti['id'] not in self.insti_ids:
                 self.find_institutions(insti)
             pass
 
+    def pass_data_to_db_au(self):
+        for au in self.authors_set.values():
+            if au['id'] not in self.authors_ids:
+                self.find_authors(au)
+            pass
+
     def main(self):
         self.pass_data_to_db_i()
+        self.pass_data_to_db_au()
 
 if __name__ == "__main__":
     client = dbData()
