@@ -12,7 +12,6 @@ class dbData:
                            'page_end', 'lang', 'volume', 'issue', 'ibsn', 'type', 'downloads',
                             'url', 'venue']
         self.papers_ref_col = ['id', 'papers_id', 'parent_papers_id']
-
         # conexion con papers_info
         self.conn1 = self.connect_to_first_db()
         self.cursor = self.conn1.cursor()

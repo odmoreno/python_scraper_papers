@@ -14,6 +14,17 @@ import re
 import subprocess
 import csv
 import config
+import psycopg2
+import json
+
+# rutas de docs
+institution_path = 'data/jsons/insti.json'
+authors_path = 'data/jsons/authors.json'
+papers_path = 'data/jsons/papers.json'
+# rutas de keys
+insti_keys_path = 'data/keys/insti_ids.json'
+authors_keys_path = 'data/keys/authors_ids.json'
+papers_keys_path = 'data/keys/papers_ids.json'
 
 
 def make_chrome_headless(o=True):
@@ -52,12 +63,16 @@ def check_if_exist_file(path_to_search_results, file_name) -> bool:
         return False
     return True
 
-def check_if_exist_file_json(path_to_search_results, file_name) -> bool:
+def check_if_exist_file_json(path_to_search_results, file_name, make=False) -> bool:
     """
-    Check if file exist
+    Check if json file exist
     """
     file_path = path.join(path_to_search_results, str(file_name + ".json"))
     if not path.exists(file_path):
+        if make == True:
+            # Creating a file at specified location
+            with open(file_path, 'w') as fp:
+                pass
         return False
     return True
 
@@ -77,7 +92,6 @@ def fail_message(e):
     message = template.format(type(e).__name__, e.args)
     print(message)
 
-
 def print_checking_all_results(sp):
     """
     IO: print status to show results are getting checked
@@ -88,6 +102,101 @@ def print_checking_all_results(sp):
         + chr(37)
     )
 
+def connect_to_first_db():
+    """
+    Connect to papers_info db
+    """
+    conn = psycopg2.connect(
+            host="200.10.150.106",
+            database="papers_info",
+            user="postgres",
+            password="postgres")
+    print("Opened database successfully")
+    return conn
+
+def connect_to_second_db():
+    """
+        Connect to subset db
+    """
+    conn = psycopg2.connect(
+            host="200.10.150.106",
+            database="subset",
+            user="postgres",
+            password="postgres")
+    print("Opened database subset successfully")
+    return conn
+
+def load_institutions():
+    with open(institution_path, encoding='utf-8') as fh:
+        insti = json.load(fh)
+    return insti
+
+def load_authors():
+    with open(authors_path, encoding='utf-8') as fh:
+        authors = json.load(fh)
+    return authors
+
+def load_papers():
+    with open(papers_path, encoding='utf-8') as fh:
+        data = json.load(fh)
+    return data
+
+def count_table_inst(table, cursor):
+    # query to count total number of rows
+    sql = 'SELECT count(*) from ' + table
+    data = []
+    # execute the query
+    cursor.execute(sql, data)
+    results = cursor.fetchone()
+    # loop to print all the fetched details
+    for r in results:
+        print(r)
+    #print("Total number of rows in the table:", r)
+    return r
+
+def create_files_for_keys():
+    check_if_exist_file_json('data/keys', 'insti_ids', True)
+    check_if_exist_file_json('data/keys', 'authors_ids', True)
+    check_if_exist_file_json('data/keys', 'insti_authors_ids', True)
+    check_if_exist_file_json('data/keys', 'papers_ids', True)
+    check_if_exist_file_json('data/keys', 'papers_authors_ids', True)
+    check_if_exist_file_json('data/keys', 'papers_references_ids', True)
+
+def load_inti_keys():
+    with open(insti_keys_path, encoding='utf-8') as fh:
+        data = json.load(fh)
+    return data
+
+def load_authors_keys():
+    with open(authors_keys_path, encoding='utf-8') as fh:
+        data = json.load(fh)
+    return data
+
+def load_papers_keys():
+    with open(papers_keys_path, encoding='utf-8') as fh:
+        data = json.load(fh)
+    return data
+
+def save_ids(dict, path):
+    json_string2 = json.dumps(dict, ensure_ascii=False, indent=2)
+    with open(path, 'w', encoding="utf-8") as outfile:
+        outfile.write(json_string2)
+
+def create_headers(cols):
+    headers = "("
+    headers += ", ".join(cols)
+    headers += ")"
+    return headers
+
+def create_s_values(tam):
+    strings = ' VALUES ('
+    for i in range(tam):
+        if i == tam - 1:
+            strings += '%s'
+        else:
+            strings += '%s,'
+    strings += ')'
+    return strings
 
 
 # result CSV file's header
