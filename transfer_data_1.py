@@ -7,6 +7,7 @@ class dbData:
     def __init__(self):
         self.institution_cols = ['id', '_id', 'name', 'ad1', 'ad2', 'ad3', 'url']
         self.authors_cols = ['id', '_id', 'name', 'sid', 'acmid', 'url']
+        self.author_insti_cols = ['id', 'author_id', 'institution_id']
         # conexion con papers_info
         self.conn1 = connect_to_first_db()
         self.cursor = self.conn1.cursor()
@@ -23,12 +24,15 @@ class dbData:
         self.insti_ids = {}
         self.papers_ids = {}
         self.authors_ids = {}
+        self.auth_insti_ids = {}
+        self.current_id_rel = 0
 
     def load_keys(self):
         # ids
         self.insti_ids = load_inti_keys()
         self.papers_ids = load_papers_keys()
         self.authors_ids = load_authors_keys()
+        self.auth_insti_ids = load_rel1_keys()
 
     def record_insti(self, id, insti):
         record_to_insert = (id,
@@ -49,6 +53,10 @@ class dbData:
                             au['url'])
         return record_to_insert
 
+    def record_relations(self,  id_count, id1, id2):
+        record_to_insert = (id_count, id1, id2)
+        return record_to_insert
+
     def insert_row(self, dict, cols, table_name, tam, option):
         headers = create_headers(cols)
         id_count = count_table_inst(table_name, self.cursor2)
@@ -66,8 +74,34 @@ class dbData:
             self.insti_ids[dict['id']] = id_count
             save_ids(self.insti_ids, insti_keys_path)
 
-    def insert_row_with_prev_data(self):
-        pass
+    def insert_row_with_prev_data(self, dict, prev, cols, table_name, tam, option, prev_data=False):
+        headers = create_headers(cols)
+        id_count = count_table_inst(table_name, self.cursor2)
+        values_string = create_s_values(tam)
+        iddb = ''
+        sid = ''
+        if prev_data == True:
+            iddb = '' if prev[1] is None else prev[1]
+            sid = '' if prev[3] is None else prev[3]
+        insert_query = "INSERT INTO " + table_name + headers + values_string
+        record_to_insert = self.record_author(id_count, dict, iddb, sid)
+        self.cursor2.execute(insert_query, record_to_insert)
+        self.conn2.commit()
+        if option == 1 :
+            self.authors_ids[dict['id']] = id_count
+            save_ids(self.authors_ids, authors_keys_path)
+
+    def insert_rows_for_relations(self, id1, id2, cols, table_name, tam):
+        headers = create_headers(cols)
+        id_count = count_table_inst(table_name, self.cursor2)
+        values_string = create_s_values(tam)
+        insert_query = "INSERT INTO " + table_name + headers + values_string
+        record_to_insert = self.record_relations(id_count, id1, id2)
+        self.cursor2.execute(insert_query, record_to_insert)
+        count = self.cursor2.rowcount
+        self.conn2.commit()
+        self.current_id_rel = id_count
+
 
     def find_institutions(self, insti):
         try:
@@ -98,22 +132,35 @@ class dbData:
                 self.cursor2.execute(querystring)
                 mobile_records2 = self.cursor2.fetchall()
                 if len(mobile_records2) == 0:
-                    pass
-                    #self.insert_row_in_authors(author, mobile_records[0], True)
+                    self.insert_row_with_prev_data(author, mobile_records[0], self.authors_cols, 'authors', 6, 1, True)
+                    self.loop_insti_authors(author['institutions'], author)
             else:
                 print("NO existe insertar")
                 self.cursor2.execute(querystring)
                 mobile_records = self.cursor2.fetchall()
                 if len(mobile_records) == 0:
-                    #self.insert_row_in_authors(author, {})
-                    #self.insert_row(author, self.authors_cols, 'authors', 6, 2)
-                    pass
-                pass
+                    self.insert_row_with_prev_data(author, {}, self.authors_cols, 'authors', 6, 1)
+                    self.loop_insti_authors(author['institutions'], author)
         except Exception as e:
             print(name)
             print(querystring)
             fail_message(e)
 
+    def loop_insti_authors(self, list, auth):
+        auth_db_id = self.authors_ids[auth['id']]
+        for insti in list:
+            if insti['id'] != 'javascript:void(0)':
+                insti_id = insti['id']
+                insti_id_db = self.insti_ids[insti_id]
+                self.insert_rows_for_relations(auth_db_id, insti_id_db, self.author_insti_cols, 'author_institution', 3)
+                data = {
+                    'author_db_id': auth_db_id,
+                    'author_id': auth['id'],
+                    'insti_db_id': insti_id_db,
+                    'insti_id': insti_id
+                }
+                self.auth_insti_ids[self.current_id_rel] = data
+                save_ids(self.auth_insti_ids, auth_insti_keys_path)
 
     def pass_data_to_db_i(self):
         for insti in self.institution_set.values():
@@ -128,7 +175,7 @@ class dbData:
             pass
 
     def main(self):
-        self.pass_data_to_db_i()
+        #self.pass_data_to_db_i()
         self.pass_data_to_db_au()
 
 if __name__ == "__main__":

@@ -25,6 +25,7 @@ papers_path = 'data/jsons/papers.json'
 insti_keys_path = 'data/keys/insti_ids.json'
 authors_keys_path = 'data/keys/authors_ids.json'
 papers_keys_path = 'data/keys/papers_ids.json'
+auth_insti_keys_path = 'data/keys/insti_authors_ids.json'
 
 
 def make_chrome_headless(o=True):
@@ -174,6 +175,10 @@ def load_authors_keys():
 
 def load_papers_keys():
     with open(papers_keys_path, encoding='utf-8') as fh:
+        data = json.load(fh)
+    return data
+def load_rel1_keys():
+    with open(auth_insti_keys_path, encoding='utf-8') as fh:
         data = json.load(fh)
     return data
 

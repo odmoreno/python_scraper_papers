@@ -9740,10 +9740,16 @@
     "institutions": []
   },
   "i2Sheng": {
-    "name": "Sheng Li",
-    "venue": "Peking University, Beijing, China",
+    "name": "Sheng Li",    
     "url": "",
-    "id": "i2Sheng"
+    "id": "i2Sheng",
+    "institutions": [
+      {
+        "id": "60014966",
+        "name": "Peking University",
+        "url": "https://dl.acm.org/institution/60014966"
+      }
+    ]
   },
   "81456623039": {
     "name": "Lei Tang",
