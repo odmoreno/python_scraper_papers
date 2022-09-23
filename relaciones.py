@@ -87,6 +87,7 @@ class Client:
                     list.append(data)
         return list
 
+
     def make_rows_papers(self):
         self.load_data()
         list = []
