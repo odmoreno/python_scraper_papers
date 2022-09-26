@@ -1,0 +1,1434 @@
+author_id,author_name,coauthor_id,coauthor_name,value,is_vinci
+99659583267,René Cutura,99660233714,Cristina Morariu,1,True
+99659583267,René Cutura,99659275761,Zhanglin Cheng,1,True
+99659583267,René Cutura,82658976157,Yunhai Wang,1,True
+99659583267,René Cutura,81100214723,Daniel Weiskopf,1,True
+99659583267,René Cutura,81375621529,Michael Sedlmair,1,True
+99660233714,Cristina Morariu,99659275761,Zhanglin Cheng,1,True
+99660233714,Cristina Morariu,82658976157,Yunhai Wang,1,True
+99660233714,Cristina Morariu,81100214723,Daniel Weiskopf,1,True
+99660233714,Cristina Morariu,81375621529,Michael Sedlmair,1,True
+99659275761,Zhanglin Cheng,82658976157,Yunhai Wang,1,True
+99659275761,Zhanglin Cheng,81100214723,Daniel Weiskopf,1,True
+99659275761,Zhanglin Cheng,81375621529,Michael Sedlmair,1,True
+82658976157,Yunhai Wang,81100214723,Daniel Weiskopf,1,True
+82658976157,Yunhai Wang,81375621529,Michael Sedlmair,1,True
+81100214723,Daniel Weiskopf,81375621529,Michael Sedlmair,1,True
+81100329777,Takayuki Itoh,99659915690,Asuka Nakabayashi,1,True
+81100329777,Takayuki Itoh,81100399955,Mariko Hagita,1,True
+99659915690,Asuka Nakabayashi,81100399955,Mariko Hagita,1,True
+99659915368,Maath Musleh,99659465677,Angelos Chatzimparmpas,1,True
+99659915368,Maath Musleh,81472654517,Ilir Jusufi,1,True
+99659465677,Angelos Chatzimparmpas,81472654517,Ilir Jusufi,1,True
+99659248999,Alexander Achberger,99659583503,Frank Heyen,1,True
+99659248999,Alexander Achberger,99659915852,Kresimir Vidakovic,1,True
+99659248999,Alexander Achberger,81375621529,Michael Sedlmair,1,True
+99659583503,Frank Heyen,99659915852,Kresimir Vidakovic,1,True
+99659583503,Frank Heyen,81375621529,Michael Sedlmair,1,True
+99659915852,Kresimir Vidakovic,81375621529,Michael Sedlmair,1,True
+99659915755,Martin Büßemeyer,82458918757,Daniel Limberger,1,True
+99659915755,Martin Büßemeyer,99659051346,Willy Scheibel,1,True
+99659915755,Martin Büßemeyer,81100019985,Jürgen Döllner,1,True
+82458918757,Daniel Limberger,99659051346,Willy Scheibel,2,True
+82458918757,Daniel Limberger,81100019985,Jürgen Döllner,6,True
+99659051346,Willy Scheibel,81100019985,Jürgen Döllner,5,True
+82458918757,Daniel Limberger,99659916274,Jan van Dieken,1,True
+99659051346,Willy Scheibel,99659916274,Jan van Dieken,1,True
+99659916274,Jan van Dieken,81100019985,Jürgen Döllner,1,True
+99659275978,Ayush Kumar,99659034607,Bharat Goel,1,True
+99659275978,Ayush Kumar,99659915763,Keshav Rajupet Premkumar,1,True
+99659275978,Ayush Kumar,81331488994,Michael Burch,1,True
+99659275978,Ayush Kumar,81452605314,Klaus D Mueller,1,True
+99659034607,Bharat Goel,99659915763,Keshav Rajupet Premkumar,1,True
+99659034607,Bharat Goel,81331488994,Michael Burch,1,True
+99659034607,Bharat Goel,81452605314,Klaus D Mueller,1,True
+99659915763,Keshav Rajupet Premkumar,81331488994,Michael Burch,1,True
+99659915763,Keshav Rajupet Premkumar,81452605314,Klaus D Mueller,1,True
+81331488994,Michael Burch,81452605314,Klaus D Mueller,1,True
+99659915568,Lauren Edlin,81320493799,Joshua D Reiss,1,True
+99659658214,Cameron Edmond,99658723776,Robert Lawther,1,True
+99659658214,Cameron Edmond,81488668405,Maxime Cordeil,1,True
+99659658214,Cameron Edmond,81464670479,Tomasz P Bednarz,1,True
+99658723776,Robert Lawther,81488668405,Maxime Cordeil,1,True
+99658723776,Robert Lawther,81464670479,Tomasz P Bednarz,1,True
+81488668405,Maxime Cordeil,81464670479,Tomasz P Bednarz,1,True
+99659914931,Miguel Alfonso Feijóo-García,99659915656,José Tiberio Hernández-Peñalosa,1,True
+99659473900,Christina Stoiber,99659914993,Conny Walchshofer,1,True
+99659473900,Christina Stoiber,99659915944,Florian Grassinger,1,True
+99659473900,Christina Stoiber,87258908057,Holger Stitz,1,True
+99659473900,Christina Stoiber,81375612900,Marc Streit,1,True
+99659473900,Christina Stoiber,81503660777,Wolfgang Aigner,1,True
+99659914993,Conny Walchshofer,99659915944,Florian Grassinger,1,True
+99659914993,Conny Walchshofer,87258908057,Holger Stitz,1,True
+99659914993,Conny Walchshofer,81375612900,Marc Streit,1,True
+99659914993,Conny Walchshofer,81503660777,Wolfgang Aigner,1,True
+99659915944,Florian Grassinger,87258908057,Holger Stitz,1,True
+99659915944,Florian Grassinger,81375612900,Marc Streit,1,True
+99659915944,Florian Grassinger,81503660777,Wolfgang Aigner,1,True
+87258908057,Holger Stitz,81375612900,Marc Streit,1,True
+87258908057,Holger Stitz,81503660777,Wolfgang Aigner,1,True
+81375612900,Marc Streit,81503660777,Wolfgang Aigner,1,True
+99659916186,Akshay Murari,99659090947,Elias Mahfoud,1,True
+99659916186,Akshay Murari,81467643151,Weichao Wang,1,True
+99659916186,Akshay Murari,81100052641,Aidong Lu,1,True
+99659090947,Elias Mahfoud,81467643151,Weichao Wang,1,True
+99659090947,Elias Mahfoud,81100052641,Aidong Lu,1,True
+81467643151,Weichao Wang,81100052641,Aidong Lu,1,True
+99659915448,Hinako Sassa,81488668405,Maxime Cordeil,1,True
+99659915448,Hinako Sassa,99658718448,Mitsuo Yoshida,1,True
+99659915448,Hinako Sassa,81100329777,Takayuki Itoh,1,True
+81488668405,Maxime Cordeil,99658718448,Mitsuo Yoshida,1,True
+81488668405,Maxime Cordeil,81100329777,Takayuki Itoh,1,True
+99658718448,Mitsuo Yoshida,81100329777,Takayuki Itoh,1,True
+99659915576,Oliver Moseler,99659915201,Lucas Kreber,1,True
+99659915576,Oliver Moseler,81100020010,Stephan Diehl,1,True
+99659915201,Lucas Kreber,81100020010,Stephan Diehl,1,True
+99659914928,Chen He,81548012985,Luana Micallef,1,True
+99659914928,Chen He,82259259657,Barış Serim,1,True
+99659914928,Chen He,99659191803,Tung Vuong,1,True
+99659914928,Chen He,81339525898,Tuukka Ruotsalo,1,True
+99659914928,Chen He,81100644548,Giulio Iacucci,1,True
+81548012985,Luana Micallef,82259259657,Barış Serim,1,True
+81548012985,Luana Micallef,99659191803,Tung Vuong,1,True
+81548012985,Luana Micallef,81339525898,Tuukka Ruotsalo,2,True
+81548012985,Luana Micallef,81100644548,Giulio Iacucci,2,True
+82259259657,Barış Serim,99659191803,Tung Vuong,1,True
+82259259657,Barış Serim,81339525898,Tuukka Ruotsalo,1,True
+82259259657,Barış Serim,81100644548,Giulio Iacucci,2,True
+99659191803,Tung Vuong,81339525898,Tuukka Ruotsalo,1,True
+99659191803,Tung Vuong,81100644548,Giulio Iacucci,1,True
+81339525898,Tuukka Ruotsalo,81100644548,Giulio Iacucci,2,True
+81331488994,Michael Burch,81100493799,Günter Wallner,1,True
+81331488994,Michael Burch,81100431196,Huub M M van de Wetering,2,True
+81331488994,Michael Burch,99659915567,Freek Rooks,1,True
+81331488994,Michael Burch,99659915351,Olof Morra,1,True
+81100493799,Günter Wallner,81100431196,Huub M M van de Wetering,1,True
+81100493799,Günter Wallner,99659915567,Freek Rooks,1,True
+81100493799,Günter Wallner,99659915351,Olof Morra,1,True
+81100431196,Huub M M van de Wetering,99659915567,Freek Rooks,1,True
+81100431196,Huub M M van de Wetering,99659915351,Olof Morra,1,True
+99659915567,Freek Rooks,99659915351,Olof Morra,1,True
+84460003257,Gonzalo Gabriel Méndez,99659915372,Oscar Moreno,1,True
+99659915322,Daniel Atzberger,99659051346,Willy Scheibel,1,True
+99659915322,Daniel Atzberger,82458918757,Daniel Limberger,1,True
+99659915322,Daniel Atzberger,81100019985,Jürgen Döllner,1,True
+99659051346,Willy Scheibel,82458918757,Daniel Limberger,3,True
+84460003257,Gonzalo Gabriel Méndez,81492646025,Patricio Mendoza,1,True
+99659914952,Sebastian Eckl,99659915658,Nick Kerschagel,1,True
+99659914952,Sebastian Eckl,81466647554,Uwe Kloos,1,True
+99659915658,Nick Kerschagel,81466647554,Uwe Kloos,1,True
+99659915851,Maitreya Save,81100375996,Benjamin Allen Watson,1,True
+99659915798,Dong Li,99659290545,Hong Yin,1,True
+99659915798,Dong Li,81100220966,Changbo Wang,1,True
+99659915798,Dong Li,99659915122,Sicheng Song,1,True
+99659915798,Dong Li,99659482820,Kirlin Li,1,True
+99659915798,Dong Li,99658761360,Chenhui Li,1,True
+99659290545,Hong Yin,81100220966,Changbo Wang,1,True
+99659290545,Hong Yin,99659915122,Sicheng Song,1,True
+99659290545,Hong Yin,99659482820,Kirlin Li,1,True
+99659290545,Hong Yin,99658761360,Chenhui Li,1,True
+81100220966,Changbo Wang,99659915122,Sicheng Song,1,True
+81100220966,Changbo Wang,99659482820,Kirlin Li,1,True
+81100220966,Changbo Wang,99658761360,Chenhui Li,2,True
+99659915122,Sicheng Song,99659482820,Kirlin Li,1,True
+99659915122,Sicheng Song,99658761360,Chenhui Li,1,True
+99659482820,Kirlin Li,99658761360,Chenhui Li,1,True
+99659915850,Qiaorui Chen,99659915914,Shuai Zhang,1,True
+99659915850,Qiaorui Chen,81452604154,Yao Zheng,1,True
+99659915914,Shuai Zhang,81452604154,Yao Zheng,1,True
+99659916273,Marco Schmid,99659915055,Rahel Haymoz,1,True
+99659916273,Marco Schmid,99659916017,David Schiller,1,True
+99659916273,Marco Schmid,81331488994,Michael Burch,1,True
+99659915055,Rahel Haymoz,99659916017,David Schiller,1,True
+99659915055,Rahel Haymoz,81331488994,Michael Burch,1,True
+99659916017,David Schiller,81331488994,Michael Burch,1,True
+99659638986,Carolin Fiedler,99659051346,Willy Scheibel,1,True
+99659638986,Carolin Fiedler,82458918757,Daniel Limberger,1,True
+99659638986,Carolin Fiedler,81375606710,Matthias Trapp,1,True
+99659638986,Carolin Fiedler,81100019985,Jürgen Döllner,1,True
+99659051346,Willy Scheibel,81375606710,Matthias Trapp,1,True
+82458918757,Daniel Limberger,81375606710,Matthias Trapp,2,True
+81375606710,Matthias Trapp,81100019985,Jürgen Döllner,2,True
+81331488994,Michael Burch,99659653162,Nico Klaassen,1,True
+81100431196,Huub M M van de Wetering,99659653162,Nico Klaassen,1,True
+99659483556,Haoran Dai,81421599679,Yubo Tao,1,True
+99659483556,Haoran Dai,81408600175,Hai Lin,1,True
+81421599679,Yubo Tao,81408600175,Hai Lin,1,True
+99659483577,Hao Tang,99659482760,Sixiang Fei,1,True
+99659483577,Hao Tang,99659482636,Xiaoying Shi,1,True
+99659482760,Sixiang Fei,99659482636,Xiaoying Shi,1,True
+99658765084,Hanbyul Yeon,99659482864,Mingyu Pi,1,True
+99658765084,Hanbyul Yeon,99659483077,Hyesook Son,1,True
+99658765084,Hanbyul Yeon,81372592812,Yun Jang,3,True
+99659482864,Mingyu Pi,99659483077,Hyesook Son,1,True
+99659482864,Mingyu Pi,81372592812,Yun Jang,1,True
+99659483077,Hyesook Son,81372592812,Yun Jang,1,True
+99659291193,Rohan Goel,99659290090,Samiha Fadloun,1,True
+99659291193,Rohan Goel,99659290844,Sarah Valentin,1,True
+99659291193,Rohan Goel,81375620314,Arnaud Sallaberry,1,True
+99659291193,Rohan Goel,81384592979,Mathieu Roche,1,True
+99659291193,Rohan Goel,81100236660,Pascal Poncelet,1,True
+99659290090,Samiha Fadloun,99659290844,Sarah Valentin,1,True
+99659290090,Samiha Fadloun,81375620314,Arnaud Sallaberry,1,True
+99659290090,Samiha Fadloun,81384592979,Mathieu Roche,1,True
+99659290090,Samiha Fadloun,81100236660,Pascal Poncelet,1,True
+99659290844,Sarah Valentin,81375620314,Arnaud Sallaberry,1,True
+99659290844,Sarah Valentin,81384592979,Mathieu Roche,1,True
+99659290844,Sarah Valentin,81100236660,Pascal Poncelet,1,True
+81375620314,Arnaud Sallaberry,81384592979,Mathieu Roche,1,True
+81375620314,Arnaud Sallaberry,81100236660,Pascal Poncelet,1,True
+81384592979,Mathieu Roche,81100236660,Pascal Poncelet,1,True
+99659291871,Humphrey O Obie,81490649118,Caslon Chua,1,True
+99659291871,Humphrey O Obie,81440623086,Iman Avazpour,1,True
+99659291871,Humphrey O Obie,99659003381,Mohamed Almorsy Abdelrazek,1,True
+99659291871,Humphrey O Obie,81100261843,John C. Grundy,1,True
+99659291871,Humphrey O Obie,81464670479,Tomasz P Bednarz,1,True
+81490649118,Caslon Chua,81440623086,Iman Avazpour,1,True
+81490649118,Caslon Chua,99659003381,Mohamed Almorsy Abdelrazek,1,True
+81490649118,Caslon Chua,81100261843,John C. Grundy,1,True
+81490649118,Caslon Chua,81464670479,Tomasz P Bednarz,1,True
+81440623086,Iman Avazpour,99659003381,Mohamed Almorsy Abdelrazek,1,True
+81440623086,Iman Avazpour,81100261843,John C. Grundy,2,True
+81440623086,Iman Avazpour,81464670479,Tomasz P Bednarz,1,True
+99659003381,Mohamed Almorsy Abdelrazek,81100261843,John C. Grundy,1,True
+99659003381,Mohamed Almorsy Abdelrazek,81464670479,Tomasz P Bednarz,1,True
+81100261843,John C. Grundy,81464670479,Tomasz P Bednarz,1,True
+99659289556,Yaru Du,81100220966,Changbo Wang,1,True
+99659289556,Yaru Du,99658761360,Chenhui Li,1,True
+99659289556,Yaru Du,99659290545,Hong Yin,1,True
+81100220966,Changbo Wang,99659290545,Hong Yin,1,True
+99658761360,Chenhui Li,99659290545,Hong Yin,1,True
+99659493271,Liang Zhou,81100214723,Daniel Weiskopf,1,True
+81331488994,Michael Burch,81490688158,Hansjörg Schmauder,1,True
+99659256604,Xiaoyu Wang,99659194249,Yufeng Liu,1,True
+99659256604,Xiaoyu Wang,99658620368,Jie Li,1,True
+99659256604,Xiaoyu Wang,81350576955,K. Zhang,1,True
+99659194249,Yufeng Liu,99658620368,Jie Li,1,True
+99659194249,Yufeng Liu,81350576955,K. Zhang,1,True
+99658620368,Jie Li,81350576955,K. Zhang,3,True
+99659291201,Daniil Rodin,81100400502,Gershon Elber,1,True
+99659292007,Mehmood Ghaffar,99659292087,Niklas Biere,1,True
+99659292007,Mehmood Ghaffar,99659290368,Daniel Jäger,1,True
+99659292007,Mehmood Ghaffar,81100141840,Karsten Klein,1,True
+99659292007,Mehmood Ghaffar,81100087062,Falk Schreiber,1,True
+99659292007,Mehmood Ghaffar,99659291490,Olaf Kruse,1,True
+99659292007,Mehmood Ghaffar,99658771476,Björn Sommer,1,True
+99659292087,Niklas Biere,99659290368,Daniel Jäger,1,True
+99659292087,Niklas Biere,81100141840,Karsten Klein,1,True
+99659292087,Niklas Biere,81100087062,Falk Schreiber,1,True
+99659292087,Niklas Biere,99659291490,Olaf Kruse,1,True
+99659292087,Niklas Biere,99658771476,Björn Sommer,1,True
+99659290368,Daniel Jäger,81100141840,Karsten Klein,1,True
+99659290368,Daniel Jäger,81100087062,Falk Schreiber,1,True
+99659290368,Daniel Jäger,99659291490,Olaf Kruse,1,True
+99659290368,Daniel Jäger,99658771476,Björn Sommer,1,True
+81100141840,Karsten Klein,81100087062,Falk Schreiber,1,True
+81100141840,Karsten Klein,99659291490,Olaf Kruse,1,True
+81100141840,Karsten Klein,99658771476,Björn Sommer,1,True
+81100087062,Falk Schreiber,99659291490,Olaf Kruse,1,True
+81100087062,Falk Schreiber,99658771476,Björn Sommer,1,True
+99659291490,Olaf Kruse,99658771476,Björn Sommer,1,True
+99659289305,Luca Marzialetti,99659290958,Massimo Candela,1,True
+99659289305,Luca Marzialetti,81100464555,Giuseppe Di Battista,1,True
+99659290958,Massimo Candela,81100464555,Giuseppe Di Battista,1,True
+81331488994,Michael Burch,99659291294,Gerald Baulig,1,True
+81331488994,Michael Burch,99659292088,Tobias Boley,1,True
+81331488994,Michael Burch,99659290889,Arjana Mehmeti,1,True
+81331488994,Michael Burch,99659291964,Dina Kurbanismailova,1,True
+81331488994,Michael Burch,99659291329,Marc Roswag,1,True
+81331488994,Michael Burch,99659292148,Oliver Streicher,1,True
+81331488994,Michael Burch,99659289339,Steffen Wittig,1,True
+81331488994,Michael Burch,81466647554,Uwe Kloos,2,True
+99659291294,Gerald Baulig,99659292088,Tobias Boley,1,True
+99659291294,Gerald Baulig,99659290889,Arjana Mehmeti,1,True
+99659291294,Gerald Baulig,99659291964,Dina Kurbanismailova,1,True
+99659291294,Gerald Baulig,99659291329,Marc Roswag,1,True
+99659291294,Gerald Baulig,99659292148,Oliver Streicher,1,True
+99659291294,Gerald Baulig,99659289339,Steffen Wittig,1,True
+99659291294,Gerald Baulig,81466647554,Uwe Kloos,1,True
+99659292088,Tobias Boley,99659290889,Arjana Mehmeti,1,True
+99659292088,Tobias Boley,99659291964,Dina Kurbanismailova,1,True
+99659292088,Tobias Boley,99659291329,Marc Roswag,1,True
+99659292088,Tobias Boley,99659292148,Oliver Streicher,1,True
+99659292088,Tobias Boley,99659289339,Steffen Wittig,1,True
+99659292088,Tobias Boley,81466647554,Uwe Kloos,1,True
+99659290889,Arjana Mehmeti,99659291964,Dina Kurbanismailova,1,True
+99659290889,Arjana Mehmeti,99659291329,Marc Roswag,1,True
+99659290889,Arjana Mehmeti,99659292148,Oliver Streicher,1,True
+99659290889,Arjana Mehmeti,99659289339,Steffen Wittig,1,True
+99659290889,Arjana Mehmeti,81466647554,Uwe Kloos,1,True
+99659291964,Dina Kurbanismailova,99659291329,Marc Roswag,1,True
+99659291964,Dina Kurbanismailova,99659292148,Oliver Streicher,1,True
+99659291964,Dina Kurbanismailova,99659289339,Steffen Wittig,1,True
+99659291964,Dina Kurbanismailova,81466647554,Uwe Kloos,1,True
+99659291329,Marc Roswag,99659292148,Oliver Streicher,1,True
+99659291329,Marc Roswag,99659289339,Steffen Wittig,1,True
+99659291329,Marc Roswag,81466647554,Uwe Kloos,1,True
+99659292148,Oliver Streicher,99659289339,Steffen Wittig,1,True
+99659292148,Oliver Streicher,81466647554,Uwe Kloos,1,True
+99659289339,Steffen Wittig,81466647554,Uwe Kloos,1,True
+99658638708,Nico Reski,81310502395,Aris Alissandrakis,1,True
+81486656627,Kostiantyn Kucher,99659192192,Rafael Messias Martins,1,True
+81486656627,Kostiantyn Kucher,81100367883,Andreas Kerren,2,True
+99659192192,Rafael Messias Martins,81100367883,Andreas Kerren,1,True
+81486656627,Kostiantyn Kucher,81470654834,Maria Skeppstedt,1,True
+81470654834,Maria Skeppstedt,81100367883,Andreas Kerren,1,True
+99659291514,Alisa Lincke,81100336369,Jenny Lundberg,2,True
+99659291514,Alisa Lincke,99659289733,Maria Thunander,1,True
+99659291514,Alisa Lincke,81100334854,Marcelo Milrad,1,True
+99659291514,Alisa Lincke,81472654517,Ilir Jusufi,1,True
+99659291514,Alisa Lincke,81339515283,Jonas Lundberg,1,True
+81100336369,Jenny Lundberg,99659289733,Maria Thunander,1,True
+81100336369,Jenny Lundberg,81100334854,Marcelo Milrad,1,True
+81100336369,Jenny Lundberg,81100336369,Jenny Lundberg,1,True
+81100336369,Jenny Lundberg,81472654517,Ilir Jusufi,2,True
+81100336369,Jenny Lundberg,81339515283,Jonas Lundberg,2,True
+99659289733,Maria Thunander,81100334854,Marcelo Milrad,1,True
+99659289733,Maria Thunander,81100336369,Jenny Lundberg,1,True
+99659289733,Maria Thunander,81472654517,Ilir Jusufi,1,True
+99659289733,Maria Thunander,81339515283,Jonas Lundberg,1,True
+81100334854,Marcelo Milrad,81100336369,Jenny Lundberg,1,True
+81100334854,Marcelo Milrad,81472654517,Ilir Jusufi,1,True
+81100334854,Marcelo Milrad,81339515283,Jonas Lundberg,1,True
+81472654517,Ilir Jusufi,81339515283,Jonas Lundberg,1,True
+81501663475,Daniel Toll,81442618410,Anna Wingkvist,1,True
+99659292129,Tomohiro Kawanabe,81100125090,Jorji Nonaka,1,True
+99659292129,Tomohiro Kawanabe,81100261727,Kenji Ono,1,True
+81100125090,Jorji Nonaka,81100261727,Kenji Ono,1,True
+99659290153,Anna Sara Fagerholm,81496672621,Mattias Andersson,1,True
+81482662429,Björn Zimmer,99659185142,Jan Zenisek,1,True
+81482662429,Björn Zimmer,81361609796,Hans-Christian Jetter,1,True
+99659185142,Jan Zenisek,81361609796,Hans-Christian Jetter,1,True
+99658768907,Hyunwoo Han,99659290729,Taerin Yoon,1,True
+99658768907,Hyunwoo Han,99659288906,Hyeonsik Gong,1,True
+99658768907,Hyunwoo Han,81458652821,Kyungwon Lee,2,True
+99659290729,Taerin Yoon,99659288906,Hyeonsik Gong,1,True
+99659290729,Taerin Yoon,81458652821,Kyungwon Lee,1,True
+99659288906,Hyeonsik Gong,81458652821,Kyungwon Lee,1,True
+99659194221,Zana Vosough,81479656070,Dietrich Kammer,1,True
+99659194221,Zana Vosough,81479645196,Mandy Keck,1,True
+99659194221,Zana Vosough,81372593345,Rainer Groh,1,True
+81479656070,Dietrich Kammer,81479645196,Mandy Keck,1,True
+81479656070,Dietrich Kammer,81372593345,Rainer Groh,2,True
+81479645196,Mandy Keck,81372593345,Rainer Groh,2,True
+81549260756,Fangfang Zhou,99659194235,Minghui Chen,1,True
+81549260756,Fangfang Zhou,99659194186,Zeyu Wang,1,True
+81549260756,Fangfang Zhou,99659194127,Feng Luo,1,True
+81549260756,Fangfang Zhou,99659194176,Xiaobo Luo,1,True
+81549260756,Fangfang Zhou,99659194273,Wei Huang,1,True
+81549260756,Fangfang Zhou,81490680300,Yi Chen,1,True
+81549260756,Fangfang Zhou,81549278756,Ying Zhao,2,True
+99659194235,Minghui Chen,99659194186,Zeyu Wang,1,True
+99659194235,Minghui Chen,99659194127,Feng Luo,1,True
+99659194235,Minghui Chen,99659194176,Xiaobo Luo,1,True
+99659194235,Minghui Chen,99659194273,Wei Huang,1,True
+99659194235,Minghui Chen,81490680300,Yi Chen,1,True
+99659194235,Minghui Chen,81549278756,Ying Zhao,1,True
+99659194186,Zeyu Wang,99659194127,Feng Luo,1,True
+99659194186,Zeyu Wang,99659194176,Xiaobo Luo,1,True
+99659194186,Zeyu Wang,99659194273,Wei Huang,1,True
+99659194186,Zeyu Wang,81490680300,Yi Chen,1,True
+99659194186,Zeyu Wang,81549278756,Ying Zhao,1,True
+99659194127,Feng Luo,99659194176,Xiaobo Luo,1,True
+99659194127,Feng Luo,99659194273,Wei Huang,1,True
+99659194127,Feng Luo,81490680300,Yi Chen,1,True
+99659194127,Feng Luo,81549278756,Ying Zhao,1,True
+99659194176,Xiaobo Luo,99659194273,Wei Huang,1,True
+99659194176,Xiaobo Luo,81490680300,Yi Chen,1,True
+99659194176,Xiaobo Luo,81549278756,Ying Zhao,1,True
+99659194273,Wei Huang,81490680300,Yi Chen,1,True
+99659194273,Wei Huang,81549278756,Ying Zhao,1,True
+81490680300,Yi Chen,81549278756,Ying Zhao,1,True
+99659194214,Yang Zou,81319505316,Xiaoqin Zeng,1,True
+99659194214,Yang Zou,99659194249,Yufeng Liu,1,True
+99659194214,Yang Zou,81548020271,Huiyi Liu,1,True
+81319505316,Xiaoqin Zeng,99659194249,Yufeng Liu,1,True
+81319505316,Xiaoqin Zeng,81548020271,Huiyi Liu,1,True
+99659194249,Yufeng Liu,81548020271,Huiyi Liu,1,True
+81549102456,Yuhua Liu,99659194118,Hanfei Lin,1,True
+81549102456,Yuhua Liu,99659194271,Yitao Liang,1,True
+81549102456,Yuhua Liu,81100220966,Changbo Wang,3,True
+99659194118,Hanfei Lin,99659194271,Yitao Liang,1,True
+99659194118,Hanfei Lin,81100220966,Changbo Wang,1,True
+99659194271,Yitao Liang,81100220966,Changbo Wang,1,True
+99658989829,Sangbong Yoo,99658730770,Hongryeol Ryu,1,True
+99658989829,Sangbong Yoo,99658765084,Hanbyul Yeon,1,True
+99658989829,Sangbong Yoo,81451594353,Taekyoung ‘Taekyoung’ Kwon,1,True
+99658989829,Sangbong Yoo,81372592812,Yun Jang,1,True
+99658730770,Hongryeol Ryu,99658765084,Hanbyul Yeon,1,True
+99658730770,Hongryeol Ryu,81451594353,Taekyoung ‘Taekyoung’ Kwon,1,True
+99658730770,Hongryeol Ryu,81372592812,Yun Jang,1,True
+99658765084,Hanbyul Yeon,81451594353,Taekyoung ‘Taekyoung’ Kwon,1,True
+81451594353,Taekyoung ‘Taekyoung’ Kwon,81372592812,Yun Jang,1,True
+99659194260,Nils Rodrigues,81558361656,Rudolf Netzel,1,True
+99659194260,Nils Rodrigues,99659194145,Kazi Riaz Ullah,1,True
+99659194260,Nils Rodrigues,81331488994,Michael Burch,1,True
+99659194260,Nils Rodrigues,99659194188,Alexander Schultz,1,True
+99659194260,Nils Rodrigues,81440598602,Bruno Burger,1,True
+99659194260,Nils Rodrigues,81548014780,Daniel Weiskopf,1,True
+81558361656,Rudolf Netzel,99659194145,Kazi Riaz Ullah,1,True
+81558361656,Rudolf Netzel,81331488994,Michael Burch,1,True
+81558361656,Rudolf Netzel,99659194188,Alexander Schultz,1,True
+81558361656,Rudolf Netzel,81440598602,Bruno Burger,1,True
+81558361656,Rudolf Netzel,81548014780,Daniel Weiskopf,1,True
+99659194145,Kazi Riaz Ullah,81331488994,Michael Burch,1,True
+99659194145,Kazi Riaz Ullah,99659194188,Alexander Schultz,1,True
+99659194145,Kazi Riaz Ullah,81440598602,Bruno Burger,1,True
+99659194145,Kazi Riaz Ullah,81548014780,Daniel Weiskopf,1,True
+81331488994,Michael Burch,99659194188,Alexander Schultz,1,True
+81331488994,Michael Burch,81440598602,Bruno Burger,1,True
+81331488994,Michael Burch,81548014780,Daniel Weiskopf,1,True
+99659194188,Alexander Schultz,81440598602,Bruno Burger,1,True
+99659194188,Alexander Schultz,81548014780,Daniel Weiskopf,1,True
+81440598602,Bruno Burger,81548014780,Daniel Weiskopf,1,True
+81500651305,Kumaripaba Athukorala,81548012985,Luana Micallef,1,True
+81500651305,Kumaripaba Athukorala,83058808757,Chao An,1,True
+81500651305,Kumaripaba Athukorala,84459914957,Aki Reijonen,1,True
+81500651305,Kumaripaba Athukorala,81100125974,Jaakko Peltonen,1,True
+81500651305,Kumaripaba Athukorala,81339525898,Tuukka Ruotsalo,1,True
+81500651305,Kumaripaba Athukorala,81100644548,Giulio Iacucci,1,True
+81548012985,Luana Micallef,83058808757,Chao An,1,True
+81548012985,Luana Micallef,84459914957,Aki Reijonen,1,True
+81548012985,Luana Micallef,81100125974,Jaakko Peltonen,1,True
+83058808757,Chao An,84459914957,Aki Reijonen,1,True
+83058808757,Chao An,81100125974,Jaakko Peltonen,1,True
+83058808757,Chao An,81339525898,Tuukka Ruotsalo,1,True
+83058808757,Chao An,81100644548,Giulio Iacucci,1,True
+84459914957,Aki Reijonen,81100125974,Jaakko Peltonen,1,True
+84459914957,Aki Reijonen,81339525898,Tuukka Ruotsalo,1,True
+84459914957,Aki Reijonen,81100644548,Giulio Iacucci,1,True
+81100125974,Jaakko Peltonen,81339525898,Tuukka Ruotsalo,1,True
+81100125974,Jaakko Peltonen,81100644548,Giulio Iacucci,1,True
+99659194168,Christian Bors,81474695092,Markus Bögl,1,True
+99659194168,Christian Bors,81375620061,Theresia Gschwandtner,1,True
+99659194168,Christian Bors,81100255622,Silvia Miksch,1,True
+81474695092,Markus Bögl,81375620061,Theresia Gschwandtner,1,True
+81474695092,Markus Bögl,81100255622,Silvia Miksch,1,True
+81375620061,Theresia Gschwandtner,81100255622,Silvia Miksch,1,True
+81100517120,Kazuo Misue,99659194175,Kosuke Otake,1,True
+81100517120,Kazuo Misue,99659194114,Takahiro Saito,1,True
+99659194175,Kosuke Otake,99659194114,Takahiro Saito,1,True
+99659820717,Jieliang Luo,84460132057,Donghao Ren,1,True
+99659820717,Jieliang Luo,81320492170,George Legrady,1,True
+84460132057,Donghao Ren,81320492170,George Legrady,1,True
+99659194233,Congmin Li,99658620368,Jie Li,1,True
+99659194283,Boyi Li,99659194157,Amontep Wijitcharoen,1,True
+99659194283,Boyi Li,81413599918,Jonathan Hoyin Chan,1,True
+99659194157,Amontep Wijitcharoen,81413599918,Jonathan Hoyin Chan,1,True
+81339499259,Simon James Fong,81100203521,Robert P. Biuk-Aghai,1,True
+81339499259,Simon James Fong,99659194248,Scarlet Tin,1,True
+81100203521,Robert P. Biuk-Aghai,99659194248,Scarlet Tin,1,True
+81350576955,K. Zhang,99659194158,Yihang Bo,1,True
+81350576955,K. Zhang,99659194162,Yi Yang,1,True
+99659194158,Yihang Bo,99659194162,Yi Yang,1,True
+99659194208,Xianglei Zhu,99659194272,Shuai Zhao,1,True
+99659194208,Xianglei Zhu,99659194136,Quan Wen,1,True
+99659194208,Xianglei Zhu,99658620368,Jie Li,1,True
+99659194272,Shuai Zhao,99659194136,Quan Wen,1,True
+99659194272,Shuai Zhao,99658620368,Jie Li,1,True
+99659194136,Quan Wen,99658620368,Jie Li,1,True
+84459002557,Wenjun Guo,99659194257,Seungwook Kim,1,True
+84459002557,Wenjun Guo,99659178205,Sangjoon Son,1,True
+84459002557,Wenjun Guo,99659178107,Changhyung Hong,1,True
+84459002557,Wenjun Guo,81100157592,Hyunjung (Helen) Shin,1,True
+84459002557,Wenjun Guo,81458652821,Kyungwon Lee,1,True
+99659194257,Seungwook Kim,99659178205,Sangjoon Son,1,True
+99659194257,Seungwook Kim,99659178107,Changhyung Hong,1,True
+99659194257,Seungwook Kim,81100157592,Hyunjung (Helen) Shin,1,True
+99659194257,Seungwook Kim,81458652821,Kyungwon Lee,1,True
+99659178205,Sangjoon Son,99659178107,Changhyung Hong,1,True
+99659178205,Sangjoon Son,81100157592,Hyunjung (Helen) Shin,1,True
+99659178205,Sangjoon Son,81458652821,Kyungwon Lee,1,True
+99659178107,Changhyung Hong,81100157592,Hyunjung (Helen) Shin,1,True
+99659178107,Changhyung Hong,81458652821,Kyungwon Lee,1,True
+81100157592,Hyunjung (Helen) Shin,81458652821,Kyungwon Lee,1,True
+99659127931,Thanyathorn Thanapattheerakul,99659128019,Jaturong Kongmanee,1,True
+99659127931,Thanyathorn Thanapattheerakul,81413599918,Jonathan Hoyin Chan,1,True
+99659128019,Jaturong Kongmanee,81413599918,Jonathan Hoyin Chan,1,True
+99659194254,Saila Shama,99659194245,Philip Lu,1,True
+99659194254,Saila Shama,99659194291,Narumol Doungpan,1,True
+99659194254,Saila Shama,81384616279,Asawin Meechai,1,True
+99659194254,Saila Shama,81413599918,Jonathan Hoyin Chan,1,True
+99659194245,Philip Lu,99659194291,Narumol Doungpan,1,True
+99659194245,Philip Lu,81384616279,Asawin Meechai,1,True
+99659194245,Philip Lu,81413599918,Jonathan Hoyin Chan,1,True
+99659194291,Narumol Doungpan,81384616279,Asawin Meechai,1,True
+99659194291,Narumol Doungpan,81413599918,Jonathan Hoyin Chan,1,True
+81384616279,Asawin Meechai,81413599918,Jonathan Hoyin Chan,1,True
+99659097484,Jiafan Li,81100220966,Changbo Wang,1,True
+99659097484,Jiafan Li,81549102456,Yuhua Liu,1,True
+99659097484,Jiafan Li,99659194115,Zhijie Qiao,1,True
+99659097484,Jiafan Li,99659194278,Junjie Wang,1,True
+81100220966,Changbo Wang,81549102456,Yuhua Liu,4,True
+81100220966,Changbo Wang,99659194115,Zhijie Qiao,1,True
+81100220966,Changbo Wang,99659194278,Junjie Wang,1,True
+81549102456,Yuhua Liu,99659194115,Zhijie Qiao,1,True
+81549102456,Yuhua Liu,99659194278,Junjie Wang,1,True
+99659194115,Zhijie Qiao,99659194278,Junjie Wang,1,True
+99659154692,Wutthipong Kongburan,81442613236,Praisan Padungweang,1,True
+99659154692,Wutthipong Kongburan,81550167556,Worarat Krathu,1,True
+99659154692,Wutthipong Kongburan,81413599918,Jonathan Hoyin Chan,1,True
+81442613236,Praisan Padungweang,81550167556,Worarat Krathu,1,True
+81442613236,Praisan Padungweang,81413599918,Jonathan Hoyin Chan,1,True
+81550167556,Worarat Krathu,81413599918,Jonathan Hoyin Chan,1,True
+82259259657,Barış Serim,83058634857,Luca Chech,1,True
+82259259657,Barış Serim,99659194161,Marta Vasilieva,1,True
+82259259657,Barış Serim,99659194174,Lorenzo Papa,1,True
+82259259657,Barış Serim,81100210885,Luciano Gamberini,1,True
+83058634857,Luca Chech,99659194161,Marta Vasilieva,1,True
+83058634857,Luca Chech,99659194174,Lorenzo Papa,1,True
+83058634857,Luca Chech,81100210885,Luciano Gamberini,1,True
+83058634857,Luca Chech,81100644548,Giulio Iacucci,1,True
+99659194161,Marta Vasilieva,99659194174,Lorenzo Papa,1,True
+99659194161,Marta Vasilieva,81100210885,Luciano Gamberini,1,True
+99659194161,Marta Vasilieva,81100644548,Giulio Iacucci,1,True
+99659194174,Lorenzo Papa,81100210885,Luciano Gamberini,1,True
+99659194174,Lorenzo Papa,81100644548,Giulio Iacucci,1,True
+81100210885,Luciano Gamberini,81100644548,Giulio Iacucci,1,True
+99659185901,Jiajing Zhang,81350576955,K. Zhang,1,True
+99659185901,Jiajing Zhang,81466642306,Ren Peng,1,True
+99659185901,Jiajing Zhang,81381602769,Jinhui Yu,1,True
+81350576955,K. Zhang,81466642306,Ren Peng,1,True
+81350576955,K. Zhang,81381602769,Jinhui Yu,1,True
+81466642306,Ren Peng,81381602769,Jinhui Yu,1,True
+81331488994,Michael Burch,99659194267,Denise Junger,1,True
+81331488994,Michael Burch,99659194244,Isabel Hagen,1,True
+81331488994,Michael Burch,99659194217,Robin Horst,1,True
+81331488994,Michael Burch,99659194195,Lukas Brand,1,True
+81331488994,Michael Burch,99659194159,Armin Müller,1,True
+81331488994,Michael Burch,99659194207,Benjamin Weinert,1,True
+81466647554,Uwe Kloos,99659194267,Denise Junger,1,True
+81466647554,Uwe Kloos,99659194244,Isabel Hagen,1,True
+81466647554,Uwe Kloos,99659194217,Robin Horst,1,True
+81466647554,Uwe Kloos,99659194195,Lukas Brand,1,True
+81466647554,Uwe Kloos,99659194159,Armin Müller,1,True
+81466647554,Uwe Kloos,99659194207,Benjamin Weinert,1,True
+99659194267,Denise Junger,99659194244,Isabel Hagen,1,True
+99659194267,Denise Junger,99659194217,Robin Horst,1,True
+99659194267,Denise Junger,99659194195,Lukas Brand,1,True
+99659194267,Denise Junger,99659194159,Armin Müller,1,True
+99659194267,Denise Junger,99659194207,Benjamin Weinert,1,True
+99659194244,Isabel Hagen,99659194217,Robin Horst,1,True
+99659194244,Isabel Hagen,99659194195,Lukas Brand,1,True
+99659194244,Isabel Hagen,99659194159,Armin Müller,1,True
+99659194244,Isabel Hagen,99659194207,Benjamin Weinert,1,True
+99659194217,Robin Horst,99659194195,Lukas Brand,1,True
+99659194217,Robin Horst,99659194159,Armin Müller,1,True
+99659194217,Robin Horst,99659194207,Benjamin Weinert,1,True
+99659194195,Lukas Brand,99659194159,Armin Müller,1,True
+99659194195,Lukas Brand,99659194207,Benjamin Weinert,1,True
+99659194159,Armin Müller,99659194207,Benjamin Weinert,1,True
+81100203521,Robert P. Biuk-Aghai,99658770790,Patrick Cheong-Iao Pang,1,True
+81100203521,Robert P. Biuk-Aghai,99659194227,Bin Pang,1,True
+99658770790,Patrick Cheong-Iao Pang,99659194227,Bin Pang,1,True
+99659194112,Dominique Tranquille,81339530296,Gem Stapleton,1,True
+99659194112,Dominique Tranquille,81384617071,Jim Burton,1,True
+99659194112,Dominique Tranquille,81100642599,Peter J Rodgers,1,True
+81339530296,Gem Stapleton,81384617071,Jim Burton,1,True
+81339530296,Gem Stapleton,81100642599,Peter J Rodgers,2,True
+81384617071,Jim Burton,81100642599,Peter J Rodgers,1,True
+81479645196,Mandy Keck,81479656070,Dietrich Kammer,1,True
+81479645196,Mandy Keck,81502795846,Thomas Gründer,1,True
+81479645196,Mandy Keck,99659194141,Thomas Thom,1,True
+81479645196,Mandy Keck,81479655070,Martin Kleinsteuber,1,True
+81479645196,Mandy Keck,99659194167,Alexander Maasch,1,True
+81479656070,Dietrich Kammer,81502795846,Thomas Gründer,1,True
+81479656070,Dietrich Kammer,99659194141,Thomas Thom,1,True
+81479656070,Dietrich Kammer,81479655070,Martin Kleinsteuber,1,True
+81479656070,Dietrich Kammer,99659194167,Alexander Maasch,1,True
+81502795846,Thomas Gründer,99659194141,Thomas Thom,1,True
+81502795846,Thomas Gründer,81479655070,Martin Kleinsteuber,1,True
+81502795846,Thomas Gründer,99659194167,Alexander Maasch,1,True
+81502795846,Thomas Gründer,81372593345,Rainer Groh,1,True
+99659194141,Thomas Thom,81479655070,Martin Kleinsteuber,1,True
+99659194141,Thomas Thom,99659194167,Alexander Maasch,1,True
+99659194141,Thomas Thom,81372593345,Rainer Groh,1,True
+81479655070,Martin Kleinsteuber,99659194167,Alexander Maasch,1,True
+81479655070,Martin Kleinsteuber,81372593345,Rainer Groh,1,True
+99659194167,Alexander Maasch,81372593345,Rainer Groh,1,True
+99659194250,Yuri Sato,81339530296,Gem Stapleton,1,True
+99659194250,Yuri Sato,81100097678,Mateja Jamnik,1,True
+99659194250,Yuri Sato,99658750308,Zohreh Shams,1,True
+99659194250,Yuri Sato,99658638715,Andrew Blake,1,True
+81339530296,Gem Stapleton,81100097678,Mateja Jamnik,1,True
+81339530296,Gem Stapleton,99658750308,Zohreh Shams,1,True
+81339530296,Gem Stapleton,99658638715,Andrew Blake,1,True
+81100097678,Mateja Jamnik,99658750308,Zohreh Shams,1,True
+81100097678,Mateja Jamnik,99658638715,Andrew Blake,1,True
+99658750308,Zohreh Shams,99658638715,Andrew Blake,1,True
+99659010090,Francesco Paduano,81551311756,Ronak Etemadpour,1,True
+99659010090,Francesco Paduano,81474644982,Angus Graeme Forbes,1,True
+81551311756,Ronak Etemadpour,81474644982,Angus Graeme Forbes,1,True
+99659020506,Yun Wang,99659070996,Dongyu Liu,1,True
+99659020506,Yun Wang,81100337801,Huamin Qu,1,True
+99659020506,Yun Wang,81339515235,Qiong Luo,1,True
+99659020506,Yun Wang,81484654594,Xiaojuan Ma,1,True
+99659070996,Dongyu Liu,81100337801,Huamin Qu,1,True
+99659070996,Dongyu Liu,81339515235,Qiong Luo,1,True
+99659070996,Dongyu Liu,81484654594,Xiaojuan Ma,1,True
+81100337801,Huamin Qu,81339515235,Qiong Luo,1,True
+81100337801,Huamin Qu,81484654594,Xiaojuan Ma,1,True
+81339515235,Qiong Luo,81484654594,Xiaojuan Ma,1,True
+81556666156,Yang Shi,81339540126,Yaoxue Zhang,1,True
+81556666156,Yang Shi,81549260756,Fangfang Zhou,1,True
+81556666156,Yang Shi,81549278756,Ying Zhao,1,True
+81556666156,Yang Shi,81408600293,Guojun Wang,1,True
+81556666156,Yang Shi,81470649905,Ronghua Shi,1,True
+81556666156,Yang Shi,99658630885,Xing Liang,1,True
+81339540126,Yaoxue Zhang,81549260756,Fangfang Zhou,1,True
+81339540126,Yaoxue Zhang,81549278756,Ying Zhao,1,True
+81339540126,Yaoxue Zhang,81408600293,Guojun Wang,1,True
+81339540126,Yaoxue Zhang,81470649905,Ronghua Shi,1,True
+81339540126,Yaoxue Zhang,99658630885,Xing Liang,1,True
+81549260756,Fangfang Zhou,81408600293,Guojun Wang,1,True
+81549260756,Fangfang Zhou,81470649905,Ronghua Shi,1,True
+81549260756,Fangfang Zhou,99658630885,Xing Liang,1,True
+81549278756,Ying Zhao,81408600293,Guojun Wang,1,True
+81549278756,Ying Zhao,81470649905,Ronghua Shi,1,True
+81549278756,Ying Zhao,99658630885,Xing Liang,1,True
+81408600293,Guojun Wang,81470649905,Ronghua Shi,1,True
+81408600293,Guojun Wang,99658630885,Xing Liang,1,True
+81470649905,Ronghua Shi,99658630885,Xing Liang,1,True
+81100655096,Rainer C Splechtna,99658770166,Alexandra Diehl,1,True
+81100655096,Rainer C Splechtna,81554544456,Mai H Elshehaly,1,True
+81100655096,Rainer C Splechtna,81544964956,Claudio A Delrieux,1,True
+81100655096,Rainer C Splechtna,81100637283,Denis Gracanin,1,True
+81100655096,Rainer C Splechtna,81375609028,Krešimir Matković,1,True
+99658770166,Alexandra Diehl,81554544456,Mai H Elshehaly,1,True
+99658770166,Alexandra Diehl,81544964956,Claudio A Delrieux,1,True
+99658770166,Alexandra Diehl,81100637283,Denis Gracanin,1,True
+99658770166,Alexandra Diehl,81375609028,Krešimir Matković,1,True
+81554544456,Mai H Elshehaly,81544964956,Claudio A Delrieux,1,True
+81554544456,Mai H Elshehaly,81100637283,Denis Gracanin,1,True
+81554544456,Mai H Elshehaly,81375609028,Krešimir Matković,1,True
+81544964956,Claudio A Delrieux,81100637283,Denis Gracanin,1,True
+81544964956,Claudio A Delrieux,81375609028,Krešimir Matković,1,True
+81100637283,Denis Gracanin,81375609028,Krešimir Matković,1,True
+99659068906,Kouhei Yasuda,81410594549,Shigeo Takahashi,1,True
+99659068906,Kouhei Yasuda,81440610884,Hsiangyun Wu,1,True
+81410594549,Shigeo Takahashi,81440610884,Hsiangyun Wu,1,True
+81100511332,Quang Vinh Nguyen,81100077710,Simeon J Simoff,3,True
+81100511332,Quang Vinh Nguyen,81452599675,Yu Qian,2,True
+81100511332,Quang Vinh Nguyen,81100079792,Maolin Huang,4,True
+81100077710,Simeon J Simoff,81452599675,Yu Qian,1,True
+81100077710,Simeon J Simoff,81100079792,Maolin Huang,3,True
+81452599675,Yu Qian,81100079792,Maolin Huang,2,True
+99658770290,Martin Röhlig,81100094349,H. Schumann,1,True
+81320496219,Ruth West,99659067772,Meghan Kajihara,1,True
+81320496219,Ruth West,99658988047,Max Parola,1,True
+81320496219,Ruth West,99659067444,Kathryn Hays,1,True
+81320496219,Ruth West,99659068485,Luke Hillard,1,True
+81320496219,Ruth West,99659067913,Anne Carlew,1,True
+81320496219,Ruth West,99659068986,Jeremey Deutsch,1,True
+81320496219,Ruth West,99659068083,Brandon Lane,1,True
+81320496219,Ruth West,99658628447,Michelle Holloway,1,True
+81320496219,Ruth West,87658893257,Brendan John,1,True
+81320496219,Ruth West,99658988516,Anahita Sanandaji,1,True
+81320496219,Ruth West,81100553787,Cindy Marie Grimm,1,True
+99659067772,Meghan Kajihara,99658988047,Max Parola,1,True
+99659067772,Meghan Kajihara,99659067444,Kathryn Hays,1,True
+99659067772,Meghan Kajihara,99659068485,Luke Hillard,1,True
+99659067772,Meghan Kajihara,99659067913,Anne Carlew,1,True
+99659067772,Meghan Kajihara,99659068986,Jeremey Deutsch,1,True
+99659067772,Meghan Kajihara,99659068083,Brandon Lane,1,True
+99659067772,Meghan Kajihara,99658628447,Michelle Holloway,1,True
+99659067772,Meghan Kajihara,87658893257,Brendan John,1,True
+99659067772,Meghan Kajihara,99658988516,Anahita Sanandaji,1,True
+99659067772,Meghan Kajihara,81100553787,Cindy Marie Grimm,1,True
+99658988047,Max Parola,99659067444,Kathryn Hays,1,True
+99658988047,Max Parola,99659068485,Luke Hillard,1,True
+99658988047,Max Parola,99659067913,Anne Carlew,1,True
+99658988047,Max Parola,99659068986,Jeremey Deutsch,1,True
+99658988047,Max Parola,99659068083,Brandon Lane,1,True
+99658988047,Max Parola,99658628447,Michelle Holloway,1,True
+99658988047,Max Parola,87658893257,Brendan John,1,True
+99658988047,Max Parola,99658988516,Anahita Sanandaji,1,True
+99658988047,Max Parola,81100553787,Cindy Marie Grimm,1,True
+99659067444,Kathryn Hays,99659068485,Luke Hillard,1,True
+99659067444,Kathryn Hays,99659067913,Anne Carlew,1,True
+99659067444,Kathryn Hays,99659068986,Jeremey Deutsch,1,True
+99659067444,Kathryn Hays,99659068083,Brandon Lane,1,True
+99659067444,Kathryn Hays,99658628447,Michelle Holloway,1,True
+99659067444,Kathryn Hays,87658893257,Brendan John,1,True
+99659067444,Kathryn Hays,99658988516,Anahita Sanandaji,1,True
+99659067444,Kathryn Hays,81100553787,Cindy Marie Grimm,1,True
+99659068485,Luke Hillard,99659067913,Anne Carlew,1,True
+99659068485,Luke Hillard,99659068986,Jeremey Deutsch,1,True
+99659068485,Luke Hillard,99659068083,Brandon Lane,1,True
+99659068485,Luke Hillard,99658628447,Michelle Holloway,1,True
+99659068485,Luke Hillard,87658893257,Brendan John,1,True
+99659068485,Luke Hillard,99658988516,Anahita Sanandaji,1,True
+99659068485,Luke Hillard,81100553787,Cindy Marie Grimm,1,True
+99659067913,Anne Carlew,99659068986,Jeremey Deutsch,1,True
+99659067913,Anne Carlew,99659068083,Brandon Lane,1,True
+99659067913,Anne Carlew,99658628447,Michelle Holloway,1,True
+99659067913,Anne Carlew,87658893257,Brendan John,1,True
+99659067913,Anne Carlew,99658988516,Anahita Sanandaji,1,True
+99659067913,Anne Carlew,81100553787,Cindy Marie Grimm,1,True
+99659068986,Jeremey Deutsch,99659068083,Brandon Lane,1,True
+99659068986,Jeremey Deutsch,99658628447,Michelle Holloway,1,True
+99659068986,Jeremey Deutsch,87658893257,Brendan John,1,True
+99659068986,Jeremey Deutsch,99658988516,Anahita Sanandaji,1,True
+99659068986,Jeremey Deutsch,81100553787,Cindy Marie Grimm,1,True
+99659068083,Brandon Lane,99658628447,Michelle Holloway,1,True
+99659068083,Brandon Lane,87658893257,Brendan John,1,True
+99659068083,Brandon Lane,99658988516,Anahita Sanandaji,1,True
+99659068083,Brandon Lane,81100553787,Cindy Marie Grimm,1,True
+99658628447,Michelle Holloway,87658893257,Brendan John,1,True
+99658628447,Michelle Holloway,99658988516,Anahita Sanandaji,1,True
+99658628447,Michelle Holloway,81100553787,Cindy Marie Grimm,1,True
+87658893257,Brendan John,99658988516,Anahita Sanandaji,1,True
+87658893257,Brendan John,81100553787,Cindy Marie Grimm,1,True
+99658988516,Anahita Sanandaji,81100553787,Cindy Marie Grimm,1,True
+99659036087,Zheng Huang,99659068000,Jed Limke,1,True
+99659036087,Zheng Huang,81408600332,Jun Kong,1,True
+99659068000,Jed Limke,81408600332,Jun Kong,1,True
+99658770790,Patrick Cheong-Iao Pang,81100203521,Robert P. Biuk-Aghai,1,True
+99658770790,Patrick Cheong-Iao Pang,99658765217,Muye Yang,1,True
+81100203521,Robert P. Biuk-Aghai,99658765217,Muye Yang,1,True
+99658766518,Yina Li,99658766563,Dongjin Li,2,True
+99659068785,Casey Haber,99659068146,Lyndonong Yiu,1,True
+99659068785,Casey Haber,81339508109,Alark Joshi,1,True
+99659068785,Casey Haber,81442602782,Sophie Engle,1,True
+99659068146,Lyndonong Yiu,81339508109,Alark Joshi,1,True
+99659068146,Lyndonong Yiu,81442602782,Sophie Engle,1,True
+81339508109,Alark Joshi,81442602782,Sophie Engle,2,True
+99659068491,Hui Lei,99659067824,Cong Xie,1,True
+99659068491,Hui Lei,99659068366,Pingping Shang,1,True
+99659068491,Hui Lei,99659068293,Fan Zhang,1,True
+99659068491,Hui Lei,81548161656,Weri Chen,1,True
+99659068491,Hui Lei,81451598508,Qunsheng Peng,1,True
+99659067824,Cong Xie,99659068366,Pingping Shang,1,True
+99659067824,Cong Xie,99659068293,Fan Zhang,1,True
+99659067824,Cong Xie,81548161656,Weri Chen,1,True
+99659067824,Cong Xie,81451598508,Qunsheng Peng,1,True
+99659068366,Pingping Shang,99659068293,Fan Zhang,1,True
+99659068366,Pingping Shang,81548161656,Weri Chen,1,True
+99659068366,Pingping Shang,81451598508,Qunsheng Peng,1,True
+99659068293,Fan Zhang,81548161656,Weri Chen,1,True
+99659068293,Fan Zhang,81451598508,Qunsheng Peng,1,True
+81548161656,Weri Chen,81451598508,Qunsheng Peng,1,True
+81474695617,Tobias Ruppert,99658949790,Andreas Bannach,1,True
+81474695617,Tobias Ruppert,81442607723,Jürgen Bernard,1,True
+81474695617,Tobias Ruppert,99658654866,Hendrik Lücke-Tieke,1,True
+81474695617,Tobias Ruppert,99658657326,Alex Ulmer,1,True
+81474695617,Tobias Ruppert,81332509409,Jörn Kohlhammer,1,True
+99658949790,Andreas Bannach,81442607723,Jürgen Bernard,1,True
+99658949790,Andreas Bannach,99658654866,Hendrik Lücke-Tieke,1,True
+99658949790,Andreas Bannach,99658657326,Alex Ulmer,1,True
+99658949790,Andreas Bannach,81332509409,Jörn Kohlhammer,1,True
+81442607723,Jürgen Bernard,99658654866,Hendrik Lücke-Tieke,1,True
+81442607723,Jürgen Bernard,99658657326,Alex Ulmer,1,True
+81442607723,Jürgen Bernard,81332509409,Jörn Kohlhammer,1,True
+99658654866,Hendrik Lücke-Tieke,99658657326,Alex Ulmer,1,True
+99658654866,Hendrik Lücke-Tieke,81332509409,Jörn Kohlhammer,1,True
+99658657326,Alex Ulmer,81332509409,Jörn Kohlhammer,1,True
+99659191638,Jiangen He,81100119664,Chaomei Chen,1,True
+99659068616,Wenqian Ji,99659067476,Yan Tang,1,True
+99659068616,Wenqian Ji,99659068606,Pengju Ma,1,True
+99659068616,Wenqian Ji,99659068288,Shijie Tang,1,True
+99659068616,Wenqian Ji,99659068325,Zhipeng Fang,1,True
+99659068616,Wenqian Ji,99659068772,Xuan Li,1,True
+99659068616,Wenqian Ji,81548022965,Tianjian Chen,1,True
+99659067476,Yan Tang,99659068606,Pengju Ma,1,True
+99659067476,Yan Tang,99659068288,Shijie Tang,1,True
+99659067476,Yan Tang,99659068325,Zhipeng Fang,1,True
+99659067476,Yan Tang,99659068772,Xuan Li,1,True
+99659067476,Yan Tang,81548022965,Tianjian Chen,1,True
+99659068606,Pengju Ma,99659068288,Shijie Tang,1,True
+99659068606,Pengju Ma,99659068325,Zhipeng Fang,1,True
+99659068606,Pengju Ma,99659068772,Xuan Li,1,True
+99659068606,Pengju Ma,81548022965,Tianjian Chen,1,True
+99659068288,Shijie Tang,99659068325,Zhipeng Fang,1,True
+99659068288,Shijie Tang,99659068772,Xuan Li,1,True
+99659068288,Shijie Tang,81548022965,Tianjian Chen,1,True
+99659068325,Zhipeng Fang,99659068772,Xuan Li,1,True
+99659068325,Zhipeng Fang,81548022965,Tianjian Chen,1,True
+99659068772,Xuan Li,81548022965,Tianjian Chen,1,True
+81490644010,Lina Zhang,81452595774,Kwan-Liu Ma,1,True
+81490644010,Lina Zhang,99659664633,Jinhui Yu,1,True
+81452595774,Kwan-Liu Ma,99659664633,Jinhui Yu,1,True
+99659068053,Lu Xiong,81350576955,K. Zhang,1,True
+99659067653,Kai Sun,81549102456,Yuhua Liu,1,True
+99659067653,Kai Sun,99659067563,Zongchao Guo,1,True
+99659067653,Kai Sun,81100220966,Changbo Wang,1,True
+81549102456,Yuhua Liu,99659067563,Zongchao Guo,1,True
+99659067563,Zongchao Guo,81100220966,Changbo Wang,1,True
+99659664742,Iliesa S Delai,99659068939,Meilan Jin,1,True
+99659664742,Iliesa S Delai,81430638972,Geoffrey M Draper,1,True
+99659068939,Meilan Jin,81430638972,Geoffrey M Draper,1,True
+99659068113,Seimei Matsusaki,99659067967,Xi Han,1,True
+99659068113,Seimei Matsusaki,81339508109,Alark Joshi,1,True
+99659068113,Seimei Matsusaki,81442602782,Sophie Engle,1,True
+99659067967,Xi Han,81339508109,Alark Joshi,1,True
+99659067967,Xi Han,81442602782,Sophie Engle,1,True
+99659068315,Yinan Li,99659068936,Jian Wang,1,True
+99659068554,Daniel Wilches,83059087157,Amy Banić,1,True
+99659067636,Sarah Hong,99659067860,Yuyi Liu,1,True
+99659067636,Sarah Hong,99659052542,Zhao Xiao,1,True
+99659067860,Yuyi Liu,99659052542,Zhao Xiao,1,True
+99659067654,Jie Wu,99659068256,Guangxi Chen,1,True
+99659068830,Wang Qian,99659067729,Xiao Bing,1,True
+81487640747,Vetria Laverne Byrd,81372593397,Joseph A Cottam,1,True
+99658767899,Koji Kainou,81100070397,Hotaka Takizawa,1,True
+99658767899,Koji Kainou,99658769229,Mayumi Aoyagi,1,True
+99658767899,Koji Kainou,81309484223,Nobuo Ezaki,1,True
+99658767899,Koji Kainou,99660176893,Shinji Mizuno,1,True
+81100070397,Hotaka Takizawa,99658769229,Mayumi Aoyagi,1,True
+81100070397,Hotaka Takizawa,81309484223,Nobuo Ezaki,1,True
+81100070397,Hotaka Takizawa,99660176893,Shinji Mizuno,1,True
+99658769229,Mayumi Aoyagi,81309484223,Nobuo Ezaki,1,True
+99658769229,Mayumi Aoyagi,99660176893,Shinji Mizuno,1,True
+81309484223,Nobuo Ezaki,99660176893,Shinji Mizuno,1,True
+81330495342,Christoph Müller,81336492267,Guido Reina,2,True
+81330495342,Christoph Müller,81332497603,Thomas Ertl,3,True
+81336492267,Guido Reina,81332497603,Thomas Ertl,3,True
+81444600345,Michael Krone,81330495342,Christoph Müller,1,True
+81444600345,Michael Krone,81332497603,Thomas Ertl,2,True
+81482658558,Alexandros Panagiotidis,81336492267,Guido Reina,1,True
+81482658558,Alexandros Panagiotidis,81331488994,Michael Burch,1,True
+81482658558,Alexandros Panagiotidis,99658768097,Tilo Pfannkuch,1,True
+81482658558,Alexandros Panagiotidis,81332497603,Thomas Ertl,1,True
+81336492267,Guido Reina,81331488994,Michael Burch,1,True
+81336492267,Guido Reina,99658768097,Tilo Pfannkuch,1,True
+81331488994,Michael Burch,99658768097,Tilo Pfannkuch,1,True
+81331488994,Michael Burch,81332497603,Thomas Ertl,1,True
+99658768097,Tilo Pfannkuch,81332497603,Thomas Ertl,1,True
+99658767810,Andrew Kennedy,81100141840,Karsten Klein,1,True
+99658767810,Andrew Kennedy,99658768973,An Nguyen,1,True
+81100141840,Karsten Klein,99658768973,An Nguyen,1,True
+99658767526,Tingyu Chen,81548026358,Sai Keung Wong,1,True
+99658765625,Chica Matsueda,81100329777,Takayuki Itoh,1,True
+81335494516,John B McGhee,99658767702,Angelica G Thompson-Butel,1,True
+81335494516,John B McGhee,99658712892,Steven Faux,1,True
+81335494516,John B McGhee,99658767746,Pascal Bou-Haidar,1,True
+81335494516,John B McGhee,99658766123,John Bailey,1,True
+99658767702,Angelica G Thompson-Butel,99658712892,Steven Faux,1,True
+99658767702,Angelica G Thompson-Butel,99658767746,Pascal Bou-Haidar,1,True
+99658767702,Angelica G Thompson-Butel,99658766123,John Bailey,1,True
+99658712892,Steven Faux,99658767746,Pascal Bou-Haidar,1,True
+99658712892,Steven Faux,99658766123,John Bailey,1,True
+99658767746,Pascal Bou-Haidar,99658766123,John Bailey,1,True
+81442594829,Ajune Wanis Ismail,81100499261,Mark Nathan Billinghurst,1,True
+81442594829,Ajune Wanis Ismail,81100128492,Mohd Shahrizal Bin Sunar,1,True
+81100499261,Mark Nathan Billinghurst,81100128492,Mohd Shahrizal Bin Sunar,1,True
+81537766956,Marco Angelini,81100525081,Giuseppe Santucci,1,True
+99658620368,Jie Li,81498648020,Zhaopeng Meng,1,True
+99658620368,Jie Li,81100079792,Maolin Huang,1,True
+81498648020,Zhaopeng Meng,81100079792,Maolin Huang,1,True
+81498648020,Zhaopeng Meng,81350576955,K. Zhang,1,True
+81100079792,Maolin Huang,81350576955,K. Zhang,1,True
+99658767864,Eriko Koike,81100329777,Takayuki Itoh,1,True
+99658684477,Aditeya Pandey,99658767511,Kunal Ranjan,1,True
+99658684477,Aditeya Pandey,81536868856,Geetika Sharma,1,True
+99658684477,Aditeya Pandey,81100327275,Lipika Dey,1,True
+99658767511,Kunal Ranjan,81536868856,Geetika Sharma,1,True
+99658767511,Kunal Ranjan,81100327275,Lipika Dey,1,True
+81536868856,Geetika Sharma,81100327275,Lipika Dey,1,True
+99659047793,Yan Huang,81384602486,Cui-Xia Ma,1,True
+99659047793,Yan Huang,81100220294,Hong'an Wang,1,True
+81384602486,Cui-Xia Ma,81100220294,Hong'an Wang,1,True
+99658766518,Yina Li,81350576955,K. Zhang,1,True
+99658766563,Dongjin Li,81350576955,K. Zhang,1,True
+81330495342,Christoph Müller,81444600345,Michael Krone,1,True
+81330495342,Christoph Müller,81503680067,Katrin Scharnowski,1,True
+81444600345,Michael Krone,81503680067,Katrin Scharnowski,1,True
+81444600345,Michael Krone,81336492267,Guido Reina,1,True
+81503680067,Katrin Scharnowski,81336492267,Guido Reina,1,True
+81503680067,Katrin Scharnowski,81332497603,Thomas Ertl,1,True
+99658765217,Muye Yang,81100203521,Robert P. Biuk-Aghai,1,True
+81100229818,Yukari Shirota,99658766578,Yutaka Takahashi,2,True
+81100229818,Yukari Shirota,99658767957,Nobuhide Tanaka,2,True
+81100229818,Yukari Shirota,99658767496,Michiya Morita,2,True
+99658766578,Yutaka Takahashi,99658767957,Nobuhide Tanaka,2,True
+99658766578,Yutaka Takahashi,99658767496,Michiya Morita,2,True
+99658767957,Nobuhide Tanaka,99658767496,Michiya Morita,2,True
+99658764981,Makiko Harada,81365592172,Hidenori Watanave,1,True
+99658767417,Nozomi Tamaki,81100170303,Masahito Hirakawa,1,True
+99658765656,Harrison Cook,81100511332,Quang Vinh Nguyen,1,True
+99658765656,Harrison Cook,81100077710,Simeon J Simoff,1,True
+81456607597,Antoine Trouvé,99659767347,Kazuaki J Murakami,1,True
+81508696579,Sayaka Yagi,81100329777,Takayuki Itoh,1,True
+81508696579,Sayaka Yagi,81438595290,Masahiro Takatsuka,1,True
+81100329777,Takayuki Itoh,81438595290,Masahiro Takatsuka,1,True
+99658765559,Hyoji Ha,99658768692,Sungyun Bae,1,True
+99658765559,Hyoji Ha,99658768907,Hyunwoo Han,1,True
+99658765559,Hyoji Ha,81458652821,Kyungwon Lee,1,True
+99658768692,Sungyun Bae,99658768907,Hyunwoo Han,1,True
+99658768692,Sungyun Bae,81458652821,Kyungwon Lee,1,True
+99658767024,Shinya Tachihara,99658768992,Takehiko Yamaguchi,1,True
+99658767024,Shinya Tachihara,99658768164,Naoki Ishiura,1,True
+99658767024,Shinya Tachihara,99658765383,Mickaël Dinomais,1,True
+99658767024,Shinya Tachihara,81452605387,Paul Richard,1,True
+99658767024,Shinya Tachihara,99658768472,Sylvie Nguyen,1,True
+99658768992,Takehiko Yamaguchi,99658768164,Naoki Ishiura,1,True
+99658768992,Takehiko Yamaguchi,99658765383,Mickaël Dinomais,1,True
+99658768992,Takehiko Yamaguchi,81452605387,Paul Richard,1,True
+99658768992,Takehiko Yamaguchi,99658768472,Sylvie Nguyen,1,True
+99658768164,Naoki Ishiura,99658765383,Mickaël Dinomais,1,True
+99658768164,Naoki Ishiura,81452605387,Paul Richard,1,True
+99658768164,Naoki Ishiura,99658768472,Sylvie Nguyen,1,True
+99658765383,Mickaël Dinomais,81452605387,Paul Richard,1,True
+99658765383,Mickaël Dinomais,99658768472,Sylvie Nguyen,1,True
+81452605387,Paul Richard,99658768472,Sylvie Nguyen,1,True
+81100211722,Tetsuji Takada,99658765798,Katsuhiro Amako,1,True
+81384604143,Jiann Der Lee,99658768773,Haoche Lee,1,True
+81384604143,Jiann Der Lee,99658768076,Chunghung Hsieh,1,True
+81384604143,Jiann Der Lee,99658768982,Chiehtsai Wu,1,True
+81384604143,Jiann Der Lee,81322499106,Shintseng Lee,1,True
+99658768773,Haoche Lee,99658768076,Chunghung Hsieh,1,True
+99658768773,Haoche Lee,99658768982,Chiehtsai Wu,1,True
+99658768773,Haoche Lee,81322499106,Shintseng Lee,1,True
+99658768076,Chunghung Hsieh,99658768982,Chiehtsai Wu,1,True
+99658768076,Chunghung Hsieh,81322499106,Shintseng Lee,1,True
+99658768982,Chiehtsai Wu,81322499106,Shintseng Lee,1,True
+81100019210,Norio Katayama,81100494174,Hiroshi Mo,1,True
+81100019210,Norio Katayama,81100094722,Shin'ichi Satoh,1,True
+81100494174,Hiroshi Mo,81100094722,Shin'ichi Satoh,1,True
+99658765750,Mengjia Zhang,99658620368,Jie Li,1,True
+99658765750,Mengjia Zhang,81350576955,K. Zhang,1,True
+99658638712,Anatoly Yelizarov,81336489058,Dennis Yu Gamayunov,1,True
+99658638266,Brady Cannon,99658638173,Minoti Hiremath,1,True
+99658638266,Brady Cannon,81481649504,Cheryl Jorcyk,1,True
+99658638266,Brady Cannon,81339508109,Alark Joshi,1,True
+99658638173,Minoti Hiremath,81481649504,Cheryl Jorcyk,1,True
+99658638173,Minoti Hiremath,81339508109,Alark Joshi,1,True
+81481649504,Cheryl Jorcyk,81339508109,Alark Joshi,1,True
+81430601375,Tze Haw Huang,81100079792,Maolin Huang,1,True
+81430601375,Tze Haw Huang,81100511332,Quang Vinh Nguyen,1,True
+81430601375,Tze Haw Huang,81444602443,Laiping Zhao,1,True
+81100079792,Maolin Huang,81100511332,Quang Vinh Nguyen,1,True
+81100079792,Maolin Huang,81444602443,Laiping Zhao,1,True
+81100511332,Quang Vinh Nguyen,81444602443,Laiping Zhao,1,True
+81331488994,Michael Burch,81100214723,Daniel Weiskopf,1,True
+99658640147,Gao Yi,81440610884,Hsiangyun Wu,1,True
+99658640147,Gao Yi,81100517120,Kazuo Misue,1,True
+99658640147,Gao Yi,87958942257,Kazuyo Mizuno,1,True
+99658640147,Gao Yi,81410594549,Shigeo Takahashi,1,True
+81440610884,Hsiangyun Wu,81100517120,Kazuo Misue,1,True
+81440610884,Hsiangyun Wu,87958942257,Kazuyo Mizuno,1,True
+81440610884,Hsiangyun Wu,81410594549,Shigeo Takahashi,1,True
+81100517120,Kazuo Misue,87958942257,Kazuyo Mizuno,1,True
+81100517120,Kazuo Misue,81410594549,Shigeo Takahashi,1,True
+87958942257,Kazuyo Mizuno,81410594549,Shigeo Takahashi,1,True
+81453634205,Hong Zhou,81487645560,Panpan Xu,1,True
+81453634205,Hong Zhou,81100136462,Zhong Ming,1,True
+81453634205,Hong Zhou,81100337801,Huamin Qu,1,True
+81487645560,Panpan Xu,81100136462,Zhong Ming,1,True
+81487645560,Panpan Xu,81100337801,Huamin Qu,2,True
+81100136462,Zhong Ming,81100337801,Huamin Qu,1,True
+81440623086,Iman Avazpour,81323497372,Haile Vu,1,True
+81100261843,John C. Grundy,81323497372,Haile Vu,1,True
+99658640625,Jan Wolter,81100449926,Uwe Kastens,1,True
+99658641338,Kaimin Chen,81548026358,Sai Keung Wong,1,True
+99658631520,Loredana Caruccio,81100475245,Vincenzo Deufemia,1,True
+99658631520,Loredana Caruccio,82459248057,Christopher D'Souza,1,True
+99658631520,Loredana Caruccio,81100317930,Athula Ginige,1,True
+99658631520,Loredana Caruccio,81100439669,Giuseppe Polese,1,True
+81100475245,Vincenzo Deufemia,82459248057,Christopher D'Souza,2,True
+81100475245,Vincenzo Deufemia,81100317930,Athula Ginige,2,True
+81100475245,Vincenzo Deufemia,81100439669,Giuseppe Polese,1,True
+82459248057,Christopher D'Souza,81100317930,Athula Ginige,2,True
+82459248057,Christopher D'Souza,81100439669,Giuseppe Polese,1,True
+81100317930,Athula Ginige,81100439669,Giuseppe Polese,1,True
+99658641837,Andrew S Brunker,81100511332,Quang Vinh Nguyen,1,True
+99658641837,Andrew S Brunker,81100346001,Anthony J Maeder,1,True
+99658641837,Andrew S Brunker,81479660336,Rhys Tague,1,True
+99658641837,Andrew S Brunker,99658642575,Gregory S Kolt,1,True
+99658641837,Andrew S Brunker,99658640354,Trevor N Savage,1,True
+99658641837,Andrew S Brunker,99658640097,Corneel Vandelanotte,1,True
+99658641837,Andrew S Brunker,99658642637,Mitch J Duncan,1,True
+99658641837,Andrew S Brunker,99658641098,Cristina M Caperchione,1,True
+99658641837,Andrew S Brunker,99658640509,Richard R Rosenkranz,1,True
+99658641837,Andrew S Brunker,99658641075,Anetta Van Itallie,1,True
+99658641837,Andrew S Brunker,99658639143,W Kerry Mummery,1,True
+81100511332,Quang Vinh Nguyen,81100346001,Anthony J Maeder,1,True
+81100511332,Quang Vinh Nguyen,81479660336,Rhys Tague,1,True
+81100511332,Quang Vinh Nguyen,99658642575,Gregory S Kolt,1,True
+81100511332,Quang Vinh Nguyen,99658640354,Trevor N Savage,1,True
+81100511332,Quang Vinh Nguyen,99658640097,Corneel Vandelanotte,1,True
+81100511332,Quang Vinh Nguyen,99658642637,Mitch J Duncan,1,True
+81100511332,Quang Vinh Nguyen,99658641098,Cristina M Caperchione,1,True
+81100511332,Quang Vinh Nguyen,99658640509,Richard R Rosenkranz,1,True
+81100511332,Quang Vinh Nguyen,99658641075,Anetta Van Itallie,1,True
+81100511332,Quang Vinh Nguyen,99658639143,W Kerry Mummery,1,True
+81100346001,Anthony J Maeder,81479660336,Rhys Tague,1,True
+81100346001,Anthony J Maeder,99658642575,Gregory S Kolt,1,True
+81100346001,Anthony J Maeder,99658640354,Trevor N Savage,1,True
+81100346001,Anthony J Maeder,99658640097,Corneel Vandelanotte,1,True
+81100346001,Anthony J Maeder,99658642637,Mitch J Duncan,1,True
+81100346001,Anthony J Maeder,99658641098,Cristina M Caperchione,1,True
+81100346001,Anthony J Maeder,99658640509,Richard R Rosenkranz,1,True
+81100346001,Anthony J Maeder,99658641075,Anetta Van Itallie,1,True
+81100346001,Anthony J Maeder,99658639143,W Kerry Mummery,1,True
+81479660336,Rhys Tague,99658642575,Gregory S Kolt,1,True
+81479660336,Rhys Tague,99658640354,Trevor N Savage,1,True
+81479660336,Rhys Tague,99658640097,Corneel Vandelanotte,1,True
+81479660336,Rhys Tague,99658642637,Mitch J Duncan,1,True
+81479660336,Rhys Tague,99658641098,Cristina M Caperchione,1,True
+81479660336,Rhys Tague,99658640509,Richard R Rosenkranz,1,True
+81479660336,Rhys Tague,99658641075,Anetta Van Itallie,1,True
+81479660336,Rhys Tague,99658639143,W Kerry Mummery,1,True
+99658642575,Gregory S Kolt,99658640354,Trevor N Savage,1,True
+99658642575,Gregory S Kolt,99658640097,Corneel Vandelanotte,1,True
+99658642575,Gregory S Kolt,99658642637,Mitch J Duncan,1,True
+99658642575,Gregory S Kolt,99658641098,Cristina M Caperchione,1,True
+99658642575,Gregory S Kolt,99658640509,Richard R Rosenkranz,1,True
+99658642575,Gregory S Kolt,99658641075,Anetta Van Itallie,1,True
+99658642575,Gregory S Kolt,99658639143,W Kerry Mummery,1,True
+99658640354,Trevor N Savage,99658640097,Corneel Vandelanotte,1,True
+99658640354,Trevor N Savage,99658642637,Mitch J Duncan,1,True
+99658640354,Trevor N Savage,99658641098,Cristina M Caperchione,1,True
+99658640354,Trevor N Savage,99658640509,Richard R Rosenkranz,1,True
+99658640354,Trevor N Savage,99658641075,Anetta Van Itallie,1,True
+99658640354,Trevor N Savage,99658639143,W Kerry Mummery,1,True
+99658640097,Corneel Vandelanotte,99658642637,Mitch J Duncan,1,True
+99658640097,Corneel Vandelanotte,99658641098,Cristina M Caperchione,1,True
+99658640097,Corneel Vandelanotte,99658640509,Richard R Rosenkranz,1,True
+99658640097,Corneel Vandelanotte,99658641075,Anetta Van Itallie,1,True
+99658640097,Corneel Vandelanotte,99658639143,W Kerry Mummery,1,True
+99658642637,Mitch J Duncan,99658641098,Cristina M Caperchione,1,True
+99658642637,Mitch J Duncan,99658640509,Richard R Rosenkranz,1,True
+99658642637,Mitch J Duncan,99658641075,Anetta Van Itallie,1,True
+99658642637,Mitch J Duncan,99658639143,W Kerry Mummery,1,True
+99658641098,Cristina M Caperchione,99658640509,Richard R Rosenkranz,1,True
+99658641098,Cristina M Caperchione,99658641075,Anetta Van Itallie,1,True
+99658641098,Cristina M Caperchione,99658639143,W Kerry Mummery,1,True
+99658640509,Richard R Rosenkranz,99658641075,Anetta Van Itallie,1,True
+99658640509,Richard R Rosenkranz,99658639143,W Kerry Mummery,1,True
+99658641075,Anetta Van Itallie,99658639143,W Kerry Mummery,1,True
+99658638828,Isha Singh Jassi,99658638866,S Ruchika,1,True
+99658638828,Isha Singh Jassi,99658638735,Susmitha Pulakhandam,1,True
+99658638828,Isha Singh Jassi,99658639930,Subhayan Mukherjee,1,True
+99658638828,Isha Singh Jassi,99658639596,T S Ashwin,1,True
+99658638828,Isha Singh Jassi,81481646797,Geereddy Ram Mohana Reddy,1,True
+99658638866,S Ruchika,99658638735,Susmitha Pulakhandam,1,True
+99658638866,S Ruchika,99658639930,Subhayan Mukherjee,1,True
+99658638866,S Ruchika,99658639596,T S Ashwin,1,True
+99658638866,S Ruchika,81481646797,Geereddy Ram Mohana Reddy,1,True
+99658638735,Susmitha Pulakhandam,99658639930,Subhayan Mukherjee,1,True
+99658638735,Susmitha Pulakhandam,99658639596,T S Ashwin,1,True
+99658638735,Susmitha Pulakhandam,81481646797,Geereddy Ram Mohana Reddy,1,True
+99658639930,Subhayan Mukherjee,99658639596,T S Ashwin,1,True
+99658639930,Subhayan Mukherjee,81481646797,Geereddy Ram Mohana Reddy,1,True
+99658639596,T S Ashwin,81481646797,Geereddy Ram Mohana Reddy,2,True
+99658640683,Mengyao Chen,81549576556,Cong Chen,1,True
+99658640683,Mengyao Chen,81549254156,Shuqing Liu,1,True
+99658640683,Mengyao Chen,81350576955,K. Zhang,1,True
+81549576556,Cong Chen,81549254156,Shuqing Liu,1,True
+81549576556,Cong Chen,81350576955,K. Zhang,2,True
+81549254156,Shuqing Liu,81350576955,K. Zhang,1,True
+84460111757,Xiaofei Guo,81350597955,Juanzi Li,1,True
+84460111757,Xiaofei Guo,99658642128,Ruibing Yang,1,True
+84460111757,Xiaofei Guo,99658640108,Xiaoli Ma,1,True
+81350597955,Juanzi Li,99658642128,Ruibing Yang,1,True
+81350597955,Juanzi Li,99658640108,Xiaoli Ma,1,True
+99658642128,Ruibing Yang,99658640108,Xiaoli Ma,1,True
+99658641267,Priyamvada Tiwari,87958883657,Keyur Sorathia,1,True
+99658635275,Joris Suppers,81100385323,Mark D Apperley,1,True
+99658638715,Andrew Blake,81339530296,Gem Stapleton,1,True
+99658638715,Andrew Blake,81100642599,Peter J Rodgers,1,True
+99658638715,Andrew Blake,81548004966,John Howse,1,True
+81339530296,Gem Stapleton,81548004966,John Howse,1,True
+81100642599,Peter J Rodgers,81548004966,John Howse,1,True
+81100080630,Weidong Huang,81464670479,Tomasz P Bednarz,1,True
+87958859657,Phillip Gough,99658638983,Xavier Ho,1,True
+87958859657,Phillip Gough,99658638791,Kate Dunn,1,True
+87958859657,Phillip Gough,81464670479,Tomasz P Bednarz,1,True
+99658638983,Xavier Ho,99658638791,Kate Dunn,1,True
+99658638983,Xavier Ho,81464670479,Tomasz P Bednarz,1,True
+99658638791,Kate Dunn,81464670479,Tomasz P Bednarz,1,True
+81508706255,Ryuya Akase,81100385632,Yoshihiro Okada,1,True
+81550168756,Ning Li,81548917056,Zhifang Jiang,2,True
+81550168756,Ning Li,82458926857,Zixiang Liu,2,True
+81550168756,Ning Li,99658638818,Haoxin Sun,1,True
+81548917056,Zhifang Jiang,82458926857,Zixiang Liu,2,True
+81548917056,Zhifang Jiang,99658638818,Haoxin Sun,1,True
+82458926857,Zixiang Liu,99658638818,Haoxin Sun,1,True
+99658641472,Sakib Jalil,81333490090,Trina S Myers,1,True
+99658641472,Sakib Jalil,81100309773,Ian M Atkinson,1,True
+81333490090,Trina S Myers,81100309773,Ian M Atkinson,2,True
+99658637818,Minwook Kim,81430638972,Geoffrey M Draper,1,True
+99658637904,Hiba Ahsan,99658639837,Aarti Prabhu,1,True
+99658637904,Hiba Ahsan,99658642946,S D Deeksha,1,True
+99658637904,Hiba Ahsan,99658641888,Shridhar G Domanal,1,True
+99658637904,Hiba Ahsan,99658639596,T S Ashwin,1,True
+99658637904,Hiba Ahsan,81481646797,Geereddy Ram Mohana Reddy,1,True
+99658639837,Aarti Prabhu,99658642946,S D Deeksha,1,True
+99658639837,Aarti Prabhu,99658641888,Shridhar G Domanal,1,True
+99658639837,Aarti Prabhu,99658639596,T S Ashwin,1,True
+99658639837,Aarti Prabhu,81481646797,Geereddy Ram Mohana Reddy,1,True
+99658642946,S D Deeksha,99658641888,Shridhar G Domanal,1,True
+99658642946,S D Deeksha,99658639596,T S Ashwin,1,True
+99658642946,S D Deeksha,81481646797,Geereddy Ram Mohana Reddy,1,True
+99658641888,Shridhar G Domanal,99658639596,T S Ashwin,1,True
+99658641888,Shridhar G Domanal,81481646797,Geereddy Ram Mohana Reddy,1,True
+81550383556,Dylan Mathiesen,81333490090,Trina S Myers,1,True
+81550383556,Dylan Mathiesen,81100309773,Ian M Atkinson,1,True
+99658639470,Andrew Bennett,81100508565,Christopher Lueg,1,True
+81100333166,Jacob L Cybulski,99658640486,Susan Keller,1,True
+81100333166,Jacob L Cybulski,99658641791,Dilal Saundage,1,True
+99658640486,Susan Keller,99658641791,Dilal Saundage,1,True
+99658637874,Kiho Sakamoto,81100329777,Takayuki Itoh,1,True
+99658637926,Lakkhana Mallikarachchi,81100553482,Anuja T Dharmaratne,1,True
+81549490456,Yi Li,99658639117,Zhenfeng Wu,1,True
+81549490456,Yi Li,99658639236,Ting Sun,1,True
+99658639117,Zhenfeng Wu,99658639236,Ting Sun,1,True
+99658641366,Callum Parker,81100138830,Martin Tomitsch,1,True
+99658641418,Alireza Rezaeian,81100611794,Jared Donovan,1,True
+99658642936,P K S Udana,81100553482,Anuja T Dharmaratne,1,True
+99658639255,Fumie Banba,81100329777,Takayuki Itoh,1,True
+99658639255,Fumie Banba,81492654998,Naruhito Toyoda,1,True
+99658639255,Fumie Banba,99658641213,Hitomi Otaka,1,True
+81100329777,Takayuki Itoh,81492654998,Naruhito Toyoda,1,True
+81100329777,Takayuki Itoh,99658641213,Hitomi Otaka,1,True
+81492654998,Naruhito Toyoda,99658641213,Hitomi Otaka,1,True
+99659429762,K K Nisha,99658641805,H R Pruthvi,1,True
+99659429762,K K Nisha,99658639725,Shwetha N Hadimani,1,True
+99659429762,K K Nisha,81481646797,Geereddy Ram Mohana Reddy,1,True
+99659429762,K K Nisha,99658639596,T S Ashwin,1,True
+99659429762,K K Nisha,99658641888,Shridhar G Domanal,1,True
+99658641805,H R Pruthvi,99658639725,Shwetha N Hadimani,1,True
+99658641805,H R Pruthvi,81481646797,Geereddy Ram Mohana Reddy,1,True
+99658641805,H R Pruthvi,99658639596,T S Ashwin,1,True
+99658641805,H R Pruthvi,99658641888,Shridhar G Domanal,1,True
+99658639725,Shwetha N Hadimani,81481646797,Geereddy Ram Mohana Reddy,1,True
+99658639725,Shwetha N Hadimani,99658639596,T S Ashwin,1,True
+99658639725,Shwetha N Hadimani,99658641888,Shridhar G Domanal,1,True
+81481646797,Geereddy Ram Mohana Reddy,99658639596,T S Ashwin,1,True
+81481646797,Geereddy Ram Mohana Reddy,99658641888,Shridhar G Domanal,1,True
+99658639596,T S Ashwin,99658641888,Shridhar G Domanal,1,True
+99658638639,Madhawa Gunasekara,81100553482,Anuja T Dharmaratne,1,True
+99658638639,Madhawa Gunasekara,81502806530,Damitha Sandaruwan,1,True
+81100553482,Anuja T Dharmaratne,81502806530,Damitha Sandaruwan,1,True
+99658641797,Hirantha Weerarathna,81100553482,Anuja T Dharmaratne,1,True
+99658640964,Hiroki Fujita,99658639441,Yoshio Nakashima,1,True
+99658640964,Hiroki Fujita,99658639630,Mamoru Takamatsu,1,True
+99658639441,Yoshio Nakashima,99658639630,Mamoru Takamatsu,1,True
+81440621162,Daniel Filonik,81100268335,Markus Rittenbruch,1,True
+81440621162,Daniel Filonik,81342494632,Professor Marcus Foth,1,True
+81100268335,Markus Rittenbruch,81342494632,Professor Marcus Foth,1,True
+81100425686,Paolo Bottoni,81350572984,Kamen D Kanev,1,True
+81100425686,Paolo Bottoni,81100503196,Nikolay N Mirenkov,1,True
+81350572984,Kamen D Kanev,81100503196,Nikolay N Mirenkov,1,True
+81552904056,Lei Ren,99660111829,Jin Cui,1,True
+81552904056,Lei Ren,81470647228,Yi Du,1,True
+81552904056,Lei Ren,81100172122,Guozhong Dai,1,True
+99660111829,Jin Cui,81470647228,Yi Du,1,True
+99660111829,Jin Cui,81100172122,Guozhong Dai,1,True
+81470647228,Yi Du,81100172122,Guozhong Dai,2,True
+81479657628,Haifeng Li,82459167457,Dayi Yang,1,True
+81479657628,Haifeng Li,82459085757,Yangyang Fu,1,True
+81479657628,Haifeng Li,82458947557,Hujie Huang,1,True
+81479657628,Haifeng Li,82458827157,Hongyuan Fang,1,True
+82459167457,Dayi Yang,82459085757,Yangyang Fu,1,True
+82459167457,Dayi Yang,82458947557,Hujie Huang,1,True
+82459167457,Dayi Yang,82458827157,Hongyuan Fang,1,True
+82459085757,Yangyang Fu,82458947557,Hujie Huang,1,True
+82459085757,Yangyang Fu,82458827157,Hongyuan Fang,1,True
+82458947557,Hujie Huang,82458827157,Hongyuan Fang,1,True
+81466644873,Mofei Song,82458781457,Feiqian Zhang,1,True
+81466644873,Mofei Song,81375607623,Zhengxing Sun,1,True
+81466644873,Mofei Song,81408596522,Yan Zhang,1,True
+82458781457,Feiqian Zhang,81375607623,Zhengxing Sun,1,True
+82458781457,Feiqian Zhang,81408596522,Yan Zhang,1,True
+81375607623,Zhengxing Sun,81408596522,Yan Zhang,1,True
+84460499457,Quan Li,81100337801,Huamin Qu,1,True
+84460499457,Quan Li,81550069356,Li Chen,1,True
+84460499457,Quan Li,82459274457,Robert Wang,1,True
+84460499457,Quan Li,81350568307,Jun-Hai Yong,1,True
+84460499457,Quan Li,82458816557,Detan Si,1,True
+81100337801,Huamin Qu,81550069356,Li Chen,1,True
+81100337801,Huamin Qu,82459274457,Robert Wang,1,True
+81100337801,Huamin Qu,81350568307,Jun-Hai Yong,1,True
+81100337801,Huamin Qu,82458816557,Detan Si,1,True
+81550069356,Li Chen,82459274457,Robert Wang,1,True
+81550069356,Li Chen,81350568307,Jun-Hai Yong,1,True
+81550069356,Li Chen,82458816557,Detan Si,1,True
+82459274457,Robert Wang,81350568307,Jun-Hai Yong,1,True
+82459274457,Robert Wang,82458816557,Detan Si,1,True
+81350568307,Jun-Hai Yong,82458816557,Detan Si,1,True
+81472652484,Abhishek P Chhetri,81350576955,K. Zhang,1,True
+81472652484,Abhishek P Chhetri,99659528788,Eakta Jain,1,True
+81350576955,K. Zhang,99659528788,Eakta Jain,1,True
+82459080257,Chenghai Zhang,81549102456,Yuhua Liu,1,True
+82459080257,Chenghai Zhang,81100220966,Changbo Wang,1,True
+81549398556,Zaijia Liu,81416606402,Xianjunsam Zheng,1,True
+81549398556,Zaijia Liu,82458982257,Mingyang Wu,1,True
+81549398556,Zaijia Liu,82458977257,Rui Dong,1,True
+81549398556,Zaijia Liu,81549374356,Kaiping Peng,2,True
+81416606402,Xianjunsam Zheng,82458982257,Mingyang Wu,1,True
+81416606402,Xianjunsam Zheng,82458977257,Rui Dong,1,True
+81416606402,Xianjunsam Zheng,81549374356,Kaiping Peng,2,True
+82458982257,Mingyang Wu,82458977257,Rui Dong,1,True
+82458982257,Mingyang Wu,81549374356,Kaiping Peng,1,True
+82458977257,Rui Dong,81549374356,Kaiping Peng,1,True
+81375593142,Jie Liang,81100077710,Simeon J Simoff,1,True
+81375593142,Jie Liang,81100511332,Quang Vinh Nguyen,1,True
+81375593142,Jie Liang,81100079792,Maolin Huang,1,True
+81100077710,Simeon J Simoff,81100511332,Quang Vinh Nguyen,1,True
+81500642052,Rossella Aiello,81100355192,Giancarlo Nota,1,True
+81500642052,Rossella Aiello,81100149457,Gennaro Costagliola,1,True
+81500642052,Rossella Aiello,82458760257,Fabrizio Torre,1,True
+81100355192,Giancarlo Nota,81100149457,Gennaro Costagliola,1,True
+81100355192,Giancarlo Nota,82458760257,Fabrizio Torre,1,True
+81100149457,Gennaro Costagliola,82458760257,Fabrizio Torre,1,True
+81100203521,Robert P. Biuk-Aghai,82458612157,Waihou Ao,1,True
+81100425686,Paolo Bottoni,81100149457,Gennaro Costagliola,1,True
+81100425686,Paolo Bottoni,82459058457,Mattia de Rosa,1,True
+81100425686,Paolo Bottoni,81339499356,Andrew Fish,1,True
+81100425686,Paolo Bottoni,81315488598,Vittorio Fuccella,1,True
+81100149457,Gennaro Costagliola,82459058457,Mattia de Rosa,1,True
+81100149457,Gennaro Costagliola,81339499356,Andrew Fish,1,True
+81100149457,Gennaro Costagliola,81315488598,Vittorio Fuccella,1,True
+82459058457,Mattia de Rosa,81339499356,Andrew Fish,1,True
+82459058457,Mattia de Rosa,81315488598,Vittorio Fuccella,1,True
+81339499356,Andrew Fish,81315488598,Vittorio Fuccella,1,True
+82459181257,Chenxi Li,81375607623,Zhengxing Sun,1,True
+82459181257,Chenxi Li,81466644873,Mofei Song,1,True
+82459181257,Chenxi Li,82458777657,Yejia Zhang,1,True
+81375607623,Zhengxing Sun,81466644873,Mofei Song,1,True
+81375607623,Zhengxing Sun,82458777657,Yejia Zhang,1,True
+81466644873,Mofei Song,82458777657,Yejia Zhang,1,True
+82459145257,Tianyang Liu,81339491153,Fatma Bouali,1,True
+82459145257,Tianyang Liu,81100271205,Gilles Venturini,1,True
+81339491153,Fatma Bouali,81100271205,Gilles Venturini,1,True
+81453651594,William Plant,81324493315,Gerald Schaefer,1,True
+81550168756,Ning Li,81322501374,Xiangxu Meng,1,True
+81548917056,Zhifang Jiang,81322501374,Xiangxu Meng,4,True
+82458926857,Zixiang Liu,81322501374,Xiangxu Meng,1,True
+82459232057,Xiaoting Bi,81548917056,Zhifang Jiang,1,True
+82459232057,Xiaoting Bi,81540747756,Shenghui Cheng,1,True
+82459232057,Xiaoting Bi,81322501374,Xiangxu Meng,1,True
+81548917056,Zhifang Jiang,81540747756,Shenghui Cheng,2,True
+81540747756,Shenghui Cheng,81322501374,Xiangxu Meng,2,True
+82459188557,Gerry Derksen,81363600690,Stan Ruecker,1,True
+82459188557,Gerry Derksen,82458635157,Tim Causer,1,True
+82459188557,Gerry Derksen,81548023973,Melissa M Terras,1,True
+81363600690,Stan Ruecker,82458635157,Tim Causer,1,True
+81363600690,Stan Ruecker,81548023973,Melissa M Terras,1,True
+82458635157,Tim Causer,81548023973,Melissa M Terras,1,True
+81388592076,Jing Fan,81508690581,Xiaoying Shi,1,True
+81388592076,Jing Fan,81549289956,Zhan Zhou,1,True
+81388592076,Jing Fan,81388598707,Ying Tang,1,True
+81508690581,Xiaoying Shi,81549289956,Zhan Zhou,1,True
+81508690581,Xiaoying Shi,81388598707,Ying Tang,1,True
+81549289956,Zhan Zhou,81388598707,Ying Tang,1,True
+81549278756,Ying Zhao,81549260756,Fangfang Zhou,1,True
+81549278756,Ying Zhao,81339498581,Xiaoping Fan,1,True
+81549260756,Fangfang Zhou,81339498581,Xiaoping Fan,1,True
+81548917056,Zhifang Jiang,81549340856,Ruobo Xin,1,True
+81540747756,Shenghui Cheng,81549340856,Ruobo Xin,1,True
+81549340856,Ruobo Xin,81322501374,Xiangxu Meng,1,True
+81548713556,Dongxu Duan,81442597296,Weihong Qian,1,True
+81548713556,Dongxu Duan,81100484491,Shimei Pan,1,True
+81548713556,Dongxu Duan,99659747465,Lei Shi,1,True
+81548713556,Dongxu Duan,99659739027,Chuang Lin,1,True
+81442597296,Weihong Qian,81100484491,Shimei Pan,1,True
+81442597296,Weihong Qian,99659747465,Lei Shi,1,True
+81442597296,Weihong Qian,99659739027,Chuang Lin,1,True
+81100484491,Shimei Pan,99659747465,Lei Shi,1,True
+81100484491,Shimei Pan,99659739027,Chuang Lin,1,True
+99659747465,Lei Shi,99659739027,Chuang Lin,1,True
+81549326956,Jared Shenson,81504684109,Alark Joshi,1,True
+81548522456,Xiaojuan Liu,81100220220,Xia Lin,1,True
+81474659807,Tuannhon Dang,81100304143,Leland K Wilkinson,1,True
+81548739656,Li Yu,81100052641,Aidong Lu,1,True
+81548739656,Li Yu,81548161656,Weri Chen,1,True
+81100052641,Aidong Lu,81548161656,Weri Chen,1,True
+81100511332,Quang Vinh Nguyen,81453614419,Jiawan Zhang,1,True
+81452599675,Yu Qian,81453614419,Jiawan Zhang,1,True
+81100079792,Maolin Huang,81453614419,Jiawan Zhang,1,True
+99659052542,Zhao Xiao,81100220966,Changbo Wang,3,True
+99659052542,Zhao Xiao,99659918096,Peng Ye,1,True
+99659052542,Zhao Xiao,81549102456,Yuhua Liu,1,True
+99659052542,Zhao Xiao,81549269856,Chenming Pang,1,True
+81100220966,Changbo Wang,81100220966,Changbo Wang,3,True
+81100220966,Changbo Wang,99659918096,Peng Ye,3,True
+81100220966,Changbo Wang,81549269856,Chenming Pang,3,True
+99659918096,Peng Ye,81549102456,Yuhua Liu,1,True
+99659918096,Peng Ye,81549269856,Chenming Pang,1,True
+81549102456,Yuhua Liu,81549269856,Chenming Pang,1,True
+81100203521,Robert P. Biuk-Aghai,81548735956,Roy Chi Kit Chan,1,True
+81548349256,Kewei Yang,81549407256,Jie Zhou,1,True
+81548349256,Kewei Yang,81375607623,Zhengxing Sun,1,True
+81548349256,Kewei Yang,99659380172,Yi Li,1,True
+81549407256,Jie Zhou,81375607623,Zhengxing Sun,1,True
+81549407256,Jie Zhou,99659380172,Yi Li,1,True
+81375607623,Zhengxing Sun,99659380172,Yi Li,1,True
+81467663707,Xianlin Hu,81435599709,Lane T Harrison,1,True
+81467663707,Xianlin Hu,81100052641,Aidong Lu,1,True
+81467663707,Xianlin Hu,81548739656,Li Yu,1,True
+81467663707,Xianlin Hu,81548355456,Huaguang Song,1,True
+81467663707,Xianlin Hu,81100132506,Jinzhu Gao,1,True
+81435599709,Lane T Harrison,81100052641,Aidong Lu,1,True
+81435599709,Lane T Harrison,81548739656,Li Yu,1,True
+81435599709,Lane T Harrison,81548355456,Huaguang Song,1,True
+81435599709,Lane T Harrison,81100132506,Jinzhu Gao,1,True
+81100052641,Aidong Lu,81548739656,Li Yu,1,True
+81100052641,Aidong Lu,81548355456,Huaguang Song,1,True
+81100052641,Aidong Lu,81100132506,Jinzhu Gao,1,True
+81548739656,Li Yu,81548355456,Huaguang Song,1,True
+81548739656,Li Yu,81100132506,Jinzhu Gao,1,True
+81548355456,Huaguang Song,81100132506,Jinzhu Gao,1,True
+81549254156,Shuqing Liu,81548996956,Jiang Jian,1,True
+81549254156,Shuqing Liu,81416606402,Xianjunsam Zheng,1,True
+81549254156,Shuqing Liu,81549398556,Zaijia Liu,1,True
+81549254156,Shuqing Liu,81548461556,Guanmin Liu,1,True
+81549254156,Shuqing Liu,81549374356,Kaiping Peng,1,True
+81548996956,Jiang Jian,81416606402,Xianjunsam Zheng,1,True
+81548996956,Jiang Jian,81549398556,Zaijia Liu,1,True
+81548996956,Jiang Jian,81548461556,Guanmin Liu,1,True
+81548996956,Jiang Jian,81549374356,Kaiping Peng,1,True
+81416606402,Xianjunsam Zheng,81549398556,Zaijia Liu,1,True
+81416606402,Xianjunsam Zheng,81548461556,Guanmin Liu,1,True
+81549398556,Zaijia Liu,81548461556,Guanmin Liu,1,True
+81548461556,Guanmin Liu,81549374356,Kaiping Peng,1,True
+81100080630,Weidong Huang,81100227371,Chuncheng Lin,1,True
+81100080630,Weidong Huang,81100079792,Maolin Huang,2,True
+81100227371,Chuncheng Lin,81100079792,Maolin Huang,1,True
+81467645327,Xiaoyu Wang,81100084142,Eric A. Bier,1,True
+81467645327,Xiaoyu Wang,81367590837,Thomas James Butkiewicz,1,True
+81467645327,Xiaoyu Wang,81100028256,William Ribarsky,1,True
+81467645327,Xiaoyu Wang,81414604610,Wenwen Dou,1,True
+81100084142,Eric A. Bier,81367590837,Thomas James Butkiewicz,1,True
+81100084142,Eric A. Bier,81100028256,William Ribarsky,1,True
+81100084142,Eric A. Bier,81414604610,Wenwen Dou,1,True
+81367590837,Thomas James Butkiewicz,81100028256,William Ribarsky,1,True
+81367590837,Thomas James Butkiewicz,81414604610,Wenwen Dou,1,True
+81100028256,William Ribarsky,81414604610,Wenwen Dou,1,True
+81100203521,Robert P. Biuk-Aghai,81466645302,Cheongiao Pang,1,True
+81100203521,Robert P. Biuk-Aghai,81487645436,Felix Hon Hou Cheang,1,True
+81466645302,Cheongiao Pang,81487645436,Felix Hon Hou Cheang,1,True
+81100517120,Kazuo Misue,81487644992,Takashi Yuki,1,True
+81542207356,Zhirong Zeng,81487643126,Kun Wang,1,True
+81542207356,Zhirong Zeng,81384607002,Dongxing Teng,1,True
+81542207356,Zhirong Zeng,81100220294,Hong'an Wang,1,True
+81542207356,Zhirong Zeng,81100172122,Guozhong Dai,1,True
+81487643126,Kun Wang,81384607002,Dongxing Teng,1,True
+81487643126,Kun Wang,81100220294,Hong'an Wang,1,True
+81487643126,Kun Wang,81100172122,Guozhong Dai,1,True
+81384607002,Dongxing Teng,81100220294,Hong'an Wang,2,True
+81384607002,Dongxing Teng,81100172122,Guozhong Dai,3,True
+81100220294,Hong'an Wang,81100172122,Guozhong Dai,1,True
+81487645949,Yuri Saito,81100329777,Takayuki Itoh,1,True
+81487652857,Yasuhiko Sota,81487646379,Keisuke Yamamoto,1,True
+81487652857,Yasuhiko Sota,81100170303,Masahito Hirakawa,1,True
+81487652857,Yasuhiko Sota,81487643213,Souichiro Doi,1,True
+81487652857,Yasuhiko Sota,81487645665,Yasuhisa Yamamoto,1,True
+81487646379,Keisuke Yamamoto,81100170303,Masahito Hirakawa,1,True
+81487646379,Keisuke Yamamoto,81487643213,Souichiro Doi,1,True
+81487646379,Keisuke Yamamoto,81487645665,Yasuhisa Yamamoto,1,True
+81100170303,Masahito Hirakawa,81487643213,Souichiro Doi,1,True
+81100170303,Masahito Hirakawa,81487645665,Yasuhisa Yamamoto,1,True
+81487643213,Souichiro Doi,81487645665,Yasuhisa Yamamoto,1,True
+81430655874,Anna Wu,81487647520,Xin Yan,1,True
+81430655874,Anna Wu,81316491376,Xiaolong(Luke) Zhang,2,True
+81487647520,Xin Yan,81316491376,Xiaolong(Luke) Zhang,1,True
+81100106876,Feng Tian,81100130420,Xiang Cao,1,True
+81100106876,Feng Tian,81484645699,Fei Lyu,1,True
+81100106876,Feng Tian,81100172122,Guozhong Dai,2,True
+81100106876,Feng Tian,81316491376,Xiaolong(Luke) Zhang,1,True
+81100106876,Feng Tian,81100220294,Hong'an Wang,2,True
+81100130420,Xiang Cao,81484645699,Fei Lyu,1,True
+81100130420,Xiang Cao,81100172122,Guozhong Dai,1,True
+81100130420,Xiang Cao,81316491376,Xiaolong(Luke) Zhang,1,True
+81100130420,Xiang Cao,81100220294,Hong'an Wang,1,True
+81484645699,Fei Lyu,81100172122,Guozhong Dai,1,True
+81484645699,Fei Lyu,81316491376,Xiaolong(Luke) Zhang,1,True
+81484645699,Fei Lyu,81100220294,Hong'an Wang,1,True
+81100172122,Guozhong Dai,81316491376,Xiaolong(Luke) Zhang,1,True
+81100172122,Guozhong Dai,81100220294,Hong'an Wang,2,True
+81316491376,Xiaolong(Luke) Zhang,81100220294,Hong'an Wang,1,True
+81408600520,Philip Trevor Cox,81100654649,Simon Gauvin,1,True
+81487652078,Jian Shi,81550008956,Ying Qiao,1,True
+81487652078,Jian Shi,81100220294,Hong'an Wang,1,True
+81550008956,Ying Qiao,81100220294,Hong'an Wang,1,True
+81453614419,Jiawan Zhang,81487649595,Yi Zhang,1,True
+81453614419,Jiawan Zhang,81467659085,Lei Fu,1,True
+81453614419,Jiawan Zhang,81487640674,Qinghui Guo,1,True
+81453614419,Jiawan Zhang,81100079792,Maolin Huang,1,True
+81487649595,Yi Zhang,81467659085,Lei Fu,1,True
+81487649595,Yi Zhang,81487640674,Qinghui Guo,1,True
+81487649595,Yi Zhang,81100079792,Maolin Huang,1,True
+81467659085,Lei Fu,81487640674,Qinghui Guo,1,True
+81467659085,Lei Fu,81100079792,Maolin Huang,1,True
+81487640674,Qinghui Guo,81100079792,Maolin Huang,1,True
+81418594635,Jie Hao,81350576955,K. Zhang,1,True
+81487651695,Jiansu Pu,81487645560,Panpan Xu,1,True
+81487651695,Jiansu Pu,81100337801,Huamin Qu,1,True
+81487651695,Jiansu Pu,81100228981,Weiwei Cui,1,True
+81487651695,Jiansu Pu,88159345257,Siyuan Liu,1,True
+81487651695,Jiansu Pu,81100358196,Lionel Ming Shuan Ni,1,True
+81487645560,Panpan Xu,81100228981,Weiwei Cui,1,True
+81487645560,Panpan Xu,88159345257,Siyuan Liu,1,True
+81487645560,Panpan Xu,81100358196,Lionel Ming Shuan Ni,1,True
+81100337801,Huamin Qu,81100228981,Weiwei Cui,1,True
+81100337801,Huamin Qu,88159345257,Siyuan Liu,1,True
+81100337801,Huamin Qu,81100358196,Lionel Ming Shuan Ni,1,True
+81100228981,Weiwei Cui,88159345257,Siyuan Liu,1,True
+81100228981,Weiwei Cui,81100358196,Lionel Ming Shuan Ni,1,True
+88159345257,Siyuan Liu,81100358196,Lionel Ming Shuan Ni,1,True
+81479650318,Yu Su,81409595451,Margaret H Dunham,1,True
+81502758188,Liang Gou,81351599219,Fang You,1,True
+81502758188,Liang Gou,81487643456,Jun Guo,1,True
+81502758188,Liang Gou,81487650203,Luqi Wu,1,True
+81502758188,Liang Gou,81316491376,Xiaolong(Luke) Zhang,2,True
+81351599219,Fang You,81487643456,Jun Guo,1,True
+81351599219,Fang You,81487650203,Luqi Wu,1,True
+81351599219,Fang You,81316491376,Xiaolong(Luke) Zhang,1,True
+81487643456,Jun Guo,81487650203,Luqi Wu,1,True
+81487643456,Jun Guo,81316491376,Xiaolong(Luke) Zhang,1,True
+81487650203,Luqi Wu,81316491376,Xiaolong(Luke) Zhang,1,True
+81100482168,SuTe Lei,81350576955,K. Zhang,2,True
+81470646542,Shaorong Wang,99659385433,Yisong Chen,1,True
+81470646542,Shaorong Wang,i2sheng,Sheng Li,1,True
+81470646542,Shaorong Wang,81100213064,Guoping Wang,1,True
+99659385433,Yisong Chen,i2sheng,Sheng Li,1,True
+99659385433,Yisong Chen,81100213064,Guoping Wang,1,True
+i2sheng,Sheng Li,81100213064,Guoping Wang,1,True
+81548917056,Zhifang Jiang,81470649191,Miaomiao Li,1,True
+81548917056,Zhifang Jiang,99659592332,Yan Huang,1,True
+81548917056,Zhifang Jiang,81470648115,Shenfang Li,1,True
+81470649191,Miaomiao Li,81322501374,Xiangxu Meng,1,True
+81470649191,Miaomiao Li,99659592332,Yan Huang,1,True
+81470649191,Miaomiao Li,81470648115,Shenfang Li,1,True
+81322501374,Xiangxu Meng,99659592332,Yan Huang,1,True
+81322501374,Xiangxu Meng,81470648115,Shenfang Li,1,True
+99659592332,Yan Huang,81470648115,Shenfang Li,1,True
+81470641837,Ye Yuan,81440595151,Zhongke Wu,1,True
+81456623039,Lei Tang,81460647035,Xueqing Li,1,True
+81456623039,Lei Tang,99659630057,Wenjing Qi,1,True
+81456623039,Lei Tang,81548917056,Zhifang Jiang,1,True
+81460647035,Xueqing Li,99659630057,Wenjing Qi,1,True
+81460647035,Xueqing Li,81548917056,Zhifang Jiang,1,True
+99659630057,Wenjing Qi,81548917056,Zhifang Jiang,1,True
+81408600520,Philip Trevor Cox,81314488396,Anh Dang,1,True
+81470649413,Jiayao Chen,99659399355,Xueqing Li,1,True
+81470649413,Jiayao Chen,81470641040,Jingzhao Yang,1,True
+99659399355,Xueqing Li,81470641040,Jingzhao Yang,1,True
+81440610062,J Joshua Thomas,81470645933,Choychee Ken,1,True
+81460642808,Xiongfei Luo,81384607002,Dongxing Teng,1,True
+81460642808,Xiongfei Luo,81418594973,Wei Liu,1,True
+81460642808,Xiongfei Luo,81100106876,Feng Tian,1,True
+81460642808,Xiongfei Luo,81100172122,Guozhong Dai,1,True
+81460642808,Xiongfei Luo,81100220294,Hong'an Wang,1,True
+81384607002,Dongxing Teng,81418594973,Wei Liu,1,True
+81384607002,Dongxing Teng,81100106876,Feng Tian,1,True
+81418594973,Wei Liu,81100106876,Feng Tian,1,True
+81418594973,Wei Liu,81100172122,Guozhong Dai,1,True
+81418594973,Wei Liu,81100220294,Hong'an Wang,1,True
+81470647228,Yi Du,81384602486,Cui-Xia Ma,1,True
+81470647228,Yi Du,81384607002,Dongxing Teng,1,True
+81384602486,Cui-Xia Ma,81384607002,Dongxing Teng,1,True
+81384602486,Cui-Xia Ma,81100172122,Guozhong Dai,1,True
+99659619706,Shijian Lu,81100495902,CÉcile Laurance Paris,1,True
+81502758188,Liang Gou,81430627791,Shaoke Zhang,1,True
+81502758188,Liang Gou,81470645182,Jing Wang,1,True
+81430627791,Shaoke Zhang,81470645182,Jing Wang,1,True
+81430627791,Shaoke Zhang,81316491376,Xiaolong(Luke) Zhang,1,True
+81470645182,Jing Wang,81316491376,Xiaolong(Luke) Zhang,1,True
+81470647019,Hirofumi Miyamoto,81100170303,Masahito Hirakawa,1,True
+81470654406,Tatman Cheong,81100394289,Yain Whar Si,1,True
+81430655874,Anna Wu,81100429353,Guoray Cai,1,True
+81316491376,Xiaolong(Luke) Zhang,81100429353,Guoray Cai,1,True
