@@ -53,7 +53,6 @@ class Client:
         print(dict_from_csv)
         self.dict_papers_ref = dict_from_csv
 
-
     def loop_ref(self):
         querystring = "SELECT * FROM papers_reference"
         self.cursor.execute(querystring)
@@ -181,7 +180,11 @@ class Client:
             for data in list:
                 writer.writerow(data)
 
-
+    def loop_ref(self):
+        for references in self.dict_papers_ref.values():
+            paper_id = references['paper_id']
+            parent_id = references['reference_id']
+            
 
 if __name__ == '__main__':
     client = Client()
