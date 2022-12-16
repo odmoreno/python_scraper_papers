@@ -23,6 +23,7 @@ class Client:
         self.cursor = self.conn.cursor()
         self.dictcoautores = {}
         self.dict_papers_ref = {}
+        self.cocitations = {}
 
 
     def connect_to_subset_db(self):
@@ -144,13 +145,13 @@ class Client:
                 j +=1
         pass
 
-    def make_csv_coaut(self):
-        csv_file = "data/coauthors.csv"
+    def make_csv_coaut(self, name, conjunto):
+        csv_file = "data/" + name + '.csv'
         csv_columns = ['author_id', 'author_name', 'coauthor_id', 'coauthor_name', 'value', 'is_vinci']
         with open(csv_file, 'w', encoding='utf-8') as csvfile:
             writer = csv.DictWriter(csvfile, fieldnames=csv_columns)
             writer.writeheader()
-            for data in self.dictcoautores.values():
+            for data in conjunto.values():
                 writer.writerow(data)
 
     def make_csv_rel2(self, list):
@@ -180,11 +181,77 @@ class Client:
             for data in list:
                 writer.writerow(data)
 
+    def get_paper_db(self, id):
+        try:
+            querystring = "SELECT * FROM papers"
+            querystring += " WHERE id=" + str(id)
+            self.cursor.execute(querystring)
+            paper_records = self.cursor.fetchall()
+            if len(paper_records) > 0:
+                print("search", paper_records[0])
+                return paper_records[0]
+
+        except Exception as e:
+            print(id)
+            print(querystring)
+            fail_message(e)
+        pass
+    def get_authors_papers_db(self, id):
+        set_authors = {}
+        try:
+            querystring = "SELECT * FROM papers_authors as o"
+            querystring += " where o.papers_id =" + str(id)
+            self.cursor.execute(querystring)
+            records = self.cursor.fetchall()
+            if len(records) > 0:
+                list  =[]
+                for record in records:
+                    author_id = record[2]
+                    author = self.get_authors_db(author_id)
+                    list.append(author)
+                return list
+            else:
+                return []
+        except Exception as e:
+            print(id)
+            print(querystring)
+            fail_message(e)
+
+    def get_authors_db(self, id):
+        querystring = "SELECT * FROM authors"
+        querystring += " WHERE id=" + str(id)
+        self.cursor.execute(querystring)
+        paper_records = self.cursor.fetchall()
+        if len(paper_records) > 0:
+            print("search", paper_records[0])
+            return paper_records[0]
+
     def loop_ref(self):
+        self.load_data()
         for references in self.dict_papers_ref.values():
             paper_id = references['paper_id']
-            parent_id = references['reference_id']
-            
+            parent_id = references['parent_id']
+            #paper_row = self.get_paper_db(paper_id)
+            #parent_row = self.get_paper_db(parent_id)
+            list1 = self.get_authors_papers_db(paper_id)
+            list2 = self.get_authors_papers_db(parent_id)
+            if len(list1) != 0 and len(list2) !=0:
+                print("matches")
+                for author in list1:
+                    for author2 in list2:
+                        if author[0] != author2[0]:
+                            id = str(author[0]) + ':' + str(author2[0])
+                            id_2 = str(author2[0]) + ':' + str(author[0])
+                            if (id or id_2) not in self.cocitations:
+                                data = {
+                                    'author_id': author[0],
+                                    'author_name': author[2].strip(),
+                                    'coauthor_id': author2[0],
+                                    'coauthor_name': author2[2].strip(),
+                                    'value': 1,
+                                    'is_vinci': True
+                                }
+                                self.cocitations[id] = data
 
 if __name__ == '__main__':
     client = Client()
@@ -195,5 +262,8 @@ if __name__ == '__main__':
     #list = client.loop_ref()
     #client.make_csv_refs(list)
 
-    client.make_rows_coautors()
-    client.make_csv_coaut()
+    #client.make_rows_coautors()
+    #client.make_csv_coaut()
+
+    client.loop_ref()
+    client.make_csv_coaut('cocitations', client.cocitations)
