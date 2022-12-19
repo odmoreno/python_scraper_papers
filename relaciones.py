@@ -257,9 +257,9 @@ if __name__ == '__main__':
     client = Client()
     #list = client.make_rows()
     #client.make_csv_rel1(list)
-    #list1 = client.make_rows_papers()
-    #client.make_csv_rel2(list1)
-    #list = client.loop_ref()
+    list1 = client.make_rows_papers()
+    client.make_csv_rel2(list1)
+    #ist = client.loop_ref()
     #client.make_csv_refs(list)
 
     #client.make_rows_coautors()
