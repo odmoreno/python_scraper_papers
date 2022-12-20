@@ -3,7 +3,12 @@ import json
 import config
 from common_functions import *
 
-
+'''
+Crea relaciones de papers_authors 
+> recorre la tabla de papers de la base subset
+> encuentra los autores registrados de los papers
+> luego los insertamos en la tabla papers_reference
+'''
 class dbData:
     def __init__(self):
         #columnas de tablas
@@ -60,6 +65,7 @@ class dbData:
         #print("Total number of rows in the table:", r)
         return r
 
+    #buscar los autores en los papers en la base subset, para luego insertarlos en la tabla de relaciones "papers_authors"
     def find_paper(self, paper):
         try:
             doi = paper['doi']

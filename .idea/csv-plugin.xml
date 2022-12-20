@@ -38,6 +38,20 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\data\papers_refences_table.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\data\papers_references.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\data\vinci_conferences.csv">
           <value>
             <Attribute>
