@@ -171,7 +171,13 @@
     "name": "Maath Musleh",
     "url": "https://dl.acm.org/profile/99659915368",
     "id": "99659915368",
-    "institutions": []
+    "institutions": [
+      {
+        "id": "60104372",
+        "name": "Linnaeus University, Kalmar",
+        "url": "https://dl.acm.org/institution/60104372"
+      }
+    ]
   },
   "99659465677": {
     "name": "Angelos Chatzimparmpas",
@@ -558,7 +564,13 @@
     "name": "Christina Stoiber",
     "url": "https://dl.acm.org/profile/99659473900",
     "id": "99659473900",
-    "institutions": []
+    "institutions": [
+      {
+        "id": "60025467",
+        "name": "St. Polten University of Applied Sciences",
+        "url": "https://dl.acm.org/institution/60025467"
+      }
+    ]
   },
   "99659914993": {
     "name": "Conny Walchshofer",
@@ -576,7 +588,13 @@
     "name": "Florian Grassinger",
     "url": "https://dl.acm.org/profile/99659915944",
     "id": "99659915944",
-    "institutions": []
+    "institutions": [
+      {
+        "id": "60025467",
+        "name": "St. Polten University of Applied Sciences",
+        "url": "https://dl.acm.org/institution/60025467"
+      }
+    ]
   },
   "87258908057": {
     "name": "Holger Stitz",
@@ -3128,19 +3146,37 @@
     "name": "Xianglei Zhu",
     "url": "https://dl.acm.org/profile/99659194208",
     "id": "99659194208",
-    "institutions": []
+    "institutions": [
+      {
+        "id": "60272122",
+        "name": "China Automotive Technology and Research Center Co. Ltd",
+        "url": "https://dl.acm.org/institution/60272122"
+      }
+    ]
   },
   "99659194272": {
     "name": "Shuai Zhao",
     "url": "https://dl.acm.org/profile/99659194272",
     "id": "99659194272",
-    "institutions": []
+    "institutions": [
+      {
+        "id": "60272122",
+        "name": "China Automotive Technology and Research Center Co. Ltd",
+        "url": "https://dl.acm.org/institution/60272122"
+      }
+    ]
   },
   "99659194136": {
     "name": "Quan Wen",
     "url": "https://dl.acm.org/profile/99659194136",
     "id": "99659194136",
-    "institutions": []
+    "institutions": [
+      {
+        "id": "60272122",
+        "name": "China Automotive Technology and Research Center Co. Ltd",
+        "url": "https://dl.acm.org/institution/60272122"
+      }
+    ]
   },
   "84459002557": {
     "name": "Wenjun Guo",

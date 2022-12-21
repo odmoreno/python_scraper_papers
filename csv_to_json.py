@@ -28,7 +28,7 @@ class Client:
 
         #cols
         self.papers_col = ['type', 'title', 'year', 'authors','citations', 'downloads', 'doi', 'publisher', "n_reference"]
-        self.autors_col = ['name', 'url', 'institutions']
+        self.autors_col = ['name', 'url', 'institutions', 'countries', 'country']
 
     def load_data(self):
         with open(self.institution_path, encoding='utf-8') as fh:
@@ -66,23 +66,54 @@ class Client:
     def create_list_autors(self):
         newlist = []
         for autor in self.authors_set.values():
+            print(autor)
             institutos = autor['institutions']
             getnames = []
+            getcountries = []
             for insti in institutos:
-                getnames.append(insti['name'])
+                id = insti['id']
+                if id != 'javascript:void(0)':
+                    getnames.append(insti['name'])
+                    institution_ob = self.intitution_set[id]
+                    ad2 = institution_ob['ad2'] if 'ad2' in institution_ob else ''
+                    ad1 = institution_ob['ad1'] if 'ad1' in institution_ob else ''
+                    ad0 = institution_ob['ad0'] if 'ad0' in institution_ob else ''
+                    if ad2 != '':
+                        pais = ad2
+                    elif ad1 != '':
+                        pais =ad1
+                    else : pais = ad0
+                    getcountries.append(pais)
+
+            if len(institutos) > 0:
+                firstinst = institutos[0]
+                idfirst = firstinst['id']
+                insti = self.intitution_set[idfirst]
+                ad2 = '' if 'ad2' not in insti else insti['ad2']
+                ad1 = '' if 'ad1' not in insti else insti['ad1']
+                ad0 = '' if 'ad0' not in insti else insti['ad0']
+                pais = ad2 if ad2 != '' else (ad1 if ad1 != '' else ad0)
+            else:
+                getnames = ''
+                getcountries = ''
+                pais = ''
 
             data = {
                 'name': autor['name'],
-                'url': autor['name'],
-                'institutions': getnames
+                'url': autor['url'],
+                'institutions': getnames,
+                'countries': getcountries,
+                'country':  pais
             }
             newlist.append(data)
+
+        print("fin")
         return newlist
 
     def make_csv_refs(self, list):
         csv_file = "data/papers.csv"
         csv_columns = self.papers_col
-        with open(csv_file, 'w', encoding='utf-8') as csvfile:
+        with open(csv_file, 'w', encoding='utf-8', newline='') as csvfile:
             writer = csv.DictWriter(csvfile, fieldnames=csv_columns)
             writer.writeheader()
             for data in list:
@@ -91,7 +122,7 @@ class Client:
     def make_csv_autors(self, list):
         csv_file = "data/authors.csv"
         csv_columns = self.autors_col
-        with open(csv_file, 'w', encoding='utf-8') as csvfile:
+        with open(csv_file, 'w', encoding='utf-8', newline='') as csvfile:
             writer = csv.DictWriter(csvfile, fieldnames=csv_columns)
             writer.writeheader()
             for data in list:

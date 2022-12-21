@@ -5,6 +5,9 @@ from get_extra_info import *
 
 dblp_base_url = 'https://dblp.org/db/conf/vinci/index.html'
 
+#obtener las regiones :
+#https://github.com/samayo/country-json/blob/master/src/country-by-continent.json
+
 def load_all_conferences():
     """
     - Buscamos todos los enlaces de ACM de vinci dentro dblp.org
@@ -64,7 +67,7 @@ def main():
 
     print(data)
     papers_client = AcmClient(data)
-    #papers_client.main_fun()
+    papers_client.main_fun()
 
     extra_info_client = Info(data)
     #extra_info_client.main_fun()

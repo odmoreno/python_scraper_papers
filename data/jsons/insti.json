@@ -2767,5 +2767,12 @@
     "ad0": "Petaling Jaya",
     "ad1": "Selangor",
     "ad2": "Malaysia"
+  },
+  "60272122": {
+    "id": "60272122",
+    "name": "China Automotive Technology and Research Center Co. Ltd",
+    "url": "https://dl.acm.org/institution/60272122",
+    "ad0": "Tianjin",
+    "ad1": "China"
   }
 }

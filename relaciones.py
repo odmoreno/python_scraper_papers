@@ -148,7 +148,7 @@ class Client:
     def make_csv_coaut(self, name, conjunto):
         csv_file = "data/" + name + '.csv'
         csv_columns = ['author_id', 'author_name', 'coauthor_id', 'coauthor_name', 'value', 'is_vinci']
-        with open(csv_file, 'w', encoding='utf-8') as csvfile:
+        with open(csv_file, 'w', encoding='utf-8', newline='') as csvfile:
             writer = csv.DictWriter(csvfile, fieldnames=csv_columns)
             writer.writeheader()
             for data in conjunto.values():
@@ -157,7 +157,7 @@ class Client:
     def make_csv_rel2(self, list):
         csv_file = "jsons/papers_authors.csv"
         csv_columns = ['paper_id', 'paper_name', 'author_id', 'author_name']
-        with open(csv_file, 'w', encoding='utf-8') as csvfile:
+        with open(csv_file, 'w', encoding='utf-8', newline='') as csvfile:
             writer = csv.DictWriter(csvfile, fieldnames=csv_columns)
             writer.writeheader()
             for data in list:
@@ -166,7 +166,7 @@ class Client:
     def make_csv_rel1(self, list):
         csv_file = "jsons/authors_institutes.csv"
         csv_columns = ['author_id', 'author_name', 'institute_id', 'institute_name']
-        with open(csv_file, 'w', encoding='utf-8') as csvfile:
+        with open(csv_file, 'w', encoding='utf-8', newline='') as csvfile:
             writer = csv.DictWriter(csvfile, fieldnames=csv_columns)
             writer.writeheader()
             for data in list:
@@ -175,7 +175,7 @@ class Client:
     def make_csv_refs(self, list):
         csv_file = "jsons/papers_references.csv"
         csv_columns = ['paper_id', 'paper_title', 'paper_doi', 'parent_id', 'parent_title', 'parent_doi']
-        with open(csv_file, 'w', encoding='utf-8') as csvfile:
+        with open(csv_file, 'w', encoding='utf-8', newline='') as csvfile:
             writer = csv.DictWriter(csvfile, fieldnames=csv_columns)
             writer.writeheader()
             for data in list:
