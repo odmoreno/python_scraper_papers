@@ -15,7 +15,7 @@ class Client:
         self.authors_set = {}
         self.intitution_set = {}
         self.dir = "data/jsons/"
-        self.papers_path = "data/jsons/papers.json"
+        self.papers_path = "data/jsons/papers_u.json"
         self.real_authors_path = "data/jsons/authors.json"
         self.institution_path = "data/jsons/insti.json"
 
@@ -27,8 +27,12 @@ class Client:
         self.cocitations = {}
 
         #cols
-        self.papers_col = ['type', 'title', 'year', 'authors','citations', 'downloads', 'doi', 'publisher', "n_reference"]
-        self.autors_col = ['name', 'url', 'institutions', 'countries', 'country']
+        self.papers_col = ['type', 'title', 'year', 'authors','citations', 'downloads', 'doi', 'publisher', 'venue', 'n_reference']
+        self.autors_col = ['name', 'url', 'institutions', 'countries', 'country', 'region']
+
+        self.countries_path = 'data/countries.json'
+        self.countries_tmp = []
+        self.countries_set = {}
 
     def load_data(self):
         with open(self.institution_path, encoding='utf-8') as fh:
@@ -40,6 +44,17 @@ class Client:
         with open(self.papers_path, encoding='utf-8') as fh:
             papers = json.load(fh)
         self.papers_dict = papers
+        with open(self.countries_path, encoding='utf-8') as fh:
+            countries = json.load(fh)
+        self.countries_tmp = countries
+
+    def work_on_countries(self):
+        for country in self.countries_tmp:
+            #print(country)
+            self.countries_set[country['country']] = {
+                'continent': country['continent']
+            }
+        pass
 
     def create_list(self):
         newlist = []
@@ -58,6 +73,7 @@ class Client:
                 'downloads' : paper['downloads'],
                 'doi': paper['doi'],
                 'publisher': paper['publisher'],
+                'venue': 'vinci',
                 'n_reference': paper['n_reference']
             }
             newlist.append(data)
@@ -98,12 +114,18 @@ class Client:
                 getcountries = ''
                 pais = ''
 
+            region = ''
+            if pais in self.countries_set:
+                print("tiene region")
+                region = self.countries_set[pais]['continent']
+
             data = {
                 'name': autor['name'],
                 'url': autor['url'],
                 'institutions': getnames,
                 'countries': getcountries,
-                'country':  pais
+                'country':  pais,
+                'region': region
             }
             newlist.append(data)
 
@@ -111,7 +133,7 @@ class Client:
         return newlist
 
     def make_csv_refs(self, list):
-        csv_file = "data/papers.csv"
+        csv_file = "data/papers_u.csv"
         csv_columns = self.papers_col
         with open(csv_file, 'w', encoding='utf-8', newline='') as csvfile:
             writer = csv.DictWriter(csvfile, fieldnames=csv_columns)
@@ -120,7 +142,7 @@ class Client:
                 writer.writerow(data)
 
     def make_csv_autors(self, list):
-        csv_file = "data/authors.csv"
+        csv_file = "data/authors_u.csv"
         csv_columns = self.autors_col
         with open(csv_file, 'w', encoding='utf-8', newline='') as csvfile:
             writer = csv.DictWriter(csvfile, fieldnames=csv_columns)
@@ -141,5 +163,6 @@ class Client:
 if __name__ == '__main__':
     client = Client()
     client.load_data()
+    client.work_on_countries()
     #client.papers_to_csv()
     client.autors_to_csv()

@@ -18,12 +18,13 @@ class Info:
         self.authors_set = {}
         self.intitution_set = {}
         self.dir = "jsons/"
-        self.papers_path = "jsons/papers_u.json"
-        self.authors_temp_path = "jsons/authors_tmp.json"
+        self.papers_path = "data/jsons/papers.json"
+        self.papers_new_path = "data/jsons/papers_u.json"
+        self.authors_temp_path = "data/jsons/authors_tmp.json"
         self.load_data()
-        self.real_authors_path = "jsons/authors.json"
-        self.institution_temp_path = "jsons/insti_temp.json"
-        self.institution_path = "jsons/insti.json"
+        self.real_authors_path = "data/jsons/authors.json"
+        self.institution_temp_path = "data/jsons/insti_temp.json"
+        self.institution_path = "data/jsons/insti.json"
         self.intitution_set2 = {}
 
         self.conn = self.connect_to_first_db()
@@ -81,7 +82,7 @@ class Info:
     def save_data(self):
         #save current papers
         json_string = json.dumps(self.papers_dict, ensure_ascii= False, indent=2)
-        with open(self.papers_path, 'w', encoding="utf-8") as outfile:
+        with open(self.papers_new_path, 'w', encoding="utf-8") as outfile:
             outfile.write(json_string)
         #save current authors
         json_string2 = json.dumps(self.authors_tmp_dict, ensure_ascii= False, indent=2)
@@ -152,10 +153,27 @@ class Info:
         paper['abstract'] = abstract_text
         paper['authors'] = authors_list
         paper['n_reference'] = count
+        paper['venue'] = 'vinci'
         # save paper in dict
         self.papers_dict[paper['doi']] = paper
         self.save_data()
         print("Listo : ", paper['title'])
+
+    def get_references(self, paper):
+        url_paper = paper['url']
+        self.driver_for_acm.get(url_paper)
+        button = self.driver_for_acm.find_element_by_css_selector("button[aria-label='Show All References']")
+        for but in button:
+            but.click()
+        # parse source code
+        soup = BeautifulSoup(self.driver_for_acm.page_source, "html.parser")
+        references_list = soup.find("ol", class_="rlist references__list references__numeric")
+        # loop references
+        for ref in references_list:
+                
+            pass
+
+
 
     def main_fun(self):
         try:
@@ -228,7 +246,7 @@ class Info:
                     self.intitution_set[data['id']] = data
                     list.append(data)
 
-                del autor['venue']
+                if 'venue'  in autor : del autor['venue']
                 autor['institutions'] = list
                 self.authors_set[autor['id']] = autor
                 metrics_div = soup.find("div", class_="owl-stage")
@@ -264,7 +282,7 @@ class Info:
     def get_institution_info(self, insti):
         url = insti['url']
         self.driver_for_acm.get(url)
-        time.sleep(5)
+        #time.sleep(5)
         # parse source code
         soup = BeautifulSoup(self.driver_for_acm.page_source, "html.parser")
         address_tag = soup.find('span', class_="address")

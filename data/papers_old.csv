@@ -1,0 +1,261 @@
+type,title,year,authors,citations,downloads,doi,publisher,n_reference
+research-article,Hagrid — Gridify Scatterplots with Hilbert and Gosper Curves,2021,"['René Cutura', 'Cristina Morariu', 'Zhanglin Cheng', 'Yunhai Wang', 'Daniel Weiskopf', 'Michael Sedlmair']",1,110,10.1145/3481549.3481569,ACM,46
+research-article,Scatterplot Selection Applying a Graph Coloring Algorithm,2021,"['Takayuki Itoh', 'Asuka Nakabayashi', 'Mariko Hagita']",0,21,10.1145/3481549.3481553,ACM,21
+short-paper,Visual Analysis of Industrial Multivariate Time Series,2021,"['Maath Musleh', 'Angelos Chatzimparmpas', 'Ilir Jusufi']",0,70,10.1145/3481549.3481557,ACM,43
+research-article,"PropellerHand: A Hand-Mounted, Propeller-Based Force Feedback Device",2021,"['Alexander Achberger', 'Frank Heyen', 'Kresimir Vidakovic', 'Michael Sedlmair']",0,69,10.1145/3481549.3481563,ACM,35
+short-paper,"Interactive Simulation and Visualization ofLong-Term, ETF-based Investment Strategies",2021,"['Martin Büßemeyer', 'Daniel Limberger', 'Willy Scheibel', 'Jürgen Döllner']",0,143,10.1145/3481549.3481568,ACM,23
+short-paper,Visualization of Data Changes in 2.5D Treemaps usingProcedural Textures and Animated Transitions,2021,"['Daniel Limberger', 'Willy Scheibel', 'Jan van Dieken', 'Jürgen Döllner']",0,67,10.1145/3481549.3481570,ACM,15
+short-paper,EyeFIX: An Interactive Visual Analytics Interface for Eye Movement Analysis,2021,"['Ayush Kumar', 'Bharat Goel', 'Keshav Rajupet Premkumar', 'Michael Burch', 'Klaus D Mueller']",0,31,10.1145/3481549.3481562,ACM,16
+research-article,An empirically-based spatial segmentation and coreference annotation scheme for comics,2021,"['Lauren Edlin', 'Joshua D Reiss']",0,24,10.1145/3481549.3481560,ACM,30
+short-paper,RST as Narrative Structure for Node-Based Editors,2021,"['Cameron Edmond', 'Robert Lawther', 'Maxime Cordeil', 'Tomasz P Bednarz']",0,31,10.1145/3481549.3481556,ACM,31
+short-paper,SPLORT: Evaluation of a Web-based Approach for Descriptive and Exploratory Analysis of Multivariate Spatio-temporal Data,2021,"['Miguel Alfonso Feijóo-García', 'José Tiberio Hernández-Peñalosa']",0,15,10.1145/3481549.3481554,ACM,19
+short-paper,Design and Comparative Evaluation of Visualization Onboarding Methods,2021,"['Christina Stoiber', 'Conny Walchshofer', 'Florian Grassinger', 'Holger Stitz', 'Marc Streit', 'Wolfgang Aigner']",0,268,10.1145/3481549.3481558,ACM,50
+research-article,Cross-Platform Immersive Visualization and Navigation with Augmented Reality,2021,"['Akshay Murari', 'Elias Mahfoud', 'Weichao Wang', 'Aidong Lu']",0,75,10.1145/3481549.3481564,ACM,28
+research-article,Visual Linking of Feature Values in Immersive Graph Visualization Environment,2021,"['Hinako Sassa', 'Maxime Cordeil', 'Mitsuo Yoshida', 'Takayuki Itoh']",0,59,10.1145/3481549.3481555,ACM,24
+research-article,ThreadRadar: A Thread-Aware Visualization for Debugging Concurrent Java Programs,2021,"['Oliver Moseler', 'Lucas Kreber', 'Stephan Diehl']",1,57,10.1145/3481549.3481566,ACM,27
+research-article,Interactive Visual Facets to Support Fluid Exploratory Search,2021,"['Chen He', 'Luana Micallef', 'Barış Serim', 'Tung Vuong', 'Tuukka Ruotsalo', 'Giulio Iacucci']",0,48,10.1145/3481549.3481565,ACM,47
+short-paper,Visual Analysis of Graph Algorithm Dynamics,2021,"['Michael Burch', 'Günter Wallner', 'Huub M M van de Wetering', 'Freek Rooks', 'Olof Morra']",0,32,10.1145/3481549.3481550,ACM,28
+poster,Enabling Comparative Analysis of Election Data in Ecuador,2021,"['Gonzalo Gabriel Méndez', 'Oscar Moreno']",0,26,10.1145/3481549.3481571,ACM,5
+poster,Software Galaxies: Displaying Coding Activitiesusing a Galaxy Metaphor,2021,"['Daniel Atzberger', 'Willy Scheibel', 'Daniel Limberger', 'Jürgen Döllner']",0,26,10.1145/3481549.3481573,ACM,12
+poster,Using Scrollytelling to Explain Voting Power in Ecuador,2021,"['Gonzalo Gabriel Méndez', 'Patricio Mendoza']",1,37,10.1145/3481549.3481572,ACM,2
+poster,A Web-Based Tool for analysing Formula 1 Races and Seasons,2021,"['Sebastian Eckl', 'Nick Kerschagel', 'Uwe Kloos']",0,31,10.1145/3481549.3481559,ACM,18
+poster,POEM: People-Oriented EMail for Social Connectedness,2021,"['Maitreya Save', 'Benjamin Allen Watson']",0,16,10.1145/3481549.3481567,ACM,29
+research-article,OpinionManager: Visual Exploration of Online Reviews in P2P Accommodation,2021,"['Dong Li', 'Hong Yin', 'Changbo Wang', 'Sicheng Song', 'Kirlin Li', 'Chenhui Li']",0,31,10.1145/3481549.3481551,ACM,19
+research-article,Particle pre-processing for particle-based fluid surface reconstruction,2021,"['Qiaorui Chen', 'Shuai Zhang', 'Yao Zheng']",0,34,10.1145/3481549.3481552,ACM,19
+short-paper,Identifying Correlation Patterns in Large Educational Data Sources,2021,"['Marco Schmid', 'Rahel Haymoz', 'David Schiller', 'Michael Burch']",1,21,10.1145/3481549.3481561,ACM,14
+research-article,Survey of treemap layout algorithms,2020,"['Willy Scheibel', 'Daniel Limberger', 'Jürgen Döllner']",2,435,10.1145/3430036.3430041,ACM,110
+research-article,Survey on user studies on the effectiveness of treemaps,2020,"['Carolin Fiedler', 'Willy Scheibel', 'Daniel Limberger', 'Matthias Trapp', 'Jürgen Döllner']",3,137,10.1145/3430036.3430054,ACM,65
+research-article,Multiple linked perspectives on hierarchical data,2020,"['Michael Burch', 'Huub M M van de Wetering', 'Nico Klaassen']",1,39,10.1145/3430036.3430037,ACM,31
+research-article,Visual Analytics of Urban Transportation from a Bike-Sharing and Taxi Perspective,2019,"['Haoran Dai', 'Yubo Tao', 'Hai Lin']",3,118,10.1145/3356422.3356433,ACM,24
+research-article,Revealing Travel Patterns from Dockless Bike-sharing Data Based on Tensor Decomposition,2019,"['Hao Tang', 'Sixiang Fei', 'Xiaoying Shi']",1,158,10.1145/3356422.3356440,ACM,13
+research-article,Visual predictive modeling of incomplete time series panel data,2019,"['Hanbyul Yeon', 'Mingyu Pi', 'Hyesook Son', 'Yun Jang']",0,74,10.1145/3356422.3356439,ACM,21
+research-article,EpidNews: An Epidemiological News Explorer for Monitoring Animal Diseases,2018,"['Rohan Goel', 'Samiha Fadloun', 'Sarah Valentin', 'Arnaud Sallaberry', 'Mathieu Roche', 'Pascal Poncelet']",1,89,10.1145/3231622.3231624,ACM,21
+research-article,PedaViz: Visualising Hour-Level Pedestrian Activity,2018,"['Humphrey O Obie', 'Caslon Chua', 'Iman Avazpour', 'Mohamed Almorsy Abdelrazek', 'John C. Grundy', 'Tomasz P Bednarz']",3,160,10.1145/3231622.3231626,ACM,26
+research-article,BehaviorTracker: Visual Analytics of Customer Switching Behavior in O2O Market,2018,"['Yaru Du', 'Changbo Wang', 'Chenhui Li', 'Hong Yin']",1,197,10.1145/3231622.3231627,ACM,26
+research-article,Contrast Enhancement Based on Viewing Distance,2018,"['Liang Zhou', 'Daniel Weiskopf']",2,87,10.1145/3231622.3231628,ACM,28
+research-article,Challenges and Perspectives of Interacting with Hierarchy Visualizations on Large-Scale Displays,2018,"['Michael Burch', 'Hansjörg Schmauder']",1,76,10.1145/3231622.3231635,ACM,32
+research-article,Generating Tractable Designs by Transforming Shape Grammars to Graph Grammars,2018,"['Xiaoyu Wang', 'Yufeng Liu', 'Jie Li', 'K. Zhang']",0,84,10.1145/3231622.3231637,ACM,29
+research-article,"Interactive, Height-Based Filtering in 2.5D Treemaps",2018,"['Daniel Limberger', 'Matthias Trapp', 'Jürgen Döllner']",3,67,10.1145/3231622.3231638,ACM,34
+research-article,Automatic View Placement in 3D toward Hierarchical Non-Linear Presentations,2018,"['Daniil Rodin', 'Gershon Elber']",1,66,10.1145/3231622.3231623,ACM,13
+research-article,3D Modelling and Visualisation of Heterogeneous Cell Membranes in Blender,2018,"['Mehmood Ghaffar', 'Niklas Biere', 'Daniel Jäger', 'Karsten Klein', 'Falk Schreiber', 'Olaf Kruse', 'Björn Sommer']",0,168,10.1145/3231622.3231639,ACM,37
+research-article,Property-Driven Dynamic Call Graph Exploration,2018,['Michael Burch'],0,68,10.1145/3231622.3231630,ACM,30
+research-article,Upstream Visibility: A Multi-View Routing Visualization,2018,"['Luca Marzialetti', 'Massimo Candela', 'Giuseppe Di Battista']",0,71,10.1145/3231622.3231632,ACM,34
+short-paper,IMDb Explorer: Visual Exploration of a Movie Database,2018,"['Michael Burch', 'Gerald Baulig', 'Tobias Boley', 'Arjana Mehmeti', 'Dina Kurbanismailova', 'Marc Roswag', 'Oliver Streicher', 'Steffen Wittig', 'Uwe Kloos']",0,160,10.1145/3231622.3231633,ACM,15
+short-paper,Using an Augmented Reality Cube-Like Interface and 3D Gesture-Based Interaction to Navigate and Manipulate Data,2018,"['Nico Reski', 'Aris Alissandrakis']",1,199,10.1145/3231622.3231625,ACM,13
+short-paper,Analysis of VINCI 2009-2017 Proceedings,2018,"['Kostiantyn Kucher', 'Rafael Messias Martins', 'Andreas Kerren']",2,203,10.1145/3231622.3231641,ACM,39
+poster,Application of Interactive Computer-Assisted Argument Extraction to Opinionated Social Media Texts,2018,"['Kostiantyn Kucher', 'Maria Skeppstedt', 'Andreas Kerren']",1,84,10.1145/3231622.3232505,ACM,10
+poster,Diabetes Information in Social Media,2018,"['Alisa Lincke', 'Jenny Lundberg', 'Maria Thunander', 'Marcelo Milrad', 'Jenny Lundberg', 'Ilir Jusufi', 'Jonas Lundberg']",2,136,10.1145/3231622.3232508,ACM,8
+poster,Visualizing Programming Session Timelines,2018,"['Daniel Toll', 'Anna Wingkvist']",1,70,10.1145/3231622.3232506,ACM,7
+poster,ChOWDER: Dynamic Contents Sharing through Remote Tiled Display System,2018,"['Tomohiro Kawanabe', 'Jorji Nonaka', 'Kenji Ono']",1,47,10.1145/3231622.3232504,ACM,4
+poster,Data Modeling and Analysis on Fashion Evolution,2018,['Tu Xing'],0,109,10.1145/3231622.3231634,ACM,8
+poster,Information Visualization and Design,2018,"['Anna Sara Fagerholm', 'Mattias Andersson']",0,187,10.1145/3231622.3231636,ACM,19
+poster,Visual Notifier: A Timeline-Based Visualization for Notifications from Several Environments,2018,['Michael Burch'],0,45,10.1145/3231622.3231629,ACM,10
+poster,Towards Uncertainty Visualization in Smart Production Environments,2018,"['Björn Zimmer', 'Jan Zenisek', 'Hans-Christian Jetter']",2,75,10.1145/3231622.3231640,ACM,4
+poster,Improved Exploration with Dimensional Weight Manipulation in RadViz,2018,"['Hyunwoo Han', 'Taerin Yoon', 'Hyeonsik Gong', 'Kyungwon Lee']",0,63,10.1145/3231622.3232507,ACM,3
+research-article,Visualizing uncertainty in flow diagrams: a case study in product costing,2017,"['Zana Vosough', 'Dietrich Kammer', 'Mandy Keck', 'Rainer Groh']",2,258,10.1145/3105971.3105972,ACM,44
+research-article,A radviz-based visualization for understanding fuzzy clustering results,2017,"['Fangfang Zhou', 'Minghui Chen', 'Zeyu Wang', 'Feng Luo', 'Xiaobo Luo', 'Wei Huang', 'Yi Chen', 'Ying Zhao']",4,121,10.1145/3105971.3105980,ACM,24
+research-article,Partial precedence of context-sensitive graph grammars,2017,"['Yang Zou', 'Xiaoqin Zeng', 'Yufeng Liu', 'Huiyi Liu']",2,39,10.1145/3105971.3105983,ACM,22
+short-paper,An application of optimization method for storyline based on cluster analysis,2017,"['Yuhua Liu', 'Hanfei Lin', 'Yitao Liang', 'Changbo Wang']",1,93,10.1145/3105971.3105986,ACM,13
+research-article,Personal visual analytics for android security risk lifelog,2017,"['Sangbong Yoo', 'Hongryeol Ryu', 'Hanbyul Yeon', 'Taekyoung ‘Taekyoung’ Kwon', 'Yun Jang']",1,136,10.1145/3105971.3105975,ACM,34
+research-article,Visualization of time series data with spatial context: communicating the energy production of power plants,2017,"['Nils Rodrigues', 'Rudolf Netzel', 'Kazi Riaz Ullah', 'Michael Burch', 'Alexander Schultz', 'Bruno Burger', 'Daniel Weiskopf']",3,234,10.1145/3105971.3105982,ACM,33
+research-article,Visualizing activity traces to support collaborative literature searching,2017,"['Kumaripaba Athukorala', 'Luana Micallef', 'Chao An', 'Aki Reijonen', 'Jaakko Peltonen', 'Tuukka Ruotsalo', 'Giulio Iacucci']",2,144,10.1145/3105971.3105981,ACM,42
+short-paper,Visual support for rastering of unequally spaced time series,2017,"['Christian Bors', 'Markus Bögl', 'Theresia Gschwandtner', 'Silvia Miksch']",4,133,10.1145/3105971.3105984,ACM,21
+short-paper,Visual considerations of relative trajectory models of moving objects,2017,"['Kazuo Misue', 'Kosuke Otake', 'Takahiro Saito']",0,52,10.1145/3105971.3105987,ACM,19
+poster,Anamorphic fluid: exploring spatial organization and movements of images in a simulated fluid environment,2017,"['Jieliang Luo', 'Donghao Ren', 'George Legrady']",0,60,10.1145/3105971.3105990,ACM,3
+poster,Using sunflower metaphor to reduce clutter of scatterplot,2017,"['Congmin Li', 'Jie Li']",1,52,10.1145/3105971.3108443,ACM,2
+poster,Visualizing thai stock performance using parallel coordinates,2017,"['Boyi Li', 'Amontep Wijitcharoen', 'Jonathan Hoyin Chan']",0,78,10.1145/3105971.3108447,ACM,5
+poster,Visual clustering-based apriori ARM methodology for obtaining quality association rules,2017,"['Simon James Fong', 'Robert P. Biuk-Aghai', 'Scarlet Tin']",3,110,10.1145/3105971.3108450,ACM,4
+poster,Towards a design generation methodology,2017,"['K. Zhang', 'Yihang Bo', 'Yi Yang']",1,101,10.1145/3105971.3108444,ACM,11
+poster,Visual analysis of driving styles from vehicle experiment data,2017,"['Xianglei Zhu', 'Shuai Zhao', 'Quan Wen', 'Jie Li']",0,45,10.1145/3105971.3108442,ACM,2
+poster,Data-driven dementia diagnosis record visualization system,2017,"['Wenjun Guo', 'Seungwook Kim', 'Sangjoon Son', 'Changhyung Hong', 'Hyunjung (Helen) Shin', 'Kyungwon Lee']",0,92,10.1145/3105971.3108445,ACM,3
+poster,Network-based visualization tool for analyzing gene expression data,2017,"['Thanyathorn Thanapattheerakul', 'Jaturong Kongmanee', 'Jonathan Hoyin Chan']",0,64,10.1145/3105971.3108446,ACM,8
+poster,Gene-set profiles: visualizing dissimilarity within gene co-expression networks for biomarker identification,2017,"['Saila Shama', 'Philip Lu', 'Narumol Doungpan', 'Asawin Meechai', 'Jonathan Hoyin Chan']",0,35,10.1145/3105971.3108448,ACM,4
+poster,Overall quality evaluation of graph layouts based on regression analysis,2017,"['Jiafan Li', 'Changbo Wang', 'Yuhua Liu', 'Zhijie Qiao', 'Junjie Wang']",0,57,10.1145/3105971.3105992,ACM,6
+poster,Network analysis of inter-organizational success factor relationships,2017,"['Wutthipong Kongburan', 'Praisan Padungweang', 'Worarat Krathu', 'Jonathan Hoyin Chan']",0,49,10.1145/3105971.3108449,ACM,4
+research-article,Exploring gaze-adaptive features for interacting with multi-document visualizations,2017,"['Barış Serim', 'Luca Chech', 'Marta Vasilieva', 'Lorenzo Papa', 'Luciano Gamberini', 'Giulio Iacucci']",1,111,10.1145/3105971.3105977,ACM,34
+research-article,Computer-aided generation of mandala thangka patterns,2017,"['Jiajing Zhang', 'K. Zhang', 'Ren Peng', 'Jinhui Yu']",2,133,10.1145/3105971.3105974,ACM,42
+research-article,Eye movement plots,2017,['Michael Burch'],2,101,10.1145/3105971.3105973,ACM,35
+short-paper,artVIS: an interactive visualization for painting collections,2017,"['Michael Burch', 'Uwe Kloos', 'Denise Junger', 'Isabel Hagen', 'Robin Horst', 'Lukas Brand', 'Armin Müller', 'Benjamin Weinert']",2,114,10.1145/3105971.3105989,ACM,15
+research-article,Map-like visualisations vs. treemaps: an experimental comparison,2017,"['Robert P. Biuk-Aghai', 'Patrick Cheong-Iao Pang', 'Bin Pang']",4,279,10.1145/3105971.3105976,ACM,26
+research-article,Evaluating the effects of size in linesets,2017,"['Dominique Tranquille', 'Gem Stapleton', 'Jim Burton', 'Peter J Rodgers']",1,44,10.1145/3105971.3105978,ACM,26
+research-article,Towards Glyph-based visualizations for big data clustering,2017,"['Mandy Keck', 'Dietrich Kammer', 'Thomas Gründer', 'Thomas Thom', 'Martin Kleinsteuber', 'Alexander Maasch', 'Rainer Groh']",6,268,10.1145/3105971.3105979,ACM,26
+short-paper,How Network-based and set-based visualizations aid consistency checking in ontologies,2017,"['Yuri Sato', 'Gem Stapleton', 'Mateja Jamnik', 'Zohreh Shams', 'Andrew Blake']",1,90,10.1145/3105971.3105988,ACM,28
+research-article,The Dynamic Call Graph Matrix,2016,['Michael Burch'],7,221,10.1145/2968220.2968226,ACM,24
+research-article,BranchingSets: Interactively Visualizing Categories on Node-Link Diagrams,2016,"['Francesco Paduano', 'Ronak Etemadpour', 'Angus Graeme Forbes']",3,114,10.1145/2968220.2968229,ACM,28
+research-article,A Guided Tour of Literature Review: Facilitating Academic Paper Reading with Narrative Visualization,2016,"['Yun Wang', 'Dongyu Liu', 'Huamin Qu', 'Qiong Luo', 'Xiaojuan Ma']",5,488,10.1145/2968220.2968242,ACM,34
+short-paper,IDSPlanet: A Novel Radial Visualization of Intrusion Detection Alerts,2016,"['Yang Shi', 'Yaoxue Zhang', 'Fangfang Zhou', 'Ying Zhao', 'Guojun Wang', 'Ronghua Shi', 'Xing Liang']",1,271,10.1145/2968220.2968221,ACM,13
+short-paper,Bus Lines Explorer: Interactive Exploration of Public Transportation Data,2016,"['Rainer C Splechtna', 'Alexandra Diehl', 'Mai H Elshehaly', 'Claudio A Delrieux', 'Denis Gracanin', 'Krešimir Matković']",0,193,10.1145/2968220.2968238,ACM,15
+research-article,Enhancing Infographics Based on Symmetry Saliency,2016,"['Kouhei Yasuda', 'Shigeo Takahashi', 'Hsiangyun Wu']",1,176,10.1145/2968220.2968224,ACM,26
+research-article,Deep Exploration of Multidimensional Data with Linkable Scatterplots,2016,"['Quang Vinh Nguyen', 'Simeon J Simoff', 'Yu Qian', 'Maolin Huang']",6,145,10.1145/2968220.2968248,ACM,49
+research-article,Visibility Widgets: Managing Occlusion of Quantitative Data in 3D Terrain Visualization,2016,"['Martin Röhlig', 'H. Schumann']",3,81,10.1145/2968220.2968230,ACM,24
+research-article,Eliciting Tacit Expertise in 3D Volume Segmentation,2016,"['Ruth West', 'Meghan Kajihara', 'Max Parola', 'Kathryn Hays', 'Luke Hillard', 'Anne Carlew', 'Jeremey Deutsch', 'Brandon Lane', 'Michelle Holloway', 'Brendan John', 'Anahita Sanandaji', 'Cindy Marie Grimm']",2,246,10.1145/2968220.2968235,ACM,26
+research-article,A Comparative Study on Inter-Device Interaction: One-Handed Interaction VS Two-Handed Interaction,2016,"['Zheng Huang', 'Jed Limke', 'Jun Kong']",3,148,10.1145/2968220.2968236,ACM,25
+research-article,What Makes You Think This Is a Map?: Suggestions for Creating Map-like Visualisations,2016,"['Patrick Cheong-Iao Pang', 'Robert P. Biuk-Aghai', 'Muye Yang']",4,215,10.1145/2968220.2968239,ACM,31
+research-article,How People Deploy Dimensional Information to Estimate Relative Values,2016,"['Yina Li', 'Dongjin Li']",1,55,10.1145/2968220.2968240,ACM,30
+short-paper,Do Defaults Matter?: Evaluating the Effect of Defaults on User Preference for Multi-Class Scatterplots,2016,"['Casey Haber', 'Lyndonong Yiu', 'Alark Joshi', 'Sophie Engle']",0,110,10.1145/2968220.2968241,ACM,27
+research-article,Visual Analysis of User-Driven Association Rule Mining,2016,"['Hui Lei', 'Cong Xie', 'Pingping Shang', 'Fan Zhang', 'Weri Chen', 'Qunsheng Peng']",1,129,10.1145/2968220.2968222,ACM,28
+research-article,Supporting Collaborative Political Decision Making: An Interactive Policy Process Visualization System,2016,"['Tobias Ruppert', 'Andreas Bannach', 'Jürgen Bernard', 'Hendrik Lücke-Tieke', 'Alex Ulmer', 'Jörn Kohlhammer']",1,228,10.1145/2968220.2968223,ACM,24
+short-paper,Spatiotemporal Analytics of Topic Trajectory,2016,"['Jiangen He', 'Chaomei Chen']",2,152,10.1145/2968220.2968244,ACM,21
+short-paper,A Hybrid Approach for Event Social Influence Visualization,2016,"['Wenqian Ji', 'Yan Tang', 'Pengju Ma', 'Shijie Tang', 'Zhipeng Fang', 'Xuan Li', 'Tianjian Chen']",0,81,10.1145/2968220.2968246,ACM,15
+research-article,Adaptively Tiled Image Mosaics Utilizing Measures of Color and Region Entropy,2016,"['Lina Zhang', 'Kwan-Liu Ma', 'Jinhui Yu']",2,134,10.1145/2968220.2968228,ACM,31
+research-article,Generation of Miro's Surrealism,2016,"['Lu Xiong', 'K. Zhang']",11,234,10.1145/2968220.2968232,ACM,33
+poster,EduVis: Visualization for Education Knowledge Graph Based on Web Data,2016,"['Kai Sun', 'Yuhua Liu', 'Zongchao Guo', 'Changbo Wang']",2,450,10.1145/2968220.2968227,ACM,6
+poster,Visualizing Time-Variant Sets on a Handheld Device,2016,"['Iliesa S Delai', 'Meilan Jin', 'Geoffrey M Draper']",0,66,10.1145/2968220.2968231,ACM,4
+poster,Interactive Exploration of Multidimensional YouTube Data Using the GPLOM Technique,2016,"['Seimei Matsusaki', 'Xi Han', 'Alark Joshi', 'Sophie Engle']",0,69,10.1145/2968220.2968233,ACM,5
+poster,The Effect of Color on Short-term Memory in Information Visualization,2016,['Xin Kang'],1,530,10.1145/2968220.2968237,ACM,9
+poster,Design for the future: Incorporating Cradle to Cradle Design into our street,2016,"['Yinan Li', 'Jian Wang']",0,53,10.1145/2968220.2968243,ACM,8
+poster,VolSelectAware: Visual-Cognition Coupled Non-Visual Data-Driven Volume Selection for Immersive Scientific Visualizations,2016,"['Daniel Wilches', 'Amy Banić']",3,76,10.1145/2968220.2968245,ACM,15
+poster,Visual Analysis of TED Talk Topic Trends,2016,"['Sarah Hong', 'Yuyi Liu', 'Zhao Xiao']",1,263,10.1145/2968220.2972225,ACM,5
+poster,A Mapping of Color Information from Inputted Images to Generated Polygons: A Case Study of Generative Design of Epoxy-Terrazzo Artistry,2016,"['Jie Wu', 'Guangxi Chen']",0,62,10.1145/2968220.2972226,ACM,7
+poster,Visual Communication Power Construction and Multimodal Discourse Analysis of Tobacco Control Advertising,2016,"['Wang Qian', 'Xiao Bing']",0,135,10.1145/2968220.2968234,ACM,7
+panel,Facilitating Visualization Capacity Building,2016,"['Vetria Laverne Byrd', 'Joseph A Cottam']",1,177,10.1145/2968220.2968249,ACM,0
+research-article,Predictive Visual Analytics using Topic Composition,2015,"['Hanbyul Yeon', 'Yun Jang']",7,182,10.1145/2801040.2801054,ACM,39
+research-article,A Preliminary Study on Network-based ADL Training for the Visually Impaired by Use of a Parametric-speaker Robot,2015,"['Koji Kainou', 'Hotaka Takizawa', 'Mayumi Aoyagi', 'Nobuo Ezaki', 'Shinji Mizuno']",2,72,10.1145/2801040.2801043,ACM,16
+research-article,In-Situ Visualisation of Fractional Code Ownership over Time,2015,"['Christoph Müller', 'Guido Reina', 'Thomas Ertl']",2,108,10.1145/2801040.2801055,ACM,30
+research-article,Remote Rendering and User Interaction on Mobile Devices for Scientific Visualization,2015,"['Michael Krone', 'Christoph Müller', 'Thomas Ertl']",4,168,10.1145/2801040.2801057,ACM,34
+research-article,Dynamic Graph Visualization with Multiple Visual Metaphors,2015,['Michael Burch'],3,272,10.1145/2801040.2801048,ACM,28
+research-article,Consistently GPU-Accelerated Graph Visualization,2015,"['Alexandros Panagiotidis', 'Guido Reina', 'Michael Burch', 'Tilo Pfannkuch', 'Thomas Ertl']",4,133,10.1145/2801040.2801053,ACM,32
+research-article,The Graph Landscape: a Concept for the Visual Analysis of Graph Set Properties,2015,"['Andrew Kennedy', 'Karsten Klein', 'An Nguyen']",1,149,10.1145/2801040.2801059,ACM,37
+research-article,Digital Artwork Creation Using Water and Sand on a Two-Dimensional Surface,2015,"['Tingyu Chen', 'Sai Keung Wong']",1,136,10.1145/2801040.2801046,ACM,34
+research-article,HistoryPaper: A Magazine-Style Layout of Representative Web Pages Extracted From Browsing History,2015,"['Chica Matsueda', 'Takayuki Itoh']",0,48,10.1145/2801040.2801044,ACM,7
+short-paper,The Fantastic Voyage: an arts-led approach to 3D virtual reality visualization of clinical stroke data,2015,"['John B McGhee', 'Angelica G Thompson-Butel', 'Steven Faux', 'Pascal Bou-Haidar', 'John Bailey']",4,192,10.1145/2801040.2801051,ACM,38
+research-article,Vision-Based Technique and Issues for Multimodal Interaction in Augmented Reality,2015,"['Ajune Wanis Ismail', 'Mark Nathan Billinghurst', 'Mohd Shahrizal Bin Sunar']",6,374,10.1145/2801040.2801058,ACM,52
+research-article,Visual Cyber Situational Awareness for Critical Infrastructures,2015,"['Marco Angelini', 'Giuseppe Santucci']",6,346,10.1145/2801040.2801052,ACM,25
+research-article,An Interactive Radial Visualization of Geoscience Observation Data,2015,"['Jie Li', 'Zhaopeng Meng', 'Maolin Huang', 'K. Zhang']",2,135,10.1145/2801040.2801061,ACM,46
+research-article,An interactive exploratory search system for on-line apparel shopping,2015,"['Eriko Koike', 'Takayuki Itoh']",0,72,10.1145/2801040.2801041,ACM,13
+research-article,Interactive Visual Analysis of Temporal Text Data,2015,"['Aditeya Pandey', 'Kunal Ranjan', 'Geetika Sharma', 'Lipika Dey']",1,124,10.1145/2801040.2801049,ACM,10
+short-paper,Exploring the Benefits of Text and Sketch in Video Retrieval of Complex Queries,2015,"['Yan Huang', 'Cui-Xia Ma', ""Hong'an Wang""]",0,71,10.1145/2801040.2801063,ACM,20
+research-article,Metaphoric Transfer Effect in Information Visualization Using Glyphs,2015,"['Yina Li', 'Dongjin Li', 'K. Zhang']",8,116,10.1145/2801040.2801062,ACM,42
+research-article,On the Utility of Large High-Resolution Displays for Comparative Scientific Visualisation,2015,"['Christoph Müller', 'Michael Krone', 'Katrin Scharnowski', 'Guido Reina', 'Thomas Ertl']",1,139,10.1145/2801040.2801045,ACM,28
+research-article,Enhanced Hexagon-Tiling Algorithm for Map-Like Information Visualisation,2015,"['Muye Yang', 'Robert P. Biuk-Aghai']",15,308,10.1145/2801040.2801056,ACM,25
+short-paper,On Clustered Graph Layouts Sketched by Users Based on Predefined Clusters,2015,[],0,58,10.1145/2801040.2801064,ACM,11
+poster,Visually Do Statistics: Visual Materials of Covariance in Regressive Analysis,2015,"['Yukari Shirota', 'Yutaka Takahashi', 'Nobuhide Tanaka', 'Michiya Morita']",0,90,10.1145/2801040.2801042,ACM,1
+poster,The Interface Design for Serendipity with Collective Intelligence,2015,"['Makiko Harada', 'Hidenori Watanave']",0,79,10.1145/2801040.2801047,ACM,7
+research-article,Synchronizing Digital Signage Content with the Movement of Passerby,2015,"['Nozomi Tamaki', 'Masahito Hirakawa']",1,76,10.1145/2801040.2801050,ACM,4
+poster,Enabling Finger-Gesture Interaction with Kinect,2015,"['Harrison Cook', 'Quang Vinh Nguyen', 'Simeon J Simoff']",1,171,10.1145/2801040.2801060,ACM,5
+poster,Interactive Visualization of Quantitative Data with G2D3,2015,"['Antoine Trouvé', 'Kazuaki J Murakami']",0,59,10.1145/2801040.2801066,ACM,6
+poster,A Layout Technique for Storyline-based Visualization of Consecutive Numerical Time-varying Data,2015,"['Sayaka Yagi', 'Takayuki Itoh', 'Masahiro Takatsuka']",1,119,10.1145/2801040.2801067,ACM,3
+poster,Logo Trend Visualization: Logo Design Shape Element Trend and Pattern Analysis,2015,"['Hyoji Ha', 'Sungyun Bae', 'Hyunwoo Han', 'Kyungwon Lee']",0,193,10.1145/2801040.2801069,ACM,2
+poster,Data Analysis Tool for Arm Movement Pattern in Virtual Catching Task: A Preliminary Development,2015,"['Shinya Tachihara', 'Takehiko Yamaguchi', 'Naoki Ishiura', 'Mickaël Dinomais', 'Paul Richard', 'Sylvie Nguyen']",0,113,10.1145/2801040.2801068,ACM,4
+poster,A Visual Approach to Detecting Drive-by Download Attacks,2015,"['Tetsuji Takada', 'Katsuhiro Amako']",1,97,10.1145/2801040.2801070,ACM,3
+poster,A Projection-based Medical Augmented Reality System,2015,"['Jiann Der Lee', 'Haoche Lee', 'Chunghung Hsieh', 'Chiehtsai Wu', 'Shintseng Lee']",0,176,10.1145/2801040.2801065,ACM,4
+poster,Enhanced Visualization of News Shot Cloud with Employing Circular Layout,2015,"['Norio Katayama', 'Hiroshi Mo', ""Shin'ichi Satoh""]",0,45,10.1145/2801040.2801071,ACM,3
+poster,Using Virtual Reality Technique to Enhance Experience of Exploring 3D Trajectory Visualizations,2015,"['Mengjia Zhang', 'Jie Li', 'K. Zhang']",2,209,10.1145/2801040.2801072,ACM,2
+tutorial,Visually Do Statistics for Business Persons: Visual Materials from Regression to Black-Sholes Model,2015,"['Yukari Shirota', 'Yutaka Takahashi', 'Nobuhide Tanaka', 'Michiya Morita']",1,46,10.1145/2801040.2802138,ACM,6
+research-article,Adaptive Visualization Interface That Manages User's Cognitive Load Based on Interaction Characteristics,2014,"['Anatoly Yelizarov', 'Dennis Yu Gamayunov']",8,346,10.1145/2636240.2636844,ACM,59
+research-article,CoVE: A Colony Visualization System for Animal Pedigrees,2014,"['Brady Cannon', 'Minoti Hiremath', 'Cheryl Jorcyk', 'Alark Joshi']",1,98,10.1145/2636240.2636850,ACM,24
+research-article,A Space-Filling Multidimensional Visualization (SFMDVis for Exploratory Data Analysis,2014,"['Tze Haw Huang', 'Maolin Huang', 'Quang Vinh Nguyen', 'Laiping Zhao']",3,161,10.1145/2636240.2636841,ACM,26
+research-article,A Flip-Book of Edge-Splatted Small Multiples for Visualizing Dynamic Graphs,2014,"['Michael Burch', 'Daniel Weiskopf']",11,232,10.1145/2636240.2636839,ACM,25
+research-article,Visualizing Bag-of-Features Image Categorization Using Anchored Maps,2014,"['Gao Yi', 'Hsiangyun Wu', 'Kazuo Misue', 'Kazuyo Mizuno', 'Shigeo Takahashi']",1,121,10.1145/2636240.2636858,ACM,25
+research-article,Parallel Coordinates with Data Labels,2014,"['Hong Zhou', 'Panpan Xu', 'Zhong Ming', 'Huamin Qu']",3,201,10.1145/2636240.2636854,ACM,33
+research-article,Generating Reusable Visual Notations using Model Transformation,2014,"['Iman Avazpour', 'John C. Grundy', 'Haile Vu']",1,73,10.1145/2636240.2636843,ACM,15
+research-article,Encapsulating Interaction Techniques of 3D Language Editors in Visual Patterns,2014,"['Jan Wolter', 'Uwe Kastens']",0,85,10.1145/2636240.2636840,ACM,28
+research-article,Interactive Sand Art Drawing Using Kinect,2014,"['Kaimin Chen', 'Sai Keung Wong']",5,365,10.1145/2636240.2636846,ACM,33
+research-article,Supporting Access Control within a Mockup-based EUDWeb Environment,2014,"['Loredana Caruccio', 'Vincenzo Deufemia', ""Christopher D'Souza"", 'Athula Ginige', 'Giuseppe Polese']",1,87,10.1145/2636240.2636855,ACM,36
+research-article,A Time-based Visualization for Web User Classification in Social Networks,2014,"['Andrew S Brunker', 'Quang Vinh Nguyen', 'Anthony J Maeder', 'Rhys Tague', 'Gregory S Kolt', 'Trevor N Savage', 'Corneel Vandelanotte', 'Mitch J Duncan', 'Cristina M Caperchione', 'Richard R Rosenkranz', 'Anetta Van Itallie', 'W Kerry Mummery']",3,187,10.1145/2636240.2636842,ACM,19
+research-article,Ember: A Smartphone Web Browser Interface for the Blind,2014,"['Isha Singh Jassi', 'S Ruchika', 'Susmitha Pulakhandam', 'Subhayan Mukherjee', 'T S Ashwin', 'Geereddy Ram Mohana Reddy']",2,261,10.1145/2636240.2636847,ACM,13
+research-article,Mobile Visualization Supporting Awareness in Collaborative Software Development,2014,"['Mengyao Chen', 'Cong Chen', 'Shuqing Liu', 'K. Zhang']",2,141,10.1145/2636240.2636857,ACM,24
+research-article,NEI: A Framework for Dynamic News Event Exploration and Visualization,2014,"['Xiaofei Guo', 'Juanzi Li', 'Ruibing Yang', 'Xiaoli Ma']",1,147,10.1145/2636240.2636845,ACM,21
+research-article,Visualising and systematizing a per-poor ICT intervention for Rural and Semi-urban Mothers in India,2014,"['Priyamvada Tiwari', 'Keyur Sorathia']",8,204,10.1145/2636240.2636856,ACM,29
+research-article,Developing useful Visualizations of Domestic Energy Usage,2014,"['Joris Suppers', 'Mark D Apperley']",5,221,10.1145/2636240.2636853,ACM,40
+research-article,How Should We Use Colour in Euler Diagrams?,2014,"['Andrew Blake', 'Gem Stapleton', 'Peter J Rodgers', 'John Howse']",10,162,10.1145/2636240.2636838,ACM,34
+research-article,Towards a Cognitive Approach to User-Centered Visualization Design and Evaluation,2014,"['Weidong Huang', 'Tomasz P Bednarz']",0,215,10.1145/2636240.2636848,ACM,31
+research-article,Emergence and Artistic Visualization,2014,['Jennifer Seevinck'],2,120,10.1145/2636240.2636851,ACM,27
+research-article,Art and Chartjunk: a Guide for NEUVis,2014,"['Phillip Gough', 'Xavier Ho', 'Kate Dunn', 'Tomasz P Bednarz']",4,217,10.1145/2636240.2636852,ACM,29
+research-article,Web-based Multiuser 3D Room Layout System Using Interactive Evolutionary Computation with Conjoint Analysis,2014,"['Ryuya Akase', 'Yoshihiro Okada']",9,156,10.1145/2636240.2636849,ACM,9
+research-article,Hyperbolic Tree + Time Disc: Visualizing Hierarchical Time-series Data,2014,"['Ning Li', 'Zhifang Jiang', 'Zixiang Liu', 'Haoxin Sun']",2,112,10.1145/2636240.2636862,ACM,7
+research-article,Design Implications from the Preliminary Results of a Telemedicine Patient-Technology Interaction Study,2014,"['Sakib Jalil', 'Trina S Myers', 'Ian M Atkinson']",2,143,10.1145/2636240.2636860,ACM,14
+research-article,Radial vs. Cartesian Revisited: A Comparison of Space-Filling Visualizations,2014,"['Minwook Kim', 'Geoffrey M Draper']",1,173,10.1145/2636240.2636871,ACM,14
+research-article,Vision Based Laser Controlled Keyboard System for the Disabled,2014,"['Hiba Ahsan', 'Aarti Prabhu', 'S D Deeksha', 'Shridhar G Domanal', 'T S Ashwin', 'Geereddy Ram Mohana Reddy']",2,111,10.1145/2636240.2636863,ACM,15
+research-article,"Large Scale, Collaborative, Invasive Species Planning and Visualisation Tool",2014,"['Dylan Mathiesen', 'Trina S Myers', 'Ian M Atkinson']",0,75,10.1145/2636240.2636865,ACM,14
+research-article,Using Your Fingers to Think: Interactive Exploration of Subjective Constraints,2014,"['Andrew Bennett', 'Christopher Lueg']",0,77,10.1145/2636240.2636868,ACM,6
+research-article,Metaphors in Interactive Visual Analytics,2014,"['Jacob L Cybulski', 'Susan Keller', 'Dilal Saundage']",5,275,10.1145/2636240.2636866,ACM,20
+research-article,Photomosaic Generation for Photograph Collection Browsing,2014,"['Kiho Sakamoto', 'Takayuki Itoh']",1,80,10.1145/2636240.2636861,ACM,8
+research-article,Super Resolution to Identify License Plate Numbers in Low Resolution Videos,2014,"['Lakkhana Mallikarachchi', 'Anuja T Dharmaratne']",1,198,10.1145/2636240.2636867,ACM,9
+research-article,Monocular Human Motion Tracking in Latent Space based on Sequential Immune Genetic Algorithm,2014,"['Yi Li', 'Zhenfeng Wu', 'Ting Sun']",0,66,10.1145/2636240.2636870,ACM,12
+research-article,Data Visualisation Trends in Mobile Augmented Reality Applications,2014,"['Callum Parker', 'Martin Tomitsch']",4,514,10.1145/2636240.2636864,ACM,12
+research-article,Design of a Tangible Data Visualization,2014,"['Alireza Rezaeian', 'Jared Donovan']",6,365,10.1145/2636240.2636869,ACM,6
+research-article,Facial Expression Generation in 3D Space,2014,"['P K S Udana', 'Anuja T Dharmaratne']",0,89,10.1145/2636240.2636876,ACM,1
+research-article,Comparative impression analysis between real and virtual human skins,2014,"['Fumie Banba', 'Takayuki Itoh', 'Naruhito Toyoda', 'Hitomi Otaka']",0,49,10.1145/2636240.2636877,ACM,1
+research-article,An Android GPS-Based Navigation Application For Blind,2014,"['K K Nisha', 'H R Pruthvi', 'Shwetha N Hadimani', 'Geereddy Ram Mohana Reddy', 'T S Ashwin', 'Shridhar G Domanal']",6,370,10.1145/2636240.2636878,ACM,2
+research-article,A Feature Point Based Approach for Pose Variant Face Recognition,2014,"['Madhawa Gunasekara', 'Anuja T Dharmaratne', 'Damitha Sandaruwan']",1,127,10.1145/2636240.2636875,ACM,2
+research-article,Semantic Human Activity Detection in Videos,2014,"['Hirantha Weerarathna', 'Anuja T Dharmaratne']",0,47,10.1145/2636240.2636874,ACM,2
+research-article,Study on influence of the visibility in store lighting,2014,"['Hiroki Fujita', 'Yoshio Nakashima', 'Mamoru Takamatsu']",0,84,10.1145/2636240.2636872,ACM,1
+research-article,Participatory Data Analytics: Collaborative Interfaces for Data Composition and Visualisation,2014,"['Daniel Filonik', 'Markus Rittenbruch', 'Professor Marcus Foth']",4,118,10.1145/2636240.2636873,ACM,9
+research-article,Constructing collaborative services through augmented documents and objects,2013,"['Paolo Bottoni', 'Kamen D Kanev', 'Nikolay N Mirenkov']",1,122,10.1145/2493102.2493103,ACM,35
+research-article,Multilevel interaction model for hierarchical tasks in information visualization,2013,"['Lei Ren', 'Jin Cui', 'Yi Du', 'Guozhong Dai']",5,266,10.1145/2493102.2493104,ACM,17
+research-article,Visually modelling data intensive web applications to assist end-user development,2013,"['Vincenzo Deufemia', ""Christopher D'Souza"", 'Athula Ginige']",6,183,10.1145/2493102.2493105,ACM,25
+research-article,A microstructure evolution visualization method based on neutrosophic set theory and cellular automaton technique,2013,"['Haifeng Li', 'Dayi Yang', 'Yangyang Fu', 'Hujie Huang', 'Hongyuan Fang']",0,102,10.1145/2493102.2493106,ACM,22
+research-article,Intent-driven model synthesis,2013,"['Mofei Song', 'Feiqian Zhang', 'Zhengxing Sun', 'Yan Zhang']",0,118,10.1145/2493102.2493107,ACM,22
+research-article,Visual analysis of retweeting propagation network in a microblogging platform,2013,"['Quan Li', 'Huamin Qu', 'Li Chen', 'Robert Wang', 'Jun-Hai Yong', 'Detan Si']",10,284,10.1145/2493102.2493108,ACM,21
+research-article,ERELT: a faster alternative to the list-based interfaces for tree exploration and searching in mobile devices,2013,"['Abhishek P Chhetri', 'K. Zhang', 'Eakta Jain']",1,185,10.1145/2493102.2493109,ACM,19
+research-article,Time-space varying visual analysis of micro-blog sentiment,2013,"['Chenghai Zhang', 'Yuhua Liu', 'Changbo Wang']",6,354,10.1145/2493102.2493110,ACM,18
+research-article,Culture influence on aesthetic perception of Chinese and western paintings: evidence from eye movement patterns,2013,"['Zaijia Liu', 'Xianjunsam Zheng', 'Mingyang Wu', 'Rui Dong', 'Kaiping Peng']",0,386,10.1145/2493102.2493111,ACM,35
+research-article,Visualizing large trees with divide & conquer partition,2013,"['Jie Liang', 'Simeon J Simoff', 'Quang Vinh Nguyen', 'Maolin Huang']",9,267,10.1145/2493102.2493112,ACM,24
+research-article,3DRC: a novel technique in evaluating stakeholders project views,2013,"['Rossella Aiello', 'Giancarlo Nota', 'Gennaro Costagliola', 'Fabrizio Torre']",0,118,10.1145/2493102.2493113,ACM,23
+research-article,A novel map-based visualization method based on liquid modelling,2013,"['Robert P. Biuk-Aghai', 'Waihou Ao']",5,180,10.1145/2493102.2493114,ACM,10
+research-article,Euler diagram codes: interpretation and generation,2013,"['Paolo Bottoni', 'Gennaro Costagliola', 'Mattia de Rosa', 'Andrew Fish', 'Vittorio Fuccella']",1,97,10.1145/2493102.2493116,ACM,6
+research-article,Best view selection of 3D models based on unsupervised feature learning and discrimination ability,2013,"['Chenxi Li', 'Zhengxing Sun', 'Mofei Song', 'Yejia Zhang']",2,123,10.1145/2493102.2493118,ACM,3
+research-article,Visual and interactive analysis of a large collection of open data with the relative neighborhood graph,2013,"['Tianyang Liu', 'Fatma Bouali', 'Gilles Venturini']",0,149,10.1145/2493102.2493119,ACM,6
+research-article,Exploring mapping-based visualisations of large remote image databases,2013,"['William Plant', 'Gerald Schaefer']",1,118,10.1145/2493102.2493120,ACM,6
+research-article,A method of hierarchical time-series data visualization,2013,"['Ning Li', 'Zhifang Jiang', 'Zixiang Liu', 'Xiangxu Meng']",3,323,10.1145/2493102.2493121,ACM,5
+research-article,Air pollution data visualization based on the shape of a tree,2013,"['Xiaoting Bi', 'Zhifang Jiang', 'Shenghui Cheng', 'Xiangxu Meng']",0,171,10.1145/2493102.2493122,ACM,6
+research-article,Demonstrating data using storyboard visualization tool,2013,"['Gerry Derksen', 'Stan Ruecker', 'Tim Causer', 'Melissa M Terras']",2,258,10.1145/2493102.2493115,ACM,0
+research-article,Interaction and evaluation techniques for information visualization: future directions,2013,['Andreas Kerren'],0,,10.1145/2493102.2499784,ACM,0
+research-article,Interdisciplinary studies on information art & design,2013,['Yingqing Xu'],0,,10.1145/2493102.2499785,ACM,0
+research-article,"""Big picture"": mixed-initiative visual analytics of big data",2013,['Michelle Xue Zhou'],1,,10.1145/2493102.2499786,ACM,0
+research-article,Visualisation of large image collections,2013,['Gerald Schaefer'],0,,10.1145/2493102.2499787,ACM,0
+research-article,A fast texture-by-numbers synthesis method based on texture optimization,2012,"['Jing Fan', 'Xiaoying Shi', 'Zhan Zhou', 'Ying Tang']",0,199,10.1145/2397696.2397697,ACM,22
+research-article,A real-time visualization framework for IDS alerts,2012,"['Ying Zhao', 'Fangfang Zhou', 'Xiaoping Fan']",6,361,10.1145/2397696.2397698,ACM,19
+research-article,The shape coordinates system in visualization space,2012,"['Zhifang Jiang', 'Shenghui Cheng', 'Ruobo Xin', 'Xiangxu Meng']",1,106,10.1145/2397696.2397699,ACM,15
+research-article,VISA: a visual sentiment analysis system,2012,"['Dongxu Duan', 'Weihong Qian', 'Shimei Pan', 'Lei Shi', 'Chuang Lin']",17,709,10.1145/2397696.2397700,ACM,23
+research-article,Visualizing disease incidence in the context of socioeconomic factors,2012,"['Jared Shenson', 'Alark Joshi']",2,153,10.1145/2397696.2397701,ACM,39
+research-article,NewsVAT: an interactive visual analytics tool for news exploration,2012,"['Xiaojuan Liu', 'Xia Lin']",0,134,10.1145/2397696.2397702,ACM,9
+research-article,Timeseer: detecting interesting distributions in multiple time series data,2012,"['Tuannhon Dang', 'Leland K Wilkinson']",2,192,10.1145/2397696.2397703,ACM,15
+research-article,Generating time lines with virtual words for time-varying data visualization,2012,"['Li Yu', 'Aidong Lu', 'Weri Chen']",0,216,10.1145/2397696.2397704,ACM,32
+research-article,TabuVis: a light weight visual analytics system for multidimensional data,2012,"['Quang Vinh Nguyen', 'Yu Qian', 'Maolin Huang', 'Jiawan Zhang']",1,174,10.1145/2397696.2397705,ACM,9
+research-article,ExtractVis: dynamic visualization of extracting multidimensional data,2012,"['Zhao Xiao', 'Changbo Wang', 'Changbo Wang', 'Changbo Wang', 'Peng Ye', 'Yuhua Liu', 'Chenming Pang']",0,117,10.1145/2397696.2397706,ACM,13
+research-article,Continuous awareness: a visual mobile approach,2012,"['Cong Chen', 'K. Zhang']",2,199,10.1145/2397696.2397707,ACM,31
+research-article,Feeling the pulse of a wiki: visualization of recent changes in Wikipedia,2012,"['Robert P. Biuk-Aghai', 'Roy Chi Kit Chan']",0,124,10.1145/2397696.2397708,ACM,12
+research-article,Image-based irregular needling embroidery rendering,2012,"['Kewei Yang', 'Jie Zhou', 'Zhengxing Sun', 'Yi Li']",5,229,10.1145/2397696.2397709,ACM,13
+research-article,Evaluation of co-located and distributed collaborative visualization,2012,"['Xianlin Hu', 'Lane T Harrison', 'Aidong Lu', 'Li Yu', 'Huaguang Song', 'Jinzhu Gao']",0,136,10.1145/2397696.2397710,ACM,16
+research-article,Assessing user experience of interactive products: a Chinese questionnaire,2012,"['Shuqing Liu', 'Jiang Jian', 'Xianjunsam Zheng', 'Zaijia Liu', 'Guanmin Liu', 'Kaiping Peng']",2,336,10.1145/2397696.2397711,ACM,15
+research-article,An aggregation-based approach to quality evaluation of graph drawings,2012,"['Weidong Huang', 'Chuncheng Lin', 'Maolin Huang']",3,124,10.1145/2397696.2397712,ACM,10
+research-article,Designing visual analytics systems for organizational environments,2011,"['Xiaoyu Wang', 'Eric A. Bier', 'Thomas James Butkiewicz', 'William Ribarsky', 'Wenwen Dou']",0,313,10.1145/2016656.2016657,ACM,21
+research-article,Visualization of large category hierarchies,2011,"['Robert P. Biuk-Aghai', 'Cheongiao Pang', 'Felix Hon Hou Cheang']",1,261,10.1145/2016656.2016658,ACM,13
+research-article,A visual analysis tool that smoothly switches between tabular forms and parallel coordinates,2011,"['Kazuo Misue', 'Takashi Yuki']",0,135,10.1145/2016656.2016659,ACM,9
+research-article,A hyperbolic tree based interface for exploring massive files,2011,"['Zhirong Zeng', 'Kun Wang', 'Dongxing Teng', ""Hong'an Wang"", 'Guozhong Dai']",0,232,10.1145/2016656.2016660,ACM,18
+research-article,MusiCube: a visual music recommendation system featuring interactive evolutionary computing,2011,"['Yuri Saito', 'Takayuki Itoh']",16,385,10.1145/2016656.2016661,ACM,9
+research-article,Support of self-management for chronic kidney failure patients,2011,"['Yasuhiko Sota', 'Keisuke Yamamoto', 'Masahito Hirakawa', 'Souichiro Doi', 'Yasuhisa Yamamoto']",4,276,10.1145/2016656.2016662,ACM,15
+research-article,Geo-tagged mobile photo sharing in collaborative emergency management,2011,"['Anna Wu', 'Xin Yan', 'Xiaolong(Luke) Zhang']",10,384,10.1145/2016656.2016663,ACM,29
+research-article,Empirical studies of pen tilting performance in pen-based user interfaces,2011,"['Feng Tian', 'Xiang Cao', 'Fei Lyu', 'Guozhong Dai', 'Xiaolong(Luke) Zhang', ""Hong'an Wang""]",0,239,10.1145/2016656.2016664,ACM,24
+research-article,Controlled dataflow visual programming languages,2011,"['Philip Trevor Cox', 'Simon Gauvin']",3,407,10.1145/2016656.2016665,ACM,29
+research-article,Visualizing inference process of a rule engine,2011,"['Jian Shi', 'Ying Qiao', ""Hong'an Wang""]",1,300,10.1145/2016656.2016666,ACM,17
+research-article,Coaxial interactive viewer: a multi-dimensional data visualization with spatial distortional views,2011,"['Jiawan Zhang', 'Yi Zhang', 'Lei Fu', 'Qinghui Guo', 'Maolin Huang']",1,244,10.1145/2016656.2016667,ACM,19
+research-article,InfoShape: high-level views of multidimensional information,2011,"['Jie Hao', 'K. Zhang']",1,134,10.1145/2016656.2016668,ACM,31
+research-article,Visual analysis of people's mobility pattern from mobile phone data,2011,"['Jiansu Pu', 'Panpan Xu', 'Huamin Qu', 'Weiwei Cui', 'Siyuan Liu', 'Lionel Ming Shuan Ni']",4,569,10.1145/2016656.2016669,ACM,22
+research-article,A graph-based fuzzy linguistic metadata schema for describing spatial relationships,2011,"['Yu Su', 'Margaret H Dunham']",0,144,10.1145/2016656.2016670,ACM,24
+research-article,SFViz: interest-based friends exploration and recommendation in social networks,2011,"['Liang Gou', 'Fang You', 'Jun Guo', 'Luqi Wu', 'Xiaolong(Luke) Zhang']",37,942,10.1145/2016656.2016671,ACM,51
+research-article,Visual signatures for financial time series,2011,"['SuTe Lei', 'K. Zhang']",6,419,10.1145/2016656.2016672,ACM,26
+keynote,Beyond the interface: a distributed cognition perspective,2010,['James D Hollan'],0,,10.1145/1865841.1865843,ACM,0
+keynote,The promise of zoomable user interfaces,2010,['Ben Bederson'],4,,10.1145/1865841.1865844,ACM,0
+keynote,Browsing a highly connected information space: can natural language processing help?,2010,['CÉcile Laurance Paris'],0,,10.1145/1865841.1865845,ACM,0
+keynote,"2D and 3D conceptual design sketching: interface, modelling and progress",2010,['Shengfeng Qin'],0,,10.1145/1865841.1865846,ACM,0
+research-article,Difference of inflow and outflow based 3D streamline placement,2010,"['Shaorong Wang', 'Yisong Chen', 'Sheng Li', 'Guoping Wang']",0,110,10.1145/1865841.1865848,ACM,18
+research-article,The research of the regional pollutant concentration visualization based on the particles,2010,"['Zhifang Jiang', 'Miaomiao Li', 'Xiangxu Meng', 'Yan Huang', 'Shenfang Li']",0,90,10.1145/1865841.1865849,ACM,13
+research-article,Simulating self-organizing behaviors of fish school,2010,"['Ye Yuan', 'Zhongke Wu']",1,138,10.1145/1865841.1865850,ACM,10
+research-article,Visualization of BP neural network using parallel coordinates,2010,['Jing Zhao'],0,160,10.1145/1865841.1865852,ACM,10
+research-article,Column-based cluster and bar axis density in parallel coordinates,2010,"['Lei Tang', 'Xueqing Li', 'Wenjing Qi', 'Zhifang Jiang']",0,97,10.1145/1865841.1865853,ACM,23
+research-article,Exploring the relative importance of crossing number and crossing angle,2010,"['Weidong Huang', 'Maolin Huang']",7,143,10.1145/1865841.1865854,ACM,23
+research-article,Semantic comparison of structured visual dataflow programs,2010,"['Philip Trevor Cox', 'Anh Dang']",2,137,10.1145/1865841.1865856,ACM,24
+research-article,A model driven visualization platform for workflow,2010,"['Jiayao Chen', 'Xueqing Li', 'Jingzhao Yang']",0,93,10.1145/1865841.1865857,ACM,10
+research-article,Process visualization to solve the travelling salesman problem,2010,"['J Joshua Thomas', 'Choychee Ken']",2,219,10.1145/1865841.1865858,ACM,13
+research-article,A developing framework for interactive temporal data visualization,2010,"['Xiongfei Luo', 'Dongxing Teng', 'Wei Liu', 'Feng Tian', 'Guozhong Dai', ""Hong'an Wang""]",1,227,10.1145/1865841.1865860,ACM,29
+research-article,Cooperative concept map based on cognitive model for visual analysis,2010,"['Yi Du', 'Cui-Xia Ma', 'Dongxing Teng', 'Guozhong Dai']",0,139,10.1145/1865841.1865861,ACM,29
+research-article,Interactive visualization with user perspective: a new concept,2010,"['Quang Vinh Nguyen', 'Simeon J Simoff', 'Maolin Huang']",2,144,10.1145/1865841.1865862,ACM,11
+research-article,Harvesting discourse strategies for rapid prototyping of tailored information delivery systems,2010,"['Shijian Lu', 'CÉcile Laurance Paris']",0,60,10.1145/1865841.1865864,ACM,13
+research-article,TagNetLens: multiscale visualization of knowledge structures in social tags,2010,"['Liang Gou', 'Shaoke Zhang', 'Jing Wang', 'Xiaolong(Luke) Zhang']",1,121,10.1145/1865841.1865865,ACM,42
+research-article,Visually searching the web for structural content,2010,"['Hirofumi Miyamoto', 'Masahito Hirakawa']",0,105,10.1145/1865841.1865866,ACM,18
+research-article,A visual analytics system for financial time-series data,2010,"['SuTe Lei', 'K. Zhang']",6,593,10.1145/1865841.1865868,ACM,22
+research-article,Event-based approach to money laundering data analysis and visualization,2010,"['Tatman Cheong', 'Yain Whar Si']",4,295,10.1145/1865841.1865869,ACM,33
+research-article,An interactive sensemaking framework for mobile visual analytics,2010,"['Anna Wu', 'Xiaolong(Luke) Zhang', 'Guoray Cai']",2,293,10.1145/1865841.1865870,ACM,58

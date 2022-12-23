@@ -51,7 +51,7 @@
   },
   "javascript:void(0)": {
     "id": "javascript:void(0)",
-    "name": "+ 6",
+    "name": "+ 2",
     "url": "https://dl.acm.orgjavascript:void(0)"
   },
   "60007912": {
@@ -1778,5 +1778,80 @@
     "id": "60078106",
     "name": "UOW Malaysia KDU College",
     "url": "https://dl.acm.org/institution/60078106"
+  },
+  "60029622": {
+    "id": "60029622",
+    "name": "University of Bergen",
+    "url": "https://dl.acm.org/institution/60029622"
+  },
+  "60092945": {
+    "id": "60092945",
+    "name": "King Abdullah University of Science and Technology",
+    "url": "https://dl.acm.org/institution/60092945"
+  },
+  "60073460": {
+    "id": "60073460",
+    "name": "China University of Mining and Technology",
+    "url": "https://dl.acm.org/institution/60073460"
+  },
+  "60006297": {
+    "id": "60006297",
+    "name": "University of Pennsylvania",
+    "url": "https://dl.acm.org/institution/60006297"
+  },
+  "60025641": {
+    "id": "60025641",
+    "name": "University of Freiburg",
+    "url": "https://dl.acm.org/institution/60025641"
+  },
+  "60106017": {
+    "id": "60106017",
+    "name": "Paris-Saclay University",
+    "url": "https://dl.acm.org/institution/60106017"
+  },
+  "60030280": {
+    "id": "60030280",
+    "name": "Helse Bergen Haukeland University Hospital",
+    "url": "https://dl.acm.org/institution/60030280"
+  },
+  "60006288": {
+    "id": "60006288",
+    "name": "Delft University of Technology",
+    "url": "https://dl.acm.org/institution/60006288"
+  },
+  "60027271": {
+    "id": "60027271",
+    "name": "Naval Research Laboratory",
+    "url": "https://dl.acm.org/institution/60027271"
+  },
+  "60025111": {
+    "id": "60025111",
+    "name": "The University of North Carolina at Chapel Hill",
+    "url": "https://dl.acm.org/institution/60025111"
+  },
+  "60029681": {
+    "id": "60029681",
+    "name": "Pontifical Catholic University of Chile",
+    "url": "https://dl.acm.org/institution/60029681"
+  },
+  "60020486": {
+    "id": "60020486",
+    "name": "University of Bern",
+    "url": "https://dl.acm.org/institution/60020486"
+  },
+  "60031155": {
+    "id": "60031155",
+    "name": "University of Patras",
+    "url": "https://dl.acm.org/institution/60031155"
+  },
+  "60021447": {
+    "id": "60021447",
+    "name": "Research Academic Computer Technology Institute, Patras",
+    "url": "https://dl.acm.org/institution/60021447"
+  },
+  "60015150": {
+    "id": "60015150",
+    "name": "Imperial College London",
+    "url": "https://dl.acm.org/institution/60015150"
   }
 }

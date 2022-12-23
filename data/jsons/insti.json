@@ -212,14 +212,14 @@
     "name": "Queen Mary University of London",
     "url": "https://dl.acm.org/institution/60022109",
     "ad0": "London",
-    "ad1": "U.K."
+    "ad1": "United Kingdom"
   },
   "60033387": {
     "id": "60033387",
     "name": "University of London",
     "url": "https://dl.acm.org/institution/60033387",
     "ad0": "London",
-    "ad1": "U.K."
+    "ad1": "United Kingdom"
   },
   "60028333": {
     "id": "60028333",
@@ -416,7 +416,7 @@
     "url": "https://dl.acm.org/institution/60010818",
     "ad0": "Canterbury",
     "ad1": "Kent",
-    "ad2": "U.K."
+    "ad2": "United Kingdom"
   },
   "60000944": {
     "id": "60000944",
@@ -470,7 +470,7 @@
     "url": "https://dl.acm.org/institution/60022132",
     "ad0": "St Andrews",
     "ad1": "Fife",
-    "ad2": "U.K."
+    "ad2": "United Kingdom"
   },
   "60025746": {
     "id": "60025746",
@@ -758,7 +758,7 @@
     "name": "Royal College of Art",
     "url": "https://dl.acm.org/institution/60104069",
     "ad0": "London",
-    "ad1": "U.K."
+    "ad1": "United Kingdom"
   },
   "60012630": {
     "id": "60012630",
@@ -798,7 +798,7 @@
     "url": "https://dl.acm.org/institution/60032760",
     "ad0": "Hatfield",
     "ad1": "Hertfordshire",
-    "ad2": "U.K."
+    "ad2": "United Kingdom"
   },
   "60009941": {
     "id": "60009941",
@@ -1149,7 +1149,7 @@
     "url": "https://dl.acm.org/institution/60007919",
     "ad0": "Brighton",
     "ad1": "East Sussex",
-    "ad2": "U.K."
+    "ad2": "United Kingdom"
   },
   "60019722": {
     "id": "60019722",
@@ -1205,7 +1205,7 @@
     "url": "https://dl.acm.org/institution/60031101",
     "ad0": "Cambridge",
     "ad1": "Cambridgeshire",
-    "ad2": "U.K."
+    "ad2": "United Kingdom"
   },
   "60119999": {
     "id": "60119999",
@@ -1213,7 +1213,7 @@
     "url": "https://dl.acm.org/institution/60119999",
     "ad0": "Cambridge",
     "ad1": "Cambridgeshire",
-    "ad2": "U.K."
+    "ad2": "United Kingdom"
   },
   "60027272": {
     "id": "60027272",
@@ -1221,7 +1221,7 @@
     "url": "https://dl.acm.org/institution/60027272",
     "ad0": "Edinburgh",
     "ad1": "Scotland",
-    "ad2": "U.K."
+    "ad2": "United Kingdom"
   },
   "60030480": {
     "id": "60030480",
@@ -1229,7 +1229,7 @@
     "url": "https://dl.acm.org/institution/60030480",
     "ad0": "Bath",
     "ad1": "Somerset",
-    "ad2": "U.K."
+    "ad2": "United Kingdom"
   },
   "60027561": {
     "id": "60027561",
@@ -1632,7 +1632,7 @@
     "url": "https://dl.acm.org/institution/60020623",
     "ad0": "Uxbridge",
     "ad1": "Middlesex",
-    "ad2": "U.K."
+    "ad2": "United Kingdom"
   },
   "60007573": {
     "id": "60007573",
@@ -1640,7 +1640,7 @@
     "url": "https://dl.acm.org/institution/60007573",
     "ad0": "Glasgow",
     "ad1": "Scotland",
-    "ad2": "U.K."
+    "ad2": "United Kingdom"
   },
   "60112903": {
     "id": "60112903",
@@ -1787,7 +1787,7 @@
     "url": "https://dl.acm.org/institution/60008877",
     "ad0": "Dundee",
     "ad1": "Scotland",
-    "ad2": "U.K."
+    "ad2": "United Kingdom"
   },
   "60025702": {
     "id": "60025702",
@@ -2338,7 +2338,7 @@
     "url": "https://dl.acm.org/institution/60014551",
     "ad0": "Birmingham",
     "ad1": "West Midlands",
-    "ad2": "U.K."
+    "ad2": "United Kingdom"
   },
   "60000891": {
     "id": "60000891",
@@ -2346,7 +2346,7 @@
     "url": "https://dl.acm.org/institution/60000891",
     "ad0": "Loughborough",
     "ad1": "Leicestershire",
-    "ad2": "U.K."
+    "ad2": "United Kingdom"
   },
   "60006029": {
     "id": "60006029",
@@ -2354,7 +2354,7 @@
     "url": "https://dl.acm.org/institution/60006029",
     "ad0": "Nottingham",
     "ad1": "Nottinghamshire",
-    "ad2": "U.K."
+    "ad2": "United Kingdom"
   },
   "60000112": {
     "id": "60000112",
@@ -2362,7 +2362,7 @@
     "url": "https://dl.acm.org/institution/60000112",
     "ad0": "Norwich",
     "ad1": "Norfolk",
-    "ad2": "U.K."
+    "ad2": "United Kingdom"
   },
   "60026305": {
     "id": "60026305",
@@ -2393,7 +2393,7 @@
     "name": "University College London",
     "url": "https://dl.acm.org/institution/60022148",
     "ad0": "London",
-    "ad1": "U.K."
+    "ad1": "United Kingdom"
   },
   "60031706": {
     "id": "60031706",
@@ -2639,7 +2639,7 @@
     "name": "Microsoft Research Cambridge",
     "url": "https://dl.acm.org/institution/60098463",
     "ad0": "Cambridge",
-    "ad1": "U.K."
+    "ad1": "United Kingdom"
   },
   "60023004": {
     "id": "60023004",
@@ -2750,7 +2750,7 @@
     "name": "Northumbria University",
     "url": "https://dl.acm.org/institution/60004636",
     "ad0": "London",
-    "ad1": "U.K."
+    "ad1": "United Kingdom"
   },
   "60010591": {
     "id": "60010591",
@@ -2774,5 +2774,124 @@
     "url": "https://dl.acm.org/institution/60272122",
     "ad0": "Tianjin",
     "ad1": "China"
+  },
+  "60029622": {
+    "id": "60029622",
+    "name": "University of Bergen",
+    "url": "https://dl.acm.org/institution/60029622",
+    "ad0": "Bergen",
+    "ad1": "Hordaland",
+    "ad2": "Norway"
+  },
+  "60092945": {
+    "id": "60092945",
+    "name": "King Abdullah University of Science and Technology",
+    "url": "https://dl.acm.org/institution/60092945",
+    "ad0": "Jeddah",
+    "ad1": "Saudi Arabia"
+  },
+  "60073460": {
+    "id": "60073460",
+    "name": "China University of Mining and Technology",
+    "url": "https://dl.acm.org/institution/60073460",
+    "ad0": "Xuzhou",
+    "ad1": "Jiangsu",
+    "ad2": "China"
+  },
+  "60006297": {
+    "id": "60006297",
+    "name": "University of Pennsylvania",
+    "url": "https://dl.acm.org/institution/60006297",
+    "ad0": "Philadelphia",
+    "ad1": "PA",
+    "ad2": "United States"
+  },
+  "60025641": {
+    "id": "60025641",
+    "name": "University of Freiburg",
+    "url": "https://dl.acm.org/institution/60025641",
+    "ad0": "Freiburg im Breisgau",
+    "ad1": "Baden-Wurttemberg",
+    "ad2": "Germany"
+  },
+  "60106017": {
+    "id": "60106017",
+    "name": "Paris-Saclay University",
+    "url": "https://dl.acm.org/institution/60106017",
+    "ad0": "Saint-Aubin",
+    "ad1": "Ile-de-France",
+    "ad2": "France"
+  },
+  "60030280": {
+    "id": "60030280",
+    "name": "Helse Bergen Haukeland University Hospital",
+    "url": "https://dl.acm.org/institution/60030280",
+    "ad0": "Bergen",
+    "ad1": "Hordaland",
+    "ad2": "Norway"
+  },
+  "60006288": {
+    "id": "60006288",
+    "name": "Delft University of Technology",
+    "url": "https://dl.acm.org/institution/60006288",
+    "ad0": "Delft",
+    "ad1": "Zuid-Holland",
+    "ad2": "Netherlands"
+  },
+  "60027271": {
+    "id": "60027271",
+    "name": "Naval Research Laboratory",
+    "url": "https://dl.acm.org/institution/60027271",
+    "ad0": "Washington",
+    "ad1": "D.C.",
+    "ad2": "DC",
+    "ad3": "United States"
+  },
+  "60025111": {
+    "id": "60025111",
+    "name": "The University of North Carolina at Chapel Hill",
+    "url": "https://dl.acm.org/institution/60025111",
+    "ad0": "Chapel Hill",
+    "ad1": "NC",
+    "ad2": "United States"
+  },
+  "60029681": {
+    "id": "60029681",
+    "name": "Pontifical Catholic University of Chile",
+    "url": "https://dl.acm.org/institution/60029681",
+    "ad0": "Santiago",
+    "ad1": "RM",
+    "ad2": "Chile"
+  },
+  "60020486": {
+    "id": "60020486",
+    "name": "University of Bern",
+    "url": "https://dl.acm.org/institution/60020486",
+    "ad0": "Bern",
+    "ad1": "BE",
+    "ad2": "Switzerland"
+  },
+  "60031155": {
+    "id": "60031155",
+    "name": "University of Patras",
+    "url": "https://dl.acm.org/institution/60031155",
+    "ad0": "Patra",
+    "ad1": "Achaia",
+    "ad2": "Greece"
+  },
+  "60021447": {
+    "id": "60021447",
+    "name": "Research Academic Computer Technology Institute, Patras",
+    "url": "https://dl.acm.org/institution/60021447",
+    "ad0": "Patra",
+    "ad1": "Archaea",
+    "ad2": "Greece"
+  },
+  "60015150": {
+    "id": "60015150",
+    "name": "Imperial College London",
+    "url": "https://dl.acm.org/institution/60015150",
+    "ad0": "London",
+    "ad1": "United Kingdom"
   }
 }
