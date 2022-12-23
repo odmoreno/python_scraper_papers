@@ -14,11 +14,10 @@
         "url": "https:/dl.acm.org/profile/81336489058"
       }
     ],
-    "citations": "8",
-    "downloads": "346",
+    "citations": "11",
+    "downloads": "353",
     "doi": "10.1145/2636240.2636844",
     "extra": [
-      "August 2014",
       "pp 1–8",
       "https://doi.org/10.1145/2636240.2636844"
     ],
@@ -38,17 +37,12 @@
       {
         "name": "Minoti Hiremath",
         "url": "https:/dl.acm.org/profile/99658638173"
-      },
-      {
-        "name": " + 2",
-        "url": "https:/dl.acm.orgjavascript:void(0)"
       }
     ],
     "citations": "1",
     "downloads": "98",
     "doi": "10.1145/2636240.2636850",
     "extra": [
-      "August 2014",
       "pp 9–18",
       "https://doi.org/10.1145/2636240.2636850"
     ],
@@ -64,17 +58,12 @@
       {
         "name": "Tze-Haw Huang",
         "url": "https:/dl.acm.org/profile/81430601375"
-      },
-      {
-        "name": " + 3",
-        "url": "https:/dl.acm.orgjavascript:void(0)"
       }
     ],
     "citations": "3",
-    "downloads": "161",
+    "downloads": "166",
     "doi": "10.1145/2636240.2636841",
     "extra": [
-      "August 2014",
       "pp 19–28",
       "https://doi.org/10.1145/2636240.2636841"
     ],
@@ -97,10 +86,9 @@
       }
     ],
     "citations": "11",
-    "downloads": "232",
+    "downloads": "241",
     "doi": "10.1145/2636240.2636839",
     "extra": [
-      "August 2014",
       "pp 29–38",
       "https://doi.org/10.1145/2636240.2636839"
     ],
@@ -120,17 +108,12 @@
       {
         "name": "Hsiang-Yun Wu",
         "url": "https:/dl.acm.org/profile/81440610884"
-      },
-      {
-        "name": " + 3",
-        "url": "https:/dl.acm.orgjavascript:void(0)"
       }
     ],
     "citations": "1",
     "downloads": "121",
     "doi": "10.1145/2636240.2636858",
     "extra": [
-      "August 2014",
       "pp 39–48",
       "https://doi.org/10.1145/2636240.2636858"
     ],
@@ -150,17 +133,12 @@
       {
         "name": "Panpan Xu",
         "url": "https:/dl.acm.org/profile/81487645560"
-      },
-      {
-        "name": " + 2",
-        "url": "https:/dl.acm.orgjavascript:void(0)"
       }
     ],
     "citations": "3",
-    "downloads": "201",
+    "downloads": "203",
     "doi": "10.1145/2636240.2636854",
     "extra": [
-      "August 2014",
       "pp 49–57",
       "https://doi.org/10.1145/2636240.2636854"
     ],
@@ -180,17 +158,12 @@
       {
         "name": "John C. Grundy",
         "url": "https:/dl.acm.org/profile/81100261843"
-      },
-      {
-        "name": " + 1",
-        "url": "https:/dl.acm.orgjavascript:void(0)"
       }
     ],
     "citations": "1",
-    "downloads": "73",
+    "downloads": "75",
     "doi": "10.1145/2636240.2636843",
     "extra": [
-      "August 2014",
       "pp 58–67",
       "https://doi.org/10.1145/2636240.2636843"
     ],
@@ -213,10 +186,9 @@
       }
     ],
     "citations": "0",
-    "downloads": "85",
+    "downloads": "86",
     "doi": "10.1145/2636240.2636840",
     "extra": [
-      "August 2014",
       "pp 68–77",
       "https://doi.org/10.1145/2636240.2636840"
     ],
@@ -239,10 +211,9 @@
       }
     ],
     "citations": "5",
-    "downloads": "365",
+    "downloads": "369",
     "doi": "10.1145/2636240.2636846",
     "extra": [
-      "August 2014",
       "pp 78–87",
       "https://doi.org/10.1145/2636240.2636846"
     ],
@@ -260,15 +231,26 @@
         "url": "https:/dl.acm.org/profile/99658631520"
       },
       {
-        "name": " + 4",
-        "url": "https:/dl.acm.orgjavascript:void(0)"
+        "name": "Vincenzo Deufemia",
+        "url": "https:/dl.acm.org/profile/81100475245"
+      },
+      {
+        "name": "Christopher D'Souza",
+        "url": "https:/dl.acm.org/profile/82459248057"
+      },
+      {
+        "name": "Athula Ginige",
+        "url": "https:/dl.acm.org/profile/81100317930"
+      },
+      {
+        "name": "Giuseppe Polese",
+        "url": "https:/dl.acm.org/profile/81100439669"
       }
     ],
     "citations": "1",
     "downloads": "87",
     "doi": "10.1145/2636240.2636855",
     "extra": [
-      "August 2014",
       "pp 88–97",
       "https://doi.org/10.1145/2636240.2636855"
     ],
@@ -286,15 +268,54 @@
         "url": "https:/dl.acm.org/profile/99658641837"
       },
       {
-        "name": " + 11",
-        "url": "https:/dl.acm.orgjavascript:void(0)"
+        "name": "Quang Vinh Nguyen",
+        "url": "https:/dl.acm.org/profile/81100511332"
+      },
+      {
+        "name": "Anthony J. Maeder",
+        "url": "https:/dl.acm.org/profile/81100346001"
+      },
+      {
+        "name": "Rhys Tague",
+        "url": "https:/dl.acm.org/profile/81479660336"
+      },
+      {
+        "name": "Gregory S. Kolt",
+        "url": "https:/dl.acm.org/profile/99658642575"
+      },
+      {
+        "name": "Trevor N. Savage",
+        "url": "https:/dl.acm.org/profile/99658640354"
+      },
+      {
+        "name": "Corneel Vandelanotte",
+        "url": "https:/dl.acm.org/profile/99658640097"
+      },
+      {
+        "name": "Mitch J. Duncan",
+        "url": "https:/dl.acm.org/profile/99658642637"
+      },
+      {
+        "name": "Cristina M. Caperchione",
+        "url": "https:/dl.acm.org/profile/99658641098"
+      },
+      {
+        "name": "Richard R. Rosenkranz",
+        "url": "https:/dl.acm.org/profile/99658640509"
+      },
+      {
+        "name": "Anetta Van Itallie",
+        "url": "https:/dl.acm.org/profile/99658641075"
+      },
+      {
+        "name": "W. Kerry Mummery",
+        "url": "https:/dl.acm.org/profile/99658639143"
       }
     ],
     "citations": "3",
-    "downloads": "187",
+    "downloads": "192",
     "doi": "10.1145/2636240.2636842",
     "extra": [
-      "August 2014",
       "pp 98–105",
       "https://doi.org/10.1145/2636240.2636842"
     ],
@@ -316,15 +337,26 @@
         "url": "https:/dl.acm.org/profile/99658638866"
       },
       {
-        "name": " + 4",
-        "url": "https:/dl.acm.orgjavascript:void(0)"
+        "name": "Susmitha Pulakhandam",
+        "url": "https:/dl.acm.org/profile/99658638735"
+      },
+      {
+        "name": "Subhayan Mukherjee",
+        "url": "https:/dl.acm.org/profile/99658639930"
+      },
+      {
+        "name": "T. S. Ashwin",
+        "url": "https:/dl.acm.org/profile/99658639596"
+      },
+      {
+        "name": "G. Ram Mohan Reddy",
+        "url": "https:/dl.acm.org/profile/81481646797"
       }
     ],
     "citations": "2",
-    "downloads": "261",
+    "downloads": "262",
     "doi": "10.1145/2636240.2636847",
     "extra": [
-      "August 2014",
       "pp 106–112",
       "https://doi.org/10.1145/2636240.2636847"
     ],
@@ -346,15 +378,18 @@
         "url": "https:/dl.acm.org/profile/81549576556"
       },
       {
-        "name": " + 2",
-        "url": "https:/dl.acm.orgjavascript:void(0)"
+        "name": "Shu-Qing Liu",
+        "url": "https:/dl.acm.org/profile/81549254156"
+      },
+      {
+        "name": "Kang Zhang",
+        "url": "https:/dl.acm.org/profile/81350576955"
       }
     ],
     "citations": "2",
-    "downloads": "141",
+    "downloads": "142",
     "doi": "10.1145/2636240.2636857",
     "extra": [
-      "August 2014",
       "pp 113–120",
       "https://doi.org/10.1145/2636240.2636857"
     ],
@@ -376,15 +411,18 @@
         "url": "https:/dl.acm.org/profile/81350597955"
       },
       {
-        "name": " + 2",
-        "url": "https:/dl.acm.orgjavascript:void(0)"
+        "name": "Ruibing Yang",
+        "url": "https:/dl.acm.org/profile/99658642128"
+      },
+      {
+        "name": "Xiaoli Ma",
+        "url": "https:/dl.acm.org/profile/99658640108"
       }
     ],
     "citations": "1",
-    "downloads": "147",
+    "downloads": "148",
     "doi": "10.1145/2636240.2636845",
     "extra": [
-      "August 2014",
       "pp 121–128",
       "https://doi.org/10.1145/2636240.2636845"
     ],
@@ -407,10 +445,9 @@
       }
     ],
     "citations": "8",
-    "downloads": "204",
+    "downloads": "207",
     "doi": "10.1145/2636240.2636856",
     "extra": [
-      "August 2014",
       "pp 129–138",
       "https://doi.org/10.1145/2636240.2636856"
     ],
@@ -433,10 +470,9 @@
       }
     ],
     "citations": "5",
-    "downloads": "221",
+    "downloads": "227",
     "doi": "10.1145/2636240.2636853",
     "extra": [
-      "August 2014",
       "pp 139–148",
       "https://doi.org/10.1145/2636240.2636853"
     ],
@@ -458,15 +494,18 @@
         "url": "https:/dl.acm.org/profile/81339530296"
       },
       {
-        "name": " + 2",
-        "url": "https:/dl.acm.orgjavascript:void(0)"
+        "name": "Peter Rodgers",
+        "url": "https:/dl.acm.org/profile/81100642599"
+      },
+      {
+        "name": "John Howse",
+        "url": "https:/dl.acm.org/profile/81548004966"
       }
     ],
     "citations": "10",
-    "downloads": "162",
+    "downloads": "164",
     "doi": "10.1145/2636240.2636838",
     "extra": [
-      "August 2014",
       "pp 149–158",
       "https://doi.org/10.1145/2636240.2636838"
     ],
@@ -489,10 +528,9 @@
       }
     ],
     "citations": "0",
-    "downloads": "215",
+    "downloads": "216",
     "doi": "10.1145/2636240.2636848",
     "extra": [
-      "August 2014",
       "pp 159–164",
       "https://doi.org/10.1145/2636240.2636848"
     ],
@@ -511,10 +549,9 @@
       }
     ],
     "citations": "2",
-    "downloads": "120",
+    "downloads": "122",
     "doi": "10.1145/2636240.2636851",
     "extra": [
-      "August 2014",
       "pp 165–170",
       "https://doi.org/10.1145/2636240.2636851"
     ],
@@ -536,15 +573,18 @@
         "url": "https:/dl.acm.org/profile/99658638983"
       },
       {
-        "name": " + 2",
-        "url": "https:/dl.acm.orgjavascript:void(0)"
+        "name": "Kate Dunn",
+        "url": "https:/dl.acm.org/profile/99658638791"
+      },
+      {
+        "name": "Tomasz Bednarz",
+        "url": "https:/dl.acm.org/profile/81464670479"
       }
     ],
-    "citations": "4",
-    "downloads": "217",
+    "citations": "5",
+    "downloads": "220",
     "doi": "10.1145/2636240.2636852",
     "extra": [
-      "August 2014",
       "pp 171–177",
       "https://doi.org/10.1145/2636240.2636852"
     ],
@@ -567,542 +607,11 @@
       }
     ],
     "citations": "9",
-    "downloads": "156",
+    "downloads": "159",
     "doi": "10.1145/2636240.2636849",
     "extra": [
-      "August 2014",
       "pp 178–187",
       "https://doi.org/10.1145/2636240.2636849"
-    ],
-    "publisher": "ACM",
-    "conference_isbn": "978-1-4503-2765-7"
-  },
-  "10.1145/2636240.2636862": {
-    "type": "research-article",
-    "title": "Hyperbolic Tree + Time Disc: Visualizing Hierarchical Time-series Data",
-    "url": "https://doi.org/10.1145/2636240.2636862",
-    "year": "2014",
-    "authors": [
-      {
-        "name": "Ning Li",
-        "url": "https:/dl.acm.org/profile/81550168756"
-      },
-      {
-        "name": "Zhifang Jiang",
-        "url": "https:/dl.acm.org/profile/81548917056"
-      },
-      {
-        "name": " + 2",
-        "url": "https:/dl.acm.orgjavascript:void(0)"
-      }
-    ],
-    "citations": "2",
-    "downloads": "112",
-    "doi": "10.1145/2636240.2636862",
-    "extra": [
-      "August 2014",
-      "pp 188–191",
-      "https://doi.org/10.1145/2636240.2636862"
-    ],
-    "publisher": "ACM",
-    "conference_isbn": "978-1-4503-2765-7"
-  },
-  "10.1145/2636240.2636860": {
-    "type": "research-article",
-    "title": "Design Implications from the Preliminary Results of a Telemedicine Patient-Technology Interaction Study",
-    "url": "https://doi.org/10.1145/2636240.2636860",
-    "year": "2014",
-    "authors": [
-      {
-        "name": "Sakib Jalil",
-        "url": "https:/dl.acm.org/profile/99658641472"
-      },
-      {
-        "name": "Trina Myers",
-        "url": "https:/dl.acm.org/profile/81333490090"
-      },
-      {
-        "name": " + 1",
-        "url": "https:/dl.acm.orgjavascript:void(0)"
-      }
-    ],
-    "citations": "2",
-    "downloads": "143",
-    "doi": "10.1145/2636240.2636860",
-    "extra": [
-      "August 2014",
-      "pp 192–195",
-      "https://doi.org/10.1145/2636240.2636860"
-    ],
-    "publisher": "ACM",
-    "conference_isbn": "978-1-4503-2765-7"
-  },
-  "10.1145/2636240.2636871": {
-    "type": "research-article",
-    "title": "Radial vs. Cartesian Revisited: A Comparison of Space-Filling Visualizations",
-    "url": "https://doi.org/10.1145/2636240.2636871",
-    "year": "2014",
-    "authors": [
-      {
-        "name": "Minwook Kim",
-        "url": "https:/dl.acm.org/profile/99658637818"
-      },
-      {
-        "name": "Geoffrey M. Draper",
-        "url": "https:/dl.acm.org/profile/81430638972"
-      }
-    ],
-    "citations": "1",
-    "downloads": "173",
-    "doi": "10.1145/2636240.2636871",
-    "extra": [
-      "August 2014",
-      "pp 196–199",
-      "https://doi.org/10.1145/2636240.2636871"
-    ],
-    "publisher": "ACM",
-    "conference_isbn": "978-1-4503-2765-7"
-  },
-  "10.1145/2636240.2636863": {
-    "type": "research-article",
-    "title": "Vision Based Laser Controlled Keyboard System for the Disabled",
-    "url": "https://doi.org/10.1145/2636240.2636863",
-    "year": "2014",
-    "authors": [
-      {
-        "name": "Hiba Ahsan",
-        "url": "https:/dl.acm.org/profile/99658637904"
-      },
-      {
-        "name": "Aarti Prabhu",
-        "url": "https:/dl.acm.org/profile/99658639837"
-      },
-      {
-        "name": " + 4",
-        "url": "https:/dl.acm.orgjavascript:void(0)"
-      }
-    ],
-    "citations": "2",
-    "downloads": "111",
-    "doi": "10.1145/2636240.2636863",
-    "extra": [
-      "August 2014",
-      "pp 200–203",
-      "https://doi.org/10.1145/2636240.2636863"
-    ],
-    "publisher": "ACM",
-    "conference_isbn": "978-1-4503-2765-7"
-  },
-  "10.1145/2636240.2636865": {
-    "type": "research-article",
-    "title": "Large Scale, Collaborative, Invasive Species Planning and Visualisation Tool",
-    "url": "https://doi.org/10.1145/2636240.2636865",
-    "year": "2014",
-    "authors": [
-      {
-        "name": "Dylan Mathiesen",
-        "url": "https:/dl.acm.org/profile/81550383556"
-      },
-      {
-        "name": "Trina Myers",
-        "url": "https:/dl.acm.org/profile/81333490090"
-      },
-      {
-        "name": " + 1",
-        "url": "https:/dl.acm.orgjavascript:void(0)"
-      }
-    ],
-    "citations": "0",
-    "downloads": "75",
-    "doi": "10.1145/2636240.2636865",
-    "extra": [
-      "August 2014",
-      "pp 204–207",
-      "https://doi.org/10.1145/2636240.2636865"
-    ],
-    "publisher": "ACM",
-    "conference_isbn": "978-1-4503-2765-7"
-  },
-  "10.1145/2636240.2636868": {
-    "type": "research-article",
-    "title": "Using Your Fingers to Think: Interactive Exploration of Subjective Constraints",
-    "url": "https://doi.org/10.1145/2636240.2636868",
-    "year": "2014",
-    "authors": [
-      {
-        "name": "Andrew Bennett",
-        "url": "https:/dl.acm.org/profile/99658639470"
-      },
-      {
-        "name": "Christopher Lueg",
-        "url": "https:/dl.acm.org/profile/81100508565"
-      }
-    ],
-    "citations": "0",
-    "downloads": "77",
-    "doi": "10.1145/2636240.2636868",
-    "extra": [
-      "August 2014",
-      "pp 208–211",
-      "https://doi.org/10.1145/2636240.2636868"
-    ],
-    "publisher": "ACM",
-    "conference_isbn": "978-1-4503-2765-7"
-  },
-  "10.1145/2636240.2636866": {
-    "type": "research-article",
-    "title": "Metaphors in Interactive Visual Analytics",
-    "url": "https://doi.org/10.1145/2636240.2636866",
-    "year": "2014",
-    "authors": [
-      {
-        "name": "Jacob Cybulski",
-        "url": "https:/dl.acm.org/profile/81100333166"
-      },
-      {
-        "name": "Susan Keller",
-        "url": "https:/dl.acm.org/profile/99658640486"
-      },
-      {
-        "name": " + 1",
-        "url": "https:/dl.acm.orgjavascript:void(0)"
-      }
-    ],
-    "citations": "5",
-    "downloads": "275",
-    "doi": "10.1145/2636240.2636866",
-    "extra": [
-      "August 2014",
-      "pp 212–215",
-      "https://doi.org/10.1145/2636240.2636866"
-    ],
-    "publisher": "ACM",
-    "conference_isbn": "978-1-4503-2765-7"
-  },
-  "10.1145/2636240.2636861": {
-    "type": "research-article",
-    "title": "Photomosaic Generation for Photograph Collection Browsing",
-    "url": "https://doi.org/10.1145/2636240.2636861",
-    "year": "2014",
-    "authors": [
-      {
-        "name": "Kiho Sakamoto",
-        "url": "https:/dl.acm.org/profile/99658637874"
-      },
-      {
-        "name": "Takayuki Itoh",
-        "url": "https:/dl.acm.org/profile/81100329777"
-      }
-    ],
-    "citations": "1",
-    "downloads": "80",
-    "doi": "10.1145/2636240.2636861",
-    "extra": [
-      "August 2014",
-      "pp 216–219",
-      "https://doi.org/10.1145/2636240.2636861"
-    ],
-    "publisher": "ACM",
-    "conference_isbn": "978-1-4503-2765-7"
-  },
-  "10.1145/2636240.2636867": {
-    "type": "research-article",
-    "title": "Super Resolution to Identify License Plate Numbers in Low Resolution Videos",
-    "url": "https://doi.org/10.1145/2636240.2636867",
-    "year": "2014",
-    "authors": [
-      {
-        "name": "Lakkhana Mallikarachchi",
-        "url": "https:/dl.acm.org/profile/99658637926"
-      },
-      {
-        "name": " + 1",
-        "url": "https:/dl.acm.orgjavascript:void(0)"
-      }
-    ],
-    "citations": "1",
-    "downloads": "198",
-    "doi": "10.1145/2636240.2636867",
-    "extra": [
-      "August 2014",
-      "pp 220–223",
-      "https://doi.org/10.1145/2636240.2636867"
-    ],
-    "publisher": "ACM",
-    "conference_isbn": "978-1-4503-2765-7"
-  },
-  "10.1145/2636240.2636870": {
-    "type": "research-article",
-    "title": "Monocular Human Motion Tracking in Latent Space based on Sequential Immune Genetic Algorithm",
-    "url": "https://doi.org/10.1145/2636240.2636870",
-    "year": "2014",
-    "authors": [
-      {
-        "name": "Yi Li",
-        "url": "https:/dl.acm.org/profile/81549490456"
-      },
-      {
-        "name": "Zhenfeng Wu",
-        "url": "https:/dl.acm.org/profile/99658639117"
-      },
-      {
-        "name": "Ting Sun",
-        "url": "https:/dl.acm.org/profile/99658639236"
-      }
-    ],
-    "citations": "0",
-    "downloads": "66",
-    "doi": "10.1145/2636240.2636870",
-    "extra": [
-      "August 2014",
-      "pp 224–227",
-      "https://doi.org/10.1145/2636240.2636870"
-    ],
-    "publisher": "ACM",
-    "conference_isbn": "978-1-4503-2765-7"
-  },
-  "10.1145/2636240.2636864": {
-    "type": "research-article",
-    "title": "Data Visualisation Trends in Mobile Augmented Reality Applications",
-    "url": "https://doi.org/10.1145/2636240.2636864",
-    "year": "2014",
-    "authors": [
-      {
-        "name": "Callum Parker",
-        "url": "https:/dl.acm.org/profile/99658641366"
-      },
-      {
-        "name": "Martin Tomitsch",
-        "url": "https:/dl.acm.org/profile/81100138830"
-      }
-    ],
-    "citations": "4",
-    "downloads": "514",
-    "doi": "10.1145/2636240.2636864",
-    "extra": [
-      "August 2014",
-      "pp 228–231",
-      "https://doi.org/10.1145/2636240.2636864"
-    ],
-    "publisher": "ACM",
-    "conference_isbn": "978-1-4503-2765-7"
-  },
-  "10.1145/2636240.2636869": {
-    "type": "research-article",
-    "title": "Design of a Tangible Data Visualization",
-    "url": "https://doi.org/10.1145/2636240.2636869",
-    "year": "2014",
-    "authors": [
-      {
-        "name": "Alireza Rezaeian",
-        "url": "https:/dl.acm.org/profile/99658641418"
-      },
-      {
-        "name": "Jared Donovan",
-        "url": "https:/dl.acm.org/profile/81100611794"
-      }
-    ],
-    "citations": "6",
-    "downloads": "365",
-    "doi": "10.1145/2636240.2636869",
-    "extra": [
-      "August 2014",
-      "pp 232–235",
-      "https://doi.org/10.1145/2636240.2636869"
-    ],
-    "publisher": "ACM",
-    "conference_isbn": "978-1-4503-2765-7"
-  },
-  "10.1145/2636240.2636876": {
-    "type": "research-article",
-    "title": "Facial Expression Generation in 3D Space",
-    "url": "https://doi.org/10.1145/2636240.2636876",
-    "year": "2014",
-    "authors": [
-      {
-        "name": "P. K. S. Udana",
-        "url": "https:/dl.acm.org/profile/99658642936"
-      },
-      {
-        "name": "Anuja Dharmaratne",
-        "url": "https:/dl.acm.org/profile/81100553482"
-      }
-    ],
-    "citations": "0",
-    "downloads": "89",
-    "doi": "10.1145/2636240.2636876",
-    "extra": [
-      "August 2014",
-      "pp 236–237",
-      "https://doi.org/10.1145/2636240.2636876"
-    ],
-    "publisher": "ACM",
-    "conference_isbn": "978-1-4503-2765-7"
-  },
-  "10.1145/2636240.2636877": {
-    "type": "research-article",
-    "title": "Comparative impression analysis between real and virtual human skins",
-    "url": "https://doi.org/10.1145/2636240.2636877",
-    "year": "2014",
-    "authors": [
-      {
-        "name": "Fumie Banba",
-        "url": "https:/dl.acm.org/profile/99658639255"
-      },
-      {
-        "name": "Takayuki Itoh",
-        "url": "https:/dl.acm.org/profile/81100329777"
-      },
-      {
-        "name": " + 2",
-        "url": "https:/dl.acm.orgjavascript:void(0)"
-      }
-    ],
-    "citations": "0",
-    "downloads": "49",
-    "doi": "10.1145/2636240.2636877",
-    "extra": [
-      "August 2014",
-      "pp 238–239",
-      "https://doi.org/10.1145/2636240.2636877"
-    ],
-    "publisher": "ACM",
-    "conference_isbn": "978-1-4503-2765-7"
-  },
-  "10.1145/2636240.2636878": {
-    "type": "research-article",
-    "title": "An Android GPS-Based Navigation Application For Blind",
-    "url": "https://doi.org/10.1145/2636240.2636878",
-    "year": "2014",
-    "authors": [
-      {
-        "name": "K. K. Nisha",
-        "url": "https:/dl.acm.org/profile/99659429762"
-      },
-      {
-        "name": "H. R. Pruthvi",
-        "url": "https:/dl.acm.org/profile/99658641805"
-      },
-      {
-        "name": " + 4",
-        "url": "https:/dl.acm.orgjavascript:void(0)"
-      }
-    ],
-    "citations": "6",
-    "downloads": "370",
-    "doi": "10.1145/2636240.2636878",
-    "extra": [
-      "August 2014",
-      "pp 240–241",
-      "https://doi.org/10.1145/2636240.2636878"
-    ],
-    "publisher": "ACM",
-    "conference_isbn": "978-1-4503-2765-7"
-  },
-  "10.1145/2636240.2636875": {
-    "type": "research-article",
-    "title": "A Feature Point Based Approach for Pose Variant Face Recognition",
-    "url": "https://doi.org/10.1145/2636240.2636875",
-    "year": "2014",
-    "authors": [
-      {
-        "name": "Madhawa Gunasekara",
-        "url": "https:/dl.acm.org/profile/99658638639"
-      },
-      {
-        "name": " + 2",
-        "url": "https:/dl.acm.orgjavascript:void(0)"
-      }
-    ],
-    "citations": "1",
-    "downloads": "127",
-    "doi": "10.1145/2636240.2636875",
-    "extra": [
-      "August 2014",
-      "pp 242–243",
-      "https://doi.org/10.1145/2636240.2636875"
-    ],
-    "publisher": "ACM",
-    "conference_isbn": "978-1-4503-2765-7"
-  },
-  "10.1145/2636240.2636874": {
-    "type": "research-article",
-    "title": "Semantic Human Activity Detection in Videos",
-    "url": "https://doi.org/10.1145/2636240.2636874",
-    "year": "2014",
-    "authors": [
-      {
-        "name": "Hirantha Weerarathna",
-        "url": "https:/dl.acm.org/profile/99658641797"
-      },
-      {
-        "name": " + 1",
-        "url": "https:/dl.acm.orgjavascript:void(0)"
-      }
-    ],
-    "citations": "0",
-    "downloads": "47",
-    "doi": "10.1145/2636240.2636874",
-    "extra": [
-      "August 2014",
-      "pp 244–245",
-      "https://doi.org/10.1145/2636240.2636874"
-    ],
-    "publisher": "ACM",
-    "conference_isbn": "978-1-4503-2765-7"
-  },
-  "10.1145/2636240.2636872": {
-    "type": "research-article",
-    "title": "Study on influence of the visibility in store lighting",
-    "url": "https://doi.org/10.1145/2636240.2636872",
-    "year": "2014",
-    "authors": [
-      {
-        "name": "Hiroki Fujita",
-        "url": "https:/dl.acm.org/profile/99658640964"
-      },
-      {
-        "name": "Yoshio Nakashima",
-        "url": "https:/dl.acm.org/profile/99658639441"
-      },
-      {
-        "name": " + 1",
-        "url": "https:/dl.acm.orgjavascript:void(0)"
-      }
-    ],
-    "citations": "0",
-    "downloads": "84",
-    "doi": "10.1145/2636240.2636872",
-    "extra": [
-      "August 2014",
-      "pp 246–247",
-      "https://doi.org/10.1145/2636240.2636872"
-    ],
-    "publisher": "ACM",
-    "conference_isbn": "978-1-4503-2765-7"
-  },
-  "10.1145/2636240.2636873": {
-    "type": "research-article",
-    "title": "Participatory Data Analytics: Collaborative Interfaces for Data Composition and Visualisation",
-    "url": "https://doi.org/10.1145/2636240.2636873",
-    "year": "2014",
-    "authors": [
-      {
-        "name": "Daniel Filonik",
-        "url": "https:/dl.acm.org/profile/81440621162"
-      },
-      {
-        "name": " + 2",
-        "url": "https:/dl.acm.orgjavascript:void(0)"
-      }
-    ],
-    "citations": "4",
-    "downloads": "118",
-    "doi": "10.1145/2636240.2636873",
-    "extra": [
-      "August 2014",
-      "pp 248–249",
-      "https://doi.org/10.1145/2636240.2636873"
     ],
     "publisher": "ACM",
     "conference_isbn": "978-1-4503-2765-7"

@@ -1,0 +1,706 @@
+{
+  "10.1145/3554944.3554948": {
+    "type": "research-article",
+    "title": "How Students Design Visual Interfaces for Information Visualization Tools",
+    "url": "https://doi.org/10.1145/3554944.3554948",
+    "year": "2022",
+    "authors": [
+      {
+        "name": "Michael Burch",
+        "url": "https:/dl.acm.org/profile/81331488994"
+      }
+    ],
+    "citations": "0",
+    "downloads": "30",
+    "doi": "10.1145/3554944.3554948",
+    "extra": [
+      "Article No.: 1",
+      "pp 1–8",
+      "https://doi.org/10.1145/3554944.3554948"
+    ],
+    "publisher": "ACM",
+    "conference_isbn": "978-1-4503-9806-0"
+  },
+  "10.1145/3554944.3554949": {
+    "type": "research-article",
+    "title": "Abstract and Concrete Materials: What to use for Visualization Onboarding for a Treemap Visualization?",
+    "url": "https://doi.org/10.1145/3554944.3554949",
+    "year": "2022",
+    "authors": [
+      {
+        "name": "Christina Stoiber",
+        "url": "https:/dl.acm.org/profile/99659473900"
+      },
+      {
+        "name": "Florian Grassinger",
+        "url": "https:/dl.acm.org/profile/99659915944"
+      },
+      {
+        "name": "Wolfgang Aigner",
+        "url": "https:/dl.acm.org/profile/81503660777"
+      }
+    ],
+    "citations": "0",
+    "downloads": "34",
+    "doi": "10.1145/3554944.3554949",
+    "extra": [
+      "Article No.: 2",
+      "pp 1–9",
+      "https://doi.org/10.1145/3554944.3554949"
+    ],
+    "publisher": "ACM",
+    "conference_isbn": "978-1-4503-9806-0"
+  },
+  "10.1145/3554944.3554950": {
+    "type": "research-article",
+    "title": "Content-Driven Layout for Visualization Design",
+    "url": "https://doi.org/10.1145/3554944.3554950",
+    "year": "2022",
+    "authors": [
+      {
+        "name": "Yngve S. Kristiansen",
+        "url": "https:/dl.acm.org/profile/99660262783"
+      },
+      {
+        "name": "Laura Garrison",
+        "url": "https:/dl.acm.org/profile/81438597240"
+      },
+      {
+        "name": "Stefan Bruckner",
+        "url": "https:/dl.acm.org/profile/81100294147"
+      }
+    ],
+    "citations": "0",
+    "downloads": "25",
+    "doi": "10.1145/3554944.3554950",
+    "extra": [
+      "Article No.: 3",
+      "pp 1–8",
+      "https://doi.org/10.1145/3554944.3554950"
+    ],
+    "publisher": "ACM",
+    "conference_isbn": "978-1-4503-9806-0"
+  },
+  "10.1145/3554944.3554951": {
+    "type": "research-article",
+    "title": "A Comparative Study of Color Between Abstract Paintings, Oil Paintings and Chinese Ink Paintings",
+    "url": "https://doi.org/10.1145/3554944.3554951",
+    "year": "2022",
+    "authors": [
+      {
+        "name": "Zhenbao Fan",
+        "url": "https:/dl.acm.org/profile/99659201074"
+      },
+      {
+        "name": "Yixuan Zhu",
+        "url": "https:/dl.acm.org/profile/99660626204"
+      },
+      {
+        "name": "Christine Yan",
+        "url": "https:/dl.acm.org/profile/99660628227"
+      },
+      {
+        "name": "Yufan Li",
+        "url": "https:/dl.acm.org/profile/99660629158"
+      },
+      {
+        "name": "Kang Zhang",
+        "url": "https:/dl.acm.org/profile/99660626111"
+      }
+    ],
+    "citations": "0",
+    "downloads": "19",
+    "doi": "10.1145/3554944.3554951",
+    "extra": [
+      "Article No.: 4",
+      "pp 1–8",
+      "https://doi.org/10.1145/3554944.3554951"
+    ],
+    "publisher": "ACM",
+    "conference_isbn": "978-1-4503-9806-0"
+  },
+  "10.1145/3554944.3554952": {
+    "type": "research-article",
+    "title": "Gaze-Guided Class Activation Mapping: Leverage Human Visual Attention for Network Attention in Chest X-rays Classification",
+    "url": "https://doi.org/10.1145/3554944.3554952",
+    "year": "2022",
+    "authors": [
+      {
+        "name": "Hongzhi Zhu",
+        "url": "https:/dl.acm.org/profile/99660543689"
+      },
+      {
+        "name": "Septimiu Salcudean",
+        "url": "https:/dl.acm.org/profile/81100239077"
+      },
+      {
+        "name": "Robert Rohling",
+        "url": "https:/dl.acm.org/profile/81100291054"
+      }
+    ],
+    "citations": "0",
+    "downloads": "12",
+    "doi": "10.1145/3554944.3554952",
+    "extra": [
+      "Article No.: 5",
+      "pp 1–8",
+      "https://doi.org/10.1145/3554944.3554952"
+    ],
+    "publisher": "ACM",
+    "conference_isbn": "978-1-4503-9806-0"
+  },
+  "10.1145/3554944.3554953": {
+    "type": "short-paper",
+    "title": "Conditions of Preserving Mental Images by Contour Deformation",
+    "url": "https://doi.org/10.1145/3554944.3554953",
+    "year": "2022",
+    "authors": [
+      {
+        "name": "Kazuo Misue",
+        "url": "https:/dl.acm.org/profile/81100517120"
+      }
+    ],
+    "citations": "0",
+    "downloads": "7",
+    "doi": "10.1145/3554944.3554953",
+    "extra": [
+      "Article No.: 6",
+      "pp 1–5",
+      "https://doi.org/10.1145/3554944.3554953"
+    ],
+    "publisher": "ACM",
+    "conference_isbn": "978-1-4503-9806-0"
+  },
+  "10.1145/3554944.3554971": {
+    "type": "research-article",
+    "title": "Group Diagrams for Simplified Representation of Scanpaths",
+    "url": "https://doi.org/10.1145/3554944.3554971",
+    "year": "2022",
+    "authors": [
+      {
+        "name": "Peter Schaefer",
+        "url": "https:/dl.acm.org/profile/99660629942"
+      },
+      {
+        "name": "Nils Rodrigues",
+        "url": "https:/dl.acm.org/profile/99659194260"
+      },
+      {
+        "name": "Daniel Weiskopf",
+        "url": "https:/dl.acm.org/profile/81100214723"
+      },
+      {
+        "name": "Sabine Storandt",
+        "url": "https:/dl.acm.org/profile/81493658660"
+      }
+    ],
+    "citations": "0",
+    "downloads": "27",
+    "doi": "10.1145/3554944.3554971",
+    "extra": [
+      "Article No.: 7",
+      "pp 1–8",
+      "https://doi.org/10.1145/3554944.3554971"
+    ],
+    "publisher": "ACM",
+    "conference_isbn": "978-1-4503-9806-0"
+  },
+  "10.1145/3554944.3554947": {
+    "type": "research-article",
+    "title": "Accelerating GPU Rendering of 2D Visualizations Using Resolution Scaling and Temporal Reconstruction",
+    "url": "https://doi.org/10.1145/3554944.3554947",
+    "year": "2022",
+    "authors": [
+      {
+        "name": "Michael Becher",
+        "url": "https:/dl.acm.org/profile/81414600759"
+      },
+      {
+        "name": "Moritz Heinemann",
+        "url": "https:/dl.acm.org/profile/99659344838"
+      },
+      {
+        "name": "Thomas Marmann",
+        "url": "https:/dl.acm.org/profile/99660628660"
+      },
+      {
+        "name": "Guido Reina",
+        "url": "https:/dl.acm.org/profile/81336492267"
+      },
+      {
+        "name": "Daniel Weiskopf",
+        "url": "https:/dl.acm.org/profile/81100214723"
+      },
+      {
+        "name": "Thomas Ertl",
+        "url": "https:/dl.acm.org/profile/81332497603"
+      }
+    ],
+    "citations": "0",
+    "downloads": "13",
+    "doi": "10.1145/3554944.3554947",
+    "extra": [
+      "Article No.: 8",
+      "pp 1–8",
+      "https://doi.org/10.1145/3554944.3554947"
+    ],
+    "publisher": "ACM",
+    "conference_isbn": "978-1-4503-9806-0"
+  },
+  "10.1145/3554944.3554945": {
+    "type": "research-article",
+    "title": "Animated Transitions for Small-Scale Visualizations",
+    "url": "https://doi.org/10.1145/3554944.3554945",
+    "year": "2022",
+    "authors": [
+      {
+        "name": "Franziska Huth",
+        "url": "https:/dl.acm.org/profile/82258913557"
+      },
+      {
+        "name": "Tanja Blascheck",
+        "url": "https:/dl.acm.org/profile/83458713657"
+      },
+      {
+        "name": "Steffen Koch",
+        "url": "https:/dl.acm.org/profile/81436599209"
+      },
+      {
+        "name": "Thomas Ertl",
+        "url": "https:/dl.acm.org/profile/81332497603"
+      }
+    ],
+    "citations": "0",
+    "downloads": "18",
+    "doi": "10.1145/3554944.3554945",
+    "extra": [
+      "Article No.: 9",
+      "pp 1–8",
+      "https://doi.org/10.1145/3554944.3554945"
+    ],
+    "publisher": "ACM",
+    "conference_isbn": "978-1-4503-9806-0"
+  },
+  "10.1145/3554944.3554957": {
+    "type": "research-article",
+    "title": "LegisLatio: A visualization Tool for Legislative Roll-call Vote Data",
+    "url": "https://doi.org/10.1145/3554944.3554957",
+    "year": "2022",
+    "authors": [
+      {
+        "name": "Gonzalo Gabriel Méndez",
+        "url": "https:/dl.acm.org/profile/84460003257"
+      },
+      {
+        "name": "Oscar Moreno",
+        "url": "https:/dl.acm.org/profile/99659915372"
+      },
+      {
+        "name": "Patricio Mendoza",
+        "url": "https:/dl.acm.org/profile/81492646025"
+      }
+    ],
+    "citations": "0",
+    "downloads": "8",
+    "doi": "10.1145/3554944.3554957",
+    "extra": [
+      "Article No.: 10",
+      "pp 1–8",
+      "https://doi.org/10.1145/3554944.3554957"
+    ],
+    "publisher": "ACM",
+    "conference_isbn": "978-1-4503-9806-0"
+  },
+  "10.1145/3554944.3554958": {
+    "type": "short-paper",
+    "title": "ICEVis: Interactive Clustering Exploration for tumor sub-region analysis in multiparametric cancer imaging",
+    "url": "https://doi.org/10.1145/3554944.3554958",
+    "year": "2022",
+    "authors": [
+      {
+        "name": "Eric Mörth",
+        "url": "https:/dl.acm.org/profile/99659982875"
+      },
+      {
+        "name": "Tanja Eichner",
+        "url": "https:/dl.acm.org/profile/99660627923"
+      },
+      {
+        "name": "Ingfrid Haldorsen",
+        "url": "https:/dl.acm.org/profile/99659982427"
+      },
+      {
+        "name": "Stefan Bruckner",
+        "url": "https:/dl.acm.org/profile/81100294147"
+      },
+      {
+        "name": "Noeska N. Smit",
+        "url": "https:/dl.acm.org/profile/99658770659"
+      }
+    ],
+    "citations": "0",
+    "downloads": "24",
+    "doi": "10.1145/3554944.3554958",
+    "extra": [
+      "Article No.: 11",
+      "pp 1–5",
+      "https://doi.org/10.1145/3554944.3554958"
+    ],
+    "publisher": "ACM",
+    "conference_isbn": "978-1-4503-9806-0"
+  },
+  "10.1145/3554944.3554959": {
+    "type": "short-paper",
+    "title": "Visual Analysis of Spatio-Temporal Earthquake Events",
+    "url": "https://doi.org/10.1145/3554944.3554959",
+    "year": "2022",
+    "authors": [
+      {
+        "name": "Michael Burch",
+        "url": "https:/dl.acm.org/profile/81331488994"
+      },
+      {
+        "name": "Indre Tauroseviciute",
+        "url": "https:/dl.acm.org/profile/99660629514"
+      },
+      {
+        "name": "Guillermo Mateos Guridi",
+        "url": "https:/dl.acm.org/profile/99660629108"
+      }
+    ],
+    "citations": "0",
+    "downloads": "19",
+    "doi": "10.1145/3554944.3554959",
+    "extra": [
+      "Article No.: 12",
+      "pp 1–5",
+      "https://doi.org/10.1145/3554944.3554959"
+    ],
+    "publisher": "ACM",
+    "conference_isbn": "978-1-4503-9806-0"
+  },
+  "10.1145/3554944.3554954": {
+    "type": "research-article",
+    "title": "Investigation of Two Complexity Sources for Statistical Graphs",
+    "url": "https://doi.org/10.1145/3554944.3554954",
+    "year": "2022",
+    "authors": [
+      {
+        "name": "Mark A. Livingston",
+        "url": "https:/dl.acm.org/profile/81100365560"
+      },
+      {
+        "name": "Derek Brock",
+        "url": "https:/dl.acm.org/profile/81100455302"
+      }
+    ],
+    "citations": "0",
+    "downloads": "6",
+    "doi": "10.1145/3554944.3554954",
+    "extra": [
+      "Article No.: 13",
+      "pp 1–8",
+      "https://doi.org/10.1145/3554944.3554954"
+    ],
+    "publisher": "ACM",
+    "conference_isbn": "978-1-4503-9806-0"
+  },
+  "10.1145/3554944.3554970": {
+    "type": "short-paper",
+    "title": "Toward In-Situ Authoring of Situated Visualization with Chorded Keyboards",
+    "url": "https://doi.org/10.1145/3554944.3554970",
+    "year": "2022",
+    "authors": [
+      {
+        "name": "Sarah Dosdall",
+        "url": "https:/dl.acm.org/profile/99660628528"
+      },
+      {
+        "name": "Katrin Angerbauer",
+        "url": "https:/dl.acm.org/profile/99658703665"
+      },
+      {
+        "name": "Leonel Merino",
+        "url": "https:/dl.acm.org/profile/99659082618"
+      },
+      {
+        "name": "Michael Sedlmair",
+        "url": "https:/dl.acm.org/profile/81375621529"
+      },
+      {
+        "name": "Daniel Weiskopf",
+        "url": "https:/dl.acm.org/profile/81100214723"
+      }
+    ],
+    "citations": "0",
+    "downloads": "19",
+    "doi": "10.1145/3554944.3554970",
+    "extra": [
+      "Article No.: 14",
+      "pp 1–5",
+      "https://doi.org/10.1145/3554944.3554970"
+    ],
+    "publisher": "ACM",
+    "conference_isbn": "978-1-4503-9806-0"
+  },
+  "10.1145/3554944.3554956": {
+    "type": "short-paper",
+    "title": "MolecuSense: Using Force-Feedback Gloves for Creating and Interacting with Ball-and-Stick Molecules in VR",
+    "url": "https://doi.org/10.1145/3554944.3554956",
+    "year": "2022",
+    "authors": [
+      {
+        "name": "Patrick Gebhardt",
+        "url": "https:/dl.acm.org/profile/99660626169"
+      },
+      {
+        "name": "Xingyao Yu",
+        "url": "https:/dl.acm.org/profile/99659529527"
+      },
+      {
+        "name": "Andreas Köhn",
+        "url": "https:/dl.acm.org/profile/99660626347"
+      },
+      {
+        "name": "Michael Sedlmair",
+        "url": "https:/dl.acm.org/profile/81375621529"
+      }
+    ],
+    "citations": "0",
+    "downloads": "28",
+    "doi": "10.1145/3554944.3554956",
+    "extra": [
+      "Article No.: 15",
+      "pp 1–5",
+      "https://doi.org/10.1145/3554944.3554956"
+    ],
+    "publisher": "ACM",
+    "conference_isbn": "978-1-4503-9806-0"
+  },
+  "10.1145/3554944.3554960": {
+    "type": "poster",
+    "title": "Visual Similarity Analysis of Geospatial Properties for Swiss Municipalities",
+    "url": "https://doi.org/10.1145/3554944.3554960",
+    "year": "2022",
+    "authors": [
+      {
+        "name": "Yves Staudt",
+        "url": "https:/dl.acm.org/profile/99659635934"
+      },
+      {
+        "name": "Michael Burch",
+        "url": "https:/dl.acm.org/profile/81331488994"
+      },
+      {
+        "name": "Alexander Van Schie",
+        "url": "https:/dl.acm.org/profile/99660486149"
+      },
+      {
+        "name": "Heiko Rölke",
+        "url": "https:/dl.acm.org/profile/99660627909"
+      }
+    ],
+    "citations": "0",
+    "downloads": "5",
+    "doi": "10.1145/3554944.3554960",
+    "extra": [
+      "Article No.: 16",
+      "pp 1–4",
+      "https://doi.org/10.1145/3554944.3554960"
+    ],
+    "publisher": "ACM",
+    "conference_isbn": "978-1-4503-9806-0"
+  },
+  "10.1145/3554944.3554961": {
+    "type": "poster",
+    "title": "A Benchmark for the Use of Topic Models for Text Visualization Tasks",
+    "url": "https://doi.org/10.1145/3554944.3554961",
+    "year": "2022",
+    "authors": [
+      {
+        "name": "Daniel Atzberger",
+        "url": "https:/dl.acm.org/profile/99659915322"
+      },
+      {
+        "name": "Tim Cech",
+        "url": "https:/dl.acm.org/profile/99660544079"
+      },
+      {
+        "name": "Willy Scheibel",
+        "url": "https:/dl.acm.org/profile/99659051346"
+      },
+      {
+        "name": "Daniel Limberger",
+        "url": "https:/dl.acm.org/profile/82458918757"
+      },
+      {
+        "name": "Matthias Trapp",
+        "url": "https:/dl.acm.org/profile/81375606710"
+      },
+      {
+        "name": "Jürgen Döllner",
+        "url": "https:/dl.acm.org/profile/81100019985"
+      }
+    ],
+    "citations": "0",
+    "downloads": "16",
+    "doi": "10.1145/3554944.3554961",
+    "extra": [
+      "Article No.: 17",
+      "pp 1–4",
+      "https://doi.org/10.1145/3554944.3554961"
+    ],
+    "publisher": "ACM",
+    "conference_isbn": "978-1-4503-9806-0"
+  },
+  "10.1145/3554944.3554962": {
+    "type": "poster",
+    "title": "Pi-Experience – Making 62.8 Trillion Digits Come Alive",
+    "url": "https://doi.org/10.1145/3554944.3554962",
+    "year": "2022",
+    "authors": [
+      {
+        "name": "Bruno Frey",
+        "url": "https:/dl.acm.org/profile/99660628797"
+      },
+      {
+        "name": "Alexander Van Schie",
+        "url": "https:/dl.acm.org/profile/99660486149"
+      }
+    ],
+    "citations": "0",
+    "downloads": "7",
+    "doi": "10.1145/3554944.3554962",
+    "extra": [
+      "Article No.: 18",
+      "pp 1–4",
+      "https://doi.org/10.1145/3554944.3554962"
+    ],
+    "publisher": "ACM",
+    "conference_isbn": "978-1-4503-9806-0"
+  },
+  "10.1145/3554944.3554963": {
+    "type": "poster",
+    "title": "An Inertial Representation of Search Results",
+    "url": "https://doi.org/10.1145/3554944.3554963",
+    "year": "2022",
+    "authors": [
+      {
+        "name": "Yannis Panagis",
+        "url": "https:/dl.acm.org/profile/81100493586"
+      },
+      {
+        "name": "Robert Spence",
+        "url": "https:/dl.acm.org/profile/81100397330"
+      }
+    ],
+    "citations": "0",
+    "downloads": "6",
+    "doi": "10.1145/3554944.3554963",
+    "extra": [
+      "Article No.: 19",
+      "pp 1–2",
+      "https://doi.org/10.1145/3554944.3554963"
+    ],
+    "publisher": "ACM",
+    "conference_isbn": "978-1-4503-9806-0"
+  },
+  "10.1145/3554944.3554964": {
+    "type": "poster",
+    "title": "Investigating Color-Object Associations With Eye Tracking",
+    "url": "https://doi.org/10.1145/3554944.3554964",
+    "year": "2022",
+    "authors": [
+      {
+        "name": "Sabrina Zahner",
+        "url": "https:/dl.acm.org/profile/99660629076"
+      },
+      {
+        "name": "Edina Misini",
+        "url": "https:/dl.acm.org/author/Misini%2C+Edina"
+      },
+      {
+        "name": "Keshina Karunananthan",
+        "url": "https:/dl.acm.org/profile/99660628905"
+      },
+      {
+        "name": "Gabriel Lüchinger",
+        "url": "https:/dl.acm.org/profile/99660628728"
+      },
+      {
+        "name": "Sabrina Lindau",
+        "url": "https:/dl.acm.org/profile/99660377534"
+      },
+      {
+        "name": "Michael Burch",
+        "url": "https:/dl.acm.org/profile/81331488994"
+      }
+    ],
+    "citations": "0",
+    "downloads": "11",
+    "doi": "10.1145/3554944.3554964",
+    "extra": [
+      "Article No.: 20",
+      "pp 1–2",
+      "https://doi.org/10.1145/3554944.3554964"
+    ],
+    "publisher": "ACM",
+    "conference_isbn": "978-1-4503-9806-0"
+  },
+  "10.1145/3554944.3554965": {
+    "type": "poster",
+    "title": "Improving data monitoring systems in biosphere reserves",
+    "url": "https://doi.org/10.1145/3554944.3554965",
+    "year": "2022",
+    "authors": [
+      {
+        "name": "Nadine Christen",
+        "url": "https:/dl.acm.org/profile/99660628970"
+      }
+    ],
+    "citations": "0",
+    "downloads": "10",
+    "doi": "10.1145/3554944.3554965",
+    "extra": [
+      "Article No.: 21",
+      "pp 1–3",
+      "https://doi.org/10.1145/3554944.3554965"
+    ],
+    "publisher": "ACM",
+    "conference_isbn": "978-1-4503-9806-0"
+  },
+  "10.1145/3554944.3554966": {
+    "type": "poster",
+    "title": "Explorative Data Analysis of the Number Pi",
+    "url": "https://doi.org/10.1145/3554944.3554966",
+    "year": "2022",
+    "authors": [
+      {
+        "name": "Yves Staudt",
+        "url": "https:/dl.acm.org/profile/99659635934"
+      },
+      {
+        "name": "Thomas Keller",
+        "url": "https:/dl.acm.org/profile/99660627947"
+      },
+      {
+        "name": "Heiko Rölke",
+        "url": "https:/dl.acm.org/profile/99660627909"
+      },
+      {
+        "name": "Michael Burch",
+        "url": "https:/dl.acm.org/profile/81331488994"
+      }
+    ],
+    "citations": "0",
+    "downloads": "6",
+    "doi": "10.1145/3554944.3554966",
+    "extra": [
+      "Article No.: 22",
+      "pp 1–2",
+      "https://doi.org/10.1145/3554944.3554966"
+    ],
+    "publisher": "ACM",
+    "conference_isbn": "978-1-4503-9806-0"
+  }
+}

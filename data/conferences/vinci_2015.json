@@ -15,10 +15,9 @@
       }
     ],
     "citations": "7",
-    "downloads": "182",
+    "downloads": "184",
     "doi": "10.1145/2801040.2801054",
     "extra": [
-      "August 2015",
       "pp 1–8",
       "https://doi.org/10.1145/2801040.2801054"
     ],
@@ -38,17 +37,12 @@
       {
         "name": "Hotaka Takizawa",
         "url": "https:/dl.acm.org/profile/81100070397"
-      },
-      {
-        "name": " + 3",
-        "url": "https:/dl.acm.orgjavascript:void(0)"
       }
     ],
     "citations": "2",
-    "downloads": "72",
+    "downloads": "73",
     "doi": "10.1145/2801040.2801043",
     "extra": [
-      "August 2015",
       "pp 9–12",
       "https://doi.org/10.1145/2801040.2801043"
     ],
@@ -68,17 +62,12 @@
       {
         "name": "Guido Reina",
         "url": "https:/dl.acm.org/profile/81336492267"
-      },
-      {
-        "name": " + 1",
-        "url": "https:/dl.acm.orgjavascript:void(0)"
       }
     ],
     "citations": "2",
     "downloads": "108",
     "doi": "10.1145/2801040.2801055",
     "extra": [
-      "August 2015",
       "pp 13–20",
       "https://doi.org/10.1145/2801040.2801055"
     ],
@@ -98,17 +87,12 @@
       {
         "name": "Christoph Müller",
         "url": "https:/dl.acm.org/profile/81330495342"
-      },
-      {
-        "name": " + 1",
-        "url": "https:/dl.acm.orgjavascript:void(0)"
       }
     ],
     "citations": "4",
-    "downloads": "168",
+    "downloads": "171",
     "doi": "10.1145/2801040.2801057",
     "extra": [
-      "August 2015",
       "pp 21–26",
       "https://doi.org/10.1145/2801040.2801057"
     ],
@@ -127,10 +111,9 @@
       }
     ],
     "citations": "3",
-    "downloads": "272",
+    "downloads": "276",
     "doi": "10.1145/2801040.2801048",
     "extra": [
-      "August 2015",
       "pp 27–34",
       "https://doi.org/10.1145/2801040.2801048"
     ],
@@ -146,17 +129,12 @@
       {
         "name": "Alexandros Panagiotidis",
         "url": "https:/dl.acm.org/profile/81482658558"
-      },
-      {
-        "name": " + 4",
-        "url": "https:/dl.acm.orgjavascript:void(0)"
       }
     ],
     "citations": "4",
-    "downloads": "133",
+    "downloads": "136",
     "doi": "10.1145/2801040.2801053",
     "extra": [
-      "August 2015",
       "pp 35–41",
       "https://doi.org/10.1145/2801040.2801053"
     ],
@@ -176,17 +154,12 @@
       {
         "name": "Karsten Klein",
         "url": "https:/dl.acm.org/profile/81100141840"
-      },
-      {
-        "name": " + 1",
-        "url": "https:/dl.acm.orgjavascript:void(0)"
       }
     ],
     "citations": "1",
     "downloads": "149",
     "doi": "10.1145/2801040.2801059",
     "extra": [
-      "August 2015",
       "pp 42–51",
       "https://doi.org/10.1145/2801040.2801059"
     ],
@@ -209,10 +182,9 @@
       }
     ],
     "citations": "1",
-    "downloads": "136",
+    "downloads": "138",
     "doi": "10.1145/2801040.2801046",
     "extra": [
-      "August 2015",
       "pp 52–60",
       "https://doi.org/10.1145/2801040.2801046"
     ],
@@ -238,7 +210,6 @@
     "downloads": "48",
     "doi": "10.1145/2801040.2801044",
     "extra": [
-      "August 2015",
       "pp 61–68",
       "https://doi.org/10.1145/2801040.2801044"
     ],
@@ -256,15 +227,26 @@
         "url": "https:/dl.acm.org/profile/81335494516"
       },
       {
-        "name": " + 4",
-        "url": "https:/dl.acm.orgjavascript:void(0)"
+        "name": "Angelica G. Thompson-Butel",
+        "url": "https:/dl.acm.org/profile/99658767702"
+      },
+      {
+        "name": "Steven Faux",
+        "url": "https:/dl.acm.org/profile/99658712892"
+      },
+      {
+        "name": "Pascal Bou-Haidar",
+        "url": "https:/dl.acm.org/profile/99658767746"
+      },
+      {
+        "name": "John Bailey",
+        "url": "https:/dl.acm.org/profile/99658766123"
       }
     ],
     "citations": "4",
-    "downloads": "192",
+    "downloads": "195",
     "doi": "10.1145/2801040.2801051",
     "extra": [
-      "August 2015",
       "pp 69–74",
       "https://doi.org/10.1145/2801040.2801051"
     ],
@@ -282,15 +264,18 @@
         "url": "https:/dl.acm.org/profile/81442594829"
       },
       {
-        "name": " + 2",
-        "url": "https:/dl.acm.orgjavascript:void(0)"
+        "name": "Mark Billinghurst",
+        "url": "https:/dl.acm.org/profile/81100499261"
+      },
+      {
+        "name": "Mohd Shahrizal Sunar",
+        "url": "https:/dl.acm.org/profile/81100128492"
       }
     ],
     "citations": "6",
-    "downloads": "374",
+    "downloads": "379",
     "doi": "10.1145/2801040.2801058",
     "extra": [
-      "August 2015",
       "pp 75–82",
       "https://doi.org/10.1145/2801040.2801058"
     ],
@@ -312,11 +297,10 @@
         "url": "https:/dl.acm.org/profile/81100525081"
       }
     ],
-    "citations": "6",
-    "downloads": "346",
+    "citations": "7",
+    "downloads": "352",
     "doi": "10.1145/2801040.2801052",
     "extra": [
-      "August 2015",
       "pp 83–92",
       "https://doi.org/10.1145/2801040.2801052"
     ],
@@ -338,15 +322,18 @@
         "url": "https:/dl.acm.org/profile/81498648020"
       },
       {
-        "name": " + 2",
-        "url": "https:/dl.acm.orgjavascript:void(0)"
+        "name": "Mao-Lin Huang",
+        "url": "https:/dl.acm.org/profile/81100079792"
+      },
+      {
+        "name": "Kang Zhang",
+        "url": "https:/dl.acm.org/profile/81350576955"
       }
     ],
     "citations": "2",
     "downloads": "135",
     "doi": "10.1145/2801040.2801061",
     "extra": [
-      "August 2015",
       "pp 93–102",
       "https://doi.org/10.1145/2801040.2801061"
     ],
@@ -368,11 +355,10 @@
         "url": "https:/dl.acm.org/profile/81100329777"
       }
     ],
-    "citations": "0",
+    "citations": "1",
     "downloads": "72",
     "doi": "10.1145/2801040.2801041",
     "extra": [
-      "August 2015",
       "pp 103–108",
       "https://doi.org/10.1145/2801040.2801041"
     ],
@@ -394,15 +380,18 @@
         "url": "https:/dl.acm.org/profile/99658767511"
       },
       {
-        "name": " + 2",
-        "url": "https:/dl.acm.orgjavascript:void(0)"
+        "name": "Geetika Sharma",
+        "url": "https:/dl.acm.org/profile/81536868856"
+      },
+      {
+        "name": "Lipika Dey",
+        "url": "https:/dl.acm.org/profile/81100327275"
       }
     ],
     "citations": "1",
     "downloads": "124",
     "doi": "10.1145/2801040.2801049",
     "extra": [
-      "August 2015",
       "pp 109–114",
       "https://doi.org/10.1145/2801040.2801049"
     ],
@@ -424,15 +413,14 @@
         "url": "https:/dl.acm.org/profile/81384602486"
       },
       {
-        "name": " + 1",
-        "url": "https:/dl.acm.orgjavascript:void(0)"
+        "name": "Hongan Wang",
+        "url": "https:/dl.acm.org/profile/81100220294"
       }
     ],
     "citations": "0",
-    "downloads": "71",
+    "downloads": "72",
     "doi": "10.1145/2801040.2801063",
     "extra": [
-      "August 2015",
       "pp 115–120",
       "https://doi.org/10.1145/2801040.2801063"
     ],
@@ -458,11 +446,10 @@
         "url": "https:/dl.acm.org/profile/81350576955"
       }
     ],
-    "citations": "8",
-    "downloads": "116",
+    "citations": "9",
+    "downloads": "124",
     "doi": "10.1145/2801040.2801062",
     "extra": [
-      "August 2015",
       "pp 121–130",
       "https://doi.org/10.1145/2801040.2801062"
     ],
@@ -480,15 +467,26 @@
         "url": "https:/dl.acm.org/profile/81330495342"
       },
       {
-        "name": " + 4",
-        "url": "https:/dl.acm.orgjavascript:void(0)"
+        "name": "Michael Krone",
+        "url": "https:/dl.acm.org/profile/81444600345"
+      },
+      {
+        "name": "Katrin Scharnowski",
+        "url": "https:/dl.acm.org/profile/81503680067"
+      },
+      {
+        "name": "Guido Reina",
+        "url": "https:/dl.acm.org/profile/81336492267"
+      },
+      {
+        "name": "Thomas Ertl",
+        "url": "https:/dl.acm.org/profile/81332497603"
       }
     ],
     "citations": "1",
-    "downloads": "139",
+    "downloads": "149",
     "doi": "10.1145/2801040.2801045",
     "extra": [
-      "August 2015",
       "pp 131–136",
       "https://doi.org/10.1145/2801040.2801045"
     ],
@@ -511,10 +509,9 @@
       }
     ],
     "citations": "15",
-    "downloads": "308",
+    "downloads": "317",
     "doi": "10.1145/2801040.2801056",
     "extra": [
-      "August 2015",
       "pp 137–142",
       "https://doi.org/10.1145/2801040.2801056"
     ],
@@ -532,15 +529,22 @@
         "url": "https:/dl.acm.org/profile/81100227371"
       },
       {
-        "name": " + 3",
-        "url": "https:/dl.acm.orgjavascript:void(0)"
+        "name": "Weidong Huang",
+        "url": "https:/dl.acm.org/profile/81100080630"
+      },
+      {
+        "name": "Wan-Yu Liu",
+        "url": "https:/dl.acm.org/profile/99658735566"
+      },
+      {
+        "name": "Shierly Tanizar",
+        "url": "https:/dl.acm.org/profile/99658767021"
       }
     ],
     "citations": "0",
     "downloads": "58",
     "doi": "10.1145/2801040.2801064",
     "extra": [
-      "August 2015",
       "pp 143–145",
       "https://doi.org/10.1145/2801040.2801064"
     ],
@@ -558,15 +562,22 @@
         "url": "https:/dl.acm.org/profile/81100229818"
       },
       {
-        "name": " + 3",
-        "url": "https:/dl.acm.orgjavascript:void(0)"
+        "name": "Yutaka Takahashi",
+        "url": "https:/dl.acm.org/profile/99658766578"
+      },
+      {
+        "name": "Nobuhide Tanaka",
+        "url": "https:/dl.acm.org/profile/99658767957"
+      },
+      {
+        "name": "Michiya Morita",
+        "url": "https:/dl.acm.org/profile/99658767496"
       }
     ],
     "citations": "0",
-    "downloads": "90",
+    "downloads": "93",
     "doi": "10.1145/2801040.2801042",
     "extra": [
-      "August 2015",
       "pp 146–147",
       "https://doi.org/10.1145/2801040.2801042"
     ],
@@ -592,7 +603,6 @@
     "downloads": "79",
     "doi": "10.1145/2801040.2801047",
     "extra": [
-      "August 2015",
       "pp 148–149",
       "https://doi.org/10.1145/2801040.2801047"
     ],
@@ -618,7 +628,6 @@
     "downloads": "76",
     "doi": "10.1145/2801040.2801050",
     "extra": [
-      "August 2015",
       "pp 150–151",
       "https://doi.org/10.1145/2801040.2801050"
     ],
@@ -636,15 +645,18 @@
         "url": "https:/dl.acm.org/profile/99658765656"
       },
       {
-        "name": " + 2",
-        "url": "https:/dl.acm.orgjavascript:void(0)"
+        "name": "Quang Vinh Nguyen",
+        "url": "https:/dl.acm.org/profile/81100511332"
+      },
+      {
+        "name": "Simeon Simoff",
+        "url": "https:/dl.acm.org/profile/81100077710"
       }
     ],
     "citations": "1",
-    "downloads": "171",
+    "downloads": "174",
     "doi": "10.1145/2801040.2801060",
     "extra": [
-      "August 2015",
       "pp 152–153",
       "https://doi.org/10.1145/2801040.2801060"
     ],
@@ -670,7 +682,6 @@
     "downloads": "59",
     "doi": "10.1145/2801040.2801066",
     "extra": [
-      "August 2015",
       "pp 154–155",
       "https://doi.org/10.1145/2801040.2801066"
     ],
@@ -692,15 +703,14 @@
         "url": "https:/dl.acm.org/profile/81100329777"
       },
       {
-        "name": " + 1",
-        "url": "https:/dl.acm.orgjavascript:void(0)"
+        "name": "Masahiro Takatsuka",
+        "url": "https:/dl.acm.org/profile/81438595290"
       }
     ],
-    "citations": "1",
-    "downloads": "119",
+    "citations": "2",
+    "downloads": "122",
     "doi": "10.1145/2801040.2801067",
     "extra": [
-      "August 2015",
       "pp 156–157",
       "https://doi.org/10.1145/2801040.2801067"
     ],
@@ -722,15 +732,18 @@
         "url": "https:/dl.acm.org/profile/99658768692"
       },
       {
-        "name": " + 2",
-        "url": "https:/dl.acm.orgjavascript:void(0)"
+        "name": "Hyunwoo Han",
+        "url": "https:/dl.acm.org/profile/99658768907"
+      },
+      {
+        "name": "Kyungwon Lee",
+        "url": "https:/dl.acm.org/profile/81458652821"
       }
     ],
     "citations": "0",
-    "downloads": "193",
+    "downloads": "203",
     "doi": "10.1145/2801040.2801069",
     "extra": [
-      "August 2015",
       "pp 158–159",
       "https://doi.org/10.1145/2801040.2801069"
     ],
@@ -748,15 +761,30 @@
         "url": "https:/dl.acm.org/profile/99658767024"
       },
       {
-        "name": " + 5",
-        "url": "https:/dl.acm.orgjavascript:void(0)"
+        "name": "Takehiko Yamaguchi",
+        "url": "https:/dl.acm.org/profile/99658768992"
+      },
+      {
+        "name": "Naoki Ishiura",
+        "url": "https:/dl.acm.org/profile/99658768164"
+      },
+      {
+        "name": "Mickael Dinomais",
+        "url": "https:/dl.acm.org/profile/99658765383"
+      },
+      {
+        "name": "Paul Richard",
+        "url": "https:/dl.acm.org/profile/81452605387"
+      },
+      {
+        "name": "Sylvie Nguyen",
+        "url": "https:/dl.acm.org/profile/99658768472"
       }
     ],
     "citations": "0",
-    "downloads": "113",
+    "downloads": "118",
     "doi": "10.1145/2801040.2801068",
     "extra": [
-      "August 2015",
       "pp 160–161",
       "https://doi.org/10.1145/2801040.2801068"
     ],
@@ -779,10 +807,9 @@
       }
     ],
     "citations": "1",
-    "downloads": "97",
+    "downloads": "98",
     "doi": "10.1145/2801040.2801070",
     "extra": [
-      "August 2015",
       "pp 162–163",
       "https://doi.org/10.1145/2801040.2801070"
     ],
@@ -804,15 +831,22 @@
         "url": "https:/dl.acm.org/profile/99658768773"
       },
       {
-        "name": " + 3",
-        "url": "https:/dl.acm.orgjavascript:void(0)"
+        "name": "Chung-Hung Hsieh",
+        "url": "https:/dl.acm.org/profile/99658768076"
+      },
+      {
+        "name": "Chieh-Tsai Wu",
+        "url": "https:/dl.acm.org/profile/99658768982"
+      },
+      {
+        "name": "Shin-Tseng Lee",
+        "url": "https:/dl.acm.org/profile/81322499106"
       }
     ],
     "citations": "0",
-    "downloads": "176",
+    "downloads": "184",
     "doi": "10.1145/2801040.2801065",
     "extra": [
-      "August 2015",
       "pp 164–165",
       "https://doi.org/10.1145/2801040.2801065"
     ],
@@ -834,15 +868,14 @@
         "url": "https:/dl.acm.org/profile/81100494174"
       },
       {
-        "name": " + 1",
-        "url": "https:/dl.acm.orgjavascript:void(0)"
+        "name": "Shin'ichi Satoh",
+        "url": "https:/dl.acm.org/profile/81100094722"
       }
     ],
     "citations": "0",
-    "downloads": "45",
+    "downloads": "47",
     "doi": "10.1145/2801040.2801071",
     "extra": [
-      "August 2015",
       "pp 166–167",
       "https://doi.org/10.1145/2801040.2801071"
     ],
@@ -869,10 +902,9 @@
       }
     ],
     "citations": "2",
-    "downloads": "209",
+    "downloads": "210",
     "doi": "10.1145/2801040.2801072",
     "extra": [
-      "August 2015",
       "pp 168–169",
       "https://doi.org/10.1145/2801040.2801072"
     ],
@@ -888,17 +920,12 @@
       {
         "name": "Yukari Shirota",
         "url": "https:/dl.acm.org/profile/81100229818"
-      },
-      {
-        "name": " + 3",
-        "url": "https:/dl.acm.orgjavascript:void(0)"
       }
     ],
     "citations": "1",
     "downloads": "46",
     "doi": "10.1145/2801040.2802138",
     "extra": [
-      "August 2015",
       "pp 170–173",
       "https://doi.org/10.1145/2801040.2802138"
     ],

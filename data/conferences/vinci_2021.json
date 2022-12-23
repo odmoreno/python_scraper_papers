@@ -14,20 +14,30 @@
         "url": "https:/dl.acm.org/profile/99660233714"
       },
       {
-        "name": " + 4",
-        "url": "https:/dl.acm.orgjavascript:void(0)"
+        "name": "Zhanglin Cheng",
+        "url": "https:/dl.acm.org/profile/99659275761"
+      },
+      {
+        "name": "Yunhai Wang",
+        "url": "https:/dl.acm.org/profile/82658976157"
+      },
+      {
+        "name": "Daniel Weiskopf",
+        "url": "https:/dl.acm.org/profile/81100214723"
+      },
+      {
+        "name": "Michael Sedlmair",
+        "url": "https:/dl.acm.org/profile/81375621529"
       }
     ],
-    "citations": "1",
-    "downloads": "110",
+    "citations": "2",
+    "downloads": "131",
     "doi": "10.1145/3481549.3481569",
     "extra": [
-      "September 2021",
       "Article No.: 1",
       "pp 1–8",
       "https://doi.org/10.1145/3481549.3481569"
     ],
-    "conference_title": "VINCI 2021: The 14th International Symposium on Visual Information Communication and Interaction, Potsdam, Germany, September 6 - 8, 2021.",
     "publisher": "ACM",
     "conference_isbn": "978-1-4503-8647-0"
   },
@@ -42,20 +52,22 @@
         "url": "https:/dl.acm.org/profile/81100329777"
       },
       {
-        "name": " + 2",
-        "url": "https:/dl.acm.orgjavascript:void(0)"
+        "name": "Asuka Nakabayashi",
+        "url": "https:/dl.acm.org/profile/99659915690"
+      },
+      {
+        "name": "Mariko Hagita",
+        "url": "https:/dl.acm.org/profile/81100399955"
       }
     ],
-    "citations": "0",
-    "downloads": "21",
+    "citations": "2",
+    "downloads": "22",
     "doi": "10.1145/3481549.3481553",
     "extra": [
-      "September 2021",
       "Article No.: 2",
       "pp 1–6",
       "https://doi.org/10.1145/3481549.3481553"
     ],
-    "conference_title": "VINCI 2021: The 14th International Symposium on Visual Information Communication and Interaction, Potsdam, Germany, September 6 - 8, 2021.",
     "publisher": "ACM",
     "conference_isbn": "978-1-4503-8647-0"
   },
@@ -70,20 +82,22 @@
         "url": "https:/dl.acm.org/profile/99659915368"
       },
       {
-        "name": " + 2",
-        "url": "https:/dl.acm.orgjavascript:void(0)"
+        "name": "Angelos Chatzimparmpas",
+        "url": "https:/dl.acm.org/profile/99659465677"
+      },
+      {
+        "name": "Ilir Jusufi",
+        "url": "https:/dl.acm.org/profile/81472654517"
       }
     ],
     "citations": "0",
-    "downloads": "70",
+    "downloads": "78",
     "doi": "10.1145/3481549.3481557",
     "extra": [
-      "September 2021",
       "Article No.: 3",
       "pp 1–5",
       "https://doi.org/10.1145/3481549.3481557"
     ],
-    "conference_title": "VINCI 2021: The 14th International Symposium on Visual Information Communication and Interaction, Potsdam, Germany, September 6 - 8, 2021.",
     "publisher": "ACM",
     "conference_isbn": "978-1-4503-8647-0"
   },
@@ -98,20 +112,26 @@
         "url": "https:/dl.acm.org/profile/99659248999"
       },
       {
-        "name": " + 3",
-        "url": "https:/dl.acm.orgjavascript:void(0)"
+        "name": "Frank Heyen",
+        "url": "https:/dl.acm.org/profile/99659583503"
+      },
+      {
+        "name": "Kresimir Vidakovic",
+        "url": "https:/dl.acm.org/profile/99659915852"
+      },
+      {
+        "name": "Michael Sedlmair",
+        "url": "https:/dl.acm.org/profile/81375621529"
       }
     ],
-    "citations": "0",
-    "downloads": "69",
+    "citations": "3",
+    "downloads": "103",
     "doi": "10.1145/3481549.3481563",
     "extra": [
-      "September 2021",
       "Article No.: 4",
       "pp 1–8",
       "https://doi.org/10.1145/3481549.3481563"
     ],
-    "conference_title": "VINCI 2021: The 14th International Symposium on Visual Information Communication and Interaction, Potsdam, Germany, September 6 - 8, 2021.",
     "publisher": "ACM",
     "conference_isbn": "978-1-4503-8647-0"
   },
@@ -124,22 +144,16 @@
       {
         "name": "Martin Büßemeyer",
         "url": "https:/dl.acm.org/profile/99659915755"
-      },
-      {
-        "name": " + 3",
-        "url": "https:/dl.acm.orgjavascript:void(0)"
       }
     ],
     "citations": "0",
-    "downloads": "143",
+    "downloads": "211",
     "doi": "10.1145/3481549.3481568",
     "extra": [
-      "September 2021",
       "Article No.: 5",
       "pp 1–5",
       "https://doi.org/10.1145/3481549.3481568"
     ],
-    "conference_title": "VINCI 2021: The 14th International Symposium on Visual Information Communication and Interaction, Potsdam, Germany, September 6 - 8, 2021.",
     "publisher": "ACM",
     "conference_isbn": "978-1-4503-8647-0"
   },
@@ -158,20 +172,22 @@
         "url": "https:/dl.acm.org/profile/99659051346"
       },
       {
-        "name": " + 2",
-        "url": "https:/dl.acm.orgjavascript:void(0)"
+        "name": "Jan van Dieken",
+        "url": "https:/dl.acm.org/profile/99659916274"
+      },
+      {
+        "name": "Jürgen Döllner",
+        "url": "https:/dl.acm.org/profile/81100019985"
       }
     ],
-    "citations": "0",
-    "downloads": "67",
+    "citations": "2",
+    "downloads": "90",
     "doi": "10.1145/3481549.3481570",
     "extra": [
-      "September 2021",
       "Article No.: 6",
       "pp 1–5",
       "https://doi.org/10.1145/3481549.3481570"
     ],
-    "conference_title": "VINCI 2021: The 14th International Symposium on Visual Information Communication and Interaction, Potsdam, Germany, September 6 - 8, 2021.",
     "publisher": "ACM",
     "conference_isbn": "978-1-4503-8647-0"
   },
@@ -190,20 +206,26 @@
         "url": "https:/dl.acm.org/profile/99659034607"
       },
       {
-        "name": " + 3",
-        "url": "https:/dl.acm.orgjavascript:void(0)"
+        "name": "Keshav Rajupet Premkumar",
+        "url": "https:/dl.acm.org/profile/99659915763"
+      },
+      {
+        "name": "Michael Burch",
+        "url": "https:/dl.acm.org/profile/81331488994"
+      },
+      {
+        "name": "Klaus Mueller",
+        "url": "https:/dl.acm.org/profile/81452605314"
       }
     ],
     "citations": "0",
-    "downloads": "31",
+    "downloads": "38",
     "doi": "10.1145/3481549.3481562",
     "extra": [
-      "September 2021",
       "Article No.: 7",
       "pp 1–5",
       "https://doi.org/10.1145/3481549.3481562"
     ],
-    "conference_title": "VINCI 2021: The 14th International Symposium on Visual Information Communication and Interaction, Potsdam, Germany, September 6 - 8, 2021.",
     "publisher": "ACM",
     "conference_isbn": "978-1-4503-8647-0"
   },
@@ -223,15 +245,13 @@
       }
     ],
     "citations": "0",
-    "downloads": "24",
+    "downloads": "25",
     "doi": "10.1145/3481549.3481560",
     "extra": [
-      "September 2021",
       "Article No.: 8",
       "pp 1–8",
       "https://doi.org/10.1145/3481549.3481560"
     ],
-    "conference_title": "VINCI 2021: The 14th International Symposium on Visual Information Communication and Interaction, Potsdam, Germany, September 6 - 8, 2021.",
     "publisher": "ACM",
     "conference_isbn": "978-1-4503-8647-0"
   },
@@ -250,20 +270,22 @@
         "url": "https:/dl.acm.org/profile/99658723776"
       },
       {
-        "name": " + 2",
-        "url": "https:/dl.acm.orgjavascript:void(0)"
+        "name": "Maxime Cordeil",
+        "url": "https:/dl.acm.org/profile/81488668405"
+      },
+      {
+        "name": "Tomasz Bednarz",
+        "url": "https:/dl.acm.org/profile/81464670479"
       }
     ],
     "citations": "0",
-    "downloads": "31",
+    "downloads": "38",
     "doi": "10.1145/3481549.3481556",
     "extra": [
-      "September 2021",
       "Article No.: 9",
       "pp 1–5",
       "https://doi.org/10.1145/3481549.3481556"
     ],
-    "conference_title": "VINCI 2021: The 14th International Symposium on Visual Information Communication and Interaction, Potsdam, Germany, September 6 - 8, 2021.",
     "publisher": "ACM",
     "conference_isbn": "978-1-4503-8647-0"
   },
@@ -278,20 +300,18 @@
         "url": "https:/dl.acm.org/profile/99659914931"
       },
       {
-        "name": " + 1",
-        "url": "https:/dl.acm.orgjavascript:void(0)"
+        "name": "José Tiberio Hernández-Peñalosa",
+        "url": "https:/dl.acm.org/profile/99659915656"
       }
     ],
     "citations": "0",
-    "downloads": "15",
+    "downloads": "18",
     "doi": "10.1145/3481549.3481554",
     "extra": [
-      "September 2021",
       "Article No.: 10",
       "pp 1–5",
       "https://doi.org/10.1145/3481549.3481554"
     ],
-    "conference_title": "VINCI 2021: The 14th International Symposium on Visual Information Communication and Interaction, Potsdam, Germany, September 6 - 8, 2021.",
     "publisher": "ACM",
     "conference_isbn": "978-1-4503-8647-0"
   },
@@ -306,20 +326,34 @@
         "url": "https:/dl.acm.org/profile/99659473900"
       },
       {
-        "name": " + 5",
-        "url": "https:/dl.acm.orgjavascript:void(0)"
+        "name": "Conny Walchshofer",
+        "url": "https:/dl.acm.org/profile/99659914993"
+      },
+      {
+        "name": "Florian Grassinger",
+        "url": "https:/dl.acm.org/profile/99659915944"
+      },
+      {
+        "name": "Holger Stitz",
+        "url": "https:/dl.acm.org/profile/87258908057"
+      },
+      {
+        "name": "Marc Streit",
+        "url": "https:/dl.acm.org/profile/81375612900"
+      },
+      {
+        "name": "Wolfgang Aigner",
+        "url": "https:/dl.acm.org/profile/81503660777"
       }
     ],
-    "citations": "0",
-    "downloads": "268",
+    "citations": "2",
+    "downloads": "360",
     "doi": "10.1145/3481549.3481558",
     "extra": [
-      "September 2021",
       "Article No.: 11",
       "pp 1–5",
       "https://doi.org/10.1145/3481549.3481558"
     ],
-    "conference_title": "VINCI 2021: The 14th International Symposium on Visual Information Communication and Interaction, Potsdam, Germany, September 6 - 8, 2021.",
     "publisher": "ACM",
     "conference_isbn": "978-1-4503-8647-0"
   },
@@ -336,22 +370,16 @@
       {
         "name": "Elias Mahfoud",
         "url": "https:/dl.acm.org/profile/99659090947"
-      },
-      {
-        "name": " + 2",
-        "url": "https:/dl.acm.orgjavascript:void(0)"
       }
     ],
-    "citations": "0",
-    "downloads": "75",
+    "citations": "1",
+    "downloads": "97",
     "doi": "10.1145/3481549.3481564",
     "extra": [
-      "September 2021",
       "Article No.: 12",
       "pp 1–9",
       "https://doi.org/10.1145/3481549.3481564"
     ],
-    "conference_title": "VINCI 2021: The 14th International Symposium on Visual Information Communication and Interaction, Potsdam, Germany, September 6 - 8, 2021.",
     "publisher": "ACM",
     "conference_isbn": "978-1-4503-8647-0"
   },
@@ -370,20 +398,22 @@
         "url": "https:/dl.acm.org/profile/81488668405"
       },
       {
-        "name": " + 2",
-        "url": "https:/dl.acm.orgjavascript:void(0)"
+        "name": "Mitsuo Yoshida",
+        "url": "https:/dl.acm.org/profile/99658718448"
+      },
+      {
+        "name": "Takayuki Itoh",
+        "url": "https:/dl.acm.org/profile/81100329777"
       }
     ],
-    "citations": "0",
-    "downloads": "59",
+    "citations": "2",
+    "downloads": "63",
     "doi": "10.1145/3481549.3481555",
     "extra": [
-      "September 2021",
       "Article No.: 13",
       "pp 1–6",
       "https://doi.org/10.1145/3481549.3481555"
     ],
-    "conference_title": "VINCI 2021: The 14th International Symposium on Visual Information Communication and Interaction, Potsdam, Germany, September 6 - 8, 2021.",
     "publisher": "ACM",
     "conference_isbn": "978-1-4503-8647-0"
   },
@@ -402,20 +432,18 @@
         "url": "https:/dl.acm.org/profile/99659915201"
       },
       {
-        "name": " + 1",
-        "url": "https:/dl.acm.orgjavascript:void(0)"
+        "name": "Stephan Diehl",
+        "url": "https:/dl.acm.org/profile/81100020010"
       }
     ],
     "citations": "1",
-    "downloads": "57",
+    "downloads": "70",
     "doi": "10.1145/3481549.3481566",
     "extra": [
-      "September 2021",
       "Article No.: 14",
       "pp 1–8",
       "https://doi.org/10.1145/3481549.3481566"
     ],
-    "conference_title": "VINCI 2021: The 14th International Symposium on Visual Information Communication and Interaction, Potsdam, Germany, September 6 - 8, 2021.",
     "publisher": "ACM",
     "conference_isbn": "978-1-4503-8647-0"
   },
@@ -434,20 +462,30 @@
         "url": "https:/dl.acm.org/profile/81548012985"
       },
       {
-        "name": " + 4",
-        "url": "https:/dl.acm.orgjavascript:void(0)"
+        "name": "Barış Serim",
+        "url": "https:/dl.acm.org/profile/82259259657"
+      },
+      {
+        "name": "Tung Vuong",
+        "url": "https:/dl.acm.org/profile/99659191803"
+      },
+      {
+        "name": "Tuukka Ruotsalo",
+        "url": "https:/dl.acm.org/profile/81339525898"
+      },
+      {
+        "name": "Giulio Jacucci",
+        "url": "https:/dl.acm.org/profile/81100644548"
       }
     ],
-    "citations": "0",
-    "downloads": "48",
+    "citations": "1",
+    "downloads": "64",
     "doi": "10.1145/3481549.3481565",
     "extra": [
-      "September 2021",
       "Article No.: 15",
       "pp 1–10",
       "https://doi.org/10.1145/3481549.3481565"
     ],
-    "conference_title": "VINCI 2021: The 14th International Symposium on Visual Information Communication and Interaction, Potsdam, Germany, September 6 - 8, 2021.",
     "publisher": "ACM",
     "conference_isbn": "978-1-4503-8647-0"
   },
@@ -464,22 +502,16 @@
       {
         "name": "Günter Wallner",
         "url": "https:/dl.acm.org/profile/81100493799"
-      },
-      {
-        "name": " + 3",
-        "url": "https:/dl.acm.orgjavascript:void(0)"
       }
     ],
-    "citations": "0",
-    "downloads": "32",
+    "citations": "1",
+    "downloads": "38",
     "doi": "10.1145/3481549.3481550",
     "extra": [
-      "September 2021",
       "Article No.: 16",
       "pp 1–5",
       "https://doi.org/10.1145/3481549.3481550"
     ],
-    "conference_title": "VINCI 2021: The 14th International Symposium on Visual Information Communication and Interaction, Potsdam, Germany, September 6 - 8, 2021.",
     "publisher": "ACM",
     "conference_isbn": "978-1-4503-8647-0"
   },
@@ -498,16 +530,14 @@
         "url": "https:/dl.acm.org/profile/99659915372"
       }
     ],
-    "citations": "0",
-    "downloads": "26",
+    "citations": "2",
+    "downloads": "31",
     "doi": "10.1145/3481549.3481571",
     "extra": [
-      "September 2021",
       "Article No.: 17",
       "pp 1–2",
       "https://doi.org/10.1145/3481549.3481571"
     ],
-    "conference_title": "VINCI 2021: The 14th International Symposium on Visual Information Communication and Interaction, Potsdam, Germany, September 6 - 8, 2021.",
     "publisher": "ACM",
     "conference_isbn": "978-1-4503-8647-0"
   },
@@ -526,20 +556,22 @@
         "url": "https:/dl.acm.org/profile/99659051346"
       },
       {
-        "name": " + 2",
-        "url": "https:/dl.acm.orgjavascript:void(0)"
+        "name": "Daniel Limberger",
+        "url": "https:/dl.acm.org/profile/82458918757"
+      },
+      {
+        "name": "Jürgen Döllner",
+        "url": "https:/dl.acm.org/profile/81100019985"
       }
     ],
     "citations": "0",
     "downloads": "26",
     "doi": "10.1145/3481549.3481573",
     "extra": [
-      "September 2021",
       "Article No.: 18",
       "pp 1–2",
       "https://doi.org/10.1145/3481549.3481573"
     ],
-    "conference_title": "VINCI 2021: The 14th International Symposium on Visual Information Communication and Interaction, Potsdam, Germany, September 6 - 8, 2021.",
     "publisher": "ACM",
     "conference_isbn": "978-1-4503-8647-0"
   },
@@ -554,20 +586,18 @@
         "url": "https:/dl.acm.org/profile/84460003257"
       },
       {
-        "name": " + 1",
-        "url": "https:/dl.acm.orgjavascript:void(0)"
+        "name": "Patricio Mendoza",
+        "url": "https:/dl.acm.org/profile/81492646025"
       }
     ],
-    "citations": "1",
-    "downloads": "37",
+    "citations": "2",
+    "downloads": "47",
     "doi": "10.1145/3481549.3481572",
     "extra": [
-      "September 2021",
       "Article No.: 19",
       "pp 1–2",
       "https://doi.org/10.1145/3481549.3481572"
     ],
-    "conference_title": "VINCI 2021: The 14th International Symposium on Visual Information Communication and Interaction, Potsdam, Germany, September 6 - 8, 2021.",
     "publisher": "ACM",
     "conference_isbn": "978-1-4503-8647-0"
   },
@@ -586,20 +616,18 @@
         "url": "https:/dl.acm.org/profile/99659915658"
       },
       {
-        "name": " + 1",
-        "url": "https:/dl.acm.orgjavascript:void(0)"
+        "name": "Uwe Kloos",
+        "url": "https:/dl.acm.org/profile/81466647554"
       }
     ],
     "citations": "0",
-    "downloads": "31",
+    "downloads": "39",
     "doi": "10.1145/3481549.3481559",
     "extra": [
-      "September 2021",
       "Article No.: 20",
       "pp 1–5",
       "https://doi.org/10.1145/3481549.3481559"
     ],
-    "conference_title": "VINCI 2021: The 14th International Symposium on Visual Information Communication and Interaction, Potsdam, Germany, September 6 - 8, 2021.",
     "publisher": "ACM",
     "conference_isbn": "978-1-4503-8647-0"
   },
@@ -619,15 +647,13 @@
       }
     ],
     "citations": "0",
-    "downloads": "16",
+    "downloads": "18",
     "doi": "10.1145/3481549.3481567",
     "extra": [
-      "September 2021",
       "Article No.: 21",
       "pp 1–5",
       "https://doi.org/10.1145/3481549.3481567"
     ],
-    "conference_title": "VINCI 2021: The 14th International Symposium on Visual Information Communication and Interaction, Potsdam, Germany, September 6 - 8, 2021.",
     "publisher": "ACM",
     "conference_isbn": "978-1-4503-8647-0"
   },
@@ -646,20 +672,30 @@
         "url": "https:/dl.acm.org/profile/99659290545"
       },
       {
-        "name": " + 4",
-        "url": "https:/dl.acm.orgjavascript:void(0)"
+        "name": "Changbo Wang",
+        "url": "https:/dl.acm.org/profile/81100220966"
+      },
+      {
+        "name": "Sicheng Song",
+        "url": "https:/dl.acm.org/profile/99659915122"
+      },
+      {
+        "name": "Kirlin Li",
+        "url": "https:/dl.acm.org/profile/99659482820"
+      },
+      {
+        "name": "Chenhui Li",
+        "url": "https:/dl.acm.org/profile/99658761360"
       }
     ],
-    "citations": "0",
-    "downloads": "31",
+    "citations": "1",
+    "downloads": "36",
     "doi": "10.1145/3481549.3481551",
     "extra": [
-      "September 2021",
       "Article No.: 22",
       "pp 1–8",
       "https://doi.org/10.1145/3481549.3481551"
     ],
-    "conference_title": "VINCI 2021: The 14th International Symposium on Visual Information Communication and Interaction, Potsdam, Germany, September 6 - 8, 2021.",
     "publisher": "ACM",
     "conference_isbn": "978-1-4503-8647-0"
   },
@@ -678,20 +714,18 @@
         "url": "https:/dl.acm.org/profile/99659915914"
       },
       {
-        "name": " + 1",
-        "url": "https:/dl.acm.orgjavascript:void(0)"
+        "name": "Yao Zheng",
+        "url": "https:/dl.acm.org/profile/81452604154"
       }
     ],
     "citations": "0",
-    "downloads": "34",
+    "downloads": "38",
     "doi": "10.1145/3481549.3481552",
     "extra": [
-      "September 2021",
       "Article No.: 23",
       "pp 1–7",
       "https://doi.org/10.1145/3481549.3481552"
     ],
-    "conference_title": "VINCI 2021: The 14th International Symposium on Visual Information Communication and Interaction, Potsdam, Germany, September 6 - 8, 2021.",
     "publisher": "ACM",
     "conference_isbn": "978-1-4503-8647-0"
   },
@@ -710,20 +744,22 @@
         "url": "https:/dl.acm.org/profile/99659915055"
       },
       {
-        "name": " + 2",
-        "url": "https:/dl.acm.orgjavascript:void(0)"
+        "name": "David Schiller",
+        "url": "https:/dl.acm.org/profile/99659916017"
+      },
+      {
+        "name": "Michael Burch",
+        "url": "https:/dl.acm.org/profile/81331488994"
       }
     ],
     "citations": "1",
-    "downloads": "21",
+    "downloads": "24",
     "doi": "10.1145/3481549.3481561",
     "extra": [
-      "September 2021",
       "Article No.: 24",
       "pp 1–5",
       "https://doi.org/10.1145/3481549.3481561"
     ],
-    "conference_title": "VINCI 2021: The 14th International Symposium on Visual Information Communication and Interaction, Potsdam, Germany, September 6 - 8, 2021.",
     "publisher": "ACM",
     "conference_isbn": "978-1-4503-8647-0"
   }

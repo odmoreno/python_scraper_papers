@@ -11,14 +11,12 @@
       }
     ],
     "citations": "7",
-    "downloads": "221",
+    "downloads": "235",
     "doi": "10.1145/2968220.2968226",
     "extra": [
-      "September 2016",
       "pp 1–8",
       "https://doi.org/10.1145/2968220.2968226"
     ],
-    "conference_title": "Proceedings of the 9th International Symposium on Visual Information Communication and Interaction, VINCI 2016, Dallas, TX, USA, September 24-26, 2016.",
     "publisher": "ACM",
     "conference_isbn": "978-1-4503-4149-3"
   },
@@ -33,19 +31,21 @@
         "url": "https:/dl.acm.org/profile/99659010090"
       },
       {
-        "name": " + 2",
-        "url": "https:/dl.acm.orgjavascript:void(0)"
+        "name": "Ronak Etemadpour",
+        "url": "https:/dl.acm.org/profile/81551311756"
+      },
+      {
+        "name": "Angus G. Forbes",
+        "url": "https:/dl.acm.org/profile/81474644982"
       }
     ],
     "citations": "3",
-    "downloads": "114",
+    "downloads": "116",
     "doi": "10.1145/2968220.2968229",
     "extra": [
-      "September 2016",
       "pp 9–16",
       "https://doi.org/10.1145/2968220.2968229"
     ],
-    "conference_title": "Proceedings of the 9th International Symposium on Visual Information Communication and Interaction, VINCI 2016, Dallas, TX, USA, September 24-26, 2016.",
     "publisher": "ACM",
     "conference_isbn": "978-1-4503-4149-3"
   },
@@ -62,21 +62,15 @@
       {
         "name": "Dongyu Liu",
         "url": "https:/dl.acm.org/profile/99659070996"
-      },
-      {
-        "name": " + 3",
-        "url": "https:/dl.acm.orgjavascript:void(0)"
       }
     ],
-    "citations": "5",
-    "downloads": "488",
+    "citations": "7",
+    "downloads": "518",
     "doi": "10.1145/2968220.2968242",
     "extra": [
-      "September 2016",
       "pp 17–24",
       "https://doi.org/10.1145/2968220.2968242"
     ],
-    "conference_title": "Proceedings of the 9th International Symposium on Visual Information Communication and Interaction, VINCI 2016, Dallas, TX, USA, September 24-26, 2016.",
     "publisher": "ACM",
     "conference_isbn": "978-1-4503-4149-3"
   },
@@ -93,21 +87,15 @@
       {
         "name": "Yaoxue Zhang",
         "url": "https:/dl.acm.org/profile/81339540126"
-      },
-      {
-        "name": " + 5",
-        "url": "https:/dl.acm.orgjavascript:void(0)"
       }
     ],
     "citations": "1",
-    "downloads": "271",
+    "downloads": "274",
     "doi": "10.1145/2968220.2968221",
     "extra": [
-      "September 2016",
       "pp 25–29",
       "https://doi.org/10.1145/2968220.2968221"
     ],
-    "conference_title": "Proceedings of the 9th International Symposium on Visual Information Communication and Interaction, VINCI 2016, Dallas, TX, USA, September 24-26, 2016.",
     "publisher": "ACM",
     "conference_isbn": "978-1-4503-4149-3"
   },
@@ -120,21 +108,15 @@
       {
         "name": "Rainer Splechtna",
         "url": "https:/dl.acm.org/profile/81100655096"
-      },
-      {
-        "name": " + 5",
-        "url": "https:/dl.acm.orgjavascript:void(0)"
       }
     ],
-    "citations": "0",
-    "downloads": "193",
+    "citations": "1",
+    "downloads": "194",
     "doi": "10.1145/2968220.2968238",
     "extra": [
-      "September 2016",
       "pp 30–34",
       "https://doi.org/10.1145/2968220.2968238"
     ],
-    "conference_title": "Proceedings of the 9th International Symposium on Visual Information Communication and Interaction, VINCI 2016, Dallas, TX, USA, September 24-26, 2016.",
     "publisher": "ACM",
     "conference_isbn": "978-1-4503-4149-3"
   },
@@ -147,21 +129,15 @@
       {
         "name": "Kouhei Yasuda",
         "url": "https:/dl.acm.org/profile/99659068906"
-      },
-      {
-        "name": " + 2",
-        "url": "https:/dl.acm.orgjavascript:void(0)"
       }
     ],
-    "citations": "1",
-    "downloads": "176",
+    "citations": "2",
+    "downloads": "178",
     "doi": "10.1145/2968220.2968224",
     "extra": [
-      "September 2016",
       "pp 35–42",
       "https://doi.org/10.1145/2968220.2968224"
     ],
-    "conference_title": "Proceedings of the 9th International Symposium on Visual Information Communication and Interaction, VINCI 2016, Dallas, TX, USA, September 24-26, 2016.",
     "publisher": "ACM",
     "conference_isbn": "978-1-4503-4149-3"
   },
@@ -174,21 +150,15 @@
       {
         "name": "Quang Vinh Nguyen",
         "url": "https:/dl.acm.org/profile/81100511332"
-      },
-      {
-        "name": " + 3",
-        "url": "https:/dl.acm.orgjavascript:void(0)"
       }
     ],
     "citations": "6",
     "downloads": "145",
     "doi": "10.1145/2968220.2968248",
     "extra": [
-      "September 2016",
       "pp 43–50",
       "https://doi.org/10.1145/2968220.2968248"
     ],
-    "conference_title": "Proceedings of the 9th International Symposium on Visual Information Communication and Interaction, VINCI 2016, Dallas, TX, USA, September 24-26, 2016.",
     "publisher": "ACM",
     "conference_isbn": "978-1-4503-4149-3"
   },
@@ -208,14 +178,12 @@
       }
     ],
     "citations": "3",
-    "downloads": "81",
+    "downloads": "86",
     "doi": "10.1145/2968220.2968230",
     "extra": [
-      "September 2016",
       "pp 51–58",
       "https://doi.org/10.1145/2968220.2968230"
     ],
-    "conference_title": "Proceedings of the 9th International Symposium on Visual Information Communication and Interaction, VINCI 2016, Dallas, TX, USA, September 24-26, 2016.",
     "publisher": "ACM",
     "conference_isbn": "978-1-4503-4149-3"
   },
@@ -232,21 +200,15 @@
       {
         "name": "Meghan Kajihara",
         "url": "https:/dl.acm.org/profile/99659067772"
-      },
-      {
-        "name": " + 10",
-        "url": "https:/dl.acm.orgjavascript:void(0)"
       }
     ],
     "citations": "2",
-    "downloads": "246",
+    "downloads": "259",
     "doi": "10.1145/2968220.2968235",
     "extra": [
-      "September 2016",
       "pp 59–66",
       "https://doi.org/10.1145/2968220.2968235"
     ],
-    "conference_title": "Proceedings of the 9th International Symposium on Visual Information Communication and Interaction, VINCI 2016, Dallas, TX, USA, September 24-26, 2016.",
     "publisher": "ACM",
     "conference_isbn": "978-1-4503-4149-3"
   },
@@ -270,14 +232,12 @@
       }
     ],
     "citations": "3",
-    "downloads": "148",
+    "downloads": "152",
     "doi": "10.1145/2968220.2968236",
     "extra": [
-      "September 2016",
       "pp 67–74",
       "https://doi.org/10.1145/2968220.2968236"
     ],
-    "conference_title": "Proceedings of the 9th International Symposium on Visual Information Communication and Interaction, VINCI 2016, Dallas, TX, USA, September 24-26, 2016.",
     "publisher": "ACM",
     "conference_isbn": "978-1-4503-4149-3"
   },
@@ -290,21 +250,15 @@
       {
         "name": "Patrick Cheong-Iao Pang",
         "url": "https:/dl.acm.org/profile/99658770790"
-      },
-      {
-        "name": " + 2",
-        "url": "https:/dl.acm.orgjavascript:void(0)"
       }
     ],
     "citations": "4",
-    "downloads": "215",
+    "downloads": "219",
     "doi": "10.1145/2968220.2968239",
     "extra": [
-      "September 2016",
       "pp 75–82",
       "https://doi.org/10.1145/2968220.2968239"
     ],
-    "conference_title": "Proceedings of the 9th International Symposium on Visual Information Communication and Interaction, VINCI 2016, Dallas, TX, USA, September 24-26, 2016.",
     "publisher": "ACM",
     "conference_isbn": "978-1-4503-4149-3"
   },
@@ -324,14 +278,12 @@
       }
     ],
     "citations": "1",
-    "downloads": "55",
+    "downloads": "56",
     "doi": "10.1145/2968220.2968240",
     "extra": [
-      "September 2016",
       "pp 83–90",
       "https://doi.org/10.1145/2968220.2968240"
     ],
-    "conference_title": "Proceedings of the 9th International Symposium on Visual Information Communication and Interaction, VINCI 2016, Dallas, TX, USA, September 24-26, 2016.",
     "publisher": "ACM",
     "conference_isbn": "978-1-4503-4149-3"
   },
@@ -348,21 +300,15 @@
       {
         "name": "Lyndon Ong Yiu",
         "url": "https:/dl.acm.org/profile/99659068146"
-      },
-      {
-        "name": " + 2",
-        "url": "https:/dl.acm.orgjavascript:void(0)"
       }
     ],
     "citations": "0",
-    "downloads": "110",
+    "downloads": "111",
     "doi": "10.1145/2968220.2968241",
     "extra": [
-      "September 2016",
       "pp 91–95",
       "https://doi.org/10.1145/2968220.2968241"
     ],
-    "conference_title": "Proceedings of the 9th International Symposium on Visual Information Communication and Interaction, VINCI 2016, Dallas, TX, USA, September 24-26, 2016.",
     "publisher": "ACM",
     "conference_isbn": "978-1-4503-4149-3"
   },
@@ -379,21 +325,15 @@
       {
         "name": "Cong Xie",
         "url": "https:/dl.acm.org/profile/99659067824"
-      },
-      {
-        "name": " + 4",
-        "url": "https:/dl.acm.orgjavascript:void(0)"
       }
     ],
     "citations": "1",
-    "downloads": "129",
+    "downloads": "131",
     "doi": "10.1145/2968220.2968222",
     "extra": [
-      "September 2016",
       "pp 96–103",
       "https://doi.org/10.1145/2968220.2968222"
     ],
-    "conference_title": "Proceedings of the 9th International Symposium on Visual Information Communication and Interaction, VINCI 2016, Dallas, TX, USA, September 24-26, 2016.",
     "publisher": "ACM",
     "conference_isbn": "978-1-4503-4149-3"
   },
@@ -406,21 +346,15 @@
       {
         "name": "Tobias Ruppert",
         "url": "https:/dl.acm.org/profile/81474695617"
-      },
-      {
-        "name": " + 5",
-        "url": "https:/dl.acm.orgjavascript:void(0)"
       }
     ],
-    "citations": "1",
-    "downloads": "228",
+    "citations": "2",
+    "downloads": "235",
     "doi": "10.1145/2968220.2968223",
     "extra": [
-      "September 2016",
       "pp 104–111",
       "https://doi.org/10.1145/2968220.2968223"
     ],
-    "conference_title": "Proceedings of the 9th International Symposium on Visual Information Communication and Interaction, VINCI 2016, Dallas, TX, USA, September 24-26, 2016.",
     "publisher": "ACM",
     "conference_isbn": "978-1-4503-4149-3"
   },
@@ -440,14 +374,12 @@
       }
     ],
     "citations": "2",
-    "downloads": "152",
+    "downloads": "154",
     "doi": "10.1145/2968220.2968244",
     "extra": [
-      "September 2016",
       "pp 112–116",
       "https://doi.org/10.1145/2968220.2968244"
     ],
-    "conference_title": "Proceedings of the 9th International Symposium on Visual Information Communication and Interaction, VINCI 2016, Dallas, TX, USA, September 24-26, 2016.",
     "publisher": "ACM",
     "conference_isbn": "978-1-4503-4149-3"
   },
@@ -464,21 +396,15 @@
       {
         "name": "Yan Tang",
         "url": "https:/dl.acm.org/profile/99659067476"
-      },
-      {
-        "name": " + 5",
-        "url": "https:/dl.acm.orgjavascript:void(0)"
       }
     ],
     "citations": "0",
-    "downloads": "81",
+    "downloads": "83",
     "doi": "10.1145/2968220.2968246",
     "extra": [
-      "September 2016",
       "pp 117–121",
       "https://doi.org/10.1145/2968220.2968246"
     ],
-    "conference_title": "Proceedings of the 9th International Symposium on Visual Information Communication and Interaction, VINCI 2016, Dallas, TX, USA, September 24-26, 2016.",
     "publisher": "ACM",
     "conference_isbn": "978-1-4503-4149-3"
   },
@@ -502,14 +428,12 @@
       }
     ],
     "citations": "2",
-    "downloads": "134",
+    "downloads": "136",
     "doi": "10.1145/2968220.2968228",
     "extra": [
-      "September 2016",
       "pp 122–129",
       "https://doi.org/10.1145/2968220.2968228"
     ],
-    "conference_title": "Proceedings of the 9th International Symposium on Visual Information Communication and Interaction, VINCI 2016, Dallas, TX, USA, September 24-26, 2016.",
     "publisher": "ACM",
     "conference_isbn": "978-1-4503-4149-3"
   },
@@ -529,14 +453,12 @@
       }
     ],
     "citations": "11",
-    "downloads": "234",
+    "downloads": "248",
     "doi": "10.1145/2968220.2968232",
     "extra": [
-      "September 2016",
       "pp 130–137",
       "https://doi.org/10.1145/2968220.2968232"
     ],
-    "conference_title": "Proceedings of the 9th International Symposium on Visual Information Communication and Interaction, VINCI 2016, Dallas, TX, USA, September 24-26, 2016.",
     "publisher": "ACM",
     "conference_isbn": "978-1-4503-4149-3"
   },
@@ -553,21 +475,15 @@
       {
         "name": "Yuhua Liu",
         "url": "https:/dl.acm.org/profile/81549102456"
-      },
-      {
-        "name": " + 2",
-        "url": "https:/dl.acm.orgjavascript:void(0)"
       }
     ],
     "citations": "2",
-    "downloads": "450",
+    "downloads": "467",
     "doi": "10.1145/2968220.2968227",
     "extra": [
-      "September 2016",
       "pp 138–139",
       "https://doi.org/10.1145/2968220.2968227"
     ],
-    "conference_title": "Proceedings of the 9th International Symposium on Visual Information Communication and Interaction, VINCI 2016, Dallas, TX, USA, September 24-26, 2016.",
     "publisher": "ACM",
     "conference_isbn": "978-1-4503-4149-3"
   },
@@ -584,21 +500,15 @@
       {
         "name": "Meilan Jin",
         "url": "https:/dl.acm.org/profile/99659068939"
-      },
-      {
-        "name": " + 1",
-        "url": "https:/dl.acm.orgjavascript:void(0)"
       }
     ],
     "citations": "0",
-    "downloads": "66",
+    "downloads": "68",
     "doi": "10.1145/2968220.2968231",
     "extra": [
-      "September 2016",
       "pp 140–141",
       "https://doi.org/10.1145/2968220.2968231"
     ],
-    "conference_title": "Proceedings of the 9th International Symposium on Visual Information Communication and Interaction, VINCI 2016, Dallas, TX, USA, September 24-26, 2016.",
     "publisher": "ACM",
     "conference_isbn": "978-1-4503-4149-3"
   },
@@ -615,21 +525,15 @@
       {
         "name": "Xi Han",
         "url": "https:/dl.acm.org/profile/99659067967"
-      },
-      {
-        "name": " + 2",
-        "url": "https:/dl.acm.orgjavascript:void(0)"
       }
     ],
     "citations": "0",
-    "downloads": "69",
+    "downloads": "70",
     "doi": "10.1145/2968220.2968233",
     "extra": [
-      "September 2016",
       "pp 142–143",
       "https://doi.org/10.1145/2968220.2968233"
     ],
-    "conference_title": "Proceedings of the 9th International Symposium on Visual Information Communication and Interaction, VINCI 2016, Dallas, TX, USA, September 24-26, 2016.",
     "publisher": "ACM",
     "conference_isbn": "978-1-4503-4149-3"
   },
@@ -644,15 +548,13 @@
         "url": "https:/dl.acm.org/profile/99659068200"
       }
     ],
-    "citations": "1",
-    "downloads": "530",
+    "citations": "2",
+    "downloads": "544",
     "doi": "10.1145/2968220.2968237",
     "extra": [
-      "September 2016",
       "pp 144–145",
       "https://doi.org/10.1145/2968220.2968237"
     ],
-    "conference_title": "Proceedings of the 9th International Symposium on Visual Information Communication and Interaction, VINCI 2016, Dallas, TX, USA, September 24-26, 2016.",
     "publisher": "ACM",
     "conference_isbn": "978-1-4503-4149-3"
   },
@@ -675,11 +577,9 @@
     "downloads": "53",
     "doi": "10.1145/2968220.2968243",
     "extra": [
-      "September 2016",
       "pp 146–147",
       "https://doi.org/10.1145/2968220.2968243"
     ],
-    "conference_title": "Proceedings of the 9th International Symposium on Visual Information Communication and Interaction, VINCI 2016, Dallas, TX, USA, September 24-26, 2016.",
     "publisher": "ACM",
     "conference_isbn": "978-1-4503-4149-3"
   },
@@ -699,14 +599,12 @@
       }
     ],
     "citations": "3",
-    "downloads": "76",
+    "downloads": "77",
     "doi": "10.1145/2968220.2968245",
     "extra": [
-      "September 2016",
       "pp 148–149",
       "https://doi.org/10.1145/2968220.2968245"
     ],
-    "conference_title": "Proceedings of the 9th International Symposium on Visual Information Communication and Interaction, VINCI 2016, Dallas, TX, USA, September 24-26, 2016.",
     "publisher": "ACM",
     "conference_isbn": "978-1-4503-4149-3"
   },
@@ -730,14 +628,12 @@
       }
     ],
     "citations": "1",
-    "downloads": "263",
+    "downloads": "268",
     "doi": "10.1145/2968220.2972225",
     "extra": [
-      "September 2016",
       "pp 150–151",
       "https://doi.org/10.1145/2968220.2972225"
     ],
-    "conference_title": "Proceedings of the 9th International Symposium on Visual Information Communication and Interaction, VINCI 2016, Dallas, TX, USA, September 24-26, 2016.",
     "publisher": "ACM",
     "conference_isbn": "978-1-4503-4149-3"
   },
@@ -757,14 +653,12 @@
       }
     ],
     "citations": "0",
-    "downloads": "62",
+    "downloads": "63",
     "doi": "10.1145/2968220.2972226",
     "extra": [
-      "September 2016",
       "pp 152–153",
       "https://doi.org/10.1145/2968220.2972226"
     ],
-    "conference_title": "Proceedings of the 9th International Symposium on Visual Information Communication and Interaction, VINCI 2016, Dallas, TX, USA, September 24-26, 2016.",
     "publisher": "ACM",
     "conference_isbn": "978-1-4503-4149-3"
   },
@@ -784,14 +678,12 @@
       }
     ],
     "citations": "0",
-    "downloads": "135",
+    "downloads": "137",
     "doi": "10.1145/2968220.2968234",
     "extra": [
-      "September 2016",
       "pp 154–155",
       "https://doi.org/10.1145/2968220.2968234"
     ],
-    "conference_title": "Proceedings of the 9th International Symposium on Visual Information Communication and Interaction, VINCI 2016, Dallas, TX, USA, September 24-26, 2016.",
     "publisher": "ACM",
     "conference_isbn": "978-1-4503-4149-3"
   },
@@ -811,14 +703,12 @@
       }
     ],
     "citations": "1",
-    "downloads": "177",
+    "downloads": "181",
     "doi": "10.1145/2968220.2968249",
     "extra": [
-      "September 2016",
       "pp 156",
       "https://doi.org/10.1145/2968220.2968249"
     ],
-    "conference_title": "Proceedings of the 9th International Symposium on Visual Information Communication and Interaction, VINCI 2016, Dallas, TX, USA, September 24-26, 2016.",
     "publisher": "ACM",
     "conference_isbn": "978-1-4503-4149-3"
   }

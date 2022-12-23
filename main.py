@@ -70,7 +70,7 @@ def main():
     papers_client.main_fun()
 
     extra_info_client = Info(data)
-    #extra_info_client.main_fun()
+    extra_info_client.main_fun()
     extra_info_client.get_authors()
     extra_info_client.get_institutions()
     extra_info_client.loop_authors()

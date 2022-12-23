@@ -18,7 +18,7 @@ class Info:
         self.authors_set = {}
         self.intitution_set = {}
         self.dir = "jsons/"
-        self.papers_path = "jsons/papers.json"
+        self.papers_path = "jsons/papers_u.json"
         self.authors_temp_path = "jsons/authors_tmp.json"
         self.load_data()
         self.real_authors_path = "jsons/authors.json"
