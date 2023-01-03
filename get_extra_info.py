@@ -33,6 +33,8 @@ class Info:
         self.cursor2 = self.conn2.cursor()
         self.id= 0
 
+        self.reference_list = {}
+
         self.headers_authors = ['id', '_id', 'name', 'sid', 'org', 'gid', 'oid', 'orgid', 'acmid', 'url']
 
     def connect_to_first_db(self):
@@ -170,9 +172,7 @@ class Info:
         references_list = soup.find("ol", class_="rlist references__list references__numeric")
         # loop references
         for ref in references_list:
-                
             pass
-
 
 
     def main_fun(self):

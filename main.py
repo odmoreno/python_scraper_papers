@@ -2,6 +2,7 @@ import config
 from common_functions import *
 from list_papers import *
 from get_extra_info import *
+from extract_refs import *
 
 dblp_base_url = 'https://dblp.org/db/conf/vinci/index.html'
 
@@ -66,8 +67,12 @@ def main():
         data = load_all_conferences()
 
     print(data)
-    papers_client = AcmClient(data)
+
+    #papers_client = AcmClient(data)
     #papers_client.main_fun()
+
+    get_refs = Refs(data)
+    get_refs.main_fun()
 
     extra_info_client = Info(data)
     #extra_info_client.main_fun()
