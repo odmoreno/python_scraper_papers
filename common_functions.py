@@ -9,6 +9,9 @@ from selenium.webdriver.support import expected_conditions as EC
 
 from webdriver_manager.chrome import ChromeDriverManager
 
+from selenium.common.exceptions import NoSuchElementException
+
+
 #from Levenshtein import ratio
 from urllib.parse import quote
 from bs4 import BeautifulSoup
