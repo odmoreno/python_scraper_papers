@@ -133,4 +133,11 @@ class Refs:
             fail_message(e)
 
     def loop_raw_refs(self):
-        pass
+        #load json pls
+        try:
+            for ref in self.reference_dict.values():
+                # get refs
+                print(ref)
+                pass
+        except Exception as e:
+            fail_message(e)
