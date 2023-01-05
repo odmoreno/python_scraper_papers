@@ -17,11 +17,17 @@ class Refs:
         self.papers_path = "jsons/papers_u.json"
         self.authors_temp_path = "jsons/authors_tmp.json"
         self.ref_path = "data/jsons/ref_list_raw.json"
-        self.load_data()
-        self.id= 0
         self.reference_list = {}
         self.headers_authors = ['id', '_id', 'name', 'sid', 'org', 'gid', 'oid', 'orgid', 'acmid', 'url']
         self.reference_dict = {}
+        # data para las refs
+        self.papers_ref_tmp = {}
+        self.refs_by_papers = {}
+        self.temps_doi = {}
+        # load
+        self.load_data()
+        self.id= 0
+
 
     def load_data(self):
         with open(self.dir + self.papers_path, encoding='utf-8') as fh:
@@ -32,6 +38,9 @@ class Refs:
         #print(authors)
         self.papers_dict = papers
         self.authors_tmp_dict = authors
+        with open(self.ref_path, encoding='utf-8') as fh:
+            refs = json.load(fh)
+        self.reference_dict = refs
         #return [papers, authors]
 
     def load_refs(self):
@@ -51,15 +60,16 @@ class Refs:
                 # get the json namefile of conference
                 name = url[0] + '_' + url[1]
                 namefile = config.path_to_search_results + name + '.json'
-                print("Inicia:", name)
+                print("-- Inicia:", name)
                 with open(namefile, encoding='utf-8') as f:
                     data = json.load(f)
                     for paper in data.values():
                         print(paper['title'])
                         print(paper['url'])
-                        self.get_references(paper)
+                        if paper['doi'] not in self.reference_dict:
+                            self.get_references(paper)
 
-                    print("Terminado: ", name)
+                    print("-- Terminado: ", name)
         except Exception as e:
             fail_message(e)
             self.driver_for_acm.quit()
@@ -97,11 +107,12 @@ class Refs:
         references_list = soup.find("ol", class_="rlist references__list references__numeric")
         # loop references
         ref_list = []
-        for ref in references_list:
-            text = ref.text
-            print(text)
-            data_ref = self.extract_refs_info(paper, ref)
-            ref_list.append(data_ref)
+        if references_list != None:
+            for ref in references_list:
+                text = ref.text
+                #print(text)
+                data_ref = self.extract_refs_info(paper, ref)
+                ref_list.append(data_ref)
 
         self.reference_list[paper['doi']] = ref_list
         self.save_list()
@@ -124,7 +135,7 @@ class Refs:
                 }
                 links.append(data)
             data_pad = {
-                'notes': refs_note.text,
+                'notes': refs_note.contents[0],
                 'links': links
             }
 
@@ -133,11 +144,23 @@ class Refs:
             fail_message(e)
 
     def loop_raw_refs(self):
-        #load json pls
+        #self.load_refs()
         try:
-            for ref in self.reference_dict.values():
+            for key in self.reference_dict:
                 # get refs
-                print(ref)
-                pass
+                list = self.reference_dict[key]
+                for ref in list:
+                    self.parse_data_ref(ref)
+
         except Exception as e:
             fail_message(e)
+
+    def parse_data_ref(self, ref):
+        notes = ref['notes']
+        links = ref['links']
+
+        txts = notes.split('.', maxsplit=3)
+
+        has_doi_in_notes = True if 'doi' in notes else False
+
+        print(txts)
