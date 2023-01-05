@@ -21,8 +21,8 @@ class Refs:
         self.headers_authors = ['id', '_id', 'name', 'sid', 'org', 'gid', 'oid', 'orgid', 'acmid', 'url']
         self.reference_dict = {}
         # data para las refs
-        self.papers_ref_tmp = {}
-        self.refs_by_papers = {}
+        self.ref_docs_tmp = {}
+        self.refs_for_papers = {}
         self.temps_doi = {}
         # load
         self.load_data()
@@ -159,8 +159,17 @@ class Refs:
         notes = ref['notes']
         links = ref['links']
 
-        txts = notes.split('.', maxsplit=3)
-
+        has_nd_in_notes = True if '[n. d.]' in notes else False
         has_doi_in_notes = True if 'doi' in notes else False
+        has_doi_link = False
+        last_href = ''
 
-        print(txts)
+        for element in links:
+            alt_parse = element['alt'].lower()
+            if(alt_parse == "digital library"):
+                has_doi_link = True
+            last_href = element['href']
+
+        notes_split_3 = notes.split('.', maxsplit=3)
+
+        print(notes_split_3)
