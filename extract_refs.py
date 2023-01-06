@@ -18,12 +18,15 @@ class Refs:
         self.authors_temp_path = "jsons/authors_tmp.json"
         self.ref_path = "data/jsons/ref_list_raw.json"
         self.reference_list = {}
-        self.headers_authors = ['id', '_id', 'name', 'sid', 'org', 'gid', 'oid', 'orgid', 'acmid', 'url']
         self.reference_dict = {}
         # data para las refs
-        self.ref_docs_tmp = {}
+        self.current_paper_doi = ''
+        self.ref_papers_tmp = {}
         self.refs_for_papers = {}
         self.temps_doi = {}
+        self.doi_list = []
+        self.ref_papers_path = 'data/jsons/ref_papers_tmp.json'
+        self.ref_for_papers_path = 'data/jsons/ref_per_paper.json'
         # load
         self.load_data()
         self.id= 0
@@ -54,6 +57,11 @@ class Refs:
         with open(self.ref_path, 'w', encoding="utf-8") as outfile:
             outfile.write(json_string)
 
+    def save_generic(self, path, collection):
+        json_string = json.dumps(collection, ensure_ascii=False, indent=2)
+        with open(path, 'w', encoding="utf-8") as outfile:
+            outfile.write(json_string)
+
     def main_fun(self):
         try:
             for url in self.list_urls:
@@ -80,7 +88,6 @@ class Refs:
         except NoSuchElementException:
             return False
         return True
-
 
     def get_references(self, paper):
         url_paper = paper['url']
@@ -148,16 +155,33 @@ class Refs:
         try:
             for key in self.reference_dict:
                 # get refs
+                self.current_paper_doi = key
                 list = self.reference_dict[key]
+                print(key)
+                print(len(list))
+                # Reset: lista de dois referenciados por paper
+                self.doi_list = []
                 for ref in list:
                     self.parse_data_ref(ref)
-
+                #adjuntamos los dois de las ref  en un nuevo dict
+                self.refs_for_papers[key] = self.doi_list
+                self.save_generic(self.ref_for_papers_path, self.refs_for_papers)
         except Exception as e:
             fail_message(e)
+
+    def replace_abbr(self, text):
+        t_split = text.split()
+        newlist = ''
+        for word in t_split:
+            new_word = re.sub(r'(?<!\w)([A-Z])\.', r'\1', word)
+            newlist += new_word + ' '
+        return  newlist
 
     def parse_data_ref(self, ref):
         notes = ref['notes']
         links = ref['links']
+        newword = self.replace_abbr(notes)
+        notes = newword
 
         has_nd_in_notes = True if '[n. d.]' in notes else False
         has_doi_in_notes = True if 'doi' in notes else False
@@ -171,5 +195,33 @@ class Refs:
             last_href = element['href']
 
         notes_split_3 = notes.split('.', maxsplit=3)
+        #print(notes_split_3)
 
-        print(notes_split_3)
+        if has_doi_in_notes:
+            doi_split = notes.split('doi.org/',1)
+            doi = doi_split[1]
+            self.save_paper_ref(notes_split_3, doi)
+
+
+    def save_paper_ref(self, element, doi):
+        if doi not in self.ref_papers_tmp:
+            authors = element[0].strip()
+            year = element[1].strip()
+            title = element[2].strip()
+            extra = element[3].strip()
+            url = 'https://doi.org/' + doi
+            data = {
+                "title": title,
+                "url": url,
+                "year": year,
+                "authors": authors,
+                "doi": doi,
+                "extra": extra,
+                'raw': element
+            }
+            self.ref_papers_tmp[doi] = data
+            self.doi_list.append(doi)
+            self.save_generic(self.ref_papers_path, self.ref_papers_tmp)
+
+
+
