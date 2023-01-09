@@ -6,6 +6,8 @@ import json
 import time
 import re
 from common_functions import *
+from unidecode import unidecode
+
 class Refs:
     def __init__(self, urls):
         self.list_urls = urls
@@ -168,6 +170,7 @@ class Refs:
                 self.save_generic(self.ref_for_papers_path, self.refs_for_papers)
         except Exception as e:
             fail_message(e)
+            print(ref)
 
     def replace_abbr(self, text):
         t_split = text.split()
@@ -181,42 +184,63 @@ class Refs:
         notes = ref['notes']
         links = ref['links']
         newword = self.replace_abbr(notes)
-        notes = newword
+        notes = unidecode(newword)
+        notes = notes.replace('"', '.')
 
         has_nd_in_notes = True if '[n. d.]' in notes else False
         has_doi_in_notes = True if 'doi' in notes else False
         has_doi_link = False
+        has_cross_ref_link = False
         last_href = ''
 
         for element in links:
             alt_parse = element['alt'].lower()
             if(alt_parse == "digital library"):
                 has_doi_link = True
+            elif alt_parse == "cross ref":
+                has_cross_ref_link = True
             last_href = element['href']
 
         notes_split_3 = notes.split('.', maxsplit=3)
         #print(notes_split_3)
 
+        doi = ''
         if has_doi_in_notes:
-            doi_split = notes.split('doi.org/',1)
+            notes_by_spaces= notes.split(' ')
+            for note in notes_by_spaces:
+                if 'doi.org' in note:
+                    doi_split = note.split('doi.org/',1)
+                    doi = doi_split[1]
+                    break
+        elif has_doi_link:
+            doi_split = last_href.split('doi/',1)
             doi = doi_split[1]
-            self.save_paper_ref(notes_split_3, doi)
+        elif has_cross_ref_link:
+            doi = last_href
+
+        if has_doi_in_notes or has_doi_link or has_cross_ref_link:
+            self.save_paper_ref(notes_split_3, doi, has_cross_ref_link)
 
 
-    def save_paper_ref(self, element, doi):
+    def save_paper_ref(self, element, doi, flag):
         if doi not in self.ref_papers_tmp:
-            authors = element[0].strip()
-            year = element[1].strip()
-            title = element[2].strip()
-            extra = element[3].strip()
-            url = 'https://doi.org/' + doi
+            i = 1
+            a ={}
+            for parts in element:
+                a['p'+ str(i)] = parts.strip()
+                i +=1
+
+            dl_link = 'https://doi.org/' + doi
+            cross_link =  'https://dl.acm.org/' + doi
+            url = cross_link if flag else dl_link
+
             data = {
-                "title": title,
+                "title": a['p3'] if 'p3' in a else '',
                 "url": url,
-                "year": year,
-                "authors": authors,
+                "year": a['p2'] if 'p2' in a else '',
+                "authors": a['p1'] if 'p1' in a else '',
                 "doi": doi,
-                "extra": extra,
+                "extra": a['p4'] if 'p4' in a else '',
                 'raw': element
             }
             self.ref_papers_tmp[doi] = data

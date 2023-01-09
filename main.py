@@ -75,11 +75,11 @@ def main():
     #get_refs.main_fun()
     get_refs.loop_raw_refs()
 
-    extra_info_client = Info(data)
+    #extra_info_client = Info(data)
     #extra_info_client.main_fun()
     #extra_info_client.get_authors()
-    extra_info_client.get_institutions()
-    extra_info_client.loop_authors()
+    #extra_info_client.get_institutions()
+    #extra_info_client.loop_authors()
     print('Finish')
 
 
