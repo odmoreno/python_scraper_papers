@@ -1,0 +1,134 @@
+{
+  "dl.acm.org": {
+    "name": "dl.acm.org",
+    "example": "https://dl.acm.org/10.1109/TSMC.1980.4308483"
+  },
+  "link.springer.com": {
+    "name": "link.springer.com",
+    "example": "https://link.springer.com/chapter/10.1007/978-3-540-85412-8_24"
+  },
+  "diglib.eg.org": {
+    "name": "diglib.eg.org",
+    "example": "https://diglib.eg.org/handle/10.2312/eurp20171182"
+  },
+  "www.sciencedirect.com": {
+    "name": "www.sciencedirect.com",
+    "example": "https://www.sciencedirect.com/science/article/pii/S0734189X86800470?via%3Dihub"
+  },
+  "ieeexplore.ieee.org": {
+    "name": "ieeexplore.ieee.org",
+    "example": "https://ieeexplore.ieee.org/document/6064996"
+  },
+  "arxiv.org": {
+    "name": "arxiv.org",
+    "example": "https://arxiv.org/abs/2007.15407"
+  },
+  "onlinelibrary.wiley.com": {
+    "name": "onlinelibrary.wiley.com",
+    "example": "https://onlinelibrary.wiley.com/doi/10.1002/spe.4380211102"
+  },
+  "doi.org": {
+    "name": "doi.org",
+    "example": "https://doi.org/10.5555/33404"
+  },
+  "www.sciengine.com": {
+    "name": "www.sciengine.com",
+    "example": "https://www.sciengine.com/JCADC/doi/10.3724/SP.J.1089.2021.18650;JSESSIONID=d7087b8e-d873-4c45-b1c8-84ec335bd8f9"
+  },
+  "www.mdpi.com": {
+    "name": "www.mdpi.com",
+    "example": "https://www.mdpi.com/2411-5150/4/1/10"
+  },
+  "mathematical-neuroscience.springeropen.com": {
+    "name": "mathematical-neuroscience.springeropen.com",
+    "example": "https://mathematical-neuroscience.springeropen.com/articles/10.1186/s13408-020-00092-x"
+  },
+  "opg.optica.org": {
+    "name": "opg.optica.org",
+    "example": "https://opg.optica.org/josa/abstract.cfm?uri=josa-34-1-46"
+  },
+  "direct.mit.edu": {
+    "name": "direct.mit.edu",
+    "example": "https://direct.mit.edu/leon/article-abstract/52/2/111/46529/Evaluation-and-Analysis-of-White-Space-in-Wu?redirectedFrom=fulltext"
+  },
+  "vciba.springeropen.com": {
+    "name": "vciba.springeropen.com",
+    "example": "https://vciba.springeropen.com/articles/10.1186/s42492-020-00059-5"
+  },
+  "journals.sagepub.com": {
+    "name": "journals.sagepub.com",
+    "example": "https://journals.sagepub.com/doi/10.1177/0146167213508151"
+  },
+  "ojs.aaai.org": {
+    "name": "ojs.aaai.org",
+    "example": "https://ojs.aaai.org/index.php/AAAI/article/view/3834"
+  },
+  "www.ijcai.org": {
+    "name": "www.ijcai.org",
+    "example": "https://www.ijcai.org/proceedings/2020/689"
+  },
+  "drops.dagstuhl.de": {
+    "name": "drops.dagstuhl.de",
+    "example": "https://drops.dagstuhl.de/opus/volltexte/2019/10421/"
+  },
+  "www.tandfonline.com": {
+    "name": "www.tandfonline.com",
+    "example": "https://www.tandfonline.com/doi/full/10.1080/13875868.2016.1226839?cookieSet=1"
+  },
+  "www.frontiersin.org": {
+    "name": "www.frontiersin.org",
+    "example": "https://www.frontiersin.org/articles/10.3389/fbuil.2020.00091/full"
+  },
+  "www.taylorfrancis.com": {
+    "name": "www.taylorfrancis.com",
+    "example": "https://www.taylorfrancis.com/books/edit/10.1201/9781351261524/gpu-pro-360-guide-rendering-wolfgang-engel"
+  },
+  "http:": {
+    "name": "http:",
+    "example": "http://diglib.eg.org/handle/10.2312/EG2011.stars.101-126"
+  },
+  "op.europa.eu": {
+    "name": "op.europa.eu",
+    "example": "https://op.europa.eu/en/publication-detail/-/publication/88d992ac-fe1f-409d-9bc0-1d1234f92569/language-en"
+  },
+  "www.scitepress.org": {
+    "name": "www.scitepress.org",
+    "example": "https://www.scitepress.org/Link.aspx?doi=10.5220/0010328602560265"
+  },
+  "ebooks.iospress.nl": {
+    "name": "ebooks.iospress.nl",
+    "example": "https://ebooks.iospress.nl/publication/51182"
+  },
+  "appliednetsci.springeropen.com": {
+    "name": "appliednetsci.springeropen.com",
+    "example": "https://appliednetsci.springeropen.com/articles/10.1007/s41109-019-0161-0"
+  },
+  "www.jedem.org": {
+    "name": "www.jedem.org",
+    "example": "https://www.jedem.org/index.php/jedem/article/view/422"
+  },
+  "joss.theoj.org": {
+    "name": "joss.theoj.org",
+    "example": "https://joss.theoj.org/papers/10.21105/joss.01313"
+  },
+  "www.cambridge.org": {
+    "name": "www.cambridge.org",
+    "example": "https://www.cambridge.org/core/journals/ps-political-science-and-politics/article/abs/legislative-explorer-datadriven-discovery-of-lawmaking/6465A40B644AF44CD01DE26C4032A897"
+  },
+  "www.doi.org": {
+    "name": "www.doi.org",
+    "example": "https://www.doi.org/publication/227184817"
+  },
+  "projecteuclid.org": {
+    "name": "projecteuclid.org",
+    "example": "https://projecteuclid.org/journals/statistical-science/volume-5/issue-3/Data-Based-Graphics--Visual-Display-in-the-Decades-to/10.1214/ss/1177012101.full"
+  },
+  "academic.oup.com": {
+    "name": "academic.oup.com",
+    "example": "https://academic.oup.com/iwc/article-abstract/17/3/229/701961?redirectedFrom=fulltext"
+  },
+  "bmcstructbiol.biomedcentral.com": {
+    "name": "bmcstructbiol.biomedcentral.com",
+    "example": "https://bmcstructbiol.biomedcentral.com/articles/10.1186/1472-6807-9-69"
+  }
+}

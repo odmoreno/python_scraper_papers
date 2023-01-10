@@ -186,6 +186,7 @@ class Refs:
         newword = self.replace_abbr(notes)
         notes = unidecode(newword)
         notes = notes.replace('"', '.')
+        notes = notes.replace('}}', '')
 
         has_nd_in_notes = True if '[n. d.]' in notes else False
         has_doi_in_notes = True if 'doi' in notes else False
@@ -200,6 +201,9 @@ class Refs:
             elif alt_parse == "cross ref":
                 has_cross_ref_link = True
             last_href = element['href']
+
+        if has_nd_in_notes:
+            notes = notes.replace('[n. d.]', '')
 
         notes_split_3 = notes.split('.', maxsplit=3)
         #print(notes_split_3)
@@ -219,10 +223,13 @@ class Refs:
             doi = last_href
 
         if has_doi_in_notes or has_doi_link or has_cross_ref_link:
-            self.save_paper_ref(notes_split_3, doi, has_cross_ref_link)
+            flag = False
+            if has_doi_in_notes or has_doi_link:
+                flag = True
+            self.save_paper_ref(notes_split_3, doi, flag)
 
 
-    def save_paper_ref(self, element, doi, flag):
+    def save_paper_ref(self, element, doi,flag):
         if doi not in self.ref_papers_tmp:
             i = 1
             a ={}
