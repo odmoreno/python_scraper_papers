@@ -164,6 +164,7 @@ class Refs:
                 # Reset: lista de dois referenciados por paper
                 self.doi_list = []
                 for ref in list:
+                    
                     self.parse_data_ref(ref)
                 #adjuntamos los dois de las ref  en un nuevo dict
                 self.refs_for_papers[key] = self.doi_list
@@ -184,6 +185,10 @@ class Refs:
         notes = ref['notes']
         links = ref['links']
         newword = self.replace_abbr(notes)
+
+        if '}}' in notes:
+            print('check')
+
         notes = unidecode(newword)
         notes = notes.replace('"', '.')
         notes = notes.replace('}}', '')
@@ -224,8 +229,11 @@ class Refs:
 
         if has_doi_in_notes or has_doi_link or has_cross_ref_link:
             flag = False
-            if has_doi_in_notes or has_doi_link:
+            if has_doi_in_notes:
                 flag = True
+            elif has_doi_link:
+                flag = True
+
             self.save_paper_ref(notes_split_3, doi, flag)
 
 
@@ -239,7 +247,7 @@ class Refs:
 
             dl_link = 'https://doi.org/' + doi
             cross_link =  'https://dl.acm.org/' + doi
-            url = cross_link if flag else dl_link
+            url = dl_link if flag else cross_link
 
             data = {
                 "title": a['p3'] if 'p3' in a else '',
