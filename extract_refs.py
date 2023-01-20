@@ -29,6 +29,7 @@ class Refs:
         self.doi_list = []
         self.ref_papers_path = 'data/jsons/ref_papers_tmp.json'
         self.ref_for_papers_path = 'data/jsons/ref_per_paper.json'
+
         # load
         self.load_data()
         self.id= 0
@@ -49,9 +50,9 @@ class Refs:
         #return [papers, authors]
 
     def load_refs(self):
-        with open(self.ref_path, encoding='utf-8') as fh:
+        with open(self.ref_papers_path, encoding='utf-8') as fh:
             refs = json.load(fh)
-        self.reference_dict = refs
+        self.ref_papers_tmp = refs
 
     def save_list(self):
         # save current list
@@ -153,7 +154,7 @@ class Refs:
             fail_message(e)
 
     def loop_raw_refs(self):
-        #self.load_refs()
+        self.load_refs()
         try:
             for key in self.reference_dict:
                 # get refs
@@ -187,6 +188,9 @@ class Refs:
         notes = unidecode(newword)
         notes = notes.replace('"', '.')
         notes = notes.replace('}}', '')
+
+        if 'A vision-based intelligent system for packing 2-D irregular' in notes:
+            print("here")
 
         has_nd_in_notes = True if '[n. d.]' in notes else False
         has_doi_in_notes = True if 'doi' in notes else False
@@ -238,8 +242,8 @@ class Refs:
                 i +=1
 
             dl_link = 'https://doi.org/' + doi
-            cross_link =  'https://dl.acm.org/' + doi
-            url = cross_link if flag else dl_link
+            cross_link = 'https://dl.acm.org/' + doi
+            url = dl_link if flag else cross_link
 
             data = {
                 "title": a['p3'] if 'p3' in a else '',

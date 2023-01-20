@@ -1,7 +1,7 @@
 {
-  "dl.acm.org": {
-    "name": "dl.acm.org",
-    "example": "https://dl.acm.org/10.1109/TSMC.1980.4308483"
+  "ieeexplore.ieee.org": {
+    "name": "ieeexplore.ieee.org",
+    "example": "https://ieeexplore.ieee.org/document/4308483"
   },
   "link.springer.com": {
     "name": "link.springer.com",
@@ -15,17 +15,25 @@
     "name": "www.sciencedirect.com",
     "example": "https://www.sciencedirect.com/science/article/pii/S0734189X86800470?via%3Dihub"
   },
-  "ieeexplore.ieee.org": {
-    "name": "ieeexplore.ieee.org",
-    "example": "https://ieeexplore.ieee.org/document/6064996"
-  },
   "arxiv.org": {
     "name": "arxiv.org",
     "example": "https://arxiv.org/abs/2007.15407"
   },
+  "dl.acm.org": {
+    "name": "dl.acm.org",
+    "example": "https://dl.acm.org/doi/10.1145/3397481.3450652"
+  },
   "onlinelibrary.wiley.com": {
     "name": "onlinelibrary.wiley.com",
     "example": "https://onlinelibrary.wiley.com/doi/10.1002/spe.4380211102"
+  },
+  "journals.plos.org": {
+    "name": "journals.plos.org",
+    "example": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0098679"
+  },
+  "www.spiedigitallibrary.org": {
+    "name": "www.spiedigitallibrary.org",
+    "example": "https://www.spiedigitallibrary.org/conference-proceedings-of-spie/8302/1/Automatic-design-of-magazine-covers/10.1117/12.914596.short?SSO=1"
   },
   "doi.org": {
     "name": "doi.org",
@@ -33,7 +41,7 @@
   },
   "www.sciengine.com": {
     "name": "www.sciengine.com",
-    "example": "https://www.sciengine.com/JCADC/doi/10.3724/SP.J.1089.2021.18650;JSESSIONID=d7087b8e-d873-4c45-b1c8-84ec335bd8f9"
+    "example": "https://www.sciengine.com/JCADC/doi/10.3724/SP.J.1089.2021.18650;JSESSIONID=af977e15-2f5a-4761-889e-43f7bd27576f"
   },
   "www.mdpi.com": {
     "name": "www.mdpi.com",
@@ -67,13 +75,17 @@
     "name": "www.ijcai.org",
     "example": "https://www.ijcai.org/proceedings/2020/689"
   },
+  "www.worldscientific.com": {
+    "name": "www.worldscientific.com",
+    "example": "https://www.worldscientific.com/doi/abs/10.1142/S0218195995000064"
+  },
   "drops.dagstuhl.de": {
     "name": "drops.dagstuhl.de",
     "example": "https://drops.dagstuhl.de/opus/volltexte/2019/10421/"
   },
   "www.tandfonline.com": {
     "name": "www.tandfonline.com",
-    "example": "https://www.tandfonline.com/doi/full/10.1080/13875868.2016.1226839?cookieSet=1"
+    "example": "https://www.tandfonline.com/doi/full/10.1080/13658816.2019.1684498?cookieSet=1"
   },
   "www.frontiersin.org": {
     "name": "www.frontiersin.org",
@@ -93,7 +105,7 @@
   },
   "www.scitepress.org": {
     "name": "www.scitepress.org",
-    "example": "https://www.scitepress.org/Link.aspx?doi=10.5220/0010328602560265"
+    "example": "https://www.scitepress.org/Link.aspx?doi=10.5220/0010328501330143"
   },
   "ebooks.iospress.nl": {
     "name": "ebooks.iospress.nl",
@@ -115,6 +127,18 @@
     "name": "www.cambridge.org",
     "example": "https://www.cambridge.org/core/journals/ps-political-science-and-politics/article/abs/legislative-explorer-datadriven-discovery-of-lawmaking/6465A40B644AF44CD01DE26C4032A897"
   },
+  "www.nature.com": {
+    "name": "www.nature.com",
+    "example": "https://www.nature.com/articles/bjc2013694"
+  },
+  "pubs.rsna.org": {
+    "name": "pubs.rsna.org",
+    "example": "https://pubs.rsna.org/doi/10.1148/radiol.2017170845"
+  },
+  "www.jstatsoft.org": {
+    "name": "www.jstatsoft.org",
+    "example": "https://www.jstatsoft.org/article/view/v053i09"
+  },
   "www.doi.org": {
     "name": "www.doi.org",
     "example": "https://www.doi.org/publication/227184817"
@@ -127,8 +151,56 @@
     "name": "academic.oup.com",
     "example": "https://academic.oup.com/iwc/article-abstract/17/3/229/701961?redirectedFrom=fulltext"
   },
+  "jcheminf.biomedcentral.com": {
+    "name": "jcheminf.biomedcentral.com",
+    "example": "https://jcheminf.biomedcentral.com/articles/10.1186/1758-2946-4-17"
+  },
+  "pubs.acs.org": {
+    "name": "pubs.acs.org",
+    "example": "https://pubs.acs.org/doi/10.1021/acs.jcim.5b00544"
+  },
+  "www.jstor.org": {
+    "name": "www.jstor.org",
+    "example": "https://www.jstor.org/stable/2333709?origin=crossref"
+  },
   "bmcstructbiol.biomedcentral.com": {
     "name": "bmcstructbiol.biomedcentral.com",
     "example": "https://bmcstructbiol.biomedcentral.com/articles/10.1186/1472-6807-9-69"
+  },
+  "jgaa.info": {
+    "name": "jgaa.info",
+    "example": "https://jgaa.info/getPaper?id=302"
+  },
+  "aclanthology.org": {
+    "name": "aclanthology.org",
+    "example": "https://aclanthology.org/W14-3110/"
+  },
+  "pnas.org": {
+    "name": "pnas.org",
+    "example": "https://pnas.org/doi/full/10.1073/pnas.0307654100"
+  },
+  "epubs.siam.org": {
+    "name": "epubs.siam.org",
+    "example": "https://epubs.siam.org/doi/10.1137/S0036144599352836"
+  },
+  "www.scientificamerican.com": {
+    "name": "www.scientificamerican.com",
+    "example": "https://www.scientificamerican.com/article/mathematical-games-1976-12/"
+  },
+  "www.science.org": {
+    "name": "www.science.org",
+    "example": "https://www.science.org/doi/10.1126/science.290.5500.2323"
+  },
+  "scholarspace.manoa.hawaii.edu": {
+    "name": "scholarspace.manoa.hawaii.edu",
+    "example": "https://scholarspace.manoa.hawaii.edu/items/ece4ec68-cdd4-4255-98c6-51eb8a7f4d8e"
+  },
+  "iopscience.iop.org": {
+    "name": "iopscience.iop.org",
+    "example": "https://iopscience.iop.org/article/10.1088/1742-6596/1361/1/012015"
+  },
+  "content.iospress.com": {
+    "name": "content.iospress.com",
+    "example": "https://content.iospress.com/articles/intelligent-data-analysis/ida00303"
   }
 }

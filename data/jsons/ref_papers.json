@@ -1,0 +1,267 @@
+{
+  "10.1109/TSMC.1980.4308483": {
+    "title": "Optimal Allocation of Two-Dimensional Irregular Shapes Using Heuristic Search Methods",
+    "url": "https://ieeexplore.ieee.org/document/4308483",
+    "year": "1980",
+    "authors": [
+      "Antonio Albano",
+      "Giuseppe Sapuppo"
+    ],
+    "citations": "128",
+    "views": "502",
+    "doi": "10.1109/TSMC.1980.4308483",
+    "conference": "IEEE Transactions on Systems, Man, and Cybernetics",
+    "abstract": "Abstract:A problem of relevant interest to some industrial processes is the one of allocating a specified number of two-dimensional regular or irregular generally different pieces on a stock of sheets of finite dimensions, the object being to minimize the amount of waste produced. The problem is present in industrial applications like shipbuilding, clothing manufacturing, or leather cutting. An approach is given where the solution is achieved with a heuristic search method typical of the artificial intelligence discipline. In this paper it is shown by the experimental results that this framework not only allows a simple formulation of the solution but represents an effective technique to obtain solutions competitive with the ones produced by hand."
+  },
+  "10.1109/TVCG.2011.185": {
+    "title": "D³ Data-Driven Documents",
+    "url": "https://ieeexplore.ieee.org/document/6064996",
+    "year": "2011",
+    "authors": [
+      "Michael Bostock",
+      "Vadim Ogievetsky",
+      "Jeffrey Heer"
+    ],
+    "citations": "1769",
+    "views": "9296",
+    "doi": "10.1109/TVCG.2011.185",
+    "conference": "IEEE Transactions on Visualization and Computer Graphics",
+    "abstract": "Abstract:Data-Driven Documents (D3) is a novel representation-transparent approach to visualization for the web. Rather than hide the underlying scenegraph within a toolkit-specific abstraction, D3 enables direct inspection and manipulation of a native representation: the standard document object model (DOM). With D3, designers selectively bind input data to arbitrary document elements, applying dynamic transforms to both generate and modify content. We show how representational transparency improves expressiveness and better integrates with developer tools than prior approaches, while offering comparable notational efficiency and retaining powerful declarative components. Immediate evaluation of operators further simplifies debugging and allows iterative development. Additionally, we demonstrate how D3 transforms naturally enable animation and interaction with dramatic performance improvements over intermediate representations."
+  },
+  "10.1109/TASE.2006.887158": {
+    "title": "A Vision-Based Intelligent System for Packing 2-D Irregular Shapes",
+    "url": "https://ieeexplore.ieee.org/document/4266805",
+    "year": "2007",
+    "authors": [
+      "Alexandros Bouganis",
+      "Murray Shanahan"
+    ],
+    "citations": "25",
+    "views": "651",
+    "doi": "10.1109/TASE.2006.887158",
+    "conference": "IEEE Transactions on Automation Science and Engineering",
+    "abstract": "Abstract:Packing two-dimensional shapes on a surface such that no shapes overlap and the uncovered surface area is minimized is an important problem that arises in a variety of industrial applications. This paper introduces an intelligent system which tackles the most difficult instance of this problem, where two-dimensional irregular shapes have to be packed on a regularly or irregularly shaped surface. The proposed system utilizes techniques not previously applied to packing, drawn from computer vision and artificial intelligence, and achieves high-quality solutions with short computational times. In addition, the system deals with complex shapes and constraints that occur in industrial applications, such as defective regions and irregularly shaped sheets. We evaluate the effectiveness and efficiency of the proposed method using 14 established benchmark problems that are available from the EURO Special Interest Group on Cutting and Packing."
+  },
+  "10.1109/ICPP.2017.47": {
+    "title": "Exploiting GPUs for Fast Force-Directed Visualization of Large-Scale Networks",
+    "url": "https://ieeexplore.ieee.org/document/8025312",
+    "year": "2017",
+    "authors": [
+      "Govert G  Brinkmann",
+      "Kristian F D  Rietveld",
+      "Frank W  Takes"
+    ],
+    "citations": "6",
+    "views": "441",
+    "doi": "10.1109/ICPP.2017.47",
+    "conference": "2017 46th International Conference on Parallel Processing",
+    "abstract": "Abstract:Network analysis software relies on graph layout algorithms to enable users to visually explore network data. Nowadays, networks easily consist of millions of nodes and edges, resulting in hours of computation time to obtain a readable graph layout on a typical workstation. Although these machines usually do not have a very large number of CPU cores, they can easily be equipped with Graphics Processing Units (GPUs), opening up the possibility of exploiting hundreds or even thousands of cores to counter the aforementioned computational challenges. In this paper we introduce a novel GPU framework for visualizing large real-world network data. The main focus is on a GPU implementation of force-directed graph layout algorithms, which are known to create high quality network visualizations. The proposed framework is used to parallelize the well-known ForceAtlas2 algorithm, which is widely used in many popular network analysis packages and toolkits. The different procedures and data structures of the algorithm are adjusted to the CUDA GPU architecture's specifics in terms of memory coalescing, shared memory usage and thread workload balance. To evaluate its performance, the GPU implementation is tested using a diverse set of 38 different large-scale real-world networks. This allows for a thorough characterization of the parallelizable components of both force-directed layout algorithms in general as well as the proposed GPU framework as a whole. Experiments demonstrate how the approach can efficiently process very large real-world networks, showing overall speedup factors between 40x and 123x compared to existing CPU implementations. In practice, this means that a network with 4 million nodes and 120 million edges can be visualized in 14 minutes rather than 9 hours."
+  },
+  "10.1109/VL.1993.269619": {
+    "title": "Constraint-driven diagram layout",
+    "url": "https://ieeexplore.ieee.org/document/269619",
+    "year": "1993",
+    "authors": [
+      "E  Dengler",
+      "M  Friedell",
+      "J  Marks"
+    ],
+    "citations": "12",
+    "views": "122",
+    "doi": "10.1109/VL.1993.269619",
+    "conference": "Proceedings 1993 IEEE Symposium on Visual Languages",
+    "abstract": "Abstract:Taking both perceptual organization and aesthetic criteria into account is the key to high-quality diagram layout, but makes for a more difficult problem than pure aesthetic layout. Computing the layout of a network diagram that exhibits a specified perceptual organization can be phrased as a constraint-satisfaction problem. Some constraints are derived from the perceptual-organization specification: the nodes in the diagram must be positioned so that they form specified perceptual gestalts, i.e., certain groups of nodes must form perceptual groupings by proximity, or symmetry, or shape motif, etc. Additional constraints are derived from aesthetic considerations: the layout should satisfy criteria that concern the number of link crossings, the sum of link lengths, or diagram area, etc. Using a generalization of a simple mass-spring layout technique to 'satisfice' constraints, we show how to produce high-quality layouts with specified perceptual organization for medium-sized diagrams (10-30 nodes) in under 30 seconds on a workstation.<\n>"
+  },
+  "10.1109/PacificVis.2012.6183556": {
+    "title": "Exploring the design space of composite visualization",
+    "url": "https://ieeexplore.ieee.org/document/6183556",
+    "year": "2012",
+    "authors": [
+      "Waqas Javed",
+      "Niklas Elmqvist"
+    ],
+    "citations": "94",
+    "views": "1464",
+    "doi": "10.1109/PacificVis.2012.6183556",
+    "conference": "2012 IEEE Pacific Visualization Symposium",
+    "abstract": "Abstract:We propose the notion of composite visualization views (CVVs) as a theoretical model that unifies the existing coordinated multiple views (CMV) paradigm with other strategies for combining visual representations in the same geometrical space. We identify five such strategies - called CVV design patterns - based on an extensive review of the literature in composite visualization. We go on to show how these design patterns can all be expressed in terms of a design space describing the correlation between two visualizations in terms of spatial mapping as well as the data relationships between items in the visualizations. We also discuss how to use this design space to suggest potential directions for future research."
+  },
+  "10.1109/TVCG.2018.2865240": {
+    "title": "Formalizing Visualization Design Knowledge as Constraints: Actionable and Extensible Models in Draco",
+    "url": "https://ieeexplore.ieee.org/document/8440847",
+    "year": "2019",
+    "authors": [
+      "Dominik Moritz",
+      "Chenglong Wang",
+      "Greg L  Nelson",
+      "Halden Lin",
+      "Adam M  Smith",
+      "Bill Howe",
+      "Jeffrey Heer"
+    ],
+    "citations": "106",
+    "views": "2123",
+    "doi": "10.1109/TVCG.2018.2865240",
+    "conference": "IEEE Transactions on Visualization and Computer Graphics",
+    "abstract": "Abstract:There exists a gap between visualization design guidelines and their application in visualization tools. While empirical studies can provide design guidance, we lack a formal framework for representing design knowledge, integrating results across studies, and applying this knowledge in automated design tools that promote effective encodings and facilitate visual exploration. We propose modeling visualization design knowledge as a collection of constraints, in conjunction with a method to learn weights for soft constraints from experimental data. Using constraints, we can take theoretical design knowledge and express it in a concrete, extensible, and testable form: the resulting models can recommend visualization designs and can easily be augmented with additional constraints or updated weights. We implement our approach in Draco, a constraint-based system based on Answer Set Programming (ASP). We demonstrate how to construct increasingly sophisticated automated visualization design systems, including systems based on weights learned directly from the results of graphical perception experiments."
+  },
+  "10.1109/TVCG.2018.2864903": {
+    "title": "What Do We Talk About When We Talk About Dashboards?",
+    "url": "https://ieeexplore.ieee.org/document/8443395",
+    "year": "2019",
+    "authors": [
+      "Alper Sarikaya",
+      "Michael Correll",
+      "Lyn Bartram",
+      "Melanie Tory",
+      "Danyel Fisher"
+    ],
+    "citations": "114",
+    "views": "6103",
+    "doi": "10.1109/TVCG.2018.2864903",
+    "conference": "IEEE Transactions on Visualization and Computer Graphics",
+    "abstract": "Abstract:Dashboards are one of the most common use cases for data visualization, and their design and contexts of use are considerably different from exploratory visualization tools. In this paper, we look at the broad scope of how dashboards are used in practice through an analysis of dashboard examples and documentation about their use. We systematically review the literature surrounding dashboard use, construct a design space for dashboards, and identify major dashboard types. We characterize dashboards by their design goals, levels of interaction, and the practices around them. Our framework and literature review suggest a number of fruitful research directions to better support dashboard design, implementation, and use."
+  },
+  "10.1109/TVCG.2016.2599030": {
+    "title": "Vega-Lite: A Grammar of Interactive Graphics",
+    "url": "https://ieeexplore.ieee.org/document/7539624",
+    "year": "2017",
+    "authors": [
+      "Arvind Satyanarayan",
+      "Dominik Moritz",
+      "Kanit Wongsuphasawat",
+      "Jeffrey Heer"
+    ],
+    "citations": "311",
+    "views": "4526",
+    "doi": "10.1109/TVCG.2016.2599030",
+    "conference": "IEEE Transactions on Visualization and Computer Graphics",
+    "abstract": "Abstract:We present Vega-Lite, a high-level grammar that enables rapid specification of interactive data visualizations. Vega-Lite combines a traditional grammar of graphics, providing visual encoding rules and a composition algebra for layered and multi-view displays, with a novel grammar of interaction. Users specify interactive semantics by composing selections. In Vega-Lite, a selection is an abstraction that defines input event processing, points of interest, and a predicate function for inclusion testing. Selections parameterize visual encodings by serving as input data, defining scale extents, or by driving conditional logic. The Vega-Lite compiler automatically synthesizes requisite data flow and event handling logic, which users can override for further customization. In contrast to existing reactive specifications, Vega-Lite selections decompose an interaction design into concise, enumerable semantic units. We evaluate Vega-Lite through a range of examples, demonstrating succinct specification of both customized interaction methods and common techniques such as panning, zooming, and linked selection."
+  },
+  "10.1109/2945.981851": {
+    "title": "Polaris: a system for query, analysis, and visualization of multidimensional relational databases",
+    "url": "https://ieeexplore.ieee.org/document/981851",
+    "year": "2002",
+    "authors": [
+      "C  Stolte",
+      "D  Tang",
+      "P  Hanrahan"
+    ],
+    "citations": "386",
+    "views": "2851",
+    "doi": "10.1109/2945.981851",
+    "conference": "IEEE Transactions on Visualization and Computer Graphics",
+    "abstract": "Abstract:In the last several years, large multidimensional databases have become common in a variety of applications, such as data warehousing and scientific computing. Analysis and exploration tasks place significant demands on the interfaces to these databases. Because of the size of the data sets, dense graphical representations are more effective for exploration than spreadsheets and charts. Furthermore, because of the exploratory nature of the analysis, it must be possible for the analysts to change visualizations rapidly as they pursue a cycle involving first hypothesis and then experimentation. In this paper, we present Polaris, an interface for exploring large multidimensional databases that extends the well-known pivot table interface. The novel features of Polaris include an interface for constructing visual specifications of table-based graphical displays and the ability to generate a precise set of relational queries from the visual specifications. The visual specifications can be rapidly and incrementally developed, giving the analyst visual feedback as he constructs complex queries and visualizations."
+  },
+  "10.1109/CVPR.2011.5995539": {
+    "title": "Aesthetic quality classification of photographs based on color harmony",
+    "url": "https://ieeexplore.ieee.org/document/5995539",
+    "year": "2011",
+    "authors": [
+      "Masashi Nishiyama",
+      "Takahiro Okabe",
+      "Imari Sato",
+      "Yoichi Sato"
+    ],
+    "citations": "128",
+    "views": "1779",
+    "doi": "10.1109/CVPR.2011.5995539",
+    "conference": "CVPR 2011",
+    "abstract": "Abstract:Aesthetic quality classification plays an important role in how people organize large photo collections. In particular, color harmony is a key factor in the various aspects that determine the perceived quality of a photo, and it should be taken into account to improve the performance of automatic aesthetic quality classification. However, the existing models of color harmony take only simple color patterns into consideration-e.g., patches consisting of a few colors-and thus cannot be used to assess photos with complicated color arrangements. In this work, we tackle the challenging problem of evaluating the color harmony of photos with a particular focus on aesthetic quality classification. A key point is that a photograph can be seen as a collection of local regions with color variations that are relatively simple. This led us to develop a method for assessing the aesthetic quality of a photo based on the photo's color harmony. We term the method `bags-of-color-patterns.' Results of experiments on a large photo collection with user-provided aesthetic quality scores show that our aesthetic quality classification method, which explicitly takes into account the color harmony of a photo, outperforms the existing methods. Results also show that the classification performance is improved by combining our color harmony feature with blur, edges, and saliency features that reflect the aesthetics of the photos."
+  },
+  "10.1109/JSTSP.2009.2015077": {
+    "title": "Aesthetic Visual Quality Assessment of Paintings",
+    "url": "https://ieeexplore.ieee.org/document/4799314",
+    "year": "2009",
+    "authors": [
+      "Congcong Li",
+      "Tsuhan Chen"
+    ],
+    "citations": "160",
+    "views": "2274",
+    "doi": "10.1109/JSTSP.2009.2015077",
+    "conference": "IEEE Journal of Selected Topics in Signal Processing",
+    "abstract": "Abstract:This paper aims to evaluate the aesthetic visual quality of a special type of visual media: digital images of paintings. Assessing the aesthetic visual quality of paintings can be considered a highly subjective task. However, to some extent, certain paintings are believed, by consensus, to have higher aesthetic quality than others. In this paper, we treat this challenge as a machine learning problem, in order to evaluate the aesthetic quality of paintings based on their visual content. We design a group of methods to extract features to represent both the global characteristics and local characteristics of a painting. Inspiration for these features comes from our prior knowledge in art and a questionnaire survey we conducted to study factors that affect human's judgments. We collect painting images and ask human subjects to score them. These paintings are then used for both training and testing in our experiments. Experimental results show that the proposed work can classify high-quality and low-quality paintings with performance comparable to humans. This work provides a machine learning scheme for the research of exploring the relationship between aesthetic perceptions of human and the computational visual features extracted from paintings."
+  },
+  "10.1109/ISBI.2018.8363851": {
+    "title": "SonoEyeNet: Standardized fetal ultrasound plane detection informed by eye tracking",
+    "url": "https://ieeexplore.ieee.org/document/8363851",
+    "year": "2018",
+    "authors": [
+      "Y  Cai",
+      "H  Sharma",
+      "P  Chatelain",
+      "J  A  Noble"
+    ],
+    "citations": "19",
+    "views": "512",
+    "doi": "10.1109/ISBI.2018.8363851",
+    "conference": "2018 IEEE 15th International Symposium on Biomedical Imaging",
+    "abstract": "Abstract:We present a novel automated approach for detection of standardized abdominal circumference (AC) planes in fetal ultrasound built in a convolutional neural network (CNN) framework, called SonoEyeNet, that utilizes eye movement data of a sonographer in automatic interpretation. Eye movement data was collected from experienced sonographers as they identified an AC plane in fetal ultrasound video clips. A visual heatmap was generated from the eye movements for each video frame. A CNN model was built using ultrasound frames and their corresponding visual heatmaps. Different methods of processing visual heatmaps and their fusion with image feature maps were investigated. We show that with the assistance of human visual fixation information, the precision, recall and F1-score of AC plane detection was increased to 96.5%, 99.0% and 97.8% respectively, compared to 73.6%, 74.1% and 73.8% without using eye fixation information."
+  },
+  "10.1109/ISBI45749.2020.9098505": {
+    "title": "Discovering Salient Anatomical Landmarks by Predicting Human Gaze",
+    "url": "https://ieeexplore.ieee.org/document/9098505",
+    "year": "2020",
+    "authors": [
+      "R  Droste",
+      "P  Chatelain",
+      "L  Drukker",
+      "H  Sharma",
+      "A  T  Papageorghiou",
+      "J  A  Noble"
+    ],
+    "citations": "2",
+    "views": "221",
+    "doi": "10.1109/ISBI45749.2020.9098505",
+    "conference": "2020 IEEE 17th International Symposium on Biomedical Imaging",
+    "abstract": "Abstract:Anatomical landmarks are a crucial prerequisite for many medical imaging tasks. Usually, the set of landmarks for a given task is predefined by experts. The landmark locations for a given image are then annotated manually or via machine learning methods trained on manual annotations. In this paper, in contrast, we present a method to automatically discover and localize anatomical landmarks in medical images. Specifically, we consider landmarks that attract the visual attention of humans, which we term visually salient landmarks. We illustrate the method for fetal neurosonographic images. First, full-length clinical fetal ultrasound scans are recorded with live sonographer gaze-tracking. Next, a convolutional neural network (CNN) is trained to predict the gaze point distribution (saliency map) of the sonographers on scan video frames. The CNN is then used to predict saliency maps of unseen fetal neurosonographic images, and the landmarks are extracted as the local maxima of these saliency maps. Finally, the landmarks are matched across images by clustering the landmark CNN features. We show that the discovered landmarks can be used within affine image registration, with average landmark alignment errors between 4.1% and 10.9% of the fetal head long axis length."
+  },
+  "10.1109/CVPR.2016.90": {
+    "title": "Deep Residual Learning for Image Recognition",
+    "url": "https://ieeexplore.ieee.org/document/7780459",
+    "year": "2016",
+    "authors": [
+      "Kaiming He",
+      "Xiangyu Zhang",
+      "Shaoqing Ren",
+      "Jian Sun"
+    ],
+    "citations": "65274",
+    "views": "124963",
+    "doi": "10.1109/CVPR.2016.90",
+    "conference": "2016 IEEE Conference on Computer Vision and Pattern Recognition",
+    "abstract": "Abstract:Deeper neural networks are more difficult to train. We present a residual learning framework to ease the training of networks that are substantially deeper than those used previously. We explicitly reformulate the layers as learning residual functions with reference to the layer inputs, instead of learning unreferenced functions. We provide comprehensive empirical evidence showing that these residual networks are easier to optimize, and can gain accuracy from considerably increased depth. On the ImageNet dataset we evaluate residual nets with a depth of up to 152 layers - 8× deeper than VGG nets [40] but still having lower complexity. An ensemble of these residual nets achieves 3.57% error on the ImageNet test set. This result won the 1st place on the ILSVRC 2015 classification task. We also present analysis on CIFAR-10 with 100 and 1000 layers. The depth of representations is of central importance for many visual recognition tasks. Solely due to our extremely deep representations, we obtain a 28% relative improvement on the COCO object detection dataset. Deep residual nets are foundations of our submissions to ILSVRC & COCO 2015 competitions1, where we also won the 1st places on the tasks of ImageNet detection, ImageNet localization, COCO detection, and COCO segmentation."
+  },
+  "10.1109/CVPR.2018.00745": {
+    "title": "Squeeze-and-Excitation Networks",
+    "url": "https://ieeexplore.ieee.org/document/8578843",
+    "year": "2018",
+    "authors": [
+      "Jie Hu",
+      "Li Shen",
+      "Gang Sun"
+    ],
+    "citations": "4421",
+    "views": "10148",
+    "doi": "10.1109/CVPR.2018.00745",
+    "conference": "2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+    "abstract": "Abstract:Convolutional neural networks are built upon the convolution operation, which extracts informative features by fusing spatial and channel-wise information together within local receptive fields. In order to boost the representational power of a network, several recent approaches have shown the benefit of enhancing spatial encoding. In this work, we focus on the channel relationship and propose a novel architectural unit, which we term the \"Squeeze-and-Excitation\" (SE) block, that adaptively recalibrates channel-wise feature responses by explicitly modelling interdependencies between channels. We demonstrate that by stacking these blocks together, we can construct SENet architectures that generalise extremely well across challenging datasets. Crucially, we find that SE blocks produce significant performance improvements for existing state-of-the-art deep architectures at minimal additional computational cost. SENets formed the foundation of our ILSVRC 2017 classification submission which won first place and significantly reduced the top-5 error to 2.251%, achieving a ~25% relative improvement over the winning entry of 2016. Code and models are available at https://github.com/hujie-frank/SENet."
+  },
+  "10.1109/CVPR46437.2021.01606": {
+    "title": "CAMERAS: Enhanced Resolution And Sanity preserving Class Activation Mapping for image saliency",
+    "url": "https://ieeexplore.ieee.org/document/9578277",
+    "year": "2021",
+    "authors": [
+      "Mohammad A  A  K  Jalwana",
+      "Naveed Akhtar",
+      "Mohammed Bennamoun",
+      "Ajmal Mian"
+    ],
+    "citations": "9",
+    "views": "66",
+    "doi": "10.1109/CVPR46437.2021.01606",
+    "conference": "2021 IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+    "abstract": "Abstract:Backpropagation image saliency aims at explaining model predictions by estimating model-centric importance of individual pixels in the input. However, classinsensitivity of the earlier layers in a network only allows saliency computation with low resolution activation maps of the deeper layers, resulting in compromised image saliency. Remedifying this can lead to sanity failures. We propose CAMERAS, a technique to compute high-fidelity backpropagation saliency maps without requiring any external priors and preserving the map sanity. Our method systematically performs multi-scale accumulation and fusion of the activation maps and backpropagated gradients to compute precise saliency maps. From accurate image saliency to articulation of relative importance of input features for different models, and precise discrimination between model perception of visually similar objects, our high-resolution mapping offers multiple novel insights into the black-box deep visual models, which are presented in the paper. We also demonstrate the utility of our saliency maps in adversarial setup by drastically reducing the norm of attack signals by focusing them on the precise regions identified by our maps. Our method also inspires new evaluation metrics and a sanity check for this developing research direction."
+  }
+}
