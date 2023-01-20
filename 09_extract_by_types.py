@@ -22,6 +22,16 @@ class Refs:
         self.published_list_path = 'data/jsons/publisheds.json'
         self.ref_papers_new = {}
         self.published_list = {}
+        #datos refs
+        self.ref_parsed_path = 'data/jsons/ref-parsed.json'
+        self.papers_refs_path = 'data/jsons/papers_ref.json'
+        self.documents = {}
+        self.papers_refs = {}
+        self.temp_doi = 1
+        self.current_doi = ''
+        self.ref_per_paper_path = 'data/jsons/ref_per_paper.json'
+        self.ref_per_paper = {}
+        self.doi_list = []
 
 
     def load_data(self):
@@ -174,7 +184,133 @@ class Refs:
         metric = soup.find("span", class_="metric")
         pass
 
+    def load_ref(self):
+        with open(self.ref_parsed_path, encoding='utf-8') as fh:
+            elemetn = json.load(fh)
+        self.documents = elemetn
+
+    def loop_parsed_refs(self):
+        self.load_ref()
+        try:
+            for doi in self.documents:
+                #datos del elemento con referencias
+                self.doi_list = []
+                self.current_doi  = doi
+                # loop de las referencias
+                list = self.documents[doi]
+                for document in list:
+                    self.get_reference(document)
+                # fin del loop agregamos la lista de refs al elemento original
+                self.ref_per_paper[doi] = self.doi_list
+                self.save_generic(self.ref_per_paper_path, self.ref_per_paper)
+        except Exception as e:
+            print(doi)
+            fail_message(e)
+
+    def check_nones(self, element):
+        element = '' if element is None else element
+        return element
+    
+    def get_reference(self, doc):
+
+        doi = 'temp'+ str(self.temp_doi)
+        authors = []
+        #datos del hash
+
+        authors_tmp = doc['author'] if 'author' in doc else ''
+        title = doc['title']  if 'title' in doc else ''
+        date = doc['date'] if 'date' in doc else ''
+        venue = doc['container-title'] if 'container-title' in doc else ''
+        location = doc['location'] if 'location' in doc else ''
+        publisher = doc['publisher'] if 'publisher' in doc else ''
+        volume = doc['volume'] if 'volume' in doc else ''
+        pages = doc['pages'] if 'pages' in doc else ''
+        url = doc['url'] if 'url' in doc else ''
+        tipo = doc['type'] if 'type' in doc else ''
+        note = doc['note'] if 'note' in doc else ''
+        raw = doc['raw']
+
+        print(title)
+
+        for author in authors_tmp:
+            given = author['given'] if 'given' in author else ''
+            family = author['family'] if 'family' in author else ''
+            new_author = given + ' ' + family
+            authors.append(new_author)
+
+        tipo = '' if tipo is None else tipo
+
+        tipo = tipo[0] if len(tipo) == 1 else tipo
+        title = title[0] if len(title) == 1 else title
+        url = url[0] if len(url) == 1 else url
+        date = date[0] if len(date) == 1 else date
+        venue = venue[0] if len(venue) == 1 else venue
+        location = location[0] if len(location) == 1 else location
+        note = note[0] if len(note) == 1 else note
+        publisher = publisher[0] if len(publisher) == 1 else publisher
+        volume = volume[0] if len(volume) == 1 else volume
+        pages = pages[0] if len(pages) == 1 else pages
+
+        if 'doi'in doc:
+            doi = doc['doi'][0]
+        else:
+            if 'arxiv' in doc:
+                doi = doc['arxiv'][0]
+            if len(raw) > 1:
+                info = raw[1]
+                alt = info['alt'].lower()
+                if (alt == 'digital library'):
+                    href = info['href']
+                    doi_split = href.split('doi/', 1)
+                    doi = doi_split[1]
+                else:
+                    print('servlet')
+                    href = info['href']
+                    url_tmp = 'https://dl.acm.org' + href
+                    self.driver.get(url_tmp)
+                    print(self.driver.current_url)
+                    #pub_name = self.pub_short_name(self.driver.current_url)
+                    url = self.driver.current_url
+                    if 'doi' in url:
+                        doi_split = url.split('doi/', 1)
+                        print(doi_split, len(doi_split))
+
+                        if len(doi_split) == 1:
+                            doi_split = url.split('doi', 1)
+                            doi = doi_split[1]
+                        else:
+                            doi = doi_split[1]
+
+                    elif 'doi.org' in url:
+                        doi_split = url.split('doi.org/',1)
+                        doi = doi_split[1]
+
+        data = {
+            "type": tipo,
+            "title": title,
+            "url": url,
+            "date": date,
+            "authors": authors,
+            "doi": doi,
+            "venue": venue,
+            "location": location,
+            "note": note,
+            "publisher": publisher,
+            "volume": volume,
+            "pages": pages
+        }
+        self.temp_doi +=1
+
+        if doi not in self.papers_refs:
+            self.papers_refs[doi] = data
+            self.save_generic(self.papers_refs_path, self.papers_refs)
+
+        self.doi_list.append(doi)
+
+
+    
 if __name__ == '__main__':
     client = Refs()
-    client.load_data()
-    client.get_info_tmp_ref()
+    #client.load_data()
+    #client.get_info_tmp_ref()
+    client.loop_parsed_refs()

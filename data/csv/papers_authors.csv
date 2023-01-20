@@ -1,0 +1,715 @@
+paper_id,paper_name,author_id,author_name
+10.1145/3481549.3481569,Hagrid — Gridify Scatterplots with Hilbert and Gosper Curves,99659583267,René  Cutura
+10.1145/3481549.3481569,Hagrid — Gridify Scatterplots with Hilbert and Gosper Curves,99660233714,Cristina  Morariu
+10.1145/3481549.3481569,Hagrid — Gridify Scatterplots with Hilbert and Gosper Curves,99659275761,Zhanglin  Cheng
+10.1145/3481549.3481569,Hagrid — Gridify Scatterplots with Hilbert and Gosper Curves,82658976157,Yunhai  Wang
+10.1145/3481549.3481569,Hagrid — Gridify Scatterplots with Hilbert and Gosper Curves,81100214723,Daniel  Weiskopf
+10.1145/3481549.3481569,Hagrid — Gridify Scatterplots with Hilbert and Gosper Curves,81375621529,Michael  Sedlmair
+10.1145/3481549.3481553,Scatterplot Selection Applying a Graph Coloring Algorithm,81100329777,Takayuki  Itoh
+10.1145/3481549.3481553,Scatterplot Selection Applying a Graph Coloring Algorithm,99659915690,Asuka  Nakabayashi
+10.1145/3481549.3481553,Scatterplot Selection Applying a Graph Coloring Algorithm,81100399955,Mariko  Hagita
+10.1145/3481549.3481557,Visual Analysis of Industrial Multivariate Time Series,99659915368,Maath  Musleh
+10.1145/3481549.3481557,Visual Analysis of Industrial Multivariate Time Series,99659465677,Angelos  Chatzimparmpas
+10.1145/3481549.3481557,Visual Analysis of Industrial Multivariate Time Series,81472654517,Ilir Jusufi
+10.1145/3481549.3481563,"PropellerHand: A Hand-Mounted, Propeller-Based Force Feedback Device",99659248999,Alexander  Achberger
+10.1145/3481549.3481563,"PropellerHand: A Hand-Mounted, Propeller-Based Force Feedback Device",99659583503,Frank  Heyen
+10.1145/3481549.3481563,"PropellerHand: A Hand-Mounted, Propeller-Based Force Feedback Device",99659915852,Kresimir  Vidakovic
+10.1145/3481549.3481563,"PropellerHand: A Hand-Mounted, Propeller-Based Force Feedback Device",81375621529,Michael  Sedlmair
+10.1145/3481549.3481568,"Interactive Simulation and Visualization ofLong-Term, ETF-based Investment Strategies",99659915755,Martin  Büßemeyer
+10.1145/3481549.3481568,"Interactive Simulation and Visualization ofLong-Term, ETF-based Investment Strategies",82458918757,Daniel Limberger
+10.1145/3481549.3481568,"Interactive Simulation and Visualization ofLong-Term, ETF-based Investment Strategies",99659051346,Willy  Scheibel
+10.1145/3481549.3481568,"Interactive Simulation and Visualization ofLong-Term, ETF-based Investment Strategies",81100019985,Jürgen  Döllner
+10.1145/3481549.3481570,Visualization of Data Changes in 2.5D Treemaps usingProcedural Textures and Animated Transitions,82458918757,Daniel Limberger
+10.1145/3481549.3481570,Visualization of Data Changes in 2.5D Treemaps usingProcedural Textures and Animated Transitions,99659051346,Willy  Scheibel
+10.1145/3481549.3481570,Visualization of Data Changes in 2.5D Treemaps usingProcedural Textures and Animated Transitions,99659916274,Jan  van Dieken
+10.1145/3481549.3481570,Visualization of Data Changes in 2.5D Treemaps usingProcedural Textures and Animated Transitions,81100019985,Jürgen  Döllner
+10.1145/3481549.3481562,EyeFIX: An Interactive Visual Analytics Interface for Eye Movement Analysis,99659275978,Ayush  Kumar
+10.1145/3481549.3481562,EyeFIX: An Interactive Visual Analytics Interface for Eye Movement Analysis,99659034607,Bharat  Goel
+10.1145/3481549.3481562,EyeFIX: An Interactive Visual Analytics Interface for Eye Movement Analysis,99659915763,Keshav Rajupet Premkumar
+10.1145/3481549.3481562,EyeFIX: An Interactive Visual Analytics Interface for Eye Movement Analysis,81331488994,Michael  Burch
+10.1145/3481549.3481562,EyeFIX: An Interactive Visual Analytics Interface for Eye Movement Analysis,81452605314,Klaus D Mueller
+10.1145/3481549.3481560,An empirically-based spatial segmentation and coreference annotation scheme for comics,99659915568,Lauren  Edlin
+10.1145/3481549.3481560,An empirically-based spatial segmentation and coreference annotation scheme for comics,81320493799,Joshua D Reiss
+10.1145/3481549.3481556,RST as Narrative Structure for Node-Based Editors,99659658214,Cameron  Edmond
+10.1145/3481549.3481556,RST as Narrative Structure for Node-Based Editors,99658723776,Robert  Lawther
+10.1145/3481549.3481556,RST as Narrative Structure for Node-Based Editors,81488668405,Maxime  Cordeil
+10.1145/3481549.3481556,RST as Narrative Structure for Node-Based Editors,81464670479,Tomasz P Bednarz
+10.1145/3481549.3481554,SPLORT: Evaluation of a Web-based Approach for Descriptive and Exploratory Analysis of Multivariate Spatio-temporal Data,99659914931,Miguel  Alfonso Feijóo-García
+10.1145/3481549.3481554,SPLORT: Evaluation of a Web-based Approach for Descriptive and Exploratory Analysis of Multivariate Spatio-temporal Data,99659915656,José  Tiberio Hernández-Peñalosa
+10.1145/3481549.3481558,Design and Comparative Evaluation of Visualization Onboarding Methods,99659473900,Christina  Stoiber
+10.1145/3481549.3481558,Design and Comparative Evaluation of Visualization Onboarding Methods,99659914993,Conny  Walchshofer
+10.1145/3481549.3481558,Design and Comparative Evaluation of Visualization Onboarding Methods,99659915944,Florian  Grassinger
+10.1145/3481549.3481558,Design and Comparative Evaluation of Visualization Onboarding Methods,87258908057,Holger  Stitz
+10.1145/3481549.3481558,Design and Comparative Evaluation of Visualization Onboarding Methods,81375612900,Marc  Streit
+10.1145/3481549.3481558,Design and Comparative Evaluation of Visualization Onboarding Methods,81503660777,Wolfgang  Aigner
+10.1145/3481549.3481564,Cross-Platform Immersive Visualization and Navigation with Augmented Reality,99659916186,Akshay  Murari
+10.1145/3481549.3481564,Cross-Platform Immersive Visualization and Navigation with Augmented Reality,99659090947,Elias  Mahfoud
+10.1145/3481549.3481564,Cross-Platform Immersive Visualization and Navigation with Augmented Reality,81467643151,Weichao  Wang
+10.1145/3481549.3481564,Cross-Platform Immersive Visualization and Navigation with Augmented Reality,81100052641,Aidong Lu
+10.1145/3481549.3481555,Visual Linking of Feature Values in Immersive Graph Visualization Environment,99659915448,Hinako  Sassa
+10.1145/3481549.3481555,Visual Linking of Feature Values in Immersive Graph Visualization Environment,81488668405,Maxime  Cordeil
+10.1145/3481549.3481555,Visual Linking of Feature Values in Immersive Graph Visualization Environment,99658718448,Mitsuo Yoshida
+10.1145/3481549.3481555,Visual Linking of Feature Values in Immersive Graph Visualization Environment,81100329777,Takayuki  Itoh
+10.1145/3481549.3481566,ThreadRadar: A Thread-Aware Visualization for Debugging Concurrent Java Programs,99659915576,Oliver  Moseler
+10.1145/3481549.3481566,ThreadRadar: A Thread-Aware Visualization for Debugging Concurrent Java Programs,99659915201,Lucas  Kreber
+10.1145/3481549.3481566,ThreadRadar: A Thread-Aware Visualization for Debugging Concurrent Java Programs,81100020010,Stephan  Diehl
+10.1145/3481549.3481565,Interactive Visual Facets to Support Fluid Exploratory Search,99659914928,Chen  He
+10.1145/3481549.3481565,Interactive Visual Facets to Support Fluid Exploratory Search,81548012985,Luana  Micallef
+10.1145/3481549.3481565,Interactive Visual Facets to Support Fluid Exploratory Search,82259259657,Barış  Serim
+10.1145/3481549.3481565,Interactive Visual Facets to Support Fluid Exploratory Search,99659191803,Tung  Vuong
+10.1145/3481549.3481565,Interactive Visual Facets to Support Fluid Exploratory Search,81339525898,Tuukka  Ruotsalo
+10.1145/3481549.3481565,Interactive Visual Facets to Support Fluid Exploratory Search,81100644548,Giulio Iacucci
+10.1145/3481549.3481550,Visual Analysis of Graph Algorithm Dynamics,81331488994,Michael  Burch
+10.1145/3481549.3481550,Visual Analysis of Graph Algorithm Dynamics,81100493799,Günter Wallner
+10.1145/3481549.3481550,Visual Analysis of Graph Algorithm Dynamics,81100431196,Huub M M van de Wetering
+10.1145/3481549.3481550,Visual Analysis of Graph Algorithm Dynamics,99659915567,Freek  Rooks
+10.1145/3481549.3481550,Visual Analysis of Graph Algorithm Dynamics,99659915351,Olof  Morra
+10.1145/3481549.3481571,Enabling Comparative Analysis of Election Data in Ecuador,84460003257,Gonzalo Gabriel Méndez
+10.1145/3481549.3481571,Enabling Comparative Analysis of Election Data in Ecuador,99659915372,Oscar  Moreno
+10.1145/3481549.3481573,Software Galaxies: Displaying Coding Activitiesusing a Galaxy Metaphor,99659915322,Daniel  Atzberger
+10.1145/3481549.3481573,Software Galaxies: Displaying Coding Activitiesusing a Galaxy Metaphor,99659051346,Willy  Scheibel
+10.1145/3481549.3481573,Software Galaxies: Displaying Coding Activitiesusing a Galaxy Metaphor,82458918757,Daniel Limberger
+10.1145/3481549.3481573,Software Galaxies: Displaying Coding Activitiesusing a Galaxy Metaphor,81100019985,Jürgen  Döllner
+10.1145/3481549.3481572,Using Scrollytelling to Explain Voting Power in Ecuador,84460003257,Gonzalo Gabriel Méndez
+10.1145/3481549.3481572,Using Scrollytelling to Explain Voting Power in Ecuador,81492646025,Patricio  Mendoza
+10.1145/3481549.3481559,A Web-Based Tool for analysing Formula 1 Races and Seasons,99659914952,Sebastian  Eckl
+10.1145/3481549.3481559,A Web-Based Tool for analysing Formula 1 Races and Seasons,99659915658,Nick  Kerschagel
+10.1145/3481549.3481559,A Web-Based Tool for analysing Formula 1 Races and Seasons,81466647554,Uwe  Kloos
+10.1145/3481549.3481567,POEM: People-Oriented EMail for Social Connectedness,99659915851,Maitreya  Save
+10.1145/3481549.3481567,POEM: People-Oriented EMail for Social Connectedness,81100375996,Benjamin Allen Watson
+10.1145/3481549.3481551,OpinionManager: Visual Exploration of Online Reviews in P2P Accommodation,99659915798,Dong  Li
+10.1145/3481549.3481551,OpinionManager: Visual Exploration of Online Reviews in P2P Accommodation,99659290545,Hong  Yin
+10.1145/3481549.3481551,OpinionManager: Visual Exploration of Online Reviews in P2P Accommodation,81100220966,Changbo  Wang
+10.1145/3481549.3481551,OpinionManager: Visual Exploration of Online Reviews in P2P Accommodation,99659915122,Sicheng  Song
+10.1145/3481549.3481551,OpinionManager: Visual Exploration of Online Reviews in P2P Accommodation,99659482820,Kirlin  Li
+10.1145/3481549.3481551,OpinionManager: Visual Exploration of Online Reviews in P2P Accommodation,99658761360,Chenhui  Li
+10.1145/3481549.3481552,Particle pre-processing for particle-based fluid surface reconstruction,99659915850,Qiaorui  Chen
+10.1145/3481549.3481552,Particle pre-processing for particle-based fluid surface reconstruction,99659915914,Shuai  Zhang
+10.1145/3481549.3481552,Particle pre-processing for particle-based fluid surface reconstruction,81452604154,Yao  Zheng
+10.1145/3481549.3481561,Identifying Correlation Patterns in Large Educational Data Sources,99659916273,Marco  Schmid
+10.1145/3481549.3481561,Identifying Correlation Patterns in Large Educational Data Sources,99659915055,Rahel  Haymoz
+10.1145/3481549.3481561,Identifying Correlation Patterns in Large Educational Data Sources,99659916017,David  Schiller
+10.1145/3481549.3481561,Identifying Correlation Patterns in Large Educational Data Sources,81331488994,Michael  Burch
+10.1145/3430036.3430041,Survey of treemap layout algorithms,99659051346,Willy  Scheibel
+10.1145/3430036.3430041,Survey of treemap layout algorithms,82458918757,Daniel Limberger
+10.1145/3430036.3430041,Survey of treemap layout algorithms,81100019985,Jürgen  Döllner
+10.1145/3430036.3430054,Survey on user studies on the effectiveness of treemaps,99659638986,Carolin  Fiedler
+10.1145/3430036.3430054,Survey on user studies on the effectiveness of treemaps,99659051346,Willy  Scheibel
+10.1145/3430036.3430054,Survey on user studies on the effectiveness of treemaps,82458918757,Daniel Limberger
+10.1145/3430036.3430054,Survey on user studies on the effectiveness of treemaps,81375606710,Matthias  Trapp
+10.1145/3430036.3430054,Survey on user studies on the effectiveness of treemaps,81100019985,Jürgen  Döllner
+10.1145/3430036.3430037,Multiple linked perspectives on hierarchical data,81331488994,Michael  Burch
+10.1145/3430036.3430037,Multiple linked perspectives on hierarchical data,81100431196,Huub M M van de Wetering
+10.1145/3430036.3430037,Multiple linked perspectives on hierarchical data,99659653162,Nico  Klaassen
+10.1145/3356422.3356433,Visual Analytics of Urban Transportation from a Bike-Sharing and Taxi Perspective,99659483556,Haoran  Dai
+10.1145/3356422.3356433,Visual Analytics of Urban Transportation from a Bike-Sharing and Taxi Perspective,81421599679,Yubo  Tao
+10.1145/3356422.3356433,Visual Analytics of Urban Transportation from a Bike-Sharing and Taxi Perspective,81408600175,Hai  Lin
+10.1145/3356422.3356440,Revealing Travel Patterns from Dockless Bike-sharing Data Based on Tensor Decomposition,99659483577,Hao  Tang
+10.1145/3356422.3356440,Revealing Travel Patterns from Dockless Bike-sharing Data Based on Tensor Decomposition,99659482760,Sixiang  Fei
+10.1145/3356422.3356440,Revealing Travel Patterns from Dockless Bike-sharing Data Based on Tensor Decomposition,99659482636,Xiaoying  Shi
+10.1145/3356422.3356439,Visual predictive modeling of incomplete time series panel data,99658765084,Hanbyul  Yeon
+10.1145/3356422.3356439,Visual predictive modeling of incomplete time series panel data,99659482864,Mingyu  Pi
+10.1145/3356422.3356439,Visual predictive modeling of incomplete time series panel data,99659483077,Hyesook  Son
+10.1145/3356422.3356439,Visual predictive modeling of incomplete time series panel data,81372592812,Yun  Jang
+10.1145/3231622.3231624,EpidNews: An Epidemiological News Explorer for Monitoring Animal Diseases,99659291193,Rohan  Goel
+10.1145/3231622.3231624,EpidNews: An Epidemiological News Explorer for Monitoring Animal Diseases,99659290090,Samiha  Fadloun
+10.1145/3231622.3231624,EpidNews: An Epidemiological News Explorer for Monitoring Animal Diseases,99659290844,Sarah  Valentin
+10.1145/3231622.3231624,EpidNews: An Epidemiological News Explorer for Monitoring Animal Diseases,81375620314,Arnaud  Sallaberry
+10.1145/3231622.3231624,EpidNews: An Epidemiological News Explorer for Monitoring Animal Diseases,81384592979,Mathieu Roche
+10.1145/3231622.3231624,EpidNews: An Epidemiological News Explorer for Monitoring Animal Diseases,81100236660,Pascal  Poncelet
+10.1145/3231622.3231626,PedaViz: Visualising Hour-Level Pedestrian Activity,99659291871,Humphrey O Obie
+10.1145/3231622.3231626,PedaViz: Visualising Hour-Level Pedestrian Activity,81490649118,Caslon  Chua
+10.1145/3231622.3231626,PedaViz: Visualising Hour-Level Pedestrian Activity,81440623086,Iman Avazpour
+10.1145/3231622.3231626,PedaViz: Visualising Hour-Level Pedestrian Activity,99659003381,Mohamed Almorsy Abdelrazek
+10.1145/3231622.3231626,PedaViz: Visualising Hour-Level Pedestrian Activity,81100261843,John C. Grundy
+10.1145/3231622.3231626,PedaViz: Visualising Hour-Level Pedestrian Activity,81464670479,Tomasz P Bednarz
+10.1145/3231622.3231627,BehaviorTracker: Visual Analytics of Customer Switching Behavior in O2O Market,99659289556,Yaru  Du
+10.1145/3231622.3231627,BehaviorTracker: Visual Analytics of Customer Switching Behavior in O2O Market,81100220966,Changbo  Wang
+10.1145/3231622.3231627,BehaviorTracker: Visual Analytics of Customer Switching Behavior in O2O Market,99658761360,Chenhui  Li
+10.1145/3231622.3231627,BehaviorTracker: Visual Analytics of Customer Switching Behavior in O2O Market,99659290545,Hong  Yin
+10.1145/3231622.3231628,Contrast Enhancement Based on Viewing Distance,99659493271,Liang  Zhou
+10.1145/3231622.3231628,Contrast Enhancement Based on Viewing Distance,81100214723,Daniel  Weiskopf
+10.1145/3231622.3231635,Challenges and Perspectives of Interacting with Hierarchy Visualizations on Large-Scale Displays,81331488994,Michael  Burch
+10.1145/3231622.3231635,Challenges and Perspectives of Interacting with Hierarchy Visualizations on Large-Scale Displays,81490688158,Hansjörg  Schmauder
+10.1145/3231622.3231637,Generating Tractable Designs by Transforming Shape Grammars to Graph Grammars,99659256604,Xiaoyu  Wang
+10.1145/3231622.3231637,Generating Tractable Designs by Transforming Shape Grammars to Graph Grammars,99659194249,Yufeng  Liu
+10.1145/3231622.3231637,Generating Tractable Designs by Transforming Shape Grammars to Graph Grammars,99658620368,Jie  Li
+10.1145/3231622.3231637,Generating Tractable Designs by Transforming Shape Grammars to Graph Grammars,81350576955,K. Zhang
+10.1145/3231622.3231638,"Interactive, Height-Based Filtering in 2.5D Treemaps",82458918757,Daniel Limberger
+10.1145/3231622.3231638,"Interactive, Height-Based Filtering in 2.5D Treemaps",81375606710,Matthias  Trapp
+10.1145/3231622.3231638,"Interactive, Height-Based Filtering in 2.5D Treemaps",81100019985,Jürgen  Döllner
+10.1145/3231622.3231623,Automatic View Placement in 3D toward Hierarchical Non-Linear Presentations,99659291201,Daniil  Rodin
+10.1145/3231622.3231623,Automatic View Placement in 3D toward Hierarchical Non-Linear Presentations,81100400502,Gershon  Elber
+10.1145/3231622.3231639,3D Modelling and Visualisation of Heterogeneous Cell Membranes in Blender,99659292007,Mehmood  Ghaffar
+10.1145/3231622.3231639,3D Modelling and Visualisation of Heterogeneous Cell Membranes in Blender,99659292087,Niklas  Biere
+10.1145/3231622.3231639,3D Modelling and Visualisation of Heterogeneous Cell Membranes in Blender,99659290368,Daniel  Jäger
+10.1145/3231622.3231639,3D Modelling and Visualisation of Heterogeneous Cell Membranes in Blender,81100141840,Karsten  Klein
+10.1145/3231622.3231639,3D Modelling and Visualisation of Heterogeneous Cell Membranes in Blender,81100087062,Falk  Schreiber
+10.1145/3231622.3231639,3D Modelling and Visualisation of Heterogeneous Cell Membranes in Blender,99659291490,Olaf  Kruse
+10.1145/3231622.3231639,3D Modelling and Visualisation of Heterogeneous Cell Membranes in Blender,99658771476,Björn  Sommer
+10.1145/3231622.3231630,Property-Driven Dynamic Call Graph Exploration,81331488994,Michael  Burch
+10.1145/3231622.3231632,Upstream Visibility: A Multi-View Routing Visualization,99659289305,Luca  Marzialetti
+10.1145/3231622.3231632,Upstream Visibility: A Multi-View Routing Visualization,99659290958,Massimo  Candela
+10.1145/3231622.3231632,Upstream Visibility: A Multi-View Routing Visualization,81100464555,Giuseppe  Di Battista
+10.1145/3231622.3231633,IMDb Explorer: Visual Exploration of a Movie Database,81331488994,Michael  Burch
+10.1145/3231622.3231633,IMDb Explorer: Visual Exploration of a Movie Database,99659291294,Gerald  Baulig
+10.1145/3231622.3231633,IMDb Explorer: Visual Exploration of a Movie Database,99659292088,Tobias  Boley
+10.1145/3231622.3231633,IMDb Explorer: Visual Exploration of a Movie Database,99659290889,Arjana  Mehmeti
+10.1145/3231622.3231633,IMDb Explorer: Visual Exploration of a Movie Database,99659291964,Dina  Kurbanismailova
+10.1145/3231622.3231633,IMDb Explorer: Visual Exploration of a Movie Database,99659291329,Marc  Roswag
+10.1145/3231622.3231633,IMDb Explorer: Visual Exploration of a Movie Database,99659292148,Oliver  Streicher
+10.1145/3231622.3231633,IMDb Explorer: Visual Exploration of a Movie Database,99659289339,Steffen  Wittig
+10.1145/3231622.3231633,IMDb Explorer: Visual Exploration of a Movie Database,81466647554,Uwe  Kloos
+10.1145/3231622.3231625,Using an Augmented Reality Cube-Like Interface and 3D Gesture-Based Interaction to Navigate and Manipulate Data,99658638708,Nico  Reski
+10.1145/3231622.3231625,Using an Augmented Reality Cube-Like Interface and 3D Gesture-Based Interaction to Navigate and Manipulate Data,81310502395,Aris  Alissandrakis
+10.1145/3231622.3231641,Analysis of VINCI 2009-2017 Proceedings,81486656627,Kostiantyn Kucher
+10.1145/3231622.3231641,Analysis of VINCI 2009-2017 Proceedings,99659192192,Rafael Messias Martins
+10.1145/3231622.3231641,Analysis of VINCI 2009-2017 Proceedings,81100367883,Andreas Kerren
+10.1145/3231622.3232505,Application of Interactive Computer-Assisted Argument Extraction to Opinionated Social Media Texts,81486656627,Kostiantyn Kucher
+10.1145/3231622.3232505,Application of Interactive Computer-Assisted Argument Extraction to Opinionated Social Media Texts,81470654834,Maria  Skeppstedt
+10.1145/3231622.3232505,Application of Interactive Computer-Assisted Argument Extraction to Opinionated Social Media Texts,81100367883,Andreas Kerren
+10.1145/3231622.3232508,Diabetes Information in Social Media,99659291514,Alisa  Lincke
+10.1145/3231622.3232508,Diabetes Information in Social Media,81100336369,Jenny  Lundberg
+10.1145/3231622.3232508,Diabetes Information in Social Media,99659289733,Maria  Thunander
+10.1145/3231622.3232508,Diabetes Information in Social Media,81100334854,Marcelo  Milrad
+10.1145/3231622.3232508,Diabetes Information in Social Media,81100336369,Jenny  Lundberg
+10.1145/3231622.3232508,Diabetes Information in Social Media,81472654517,Ilir Jusufi
+10.1145/3231622.3232508,Diabetes Information in Social Media,81339515283,Jonas  Lundberg
+10.1145/3231622.3232506,Visualizing Programming Session Timelines,81501663475,Daniel Toll
+10.1145/3231622.3232506,Visualizing Programming Session Timelines,81442618410,Anna  Wingkvist
+10.1145/3231622.3232504,ChOWDER: Dynamic Contents Sharing through Remote Tiled Display System,99659292129,Tomohiro  Kawanabe
+10.1145/3231622.3232504,ChOWDER: Dynamic Contents Sharing through Remote Tiled Display System,81100125090,Jorji  Nonaka
+10.1145/3231622.3232504,ChOWDER: Dynamic Contents Sharing through Remote Tiled Display System,81100261727,Kenji  Ono
+10.1145/3231622.3231634,Data Modeling and Analysis on Fashion Evolution,99659291920,Tu  Xing
+10.1145/3231622.3231636,Information Visualization and Design,99659290153,Anna Sara Fagerholm
+10.1145/3231622.3231636,Information Visualization and Design,81496672621,Mattias  Andersson
+10.1145/3231622.3231629,Visual Notifier: A Timeline-Based Visualization for Notifications from Several Environments,81331488994,Michael  Burch
+10.1145/3231622.3231640,Towards Uncertainty Visualization in Smart Production Environments,81482662429,Björn  Zimmer
+10.1145/3231622.3231640,Towards Uncertainty Visualization in Smart Production Environments,99659185142,Jan  Zenisek
+10.1145/3231622.3231640,Towards Uncertainty Visualization in Smart Production Environments,81361609796,Hans-Christian Jetter
+10.1145/3231622.3232507,Improved Exploration with Dimensional Weight Manipulation in RadViz,99658768907,Hyunwoo  Han
+10.1145/3231622.3232507,Improved Exploration with Dimensional Weight Manipulation in RadViz,99659290729,Taerin  Yoon
+10.1145/3231622.3232507,Improved Exploration with Dimensional Weight Manipulation in RadViz,99659288906,Hyeonsik  Gong
+10.1145/3231622.3232507,Improved Exploration with Dimensional Weight Manipulation in RadViz,81458652821,Kyungwon  Lee
+10.1145/3105971.3105972,Visualizing uncertainty in flow diagrams: a case study in product costing,99659194221,Zana  Vosough
+10.1145/3105971.3105972,Visualizing uncertainty in flow diagrams: a case study in product costing,81479656070,Dietrich Kammer
+10.1145/3105971.3105972,Visualizing uncertainty in flow diagrams: a case study in product costing,81479645196,Mandy  Keck
+10.1145/3105971.3105972,Visualizing uncertainty in flow diagrams: a case study in product costing,81372593345,Rainer  Groh
+10.1145/3105971.3105980,A radviz-based visualization for understanding fuzzy clustering results,81549260756,Fangfang  Zhou
+10.1145/3105971.3105980,A radviz-based visualization for understanding fuzzy clustering results,99659194235,Minghui  Chen
+10.1145/3105971.3105980,A radviz-based visualization for understanding fuzzy clustering results,99659194186,Zeyu  Wang
+10.1145/3105971.3105980,A radviz-based visualization for understanding fuzzy clustering results,99659194127,Feng  Luo
+10.1145/3105971.3105980,A radviz-based visualization for understanding fuzzy clustering results,99659194176,Xiaobo  Luo
+10.1145/3105971.3105980,A radviz-based visualization for understanding fuzzy clustering results,99659194273,Wei  Huang
+10.1145/3105971.3105980,A radviz-based visualization for understanding fuzzy clustering results,81490680300,Yi  Chen
+10.1145/3105971.3105980,A radviz-based visualization for understanding fuzzy clustering results,81549278756,Ying  Zhao
+10.1145/3105971.3105983,Partial precedence of context-sensitive graph grammars,99659194214,Yang  Zou
+10.1145/3105971.3105983,Partial precedence of context-sensitive graph grammars,81319505316,Xiaoqin  Zeng
+10.1145/3105971.3105983,Partial precedence of context-sensitive graph grammars,99659194249,Yufeng  Liu
+10.1145/3105971.3105983,Partial precedence of context-sensitive graph grammars,81548020271,Huiyi  Liu
+10.1145/3105971.3105986,An application of optimization method for storyline based on cluster analysis,81549102456,Yuhua  Liu
+10.1145/3105971.3105986,An application of optimization method for storyline based on cluster analysis,99659194118,Hanfei Lin
+10.1145/3105971.3105986,An application of optimization method for storyline based on cluster analysis,99659194271,Yitao  Liang
+10.1145/3105971.3105986,An application of optimization method for storyline based on cluster analysis,81100220966,Changbo  Wang
+10.1145/3105971.3105975,Personal visual analytics for android security risk lifelog,99658989829,Sangbong  Yoo
+10.1145/3105971.3105975,Personal visual analytics for android security risk lifelog,99658730770,Hongryeol  Ryu
+10.1145/3105971.3105975,Personal visual analytics for android security risk lifelog,99658765084,Hanbyul  Yeon
+10.1145/3105971.3105975,Personal visual analytics for android security risk lifelog,81451594353,Taekyoung ‘Taekyoung’ Kwon
+10.1145/3105971.3105975,Personal visual analytics for android security risk lifelog,81372592812,Yun  Jang
+10.1145/3105971.3105982,Visualization of time series data with spatial context: communicating the energy production of power plants,99659194260,Nils  Rodrigues
+10.1145/3105971.3105982,Visualization of time series data with spatial context: communicating the energy production of power plants,81558361656,Rudolf  Netzel
+10.1145/3105971.3105982,Visualization of time series data with spatial context: communicating the energy production of power plants,99659194145,Kazi Riaz Ullah
+10.1145/3105971.3105982,Visualization of time series data with spatial context: communicating the energy production of power plants,81331488994,Michael  Burch
+10.1145/3105971.3105982,Visualization of time series data with spatial context: communicating the energy production of power plants,99659194188,Alexander  Schultz
+10.1145/3105971.3105982,Visualization of time series data with spatial context: communicating the energy production of power plants,81440598602,Bruno  Burger
+10.1145/3105971.3105982,Visualization of time series data with spatial context: communicating the energy production of power plants,81548014780,Daniel  Weiskopf
+10.1145/3105971.3105981,Visualizing activity traces to support collaborative literature searching,81500651305,Kumaripaba  Athukorala
+10.1145/3105971.3105981,Visualizing activity traces to support collaborative literature searching,81548012985,Luana  Micallef
+10.1145/3105971.3105981,Visualizing activity traces to support collaborative literature searching,83058808757,Chao  An
+10.1145/3105971.3105981,Visualizing activity traces to support collaborative literature searching,84459914957,Aki  Reijonen
+10.1145/3105971.3105981,Visualizing activity traces to support collaborative literature searching,81100125974,Jaakko  Peltonen
+10.1145/3105971.3105981,Visualizing activity traces to support collaborative literature searching,81339525898,Tuukka  Ruotsalo
+10.1145/3105971.3105981,Visualizing activity traces to support collaborative literature searching,81100644548,Giulio Iacucci
+10.1145/3105971.3105984,Visual support for rastering of unequally spaced time series,99659194168,Christian  Bors
+10.1145/3105971.3105984,Visual support for rastering of unequally spaced time series,81474695092,Markus  Bögl
+10.1145/3105971.3105984,Visual support for rastering of unequally spaced time series,81375620061,Theresia Gschwandtner
+10.1145/3105971.3105984,Visual support for rastering of unequally spaced time series,81100255622,Silvia  Miksch
+10.1145/3105971.3105987,Visual considerations of relative trajectory models of moving objects,81100517120,Kazuo Misue
+10.1145/3105971.3105987,Visual considerations of relative trajectory models of moving objects,99659194175,Kosuke  Otake
+10.1145/3105971.3105987,Visual considerations of relative trajectory models of moving objects,99659194114,Takahiro  Saito
+10.1145/3105971.3105990,Anamorphic fluid: exploring spatial organization and movements of images in a simulated fluid environment,99659820717,Jieliang  Luo
+10.1145/3105971.3105990,Anamorphic fluid: exploring spatial organization and movements of images in a simulated fluid environment,84460132057,Donghao  Ren
+10.1145/3105971.3105990,Anamorphic fluid: exploring spatial organization and movements of images in a simulated fluid environment,81320492170,George  Legrady
+10.1145/3105971.3108443,Using sunflower metaphor to reduce clutter of scatterplot,99659194233,Congmin  Li
+10.1145/3105971.3108443,Using sunflower metaphor to reduce clutter of scatterplot,99658620368,Jie  Li
+10.1145/3105971.3108447,Visualizing thai stock performance using parallel coordinates,99659194283,Boyi  Li
+10.1145/3105971.3108447,Visualizing thai stock performance using parallel coordinates,99659194157,Amontep  Wijitcharoen
+10.1145/3105971.3108447,Visualizing thai stock performance using parallel coordinates,81413599918,Jonathan Hoyin Chan
+10.1145/3105971.3108450,Visual clustering-based apriori ARM methodology for obtaining quality association rules,81339499259,Simon James Fong
+10.1145/3105971.3108450,Visual clustering-based apriori ARM methodology for obtaining quality association rules,81100203521,Robert P. Biuk-Aghai
+10.1145/3105971.3108450,Visual clustering-based apriori ARM methodology for obtaining quality association rules,99659194248,Scarlet  Tin
+10.1145/3105971.3108444,Towards a design generation methodology,81350576955,K. Zhang
+10.1145/3105971.3108444,Towards a design generation methodology,99659194158,Yihang  Bo
+10.1145/3105971.3108444,Towards a design generation methodology,99659194162,Yi  Yang
+10.1145/3105971.3108442,Visual analysis of driving styles from vehicle experiment data,99659194208,Xianglei  Zhu
+10.1145/3105971.3108442,Visual analysis of driving styles from vehicle experiment data,99659194272,Shuai  Zhao
+10.1145/3105971.3108442,Visual analysis of driving styles from vehicle experiment data,99659194136,Quan  Wen
+10.1145/3105971.3108442,Visual analysis of driving styles from vehicle experiment data,99658620368,Jie  Li
+10.1145/3105971.3108445,Data-driven dementia diagnosis record visualization system,84459002557,Wenjun  Guo
+10.1145/3105971.3108445,Data-driven dementia diagnosis record visualization system,99659194257,Seungwook  Kim
+10.1145/3105971.3108445,Data-driven dementia diagnosis record visualization system,99659178205,Sangjoon  Son
+10.1145/3105971.3108445,Data-driven dementia diagnosis record visualization system,99659178107,Changhyung  Hong
+10.1145/3105971.3108445,Data-driven dementia diagnosis record visualization system,81100157592,Hyunjung (Helen) Shin
+10.1145/3105971.3108445,Data-driven dementia diagnosis record visualization system,81458652821,Kyungwon  Lee
+10.1145/3105971.3108446,Network-based visualization tool for analyzing gene expression data,99659127931,Thanyathorn Thanapattheerakul
+10.1145/3105971.3108446,Network-based visualization tool for analyzing gene expression data,99659128019,Jaturong  Kongmanee
+10.1145/3105971.3108446,Network-based visualization tool for analyzing gene expression data,81413599918,Jonathan Hoyin Chan
+10.1145/3105971.3108448,Gene-set profiles: visualizing dissimilarity within gene co-expression networks for biomarker identification,99659194254,Saila  Shama
+10.1145/3105971.3108448,Gene-set profiles: visualizing dissimilarity within gene co-expression networks for biomarker identification,99659194245,Philip  Lu
+10.1145/3105971.3108448,Gene-set profiles: visualizing dissimilarity within gene co-expression networks for biomarker identification,99659194291,Narumol  Doungpan
+10.1145/3105971.3108448,Gene-set profiles: visualizing dissimilarity within gene co-expression networks for biomarker identification,81384616279,Asawin  Meechai
+10.1145/3105971.3108448,Gene-set profiles: visualizing dissimilarity within gene co-expression networks for biomarker identification,81413599918,Jonathan Hoyin Chan
+10.1145/3105971.3105992,Overall quality evaluation of graph layouts based on regression analysis,99659097484,Jiafan  Li
+10.1145/3105971.3105992,Overall quality evaluation of graph layouts based on regression analysis,81100220966,Changbo  Wang
+10.1145/3105971.3105992,Overall quality evaluation of graph layouts based on regression analysis,81549102456,Yuhua  Liu
+10.1145/3105971.3105992,Overall quality evaluation of graph layouts based on regression analysis,99659194115,Zhijie  Qiao
+10.1145/3105971.3105992,Overall quality evaluation of graph layouts based on regression analysis,99659194278,Junjie  Wang
+10.1145/3105971.3108449,Network analysis of inter-organizational success factor relationships,99659154692,Wutthipong  Kongburan
+10.1145/3105971.3108449,Network analysis of inter-organizational success factor relationships,81442613236,Praisan  Padungweang
+10.1145/3105971.3108449,Network analysis of inter-organizational success factor relationships,81550167556,Worarat  Krathu
+10.1145/3105971.3108449,Network analysis of inter-organizational success factor relationships,81413599918,Jonathan Hoyin Chan
+10.1145/3105971.3105977,Exploring gaze-adaptive features for interacting with multi-document visualizations,82259259657,Barış  Serim
+10.1145/3105971.3105977,Exploring gaze-adaptive features for interacting with multi-document visualizations,83058634857,Luca  Chech
+10.1145/3105971.3105977,Exploring gaze-adaptive features for interacting with multi-document visualizations,99659194161,Marta  Vasilieva
+10.1145/3105971.3105977,Exploring gaze-adaptive features for interacting with multi-document visualizations,99659194174,Lorenzo  Papa
+10.1145/3105971.3105977,Exploring gaze-adaptive features for interacting with multi-document visualizations,81100210885,Luciano  Gamberini
+10.1145/3105971.3105977,Exploring gaze-adaptive features for interacting with multi-document visualizations,81100644548,Giulio Iacucci
+10.1145/3105971.3105974,Computer-aided generation of mandala thangka patterns,99659185901,Jiajing  Zhang
+10.1145/3105971.3105974,Computer-aided generation of mandala thangka patterns,81350576955,K. Zhang
+10.1145/3105971.3105974,Computer-aided generation of mandala thangka patterns,81466642306,Ren  Peng
+10.1145/3105971.3105974,Computer-aided generation of mandala thangka patterns,81381602769,Jinhui  Yu
+10.1145/3105971.3105973,Eye movement plots,81331488994,Michael  Burch
+10.1145/3105971.3105989,artVIS: an interactive visualization for painting collections,81331488994,Michael  Burch
+10.1145/3105971.3105989,artVIS: an interactive visualization for painting collections,81466647554,Uwe  Kloos
+10.1145/3105971.3105989,artVIS: an interactive visualization for painting collections,99659194267,Denise  Junger
+10.1145/3105971.3105989,artVIS: an interactive visualization for painting collections,99659194244,Isabel  Hagen
+10.1145/3105971.3105989,artVIS: an interactive visualization for painting collections,99659194217,Robin  Horst
+10.1145/3105971.3105989,artVIS: an interactive visualization for painting collections,99659194195,Lukas  Brand
+10.1145/3105971.3105989,artVIS: an interactive visualization for painting collections,99659194159,Armin  Müller
+10.1145/3105971.3105989,artVIS: an interactive visualization for painting collections,99659194207,Benjamin  Weinert
+10.1145/3105971.3105976,Map-like visualisations vs. treemaps: an experimental comparison,81100203521,Robert P. Biuk-Aghai
+10.1145/3105971.3105976,Map-like visualisations vs. treemaps: an experimental comparison,99658770790,Patrick Cheong-Iao Pang
+10.1145/3105971.3105976,Map-like visualisations vs. treemaps: an experimental comparison,99659194227,Bin  Pang
+10.1145/3105971.3105978,Evaluating the effects of size in linesets,99659194112,Dominique  Tranquille
+10.1145/3105971.3105978,Evaluating the effects of size in linesets,81339530296,Gem  Stapleton
+10.1145/3105971.3105978,Evaluating the effects of size in linesets,81384617071,Jim  Burton
+10.1145/3105971.3105978,Evaluating the effects of size in linesets,81100642599,Peter J Rodgers
+10.1145/3105971.3105979,Towards Glyph-based visualizations for big data clustering,81479645196,Mandy  Keck
+10.1145/3105971.3105979,Towards Glyph-based visualizations for big data clustering,81479656070,Dietrich Kammer
+10.1145/3105971.3105979,Towards Glyph-based visualizations for big data clustering,81502795846,Thomas  Gründer
+10.1145/3105971.3105979,Towards Glyph-based visualizations for big data clustering,99659194141,Thomas  Thom
+10.1145/3105971.3105979,Towards Glyph-based visualizations for big data clustering,81479655070,Martin  Kleinsteuber
+10.1145/3105971.3105979,Towards Glyph-based visualizations for big data clustering,99659194167,Alexander  Maasch
+10.1145/3105971.3105979,Towards Glyph-based visualizations for big data clustering,81372593345,Rainer  Groh
+10.1145/3105971.3105988,How Network-based and set-based visualizations aid consistency checking in ontologies,99659194250,Yuri  Sato
+10.1145/3105971.3105988,How Network-based and set-based visualizations aid consistency checking in ontologies,81339530296,Gem  Stapleton
+10.1145/3105971.3105988,How Network-based and set-based visualizations aid consistency checking in ontologies,81100097678,Mateja  Jamnik
+10.1145/3105971.3105988,How Network-based and set-based visualizations aid consistency checking in ontologies,99658750308,Zohreh  Shams
+10.1145/3105971.3105988,How Network-based and set-based visualizations aid consistency checking in ontologies,99658638715,Andrew  Blake
+10.1145/2968220.2968226,The Dynamic Call Graph Matrix,81331488994,Michael  Burch
+10.1145/2968220.2968229,BranchingSets: Interactively Visualizing Categories on Node-Link Diagrams,99659010090,Francesco  Paduano
+10.1145/2968220.2968229,BranchingSets: Interactively Visualizing Categories on Node-Link Diagrams,81551311756,Ronak  Etemadpour
+10.1145/2968220.2968229,BranchingSets: Interactively Visualizing Categories on Node-Link Diagrams,81474644982,Angus Graeme Forbes
+10.1145/2968220.2968242,A Guided Tour of Literature Review: Facilitating Academic Paper Reading with Narrative Visualization,99659020506,Yun  Wang
+10.1145/2968220.2968242,A Guided Tour of Literature Review: Facilitating Academic Paper Reading with Narrative Visualization,99659070996,Dongyu  Liu
+10.1145/2968220.2968242,A Guided Tour of Literature Review: Facilitating Academic Paper Reading with Narrative Visualization,81100337801,Huamin  Qu
+10.1145/2968220.2968242,A Guided Tour of Literature Review: Facilitating Academic Paper Reading with Narrative Visualization,81339515235,Qiong Luo
+10.1145/2968220.2968242,A Guided Tour of Literature Review: Facilitating Academic Paper Reading with Narrative Visualization,81484654594,Xiaojuan  Ma
+10.1145/2968220.2968221,IDSPlanet: A Novel Radial Visualization of Intrusion Detection Alerts,81556666156,Yang  Shi
+10.1145/2968220.2968221,IDSPlanet: A Novel Radial Visualization of Intrusion Detection Alerts,81339540126,Yaoxue  Zhang
+10.1145/2968220.2968221,IDSPlanet: A Novel Radial Visualization of Intrusion Detection Alerts,81549260756,Fangfang  Zhou
+10.1145/2968220.2968221,IDSPlanet: A Novel Radial Visualization of Intrusion Detection Alerts,81549278756,Ying  Zhao
+10.1145/2968220.2968221,IDSPlanet: A Novel Radial Visualization of Intrusion Detection Alerts,81408600293,Guojun  Wang
+10.1145/2968220.2968221,IDSPlanet: A Novel Radial Visualization of Intrusion Detection Alerts,81470649905,Ronghua  Shi
+10.1145/2968220.2968221,IDSPlanet: A Novel Radial Visualization of Intrusion Detection Alerts,99658630885,Xing  Liang
+10.1145/2968220.2968238,Bus Lines Explorer: Interactive Exploration of Public Transportation Data,81100655096,Rainer C Splechtna
+10.1145/2968220.2968238,Bus Lines Explorer: Interactive Exploration of Public Transportation Data,99658770166,Alexandra  Diehl
+10.1145/2968220.2968238,Bus Lines Explorer: Interactive Exploration of Public Transportation Data,81554544456,Mai H Elshehaly
+10.1145/2968220.2968238,Bus Lines Explorer: Interactive Exploration of Public Transportation Data,81544964956,Claudio A Delrieux
+10.1145/2968220.2968238,Bus Lines Explorer: Interactive Exploration of Public Transportation Data,81100637283,Denis Gracanin
+10.1145/2968220.2968238,Bus Lines Explorer: Interactive Exploration of Public Transportation Data,81375609028,Krešimir  Matković
+10.1145/2968220.2968224,Enhancing Infographics Based on Symmetry Saliency,99659068906,Kouhei  Yasuda
+10.1145/2968220.2968224,Enhancing Infographics Based on Symmetry Saliency,81410594549,Shigeo Takahashi
+10.1145/2968220.2968224,Enhancing Infographics Based on Symmetry Saliency,81440610884,Hsiangyun  Wu
+10.1145/2968220.2968248,Deep Exploration of Multidimensional Data with Linkable Scatterplots,81100511332,Quang Vinh Nguyen
+10.1145/2968220.2968248,Deep Exploration of Multidimensional Data with Linkable Scatterplots,81100077710,Simeon J Simoff
+10.1145/2968220.2968248,Deep Exploration of Multidimensional Data with Linkable Scatterplots,81452599675,Yu  Qian
+10.1145/2968220.2968248,Deep Exploration of Multidimensional Data with Linkable Scatterplots,81100079792,Maolin  Huang
+10.1145/2968220.2968230,Visibility Widgets: Managing Occlusion of Quantitative Data in 3D Terrain Visualization,99658770290,Martin  Röhlig
+10.1145/2968220.2968230,Visibility Widgets: Managing Occlusion of Quantitative Data in 3D Terrain Visualization,81100094349,H. Schumann
+10.1145/2968220.2968235,Eliciting Tacit Expertise in 3D Volume Segmentation,81320496219,Ruth West
+10.1145/2968220.2968235,Eliciting Tacit Expertise in 3D Volume Segmentation,99659067772,Meghan  Kajihara
+10.1145/2968220.2968235,Eliciting Tacit Expertise in 3D Volume Segmentation,99658988047,Max  Parola
+10.1145/2968220.2968235,Eliciting Tacit Expertise in 3D Volume Segmentation,99659067444,Kathryn  Hays
+10.1145/2968220.2968235,Eliciting Tacit Expertise in 3D Volume Segmentation,99659068485,Luke  Hillard
+10.1145/2968220.2968235,Eliciting Tacit Expertise in 3D Volume Segmentation,99659067913,Anne  Carlew
+10.1145/2968220.2968235,Eliciting Tacit Expertise in 3D Volume Segmentation,99659068986,Jeremey  Deutsch
+10.1145/2968220.2968235,Eliciting Tacit Expertise in 3D Volume Segmentation,99659068083,Brandon  Lane
+10.1145/2968220.2968235,Eliciting Tacit Expertise in 3D Volume Segmentation,99658628447,Michelle  Holloway
+10.1145/2968220.2968235,Eliciting Tacit Expertise in 3D Volume Segmentation,87658893257,Brendan John
+10.1145/2968220.2968235,Eliciting Tacit Expertise in 3D Volume Segmentation,99658988516,Anahita  Sanandaji
+10.1145/2968220.2968235,Eliciting Tacit Expertise in 3D Volume Segmentation,81100553787,Cindy Marie Grimm
+10.1145/2968220.2968236,A Comparative Study on Inter-Device Interaction: One-Handed Interaction VS Two-Handed Interaction,99659036087,Zheng  Huang
+10.1145/2968220.2968236,A Comparative Study on Inter-Device Interaction: One-Handed Interaction VS Two-Handed Interaction,99659068000,Jed  Limke
+10.1145/2968220.2968236,A Comparative Study on Inter-Device Interaction: One-Handed Interaction VS Two-Handed Interaction,81408600332,Jun  Kong
+10.1145/2968220.2968239,What Makes You Think This Is a Map?: Suggestions for Creating Map-like Visualisations,99658770790,Patrick Cheong-Iao Pang
+10.1145/2968220.2968239,What Makes You Think This Is a Map?: Suggestions for Creating Map-like Visualisations,81100203521,Robert P. Biuk-Aghai
+10.1145/2968220.2968239,What Makes You Think This Is a Map?: Suggestions for Creating Map-like Visualisations,99658765217,Muye  Yang
+10.1145/2968220.2968240,How People Deploy Dimensional Information to Estimate Relative Values,99658766518,Yina  Li
+10.1145/2968220.2968240,How People Deploy Dimensional Information to Estimate Relative Values,99658766563,Dongjin  Li
+10.1145/2968220.2968241,Do Defaults Matter?: Evaluating the Effect of Defaults on User Preference for Multi-Class Scatterplots,99659068785,Casey  Haber
+10.1145/2968220.2968241,Do Defaults Matter?: Evaluating the Effect of Defaults on User Preference for Multi-Class Scatterplots,99659068146,Lyndonong  Yiu
+10.1145/2968220.2968241,Do Defaults Matter?: Evaluating the Effect of Defaults on User Preference for Multi-Class Scatterplots,81339508109,Alark  Joshi
+10.1145/2968220.2968241,Do Defaults Matter?: Evaluating the Effect of Defaults on User Preference for Multi-Class Scatterplots,81442602782,Sophie Engle
+10.1145/2968220.2968222,Visual Analysis of User-Driven Association Rule Mining,99659068491,Hui  Lei
+10.1145/2968220.2968222,Visual Analysis of User-Driven Association Rule Mining,99659067824,Cong  Xie
+10.1145/2968220.2968222,Visual Analysis of User-Driven Association Rule Mining,99659068366,Pingping  Shang
+10.1145/2968220.2968222,Visual Analysis of User-Driven Association Rule Mining,99659068293,Fan  Zhang
+10.1145/2968220.2968222,Visual Analysis of User-Driven Association Rule Mining,81548161656,Weri  Chen
+10.1145/2968220.2968222,Visual Analysis of User-Driven Association Rule Mining,81451598508,Qunsheng  Peng
+10.1145/2968220.2968223,Supporting Collaborative Political Decision Making: An Interactive Policy Process Visualization System,81474695617,Tobias Ruppert
+10.1145/2968220.2968223,Supporting Collaborative Political Decision Making: An Interactive Policy Process Visualization System,99658949790,Andreas  Bannach
+10.1145/2968220.2968223,Supporting Collaborative Political Decision Making: An Interactive Policy Process Visualization System,81442607723,Jürgen Bernard
+10.1145/2968220.2968223,Supporting Collaborative Political Decision Making: An Interactive Policy Process Visualization System,99658654866,Hendrik  Lücke-Tieke
+10.1145/2968220.2968223,Supporting Collaborative Political Decision Making: An Interactive Policy Process Visualization System,99658657326,Alex  Ulmer
+10.1145/2968220.2968223,Supporting Collaborative Political Decision Making: An Interactive Policy Process Visualization System,81332509409,Jörn  Kohlhammer
+10.1145/2968220.2968244,Spatiotemporal Analytics of Topic Trajectory,99659191638,Jiangen  He
+10.1145/2968220.2968244,Spatiotemporal Analytics of Topic Trajectory,81100119664,Chaomei  Chen
+10.1145/2968220.2968246,A Hybrid Approach for Event Social Influence Visualization,99659068616,Wenqian  Ji
+10.1145/2968220.2968246,A Hybrid Approach for Event Social Influence Visualization,99659067476,Yan  Tang
+10.1145/2968220.2968246,A Hybrid Approach for Event Social Influence Visualization,99659068606,Pengju  Ma
+10.1145/2968220.2968246,A Hybrid Approach for Event Social Influence Visualization,99659068288,Shijie  Tang
+10.1145/2968220.2968246,A Hybrid Approach for Event Social Influence Visualization,99659068325,Zhipeng  Fang
+10.1145/2968220.2968246,A Hybrid Approach for Event Social Influence Visualization,99659068772,Xuan  Li
+10.1145/2968220.2968246,A Hybrid Approach for Event Social Influence Visualization,81548022965,Tianjian  Chen
+10.1145/2968220.2968228,Adaptively Tiled Image Mosaics Utilizing Measures of Color and Region Entropy,81490644010,Lina  Zhang
+10.1145/2968220.2968228,Adaptively Tiled Image Mosaics Utilizing Measures of Color and Region Entropy,81452595774,Kwan-Liu Ma
+10.1145/2968220.2968228,Adaptively Tiled Image Mosaics Utilizing Measures of Color and Region Entropy,99659664633,Jinhui  Yu
+10.1145/2968220.2968232,Generation of Miro's Surrealism,99659068053,Lu  Xiong
+10.1145/2968220.2968232,Generation of Miro's Surrealism,81350576955,K. Zhang
+10.1145/2968220.2968227,EduVis: Visualization for Education Knowledge Graph Based on Web Data,99659067653,Kai  Sun
+10.1145/2968220.2968227,EduVis: Visualization for Education Knowledge Graph Based on Web Data,81549102456,Yuhua  Liu
+10.1145/2968220.2968227,EduVis: Visualization for Education Knowledge Graph Based on Web Data,99659067563,Zongchao  Guo
+10.1145/2968220.2968227,EduVis: Visualization for Education Knowledge Graph Based on Web Data,81100220966,Changbo  Wang
+10.1145/2968220.2968231,Visualizing Time-Variant Sets on a Handheld Device,99659664742,Iliesa S Delai
+10.1145/2968220.2968231,Visualizing Time-Variant Sets on a Handheld Device,99659068939,Meilan  Jin
+10.1145/2968220.2968231,Visualizing Time-Variant Sets on a Handheld Device,81430638972,Geoffrey M Draper
+10.1145/2968220.2968233,Interactive Exploration of Multidimensional YouTube Data Using the GPLOM Technique,99659068113,Seimei  Matsusaki
+10.1145/2968220.2968233,Interactive Exploration of Multidimensional YouTube Data Using the GPLOM Technique,99659067967,Xi  Han
+10.1145/2968220.2968233,Interactive Exploration of Multidimensional YouTube Data Using the GPLOM Technique,81339508109,Alark  Joshi
+10.1145/2968220.2968233,Interactive Exploration of Multidimensional YouTube Data Using the GPLOM Technique,81442602782,Sophie Engle
+10.1145/2968220.2968237,The Effect of Color on Short-term Memory in Information Visualization,99659068200,Xin  Kang
+10.1145/2968220.2968243,Design for the future: Incorporating Cradle to Cradle Design into our street,99659068315,Yinan  Li
+10.1145/2968220.2968243,Design for the future: Incorporating Cradle to Cradle Design into our street,99659068936,Jian  Wang
+10.1145/2968220.2968245,VolSelectAware: Visual-Cognition Coupled Non-Visual Data-Driven Volume Selection for Immersive Scientific Visualizations,99659068554,Daniel  Wilches
+10.1145/2968220.2968245,VolSelectAware: Visual-Cognition Coupled Non-Visual Data-Driven Volume Selection for Immersive Scientific Visualizations,83059087157,Amy Banić
+10.1145/2968220.2972225,Visual Analysis of TED Talk Topic Trends,99659067636,Sarah Hong
+10.1145/2968220.2972225,Visual Analysis of TED Talk Topic Trends,99659067860,Yuyi  Liu
+10.1145/2968220.2972225,Visual Analysis of TED Talk Topic Trends,99659052542,Zhao Xiao
+10.1145/2968220.2972226,A Mapping of Color Information from Inputted Images to Generated Polygons: A Case Study of Generative Design of Epoxy-Terrazzo Artistry,99659067654,Jie  Wu
+10.1145/2968220.2972226,A Mapping of Color Information from Inputted Images to Generated Polygons: A Case Study of Generative Design of Epoxy-Terrazzo Artistry,99659068256,Guangxi  Chen
+10.1145/2968220.2968234,Visual Communication Power Construction and Multimodal Discourse Analysis of Tobacco Control Advertising,99659068830,Wang  Qian
+10.1145/2968220.2968234,Visual Communication Power Construction and Multimodal Discourse Analysis of Tobacco Control Advertising,99659067729,Xiao  Bing
+10.1145/2968220.2968249,Facilitating Visualization Capacity Building,81487640747,Vetria Laverne Byrd
+10.1145/2968220.2968249,Facilitating Visualization Capacity Building,81372593397,Joseph A Cottam
+10.1145/2801040.2801054,Predictive Visual Analytics using Topic Composition,81372592812,Yun  Jang
+10.1145/2801040.2801054,Predictive Visual Analytics using Topic Composition,99658765084,Hanbyul  Yeon
+10.1145/2801040.2801043,A Preliminary Study on Network-based ADL Training for the Visually Impaired by Use of a Parametric-speaker Robot,99658767899,Koji  Kainou
+10.1145/2801040.2801043,A Preliminary Study on Network-based ADL Training for the Visually Impaired by Use of a Parametric-speaker Robot,81100070397,Hotaka  Takizawa
+10.1145/2801040.2801043,A Preliminary Study on Network-based ADL Training for the Visually Impaired by Use of a Parametric-speaker Robot,99658769229,Mayumi  Aoyagi
+10.1145/2801040.2801043,A Preliminary Study on Network-based ADL Training for the Visually Impaired by Use of a Parametric-speaker Robot,81309484223,Nobuo  Ezaki
+10.1145/2801040.2801043,A Preliminary Study on Network-based ADL Training for the Visually Impaired by Use of a Parametric-speaker Robot,99660176893,Shinji  Mizuno
+10.1145/2801040.2801055,In-Situ Visualisation of Fractional Code Ownership over Time,81330495342,Christoph  Müller
+10.1145/2801040.2801055,In-Situ Visualisation of Fractional Code Ownership over Time,81336492267,Guido  Reina
+10.1145/2801040.2801055,In-Situ Visualisation of Fractional Code Ownership over Time,81332497603,Thomas Ertl
+10.1145/2801040.2801057,Remote Rendering and User Interaction on Mobile Devices for Scientific Visualization,81444600345,Michael  Krone
+10.1145/2801040.2801057,Remote Rendering and User Interaction on Mobile Devices for Scientific Visualization,81330495342,Christoph  Müller
+10.1145/2801040.2801057,Remote Rendering and User Interaction on Mobile Devices for Scientific Visualization,81332497603,Thomas Ertl
+10.1145/2636240.2636844,Adaptive Visualization Interface That Manages User's Cognitive Load Based on Interaction Characteristics,99658638712,Anatoly  Yelizarov
+10.1145/2636240.2636844,Adaptive Visualization Interface That Manages User's Cognitive Load Based on Interaction Characteristics,81336489058,Dennis Yu Gamayunov
+10.1145/2636240.2636850,CoVE: A Colony Visualization System for Animal Pedigrees,99658638266,Brady  Cannon
+10.1145/2636240.2636850,CoVE: A Colony Visualization System for Animal Pedigrees,99658638173,Minoti  Hiremath
+10.1145/2636240.2636850,CoVE: A Colony Visualization System for Animal Pedigrees,81481649504,Cheryl  Jorcyk
+10.1145/2636240.2636850,CoVE: A Colony Visualization System for Animal Pedigrees,81339508109,Alark  Joshi
+10.1145/2636240.2636841,A Space-Filling Multidimensional Visualization (SFMDVis for Exploratory Data Analysis,81430601375,Tze Haw Huang
+10.1145/2636240.2636841,A Space-Filling Multidimensional Visualization (SFMDVis for Exploratory Data Analysis,81100079792,Maolin  Huang
+10.1145/2636240.2636841,A Space-Filling Multidimensional Visualization (SFMDVis for Exploratory Data Analysis,81100511332,Quang Vinh Nguyen
+10.1145/2636240.2636841,A Space-Filling Multidimensional Visualization (SFMDVis for Exploratory Data Analysis,81444602443,Laiping  Zhao
+10.1145/2636240.2636839,A Flip-Book of Edge-Splatted Small Multiples for Visualizing Dynamic Graphs,81331488994,Michael  Burch
+10.1145/2636240.2636839,A Flip-Book of Edge-Splatted Small Multiples for Visualizing Dynamic Graphs,81100214723,Daniel  Weiskopf
+10.1145/2636240.2636858,Visualizing Bag-of-Features Image Categorization Using Anchored Maps,99658640147,Gao  Yi
+10.1145/2636240.2636858,Visualizing Bag-of-Features Image Categorization Using Anchored Maps,81440610884,Hsiangyun  Wu
+10.1145/2636240.2636858,Visualizing Bag-of-Features Image Categorization Using Anchored Maps,81100517120,Kazuo Misue
+10.1145/2636240.2636858,Visualizing Bag-of-Features Image Categorization Using Anchored Maps,87958942257,Kazuyo  Mizuno
+10.1145/2636240.2636858,Visualizing Bag-of-Features Image Categorization Using Anchored Maps,81410594549,Shigeo Takahashi
+10.1145/2636240.2636854,Parallel Coordinates with Data Labels,81453634205,Hong  Zhou
+10.1145/2636240.2636854,Parallel Coordinates with Data Labels,81487645560,Panpan  Xu
+10.1145/2636240.2636854,Parallel Coordinates with Data Labels,81100136462,Zhong  Ming
+10.1145/2636240.2636854,Parallel Coordinates with Data Labels,81100337801,Huamin  Qu
+10.1145/2636240.2636843,Generating Reusable Visual Notations using Model Transformation,81440623086,Iman Avazpour
+10.1145/2636240.2636843,Generating Reusable Visual Notations using Model Transformation,81100261843,John C. Grundy
+10.1145/2636240.2636843,Generating Reusable Visual Notations using Model Transformation,81323497372,Haile  Vu
+10.1145/2636240.2636840,Encapsulating Interaction Techniques of 3D Language Editors in Visual Patterns,99658640625,Jan  Wolter
+10.1145/2636240.2636840,Encapsulating Interaction Techniques of 3D Language Editors in Visual Patterns,81100449926,Uwe  Kastens
+10.1145/2636240.2636846,Interactive Sand Art Drawing Using Kinect,99658641338,Kaimin  Chen
+10.1145/2636240.2636846,Interactive Sand Art Drawing Using Kinect,81548026358,Sai Keung Wong
+10.1145/2493102.2493103,Constructing collaborative services through augmented documents and objects,81100425686,Paolo  Bottoni
+10.1145/2493102.2493103,Constructing collaborative services through augmented documents and objects,81350572984,Kamen D Kanev
+10.1145/2493102.2493103,Constructing collaborative services through augmented documents and objects,81100503196,Nikolay N Mirenkov
+10.1145/2493102.2493104,Multilevel interaction model for hierarchical tasks in information visualization,81552904056,Lei  Ren
+10.1145/2493102.2493104,Multilevel interaction model for hierarchical tasks in information visualization,99660111829,Jin  Cui
+10.1145/2493102.2493104,Multilevel interaction model for hierarchical tasks in information visualization,81470647228,Yi  Du
+10.1145/2493102.2493104,Multilevel interaction model for hierarchical tasks in information visualization,81100172122,Guozhong  Dai
+10.1145/2493102.2493105,Visually modelling data intensive web applications to assist end-user development,81100475245,Vincenzo Deufemia
+10.1145/2493102.2493105,Visually modelling data intensive web applications to assist end-user development,82459248057,Christopher  D'Souza
+10.1145/2493102.2493105,Visually modelling data intensive web applications to assist end-user development,81100317930,Athula  Ginige
+10.1145/2493102.2493106,A microstructure evolution visualization method based on neutrosophic set theory and cellular automaton technique,81479657628,Haifeng  Li
+10.1145/2493102.2493106,A microstructure evolution visualization method based on neutrosophic set theory and cellular automaton technique,82459167457,Dayi  Yang
+10.1145/2493102.2493106,A microstructure evolution visualization method based on neutrosophic set theory and cellular automaton technique,82459085757,Yangyang  Fu
+10.1145/2493102.2493106,A microstructure evolution visualization method based on neutrosophic set theory and cellular automaton technique,82458947557,Hujie  Huang
+10.1145/2493102.2493106,A microstructure evolution visualization method based on neutrosophic set theory and cellular automaton technique,82458827157,Hongyuan  Fang
+10.1145/2493102.2493107,Intent-driven model synthesis,81466644873,Mofei  Song
+10.1145/2493102.2493107,Intent-driven model synthesis,82458781457,Feiqian  Zhang
+10.1145/2493102.2493107,Intent-driven model synthesis,81375607623,Zhengxing  Sun
+10.1145/2493102.2493107,Intent-driven model synthesis,81408596522,Yan  Zhang
+10.1145/2493102.2493108,Visual analysis of retweeting propagation network in a microblogging platform,84460499457,Quan  Li
+10.1145/2493102.2493108,Visual analysis of retweeting propagation network in a microblogging platform,81100337801,Huamin  Qu
+10.1145/2493102.2493108,Visual analysis of retweeting propagation network in a microblogging platform,81550069356,Li  Chen
+10.1145/2493102.2493108,Visual analysis of retweeting propagation network in a microblogging platform,82459274457,Robert  Wang
+10.1145/2493102.2493108,Visual analysis of retweeting propagation network in a microblogging platform,81350568307,Jun-Hai Yong
+10.1145/2493102.2493108,Visual analysis of retweeting propagation network in a microblogging platform,82458816557,Detan  Si
+10.1145/2493102.2493109,ERELT: a faster alternative to the list-based interfaces for tree exploration and searching in mobile devices,81472652484,Abhishek P Chhetri
+10.1145/2493102.2493109,ERELT: a faster alternative to the list-based interfaces for tree exploration and searching in mobile devices,81350576955,K. Zhang
+10.1145/2493102.2493109,ERELT: a faster alternative to the list-based interfaces for tree exploration and searching in mobile devices,99659528788,Eakta  Jain
+10.1145/2493102.2493110,Time-space varying visual analysis of micro-blog sentiment,82459080257,Chenghai  Zhang
+10.1145/2493102.2493110,Time-space varying visual analysis of micro-blog sentiment,81549102456,Yuhua  Liu
+10.1145/2493102.2493110,Time-space varying visual analysis of micro-blog sentiment,81100220966,Changbo  Wang
+10.1145/2493102.2493111,Culture influence on aesthetic perception of Chinese and western paintings: evidence from eye movement patterns,81549398556,Zaijia  Liu
+10.1145/2493102.2493111,Culture influence on aesthetic perception of Chinese and western paintings: evidence from eye movement patterns,81416606402,Xianjunsam  Zheng
+10.1145/2493102.2493111,Culture influence on aesthetic perception of Chinese and western paintings: evidence from eye movement patterns,82458982257,Mingyang  Wu
+10.1145/2493102.2493111,Culture influence on aesthetic perception of Chinese and western paintings: evidence from eye movement patterns,82458977257,Rui  Dong
+10.1145/2493102.2493111,Culture influence on aesthetic perception of Chinese and western paintings: evidence from eye movement patterns,81549374356,Kaiping  Peng
+10.1145/2493102.2493112,Visualizing large trees with divide & conquer partition,81375593142,Jie  Liang
+10.1145/2493102.2493112,Visualizing large trees with divide & conquer partition,81100077710,Simeon J Simoff
+10.1145/2493102.2493112,Visualizing large trees with divide & conquer partition,81100511332,Quang Vinh Nguyen
+10.1145/2493102.2493112,Visualizing large trees with divide & conquer partition,81100079792,Maolin  Huang
+10.1145/2493102.2493113,3DRC: a novel technique in evaluating stakeholders project views,81500642052,Rossella  Aiello
+10.1145/2493102.2493113,3DRC: a novel technique in evaluating stakeholders project views,81100355192,Giancarlo  Nota
+10.1145/2493102.2493113,3DRC: a novel technique in evaluating stakeholders project views,81100149457,Gennaro  Costagliola
+10.1145/2493102.2493113,3DRC: a novel technique in evaluating stakeholders project views,82458760257,Fabrizio  Torre
+10.1145/2493102.2493114,A novel map-based visualization method based on liquid modelling,81100203521,Robert P. Biuk-Aghai
+10.1145/2493102.2493114,A novel map-based visualization method based on liquid modelling,82458612157,Waihou  Ao
+10.1145/2493102.2493116,Euler diagram codes: interpretation and generation,81100425686,Paolo  Bottoni
+10.1145/2493102.2493116,Euler diagram codes: interpretation and generation,81100149457,Gennaro  Costagliola
+10.1145/2493102.2493116,Euler diagram codes: interpretation and generation,82459058457,Mattia  de Rosa
+10.1145/2493102.2493116,Euler diagram codes: interpretation and generation,81339499356,Andrew  Fish
+10.1145/2493102.2493116,Euler diagram codes: interpretation and generation,81315488598,Vittorio  Fuccella
+10.1145/2493102.2493118,Best view selection of 3D models based on unsupervised feature learning and discrimination ability,82459181257,Chenxi  Li
+10.1145/2493102.2493118,Best view selection of 3D models based on unsupervised feature learning and discrimination ability,81375607623,Zhengxing  Sun
+10.1145/2493102.2493118,Best view selection of 3D models based on unsupervised feature learning and discrimination ability,81466644873,Mofei  Song
+10.1145/2493102.2493118,Best view selection of 3D models based on unsupervised feature learning and discrimination ability,82458777657,Yejia  Zhang
+10.1145/2493102.2493119,Visual and interactive analysis of a large collection of open data with the relative neighborhood graph,82459145257,Tianyang  Liu
+10.1145/2493102.2493119,Visual and interactive analysis of a large collection of open data with the relative neighborhood graph,81339491153,Fatma  Bouali
+10.1145/2493102.2493119,Visual and interactive analysis of a large collection of open data with the relative neighborhood graph,81100271205,Gilles  Venturini
+10.1145/2493102.2493120,Exploring mapping-based visualisations of large remote image databases,81453651594,William  Plant
+10.1145/2493102.2493120,Exploring mapping-based visualisations of large remote image databases,81324493315,Gerald  Schaefer
+10.1145/2493102.2493121,A method of hierarchical time-series data visualization,81550168756,Ning  Li
+10.1145/2493102.2493121,A method of hierarchical time-series data visualization,81548917056,Zhifang  Jiang
+10.1145/2493102.2493121,A method of hierarchical time-series data visualization,82458926857,Zixiang  Liu
+10.1145/2493102.2493121,A method of hierarchical time-series data visualization,81322501374,Xiangxu  Meng
+10.1145/2493102.2493122,Air pollution data visualization based on the shape of a tree,82459232057,Xiaoting  Bi
+10.1145/2493102.2493122,Air pollution data visualization based on the shape of a tree,81548917056,Zhifang  Jiang
+10.1145/2493102.2493122,Air pollution data visualization based on the shape of a tree,81540747756,Shenghui  Cheng
+10.1145/2493102.2493122,Air pollution data visualization based on the shape of a tree,81322501374,Xiangxu  Meng
+10.1145/2493102.2493115,Demonstrating data using storyboard visualization tool,82459188557,Gerry  Derksen
+10.1145/2493102.2493115,Demonstrating data using storyboard visualization tool,81363600690,Stan  Ruecker
+10.1145/2493102.2493115,Demonstrating data using storyboard visualization tool,82458635157,Tim  Causer
+10.1145/2493102.2493115,Demonstrating data using storyboard visualization tool,81548023973,Melissa M Terras
+10.1145/2493102.2499784,Interaction and evaluation techniques for information visualization: future directions,81100367883,Andreas Kerren
+10.1145/2493102.2499785,Interdisciplinary studies on information art & design,99659643290,Yingqing  Xu
+10.1145/2493102.2499786,"""Big picture"": mixed-initiative visual analytics of big data",81100264735,Michelle Xue Zhou
+10.1145/2493102.2499787,Visualisation of large image collections,81324493315,Gerald  Schaefer
+10.1145/2397696.2397697,A fast texture-by-numbers synthesis method based on texture optimization,81388592076,Jing  Fan
+10.1145/2397696.2397697,A fast texture-by-numbers synthesis method based on texture optimization,81508690581,Xiaoying  Shi
+10.1145/2397696.2397697,A fast texture-by-numbers synthesis method based on texture optimization,81549289956,Zhan  Zhou
+10.1145/2397696.2397697,A fast texture-by-numbers synthesis method based on texture optimization,81388598707,Ying  Tang
+10.1145/2397696.2397698,A real-time visualization framework for IDS alerts,81549278756,Ying  Zhao
+10.1145/2397696.2397698,A real-time visualization framework for IDS alerts,81549260756,Fangfang  Zhou
+10.1145/2397696.2397698,A real-time visualization framework for IDS alerts,81339498581,Xiaoping  Fan
+10.1145/2397696.2397699,The shape coordinates system in visualization space,81548917056,Zhifang  Jiang
+10.1145/2397696.2397699,The shape coordinates system in visualization space,81540747756,Shenghui  Cheng
+10.1145/2397696.2397699,The shape coordinates system in visualization space,81549340856,Ruobo  Xin
+10.1145/2397696.2397699,The shape coordinates system in visualization space,81322501374,Xiangxu  Meng
+10.1145/2397696.2397700,VISA: a visual sentiment analysis system,99659739027,Chuang  Lin
+10.1145/2397696.2397700,VISA: a visual sentiment analysis system,99659747465,Lei  Shi
+10.1145/2397696.2397700,VISA: a visual sentiment analysis system,81100484491,Shimei  Pan
+10.1145/2397696.2397700,VISA: a visual sentiment analysis system,81442597296,Weihong  Qian
+10.1145/2397696.2397700,VISA: a visual sentiment analysis system,81548713556,Dongxu  Duan
+10.1145/2397696.2397701,Visualizing disease incidence in the context of socioeconomic factors,81549326956,Jared  Shenson
+10.1145/2397696.2397701,Visualizing disease incidence in the context of socioeconomic factors,81504684109,Alark  Joshi
+10.1145/2397696.2397702,NewsVAT: an interactive visual analytics tool for news exploration,81548522456,Xiaojuan  Liu
+10.1145/2397696.2397702,NewsVAT: an interactive visual analytics tool for news exploration,81100220220,Xia Lin
+10.1145/2397696.2397703,Timeseer: detecting interesting distributions in multiple time series data,81474659807,Tuannhon  Dang
+10.1145/2397696.2397703,Timeseer: detecting interesting distributions in multiple time series data,81100304143,Leland K Wilkinson
+10.1145/2397696.2397704,Generating time lines with virtual words for time-varying data visualization,81548739656,Li  Yu
+10.1145/2397696.2397704,Generating time lines with virtual words for time-varying data visualization,81100052641,Aidong Lu
+10.1145/2397696.2397704,Generating time lines with virtual words for time-varying data visualization,81548161656,Weri  Chen
+10.1145/2397696.2397705,TabuVis: a light weight visual analytics system for multidimensional data,81100511332,Quang Vinh Nguyen
+10.1145/2397696.2397705,TabuVis: a light weight visual analytics system for multidimensional data,81452599675,Yu  Qian
+10.1145/2397696.2397705,TabuVis: a light weight visual analytics system for multidimensional data,81100079792,Maolin  Huang
+10.1145/2397696.2397705,TabuVis: a light weight visual analytics system for multidimensional data,81453614419,Jiawan  Zhang
+10.1145/2397696.2397706,ExtractVis: dynamic visualization of extracting multidimensional data,99659052542,Zhao Xiao
+10.1145/2397696.2397706,ExtractVis: dynamic visualization of extracting multidimensional data,81100220966,Changbo  Wang
+10.1145/2397696.2397706,ExtractVis: dynamic visualization of extracting multidimensional data,81100220966,Changbo  Wang
+10.1145/2397696.2397706,ExtractVis: dynamic visualization of extracting multidimensional data,81100220966,Changbo  Wang
+10.1145/2397696.2397706,ExtractVis: dynamic visualization of extracting multidimensional data,99659918096,Peng  Ye
+10.1145/2397696.2397706,ExtractVis: dynamic visualization of extracting multidimensional data,81549102456,Yuhua  Liu
+10.1145/2397696.2397706,ExtractVis: dynamic visualization of extracting multidimensional data,81549269856,Chenming  Pang
+10.1145/2397696.2397707,Continuous awareness: a visual mobile approach,81549576556,Cong  Chen
+10.1145/2397696.2397707,Continuous awareness: a visual mobile approach,81350576955,K. Zhang
+10.1145/2397696.2397708,Feeling the pulse of a wiki: visualization of recent changes in Wikipedia,81100203521,Robert P. Biuk-Aghai
+10.1145/2397696.2397708,Feeling the pulse of a wiki: visualization of recent changes in Wikipedia,81548735956,Roy Chi Kit Chan
+10.1145/2397696.2397709,Image-based irregular needling embroidery rendering,81548349256,Kewei  Yang
+10.1145/2397696.2397709,Image-based irregular needling embroidery rendering,81549407256,Jie  Zhou
+10.1145/2397696.2397709,Image-based irregular needling embroidery rendering,81375607623,Zhengxing  Sun
+10.1145/2397696.2397709,Image-based irregular needling embroidery rendering,99659380172,Yi  Li
+10.1145/2397696.2397710,Evaluation of co-located and distributed collaborative visualization,81467663707,Xianlin  Hu
+10.1145/2397696.2397710,Evaluation of co-located and distributed collaborative visualization,81435599709,Lane T Harrison
+10.1145/2397696.2397710,Evaluation of co-located and distributed collaborative visualization,81100052641,Aidong Lu
+10.1145/2397696.2397710,Evaluation of co-located and distributed collaborative visualization,81548739656,Li  Yu
+10.1145/2397696.2397710,Evaluation of co-located and distributed collaborative visualization,81548355456,Huaguang  Song
+10.1145/2397696.2397710,Evaluation of co-located and distributed collaborative visualization,81100132506,Jinzhu  Gao
+10.1145/2397696.2397711,Assessing user experience of interactive products: a Chinese questionnaire,81549254156,Shuqing  Liu
+10.1145/2397696.2397711,Assessing user experience of interactive products: a Chinese questionnaire,81548996956,Jiang  Jian
+10.1145/2397696.2397711,Assessing user experience of interactive products: a Chinese questionnaire,81416606402,Xianjunsam  Zheng
+10.1145/2397696.2397711,Assessing user experience of interactive products: a Chinese questionnaire,81549398556,Zaijia  Liu
+10.1145/2397696.2397711,Assessing user experience of interactive products: a Chinese questionnaire,81548461556,Guanmin  Liu
+10.1145/2397696.2397711,Assessing user experience of interactive products: a Chinese questionnaire,81549374356,Kaiping  Peng
+10.1145/2397696.2397712,An aggregation-based approach to quality evaluation of graph drawings,81100080630,Weidong Huang
+10.1145/2397696.2397712,An aggregation-based approach to quality evaluation of graph drawings,81100227371,Chuncheng  Lin
+10.1145/2397696.2397712,An aggregation-based approach to quality evaluation of graph drawings,81100079792,Maolin  Huang
+10.1145/2016656.2016657,Designing visual analytics systems for organizational environments,81467645327,Xiaoyu  Wang
+10.1145/2016656.2016657,Designing visual analytics systems for organizational environments,81100084142,Eric A. Bier
+10.1145/2016656.2016657,Designing visual analytics systems for organizational environments,81367590837,Thomas James Butkiewicz
+10.1145/2016656.2016657,Designing visual analytics systems for organizational environments,81100028256,William  Ribarsky
+10.1145/2016656.2016657,Designing visual analytics systems for organizational environments,81414604610,Wenwen  Dou
+10.1145/2016656.2016658,Visualization of large category hierarchies,81100203521,Robert P. Biuk-Aghai
+10.1145/2016656.2016658,Visualization of large category hierarchies,81466645302,Cheongiao  Pang
+10.1145/2016656.2016658,Visualization of large category hierarchies,81487645436,Felix Hon Hou Cheang
+10.1145/2016656.2016659,A visual analysis tool that smoothly switches between tabular forms and parallel coordinates,81100517120,Kazuo Misue
+10.1145/2016656.2016659,A visual analysis tool that smoothly switches between tabular forms and parallel coordinates,81487644992,Takashi  Yuki
+10.1145/2016656.2016660,A hyperbolic tree based interface for exploring massive files,81542207356,Zhirong  Zeng
+10.1145/2016656.2016660,A hyperbolic tree based interface for exploring massive files,81487643126,Kun  Wang
+10.1145/2016656.2016660,A hyperbolic tree based interface for exploring massive files,81384607002,Dongxing  Teng
+10.1145/2016656.2016660,A hyperbolic tree based interface for exploring massive files,81100220294,Hong'an  Wang
+10.1145/2016656.2016660,A hyperbolic tree based interface for exploring massive files,81100172122,Guozhong  Dai
+10.1145/2016656.2016661,MusiCube: a visual music recommendation system featuring interactive evolutionary computing,81487645949,Yuri  Saito
+10.1145/2016656.2016661,MusiCube: a visual music recommendation system featuring interactive evolutionary computing,81100329777,Takayuki  Itoh
+10.1145/2016656.2016662,Support of self-management for chronic kidney failure patients,81487652857,Yasuhiko  Sota
+10.1145/2016656.2016662,Support of self-management for chronic kidney failure patients,81487646379,Keisuke  Yamamoto
+10.1145/2016656.2016662,Support of self-management for chronic kidney failure patients,81100170303,Masahito  Hirakawa
+10.1145/2016656.2016662,Support of self-management for chronic kidney failure patients,81487643213,Souichiro  Doi
+10.1145/2016656.2016662,Support of self-management for chronic kidney failure patients,81487645665,Yasuhisa  Yamamoto
+10.1145/2016656.2016663,Geo-tagged mobile photo sharing in collaborative emergency management,81430655874,Anna  Wu
+10.1145/2016656.2016663,Geo-tagged mobile photo sharing in collaborative emergency management,81487647520,Xin  Yan
+10.1145/2016656.2016663,Geo-tagged mobile photo sharing in collaborative emergency management,81316491376,Xiaolong(Luke)  Zhang
+10.1145/2016656.2016664,Empirical studies of pen tilting performance in pen-based user interfaces,81100106876,Feng  Tian
+10.1145/2016656.2016664,Empirical studies of pen tilting performance in pen-based user interfaces,81100130420,Xiang  Cao
+10.1145/2016656.2016664,Empirical studies of pen tilting performance in pen-based user interfaces,81484645699,Fei Lyu
+10.1145/2016656.2016664,Empirical studies of pen tilting performance in pen-based user interfaces,81100172122,Guozhong  Dai
+10.1145/2016656.2016664,Empirical studies of pen tilting performance in pen-based user interfaces,81316491376,Xiaolong(Luke)  Zhang
+10.1145/2016656.2016664,Empirical studies of pen tilting performance in pen-based user interfaces,81100220294,Hong'an  Wang
+10.1145/2016656.2016665,Controlled dataflow visual programming languages,81408600520,Philip Trevor Cox
+10.1145/2016656.2016665,Controlled dataflow visual programming languages,81100654649,Simon  Gauvin
+10.1145/2016656.2016666,Visualizing inference process of a rule engine,81487652078,Jian  Shi
+10.1145/2016656.2016666,Visualizing inference process of a rule engine,81550008956,Ying  Qiao
+10.1145/2016656.2016666,Visualizing inference process of a rule engine,81100220294,Hong'an  Wang
+10.1145/2016656.2016667,Coaxial interactive viewer: a multi-dimensional data visualization with spatial distortional views,81453614419,Jiawan  Zhang
+10.1145/2016656.2016667,Coaxial interactive viewer: a multi-dimensional data visualization with spatial distortional views,81487649595,Yi  Zhang
+10.1145/2016656.2016667,Coaxial interactive viewer: a multi-dimensional data visualization with spatial distortional views,81467659085,Lei  Fu
+10.1145/2016656.2016667,Coaxial interactive viewer: a multi-dimensional data visualization with spatial distortional views,81487640674,Qinghui  Guo
+10.1145/2016656.2016667,Coaxial interactive viewer: a multi-dimensional data visualization with spatial distortional views,81100079792,Maolin  Huang
+10.1145/2016656.2016668,InfoShape: high-level views of multidimensional information,81418594635,Jie  Hao
+10.1145/2016656.2016668,InfoShape: high-level views of multidimensional information,81350576955,K. Zhang
+10.1145/2016656.2016669,Visual analysis of people's mobility pattern from mobile phone data,81487651695,Jiansu  Pu
+10.1145/2016656.2016669,Visual analysis of people's mobility pattern from mobile phone data,81487645560,Panpan  Xu
+10.1145/2016656.2016669,Visual analysis of people's mobility pattern from mobile phone data,81100337801,Huamin  Qu
+10.1145/2016656.2016669,Visual analysis of people's mobility pattern from mobile phone data,81100228981,Weiwei  Cui
+10.1145/2016656.2016669,Visual analysis of people's mobility pattern from mobile phone data,88159345257,Siyuan  Liu
+10.1145/2016656.2016669,Visual analysis of people's mobility pattern from mobile phone data,81100358196,Lionel Ming Shuan Ni
+10.1145/2016656.2016670,A graph-based fuzzy linguistic metadata schema for describing spatial relationships,81479650318,Yu  Su
+10.1145/2016656.2016670,A graph-based fuzzy linguistic metadata schema for describing spatial relationships,81409595451,Margaret H Dunham
+10.1145/2016656.2016671,SFViz: interest-based friends exploration and recommendation in social networks,81502758188,Liang  Gou
+10.1145/2016656.2016671,SFViz: interest-based friends exploration and recommendation in social networks,81351599219,Fang  You
+10.1145/2016656.2016671,SFViz: interest-based friends exploration and recommendation in social networks,81487643456,Jun  Guo
+10.1145/2016656.2016671,SFViz: interest-based friends exploration and recommendation in social networks,81487650203,Luqi  Wu
+10.1145/2016656.2016671,SFViz: interest-based friends exploration and recommendation in social networks,81316491376,Xiaolong(Luke)  Zhang
+10.1145/2016656.2016672,Visual signatures for financial time series,81100482168,SuTe  Lei
+10.1145/2016656.2016672,Visual signatures for financial time series,81350576955,K. Zhang
+10.1145/1865841.1865843,Beyond the interface: a distributed cognition perspective,81332504463,James D Hollan
+10.1145/1865841.1865844,The promise of zoomable user interfaces,81100083927,Ben Bederson
+10.1145/1865841.1865845,Browsing a highly connected information space: can natural language processing help?,81100495902,CÉcile Laurance Paris
+10.1145/1865841.1865846,"2D and 3D conceptual design sketching: interface, modelling and progress",81100549711,Shengfeng  Qin
+10.1145/1865841.1865848,Difference of inflow and outflow based 3D streamline placement,81470646542,Shaorong  Wang
+10.1145/1865841.1865848,Difference of inflow and outflow based 3D streamline placement,99659385433,Yisong  Chen
+10.1145/1865841.1865848,Difference of inflow and outflow based 3D streamline placement,i%2C+Sheng,Sheng LiSearch about this author
+10.1145/1865841.1865848,Difference of inflow and outflow based 3D streamline placement,81100213064,Guoping  Wang
+10.1145/1865841.1865849,The research of the regional pollutant concentration visualization based on the particles,81548917056,Zhifang  Jiang
+10.1145/1865841.1865849,The research of the regional pollutant concentration visualization based on the particles,81470649191,Miaomiao  Li
+10.1145/1865841.1865849,The research of the regional pollutant concentration visualization based on the particles,81322501374,Xiangxu  Meng
+10.1145/1865841.1865849,The research of the regional pollutant concentration visualization based on the particles,99659592332,Yan  Huang
+10.1145/1865841.1865849,The research of the regional pollutant concentration visualization based on the particles,81470648115,Shenfang  Li
+10.1145/1865841.1865850,Simulating self-organizing behaviors of fish school,81470641837,Ye  Yuan
+10.1145/1865841.1865850,Simulating self-organizing behaviors of fish school,81440595151,Zhongke  Wu
+10.1145/1865841.1865852,Visualization of BP neural network using parallel coordinates,81470647974,Jing  Zhao
+10.1145/1865841.1865853,Column-based cluster and bar axis density in parallel coordinates,81456623039,Lei  Tang
+10.1145/1865841.1865853,Column-based cluster and bar axis density in parallel coordinates,81460647035,Xueqing  Li
+10.1145/1865841.1865853,Column-based cluster and bar axis density in parallel coordinates,99659630057,Wenjing  Qi
+10.1145/1865841.1865853,Column-based cluster and bar axis density in parallel coordinates,81548917056,Zhifang  Jiang
+10.1145/1865841.1865854,Exploring the relative importance of crossing number and crossing angle,81100080630,Weidong Huang
+10.1145/1865841.1865854,Exploring the relative importance of crossing number and crossing angle,81100079792,Maolin  Huang
+10.1145/1865841.1865856,Semantic comparison of structured visual dataflow programs,81408600520,Philip Trevor Cox
+10.1145/1865841.1865856,Semantic comparison of structured visual dataflow programs,81314488396,Anh Dang
+10.1145/1865841.1865857,A model driven visualization platform for workflow,81470649413,Jiayao  Chen
+10.1145/1865841.1865857,A model driven visualization platform for workflow,99659399355,Xueqing  Li
+10.1145/1865841.1865857,A model driven visualization platform for workflow,81470641040,Jingzhao  Yang
+10.1145/1865841.1865858,Process visualization to solve the travelling salesman problem,81440610062,J Joshua Thomas
+10.1145/1865841.1865858,Process visualization to solve the travelling salesman problem,81470645933,Choychee  Ken
+10.1145/1865841.1865860,A developing framework for interactive temporal data visualization,81460642808,Xiongfei  Luo
+10.1145/1865841.1865860,A developing framework for interactive temporal data visualization,81384607002,Dongxing  Teng
+10.1145/1865841.1865860,A developing framework for interactive temporal data visualization,81418594973,Wei  Liu
+10.1145/1865841.1865860,A developing framework for interactive temporal data visualization,81100106876,Feng  Tian
+10.1145/1865841.1865860,A developing framework for interactive temporal data visualization,81100172122,Guozhong  Dai
+10.1145/1865841.1865860,A developing framework for interactive temporal data visualization,81100220294,Hong'an  Wang
+10.1145/1865841.1865861,Cooperative concept map based on cognitive model for visual analysis,81470647228,Yi  Du
+10.1145/1865841.1865861,Cooperative concept map based on cognitive model for visual analysis,81384602486,Cui-Xia Ma
+10.1145/1865841.1865861,Cooperative concept map based on cognitive model for visual analysis,81384607002,Dongxing  Teng
+10.1145/1865841.1865861,Cooperative concept map based on cognitive model for visual analysis,81100172122,Guozhong  Dai
+10.1145/1865841.1865862,Interactive visualization with user perspective: a new concept,81100511332,Quang Vinh Nguyen
+10.1145/1865841.1865862,Interactive visualization with user perspective: a new concept,81100077710,Simeon J Simoff
+10.1145/1865841.1865862,Interactive visualization with user perspective: a new concept,81100079792,Maolin  Huang
+10.1145/1865841.1865864,Harvesting discourse strategies for rapid prototyping of tailored information delivery systems,99659619706,Shijian  Lu
+10.1145/1865841.1865864,Harvesting discourse strategies for rapid prototyping of tailored information delivery systems,81100495902,CÉcile Laurance Paris
+10.1145/1865841.1865865,TagNetLens: multiscale visualization of knowledge structures in social tags,81502758188,Liang  Gou
+10.1145/1865841.1865865,TagNetLens: multiscale visualization of knowledge structures in social tags,81430627791,Shaoke  Zhang
+10.1145/1865841.1865865,TagNetLens: multiscale visualization of knowledge structures in social tags,81470645182,Jing  Wang
+10.1145/1865841.1865865,TagNetLens: multiscale visualization of knowledge structures in social tags,81316491376,Xiaolong(Luke)  Zhang
+10.1145/1865841.1865866,Visually searching the web for structural content,81470647019,Hirofumi  Miyamoto
+10.1145/1865841.1865866,Visually searching the web for structural content,81100170303,Masahito  Hirakawa
+10.1145/1865841.1865868,A visual analytics system for financial time-series data,81100482168,SuTe  Lei
+10.1145/1865841.1865868,A visual analytics system for financial time-series data,81350576955,K. Zhang
+10.1145/1865841.1865869,Event-based approach to money laundering data analysis and visualization,81470654406,Tatman  Cheong
+10.1145/1865841.1865869,Event-based approach to money laundering data analysis and visualization,81100394289,Yain Whar Si
+10.1145/1865841.1865870,An interactive sensemaking framework for mobile visual analytics,81430655874,Anna  Wu
+10.1145/1865841.1865870,An interactive sensemaking framework for mobile visual analytics,81316491376,Xiaolong(Luke)  Zhang
+10.1145/1865841.1865870,An interactive sensemaking framework for mobile visual analytics,81100429353,Guoray  Cai
