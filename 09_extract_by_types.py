@@ -15,6 +15,8 @@ class Refs:
         self.ref_papers_tmp_path = 'data/jsons/ref_papers_tmp.json'
         self.ref_papers_tmp_dict = {}
         self.pub_list ={}
+        self.ref_parsed_path = 'data/jsons/ref-parsed.json'
+        self.documents = {}
 
     def load_data(self):
         with open(self.ref_papers_tmp_path, encoding='utf-8') as fh:
@@ -52,7 +54,24 @@ class Refs:
             self.pub_list[publisher_name] = {'name': publisher_name, "example": url}
             self.save_generic(self.pub_list_path, self.pub_list)
 
+    def load_ref(self):
+        with open(self.ref_parsed_path, encoding='utf-8') as fh:
+            elemetn = json.load(fh)
+        self.documents = elemetn
+
+    def loop_parsed_refs(self):
+        self.load_ref()
+        try:
+            for doi in self.documents:
+                list = self.documents[doi]
+                pass
+        except Exception as e:
+            print(key)
+            fail_message(e)
+
+
 if __name__ == '__main__':
     client = Refs()
-    client.load_data()
-    client.get_info_tmp_ref()
+    #client.load_data()
+    #client.get_info_tmp_ref()
+    client.loop_parsed_refs()
