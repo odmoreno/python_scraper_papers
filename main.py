@@ -82,8 +82,5 @@ def main():
     #extra_info_client.loop_authors()
     print('Finish')
 
-
-
-
 if __name__ == "__main__":
     main()

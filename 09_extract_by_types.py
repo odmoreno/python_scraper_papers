@@ -28,6 +28,7 @@ class Refs:
         self.documents = {}
         self.papers_refs = {}
         self.temp_doi = 1
+        self.current_id = 'temp1'
         self.current_doi = ''
         self.ref_per_paper_path = 'data/jsons/ref_per_paper.json'
         self.ref_per_paper = {}
@@ -188,6 +189,12 @@ class Refs:
         with open(self.ref_parsed_path, encoding='utf-8') as fh:
             elemetn = json.load(fh)
         self.documents = elemetn
+        with open(self.papers_refs_path, encoding='utf-8') as fh:
+            element = json.load(fh)
+        self.papers_refs = element
+        with open(self.ref_per_paper_path, encoding='utf-8') as fh:
+            element2 = json.load(fh)
+        self.ref_per_paper = element2
 
     def loop_parsed_refs(self):
         self.load_ref()
@@ -199,10 +206,14 @@ class Refs:
                 # loop de las referencias
                 list = self.documents[doi]
                 for document in list:
-                    self.get_reference(document)
+                    self.current_id = 'temp' + str(self.temp_doi)
+                    if self.current_id not in self.papers_refs:
+                        self.get_reference(document)
+                    self.temp_doi += 1
                 # fin del loop agregamos la lista de refs al elemento original
-                self.ref_per_paper[doi] = self.doi_list
-                self.save_generic(self.ref_per_paper_path, self.ref_per_paper)
+                if doi not in self.ref_per_paper:
+                    self.ref_per_paper[doi] = self.doi_list
+                    self.save_generic(self.ref_per_paper_path, self.ref_per_paper)
         except Exception as e:
             print(doi)
             fail_message(e)
@@ -299,16 +310,12 @@ class Refs:
             "volume": volume,
             "pages": pages
         }
-        self.temp_doi +=1
 
-        if doi not in self.papers_refs:
-            self.papers_refs[doi] = data
-            self.save_generic(self.papers_refs_path, self.papers_refs)
+        self.papers_refs[self.current_id] = data
+        self.save_generic(self.papers_refs_path, self.papers_refs)
 
         self.doi_list.append(doi)
 
-
-    
 if __name__ == '__main__':
     client = Refs()
     #client.load_data()
