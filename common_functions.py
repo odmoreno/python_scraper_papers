@@ -213,6 +213,15 @@ def create_s_values(tam):
     strings += ')'
     return strings
 
+def save_generic(path, collection):
+    json_string = json.dumps(collection, ensure_ascii=False, indent=2)
+    with open(path, 'w', encoding="utf-8") as outfile:
+        outfile.write(json_string)
+
+def load_generic( path):
+    with open(path, encoding='utf-8') as fh:
+        elements = json.load(fh)
+    return elements
 
 # result CSV file's header
 header = [

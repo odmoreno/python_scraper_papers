@@ -1,5 +1,5 @@
 '''
-Extraer informacion de las ref segun la pagina del publisher
+Extraer informacion de las ref
 '''
 
 from common_functions import *
@@ -207,13 +207,18 @@ class Refs:
                 list = self.documents[doi]
                 for document in list:
                     self.current_id = 'temp' + str(self.temp_doi)
+                    print(self.current_id)
                     if self.current_id not in self.papers_refs:
                         self.get_reference(document)
+                    else:
+                        self.doi_list.append(self.current_id)
                     self.temp_doi += 1
+
                 # fin del loop agregamos la lista de refs al elemento original
                 if doi not in self.ref_per_paper:
                     self.ref_per_paper[doi] = self.doi_list
                     self.save_generic(self.ref_per_paper_path, self.ref_per_paper)
+            print("finish")
         except Exception as e:
             print(doi)
             fail_message(e)
@@ -278,10 +283,12 @@ class Refs:
                     print('servlet')
                     href = info['href']
                     url_tmp = 'https://dl.acm.org' + href
+                    print(url_tmp)
                     self.driver.get(url_tmp)
                     print(self.driver.current_url)
                     #pub_name = self.pub_short_name(self.driver.current_url)
                     url = self.driver.current_url
+                    print(url)
                     if 'doi' in url:
                         doi_split = url.split('doi/', 1)
                         print(doi_split, len(doi_split))
