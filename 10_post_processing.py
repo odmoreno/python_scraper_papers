@@ -32,8 +32,10 @@ class PostP:
         #new docs
         self.new_papers_hash = {}
         # columnas para los csv
-        self.papers_col = ['type', 'title', 'year', 'authors', 'citations', 'downloads', 'doi', 'publisher', 'venue',
-                           'n_reference']
+        self.papers_col = ['type', 'title', 'date', 'authors', 'doi', 'publisher', 'venue']
+        self.citations_col = ['paper_id', 'paper_title', 'parent_id', 'parent_title']
+        #listas
+        self.citation_list = []
 
     def load_refs(self):
         with open(self.papers_refs_path, encoding='utf-8') as fh:
@@ -112,7 +114,13 @@ class PostP:
 
     def save_element(self, vinci_paper, doi_ref):
         document = self.new_papers_hash[doi_ref]
-
+        data = {
+            'paper_id' : vinci_paper['doi'],
+            'paper_title': vinci_paper['title'],
+            'parent_id': document['doi'],
+            'parent_title': document['title']
+        }
+        self.citation_list.append(data)
 
 
 if __name__ == '__main__':
