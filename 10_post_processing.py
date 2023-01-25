@@ -32,10 +32,12 @@ class PostP:
         #new docs
         self.new_papers_hash = {}
         # columnas para los csv
-        self.papers_col = ['type', 'title', 'date', 'authors', 'doi', 'publisher', 'venue']
+        self.papers_col = ['type', 'title', 'date',
+                           'authors', 'doi', 'publisher', 'venue', 'location']
         self.citations_col = ['paper_id', 'paper_title', 'parent_id', 'parent_title']
         #listas
         self.citation_list = []
+        self.papers_list[]
 
     def load_refs(self):
         with open(self.papers_refs_path, encoding='utf-8') as fh:
@@ -107,6 +109,7 @@ class PostP:
         try:
             for doi, list in self.ref_per_paper.items():
                 vinci_paper = self.papers_vinci[doi]
+                self.add_paper_to_list(vinci_paper, 'vinci')
                 for element in list:
                     self.save_element(vinci_paper, element)
         except Exception as e:
