@@ -223,6 +223,15 @@ def load_generic( path):
         elements = json.load(fh)
     return elements
 
+def csv_generics(path, list, cols):
+        csv_file = path
+        csv_columns = cols
+        with open(csv_file, 'w', encoding='utf-8', newline='') as csvfile:
+            writer = csv.DictWriter(csvfile, fieldnames=csv_columns)
+            writer.writeheader()
+            for data in list:
+                writer.writerow(data)
+
 # result CSV file's header
 header = [
     "URL",
