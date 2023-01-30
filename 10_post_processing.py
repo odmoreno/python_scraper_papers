@@ -33,14 +33,15 @@ class PostP:
         self.new_papers_hash = {}
         # columnas para los csv
         self.papers_col = ['type', 'title', 'date', 'authors', 'doi', 'publisher', 'venue', 'location']
-        self.citations_col = ['paper_id', 'paper_title', 'parent_id', 'parent_title']
+        self.citations_col = ['paper_id', 'paper_title', 'self_citation', 'parent_id', 'parent_title', 'date']
         #self.cocite_authors_col = ['author_name', 'coauthor_name', 'self_citation', 'paper_doi', 'paper_title', 'parent_doi', 'parent_title']
-        self.cocite_authors_col = ['author_name', 'coauthor_name', 'self_citation', 'paper_doi', 'parent_doi']
+        self.cocite_authors_col = ['author_name', 'coauthor_name', 'self_citation', 'paper_doi', 'parent_doi', 'date']
         #listas
         self.citation_list = []
         self.papers_list=[]
         #authores citations
         self.cocite_authors = []
+        self.selfcitation = False
 
     def load_refs(self):
         with open(self.papers_refs_path, encoding='utf-8') as fh:
@@ -102,9 +103,9 @@ class PostP:
         #save_generic(self.main_path+'autores_ref.json', autores)
         #save_generic(self.main_path +'venues.json', venues)
         #save_generic(self.main_path + 'papers_refs.json', self.new_papers_hash)
-        #csv_generics(self.main_path+'cocitations_papers.csv', self.citation_list, self.citations_col)
+        csv_generics(self.main_path+'cocitations_papers.csv', self.citation_list, self.citations_col)
         #csv_generics(self.main_path +'papers.csv', self.papers_list, self.papers_col)
-        csv_generics(self.main_path + 'coauthors.csv', self.cocite_authors, self.cocite_authors_col)
+        csv_generics(self.main_path + 'cocitations_authors.csv', self.cocite_authors, self.cocite_authors_col)
 
     def loop_refs_in_papers(self):
         self.new_papers_hash = load_generic(self.main_path + 'papers_refs.json')
@@ -180,14 +181,19 @@ class PostP:
             fail_message(e)
 
     def get_authors_per_papers(self, vinci_paper, authors_root, key):
+        self.selfcitation = False
+
         if key in self.new_papers_hash:
             document = self.new_papers_hash[key]
+
         else:
             document = self.papers_refs[key]
 
         authors = document['authors']
         root_doi = vinci_paper['doi']
         parent_doi = document['doi']
+        date = document['date'] if 'date' in document else document['year']
+        date = self.check_date_list(date)
 
         print('---')
         print(authors_root)
@@ -206,6 +212,7 @@ class PostP:
                 compare = self.compare_names(root, author)
                 if len(value) > 0:
                     selfcitation = True
+                    self.selfcitation = True
                 else:
                     data_val = compare['values']
                     flag = compare['same_size']
@@ -213,9 +220,11 @@ class PostP:
                     if flag:
                         if len(data_val) == size_val:
                             selfcitation = True
+                            self.selfcitation = True
                     elif len(data_val)>1:
                         print("hmm")
                         selfcitation = True
+                        self.selfcitation = True
 
                 data = {
                     'author_name': root,
@@ -224,9 +233,23 @@ class PostP:
                     'paper_doi': root_doi,
                     #'paper_title': vinci_paper['title'],
                     'parent_doi': parent_doi,
+                    'date': date
                     #'parent_title': vinci_paper['doi']
                 }
                 self.cocite_authors.append(data)
+
+        ''' cocitation paper zone'''
+        cite = {
+            'paper_id': vinci_paper['doi'],
+            'paper_title': vinci_paper['title'],
+            'self_citation': self.selfcitation,
+            'parent_id': document['doi'],
+            'parent_title': document['title'],
+            'date': date
+        }
+        self.citation_list.append(cite)
+
+        ''' FIN'''
 
 
     def compare_names(self, name1, name2):
@@ -267,6 +290,30 @@ class PostP:
         }
         return data
 
+
+    def check_date_list(self, date):
+        newdate = date
+        if type(date) == list:
+            print("Variable is a list.")
+            for element in date:
+                size = len(element)
+                if size == 4:
+                    newdate = element
+                    return newdate
+                else:
+                    newdate = element
+                    if '-' in newdate:
+                        splitdate = newdate.split("-")
+                        for splits in splitdate:
+                            if len(splits) == 4:
+                                newdate = splits
+        else:
+            if '-' in date:
+                splitdate = date.split("-")
+                for split in splitdate:
+                    if len(split) == 4:
+                        newdate = split
+        return newdate
 
 
 if __name__ == '__main__':
