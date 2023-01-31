@@ -42,6 +42,10 @@ class PostP:
         #authores citations
         self.cocite_authors = []
         self.selfcitation = False
+        #Coauthoria
+        self.coauthors = {}
+        self.couthors_institutions = []
+        self.coauthors_col = ['author_id', 'author_name', 'author2_id', 'author2_name', 'paper_doi', 'date']
 
     def load_refs(self):
         with open(self.papers_refs_path, encoding='utf-8') as fh:
@@ -315,11 +319,50 @@ class PostP:
                         newdate = split
         return newdate
 
+    def coauthor_loop(self):
+
+        try:
+            for doi, element in self.papers_vinci.items():
+                authors = element['authors']
+                doi = element['doi']
+                date = element['year']
+                self.create_links_authors(doi, date, authors)
+        except Exception as e:
+            print(doi, element)
+            fail_message(e)
+
+    def create_links_authors(self, doi, date, authors):
+        for author in authors:
+            id = author['id']
+            for element in authors:
+                id2 = element['id']
+                if id != id2:
+                    cod = id + ':' +id2 + ':' + doi
+                    icod = id2 + ':' +id + ':' + doi
+                    if (cod and icod) not in self.coauthors:
+                        data = {
+                            'author_id': id,
+                            'author_name': author['name'].replace(",", " "),
+                            'author2_id': id2,
+                            'author2_name': element['name'].replace(",", " "),
+                            'paper_doi': doi,
+                            'date': date
+                        }
+                        self.coauthors[cod] = data
+
+    def save_info(self):
+        list = self.coauthors.values()
+        csv_generics(self.main_path + 'coauthors.csv', list, self.coauthors_col)
+
+    def generate_coauthors_data(self):
+        self.coauthor_loop()
+        self.save_info()
 
 if __name__ == '__main__':
     client = PostP()
     client.load_refs()
     #client.loop_refs()
     #client.loop_refs_in_papers()
-    client.loop_ref_authors()
-    client.check_info()
+    #client.loop_ref_authors()
+    #client.check_info()
+    client.generate_coauthors_data()
