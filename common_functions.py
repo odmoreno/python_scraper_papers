@@ -230,6 +230,7 @@ def csv_generics(path, list, cols):
             writer = csv.DictWriter(csvfile, fieldnames=csv_columns)
             writer.writeheader()
             for data in list:
+                #print(data)
                 writer.writerow(data)
 
 # result CSV file's header

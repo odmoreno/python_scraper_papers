@@ -17,6 +17,10 @@ class PostP:
         #papers de vinci
         self.papers_vinci_path = 'data/jsons/papers.json'
         self.papers_vinci = {}
+        #vinci authors
+        self.authors_vinci = {}
+        # vinci institutions
+        self.insti_vinci = {}
         #Documentos a procesar
         self.papers_refs_path = 'data/jsons/papers_ref.json'
         self.papers_refs = {}
@@ -31,6 +35,8 @@ class PostP:
         self.author_id = 1
         #new docs
         self.new_papers_hash = {}
+        #merge papers refs
+        self.merge_docs = {}
         # columnas para los csv
         self.papers_col = ['type', 'title', 'date', 'authors', 'doi', 'publisher', 'venue', 'location']
         self.citations_col = ['paper_id', 'paper_title', 'self_citation', 'parent_id', 'parent_title', 'date']
@@ -44,8 +50,12 @@ class PostP:
         self.selfcitation = False
         #Coauthoria
         self.coauthors = {}
-        self.couthors_institutions = []
+        self.coinsti = {}
+        self.copais = {}
         self.coauthors_col = ['author_id', 'author_name', 'author2_id', 'author2_name', 'paper_doi', 'date']
+        self.coinsti_col = ['institution1', 'institution2', 'paper_doi', 'date']
+        self.copais_col = ['pais1', 'pais2', 'paper_doi', 'date']
+
 
     def load_refs(self):
         with open(self.papers_refs_path, encoding='utf-8') as fh:
@@ -57,6 +67,12 @@ class PostP:
         with open(self.papers_vinci_path, encoding='utf-8') as fh:
             element2 = json.load(fh)
         self.papers_vinci = element2
+        with open('data/jsons/authors.json', encoding='utf-8') as fh:
+            element2 = json.load(fh)
+        self.authors_vinci = element2
+        with open('data/jsons/insti.json', encoding='utf-8') as fh:
+            element2 = json.load(fh)
+        self.insti_vinci = element2
 
     def loop_refs(self):
         try:
@@ -178,26 +194,35 @@ class PostP:
                     authors.append(autor['name'])
                 #loop refs
                 for element in list:
-                    self.get_authors_per_papers(vinci_paper, authors, element)
+                    #self.get_authors_per_papers(vinci_paper, authors, element)
+                    self.merge_papers_refs(element)
 
         except Exception as e:
             print(vinci_paper)
             fail_message(e)
+
+    def merge_papers_refs(self, key):
+        if key in self.new_papers_hash:
+            document = self.new_papers_hash[key]
+        else:
+            document = self.papers_refs[key]
+
+        self.merge_docs[key] = document
 
     def get_authors_per_papers(self, vinci_paper, authors_root, key):
         self.selfcitation = False
 
         if key in self.new_papers_hash:
             document = self.new_papers_hash[key]
-
         else:
             document = self.papers_refs[key]
 
         authors = document['authors']
         root_doi = vinci_paper['doi']
         parent_doi = document['doi']
-        date = document['date'] if 'date' in document else document['year']
-        date = self.check_date_list(date)
+        #date = document['date'] if 'date' in document else document['year']
+        #date = self.check_date_list(date)
+        date = vinci_paper['year']
 
         print('---')
         print(authors_root)
@@ -327,6 +352,8 @@ class PostP:
                 doi = element['doi']
                 date = element['year']
                 self.create_links_authors(doi, date, authors)
+                self.loop_institutions(doi, date, authors)
+                self.loop_countries(doi,date,authors)
         except Exception as e:
             print(doi, element)
             fail_message(e)
@@ -336,10 +363,10 @@ class PostP:
             id = author['id']
             for element in authors:
                 id2 = element['id']
-                if id != id2:
+                if True: #id != id2:
                     cod = id + ':' +id2 + ':' + doi
                     icod = id2 + ':' +id + ':' + doi
-                    if (cod and icod) not in self.coauthors:
+                    if (cod not in self.coauthors) and (icod not in self.coauthors):
                         data = {
                             'author_id': id,
                             'author_name': author['name'].replace(",", " "),
@@ -348,21 +375,162 @@ class PostP:
                             'paper_doi': doi,
                             'date': date
                         }
+                        #print(data)
                         self.coauthors[cod] = data
 
     def save_info(self):
         list = self.coauthors.values()
+        list2 = self.coinsti.values()
         csv_generics(self.main_path + 'coauthors.csv', list, self.coauthors_col)
+        csv_generics(self.main_path + 'coinstitutions.csv', list2, self.coinsti_col)
+        csv_generics(self.main_path + 'copaises.csv', self.copais.values(), self.copais_col)
 
     def generate_coauthors_data(self):
         self.coauthor_loop()
         self.save_info()
+
+    def loop_institutions(self, doi, date, authors):
+        for e in authors:
+            author = self.authors_vinci[e['id']] if e['id'] in self.authors_vinci else ''
+            print(author)
+            if author == '': continue
+            if len(author['institutions']) == 0:
+                continue
+            insti = author['institutions'][0]
+            id1 = insti['id']
+            for i in authors:
+                a2 = self.authors_vinci[i['id']] if i['id'] in self.authors_vinci else ''
+                print(a2)
+                if a2 == '': continue
+                if len(a2['institutions']) == 0:
+                    continue
+                #insti2 = i['institution']
+                insti2 = a2['institutions'][0]
+                id2 = insti2['id']
+                print('-> ', insti['name'], '--' ,insti2['name'])
+                print(insti2)
+                if True: #id1 != id2:
+                    cod = id1 + ':' + id2 + ':' + doi
+                    icod = id2 + ':' + id1 + ':' + doi
+                    if (cod and icod) not in self.coinsti:
+                        data = {
+                            #'author_id': id,
+                            'institution1': insti['name'].replace(",", " "),
+                            #'author2_id': id2,
+                            'institution2': insti2['name'].replace(",", " "),
+                            'paper_doi': doi,
+                            'date': date
+                        }
+                        self.coinsti[cod] = data
+
+
+    def loop_countries(self, doi, date, authors):
+        for e in authors:
+            author = self.authors_vinci[e['id']] if e['id'] in self.authors_vinci else ''
+            if author == '': continue
+            if len(author['institutions']) == 0:
+                continue
+            insti = author['institutions'][0]
+            id1 = insti['id']
+            pais = self.insti_vinci[id1]
+            ad2 = pais['ad2'] if 'ad2' in pais else ''
+            ad1 = pais['ad1'] if 'ad1' in pais else ''
+            ad0 = pais['ad0'] if 'ad0' in pais else ''
+            if ad2 != '':
+                value = ad2
+            elif ad1 != '':
+                value = ad1
+            else:
+                value = ad0
+
+            for i in authors:
+                a2 = self.authors_vinci[i['id']] if i['id'] in self.authors_vinci else ''
+                if a2 == '': continue
+                if len(a2['institutions']) == 0:
+                    continue
+                # insti2 = i['institution']
+                insti2 = a2['institutions'][0]
+                id2 = insti2['id']
+                pais2 = self.insti_vinci[id2]
+                _ad2 = pais2['ad2'] if 'ad2' in pais2 else ''
+                _ad1 = pais2['ad1'] if 'ad1' in pais2 else ''
+                _ad0 = pais2['ad0'] if 'ad0' in pais2 else ''
+
+                if _ad2 != '':
+                    _value = _ad2
+                elif ad1 != '':
+                    _value = _ad1
+                else:
+                    _value = _ad0
+
+                if True: #value.lower() != _value.lower():
+                    cod = value.lower() + ':' + _value.lower() + ':' + doi
+                    icod = _value.lower() + ':' + value.lower() + ':' + doi
+                    if (cod and icod) not in self.copais:
+                        data = {
+                            # 'author_id': id,
+                            'pais1': value.replace(",", " "),
+                            # 'author2_id': id2,
+                            'pais2': _value.replace(",", " "),
+                            'paper_doi': doi,
+                            'date': date
+                        }
+                        self.copais[cod] = data
+
+
+    def mergue_papers(self):
+
+        papers_vinci = self.papers_vinci
+        papers_ref = self.merge_docs
+        res2 = papers_ref | papers_vinci
+        print(res2)
+        save_generic('data/vinci_refs/all_data.json', res2)
+        #dict3 = {'a': 5, 'b': 1, 'c': 2}
+        #dict1 = {'x': 10, 'y': 8, 'b': 3}
+        #dict2 = {'a': 6, 'b': 4}
+        #res = dict3 | dict1 | dict2
+        #print(res)
+
+    def handle_docs(self):
+        papers_vinci = {}
+        papers_refs = {}
+        for doi, list in self.papers_vinci.items():
+            #print(list)
+            data = {
+                'type': list['type'],
+                'title': list['title'],
+                'url': list['url'],
+                'year': list['year'],
+                'authors': list['authors'],
+                'conference': list['conference_title'] if 'conference_title' in list else '',
+                'is_vinci': True
+            }
+            papers_vinci[doi] = data
+
+        for doi, list in self.merge_docs.items():
+            data = {
+                'type': list['type'],
+                'title': list['title'],
+                'url': list['url'],
+                'year': list['date'],
+                'authors': list['authors'],
+                'conference': list['venue'],
+                'is_vinci': False
+            }
+            papers_refs[doi] = data
+
+        res2 = papers_refs | papers_vinci
+        print(res2)
+        save_generic('data/vinci_refs/nodes.json', res2)
+
 
 if __name__ == '__main__':
     client = PostP()
     client.load_refs()
     #client.loop_refs()
     #client.loop_refs_in_papers()
-    #client.loop_ref_authors()
+    client.loop_ref_authors()
     #client.check_info()
-    client.generate_coauthors_data()
+    #client.generate_coauthors_data()
+    #client.mergue_papers()
+    client.handle_docs()
