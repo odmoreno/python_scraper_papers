@@ -207,7 +207,8 @@ class PostP:
         else:
             document = self.papers_refs[key]
 
-        self.merge_docs[key] = document
+        #self.merge_docs[key] = document
+        self.merge_docs[document['doi']] = document
 
     def get_authors_per_papers(self, vinci_paper, authors_root, key):
         self.selfcitation = False
@@ -216,6 +217,8 @@ class PostP:
             document = self.new_papers_hash[key]
         else:
             document = self.papers_refs[key]
+
+        self.merge_docs[document['doi']] = document
 
         authors = document['authors']
         root_doi = vinci_paper['doi']
@@ -484,6 +487,11 @@ class PostP:
         papers_ref = self.merge_docs
         res2 = papers_ref | papers_vinci
         print(res2)
+
+        for key, value in res2.items():
+            res2[key]['doi'] = key
+
+        print(res2)
         save_generic('data/vinci_refs/all_data.json', res2)
         #dict3 = {'a': 5, 'b': 1, 'c': 2}
         #dict1 = {'x': 10, 'y': 8, 'b': 3}
@@ -491,7 +499,7 @@ class PostP:
         #res = dict3 | dict1 | dict2
         #print(res)
 
-    def handle_docs(self):
+    def handle_nodes(self):
         papers_vinci = {}
         papers_refs = {}
         for doi, list in self.papers_vinci.items():
@@ -503,6 +511,7 @@ class PostP:
                 'year': list['year'],
                 'authors': list['authors'],
                 'conference': list['conference_title'] if 'conference_title' in list else '',
+                'id': doi,
                 'is_vinci': True
             }
             papers_vinci[doi] = data
@@ -515,6 +524,7 @@ class PostP:
                 'year': list['date'],
                 'authors': list['authors'],
                 'conference': list['venue'],
+                'id': doi,
                 'is_vinci': False
             }
             papers_refs[doi] = data
@@ -523,14 +533,67 @@ class PostP:
         print(res2)
         save_generic('data/vinci_refs/nodes.json', res2)
 
+    def handle_links(self):
+        data = load_csv('data/vinci_refs/cocitations_papers.csv')
+        #print(data)
+        links = []
+        for value in data:
+            element = {
+                'source': value['paper_id'],
+                'target': value['parent_id'],
+                'self_citation': value['self_citation'],
+                'date': value['date']
+            }
+            links.append(element)
+
+        json_string = json.dumps(links)
+        with open('data/vinci_refs/links.json', 'w') as outfile:
+            outfile.write(json_string)
+
+    def docs_handler(self):
+        self.handle_nodes()
+        self.handle_links()
+
+    def assign_id_links(self):
+        links = load_generic('data/vinci_refs/links.json')
+        id = 0
+        new_hash = {}
+        for value in links:
+            new_hash[id] = value
+            new_hash[id]['id'] = id
+            id +=1
+        #print(new_hash)
+
+        json_string = json.dumps(new_hash)
+        with open('data/vinci_refs/links2.json', 'w') as outfile:
+            outfile.write(json_string)
+
+    def get_types_nodes(self):
+        nodes = load_generic('data/vinci_refs/nodes.json')
+        types = {}
+        id = 1
+        for doi, node in nodes.items():
+            tipo = node['type']
+            if tipo not in types:
+                types[tipo] = id
+                id += 1
+
+        json_string = json.dumps(types)
+        with open('data/vinci_refs/types.json', 'w') as outfile:
+            outfile.write(json_string)
 
 if __name__ == '__main__':
     client = PostP()
     client.load_refs()
     #client.loop_refs()
     #client.loop_refs_in_papers()
-    client.loop_ref_authors()
+
+    #client.loop_ref_authors()
+
     #client.check_info()
     #client.generate_coauthors_data()
     #client.mergue_papers()
-    client.handle_docs()
+    #client.docs_handler()
+
+    #client.assign_id_links()
+    client.get_types_nodes()

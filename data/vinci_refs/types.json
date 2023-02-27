@@ -1,0 +1,18 @@
+{
+  "article-journal": 1,
+  "paper-conference": 2,
+  "": 3,
+  "book": 4,
+  "chapter": 5,
+  "report": 6,
+  "poster": 7,
+  "research-article": 8,
+  "thesis": 9,
+  "short-paper": 10,
+  "webpage": 11,
+  "patent": 12,
+  "panel": 13,
+  "tutorial": 14,
+  "keynote": 15,
+  "Article": 16
+}
