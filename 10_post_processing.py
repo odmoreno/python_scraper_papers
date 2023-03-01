@@ -7,6 +7,8 @@ import time
 import json
 
 
+import pandas as pd
+
 class PostP:
 
     def __init__(self):
@@ -523,6 +525,13 @@ class PostP:
         print(res2)
         save_generic('data/vinci_refs/nodes.json', res2)
 
+    def load_links(self):
+        #data = load_csv_generic('data/vinci_refs/cocitations_papers.csv')
+        df = pd.read_csv('data/vinci_refs/cocitations_papers.csv')
+        data = df.to_json(r'C:\Users\Ron\Desktop\export_dataframe.json')
+        print(data)
+        pass
+
 
 if __name__ == '__main__':
     client = PostP()
@@ -533,4 +542,5 @@ if __name__ == '__main__':
     #client.check_info()
     #client.generate_coauthors_data()
     #client.mergue_papers()
-    client.handle_docs()
+    #client.handle_docs()
+    client.load_links()

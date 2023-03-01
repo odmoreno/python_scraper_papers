@@ -233,6 +233,11 @@ def csv_generics(path, list, cols):
                 #print(data)
                 writer.writerow(data)
 
+def load_csv_generic(path):
+    with open(path, 'r') as file:
+        csvreader = csv.reader(file)
+        return csvreader
+
 # result CSV file's header
 header = [
     "URL",
