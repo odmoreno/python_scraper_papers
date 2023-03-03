@@ -27,10 +27,10 @@ class Info:
         self.institution_path = "data/jsons/insti.json"
         self.intitution_set2 = {}
 
-        self.conn = self.connect_to_first_db()
-        self.cursor = self.conn.cursor()
-        self.conn2 = self.connect_to_second_db()
-        self.cursor2 = self.conn2.cursor()
+        #self.conn = self.connect_to_first_db()
+        #self.cursor = self.conn.cursor()
+        #self.conn2 = self.connect_to_second_db()
+        #self.cursor2 = self.conn2.cursor()
         self.id= 0
 
         self.reference_list = {}
@@ -188,7 +188,7 @@ class Info:
                         if paper['doi'] not in self.papers_dict:
                             self.paper_scraper(paper)
                         else:
-                            print('ya existe ...', paper['title'])
+                            #print('ya existe ...', paper['title'])
                             if len(paper['authors']) == 0:
                                 self.paper_scraper(paper)
 
@@ -216,11 +216,11 @@ class Info:
             print('Current autor', autor['name'])
             if autor['url'] != "":
                 self.driver_for_acm.get(url)
-                time.sleep(5)
+                #time.sleep(5)
                 buttons = self.driver_for_acm.find_elements_by_class_name("removed-items-count")
                 for but in buttons:
                     self.driver_for_acm.execute_script("arguments[0].click();", but)
-                time.sleep(5)
+                #time.sleep(5)
 
                 # parse source code
                 soup = BeautifulSoup(self.driver_for_acm.page_source, "html.parser")
@@ -254,8 +254,12 @@ class Info:
                 self.save_autores()
                 self.save_institutions()
                 print('Listo', autor['name'])
+            else:
+                self.authors_set[autor['id']] = autor
+                pass
         else:
-            print("ya existe", autor['name'])
+            pass
+            #print("ya existe", autor['name'])
         """
         for metric in metrics_div:
             metric_info = metric

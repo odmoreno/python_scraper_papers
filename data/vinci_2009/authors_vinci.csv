@@ -1,0 +1,962 @@
+name,institutions
+Andrew Vande Moere,['The University of Sydney']
+Stephanie Patel,['The University of Sydney']
+Adel Ahmed,['King Fahad University of Petroleum and Minerals']
+Xiaoyan Fu,['National ICT Australia']
+Seok-Hee Hong,['The University of Sydney']
+Quan Hoang Nguyen,['University of New South Wales']
+Kai Xu,['ICT Center']
+Pushpa Kumar,['University of Texas at Dallas']
+Kang Zhang,['Hong Kong University of Science and Technology']
+Maolin Huang,"['University of Technology Sydney', 'Tianjin University', 'Tianjin University of Technology', '+ 1']"
+Steffen Bogen,['University of Konstanz']
+Ulrik Brandes,['University of Konstanz']
+Hendrik Ziezold,['University of Konstanz']
+Lei Ren,"['Beihang University', 'Ministry of Education China']"
+Lin Zhang,['Beihang University']
+Dongxing Teng,"['Institute of Software Chinese Academy of Sciences', 'Chinese Academy of Sciences']"
+Guozhong Dai,"['Institute of Software Chinese Academy of Sciences', 'Chinese Academy of Sciences', 'Nokia Corporation']"
+Qian Li,['']
+Jiawan Zhang,['Tianjin University']
+Yuan Wen,['Tianjin University']
+Quang Vinh Nguyen,"['The MARCS Institute for Brain, Behaviour and Development', 'Western Sydney University', 'University of Technology Sydney']"
+Liang Fu Lu,['Tianjin University']
+Mao Lin Huang,['The University of Sydney']
+Jiadong Yang,['Tianjin University']
+Jizhou Sun,['Tianjin University']
+Ping Xiao,['Universitat Pompeu Fabra']
+Ernesto Arroyo,['Universitat Pompeu Fabra']
+Josep Blat,['Universitat Pompeu Fabra']
+Yang Zou,"['Hohai University', 'Nanjing University']"
+Jian Lü,['Nanjing University']
+Xiaoqin Zeng,"['Hohai University', 'The University of Texas at Dallas', 'Hong Kong Polytechnic University']"
+Xiaoxing Ma,['Nanjing University']
+Qiliang Yang,['Nanjing University']
+Yan-Peng Lim,['Multimedia University']
+Peter Charles Woods,['Multimedia University']
+Yain-Whar Si,['University of Macau']
+Kan-Ion Leong,['']
+Robert P. Biuk-Aghai,['University of Macau']
+Simon Fong,['University of Macau']
+Cui Xie,['Ocean University of China']
+Lihua Xing,['Ocean University of China']
+Cunna Liu,['Ocean University of China']
+Xiaocong Li,['Ocean University of China']
+Guoqiang Yang,['Tianjin University']
+Ming Che,['Tianjin University']
+Inessa Seifert,['German Research Center for Artificial Intelligence']
+Michael Kruppa,['German Research Center for Artificial Intelligence']
+Feng Tian,"['Institute of Software Chinese Academy of Sciences', 'Chinese Academy of Sciences']"
+Sandro Varano,['Ecole Nationale Supérieure d’Architecture de Strasbourg']
+Jean-Claude Bignon,['Ecole Nationale Supérieure d’Architecture de Strasbourg']
+J Joshua Thomas,"['University Sains Malaysia', 'UOW Malaysia KDU College']"
+Ahamad Tajudin Abdul Khader,['University Sains Malaysia']
+Bahari Belaton,['']
+Brian N. Hilton,['Claremont Graduate University']
+Thomas A. Horan,['Claremont Graduate University']
+Benjamin L. Schooley,['Claremont Graduate University']
+Chengying Mao,['Jiangxi University of Finance and Economics']
+Li Zheng,['Tsinghua University']
+Chao Zhang,['Tsinghua University']
+Zhanwei Wu,['Tsinghua University']
+Yixin Yan,['Tsinghua University']
+Donggang Yu,['The University of Newcastle']
+Jesse Sheng Jin,['The University of Newcastle']
+Suhuai Luo,['The University of Newcastle']
+Wei Lai,['Swinburne University of Technology']
+Qingming Huang,['Chinese Academy of Sciences']
+Zhuo Li,['Zhejiang University']
+Jian Chen,['Zhejiang University']
+Xiaoning Jiang,['Zhejiang University']
+Xian-Ting Zeng,['Zhejiang University']
+Xuezeng Pan,['']
+Mingjing Ai,['Beihang University']
+Lili Zhao,['Beihang University']
+Yongmei Zhu,['Beihang University']
+Qinping Zhao,['Beihang University']
+Huaiqing He,['Civil Aviation University of China']
+Tianbao Wang,['Civil Aviation University of China']
+Qing Xu,['Tianjin University']
+Yaoyu Xing,['Civil Aviation University of China']
+René Cutura,"['University of Stuttgart', 'Vienna University of Technology', 'University of Vienna']"
+Cristina Morariu,['University of Stuttgart']
+Zhanglin Cheng,['Shenzhen Institute of Advanced Technology']
+Yunhai Wang,"['Shandong University', 'Shenzhen Institute of Advanced Technology']"
+Daniel Weiskopf,"['University of Stuttgart', 'Simon Fraser University', 'IEEE', 'University of Tübingen']"
+Michael Sedlmair,"['University of Stuttgart', 'Jacobs University Bremen', 'University of Vienna', 'The University of British Columbia', '+ 2']"
+Takayuki Itoh,"['Ochanomizu University', 'IBM Japan, Ltd.']"
+Asuka Nakabayashi,['Ochanomizu University']
+Mariko Hagita,"['Ochanomizu University', 'Keio University']"
+Maath Musleh,"['Linnaeus University, Kalmar']"
+Angelos Chatzimparmpas,"['Linnaeus University, Växjö', 'University of Western Macedonia']"
+Ilir Jusufi,"['Linnaeus University, Kalmar', 'Linnaeus University, Växjö', 'University of California, Davis']"
+Alexander Achberger,"['Mercedes Benz Cars', 'University of Stuttgart']"
+Frank Heyen,['University of Stuttgart']
+Kresimir Vidakovic,['Stuttgart Media University']
+Martin Büßemeyer,['Hasso Plattner Institute for Digital Engineering gGmbH']
+Daniel Limberger,"['Hasso Plattner Institute for Digital Engineering gGmbH', 'University of Potsdam']"
+Willy Scheibel,"['University of Potsdam', 'Hasso Plattner Institute for Digital Engineering gGmbH']"
+Jürgen Döllner,"['Hasso Plattner Institute for Digital Engineering gGmbH', 'University of Potsdam', 'University of Münster']"
+Jan van Dieken,['Hasso Plattner Institute for Digital Engineering gGmbH']
+Ayush Kumar,"['Harvard Medical School', 'Stony Brook University']"
+Bharat Goel,['Stony Brook University']
+Keshav Rajupet Premkumar,['Stony Brook University']
+Michael Burch,"['University of Applied Sciences Western Switzerland', 'Eindhoven University of Technology', '+ 4']"
+Klaus D Mueller,"['Stony Brook University', 'IEEE', 'The Ohio State University']"
+Lauren Edlin,['Queen Mary University of London']
+Joshua D Reiss,"['Queen Mary University of London', 'University of London']"
+Cameron Edmond,['UNSW Sydney']
+Robert Lawther,['UNSW Sydney']
+Maxime Cordeil,"['Monash University', 'The University of Queensland', 'Federal University of Toulouse Midi-Pyrénées', '+ 1']"
+Tomasz P Bednarz,"['Epicentre', 'UNSW Sydney', 'CSIRO Data61', 'ARC Centre of Excellence for Mathematical & Statistical Frontiers', '+ 2']"
+Miguel Alfonso Feijóo-García,['Universidad El Bosque']
+José Tiberio Hernández-Peñalosa,"['University of the Andes, Colombia']"
+Christina Stoiber,['St. Polten University of Applied Sciences']
+Conny Walchshofer,['Johannes Kepler University Linz']
+Florian Grassinger,['St. Polten University of Applied Sciences']
+Holger Stitz,"['Johannes Kepler University Linz', 'University of Applied Sciences Upper Austria, School of Informatics, Communications and Media']"
+Marc Streit,"['Johannes Kepler University Linz', 'Harvard Medical School', 'Graz University of Technology']"
+Wolfgang Aigner,"['St. Polten University of Applied Sciences', 'Vienna University of Technology']"
+Akshay Murari,['The University of North Carolina at Charlotte']
+Elias Mahfoud,['The University of North Carolina at Charlotte']
+Weichao Wang,['The University of North Carolina at Charlotte']
+Aidong Lu,"['The University of North Carolina at Charlotte', 'The University of North Carolina System', 'Purdue University', 'IEEE']"
+Hinako Sassa,['Ochanomizu University']
+Mitsuo Yoshida,['Toyohashi University of Technology']
+Oliver Moseler,['University of Trier']
+Lucas Kreber,['University of Trier']
+Stephan Diehl,"['University of Trier', 'Catholic University in Eichstätt', 'Saarland University']"
+Chen He,['University of Helsinki']
+Luana Micallef,"['University of Copenhagen', 'Aalto University', 'INRIA Institut National de Recherche en Informatique et en Automatique', 'University of Kent']"
+Barış Serim,"['University of Helsinki', 'Helsinki Institute for Information Technology', 'Koc University']"
+Tung Vuong,['University of Helsinki']
+Tuukka Ruotsalo,"['University of Helsinki', 'University of Copenhagen', 'Aalto University']"
+Giulio Iacucci,"['University of Helsinki', 'Aalto University', 'Helsinki Institute for Information Technology', 'University of Oulu']"
+Günter Wallner,"['Johannes Kepler University Linz', 'University of Applied Sciences Western Switzerland', '+ 3']"
+Huub M M van de Wetering,"['Eindhoven University of Technology', ""Xi'an Jiaotong University""]"
+Freek Rooks,['Eindhoven University of Technology']
+Olof Morra,['Eindhoven University of Technology']
+Gonzalo Gabriel Méndez,"['Litoral Polytechnic School', 'University of Calgary', 'University of St Andrews']"
+Oscar Moreno,['Litoral Polytechnic School']
+Daniel Atzberger,"['University of Potsdam', 'Hasso Plattner Institute for Digital Engineering gGmbH']"
+Patricio Mendoza,['Litoral Polytechnic School']
+Sebastian Eckl,['Reutlingen University']
+Nick Kerschagel,['Reutlingen University']
+Uwe Kloos,"['Reutlingen University', 'University of Applied Sciences of the Grisons', 'University of Stuttgart']"
+Maitreya Save,['NC State University']
+Benjamin Allen Watson,"['NC State University', 'IEEE', 'Northwestern University', 'University of Alberta', 'Georgia Institute of Technology']"
+Dong Li,['East China Normal University']
+Hong Yin,['East China Normal University']
+Changbo Wang,"['East China Normal University', 'Shanghai University', 'State Key Lab of CAD&CG, Zhejiang University']"
+Sicheng Song,['East China Normal University']
+Kirlin Li,['East China Normal University']
+Chenhui Li,"['East China Normal University', 'Hong Kong Polytechnic University']"
+Qiaorui Chen,"['School of Aeronautics and Astronautics, Zhejiang University', 'Zhejiang University']"
+Shuai Zhang,"['School of Aeronautics and Astronautics, Zhejiang University', 'Zhejiang University']"
+Yao Zheng,"['Zhejiang University', 'School of Aeronautics and Astronautics, Zhejiang University', 'School of Computer and Computing Science']"
+Marco Schmid,[]
+Rahel Haymoz,['University of Applied Sciences Western Switzerland']
+David Schiller,[]
+Carolin Fiedler,['University of Potsdam']
+Matthias Trapp,"['Hasso Plattner Institute for Digital Engineering gGmbH', 'University of Potsdam']"
+Nico Klaassen,['Eindhoven University of Technology']
+Haoran Dai,"['State Key Lab of CAD&CG, Zhejiang University']"
+Yubo Tao,"['State Key Lab of CAD&CG, Zhejiang University', 'Zhejiang University']"
+Hai Lin,"['State Key Lab of CAD&CG, Zhejiang University', 'Zhejiang University', 'Fudan University']"
+Hao Tang,['Hangzhou Dianzi University']
+Sixiang Fei,['Hangzhou Dianzi University']
+Xiaoying Shi,['Hangzhou Dianzi University']
+Hanbyul Yeon,['Sejong University']
+Mingyu Pi,['Sejong University']
+Hyesook Son,['Sejong University']
+Yun Jang,"['Sejong University', 'Swiss Federal Institute of Technology, Zurich', 'Purdue University']"
+Rohan Goel,"['Birla Institute of Technology and Science, Pilani']"
+Samiha Fadloun,['University of Montpellier']
+Sarah Valentin,['University of Montpellier']
+Arnaud Sallaberry,"['University of Montpellier', 'Universite Paul-Valery Montpellier III', 'University of California, Davis', '+ 3']"
+Mathieu Roche,"['Territoires, Environnement, Télédétection et Information Spatiale', 'University of Montpellier', 'CIRAD', '+ 4']"
+Pascal Poncelet,"['University of Montpellier', '+ 4']"
+Humphrey O Obie,"['Monash University', 'Swinburne University of Technology']"
+Caslon Chua,['Swinburne University of Technology']
+Iman Avazpour,"['Deakin University', 'Swinburne University of Technology']"
+Mohamed Almorsy Abdelrazek,['Deakin University']
+John C. Grundy,"['Monash University', 'Deakin University', 'Swinburne University of Technology', 'The University of Auckland', '+ 1']"
+Yaru Du,[]
+Liang Zhou,"['The University of Utah', 'University of Stuttgart']"
+Hansjörg Schmauder,['University of Stuttgart']
+Xiaoyu Wang,['The University of Texas at Dallas']
+Yufeng Liu,['Hohai University']
+Jie Li,"['Tianjin University', 'Nanjing University']"
+K. Zhang,"['The University of Texas at Dallas', 'Tianjin University', 'IEEE']"
+Daniil Rodin,['Technion - Israel Institute of Technology']
+Gershon Elber,"['Technion - Israel Institute of Technology', 'IEEE', 'The University of Utah']"
+Mehmood Ghaffar,['Bielefeld University']
+Niklas Biere,['Bielefeld University']
+Daniel Jäger,['Bielefeld University']
+Karsten Klein,"['Monash University', 'University of Konstanz', 'The University of Sydney', 'Technical University Dortmund', '+ 1']"
+Falk Schreiber,"['University of Konstanz', 'Monash University', 'Martin Luther University of Halle-Wittenberg', '+ 2']"
+Olaf Kruse,['Bielefeld University']
+Björn Sommer,"['Royal College of Art', 'University of Konstanz', 'Monash University', 'Bielefeld University']"
+Luca Marzialetti,['Roma Tre University']
+Massimo Candela,['University of Pisa']
+Giuseppe Di Battista,"['Roma Tre University', 'Basilicata University Potenza', 'Sapienza University of Rome']"
+Gerald Baulig,[]
+Tobias Boley,[]
+Arjana Mehmeti,[]
+Dina Kurbanismailova,[]
+Marc Roswag,[]
+Oliver Streicher,[]
+Steffen Wittig,[]
+Nico Reski,"['Linnaeus University, Växjö']"
+Aris Alissandrakis,"['Linnaeus University, Växjö', 'Linnaeus University, Kalmar', 'University of Hertfordshire']"
+Kostiantyn Kucher,"['Linnaeus University, Växjö', 'Linnaeus University, Kalmar']"
+Rafael Messias Martins,"['Linnaeus University, Växjö', 'Linnaeus University, Kalmar']"
+Andreas Kerren,"['Linnaeus University, Växjö', 'Linnaeus University, Kalmar', 'University of Kaiserslautern', 'Vienna University of Technology', '+ 1']"
+Maria Skeppstedt,"['University of Potsdam', 'Stockholm University']"
+Alisa Lincke,"['Linnaeus University, Växjö']"
+Jenny Lundberg,['Blekinge Institute of Technology']
+Maria Thunander,['Lund University']
+Marcelo Milrad,"['Linnaeus University, Växjö', 'Linnaeus University, Kalmar']"
+Jonas Lundberg,"['Linköping University', 'Linnaeus University, Växjö', 'Linnaeus University, Kalmar']"
+Daniel Toll,"['Linnaeus University, Kalmar']"
+Anna Wingkvist,"['Linnaeus University, Växjö', 'Linnaeus University, Kalmar']"
+Tomohiro Kawanabe,['Riken']
+Jorji Nonaka,"['Riken', 'Kyoto University']"
+Kenji Ono,"['Kyushu University', 'Riken', 'Toshiba Corporation']"
+Tu Xing,['Shenzhen University']
+Anna Sara Fagerholm,['Mid Sweden University']
+Mattias Andersson,['Mid Sweden University']
+Björn Zimmer,"['University of Applied Sciences Upper Austria, School of Informatics, Communications and Media', 'Linnaeus University, Växjö', 'Hannover University of Applied Sciences']"
+Jan Zenisek,"['University of Applied Sciences Upper Austria, Wels', 'University of Applied Sciences Upper Austria, School of Informatics, Communications and Media', 'University of Applied Sciences Upper Austria, School of Management']"
+Hans-Christian Jetter,"['University of Lübeck', '+ 4']"
+Hyunwoo Han,['Ajou University']
+Taerin Yoon,['Ajou University']
+Hyeonsik Gong,['Ajou University']
+Kyungwon Lee,['Ajou University']
+Zana Vosough,"['SAP AG', 'Technische Universität Dresden']"
+Dietrich Kammer,"['Dresden University of Applied Sciences', 'Technische Universität Dresden']"
+Mandy Keck,"['University of Applied Sciences Upper Austria, School of Informatics, Communications and Media', 'Technische Universität Dresden']"
+Rainer Groh,['Technische Universität Dresden']
+Fangfang Zhou,['Central South University']
+Minghui Chen,['Central South University']
+Zeyu Wang,['Central South University']
+Feng Luo,['Central South University']
+Xiaobo Luo,['Central South University']
+Wei Huang,['Central South University']
+Yi Chen,['Beijing Technology and Business University']
+Ying Zhao,['Central South University']
+Huiyi Liu,['Hohai University']
+Yuhua Liu,"['East China Normal University', 'Shanghai University']"
+Hanfei Lin,['East China Normal University']
+Yitao Liang,['East China Normal University']
+Sangbong Yoo,['Sejong University']
+Hongryeol Ryu,['Yonsei University']
+Taekyoung ‘Taekyoung’ Kwon,"['Sejong University', 'Seoul National University', 'Yonsei University', 'The Ohio State University']"
+Nils Rodrigues,['University of Stuttgart']
+Rudolf Netzel,['University of Stuttgart']
+Kazi Riaz Ullah,['University of Stuttgart']
+Alexander Schultz,['Fraunhofer Institute for Solar Energy Systems ISE']
+Bruno Burger,['Fraunhofer Institute for Solar Energy Systems ISE']
+Daniel Weiskopf,"['University of Stuttgart', 'University of Konstanz', 'Simon Fraser University']"
+Kumaripaba Athukorala,"['Aalto University', 'University of Helsinki', 'Helsinki Institute for Information Technology', 'University of Oulu']"
+Chao An,"['University of Helsinki', 'Aalto University']"
+Aki Reijonen,"['University of Helsinki', 'Helsinki Institute for Information Technology']"
+Jaakko Peltonen,"['University of Tampere', 'Aalto University', 'Helsinki Institute for Information Technology']"
+Christian Bors,['Vienna University of Technology']
+Markus Bögl,['Vienna University of Technology']
+Theresia Gschwandtner,['Vienna University of Technology']
+Silvia Miksch,"['Vienna University of Technology', 'Danube University Krems']"
+Kazuo Misue,"['University of Tsukuba', 'Fujitsu Ltd.']"
+Kosuke Otake,['University of Tsukuba']
+Takahiro Saito,['Fujitsu Ltd.']
+Jieliang Luo,[]
+Donghao Ren,"['University of California, Santa Barbara']"
+George Legrady,"['University of California, Santa Barbara']"
+Congmin Li,['Tianjin University']
+Boyi Li,['University of Toronto']
+Amontep Wijitcharoen,['King Mongkuts University of Technology Thonburi']
+Jonathan Hoyin Chan,['King Mongkuts University of Technology Thonburi']
+Simon James Fong,"['University of Macau', 'Chinese Academy of Sciences', 'Nanyang Technological University']"
+Scarlet Tin,['University of Macau']
+Yihang Bo,[]
+Yi Yang,['Chinese Academy of Sciences']
+Xianglei Zhu,['China Automotive Technology and Research Center Co. Ltd']
+Shuai Zhao,['China Automotive Technology and Research Center Co. Ltd']
+Quan Wen,['China Automotive Technology and Research Center Co. Ltd']
+Wenjun Guo,['Ajou University']
+Seungwook Kim,['Seoul National University']
+Sangjoon Son,['Ajou University']
+Changhyung Hong,['Ajou University']
+Hyunjung (Helen) Shin,"['Ajou University', 'University of Tübingen', 'Friedrich Miescher Laboratory', 'Seoul National University', 'Max Planck Institute for Biological Cybernetics']"
+Thanyathorn Thanapattheerakul,['King Mongkuts University of Technology Thonburi']
+Jaturong Kongmanee,"['Michigan State University', 'Texas Tech University', 'King Mongkuts University of Technology Thonburi']"
+Saila Shama,['University of Toronto']
+Philip Lu,['University of Toronto']
+Narumol Doungpan,['King Mongkuts University of Technology Thonburi']
+Asawin Meechai,['King Mongkuts University of Technology Thonburi']
+Jiafan Li,['East China Normal University']
+Zhijie Qiao,['East China Normal University']
+Junjie Wang,['East China Normal University']
+Wutthipong Kongburan,['King Mongkuts University of Technology Thonburi']
+Praisan Padungweang,['King Mongkuts University of Technology Thonburi']
+Worarat Krathu,"['King Mongkuts University of Technology Thonburi', 'Vienna University of Technology']"
+Luca Chech,['University of Padova']
+Marta Vasilieva,['University of Helsinki']
+Lorenzo Papa,['University of Padova']
+Luciano Gamberini,['University of Padova']
+Jiajing Zhang,['Zhejiang University']
+Ren Peng,"['Zhejiang University', 'School of Computer and Computing Science']"
+Jinhui Yu,"['State Key Lab of CAD&CG, Zhejiang University', 'Zhejiang University']"
+Denise Junger,['University of Stuttgart']
+Isabel Hagen,['University of Stuttgart']
+Robin Horst,['University of Stuttgart']
+Lukas Brand,"['Landshut University of Applied Sciences', 'University of Erlangen-Nuremberg', 'University of Stuttgart']"
+Armin Müller,['University of Stuttgart']
+Benjamin Weinert,"['University of Oldenburg', 'University of Stuttgart']"
+Patrick Cheong-Iao Pang,"['School of Computing and Information Systems', 'University of Melbourne']"
+Bin Pang,['University of Macau']
+Dominique Tranquille,['University of Brighton']
+Gem Stapleton,"['University of Brighton', 'University of Kent']"
+Jim Burton,['University of Brighton']
+Peter J Rodgers,['University of Kent']
+Thomas Gründer,['Technische Universität Dresden']
+Thomas Thom,[]
+Martin Kleinsteuber,"['Technical University of Munich', 'Mercateo Deutschland AG', 'Ludwig-Maximilians-University Munich', 'TUM Department of Electrical and Computer Engineering', 'The Australian National University', 'CSIRO Data61', 'Julius-Maximilian University of Würzburg']"
+Alexander Maasch,[]
+Yuri Sato,['University of Brighton']
+Mateja Jamnik,"['University of Cambridge', 'Department of Computer Science and Technology', 'The University of Edinburgh']"
+Zohreh Shams,"['University of Bath', 'University of Cambridge']"
+Andrew Blake,['University of Brighton']
+Francesco Paduano,['University of Illinois at Chicago']
+Ronak Etemadpour,"['City University of New York', 'Oklahoma State University - Stillwater', 'Oklahoma State University System', 'Jacobs University Bremen']"
+Angus Graeme Forbes,"['University of California, Santa Cruz', 'Purdue University', 'University of Illinois at Chicago', 'The University of Arizona', '+ 1']"
+Yun Wang,['Hong Kong University of Science and Technology']
+Dongyu Liu,"['Massachusetts Institute of Technology', 'Hong Kong University of Science and Technology']"
+Huamin Qu,"['Hong Kong University of Science and Technology', 'IEEE']"
+Qiong Luo,"['Hong Kong University of Science and Technology', 'Tsinghua University']"
+Xiaojuan Ma,"['Hong Kong University of Science and Technology', 'University of Michigan, Ann Arbor', '+ 2']"
+Yang Shi,"['Tongji University', 'Central South University']"
+Yaoxue Zhang,"['Tsinghua University', 'Central South University']"
+Guojun Wang,"['Guangzhou University', 'Central South University', 'Temple University', 'The University of Aizu', 'Hong Kong Polytechnic University']"
+Ronghua Shi,['Central South University']
+Xing Liang,['Arizona State University']
+Rainer C Splechtna,"['VRVis Research Center', 'University of Maryland, College Park (UMD)']"
+Alexandra Diehl,"['University of Konstanz', 'University of Buenos Aires', 'University of Maryland, College Park (UMD)']"
+Mai H Elshehaly,"['Virginia Polytechnic Institute and State University', 'University of Maryland, College Park (UMD)', 'University of Maryland, Baltimore (UMB)']"
+Claudio A Delrieux,"['South National University', 'University of Maryland, College Park (UMD)']"
+Denis Gracanin,"['Virginia Polytechnic Institute and State University', 'University of Maryland, College Park (UMD)', '+ 4']"
+Krešimir Matković,"['VRVis Research Center', 'University of Maryland, College Park (UMD)', 'IEEE']"
+Kouhei Yasuda,['The University of Tokyo']
+Shigeo Takahashi,"['The University of Aizu', 'The University of Tokyo', 'IEEE']"
+Hsiangyun Wu,"['Vienna University of Technology', 'Keio University', 'The University of Tokyo']"
+Simeon J Simoff,"['Western Sydney University', 'The MARCS Institute for Brain, Behaviour and Development', '+ 1']"
+Yu Qian,"['J. Craig Venter Institute', 'The University of Texas at Dallas']"
+Martin Röhlig,['University of Rostock']
+H. Schumann,['University of Rostock']
+Ruth West,"['University of North Texas', 'University of California, Los Angeles', 'University of California, San Diego']"
+Meghan Kajihara,['University of North Texas']
+Max Parola,['University of North Texas']
+Kathryn Hays,['University of North Texas']
+Luke Hillard,['University of North Texas']
+Anne Carlew,['University of North Texas']
+Jeremey Deutsch,['University of North Texas']
+Brandon Lane,['University of North Texas']
+Michelle Holloway,['Washington University in St. Louis']
+Brendan John,"['University of Florida', 'Rochester Institute of Technology']"
+Anahita Sanandaji,['Oregon State University']
+Cindy Marie Grimm,"['Oregon State University', 'Washington University in St. Louis', 'Texas A&M University', 'University of Central Florida', 'IEEE', '+ 2']"
+Zheng Huang,['North Dakota State University']
+Jed Limke,['North Dakota State University']
+Jun Kong,"['North Dakota State University', 'The University of Texas at Dallas']"
+Muye Yang,['University of Macau']
+Yina Li,['Nankai University']
+Dongjin Li,['Nankai University']
+Casey Haber,['University of San Francisco']
+Lyndonong Yiu,['University of San Francisco']
+Alark Joshi,"['University of San Francisco', 'Yale University', 'University of Maryland, Baltimore County (UMBC)', 'IEEE']"
+Sophie Engle,"['University of San Francisco', 'University of California, Davis']"
+Hui Lei,['Changsha University of Science and Technology']
+Cong Xie,['Stony Brook University']
+Pingping Shang,"['State Key Lab of CAD&CG, Zhejiang University']"
+Fan Zhang,"['Massachusetts Institute of Technology', 'Zhejiang University of Technology']"
+Weri Chen,"['State Key Lab of CAD&CG, Zhejiang University', 'Zhejiang University']"
+Qunsheng Peng,"['State Key Lab of CAD&CG, Zhejiang University', 'Zhejiang University']"
+Tobias Ruppert,['Fraunhofer Institute for Computer Graphics Research IGD']
+Andreas Bannach,['Fraunhofer Institute for Computer Graphics Research IGD']
+Jürgen Bernard,"['University of Zurich', 'The University of British Columbia', 'Fraunhofer Institute for Computer Graphics Research IGD', '+ 1']"
+Hendrik Lücke-Tieke,"['Fraunhofer Institute for Computer Graphics Research IGD', 'Athena Research and Innovation Center in Information, Communication and Knowledge Technologies']"
+Alex Ulmer,['Fraunhofer Institute for Computer Graphics Research IGD']
+Jörn Kohlhammer,"['Fraunhofer Institute for Computer Graphics Research IGD', 'Technical University of Darmstadt']"
+Jiangen He,"['Drexel University', 'University of Maryland, College Park (UMD)']"
+Chaomei Chen,"['Drexel University', 'Dalian University of Technology', 'Brunel University London', 'Glasgow Caledonian University', '+ 1']"
+Wenqian Ji,['Hohai University']
+Yan Tang,['Hohai University']
+Pengju Ma,['Hohai University']
+Shijie Tang,['Hohai University']
+Zhipeng Fang,['Hohai University']
+Xuan Li,"['Baidu, Inc.']"
+Tianjian Chen,"['Baidu, Inc.']"
+Lina Zhang,"['State Key Lab of CAD&CG, Zhejiang University']"
+Kwan-Liu Ma,"['University of California, Davis', 'IEEE', 'NASA Langley Research Center', 'The University of Utah']"
+Jinhui Yu,"['State Key Lab of CAD&CG, Zhejiang University']"
+Lu Xiong,['Tianjin University']
+Kai Sun,['Shanghai University']
+Zongchao Guo,['Shanghai University']
+Iliesa S Delai,['Brigham Young University Hawaii']
+Meilan Jin,['Brigham Young University']
+Geoffrey M Draper,"['Brigham Young University Hawaii', 'The University of Utah']"
+Seimei Matsusaki,['University of San Francisco']
+Xi Han,['University of San Francisco']
+Xin Kang,"['Ningbo University of Technology', 'Peking University', 'National Taipei University of Technology', 'Beijing University of Technology']"
+Yinan Li,['Southeast University']
+Jian Wang,['Southeast University']
+Daniel Wilches,['University of Wyoming']
+Amy Banić,['University of Wyoming']
+Sarah Hong,[]
+Yuyi Liu,[]
+Zhao Xiao,"['Tianjin University', 'East China Normal University']"
+Jie Wu,['Tongji University']
+Guangxi Chen,['Tongji University']
+Wang Qian,['Shanghai Jiao Tong University']
+Xiao Bing,['Shanghai Jiao Tong University']
+Vetria Laverne Byrd,"['Purdue University', 'The University of Alabama at Birmingham']"
+Joseph A Cottam,"['Pacific Northwest National Laboratory', 'Indiana University Bloomington']"
+Koji Kainou,['University of Tsukuba']
+Hotaka Takizawa,"['University of Tsukuba', 'Toyohashi University of Technology']"
+Mayumi Aoyagi,['Aichi University of Education']
+Nobuo Ezaki,"['National Institute of Technology, Toba College']"
+Shinji Mizuno,"['Aichi Institute of Technology', 'Toyohashi University of Technology']"
+Christoph Müller,['University of Stuttgart']
+Guido Reina,['University of Stuttgart']
+Thomas Ertl,"['University of Stuttgart', '+ 3']"
+Michael Krone,"['University of Tübingen', 'University of Stuttgart']"
+Alexandros Panagiotidis,['University of Stuttgart']
+Tilo Pfannkuch,['University of Stuttgart']
+Andrew Kennedy,['The University of Sydney']
+An Nguyen,['The University of Sydney']
+Tingyu Chen,['National Chiao Tung University Taiwan']
+Sai Keung Wong,['National Chiao Tung University Taiwan']
+Chica Matsueda,['Ochanomizu University']
+John B McGhee,"['UNSW Sydney', 'University of Dundee']"
+Angelica G Thompson-Butel,"[""St. Vincent's Hospital Sydney""]"
+Steven Faux,"[""St. Vincent's Hospital Sydney"", 'UNSW Sydney']"
+Pascal Bou-Haidar,"[""St Vincent's Private Hospital""]"
+John Bailey,['UNSW Sydney']
+Ajune Wanis Ismail,['Universiti Teknologi Malaysia']
+Mark Nathan Billinghurst,"['University of South Australia', 'The University of Auckland', 'University of Michigan, Ann Arbor', '+ 7']"
+Mohd Shahrizal Bin Sunar,"['Universiti Teknologi Malaysia', 'Sunway University']"
+Marco Angelini,['Sapienza University of Rome']
+Giuseppe Santucci,"['Sapienza University of Rome', 'University of Maryland, College Park (UMD)']"
+Zhaopeng Meng,['Tianjin University']
+Eriko Koike,['Ochanomizu University']
+Aditeya Pandey,['Tata Consultancy Services India']
+Kunal Ranjan,['Tata Consultancy Services India']
+Geetika Sharma,"['Tata Consultancy Services India', 'Indian Institute of Technology Delhi']"
+Lipika Dey,"['Tata Consultancy Services India', 'Indian Institute of Technology Delhi']"
+Yan Huang,"['Chinese Academy of Sciences', 'Institute of Automation Chinese Academy of Sciences', '+ 1']"
+Cui-Xia Ma,"['Institute of Software Chinese Academy of Sciences', 'Chinese Academy of Sciences']"
+Hong'an Wang,"['Institute of Software Chinese Academy of Sciences', 'Alibaba Group Holding Limited', '+ 4']"
+Katrin Scharnowski,['University of Stuttgart']
+Yukari Shirota,"['Gakushuin University', 'Ricoh Co., Ltd.', 'The University of Tokyo']"
+Yutaka Takahashi,['Senshu University']
+Nobuhide Tanaka,['Gakushuin University']
+Michiya Morita,['Gakushuin University']
+Makiko Harada,['Tokyo Metropolitan University']
+Hidenori Watanave,"['The University of Tokyo', 'Tokyo Metropolitan University']"
+Nozomi Tamaki,['Shimane University']
+Masahito Hirakawa,"['Shimane University', 'Hiroshima University']"
+Harrison Cook,[]
+Antoine Trouvé,['Kyushu University']
+Kazuaki J Murakami,['Kyushu University']
+Sayaka Yagi,['Ochanomizu University']
+Masahiro Takatsuka,['The University of Sydney']
+Hyoji Ha,['Ajou University']
+Sungyun Bae,['Ajou University']
+Shinya Tachihara,['Tokyo University of Science']
+Takehiko Yamaguchi,"['Tokyo University of Science', ""Universite d'Angers"", 'University of Arkansas - Fayetteville']"
+Naoki Ishiura,['Tokyo University of Science']
+Mickaël Dinomais,"[""Universite d'Angers""]"
+Paul Richard,"[""Universite d'Angers""]"
+Sylvie Nguyen,[]
+Tetsuji Takada,['The University of Electro-Communications']
+Katsuhiro Amako,['The University of Electro-Communications']
+Jiann Der Lee,"['Chang Gung University', 'National Taiwan University of Science and Technology']"
+Haoche Lee,['Chang Gung University']
+Chunghung Hsieh,['Chang Gung University']
+Chiehtsai Wu,['Chang Gung Memorial Hospital']
+Shintseng Lee,"['Chang Gung Memorial Hospital', 'Chang Gung University']"
+Norio Katayama,['Research Organization of Information and Systems National Institute of Informatics']
+Hiroshi Mo,['Research Organization of Information and Systems National Institute of Informatics']
+Shin'ichi Satoh,"['The University of Tokyo', '+ 5']"
+Mengjia Zhang,['Tianjin University']
+Anatoly Yelizarov,['Lomonosov Moscow State University']
+Dennis Yu Gamayunov,['Lomonosov Moscow State University']
+Brady Cannon,['Micron Technology Incorporated']
+Minoti Hiremath,['Boise State University']
+Cheryl Jorcyk,['Boise State University']
+Tze Haw Huang,['University of Technology Sydney']
+Laiping Zhao,"['Tianjin University', 'Kyushu University']"
+Gao Yi,['The University of Tokyo']
+Kazuyo Mizuno,['The University of Tokyo']
+Hong Zhou,"['Shenzhen University', 'Hong Kong University of Science and Technology']"
+Panpan Xu,"['Bosch Research and Technology Center', 'Hong Kong University of Science and Technology']"
+Zhong Ming,"['Shenzhen University', 'Henan University']"
+Haile Vu,"['Monash University', 'Swinburne University of Technology']"
+Jan Wolter,['University of Paderborn']
+Uwe Kastens,"['University of Paderborn', 'Karlsruhe Institute of Technology, Campus South']"
+Kaimin Chen,['National Chiao Tung University Taiwan']
+Loredana Caruccio,['University of Salerno']
+Vincenzo Deufemia,['University of Salerno']
+Christopher D'Souza,"['Australian Catholic University', 'Western Sydney University']"
+Athula Ginige,"['The University of Sydney', 'Western Sydney University', 'Link Campus University']"
+Giuseppe Polese,"['University of Salerno', 'University of Pittsburgh']"
+Andrew S Brunker,['Western Sydney University']
+Anthony J Maeder,"['Flinders University', 'Western Sydney University', 'CSIRO Ict Centre', 'Queensland University of Technology']"
+Rhys Tague,['Western Sydney University']
+Gregory S Kolt,['Western Sydney University']
+Trevor N Savage,['Western Sydney University']
+Corneel Vandelanotte,[]
+Mitch J Duncan,[]
+Cristina M Caperchione,['The University of British Columbia']
+Richard R Rosenkranz,['Kansas State University']
+Anetta Van Itallie,[]
+W Kerry Mummery,['University of Alberta']
+Isha Singh Jassi,['National Institute of Technology Karnataka']
+S Ruchika,['National Institute of Technology Karnataka']
+Susmitha Pulakhandam,['National Institute of Technology Karnataka']
+Subhayan Mukherjee,['National Institute of Technology Karnataka']
+T S Ashwin,['National Institute of Technology Karnataka']
+Geereddy Ram Mohana Reddy,['National Institute of Technology Karnataka']
+Mengyao Chen,['Tianjin University']
+Cong Chen,['The University of Texas at Dallas']
+Shuqing Liu,"['Tianjin University', 'Tsinghua University']"
+Xiaofei Guo,['Tsinghua University']
+Juanzi Li,['Tsinghua University']
+Ruibing Yang,['Tsinghua University']
+Xiaoli Ma,['Tsinghua University']
+Priyamvada Tiwari,['Indian Institute of Technology Guwahati']
+Keyur Sorathia,['Indian Institute of Technology Guwahati']
+Joris Suppers,['University of Waikato']
+Mark D Apperley,"['University of Waikato', 'Massey University']"
+John Howse,['University of Brighton']
+Weidong Huang,"['University of Technology Sydney', 'Swinburne University of Technology', 'University of Tasmania', '+ 3']"
+Jennifer Seevinck,"['Queensland University of Technology', 'University of Technology Sydney', 'Old Dominion University']"
+Phillip Gough,"['The University of Sydney', 'Queensland University of Technology']"
+Xavier Ho,['The University of Sydney']
+Kate Dunn,['The University of Sydney']
+Ryuya Akase,['Kyushu University']
+Yoshihiro Okada,"['Kyushu University', 'Ryukoku University']"
+Ning Li,['Shandong University']
+Zhifang Jiang,['Shandong University']
+Zixiang Liu,['Shandong University']
+Haoxin Sun,['Shandong University']
+Sakib Jalil,['James Cook University']
+Trina S Myers,['James Cook University']
+Ian M Atkinson,['James Cook University']
+Minwook Kim,['Brigham Young University Hawaii']
+Hiba Ahsan,['National Institute of Technology Karnataka']
+Aarti Prabhu,['National Institute of Technology Karnataka']
+S D Deeksha,['National Institute of Technology Karnataka']
+Shridhar G Domanal,['National Institute of Technology Karnataka']
+Dylan Mathiesen,['James Cook University']
+Andrew Bennett,['University of Tasmania']
+Christopher Lueg,"['Berner Fachhochschule', 'University of Tasmania', 'Charles Darwin University', 'University of Technology Sydney', '+ 1']"
+Jacob L Cybulski,"['Deakin University', 'University of Melbourne']"
+Susan Keller,['Deakin University']
+Dilal Saundage,['Deakin University']
+Kiho Sakamoto,['Ochanomizu University']
+Lakkhana Mallikarachchi,['University of Colombo']
+Anuja T Dharmaratne,"['Monash University Malaysia', 'Hiroshima University']"
+Yi Li,['Nanjing University']
+Zhenfeng Wu,[]
+Ting Sun,[]
+Callum Parker,"['The University of Sydney', 'University of Tasmania']"
+Martin Tomitsch,"['The University of Sydney', 'Vienna University of Technology']"
+Alireza Rezaeian,['Queensland University of Technology']
+Jared Donovan,"['Queensland University of Technology', 'University of Southern Denmark, Sønderborg', '+ 1']"
+P K S Udana,['University of Colombo']
+Fumie Banba,['Ochanomizu University']
+Naruhito Toyoda,['Shiseido Company Ltd.']
+Hitomi Otaka,['Shiseido Company Ltd.']
+K K Nisha,['National Institute of Technology Karnataka']
+H R Pruthvi,['National Institute of Technology Karnataka']
+Shwetha N Hadimani,['National Institute of Technology Karnataka']
+Madhawa Gunasekara,['University of Colombo']
+Damitha Sandaruwan,['University of Colombo']
+Hirantha Weerarathna,['University of Colombo']
+Hiroki Fujita,['University of Toyama']
+Yoshio Nakashima,['University of Toyama']
+Mamoru Takamatsu,['University of Toyama']
+Daniel Filonik,"['Epicentre', 'CSIRO Data61', 'UNSW Sydney', 'Queensland University of Technology', '+ 1']"
+Markus Rittenbruch,"['Queensland University of Technology', 'CSIRO Data61', 'The University of Queensland', 'University of Bonn']"
+Professor Marcus Foth,['Queensland University of Technology']
+Paolo Bottoni,"['Sapienza University of Rome', 'University of Milan']"
+Kamen D Kanev,"['Shizuoka University', 'Ontario Tech University', 'The University of Aizu']"
+Nikolay N Mirenkov,"['The University of Aizu', 'Siberian Branch, Russian Academy of Sciences']"
+Jin Cui,['Beihang University']
+Yi Du,"['Chinese Academy of Sciences', 'University of Chinese Academy of Sciences']"
+Haifeng Li,['Harbin Institute of Technology']
+Dayi Yang,['Harbin Institute of Technology']
+Yangyang Fu,['Harbin Institute of Technology']
+Hujie Huang,['Harbin Institute of Technology']
+Hongyuan Fang,['Harbin Institute of Technology']
+Mofei Song,['Nanjing University']
+Feiqian Zhang,['Nanjing University']
+Zhengxing Sun,['Nanjing University']
+Yan Zhang,"['Beijing Electronic Science and Technology Institute', 'Nanjing University']"
+Quan Li,['Tsinghua University']
+Li Chen,['Tsinghua University']
+Robert Wang,[]
+Jun-Hai Yong,"['Tsinghua University', '+ 3']"
+Detan Si,[]
+Abhishek P Chhetri,['The University of Texas at Dallas']
+Eakta Jain,"['Texas Instruments', 'The University of Texas at Dallas']"
+Chenghai Zhang,['East China Normal University']
+Zaijia Liu,['Tsinghua University']
+Xianjunsam Zheng,"['Tsinghua University', 'Siemens USA']"
+Mingyang Wu,['Tsinghua University']
+Rui Dong,['Tsinghua University']
+Kaiping Peng,['Tsinghua University']
+Jie Liang,"['University of Technology Sydney', 'Peking University', 'Beijing University of Technology']"
+Rossella Aiello,['University of Salerno']
+Giancarlo Nota,['University of Salerno']
+Gennaro Costagliola,"['University of Salerno', 'IEEE']"
+Fabrizio Torre,['University of Salerno']
+Waihou Ao,['University of Macau']
+Mattia de Rosa,['University of Salerno']
+Andrew Fish,['University of Brighton']
+Vittorio Fuccella,['University of Salerno']
+Chenxi Li,['Nanjing University']
+Yejia Zhang,['Nanjing University']
+Tianyang Liu,['University of Tours']
+Fatma Bouali,"['University of Lille', 'University of Tours']"
+Gilles Venturini,"['University of Tours', 'Paris-Sud University']"
+William Plant,['Aston University']
+Gerald Schaefer,"['Loughborough University', 'Aston University', 'Nottingham Trent University', 'University of East Anglia']"
+Xiangxu Meng,"['Shandong University', 'Ministry of Education China']"
+Xiaoting Bi,['Shandong University']
+Shenghui Cheng,['Shandong University']
+Gerry Derksen,['Winthrop University']
+Stan Ruecker,"['University of Illinois Urbana-Champaign', 'IIT Research Institute', 'University of Alberta']"
+Tim Causer,['University College London']
+Melissa M Terras,"['The University of Edinburgh', 'University College London']"
+Yingqing Xu,['Tsinghua University']
+Michelle Xue Zhou,"['Utah State University', 'IBM Research - Almaden', 'IBM Research', 'International Business Machines', '+ 4']"
+Jing Fan,"['Zhejiang University of Technology', 'College of Computer Science and Technology, Zhejiang University']"
+Xiaoying Shi,['Zhejiang University of Technology']
+Zhan Zhou,['Zhejiang University of Technology']
+Ying Tang,['Zhejiang University of Technology']
+Xiaoping Fan,"['Central South University', 'Hunan University of Finance and Economics']"
+Ruobo Xin,['Shandong University']
+Dongxu Duan,"['IBM Research - China', 'IBM China Company Limited']"
+Weihong Qian,"['IBM China Company Limited', 'IBM Research - China', 'IBM Research']"
+Shimei Pan,"['University of Maryland, College Park (UMD)', 'University of Maryland, Baltimore County (UMBC)', '+ 5']"
+Lei Shi,"['Institute of Software Chinese Academy of Sciences', 'Chinese Academy of Sciences']"
+Chuang Lin,"['Tsinghua University', 'Tsinghua National Laboratory for Information Science and Technology']"
+Jared Shenson,['Vanderbilt University']
+Alark Joshi,['Boise State University']
+Xiaojuan Liu,['Beijing Normal University']
+Xia Lin,"['Drexel University', 'University of Maryland, College Park (UMD)', 'Pace University']"
+Tuannhon Dang,['University of Illinois at Chicago']
+Leland K Wilkinson,"['University of Illinois at Chicago', 'Northwestern University']"
+Li Yu,['The University of North Carolina at Charlotte']
+Peng Ye,['Soochow University']
+Chenming Pang,['East China Normal University']
+Roy Chi Kit Chan,['University of Macau']
+Kewei Yang,['Nanjing University']
+Jie Zhou,['Nanjing University']
+Yi Li,['Nanjing University']
+Xianlin Hu,['The University of North Carolina at Charlotte']
+Lane T Harrison,"['Worcester Polytechnic Institute', 'Tufts University', 'The University of North Carolina at Charlotte', '+ 1']"
+Huaguang Song,"['University of the Pacific, California']"
+Jinzhu Gao,"['University of the Pacific, California', 'University of Minnesota System', 'Oak Ridge National Laboratory', 'IEEE', 'The Ohio State University']"
+Jiang Jian,['Tsinghua University']
+Guanmin Liu,['Tsinghua University']
+Chuncheng Lin,"['National Yang Ming Chiao Tung University', 'National Chiao Tung University Taiwan', 'University of Taipei', '+ 1']"
+Xiaoyu Wang,['The University of North Carolina at Charlotte']
+Eric A. Bier,"['Palo Alto Research Center Incorporated', 'University of California, Berkeley']"
+Thomas James Butkiewicz,"['University System of New Hampshire', 'University of New Hampshire Durham', 'The University of North Carolina at Charlotte']"
+William Ribarsky,"['The University of North Carolina at Charlotte', 'IEEE', 'Georgia Institute of Technology', 'Georgia Tech Research Institute']"
+Wenwen Dou,['The University of North Carolina at Charlotte']
+Cheongiao Pang,['University of Macau']
+Felix Hon Hou Cheang,['University of Macau']
+Takashi Yuki,['University of Tsukuba']
+Zhirong Zeng,['Chinese Academy of Sciences']
+Kun Wang,['Beijing Jiaotong University']
+Yuri Saito,['Ochanomizu University']
+Yasuhiko Sota,['Shimane University']
+Keisuke Yamamoto,['Shimane University']
+Souichiro Doi,[]
+Yasuhisa Yamamoto,[]
+Anna Wu,"['Pennsylvania State University', 'Tsinghua University']"
+Xin Yan,['Pennsylvania State University']
+Xiaolong(Luke) Zhang,"['Pennsylvania State University', 'Taiyuan University of Technology', 'Drexel University', 'The University of Arizona', '+ 1']"
+Xiang Cao,"['Lenovo Group, China', 'Microsoft Research Asia', 'Microsoft Research', 'Microsoft Research Cambridge', 'University of Delaware', '+ 2']"
+Fei Lyu,"['Beijing University of Posts and Telecommunications', 'Institute of Software Chinese Academy of Sciences', '+ 1']"
+Philip Trevor Cox,"['Dalhousie University', 'University of Waterloo']"
+Simon Gauvin,['Dalhousie University']
+Jian Shi,['Chinese Academy of Sciences']
+Ying Qiao,"['Institute of Software Chinese Academy of Sciences', 'Chinese Academy of Sciences']"
+Yi Zhang,['Tianjin University']
+Lei Fu,['Tianjin University']
+Qinghui Guo,['Tianjin University']
+Jie Hao,['The University of Texas at Dallas']
+Jiansu Pu,['Hong Kong University of Science and Technology']
+Weiwei Cui,"['Microsoft Research Asia', 'Microsoft Research', 'Hong Kong University of Science and Technology']"
+Siyuan Liu,"['Carnegie Mellon University', 'Pennsylvania State University', 'Penn State Smeal College of Business', '+ 2']"
+Lionel Ming Shuan Ni,"['Hong Kong University of Science and Technology', 'University of Macau', 'Shanghai Jiao Tong University', '+ 5']"
+Yu Su,['Southern Methodist University']
+Margaret H Dunham,"['Southern Methodist University', 'University of Virginia']"
+Liang Gou,"['Bosch Research and Technology Center', 'Visa Inc.', 'IBM Research - Almaden', 'Pennsylvania State University']"
+Fang You,['Sun Yat-Sen University']
+Jun Guo,['Sun Yat-Sen University']
+Luqi Wu,['Sun Yat-Sen University']
+SuTe Lei,['The University of Texas at Dallas']
+James D Hollan,"['University of California, San Diego', 'University of Maryland, College Park (UMD)', '+ 4']"
+Ben Bederson,"['University of Maryland, College Park (UMD)', 'RISE, Swedish Institute of Computer Science', '+ 3']"
+CÉcile Laurance Paris,"['CSIRO Data61', 'Macquarie University', 'Commonwealth Scientific and Industrial Research Organization', '+ 6']"
+Shengfeng Qin,"['Northumbria University', 'Brunel University London']"
+Shaorong Wang,['Peking University']
+Yisong Chen,['Peking University']
+Sheng Li,['Peking University']
+Guoping Wang,"['Peking University', 'Central China Normal University']"
+Miaomiao Li,['Shandong University']
+Yan Huang,['Shandong University']
+Shenfang Li,['Shandong University']
+Ye Yuan,['Beijing Normal University']
+Zhongke Wu,"['Beijing Normal University', 'Ministry of Education China', 'Nanyang Technological University']"
+Jing Zhao,[]
+Lei Tang,['Shandong University']
+Xueqing Li,['Shandong University']
+Wenjing Qi,['Shandong University']
+Anh Dang,['Dalhousie University']
+Jiayao Chen,['Shandong University']
+Xueqing Li,['Shandong University']
+Jingzhao Yang,['Shandong University']
+Choychee Ken,['UOW Malaysia KDU College']
+Xiongfei Luo,"['Chinese Academy of Sciences', 'Institute of Software Chinese Academy of Sciences']"
+Wei Liu,"['Chinese Academy of Sciences', 'Institute of Software Chinese Academy of Sciences']"
+Shijian Lu,['CSIRO Ict Centre']
+Shaoke Zhang,['Pennsylvania State University']
+Jing Wang,['Pennsylvania State University']
+Hirofumi Miyamoto,['Shimane University']
+Tatman Cheong,['University of Macau']
+Yain Whar Si,"['University of Macau', 'Queensland University of Technology']"
+Guoray Cai,['Pennsylvania State University']
+Yngve S Kristiansen,['University of Bergen']
+Laura A Garrison,['University of Bergen']
+Stefan Bruckner,"['University of Bergen', 'King Abdullah University of Science and Technology', 'Vienna University of Technology', 'Simon Fraser University']"
+Zhenbao Fan,"['The University of Texas at Dallas', 'Tianjin University']"
+Yixuan Zhu,['China University of Mining and Technology']
+Christine Yan,['University of Pennsylvania']
+Yufan Li,['Hong Kong University of Science and Technology']
+Hongzhi Zhu,['The University of British Columbia']
+Septimiu Edmund Salcudean,"['The University of British Columbia', 'University of California, Berkeley']"
+Robert N Rohling,['The University of British Columbia']
+Peter Schaefer,['University of Konstanz']
+Sabine Storandt,"['University of Konstanz', 'Julius-Maximilian University of Würzburg', 'University of Freiburg', 'University of Stuttgart']"
+Michael Becher,['University of Stuttgart']
+Moritz Heinemann,['University of Stuttgart']
+Thomas Marmann,['University of Stuttgart']
+Franziska Huth,"['University of Stuttgart', 'Saarland University']"
+Tanja Blascheck,"['University of Stuttgart', 'Paris-Saclay University', '+ 2']"
+Steffen Koch,['University of Stuttgart']
+Eric Mörth,['University of Bergen']
+Tanja Eichner,['Helse Bergen Haukeland University Hospital']
+Ingfrid S Haldorsen,"['University of Bergen', 'Helse Bergen Haukeland University Hospital']"
+Noeska N Smit,"['University of Bergen', 'Delft University of Technology']"
+Indre Tauroseviciute,['Eindhoven University of Technology']
+Guillermo Mateos Guridi,['Eindhoven University of Technology']
+Mark Alan Livingston,"['Naval Research Laboratory', 'The University of North Carolina at Chapel Hill']"
+Derek P Brock,['Naval Research Laboratory']
+Sarah Dosdall,['University of Stuttgart']
+Katrin Angerbauer,['University of Stuttgart']
+Leonel Merino,"['Pontifical Catholic University of Chile', 'University of Stuttgart', 'University of Bern']"
+Patrick Gebhardt,['University of Stuttgart']
+Xingyao Yu,['University of Stuttgart']
+Andreas Köhn,['University of Stuttgart']
+Yves Staudt,['University of Applied Sciences of the Grisons']
+Alexander van Schie,['University of Applied Sciences of the Grisons']
+Heiko Rölke,['University of Applied Sciences of the Grisons']
+Tim Cech,"['Hasso Plattner Institute for Digital Engineering gGmbH', 'University of Potsdam']"
+Bruno Frey,['University of Applied Sciences of the Grisons']
+Giada Zacheo,['University of Applied Sciences of the Grisons']
+Yannis Panagis,"['University of Copenhagen', 'University of Patras', 'Research Academic Computer Technology Institute, Patras']"
+Robert Spence,['Imperial College London']
+Sabrina Zahner,['University of Applied Sciences of the Grisons']
+Edina Misini,[]
+Keshina Karunananthan,['University of Applied Sciences of the Grisons']
+Gabriel Lüchinger,['University of Applied Sciences of the Grisons']
+Sabrina Lindau,"['University of Applied Sciences of the Grisons', 'University of Applied Sciences Western Switzerland']"
+Nadine Christen,['University of Applied Sciences of the Grisons']
+Michael Schlotter,['University of Applied Sciences of the Grisons']
+Juliane Streitberg,['University of Applied Sciences of the Grisons']
+Thomas Keller,['University of Applied Sciences of the Grisons']
+Dennis Collaris,['Eindhoven University of Technology']
+Jarke J van Wijk,"['Eindhoven University of Technology', 'IEEE']"
+David Beil,[]
+Andreas Theissler,"['Hochschule Aalen University of Applied Sciences', 'Esslingen University of Applied Sciences']"
+Benedikt Grimmeisen,[]
+Yating Hu,['Eindhoven University of Technology']
+Jan H M Korst,['Philips Research']
+Verus Pronk,['Philips Research']
+Abdullah Saeed,['Eindhoven University of Technology']
+Alina Vorobiova,['Eindhoven University of Technology']
+Armin Memar Zahedani,['Eindhoven University of Technology']
+Linus Hafkemeyer,['Eindhoven University of Technology']
+Marco Palazzo,['Eindhoven University of Technology']
+David Hägele,['University of Stuttgart']
+Moataz Abdelaal,['University of Stuttgart']
+Ozgur S Oguz,"['University of Stuttgart', 'Technical University of Munich']"
+Marc Toussaint,"['Technical University of Berlin', 'Max Planck Institute for Intelligent Systems', 'University of Stuttgart', 'Free University of Berlin', 'The University of Edinburgh', 'Ruhr University of Bochum']"
+Tanja Munz,['University of Stuttgart']
+Noel Schäfer,['University of Stuttgart']
+Kuno Kurzhals,"['University of Stuttgart', 'Swiss Federal Institute of Technology, Zurich']"
+Eugene Zhang,"['Oregon State University', 'IEEE', 'Georgia Institute of Technology']"
+Akane Uchita,['The University of Aizu']
+Kazuho Watanabe,"['Toyohashi University of Technology', 'Nara Institute of Science and Technology', '+ 2']"
+Masatoshi Arikawa,"['Akita University', 'The University of Tokyo', 'Hiroshima City University']"
+Sina Frommer,['Reutlingen University']
+Janis Uttenweiler,['Reutlingen University']
+Peter Grupp,['Reutlingen University']
+Steffen Hähnle,['Reutlingen University']
+Josia Scheytt,['Reutlingen University']
+Wenkai Han,['Aarhus University']
+Hans-Jörg Schulz,"['Aarhus University', 'University of Rostock', 'Fraunhofer Institute for Computer Graphics Research IGD, Rostock', 'Graz University of Technology']"
+Eric Fezer,[]
+Dominik Raab,[]
+John van Lith,['Eindhoven University of Technology']
+Nick van de Waterlaat,['Eindhoven University of Technology']
+Jurrien van Winden,['Eindhoven University of Technology']
+Tos Kuipers,['Eindhoven University of Technology']
+Chen Qian,['Eindhoven University of Technology']
+Fangqin Zhou,['Eindhoven University of Technology']
+"Nguyen, Vinh The",['Texas Tech University']
+Kwanghee Jung,['Texas Tech University']
+Tommy Dang,['Texas Tech University']
+Rafael Garcia,['University of Stuttgart']
+Jan Ole Vollmer,"['University of Potsdam', 'Hasso Plattner Institute for Digital Engineering gGmbH']"
+Gijs M Reichert,['Delft University of Technology']
+Marcos Pieras,['Delft University of Technology']
+Ricardo Guerra Marroquim,"['Delft University of Technology', 'Centro Federal De Educacão Tecnológica Celso Suckow Da Fonseca', 'Federal University of Rio de Janeiro']"
+Anna Vilanova,"['Delft University of Technology', 'Eindhoven University of Technology', 'IEEE']"
+Adrian Vramulet,['Eindhoven University of Technology']
+Alex Thieme,['Eindhoven University of Technology']
+Denis Shehu,['Eindhoven University of Technology']
+Mara Miulescu,['Eindhoven University of Technology']
+Mehrdad Farsadyar,['Eindhoven University of Technology']
+Tar van Krieken,['Eindhoven University of Technology']
+Natsuki Hosokawa,['Tokyo Institute of Technology']
+Kohei Arimoto,['The University of Tokyo']
+Ken Wakita,['Tokyo Institute of Technology']
+Kiet Bennema Brinke,['Eindhoven University of Technology']
+Adrien Castella,['Eindhoven University of Technology']
+Ghassen Karray,['Eindhoven University of Technology']
+Sebastiaan Peters,['Eindhoven University of Technology']
+Vasil Shteriyanov,['Eindhoven University of Technology']
+Rinse Vlaswinkel,['Eindhoven University of Technology']
+Qi'an Chen,['Central South University']
+Yunlong Cui,['Central South University']
+Xinyuan Wang,['Central South University']
+Hongxu Ma,['Central South University']
+Xiaoli Li,['Central South University']
+Wei Li,['Eindhoven University of Technology']
+Mathias Funk,"['Eindhoven University of Technology', 'Advanced Telecommunications Research Institute International (ATR)']"
+Aarnout C Brombacher,"['Eindhoven University of Technology', 'National University of Singapore']"
+Andreas Schreiber,['German Aerospace Center']
+Ngan V T Nguyen,['Texas Tech University']
+Bao Dien Nguyen,['Texas Tech University']
+Jon R Hass,['Dell Inc.']
+Alexis Lozano Angulo,"['Royal Danish Academy of Fine Arts, School of Architecture']"
+Luis Laris Pardo,"['Royal Danish Academy of Fine Arts, School of Architecture']"
+Alessandro Canossa,"['Royal Danish Academy of Fine Arts, School of Architecture', 'Ubisoft', 'Northeastern University', 'IT University of Copenhagen']"
+Kai Yan,['Harbin Institute of Technology']
+Tiejun Zhao,"['Harbin Institute of Technology', 'Shenyang University of Technology']"
+Valerie Riegler,['Vienna University of Technology']
+Lina Wang,['Vienna University of Technology']
+Johanna Doppler-Haider,['Vienna University of Technology']
+Margit Pohl,['Vienna University of Technology']
+Mengting Sun,['Information Engineering University China']
+Haiping Wei,['Information Engineering University China']
+Li Xu,['Information Engineering University China']
+Xingying Li,['Information Engineering University China']
+Alexander Schoedon,"['Hasso Plattner Institute for Digital Engineering gGmbH', 'University of Potsdam']"
+Henning Hollburg,[]
+Daniel Gerber,[]
+Alberto Veneri,['Eindhoven University of Technology']
+Bangjie Sun,"['National University of Singapore', 'Eindhoven University of Technology']"
+Michael Aichem,['University of Konstanz']
+Stefan Erk,['University of Konstanz']
+Ying Zhang,['University of Konstanz']
+Yanping Hu,[]
+Lihua Gui,[]
+Ye Wang,[]
+Ao Dong,['Shenzhen Institute of Advanced Technology']
+Wei Zeng,['Shenzhen Institute of Advanced Technology']
+Xi Chen,['Shenzhen Institute of Advanced Technology']
+Lu Yang,['Tianjin University']
+Wenhuan Lu,"['Tianjin University', 'Japan Advanced Institute of Science and Technology']"
+Yan Li,['University of Science and Technology of China']
+Jihui Zeng,['Hunan University']
+Beibei Zhan,['Hunan University']
+Shao Zhang,['Hunan University']
+Jiajun Bie,['Hunan University']
+Sheng Xiao,['Hunan University']
+Yina Li,['University of Technology Sydney']
+Yanpeng Hu,[]
+Sabrina Jaeger,['University of Konstanz']
+Jörg Melzheimer,['Institute for Zoo and Wildlife Research']
+Bettina Wachter,['Institute for Zoo and Wildlife Research']
+Heribert Hofer,['Institute for Zoo and Wildlife Research']
+Artur Baltabayev,['University of Konstanz']
+Elisabeth Melby,['Eindhoven University of Technology']
+Xiaoqiang Ding,"['State Key Lab of CAD&CG, Zhejiang University']"
+Ren Peng,['Zhejiang University']
+Jinhui Yu,"['State Key Lab of CAD&CG, Zhejiang University']"
+Tristan Langer,"['University of Wuppertal', 'RWTH Aachen University']"
+Tobias Meisen,"['University of Wuppertal', 'RWTH Aachen University']"
+Juan Lin,"['Fujian Agriculture and Forestry University', 'University of Louisville']"
+Hui Zhang,['University of Louisville']
+Fabian Dumke,['Hasso Plattner Institute for Digital Engineering gGmbH']
+Yumeng Guo,['National University of Defense Technology China']
+Wenke Wang,['National University of Defense Technology China']
+Sikun Li,"['National University of Defense Technology China', 'National Key Laboratory for Parallel and Distributed Processing']"
+Daying Lu,['Qufu Normal University']
+Yao Ge,['Qufu Normal University']
+Jiancheng Ni,['Qufu Normal University']
+Xiaohui Chen,['Information Engineering University China']
+Huanxin Chen,[]
+Yiran Zhu,['Beijing Normal University']
+Jiaqi Kang,['Beijing Normal University']
+Chenlei Lv,['Beijing Normal University']
+Shu Xu,['Beijing Normal University']
+Yanping Xue,['Beijing Normal University']
+Xingce Wang,['Beijing Normal University']
+Yuchong Zhang,['Chalmers University of Technology']
+Yong Ma,['Ludwig-Maximilians-University Munich']
+Adel Omrani,['Karlsruhe Institute of Technology']
+Rahul Yadav,['University of Eastern Finland']
+M. Fjeld,"['Chalmers University of Technology', 'University of Bergen', 'Swiss Federal Institute of Technology, Zurich', 'Center for Organizational and Occupational Sciences']"
+Marco Fratarcangeli,"['Chalmers University of Technology', 'Sapienza University of Rome']"
+Shiying Sheng,['Shanghai Jiao Tong University']
+Xiaoju Dong,['Shanghai Jiao Tong University']
+Chunyuan Wu,['Shanghai Jiao Tong University']
+Xu Peng,['Communication University of China']
+Guo Yadi,['Communication University of China']
+Bo Gao,['Tongji University']
+Yi Ming FuCha,['Tongji University']
+Han Sun,['Tianjin University']
+Zhijun Peng,['Tianjin University']
+Xinan Yu,['Tongji University']
+Zeshi Chen,['Tongji University']
+Shiwen Wang†,['Tongji University']
+Yinan Zhang,['Tongji University']
+Shiyun Hunag,['Tongji University']
+Yuqi Tao,['Tongji University']
+Zhongyu Wang,['East China University of Science and Technology']
+Hui Guo,['East China University of Science and Technology']
+Minghong Hu,['East China University of Science and Technology']
+Xuyuan Ji,['East China University of Science and Technology']
+Miao Liu,['East China University of Science and Technology']
+Chenyue Wang,['East China University of Science and Technology']
+Rui Chen,['East China University of Science and Technology']

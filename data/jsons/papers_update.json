@@ -1,4 +1,1246 @@
 {
+  "10.1007/978-1-4419-0312-9_1": {
+    "type": "paper-conference",
+    "title": "The Physical Visualization of Information: Designing Data Sculptures in an Educational Context.",
+    "url": "https://doi.org/10.1007/978-1-4419-0312-9_1",
+    "authors": [
+      {
+        "name": "Andrew Vande Moere",
+        "institution": [
+          {
+            "id": "60025709",
+            "name": "The University of Sydney"
+          }
+        ],
+        "id": "a09_1",
+        "url": ""
+      },
+      {
+        "name": "Stephanie Patel",
+        "institution": [
+          {
+            "id": "60025709",
+            "name": "The University of Sydney"
+          }
+        ],
+        "id": "a09_2",
+        "url": ""
+      }
+    ],
+    "doi": "10.1007/978-1-4419-0312-9_1",
+    "year": "2009",
+    "publisher": "Springer",
+    "conference_title": "vinci"
+  },
+  "10.1007/978-1-4419-0312-9_2": {
+    "type": "paper-conference",
+    "title": "Visual Analysis of History of World Cup: A Dynamic Network with Dynamic Hierarchy and Geographic Clustering.",
+    "url": "https://doi.org/10.1007/978-1-4419-0312-9_2",
+    "authors": [
+      {
+        "name": "Adel Ahmed",
+        "institution": [
+          {
+            "id": "i09_3",
+            "name": "King Fahad University of Petroleum and Minerals"
+          }
+        ],
+        "id": "a09_3",
+        "url": ""
+      },
+      {
+        "name": "Xiaoyan Fu",
+        "institution": [
+          {
+            "id": "i09_4",
+            "name": "National ICT Australia"
+          }
+        ],
+        "id": "a09_4",
+        "url": ""
+      },
+      {
+        "name": "Seok-Hee Hong",
+        "institution": [
+          {
+            "id": "60025709",
+            "name": "The University of Sydney"
+          }
+        ],
+        "id": "a09_5",
+        "url": ""
+      },
+      {
+        "name": "Quan Hoang Nguyen",
+        "institution": [
+          {
+            "id": "i09_6",
+            "name": "University of New South Wales"
+          }
+        ],
+        "id": "a09_6",
+        "url": ""
+      },
+      {
+        "name": "Kai Xu",
+        "institution": [
+          {
+            "id": "i09_7",
+            "name": "ICT Center"
+          }
+        ],
+        "id": "a09_7",
+        "url": ""
+      }
+    ],
+    "doi": "10.1007/978-1-4419-0312-9_2",
+    "year": "2009",
+    "publisher": "Springer",
+    "conference_title": "vinci"
+  },
+  "10.1007/978-1-4419-0312-9_3": {
+    "type": "paper-conference",
+    "title": "From Tree to Graph - Experiments with E-Spring Algorithm.",
+    "url": "https://doi.org/10.1007/978-1-4419-0312-9_3",
+    "authors": [
+      {
+        "name": "Pushpa Kumar",
+        "institution": [
+          {
+            "id": "60009415",
+            "name": "The University of Texas at Dallas"
+          }
+        ],
+        "id": "a09_8",
+        "url": ""
+      },
+      {
+        "name": "Kang Zhang",
+        "url": "https://dl.acm.org/profile/99660626111",
+        "id": "99660626111",
+        "institution": [
+          {
+            "id": "60008592",
+            "name": "Hong Kong University of Science and Technology",
+            "url": "https://dl.acm.org/institution/60008592"
+          }
+        ]
+      },
+      {
+        "name": "Mao Lin Huang",
+        "institution": [
+          {
+            "id": "60023932",
+            "name": "University of Technology Sydney"
+          }
+        ],
+        "id": "81100079792",
+        "url": ""
+      }
+    ],
+    "doi": "10.1007/978-1-4419-0312-9_3",
+    "year": "2009",
+    "publisher": "Springer",
+    "conference_title": "vinci"
+  },
+  "10.1007/978-1-4419-0312-9_4": {
+    "type": "paper-conference",
+    "title": "Visual Navigation with Schematic Maps.",
+    "url": "https://doi.org/10.1007/978-1-4419-0312-9_4",
+    "authors": [
+      {
+        "name": "Steffen Bogen",
+        "institution": [
+          {
+            "id": "60025525",
+            "name": "University of Konstanz"
+          }
+        ],
+        "id": "a09_11",
+        "url": ""
+      },
+      {
+        "name": "Ulrik Brandes",
+        "institution": [
+          {
+            "id": "60025525",
+            "name": "University of Konstanz"
+          }
+        ],
+        "id": "a09_12",
+        "url": ""
+      },
+      {
+        "name": "Hendrik Ziezold",
+        "institution": [
+          {
+            "id": "60025525",
+            "name": "University of Konstanz"
+          }
+        ],
+        "id": "a09_13",
+        "url": ""
+      }
+    ],
+    "doi": "10.1007/978-1-4419-0312-9_4",
+    "year": "2009",
+    "publisher": "Springer",
+    "conference_title": "vinci"
+  },
+  "10.1007/978-1-4419-0312-9_5": {
+    "type": "paper-conference",
+    "title": "DOI-Wave: A Focus+Context Interaction Technique for Networks Based on Attention-Reactive Interface.",
+    "url": "https://doi.org/10.1007/978-1-4419-0312-9_5",
+    "authors": [
+      {
+        "name": "Lei Ren",
+        "url": "https://dl.acm.org/profile/81552904056",
+        "id": "81552904056",
+        "institution": [
+          {
+            "id": "60013789",
+            "name": "Beihang University",
+            "url": "https://dl.acm.org/institution/60013789"
+          }
+        ]
+      },
+      {
+        "name": "Lin Zhang",
+        "institution": [
+          {
+            "id": "60013789",
+            "name": "Beihang University",
+            "url": "https://dl.acm.org/institution/60013789"
+          }
+        ],
+        "id": "a09_53",
+        "url": ""
+      },
+      {
+        "name": "Dongxing Teng",
+        "url": "https://dl.acm.org/profile/81384607002",
+        "id": "81384607002",
+        "institution": [
+          {
+            "id": "60025256",
+            "name": "Institute of Software Chinese Academy of Sciences",
+            "url": "https://dl.acm.org/institution/60025256"
+          }
+        ]
+      },
+      {
+        "name": "Guozhong Dai",
+        "url": "https://dl.acm.org/profile/81100172122",
+        "id": "81100172122",
+        "institution": [
+          {
+            "id": "60025256",
+            "name": "Institute of Software Chinese Academy of Sciences",
+            "url": "https://dl.acm.org/institution/60025256"
+          }
+        ]
+      },
+      {
+        "name": "Qian Li",
+        "institution": [
+          {
+            "id": "i09_18",
+            "name": "Shangdong Institute of Commerce and Technology"
+          }
+        ],
+        "id": "a09_18",
+        "url": ""
+      }
+    ],
+    "doi": "10.1007/978-1-4419-0312-9_5",
+    "year": "2009",
+    "publisher": "Springer",
+    "conference_title": "vinci"
+  },
+  "10.1007/978-1-4419-0312-9_6": {
+    "type": "paper-conference",
+    "title": "Multi-dimensional Data Visualization using Concentric Coordinates.",
+    "url": "https://doi.org/10.1007/978-1-4419-0312-9_6",
+    "authors": [
+      {
+        "name": "Jiawan Zhang",
+        "url": "https://dl.acm.org/profile/81453614419",
+        "id": "81453614419",
+        "institution": [
+          {
+            "id": "60019533",
+            "name": "Tianjin University",
+            "url": "https://dl.acm.org/institution/60019533"
+          }
+        ]
+      },
+      {
+        "name": "Yuan Wen",
+        "institution": [
+          {
+            "id": "60019533",
+            "name": "Tianjin University"
+          }
+        ],
+        "id": "a09_20",
+        "url": ""
+      },
+      {
+        "name": "Quang Vinh Nguyen",
+        "url": "https://dl.acm.org/profile/81100511332",
+        "id": "81100511332",
+        "institution": [
+          {
+            "id": "60017803",
+            "name": "Western Sydney University",
+            "url": "https://dl.acm.org/institution/60017803"
+          }
+        ]
+      },
+      {
+        "name": "Liang Fu Lu",
+        "institution": [
+          {
+            "id": "60019533",
+            "name": "Tianjin University"
+          }
+        ],
+        "id": "a09_46",
+        "url": ""
+      },
+      {
+        "name": "Mao Lin Huang",
+        "institution": [
+          {
+            "id": "60023932",
+            "name": "University of Technology Sydney"
+          }
+        ],
+        "id": "a09_10",
+        "url": ""
+      },
+      {
+        "name": "Jiadong Yang",
+        "institution": [
+          {
+            "id": "60019533",
+            "name": "Tianjin University"
+          }
+        ],
+        "id": "a09_24",
+        "url": ""
+      },
+      {
+        "name": "Jizhou Sun",
+        "institution": [
+          {
+            "id": "60019533",
+            "name": "Tianjin University"
+          }
+        ],
+        "id": "a09_25",
+        "url": ""
+      }
+    ],
+    "doi": "10.1007/978-1-4419-0312-9_6",
+    "year": "2009",
+    "publisher": "Springer",
+    "conference_title": "vinci"
+  },
+  "10.1007/978-1-4419-0312-9_7": {
+    "type": "paper-conference",
+    "title": "Construct Connotation Dictionary of Visual Symbols.",
+    "url": "https://doi.org/10.1007/978-1-4419-0312-9_7",
+    "authors": [
+      {
+        "name": "Ping Xiao",
+        "institution": [
+          {
+            "id": "i09_26",
+            "name": "Universitat Pompeu Fabra"
+          }
+        ],
+        "id": "a09_26",
+        "url": ""
+      },
+      {
+        "name": "Ernesto Arroyo",
+        "institution": [
+          {
+            "id": "i09_26",
+            "name": "Universitat Pompeu Fabra"
+          }
+        ],
+        "id": "a09_27",
+        "url": ""
+      },
+      {
+        "name": "Josep Blat",
+        "institution": [
+          {
+            "id": "i09_26",
+            "name": "Universitat Pompeu Fabra"
+          }
+        ],
+        "id": "a09_28",
+        "url": ""
+      }
+    ],
+    "doi": "10.1007/978-1-4419-0312-9_7",
+    "year": "2009",
+    "publisher": "Springer",
+    "conference_title": "vinci"
+  },
+  "10.1007/978-1-4419-0312-9_8": {
+    "type": "paper-conference",
+    "title": "Constructing Confluent Context-sensitive Graph Grammars from Non-confluent Productions for Parsing Efficiency.",
+    "url": "https://doi.org/10.1007/978-1-4419-0312-9_8",
+    "authors": [
+      {
+        "name": "Yang Zou",
+        "url": "https://dl.acm.org/profile/99659194214",
+        "id": "99659194214",
+        "institution": [
+          {
+            "id": "60033100",
+            "name": "Nanjing University"
+          }
+        ]
+      },
+      {
+        "name": "Jian Lü",
+        "institution": [
+          {
+            "id": "60033100",
+            "name": "Nanjing University"
+          }
+        ],
+        "id": "a09_30",
+        "url": ""
+      },
+      {
+        "name": "Xiaoqin Zeng",
+        "url": "https://dl.acm.org/profile/81319505316",
+        "id": "81319505316",
+        "institution": [
+          {
+            "id": "60010851",
+            "name": "Hohai University",
+            "url": "https://dl.acm.org/institution/60010851"
+          }
+        ]
+      },
+      {
+        "name": "Xiaoxing Ma",
+        "institution": [
+          {
+            "id": "60033100",
+            "name": "Nanjing University"
+          }
+        ],
+        "id": "a09_32",
+        "url": ""
+      },
+      {
+        "name": "Qiliang Yang",
+        "institution": [
+          {
+            "id": "60033100",
+            "name": "Nanjing University"
+          }
+        ],
+        "id": "a09_33",
+        "url": ""
+      }
+    ],
+    "doi": "10.1007/978-1-4419-0312-9_8",
+    "year": "2009",
+    "publisher": "Springer",
+    "conference_title": "vinci"
+  },
+  "10.1007/978-1-4419-0312-9_9": {
+    "type": "paper-conference",
+    "title": "Experimental Color in Computer Icons.",
+    "url": "https://doi.org/10.1007/978-1-4419-0312-9_9",
+    "authors": [
+      {
+        "name": "Yan-Peng Lim",
+        "institution": [
+          {
+            "id": "i09_34",
+            "name": "Multimedia University"
+          }
+        ],
+        "id": "a09_34",
+        "url": ""
+      },
+      {
+        "name": "Peter Charles Woods",
+        "institution": [
+          {
+            "id": "i09_34",
+            "name": "Multimedia University"
+          }
+        ],
+        "id": "a09_35",
+        "url": ""
+      }
+    ],
+    "doi": "10.1007/978-1-4419-0312-9_9",
+    "year": "2009",
+    "publisher": "Springer",
+    "conference_title": "vinci"
+  },
+  "10.1007/978-1-4419-0312-9_10": {
+    "type": "paper-conference",
+    "title": "Hidden Cluster Detection for Infectious Disease Control and Quarantine Management.",
+    "url": "https://doi.org/10.1007/978-1-4419-0312-9_10",
+    "authors": [
+      {
+        "name": "Yain-Whar Si",
+        "institution": [
+          {
+            "id": "60022317",
+            "name": "University of Macau"
+          }
+        ],
+        "id": "a09_36",
+        "url": ""
+      },
+      {
+        "name": "Kan-Ion Leong",
+        "institution": [
+          {
+            "id": "60022317",
+            "name": "University of Macau"
+          }
+        ],
+        "id": "a09_37",
+        "url": ""
+      },
+      {
+        "name": "Robert P. Biuk-Aghai",
+        "url": "https://dl.acm.org/profile/81100203521",
+        "id": "81100203521",
+        "institution": [
+          {
+            "id": "60022317",
+            "name": "University of Macau",
+            "url": "https://dl.acm.org/institution/60022317"
+          }
+        ]
+      },
+      {
+        "name": "Simon Fong",
+        "institution": [
+          {
+            "id": "60022317",
+            "name": "University of Macau"
+          }
+        ],
+        "id": "a09_39",
+        "url": ""
+      }
+    ],
+    "doi": "10.1007/978-1-4419-0312-9_10",
+    "year": "2009",
+    "publisher": "Springer",
+    "conference_title": "vinci"
+  },
+  "10.1007/978-1-4419-0312-9_11": {
+    "type": "paper-conference",
+    "title": "Multi-scale Vortex Extraction of Ocean Flow.",
+    "url": "https://doi.org/10.1007/978-1-4419-0312-9_11",
+    "authors": [
+      {
+        "name": "Cui Xie",
+        "institution": [
+          {
+            "id": "i09_40",
+            "name": "Ocean University of China"
+          }
+        ],
+        "id": "a09_40",
+        "url": ""
+      },
+      {
+        "name": "Lihua Xing",
+        "institution": [
+          {
+            "id": "i09_40",
+            "name": "Ocean University of China"
+          }
+        ],
+        "id": "a09_41",
+        "url": ""
+      },
+      {
+        "name": "Cunna Liu",
+        "institution": [
+          {
+            "id": "i09_40",
+            "name": "Ocean University of China"
+          }
+        ],
+        "id": "a09_42",
+        "url": ""
+      },
+      {
+        "name": "Xiaocong Li",
+        "institution": [
+          {
+            "id": "i09_40",
+            "name": "Ocean University of China"
+          }
+        ],
+        "id": "a09_43",
+        "url": ""
+      }
+    ],
+    "doi": "10.1007/978-1-4419-0312-9_11",
+    "year": "2009",
+    "publisher": "Springer",
+    "conference_title": "vinci"
+  },
+  "10.1007/978-1-4419-0312-9_12": {
+    "type": "paper-conference",
+    "title": "A Novel Visualization Method for Detecting DDoS Network Attacks.",
+    "url": "https://doi.org/10.1007/978-1-4419-0312-9_12",
+    "authors": [
+      {
+        "name": "Jiawan Zhang",
+        "url": "https://dl.acm.org/profile/81453614419",
+        "id": "81453614419",
+        "institution": [
+          {
+            "id": "60019533",
+            "name": "Tianjin University",
+            "url": "https://dl.acm.org/institution/60019533"
+          }
+        ]
+      },
+      {
+        "name": "Guoqiang Yang",
+        "institution": [
+          {
+            "id": "60019533",
+            "name": "Tianjin University",
+            "url": "https://dl.acm.org/institution/60019533"
+          }
+        ],
+        "id": "a09_45",
+        "url": ""
+      },
+      {
+        "name": "Liang Fu Lu",
+        "institution": [
+          {
+            "id": "60019533",
+            "name": "Tianjin University",
+            "url": "https://dl.acm.org/institution/60019533"
+          }
+        ],
+        "id": "a09_46",
+        "url": ""
+      },
+      {
+        "name": "MaoLin Huang",
+        "institution": [
+          {
+            "id": "60023932",
+            "name": "The University of Sydney"
+          }
+        ],
+        "id": "81100079792",
+        "url": ""
+      },
+      {
+        "name": "Ming Che",
+        "institution": [
+          {
+            "id": "60019533",
+            "name": "Tianjin University",
+            "url": "https://dl.acm.org/institution/60019533"
+          }
+        ],
+        "id": "a09_48",
+        "url": ""
+      }
+    ],
+    "doi": "10.1007/978-1-4419-0312-9_12",
+    "year": "2009",
+    "publisher": "Springer",
+    "conference_title": "vinci"
+  },
+  "10.1007/978-1-4419-0312-9_13": {
+    "type": "paper-conference",
+    "title": "A Pool of Topics: Interactive Relational Topic Visualization for Information Discovery.",
+    "url": "https://doi.org/10.1007/978-1-4419-0312-9_13",
+    "authors": [
+      {
+        "name": "Inessa Seifert",
+        "institution": [
+          {
+            "id": "i09_49",
+            "name": "German Research Center for Artificial Intelligence"
+          }
+        ],
+        "id": "a09_49",
+        "url": ""
+      },
+      {
+        "name": "Michael Kruppa",
+        "institution": [
+          {
+            "id": "i09_49",
+            "name": "German Research Center for Artificial Intelligence"
+          }
+        ],
+        "id": "a09_50",
+        "url": ""
+      }
+    ],
+    "doi": "10.1007/978-1-4419-0312-9_13",
+    "year": "2009",
+    "publisher": "Springer",
+    "conference_title": "vinci"
+  },
+  "10.1007/978-1-4419-0312-9_14": {
+    "type": "paper-conference",
+    "title": "DaisyViz: A Model-based User Interfaces Toolkit for Development of Interactive Information Visualization.",
+    "url": "https://doi.org/10.1007/978-1-4419-0312-9_14",
+    "authors": [
+      {
+        "name": "Lei Ren",
+        "url": "https://dl.acm.org/profile/81552904056",
+        "id": "81552904056",
+        "institution": [
+          {
+            "id": "60013789",
+            "name": "Beihang University",
+            "url": "https://dl.acm.org/institution/60013789"
+          }
+        ]
+      },
+      {
+        "name": "Feng Tian",
+        "url": "https://dl.acm.org/profile/81100106876",
+        "id": "81100106876",
+        "institution": [
+          {
+            "id": "60025256",
+            "name": "Institute of Software Chinese Academy of Sciences",
+            "url": "https://dl.acm.org/institution/60025256"
+          }
+        ]
+      },
+      {
+        "name": "Lin Zhang",
+        "institution": [
+          {
+            "id": "60013789",
+            "name": "Beihang University"
+          }
+        ],
+        "id": "a09_53",
+        "url": ""
+      },
+      {
+        "name": "Guozhong Dai",
+        "url": "https://dl.acm.org/profile/81100172122",
+        "id": "81100172122",
+        "institution": [
+          {
+            "id": "60025256",
+            "name": "Institute of Software Chinese Academy of Sciences",
+            "url": "https://dl.acm.org/institution/60025256"
+          }
+        ]
+      }
+    ],
+    "doi": "10.1007/978-1-4419-0312-9_14",
+    "year": "2009",
+    "publisher": "Springer",
+    "conference_title": "vinci"
+  },
+  "10.1007/978-1-4419-0312-9_15": {
+    "type": "paper-conference",
+    "title": "A New Interactive Platform for Visual Analytics of Social Networks.",
+    "url": "https://doi.org/10.1007/978-1-4419-0312-9_15",
+    "authors": [
+      {
+        "name": "Quang Vinh Nguyen",
+        "url": "https://dl.acm.org/profile/81100511332",
+        "id": "81100511332",
+        "institution": [
+          {
+            "id": "60017803",
+            "name": "Western Sydney University",
+            "url": "https://dl.acm.org/institution/60017803"
+          }
+        ]
+      },
+      {
+        "name": "MaoLin Huang",
+        "institution": [
+          {
+            "id": "60023932",
+            "name": "University of Technology Sydney",
+            "url": "https://dl.acm.org/institution/60023932"
+          }
+        ],
+        "id": "81100079792",
+        "url": ""
+      }
+    ],
+    "doi": "10.1007/978-1-4419-0312-9_15",
+    "year": "2009",
+    "publisher": "Springer",
+    "conference_title": "vinci"
+  },
+  "10.1007/978-1-4419-0312-9_16": {
+    "type": "paper-conference",
+    "title": "Strategic paths and memory map: Exploring a building and memorizing knowledge.",
+    "url": "https://doi.org/10.1007/978-1-4419-0312-9_16",
+    "authors": [
+      {
+        "name": "Sandro Varano",
+        "institution": [
+          {
+            "id": "i09_57",
+            "name": "Ecole Nationale Supérieure d’Architecture de Strasbourg"
+          }
+        ],
+        "id": "a09_57",
+        "url": ""
+      },
+      {
+        "name": "Jean-Claude Bignon",
+        "institution": [
+          {
+            "id": "i09_57",
+            "name": "Ecole Nationale Supérieure d’Architecture de Strasbourg"
+          }
+        ],
+        "id": "a09_58",
+        "url": ""
+      }
+    ],
+    "doi": "10.1007/978-1-4419-0312-9_16",
+    "year": "2009",
+    "publisher": "Springer",
+    "conference_title": "vinci"
+  },
+  "10.1007/978-1-4419-0312-9_17": {
+    "type": "paper-conference",
+    "title": "Information visualization Approach on the University Examination Timetabling Problem.",
+    "url": "https://doi.org/10.1007/978-1-4419-0312-9_17",
+    "authors": [
+      {
+        "name": "J. Joshua Thomas",
+        "institution": [
+          {
+            "id": "i09_61",
+            "name": "University Sains Malaysia",
+            "url": ""
+          }
+        ],
+        "id": "81440610062",
+        "url": ""
+      },
+      {
+        "name": "Ahamad Tajudin Abdul Khader",
+        "institution": [
+          {
+            "id": "i09_61",
+            "name": "University Sains Malaysia",
+            "url": ""
+          }
+        ],
+        "id": "a09_60",
+        "url": ""
+      },
+      {
+        "name": "Bahari Belaton",
+        "institution": [
+          {
+            "id": "i09_61",
+            "name": "University Sains Malaysia",
+            "url": ""
+          }
+        ],
+        "id": "a09_61",
+        "url": ""
+      }
+    ],
+    "doi": "10.1007/978-1-4419-0312-9_17",
+    "year": "2009",
+    "publisher": "Springer",
+    "conference_title": "vinci"
+  },
+  "10.1007/978-1-4419-0312-9_18": {
+    "type": "paper-conference",
+    "title": "Making Traffic Safety Personal: Visualization and Customization of National Traffic Fatalities.",
+    "url": "https://doi.org/10.1007/978-1-4419-0312-9_18",
+    "authors": [
+      {
+        "name": "Brian N. Hilton",
+        "institution": [
+          {
+            "id": "i09_62",
+            "name": "Claremont Graduate University"
+          }
+        ],
+        "id": "a09_62",
+        "url": ""
+      },
+      {
+        "name": "Thomas A. Horan",
+        "institution": [
+          {
+            "id": "i09_62",
+            "name": "Claremont Graduate University"
+          }
+        ],
+        "id": "a09_63",
+        "url": ""
+      },
+      {
+        "name": "Benjamin L. Schooley",
+        "institution": [
+          {
+            "id": "i09_62",
+            "name": "Claremont Graduate University"
+          }
+        ],
+        "id": "a09_64",
+        "url": ""
+      }
+    ],
+    "doi": "10.1007/978-1-4419-0312-9_18",
+    "year": "2009",
+    "publisher": "Springer",
+    "conference_title": "vinci"
+  },
+  "10.1007/978-1-4419-0312-9_19": {
+    "type": "paper-conference",
+    "title": "Visualizing Table Dependency Relations to Reveal Network Characters in Database Applications.",
+    "url": "https://doi.org/10.1007/978-1-4419-0312-9_19",
+    "authors": [
+      {
+        "name": "Chengying Mao",
+        "institution": [
+          {
+            "id": "i09_65",
+            "name": "Jiangxi University of Finance and Economics"
+          }
+        ],
+        "id": "a09_65",
+        "url": ""
+      }
+    ],
+    "doi": "10.1007/978-1-4419-0312-9_19",
+    "year": "2009",
+    "publisher": "Springer",
+    "conference_title": "vinci"
+  },
+  "10.1007/978-1-4419-0312-9_20": {
+    "type": "paper-conference",
+    "title": "Visualized Feature Modeling in Software Product Line.",
+    "url": "https://doi.org/10.1007/978-1-4419-0312-9_20",
+    "authors": [
+      {
+        "name": "Li Zheng",
+        "institution": [
+          {
+            "id": "60025278",
+            "name": "Tsinghua University"
+          }
+        ],
+        "id": "a09_66",
+        "url": ""
+      },
+      {
+        "name": "Chao Zhang",
+        "institution": [
+          {
+            "id": "60025278",
+            "name": "Tsinghua University"
+          }
+        ],
+        "id": "a09_67",
+        "url": ""
+      },
+      {
+        "name": "Zhanwei Wu",
+        "institution": [
+          {
+            "id": "60025278",
+            "name": "Tsinghua University"
+          }
+        ],
+        "id": "a09_68",
+        "url": ""
+      },
+      {
+        "name": "Yixin Yan",
+        "institution": [
+          {
+            "id": "60025278",
+            "name": "Tsinghua University"
+          }
+        ],
+        "id": "a09_69",
+        "url": ""
+      }
+    ],
+    "doi": "10.1007/978-1-4419-0312-9_20",
+    "year": "2009",
+    "publisher": "Springer",
+    "conference_title": "vinci"
+  },
+  "10.1007/978-1-4419-0312-9_21": {
+    "type": "paper-conference",
+    "title": "A Useful Visualization Technique: A Literature Review for Augmented Reality and its Application, limitation & future direction.",
+    "url": "https://doi.org/10.1007/978-1-4419-0312-9_21",
+    "authors": [
+      {
+        "name": "Donggang Yu",
+        "institution": [
+          {
+            "id": "i09_70",
+            "name": "The University of Newcastle"
+          }
+        ],
+        "id": "a09_70",
+        "url": ""
+      },
+      {
+        "name": "Jesse Sheng Jin",
+        "institution": [
+          {
+            "id": "i09_70",
+            "name": "The University of Newcastle"
+          }
+        ],
+        "id": "a09_71",
+        "url": ""
+      },
+      {
+        "name": "Suhuai Luo",
+        "institution": [
+          {
+            "id": "i09_70",
+            "name": "The University of Newcastle"
+          }
+        ],
+        "id": "a09_72",
+        "url": ""
+      },
+      {
+        "name": "Wei Lai",
+        "institution": [
+          {
+            "id": "60030804",
+            "name": "Swinburne University of Technology"
+          }
+        ],
+        "id": "a09_73",
+        "url": ""
+      },
+      {
+        "name": "Qingming Huang",
+        "institution": [
+          {
+            "id": "60019499",
+            "name": "Chinese Academy of Sciences"
+          }
+        ],
+        "id": "a09_74",
+        "url": ""
+      }
+    ],
+    "doi": "10.1007/978-1-4419-0312-9_21",
+    "year": "2009",
+    "publisher": "Springer",
+    "conference_title": "vinci"
+  },
+  "10.1007/978-1-4419-0312-9_22": {
+    "type": "paper-conference",
+    "title": "Novel Blind Steganalysis for JPEG Images.",
+    "url": "https://doi.org/10.1007/978-1-4419-0312-9_22",
+    "authors": [
+      {
+        "name": "Zhuo Li",
+        "institution": [
+          {
+            "id": "60003970",
+            "name": "Zhejiang University"
+          }
+        ],
+        "id": "a09_75",
+        "url": ""
+      },
+      {
+        "name": "Jian Chen",
+        "institution": [
+          {
+            "id": "60003970",
+            "name": "Zhejiang University"
+          }
+        ],
+        "id": "a09_76",
+        "url": ""
+      },
+      {
+        "name": "Xiaoning Jiang",
+        "institution": [
+          {
+            "id": "60003970",
+            "name": "Zhejiang University"
+          }
+        ],
+        "id": "a09_77",
+        "url": ""
+      },
+      {
+        "name": "Xian-Ting Zeng",
+        "institution": [
+          {
+            "id": "60003970",
+            "name": "Zhejiang University"
+          }
+        ],
+        "id": "a09_78",
+        "url": ""
+      },
+      {
+        "name": "Xuezeng Pan",
+        "institution": [
+          {
+            "id": "60003970",
+            "name": "Zhejiang University"
+          }
+        ],
+        "id": "a09_79",
+        "url": ""
+      }
+    ],
+    "doi": "10.1007/978-1-4419-0312-9_22",
+    "year": "2009",
+    "publisher": "Springer",
+    "conference_title": "vinci"
+  },
+  "10.1007/978-1-4419-0312-9_23": {
+    "type": "paper-conference",
+    "title": "A Polarization Restraint Based Fast Motion Estimation Approach to H.264 Stereoscopic Video Coding.",
+    "url": "https://doi.org/10.1007/978-1-4419-0312-9_23",
+    "authors": [
+      {
+        "name": "Mingjing Ai",
+        "institution": [
+          {
+            "id": "60013789",
+            "name": "Beihang University"
+          }
+        ],
+        "id": "a09_80",
+        "url": ""
+      },
+      {
+        "name": "Lili Zhao",
+        "institution": [
+          {
+            "id": "60013789",
+            "name": "Beihang University"
+          }
+        ],
+        "id": "a09_81",
+        "url": ""
+      },
+      {
+        "name": "Yongmei Zhu",
+        "institution": [
+          {
+            "id": "60013789",
+            "name": "Beihang University"
+          }
+        ],
+        "id": "a09_82",
+        "url": ""
+      },
+      {
+        "name": "Qinping Zhao",
+        "institution": [
+          {
+            "id": "60013789",
+            "name": "Beihang University"
+          }
+        ],
+        "id": "a09_83",
+        "url": ""
+      }
+    ],
+    "doi": "10.1007/978-1-4419-0312-9_23",
+    "year": "2009",
+    "publisher": "Springer",
+    "conference_title": "vinci"
+  },
+  "10.1007/978-1-4419-0312-9_24": {
+    "type": "paper-conference",
+    "title": "Multi-core Parallel of Photon Mapping.",
+    "url": "https://doi.org/10.1007/978-1-4419-0312-9_24",
+    "authors": [
+      {
+        "name": "Huaiqing He",
+        "institution": [
+          {
+            "id": "i09_85",
+            "name": "Civil Aviation University of China"
+          }
+        ],
+        "id": "a09_84",
+        "url": ""
+      },
+      {
+        "name": "Tianbao Wang",
+        "institution": [
+          {
+            "id": "i09_85",
+            "name": "Civil Aviation University of China"
+          }
+        ],
+        "id": "a09_85",
+        "url": ""
+      },
+      {
+        "name": "Qing Xu",
+        "institution": [
+          {
+            "id": "60019533",
+            "name": "Tianjin University"
+          }
+        ],
+        "id": "a09_86",
+        "url": ""
+      },
+      {
+        "name": "Yaoyu Xing",
+        "institution": [
+          {
+            "id": "i09_85",
+            "name": "Civil Aviation University of China"
+          }
+        ],
+        "id": "a09_87",
+        "url": ""
+      }
+    ],
+    "doi": "10.1007/978-1-4419-0312-9_24",
+    "year": "2009",
+    "publisher": "Springer",
+    "conference_title": "vinci"
+  },
   "10.1145/3481549.3481569": {
     "type": "research-article",
     "title": "Hagrid — Gridify Scatterplots with Hilbert and Gosper Curves",
@@ -7,7 +1249,7 @@
     "authors": [
       {
         "name": "René Cutura",
-        "institution": "TU Wien and University of Stuttgart, Austria",
+        "institution": "University of Stuttgart, Germany",
         "url": "https://dl.acm.org/profile/99659583267",
         "id": "99659583267"
       },
@@ -703,25 +1945,25 @@
       },
       {
         "name": "Günter Wallner",
-        "institution": "TU Eindhoven, Netherlands",
+        "institution": "Eindhoven University of Technology, Netherlands",
         "url": "https://dl.acm.org/profile/81100493799",
         "id": "81100493799"
       },
       {
         "name": "Huub M M van de Wetering",
-        "institution": "TU Eindhoven, Netherlands",
+        "institution": "Eindhoven University of Technology, Netherlands",
         "url": "https://dl.acm.org/profile/81100431196",
         "id": "81100431196"
       },
       {
         "name": "Freek Rooks",
-        "institution": "TU Eindhoven, Netherlands",
+        "institution": "Eindhoven University of Technology, Netherlands",
         "url": "https://dl.acm.org/profile/99659915567",
         "id": "99659915567"
       },
       {
         "name": "Olof Morra",
-        "institution": "TU Eindhoven, Netherlands",
+        "institution": "Eindhoven University of Technology, Netherlands",
         "url": "https://dl.acm.org/profile/99659915351",
         "id": "99659915351"
       }
@@ -1564,7 +2806,7 @@
     "authors": [
       {
         "name": "Xiaoyu Wang",
-        "institution": "Department of Computer Science, The University of Texas at Dallas, Richardson, TX, USA",
+        "institution": "Department of Computer Science, The University of Texas at Dallas, Richardson, TX, United States",
         "url": "https://dl.acm.org/profile/99659256604",
         "id": "99659256604"
       },
@@ -1582,7 +2824,7 @@
       },
       {
         "name": "K. Zhang",
-        "institution": "Department of Computer Science, The University of Texas at Dallas, Richardson, TX, USA",
+        "institution": "Department of Computer Science, The University of Texas at Dallas, Richardson, TX, United States",
         "url": "https://dl.acm.org/profile/81350576955",
         "id": "81350576955"
       }
@@ -1816,49 +3058,49 @@
       },
       {
         "name": "Gerald Baulig",
-        "institution": "University of Reutlingen",
+        "institution": "Reutlingen University",
         "url": "https://dl.acm.org/profile/99659291294",
         "id": "99659291294"
       },
       {
         "name": "Tobias Boley",
-        "institution": "University of Reutlingen",
+        "institution": "Reutlingen University",
         "url": "https://dl.acm.org/profile/99659292088",
         "id": "99659292088"
       },
       {
         "name": "Arjana Mehmeti",
-        "institution": "University of Reutlingen",
+        "institution": "Reutlingen University",
         "url": "https://dl.acm.org/profile/99659290889",
         "id": "99659290889"
       },
       {
         "name": "Dina Kurbanismailova",
-        "institution": "University of Reutlingen",
+        "institution": "Reutlingen University",
         "url": "https://dl.acm.org/profile/99659291964",
         "id": "99659291964"
       },
       {
         "name": "Marc Roswag",
-        "institution": "University of Reutlingen",
+        "institution": "Reutlingen University",
         "url": "https://dl.acm.org/profile/99659291329",
         "id": "99659291329"
       },
       {
         "name": "Oliver Streicher",
-        "institution": "University of Reutlingen",
+        "institution": "Reutlingen University",
         "url": "https://dl.acm.org/profile/99659292148",
         "id": "99659292148"
       },
       {
         "name": "Steffen Wittig",
-        "institution": "University of Reutlingen",
+        "institution": "Reutlingen University",
         "url": "https://dl.acm.org/profile/99659289339",
         "id": "99659289339"
       },
       {
         "name": "Uwe Kloos",
-        "institution": "University of Reutlingen",
+        "institution": "Reutlingen University",
         "url": "https://dl.acm.org/profile/81466647554",
         "id": "81466647554"
       }
@@ -3653,7 +4895,7 @@
       "pp 1–8",
       "https://doi.org/10.1145/2968220.2968226"
     ],
-    "conference_title": "Proceedings of the 9th International Symposium on Visual Information Communication and Interaction, VINCI 2016, Dallas, TX, USA, September 24-26, 2016.",
+    "conference_title": "Proceedings of the 9th International Symposium on Visual Information Communication and Interaction, VINCI 2016, Dallas, TX, United States, September 24-26, 2016.",
     "publisher": "ACM",
     "conference_isbn": "978-1-4503-4149-3",
     "abstract": "Visualizing dynamic call graphs is typically done by providing a visual representation that shows the sequence of static graphs placed next to each other. Such a time-to-space mapping is useful to visually compare the graphs and to see the changing graph structure, but, negatively, a view on changes between all pairs of graphs in the sequence is not provided and detecting similarities of longer call graph subsequences is not well supported. In this paper we describe the dynamic call graph matrix that shows similarities and differences between graph pairs in a graph sequence by applying certain well-known set operations as well as fine-grained and coarse-grained graph views supporting visual scalability. We illustrate the usefulness of our technique by applying it to dynamic call graph data from the open source software project JUnit that contains several inherent dynamic call graph features worth investigating and hard to find by a side-by-side dynamic graph visualization alone.",
@@ -3692,7 +4934,7 @@
       "pp 9–16",
       "https://doi.org/10.1145/2968220.2968229"
     ],
-    "conference_title": "Proceedings of the 9th International Symposium on Visual Information Communication and Interaction, VINCI 2016, Dallas, TX, USA, September 24-26, 2016.",
+    "conference_title": "Proceedings of the 9th International Symposium on Visual Information Communication and Interaction, VINCI 2016, Dallas, TX, United States, September 24-26, 2016.",
     "publisher": "ACM",
     "conference_isbn": "978-1-4503-4149-3",
     "abstract": "Node-link diagrams are widely used for visualizing relational data in a wide range of fields. However, in many situations it is useful to provide set membership information for elements in networks. We present BranchingSets, an interactive visualization technique that uses visual encodings similar to Kelp Diagrams in order to augment traditional node-link diagrams with information about the categories that both nodes and links belong to. BranchingSets introduces novel user-driven methods to procedurally navigate the graph topology and to interactively inspect complex, hierarchical data associated with individual nodes. Results indicate that users find the technique engaging and easy to use. This is further confirmed by a quantitative study that compares the effectiveness of the visual encodings used in BranchingSets to other techniques for displaying set membership within node-link diagrams, finding our technique more accurate and more efficient for facilitating interactive queries on networks containing nodes that belong to multiple sets.",
@@ -3743,7 +4985,7 @@
       "pp 17–24",
       "https://doi.org/10.1145/2968220.2968242"
     ],
-    "conference_title": "Proceedings of the 9th International Symposium on Visual Information Communication and Interaction, VINCI 2016, Dallas, TX, USA, September 24-26, 2016.",
+    "conference_title": "Proceedings of the 9th International Symposium on Visual Information Communication and Interaction, VINCI 2016, Dallas, TX, United States, September 24-26, 2016.",
     "publisher": "ACM",
     "conference_isbn": "978-1-4503-4149-3",
     "abstract": "Reading academic paper is a daily task for researchers and graduate students. However, reading effectively can be challenging, particularly for novices in scientific research. For example, when readers are reading the related work section that cites a fair number of references in limited page space, they often need to flip back and forth between the text and the references and may also frequently search elsewhere for more information about the references. This increases the difficulty of understanding a paper. In this paper, we propose a narrative visualization system that helps the reading of academic papers. As a first step, we adopt narrative visualization to present literature review as interactive slides. Specifically, we propose a narrative structure with three levels of granularities that the reader can drill down or roll up freely. The logic flow of a slideshow can be organized based on the paper's presentation or citations. We demonstrate the effectiveness of our system through several case studies and user studies. The results show that the system allows users to quickly track and glance related work, making paper reading more effective and enjoyable.",
@@ -3806,7 +5048,7 @@
       "pp 25–29",
       "https://doi.org/10.1145/2968220.2968221"
     ],
-    "conference_title": "Proceedings of the 9th International Symposium on Visual Information Communication and Interaction, VINCI 2016, Dallas, TX, USA, September 24-26, 2016.",
+    "conference_title": "Proceedings of the 9th International Symposium on Visual Information Communication and Interaction, VINCI 2016, Dallas, TX, United States, September 24-26, 2016.",
     "publisher": "ACM",
     "conference_isbn": "978-1-4503-4149-3",
     "abstract": "In this article, we present a novel radial visualization of IDS alerts, named IDSPlanet, which helps administrators identify false positives, analyze attack patterns, and understand evolving network conditions. Inspired by celestial bodies, IDSPlanet is composed of Chrono Rings, Alert Continents, and Interactive Core. These components correspond with temporal features of alert types, patterns of behavior in affected hosts, and correlations amongst alert types, attackers and targets. The visualization provides an informative picture for the status of the network. In addition, IDSPlanet offers different interactions and monitoring modes, which allow users to interact with high-interest individuals in detail as well as to explore overall pattern.",
@@ -3832,7 +5074,7 @@
       },
       {
         "name": "Mai H Elshehaly",
-        "institution": "University of Maryland, Maryland, MD, USA",
+        "institution": "University of Maryland, Maryland, MD, United States",
         "url": "https://dl.acm.org/profile/81554544456",
         "id": "81554544456"
       },
@@ -3844,7 +5086,7 @@
       },
       {
         "name": "Denis Gracanin",
-        "institution": "Virginia Tech Blacksburg, VA, USA",
+        "institution": "Virginia Tech Blacksburg, VA, United States",
         "url": "https://dl.acm.org/profile/81100637283",
         "id": "81100637283"
       },
@@ -3863,7 +5105,7 @@
       "pp 30–34",
       "https://doi.org/10.1145/2968220.2968238"
     ],
-    "conference_title": "Proceedings of the 9th International Symposium on Visual Information Communication and Interaction, VINCI 2016, Dallas, TX, USA, September 24-26, 2016.",
+    "conference_title": "Proceedings of the 9th International Symposium on Visual Information Communication and Interaction, VINCI 2016, Dallas, TX, United States, September 24-26, 2016.",
     "publisher": "ACM",
     "conference_isbn": "978-1-4503-4149-3",
     "abstract": "Public transportation movement data provide a wealth of information and insights into many aspects of urban life and human behavior. However, huge amounts of raw data, coupled with incomplete or inconsistent records, may turn into an obstacle for the effective use of the available information. The need for effective movement data analysis has resulted in a large number of visual analytics tools and specialized views. There are still many challenges in public transportation and other kinds of cyclic movement data analysis. In this paper we address some of those challenges by presenting an improvement of the standard map view. This improved view is specifically designed to simplify and make the visual analysis of complex movement data easier to perform, especially when integrated in a coordinated multiple views tool and articulated together with other techniques. We illustrate the effectiveness of the view on public transportation data from Bahía Blanca, Argentina.",
@@ -3902,7 +5144,7 @@
       "pp 35–42",
       "https://doi.org/10.1145/2968220.2968224"
     ],
-    "conference_title": "Proceedings of the 9th International Symposium on Visual Information Communication and Interaction, VINCI 2016, Dallas, TX, USA, September 24-26, 2016.",
+    "conference_title": "Proceedings of the 9th International Symposium on Visual Information Communication and Interaction, VINCI 2016, Dallas, TX, United States, September 24-26, 2016.",
     "publisher": "ACM",
     "conference_isbn": "978-1-4503-4149-3",
     "abstract": "Image saliency is a biologically inspired concept for characterizing visual conspicuity of individual features in natural images, and provides us with a useful insight into the mechanism for directing instant visual attention from viewers. Nevertheless, this perceptual quality often remains to be further sophisticated especially for enhancing saliency in infographic images since they usually consist of relatively simple visual pattens that result in sharp image edges rather than smooth gradations in natural images. This paper presents a new approach to intentionally drawing visual attention for infographic images, in such a way that the corresponding important features naturally pop up in the image. The idea behind our approach is to introduce the concept of symmetry saliency for enhancing local symmetry inherent in such infographic images. This is accomplished by evaluating how much each image edge contributes to the symmetry saliency, and augmenting the corresponding image gradient in proportion to the amount of its contribution. The intensity field of the given image is then modulated with such enhanced image edges by solving the Poisson equation. Several examples together with statistics obtained through a user study demonstrate that our proposed approach successfully improves the readability of infographic images and effectively attracts visual attention to intended regions of interest.",
@@ -3928,7 +5170,7 @@
       },
       {
         "name": "Yu Qian",
-        "institution": "J. Craig Venter Institute, USA",
+        "institution": "J. Craig Venter Institute, United States",
         "url": "https://dl.acm.org/profile/81452599675",
         "id": "81452599675"
       },
@@ -3947,7 +5189,7 @@
       "pp 43–50",
       "https://doi.org/10.1145/2968220.2968248"
     ],
-    "conference_title": "Proceedings of the 9th International Symposium on Visual Information Communication and Interaction, VINCI 2016, Dallas, TX, USA, September 24-26, 2016.",
+    "conference_title": "Proceedings of the 9th International Symposium on Visual Information Communication and Interaction, VINCI 2016, Dallas, TX, United States, September 24-26, 2016.",
     "publisher": "ACM",
     "conference_isbn": "978-1-4503-4149-3",
     "abstract": "Clarity, simplicity and visual adjustability to the preference of the analyst are key aspects of the visualization techniques required by visual analytics in broad sense. Scatterplots and scatterplot matrices are commonly used for visually analyzing multidimensional multivariate data. This paper presents a new approach for deep visual exploration of large multi-attribute data using linkable scatterplots. Proposed method overcomes the limitations of the single scatterplot by providing more plot panels for better comparison while it reduces the unnecessary number of panels of the scatterplot matrix method. The panels are fully interactive and linking together where variables can be mapped on axes independently or on common visual attributes such as color, size and shape. We illustrate the effectiveness of proposed linkable scatterplot method on various data sets.",
@@ -3980,7 +5222,7 @@
       "pp 51–58",
       "https://doi.org/10.1145/2968220.2968230"
     ],
-    "conference_title": "Proceedings of the 9th International Symposium on Visual Information Communication and Interaction, VINCI 2016, Dallas, TX, USA, September 24-26, 2016.",
+    "conference_title": "Proceedings of the 9th International Symposium on Visual Information Communication and Interaction, VINCI 2016, Dallas, TX, United States, September 24-26, 2016.",
     "publisher": "ACM",
     "conference_isbn": "978-1-4503-4149-3",
     "abstract": "In 3D visualization of terrain, occlusion has detrimental impact on discovering, accessing, and spatially relating embedded data. This can lead to significant loss of information. To address this issue, we present visibility widgets: compact auxiliary views that visualize occluded data, their locations, and related properties, and thus, support users in revealing hidden information. Our widgets comprise different occlusion management strategies for detecting and analyzing invisible data inside as well as outside of the field of view. In addition, each widget is designed complementary and transient to facilitate interactive exploration and navigation while not monopolizing the user's attention. We demonstrate the application of our visibility widgets in a flexible visualization tool, focusing on visual exploration of hazardous weather phenomena in 3D terrain.",
@@ -3994,49 +5236,49 @@
     "authors": [
       {
         "name": "Ruth West",
-        "institution": "Univ. of North Texas",
+        "institution": "University of North Texas",
         "url": "https://dl.acm.org/profile/81320496219",
         "id": "81320496219"
       },
       {
         "name": "Meghan Kajihara",
-        "institution": "Univ. of North Texas",
+        "institution": "University of North Texas",
         "url": "https://dl.acm.org/profile/99659067772",
         "id": "99659067772"
       },
       {
         "name": "Max Parola",
-        "institution": "Univ. of North Texas",
+        "institution": "University of North Texas",
         "url": "https://dl.acm.org/profile/99658988047",
         "id": "99658988047"
       },
       {
         "name": "Kathryn Hays",
-        "institution": "Univ. of North Texas",
+        "institution": "University of North Texas",
         "url": "https://dl.acm.org/profile/99659067444",
         "id": "99659067444"
       },
       {
         "name": "Luke Hillard",
-        "institution": "Univ. of North Texas",
+        "institution": "University of North Texas",
         "url": "https://dl.acm.org/profile/99659068485",
         "id": "99659068485"
       },
       {
         "name": "Anne Carlew",
-        "institution": "Univ. of North Texas",
+        "institution": "University of North Texas",
         "url": "https://dl.acm.org/profile/99659067913",
         "id": "99659067913"
       },
       {
         "name": "Jeremey Deutsch",
-        "institution": "Univ. of North Texas",
+        "institution": "University of North Texas",
         "url": "https://dl.acm.org/profile/99659068986",
         "id": "99659068986"
       },
       {
         "name": "Brandon Lane",
-        "institution": "Univ. of North Texas",
+        "institution": "University of North Texas",
         "url": "https://dl.acm.org/profile/99659068083",
         "id": "99659068083"
       },
@@ -4073,7 +5315,7 @@
       "pp 59–66",
       "https://doi.org/10.1145/2968220.2968235"
     ],
-    "conference_title": "Proceedings of the 9th International Symposium on Visual Information Communication and Interaction, VINCI 2016, Dallas, TX, USA, September 24-26, 2016.",
+    "conference_title": "Proceedings of the 9th International Symposium on Visual Information Communication and Interaction, VINCI 2016, Dallas, TX, United States, September 24-26, 2016.",
     "publisher": "ACM",
     "conference_isbn": "978-1-4503-4149-3",
     "abstract": "The output of 3D volume segmentation is crucial to a wide range of endeavors. Producing accurate segmentations often proves to be both inefficient and challenging, in part due to lack of imaging data quality (contrast and resolution), and because of ambiguity in the data that can only be resolved with higher-level knowledge of the structure and the context wherein it resides. Automatic and semi-automatic approaches are improving, but in many cases still fail or require substantial manual clean-up or intervention. Expert manual segmentation and review is therefore still the gold standard for many applications. Unfortunately, existing tools (both custom-made and commercial) are often designed based on the underlying algorithm, not the best method for expressing higher-level intention. Our goal is to analyze manual (or semi-automatic) segmentation to gain a better understanding of both low-level (perceptual tasks and actions) and high-level decision making. This can be used to produce segmentation tools that are more accurate, efficient, and easier to use. Questioning or observation alone is insufficient to capture this information, so we utilize a hybrid capture protocol that blends observation, surveys, and eye tracking. We then developed, and validated, data coding schemes capable of discerning low-level actions and overall task structures.",
@@ -4112,7 +5354,7 @@
       "pp 67–74",
       "https://doi.org/10.1145/2968220.2968236"
     ],
-    "conference_title": "Proceedings of the 9th International Symposium on Visual Information Communication and Interaction, VINCI 2016, Dallas, TX, USA, September 24-26, 2016.",
+    "conference_title": "Proceedings of the 9th International Symposium on Visual Information Communication and Interaction, VINCI 2016, Dallas, TX, United States, September 24-26, 2016.",
     "publisher": "ACM",
     "conference_isbn": "978-1-4503-4149-3",
     "abstract": "Using mobile devices to collaborate with other users on a large shared screen supports collaborative tasks and prevents interference among users. Various intuitive gestures have been proposed to support interaction across a tabletop and a mobile device. Different from previous studies that focused on designing gestures, this paper investigates the fundamental difference between one-handed and two-handed interaction styles that involve a tabletop and a mobile device. In the study, we consider two factors, i.e., the selection order (sequential or random order) and the density level (sparse or dense layout), which form four tasks. The study was conducted as a pretest-posttest, repeated-measures experiment. All the participants go through all the tasks using both interaction styles. During the experiment, both the completion time and the error rate in each task with each interaction style are recorded. In addition, the IBM Post-Study Usability Questionnaire (PSSUQ) is used to evaluate the subjective satisfaction on each interaction style. The overall PSSUQ score indicates that both interaction styles receive positive feedback with high user satisfaction. The one-handed interaction is significantly more efficient than the two-handed interaction in all four tasks. On the other hand, the two-handed interaction has a lower error rate than the one-handed interaction, especially significantly lower in a dense layout.",
@@ -4151,7 +5393,7 @@
       "pp 75–82",
       "https://doi.org/10.1145/2968220.2968239"
     ],
-    "conference_title": "Proceedings of the 9th International Symposium on Visual Information Communication and Interaction, VINCI 2016, Dallas, TX, USA, September 24-26, 2016.",
+    "conference_title": "Proceedings of the 9th International Symposium on Visual Information Communication and Interaction, VINCI 2016, Dallas, TX, United States, September 24-26, 2016.",
     "publisher": "ACM",
     "conference_isbn": "978-1-4503-4149-3",
     "abstract": "Maps have traditionally been used for representing the surface of the earth and for displaying geographical information. Apart from this obvious purpose, the metaphor of maps has been applied to other uses as well, such as information visualisation and novel user interfaces. Various methods exist for creating geographic map-like visualisations. Yet there is little understanding on how people perceive these graphical presentations as geographic maps, and how to make these information visualisations look like geographic maps. We attempt to find preliminary answers on these issues by conducting a user study with a series of map-like visualisations. In this paper, we report on the results of this study and reveal the factors that have an impact on the human perception of visualisations that are designed to resemble geographic maps. Based on this, we propose design suggestions for the future development of map-like visualisations.",
@@ -4184,7 +5426,7 @@
       "pp 83–90",
       "https://doi.org/10.1145/2968220.2968240"
     ],
-    "conference_title": "Proceedings of the 9th International Symposium on Visual Information Communication and Interaction, VINCI 2016, Dallas, TX, USA, September 24-26, 2016.",
+    "conference_title": "Proceedings of the 9th International Symposium on Visual Information Communication and Interaction, VINCI 2016, Dallas, TX, United States, September 24-26, 2016.",
     "publisher": "ACM",
     "conference_isbn": "978-1-4503-4149-3",
     "abstract": "A high quality decision-making requires accurate estimations of relative values. When one estimates relative values relying on visual stimuli, perceptual bias may weaken the accuracy and bring about risks. This research explores how people estimate relative values heuristically using visual cues with different dimensional information, i.e., linear, areal and volumetric information. We conduct experiments to empirically testify the influences of dimensional information on perceptual biases. First, we confirm the conspicuity of areal information. When instructed to estimate rates exclusively relying on either linear or volumetric information, people would inevitably be influenced by the corresponding rates determined by areal information. Second, we provide evidences that visual cues implying depth would lead to overestimates. This research provides implications for designers to enhance the power of visual persuasions, and for users to improve their decision making quality.",
@@ -4229,7 +5471,7 @@
       "pp 91–95",
       "https://doi.org/10.1145/2968220.2968241"
     ],
-    "conference_title": "Proceedings of the 9th International Symposium on Visual Information Communication and Interaction, VINCI 2016, Dallas, TX, USA, September 24-26, 2016.",
+    "conference_title": "Proceedings of the 9th International Symposium on Visual Information Communication and Interaction, VINCI 2016, Dallas, TX, United States, September 24-26, 2016.",
     "publisher": "ACM",
     "conference_isbn": "978-1-4503-4149-3",
     "abstract": "With the increasing availability and popularity of visualization tools, it is easier than ever to create visual representations of data. The available tools and libraries work for a range of users from non-programmers to those with significant programming experience. A major challenge, however, is that a majority of users frequently stick with the default settings when using software.",
@@ -4249,7 +5491,7 @@
       },
       {
         "name": "Cong Xie",
-        "institution": "Department of Computer Science, Stony Brook University, Stony Brook, USA",
+        "institution": "Department of Computer Science, Stony Brook University, Stony Brook, United States",
         "url": "https://dl.acm.org/profile/99659067824",
         "id": "99659067824"
       },
@@ -4286,7 +5528,7 @@
       "pp 96–103",
       "https://doi.org/10.1145/2968220.2968222"
     ],
-    "conference_title": "Proceedings of the 9th International Symposium on Visual Information Communication and Interaction, VINCI 2016, Dallas, TX, USA, September 24-26, 2016.",
+    "conference_title": "Proceedings of the 9th International Symposium on Visual Information Communication and Interaction, VINCI 2016, Dallas, TX, United States, September 24-26, 2016.",
     "publisher": "ACM",
     "conference_isbn": "978-1-4503-4149-3",
     "abstract": "Association rules have been widely used for detecting relations between attribute-value pairs of categorical datasets. Existing solutions of mining interesting association rules are based on the support-confidence theory. However, it is non-trivial for the user to understand and modify the rules or the results of intermediate steps in the mining process, because the interestingness of rules might differ largely for various tasks and users. In this paper we propose to reinforce conventional association rule mining process by mapping the entire process into a visualization assisted loop, with which the user workload for modulating parameters and mining rules is reduced, and the mining efficiency is greatly improved. A matrix-based visualization technique is employed to encode the measure computation value, the data distribution and the intermediate results. We also design a set of visual exploration tools to support interactively inspection and manipulation of association measures, constraints of different types, and the results of intermediate steps. The effectiveness of our approach is demonstrated with various scenarios.",
@@ -4312,7 +5554,7 @@
       },
       {
         "name": "Jürgen Bernard",
-        "institution": "TU Darmstadt, Germany",
+        "institution": "Technical University of Darmstadt, Germany",
         "url": "https://dl.acm.org/profile/81442607723",
         "id": "81442607723"
       },
@@ -4330,7 +5572,7 @@
       },
       {
         "name": "Jörn Kohlhammer",
-        "institution": "Fraunhofer IGD & TU Darmstadt, Germany",
+        "institution": "Fraunhofer IGD & Technical University of Darmstadt, Germany",
         "url": "https://dl.acm.org/profile/81332509409",
         "id": "81332509409"
       }
@@ -4343,7 +5585,7 @@
       "pp 104–111",
       "https://doi.org/10.1145/2968220.2968223"
     ],
-    "conference_title": "Proceedings of the 9th International Symposium on Visual Information Communication and Interaction, VINCI 2016, Dallas, TX, USA, September 24-26, 2016.",
+    "conference_title": "Proceedings of the 9th International Symposium on Visual Information Communication and Interaction, VINCI 2016, Dallas, TX, United States, September 24-26, 2016.",
     "publisher": "ACM",
     "conference_isbn": "978-1-4503-4149-3",
     "abstract": "The process of political decision making is often complex and tedious. The policy process consists of multiple steps, most of them are highly iterative. In addition, different stakeholder groups are involved in political decision making and contribute to the process. A series of textual documents accompanies the process. Examples are official documents, discussions, scientific reports, external reviews, newspaper articles, or economic white papers. Experts from the political domain report that this plethora of textual documents often exceeds their ability to keep track of the entire policy process. We present PolicyLine, a visualization system that supports different stakeholder groups in overview-and-detail tasks for large sets of textual documents in the political decision making process. In a longitudinal design study conducted together with domain experts in political decision making, we identified missing analytical functionality on the basis of a problem and domain characterization. In an iterative design phase, we created PolicyLine in close collaboration with the domain experts. Finally, we present the results of three evaluation rounds, and reflect on our collaborative visualization system.",
@@ -4357,13 +5599,13 @@
     "authors": [
       {
         "name": "Jiangen He",
-        "institution": "Drexel University, Philadelphia, Pennsylvania, USA",
+        "institution": "Drexel University, Philadelphia, Pennsylvania, United States",
         "url": "https://dl.acm.org/profile/99659191638",
         "id": "99659191638"
       },
       {
         "name": "Chaomei Chen",
-        "institution": "Drexel University, Philadelphia, Pennsylvania, USA",
+        "institution": "Drexel University, Philadelphia, Pennsylvania, United States",
         "url": "https://dl.acm.org/profile/81100119664",
         "id": "81100119664"
       }
@@ -4376,7 +5618,7 @@
       "pp 112–116",
       "https://doi.org/10.1145/2968220.2968244"
     ],
-    "conference_title": "Proceedings of the 9th International Symposium on Visual Information Communication and Interaction, VINCI 2016, Dallas, TX, USA, September 24-26, 2016.",
+    "conference_title": "Proceedings of the 9th International Symposium on Visual Information Communication and Interaction, VINCI 2016, Dallas, TX, United States, September 24-26, 2016.",
     "publisher": "ACM",
     "conference_isbn": "978-1-4503-4149-3",
     "abstract": "Spatially and temporally relevant text data generated on the Internet by users worldwide is of great value for investigating and understanding emerging trends of user interests and how they may evolve over time and space. However, exploring the spatiotemporal text data and characterizing the evolution of topics over time and space are challenging due to the complexity of such data and associated activities. This paper proposes a new approach to exploring the spatiotemporal text data with visual filters. We introduce a notion of topic trajectory to depict the spatiotemporal evolution of topics. Multiple coordinated visualizations provided in our visualization system enable users to explore topic trajectories and develop their contextual awareness in terms of how information flows across different regions. We demonstrate the use of our system with an analysis of a dataset contributed by users of widely used science mapping software CiteSpace.",
@@ -4439,7 +5681,7 @@
       "pp 117–121",
       "https://doi.org/10.1145/2968220.2968246"
     ],
-    "conference_title": "Proceedings of the 9th International Symposium on Visual Information Communication and Interaction, VINCI 2016, Dallas, TX, USA, September 24-26, 2016.",
+    "conference_title": "Proceedings of the 9th International Symposium on Visual Information Communication and Interaction, VINCI 2016, Dallas, TX, United States, September 24-26, 2016.",
     "publisher": "ACM",
     "conference_isbn": "978-1-4503-4149-3",
     "abstract": "Social network is rapidly growing to be a major platform for the dissemination of breaking events. Numerous studies focus on the user's influence in different types of social network and visualize user and event propagation process. However, little works is done to visualize and analyze the social influence of breaking events. To fill this gap, we propose VIBES, a hybrid model that combines both event popularity and event public attention to quantitatively measure and visualize event social influence through time at both macroscopic and microscopic levels. Experimental results based on two real-world event datasets from Weibo validate the effectiveness of VIBES for accurately capturing breaking sub-events as well as visualizing event social influence from different temporal granularity. The visualization results produced by VIBES are not only useful for public users to have a better understanding of breaking events, but also helpful for mass media and and government agencies to mediate and stabilize the outbreak of event.",
@@ -4478,7 +5720,7 @@
       "pp 122–129",
       "https://doi.org/10.1145/2968220.2968228"
     ],
-    "conference_title": "Proceedings of the 9th International Symposium on Visual Information Communication and Interaction, VINCI 2016, Dallas, TX, USA, September 24-26, 2016.",
+    "conference_title": "Proceedings of the 9th International Symposium on Visual Information Communication and Interaction, VINCI 2016, Dallas, TX, United States, September 24-26, 2016.",
     "publisher": "ACM",
     "conference_isbn": "978-1-4503-4149-3",
     "abstract": "Image mosaicing involves splitting an input image into a set of tiles, then replacing each tile with another image from a large dataset so that, when viewed from a distance, the resulting image resembles the original. We present a new approach for generating image mosaics using variable sized tiles made up from patches taken from photographs, paintings and texture images. This is different from previous work, where either simple regular tiling or adaptive tiling based on variations of RGB color was used. We propose an adaptive tiling theme by means of region entropy. In order to avoid the mismatch in roughness between the sub-image in the tile region of the input image and tile images in the dataset that may arise in the previous RGB color based image descriptors, we introduce the region entropy into the image descriptor to achieve better matching in both color and roughness. We also propose a new metric to measure the quality of the image mosaic which takes both the similarity and the mutual information between the generated mosaics and input images into account. The final mosaic images in this work are obtained by optimizing an objective function based on this metric.",
@@ -4498,7 +5740,7 @@
       },
       {
         "name": "K. Zhang",
-        "institution": "Department of Computer Science, The University of Texas at Dallas, Richardson, TX, USA",
+        "institution": "Department of Computer Science, The University of Texas at Dallas, Richardson, TX, United States",
         "url": "https://dl.acm.org/profile/81350576955",
         "id": "81350576955"
       }
@@ -4511,7 +5753,7 @@
       "pp 130–137",
       "https://doi.org/10.1145/2968220.2968232"
     ],
-    "conference_title": "Proceedings of the 9th International Symposium on Visual Information Communication and Interaction, VINCI 2016, Dallas, TX, USA, September 24-26, 2016.",
+    "conference_title": "Proceedings of the 9th International Symposium on Visual Information Communication and Interaction, VINCI 2016, Dallas, TX, United States, September 24-26, 2016.",
     "publisher": "ACM",
     "conference_isbn": "978-1-4503-4149-3",
     "abstract": "In this paper, we present a programmed experiment and the results on automatic generation of Joan Miro style of surrealism. Combining the artist's aesthetic theory with the authors' own understanding, the paper analyzes the characteristics of Miro's work and proposes a process modeling approach that consists of four steps: structured drawing, adaptive coloring, space filling and noise injection. The generation process is described in details and sample generated images styled on Miro's paintings are also demonstrated and discussed. By extracting and coding pictorial elements in paintings of Miro, different styled images could be generated under different sets of parameters.",
@@ -4556,7 +5798,7 @@
       "pp 138–139",
       "https://doi.org/10.1145/2968220.2968227"
     ],
-    "conference_title": "Proceedings of the 9th International Symposium on Visual Information Communication and Interaction, VINCI 2016, Dallas, TX, USA, September 24-26, 2016.",
+    "conference_title": "Proceedings of the 9th International Symposium on Visual Information Communication and Interaction, VINCI 2016, Dallas, TX, United States, September 24-26, 2016.",
     "publisher": "ACM",
     "conference_isbn": "978-1-4503-4149-3",
     "abstract": "How to clearly present the internal structure of knowledge graph is particularly important, however, the current visualization researches about it are rare. We construct education knowledge graph utilizing extracted entities and entity relations, and construct a visual analysis platform, EduVis. In EduVis, we design and implement a) a layout of events network based on topological structure to explore in details, b) a layout of event network based on timeline to explore time information, c) a click tracking path to record the history of users' clicks and help users backtrack.",
@@ -4595,7 +5837,7 @@
       "pp 140–141",
       "https://doi.org/10.1145/2968220.2968231"
     ],
-    "conference_title": "Proceedings of the 9th International Symposium on Visual Information Communication and Interaction, VINCI 2016, Dallas, TX, USA, September 24-26, 2016.",
+    "conference_title": "Proceedings of the 9th International Symposium on Visual Information Communication and Interaction, VINCI 2016, Dallas, TX, United States, September 24-26, 2016.",
     "publisher": "ACM",
     "conference_isbn": "978-1-4503-4149-3",
     "abstract": "We propose a radial method for visualizing time-series data on mobile devices. We display a single \"snapshot\" of the data at a given moment in time, and allow the user to easily navigate forwards and backwards in time to view other snapshots. Transitions from one snapshot to another are smoothly animated to preserve context. As a proof of concept of this idea, we have implemented U.S. Supreme Court, a mobile app that lets users visualize the membership of the United States Supreme Court at any date in history.",
@@ -4640,7 +5882,7 @@
       "pp 142–143",
       "https://doi.org/10.1145/2968220.2968233"
     ],
-    "conference_title": "Proceedings of the 9th International Symposium on Visual Information Communication and Interaction, VINCI 2016, Dallas, TX, USA, September 24-26, 2016.",
+    "conference_title": "Proceedings of the 9th International Symposium on Visual Information Communication and Interaction, VINCI 2016, Dallas, TX, United States, September 24-26, 2016.",
     "publisher": "ACM",
     "conference_isbn": "978-1-4503-4149-3",
     "abstract": "We present an application of the generalized plot matrix (GPLOM) technique for visualizing a multidimensional dataset containing 202 YouTube videos from the \"Statistics and Social Network of YouTube Videos\" project. The web-based visualization provides users an easy to use interface to explore the data. Using our tool, we found several interesting relationships between the number of views, comments, ratings and stars. Visit git.io/vwDqw for a live demo.",
@@ -4667,7 +5909,7 @@
       "pp 144–145",
       "https://doi.org/10.1145/2968220.2968237"
     ],
-    "conference_title": "Proceedings of the 9th International Symposium on Visual Information Communication and Interaction, VINCI 2016, Dallas, TX, USA, September 24-26, 2016.",
+    "conference_title": "Proceedings of the 9th International Symposium on Visual Information Communication and Interaction, VINCI 2016, Dallas, TX, United States, September 24-26, 2016.",
     "publisher": "ACM",
     "conference_isbn": "978-1-4503-4149-3",
     "abstract": "An ideal information visualization is supposed to convey information clearly and effectively by enhancing viewers engagement in locating, recall, and compare. With no doubts, color plays a very important role in visual communication. This research explores the advantage of certain color hues on short-term memory in information visualization.",
@@ -4700,7 +5942,7 @@
       "pp 146–147",
       "https://doi.org/10.1145/2968220.2968243"
     ],
-    "conference_title": "Proceedings of the 9th International Symposium on Visual Information Communication and Interaction, VINCI 2016, Dallas, TX, USA, September 24-26, 2016.",
+    "conference_title": "Proceedings of the 9th International Symposium on Visual Information Communication and Interaction, VINCI 2016, Dallas, TX, United States, September 24-26, 2016.",
     "publisher": "ACM",
     "conference_isbn": "978-1-4503-4149-3",
     "abstract": "With the rapid development of economy in China, environmental problems are increasingly affecting people's daily life and work. Xuecheng area of Shandong Zao Zhuang is one of the oldest coal towns in China. Coal income is one of the main sources of local economy. Heavy dusts, produced by the coal mines and large cement plants, are seriously affecting the air quality index (AQI) and impairing local residents' health. Consequently, people in this area have to reduce their outdoor activities, which has led to loss of the town's vitality. In this paper, based on design strategy, the source of inspiration and medium and from the overall perspective, we design an innovative ecological Street Community Park, applying the concept of \"Cradle to Cradle\".",
@@ -4733,7 +5975,7 @@
       "pp 148–149",
       "https://doi.org/10.1145/2968220.2968245"
     ],
-    "conference_title": "Proceedings of the 9th International Symposium on Visual Information Communication and Interaction, VINCI 2016, Dallas, TX, USA, September 24-26, 2016.",
+    "conference_title": "Proceedings of the 9th International Symposium on Visual Information Communication and Interaction, VINCI 2016, Dallas, TX, United States, September 24-26, 2016.",
     "publisher": "ACM",
     "conference_isbn": "978-1-4503-4149-3",
     "abstract": "There are benefits to visualizing and exploring scientific data in immersive display systems. Interactive data analytics further exploit these benefits. Direct interaction techniques enable scientists to leverage their visual-cognitive skills for identifying and selecting visually rendered data. However, fatigue, data density, rendering, and visual encoding issues may result in reduced usage of immersive scientific visualizations. In this paper, we present algorithmic details of a novel volume selection interaction, implementation details, and discuss use case scenario. Our technique seeks to improve usage of immersive visualizations for scientific discovery and insight.",
@@ -4747,13 +5989,13 @@
     "authors": [
       {
         "name": "Sarah Hong",
-        "institution": "Highland Park High School, Dallas, TX, USA",
+        "institution": "Highland Park High School, Dallas, TX, United States",
         "url": "https://dl.acm.org/profile/99659067636",
         "id": "99659067636"
       },
       {
         "name": "Yuyi Liu",
-        "institution": "John Paul II High School, Piano, TX, USA",
+        "institution": "John Paul II High School, Piano, TX, United States",
         "url": "https://dl.acm.org/profile/99659067860",
         "id": "99659067860"
       },
@@ -4772,7 +6014,7 @@
       "pp 150–151",
       "https://doi.org/10.1145/2968220.2972225"
     ],
-    "conference_title": "Proceedings of the 9th International Symposium on Visual Information Communication and Interaction, VINCI 2016, Dallas, TX, USA, September 24-26, 2016.",
+    "conference_title": "Proceedings of the 9th International Symposium on Visual Information Communication and Interaction, VINCI 2016, Dallas, TX, United States, September 24-26, 2016.",
     "publisher": "ACM",
     "conference_isbn": "978-1-4503-4149-3",
     "abstract": "TED Talks are short, powerful talks given by some of the world's brightest minds - scientists, philanthropists, businessmen, artists, and many others. Funded by members and advertising, these talks are free to access by the public on the TED website and TED YouTube channel, and many videos have become viral phenomena. In this research project, we perform a visual analysis of TED Talk videos and playlists to gain a good understanding of the trends and relationships between TED Talk topics.",
@@ -4805,7 +6047,7 @@
       "pp 152–153",
       "https://doi.org/10.1145/2968220.2972226"
     ],
-    "conference_title": "Proceedings of the 9th International Symposium on Visual Information Communication and Interaction, VINCI 2016, Dallas, TX, USA, September 24-26, 2016.",
+    "conference_title": "Proceedings of the 9th International Symposium on Visual Information Communication and Interaction, VINCI 2016, Dallas, TX, United States, September 24-26, 2016.",
     "publisher": "ACM",
     "conference_isbn": "978-1-4503-4149-3",
     "abstract": "This paper gives a discussion about the methods of color mapping from image input to visual simulation renderings in the early-stage trial of a CAD tool for the new material called Epoxy-Terrazzo Artistry.",
@@ -4838,7 +6080,7 @@
       "pp 154–155",
       "https://doi.org/10.1145/2968220.2968234"
     ],
-    "conference_title": "Proceedings of the 9th International Symposium on Visual Information Communication and Interaction, VINCI 2016, Dallas, TX, USA, September 24-26, 2016.",
+    "conference_title": "Proceedings of the 9th International Symposium on Visual Information Communication and Interaction, VINCI 2016, Dallas, TX, United States, September 24-26, 2016.",
     "publisher": "ACM",
     "conference_isbn": "978-1-4503-4149-3",
     "abstract": "This paper interpreted the visual construction of tobacco control public service ads from the perspective of multimodal discourse analysis. It analyzed the dilemma of tobacco control, made interpretation of images in the public service ads from three perspectives, namely, reproduction sense, interactive sense and composition sense. With the case study of the tobacco control advertising of DNF, this paper made voice analysis as well as the analysis of advertising visual communication power construction from three different perspectives. The rational use of visual grammar can enhance the communication power of tobacco advertising, thus psychologically affecting the audiences' attitude towards tobacco.",
@@ -4871,7 +6113,7 @@
       "pp 156",
       "https://doi.org/10.1145/2968220.2968249"
     ],
-    "conference_title": "Proceedings of the 9th International Symposium on Visual Information Communication and Interaction, VINCI 2016, Dallas, TX, USA, September 24-26, 2016.",
+    "conference_title": "Proceedings of the 9th International Symposium on Visual Information Communication and Interaction, VINCI 2016, Dallas, TX, United States, September 24-26, 2016.",
     "publisher": "ACM",
     "conference_isbn": "978-1-4503-4149-3",
     "abstract": "Visualization plays an important role in discovery and insight. As a tool, visualization is often times utilized as a light in a sea of data providing insight to large, complex datasets. The scientific community and society at large are the beneficiaries of the utility visualization brings. As more and more data is created and consumed persons with knowledge of the visualization process, applications, methods and techniques will continue to be in demand in all fields with data visualization needs. The purposes of this panel are: (1) to discuss the need for facilitating visualization capacity building: incorporating visualization early and often into computing and other educational programs to equip students with transferrable skillsets that are in demand in the global workforce and (2) to facilitate a discussion on what knowledge base is needed to build and strengthen visualization capacity of users in visualization application domains.",
@@ -5359,7 +6601,7 @@
       },
       {
         "name": "K. Zhang",
-        "institution": "Department of Computer Science, The University of Texas at Dallas, USA",
+        "institution": "Department of Computer Science, The University of Texas at Dallas, United States",
         "url": "https://dl.acm.org/profile/81350576955",
         "id": "81350576955"
       }
@@ -5511,7 +6753,7 @@
       },
       {
         "name": "K. Zhang",
-        "institution": "Department of Computer Science, The University of Texas at Dallas, Richardson, Texas 75080-3021, USA, +1-972-883 6351",
+        "institution": "Department of Computer Science, The University of Texas at Dallas, Richardson, Texas 75080-3021, United States, +1-972-883 6351",
         "url": "https://dl.acm.org/profile/81350576955",
         "id": "81350576955"
       }
@@ -5638,7 +6880,7 @@
     "authors": [
       {
         "name": "Yukari Shirota",
-        "institution": "Faculty of Economics Gakushuin University 1-7-1, Mejiro, Toshima-ku Tokyo, Japan",
+        "institution": "Gakushuin University, Mejiro, Toshima-ku Tokyo, Japan",
         "url": "https://dl.acm.org/profile/81100229818",
         "id": "81100229818"
       },
@@ -5650,13 +6892,13 @@
       },
       {
         "name": "Nobuhide Tanaka",
-        "institution": "Faculty of Economics Gakushuin University",
+        "institution": "Gakushuin University",
         "url": "https://dl.acm.org/profile/99658767957",
         "id": "99658767957"
       },
       {
         "name": "Michiya Morita",
-        "institution": "Faculty of Economics Gakushuin University",
+        "institution": "Gakushuin University",
         "url": "https://dl.acm.org/profile/99658767496",
         "id": "99658767496"
       }
@@ -6086,7 +7328,7 @@
       },
       {
         "name": "K. Zhang",
-        "institution": "Department of Computer Science, The University of Texas at Dallas, USA",
+        "institution": "Department of Computer Science, The University of Texas at Dallas, United States",
         "url": "https://dl.acm.org/profile/81350576955",
         "id": "81350576955"
       }
@@ -6188,7 +7430,7 @@
     "authors": [
       {
         "name": "Brady Cannon",
-        "institution": "Micron Technology Inc. 8000 S Federal Way, Boise, ID 83716",
+        "institution": "Micron Technology Incorporated, Boise, ID 83716",
         "url": "https://dl.acm.org/profile/99658638266",
         "id": "99658638266"
       },
@@ -6244,7 +7486,7 @@
       },
       {
         "name": "Quang Vinh Nguyen",
-        "institution": "University of Western Sydney, Locked Bag 1797, South Penrith DC, NSW 1797, Australia",
+        "institution": "Western Sydney University, Locked Bag 1797, South Penrith DC, NSW 1797, Australia",
         "url": "https://dl.acm.org/profile/81100511332",
         "id": "81100511332"
       },
@@ -6364,7 +7606,7 @@
       },
       {
         "name": "Panpan Xu",
-        "institution": "The Hong Kong University of Science and Technology",
+        "institution": "Hong Kong University of Science and Technology",
         "url": "https://dl.acm.org/profile/81487645560",
         "id": "81487645560"
       },
@@ -6376,7 +7618,7 @@
       },
       {
         "name": "Huamin Qu",
-        "institution": "The Hong Kong University of Science and Technology",
+        "institution": "Hong Kong University of Science and Technology",
         "url": "https://dl.acm.org/profile/81100337801",
         "id": "81100337801"
       }
@@ -6554,37 +7796,37 @@
     "authors": [
       {
         "name": "Andrew S Brunker",
-        "institution": "School of Computing, Engineering and Mathematics, University of Western Sydney",
+        "institution": "School of Computing, Engineering and Mathematics, Western Sydney University",
         "url": "https://dl.acm.org/profile/99658641837",
         "id": "99658641837"
       },
       {
         "name": "Quang Vinh Nguyen",
-        "institution": "MARCS Institute & School of Computing, Engineering and Mathematics, University of Western Sydney",
+        "institution": "MARCS Institute & School of Computing, Engineering and Mathematics, Western Sydney University",
         "url": "https://dl.acm.org/profile/81100511332",
         "id": "81100511332"
       },
       {
         "name": "Anthony J Maeder",
-        "institution": "School of Computing, Engineering and Mathematics, University of Western Sydney",
+        "institution": "School of Computing, Engineering and Mathematics, Western Sydney University",
         "url": "https://dl.acm.org/profile/81100346001",
         "id": "81100346001"
       },
       {
         "name": "Rhys Tague",
-        "institution": "School of Computing, Engineering and Mathematics, University of Western Sydney",
+        "institution": "School of Computing, Engineering and Mathematics, Western Sydney University",
         "url": "https://dl.acm.org/profile/81479660336",
         "id": "81479660336"
       },
       {
         "name": "Gregory S Kolt",
-        "institution": "School of Science and Health, University of Western Sydney",
+        "institution": "School of Science and Health, Western Sydney University",
         "url": "https://dl.acm.org/profile/99658642575",
         "id": "99658642575"
       },
       {
         "name": "Trevor N Savage",
-        "institution": "School of Science and Health, University of Western Sydney",
+        "institution": "School of Science and Health, Western Sydney University",
         "url": "https://dl.acm.org/profile/99658640354",
         "id": "99658640354"
       },
@@ -6608,7 +7850,7 @@
       },
       {
         "name": "Richard R Rosenkranz",
-        "institution": "College of Human Ecology, Kansas State University, USA",
+        "institution": "College of Human Ecology, Kansas State University, United States",
         "url": "https://dl.acm.org/profile/99658640509",
         "id": "99658640509"
       },
@@ -6708,7 +7950,7 @@
       },
       {
         "name": "Cong Chen",
-        "institution": "Department of Computer Science, University of Texas at Dallas, Richardson, TX 75080, USA",
+        "institution": "Department of Computer Science, University of Texas at Dallas, Richardson, TX 75080, United States",
         "url": "https://dl.acm.org/profile/81549576556",
         "id": "81549576556"
       },
@@ -6720,7 +7962,7 @@
       },
       {
         "name": "K. Zhang",
-        "institution": "School of Software Engineering, Tianjin University, Tianjin, China and Department of Computer Science, University of Texas at Dallas, Richardson, TX 75080, USA",
+        "institution": "School of Software Engineering, Tianjin University, Tianjin, China and Department of Computer Science, University of Texas at Dallas, Richardson, TX 75080, United States",
         "url": "https://dl.acm.org/profile/81350576955",
         "id": "81350576955"
       }
@@ -7076,19 +8318,19 @@
     "authors": [
       {
         "name": "Sakib Jalil",
-        "institution": "Discipline of IT, James Cook University Townsville, Queensland, Australia +61 (07) 4781 6905",
+        "institution": "Discipline of IT, James Cook University, Queensland, Australia +61 (07) 4781 6905",
         "url": "https://dl.acm.org/profile/99658641472",
         "id": "99658641472"
       },
       {
         "name": "Trina S Myers",
-        "institution": "Discipline of IT, James Cook University Townsville, Queensland, Australia +61 (07) 4781 6908",
+        "institution": "Discipline of IT, James Cook University, Queensland, Australia +61 (07) 4781 6908",
         "url": "https://dl.acm.org/profile/81333490090",
         "id": "81333490090"
       },
       {
         "name": "Ian M Atkinson",
-        "institution": "e-Research Centre, James Cook University Townsville, Queensland, Australia +61 (07) 4781 4551",
+        "institution": "e-Research Centre, James Cook University, Queensland, Australia +61 (07) 4781 4551",
         "url": "https://dl.acm.org/profile/81100309773",
         "id": "81100309773"
       }
@@ -7202,19 +8444,19 @@
     "authors": [
       {
         "name": "Dylan Mathiesen",
-        "institution": "School of Business (IT), James Cook University Townsville, Queensland, Australia",
+        "institution": "School of Business (IT), James Cook University, Queensland, Australia",
         "url": "https://dl.acm.org/profile/81550383556",
         "id": "81550383556"
       },
       {
         "name": "Trina S Myers",
-        "institution": "Discipline of IT, James Cook University Townsville, Queensland, Australia +61 (07) 4781 6908",
+        "institution": "Discipline of IT, James Cook University, Queensland, Australia +61 (07) 4781 6908",
         "url": "https://dl.acm.org/profile/81333490090",
         "id": "81333490090"
       },
       {
         "name": "Ian M Atkinson",
-        "institution": "e-Research Centre, James Cook University Townsville, Queensland, Australia +61 (07) 4781 4551",
+        "institution": "e-Research Centre, James Cook University, Queensland, Australia +61 (07) 4781 4551",
         "url": "https://dl.acm.org/profile/81100309773",
         "id": "81100309773"
       }
@@ -7844,13 +9086,13 @@
       },
       {
         "name": "Christopher D'Souza",
-        "institution": "University of Western Sydney, Penrith, NSW, Australia and Australian Catholic University, North Sydney, NSW, Australia",
+        "institution": "Western Sydney University, Penrith, NSW, Australia and Australian Catholic University, North Sydney, NSW, Australia",
         "url": "https://dl.acm.org/profile/82459248057",
         "id": "82459248057"
       },
       {
         "name": "Athula Ginige",
-        "institution": "University of Western Sydney, Penrith, NSW, Australia",
+        "institution": "Western Sydney University, Penrith, NSW, Australia",
         "url": "https://dl.acm.org/profile/81100317930",
         "id": "81100317930"
       }
@@ -8165,13 +9407,13 @@
       },
       {
         "name": "Simeon J Simoff",
-        "institution": "University of Western Sydney",
+        "institution": "Western Sydney University",
         "url": "https://dl.acm.org/profile/81100077710",
         "id": "81100077710"
       },
       {
         "name": "Quang Vinh Nguyen",
-        "institution": "University of Western Sydney",
+        "institution": "Western Sydney University",
         "url": "https://dl.acm.org/profile/81100511332",
         "id": "81100511332"
       },
@@ -10647,13 +11889,13 @@
     "authors": [
       {
         "name": "Quang Vinh Nguyen",
-        "institution": "University of Western Sydney, Australia",
+        "institution": "Western Sydney University, Australia",
         "url": "https://dl.acm.org/profile/81100511332",
         "id": "81100511332"
       },
       {
         "name": "Simeon J Simoff",
-        "institution": "University of Western Sydney, Australia",
+        "institution": "Western Sydney University, Australia",
         "url": "https://dl.acm.org/profile/81100077710",
         "id": "81100077710"
       },
@@ -11014,7 +12256,7 @@
     "authors": [
       {
         "name": "Zhenbao Fan",
-        "institution": "Department of Computer Science, The University of Texas at Dallas, USA",
+        "institution": "Department of Computer Science, The University of Texas at Dallas, United States",
         "url": "https://dl.acm.org/profile/99659201074",
         "id": "99659201074"
       },
@@ -11026,7 +12268,7 @@
       },
       {
         "name": "Christine Yan",
-        "institution": "Department of Visual Studies, University of Pennsylvania, USA",
+        "institution": "Department of Visual Studies, University of Pennsylvania, United States",
         "url": "https://dl.acm.org/profile/99660628227",
         "id": "99660628227"
       },
@@ -11407,13 +12649,13 @@
     "authors": [
       {
         "name": "Mark Alan Livingston",
-        "institution": "Naval Research Laboratory, USA",
+        "institution": "Naval Research Laboratory, United States",
         "url": "https://dl.acm.org/profile/81100365560",
         "id": "81100365560"
       },
       {
         "name": "Derek P Brock",
-        "institution": "Naval Research Laboratory, USA",
+        "institution": "Naval Research Laboratory, United States",
         "url": "https://dl.acm.org/profile/81100455302",
         "id": "81100455302"
       }
@@ -12619,7 +13861,7 @@
       },
       {
         "name": "Anna Vilanova",
-        "institution": "TU Delft and TU Eindhoven, Delft, The Netherlands",
+        "institution": "TU Delft and Eindhoven University of Technology, Delft, The Netherlands",
         "url": "https://dl.acm.org/profile/81100563888",
         "id": "81100563888"
       }
@@ -12880,19 +14122,19 @@
     "authors": [
       {
         "name": "Wei Li",
-        "institution": "TU Eindhoven",
+        "institution": "Eindhoven University of Technology",
         "url": "https://dl.acm.org/profile/99659135854",
         "id": "99659135854"
       },
       {
         "name": "Mathias Funk",
-        "institution": "TU Eindhoven",
+        "institution": "Eindhoven University of Technology",
         "url": "https://dl.acm.org/profile/81343492899",
         "id": "81343492899"
       },
       {
         "name": "Aarnout C Brombacher",
-        "institution": "TU Eindhoven",
+        "institution": "Eindhoven University of Technology",
         "url": "https://dl.acm.org/profile/81100509387",
         "id": "81100509387"
       }
@@ -14278,7 +15520,7 @@
       },
       {
         "name": "K. Zhang",
-        "institution": "Department of Computer Science, University of Texas at Dallas, Richardson TX USA",
+        "institution": "Department of Computer Science, University of Texas at Dallas, Richardson TX United States",
         "url": "https://dl.acm.org/profile/81350576955",
         "id": "81350576955"
       }

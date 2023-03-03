@@ -89,7 +89,7 @@ def check_if_exist_file_json(path_to_search_results, file_name, make=False) -> b
 
 def get_data_conferences():
     data = []
-    with open('data/conferences.csv', newline='') as f:
+    with open('data/conferences/conferences.csv', newline='') as f:
         reader = csv.reader(f)
         for row in reader:
             data.append(row)
@@ -237,6 +237,17 @@ def load_csv_generic(path):
     with open(path, 'r') as file:
         csvreader = csv.reader(file)
         return csvreader
+def read_csv(path):
+    with open(path, 'r') as file:
+        csvreader = csv.reader(file)
+        for row in csvreader:
+            print(row)
+
+def load_csv(path):
+    file = open(path, encoding="utf8")
+    data = list(csv.DictReader(file, delimiter=","))
+    file.close()
+    return data
 
 # result CSV file's header
 header = [

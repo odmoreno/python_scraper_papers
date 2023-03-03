@@ -123,7 +123,7 @@
   },
   "60014439": {
     "id": "60014439",
-    "name": "University of California, Davis",
+    "name": "University of California",
     "url": "https://dl.acm.org/institution/60014439",
     "ad0": "Davis",
     "ad1": "CA",
@@ -2893,5 +2893,114 @@
     "url": "https://dl.acm.org/institution/60015150",
     "ad0": "London",
     "ad1": "United Kingdom"
+  },
+  "i09_3": {
+    "id": "i09_3",
+    "name": "King Fahad University of Petroleum and Minerals",
+    "url": "",
+    "ad0": "Dhahran",
+    "ad1": "Saudi Arabia"
+  },
+  "i09_4": {
+    "id": "i09_4",
+    "name": "National ICT Australia",
+    "url": "",
+    "ad0": "Alexandria NSW",
+    "ad1": "Australia"
+  },
+  "i09_6": {
+    "id": "i09_6",
+    "name": "University of New South Wales",
+    "url": "",
+    "ad0": "Sydney",
+    "ad1": "Australia"
+  },
+  "i09_7": {
+    "id": "i09_7",
+    "name": "ICT Center",
+    "url": "",
+    "ad0": "Canberra",
+    "ad1": "Australia"
+  },
+  "i09_18": {
+    "id": "i09_18",
+    "name": "Shangdong Institute of Commerce and Technology",
+    "url": "",
+    "ad0": "Jinan",
+    "ad1": "China"
+  },
+  "i09_26": {
+    "id": "i09_26",
+    "name": "Universitat Pompeu Fabra",
+    "url": "",
+    "ad0": "Barcelona",
+    "ad1": "Spain"
+  },
+  "i09_34": {
+    "id": "i09_34",
+    "name": "Multimedia University",
+    "url": "",
+    "ad0": "Selangor",
+    "ad1": "Cyberjaya",
+    "ad2": "Malaysia"
+  },
+  "i09_40": {
+    "id": "i09_40",
+    "name": "Ocean University of China",
+    "url": "",
+    "ad0": "Qingdao",
+    "ad1": "Shandong",
+    "ad2": "China"
+  },
+  "i09_49": {
+    "id": "i09_49",
+    "name": "German Research Center for Artificial Intelligence",
+    "url": "",
+    "ad0": "Berlin",
+    "ad1": "Germany"
+  },
+  "i09_57": {
+    "id": "i09_57",
+    "name": "Ecole Nationale Supérieure d’Architecture de Strasbourg",
+    "url": "",
+    "ad0": "Strasbourg",
+    "ad1": "France"
+  },
+  "i09_61": {
+    "id": "i09_61",
+    "name": "University Sains Malaysia",
+    "url": "",
+    "ad0": "Penang",
+    "ad1": "Malaysia"
+  },
+  "i09_62": {
+    "id": "i09_62",
+    "name": "Claremont Graduate University",
+    "url": "",
+    "ad0": "Claremont",
+    "ad1": "CA",
+    "ad2": "United States"
+  },
+  "i09_65": {
+    "id": "i09_65",
+    "name": "Jiangxi University of Finance and Economics",
+    "url": "",
+    "ad0": "Nanchang",
+    "ad1": "China"
+  },
+  "i09_70": {
+    "id": "i09_70",
+    "name": "The University of Newcastle",
+    "url": "",
+    "ad0": "Callaghan",
+    "ad1": "Australia"
+  },
+  "i09_85": {
+    "id": "i09_85",
+    "name": "Civil Aviation University of China",
+    "url": "",
+    "ad0": "Tianjin",
+    "ad1": "China"
   }
+
 }

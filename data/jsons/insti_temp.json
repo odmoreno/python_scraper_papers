@@ -1853,5 +1853,215 @@
     "id": "60015150",
     "name": "Imperial College London",
     "url": "https://dl.acm.org/institution/60015150"
+  },
+  "60007599": {
+    "id": "60007599",
+    "name": "Hochschule Aalen University of Applied Sciences",
+    "url": "https://dl.acm.org/institution/60007599"
+  },
+  "60017986": {
+    "id": "60017986",
+    "name": "Esslingen University of Applied Sciences",
+    "url": "https://dl.acm.org/institution/60017986"
+  },
+  "60016561": {
+    "id": "60016561",
+    "name": "Philips Research",
+    "url": "https://dl.acm.org/institution/60016561"
+  },
+  "60011604": {
+    "id": "60011604",
+    "name": "Technical University of Berlin",
+    "url": "https://dl.acm.org/institution/60011604"
+  },
+  "60030569": {
+    "id": "60030569",
+    "name": "Max Planck Institute for Intelligent Systems",
+    "url": "https://dl.acm.org/institution/60030569"
+  },
+  "60030718": {
+    "id": "60030718",
+    "name": "Free University of Berlin",
+    "url": "https://dl.acm.org/institution/60030718"
+  },
+  "60005322": {
+    "id": "60005322",
+    "name": "Ruhr University of Bochum",
+    "url": "https://dl.acm.org/institution/60005322"
+  },
+  "60025017": {
+    "id": "60025017",
+    "name": "Nara Institute of Science and Technology",
+    "url": "https://dl.acm.org/institution/60025017"
+  },
+  "60027841": {
+    "id": "60027841",
+    "name": "Akita University",
+    "url": "https://dl.acm.org/institution/60027841"
+  },
+  "60032345": {
+    "id": "60032345",
+    "name": "Hiroshima City University",
+    "url": "https://dl.acm.org/institution/60032345"
+  },
+  "60029616": {
+    "id": "60029616",
+    "name": "Aarhus University",
+    "url": "https://dl.acm.org/institution/60029616"
+  },
+  "60001911": {
+    "id": "60001911",
+    "name": "Fraunhofer Institute for Computer Graphics Research IGD, Rostock",
+    "url": "https://dl.acm.org/institution/60001911"
+  },
+  "60042765": {
+    "id": "60042765",
+    "name": "Centro Federal De Educacão Tecnológica Celso Suckow Da Fonseca",
+    "url": "https://dl.acm.org/institution/60042765"
+  },
+  "60000036": {
+    "id": "60000036",
+    "name": "Federal University of Rio de Janeiro",
+    "url": "https://dl.acm.org/institution/60000036"
+  },
+  "60031126": {
+    "id": "60031126",
+    "name": "Tokyo Institute of Technology",
+    "url": "https://dl.acm.org/institution/60031126"
+  },
+  "60001271": {
+    "id": "60001271",
+    "name": "Advanced Telecommunications Research Institute International (ATR)",
+    "url": "https://dl.acm.org/institution/60001271"
+  },
+  "60017161": {
+    "id": "60017161",
+    "name": "National University of Singapore",
+    "url": "https://dl.acm.org/institution/60017161"
+  },
+  "60007798": {
+    "id": "60007798",
+    "name": "German Aerospace Center",
+    "url": "https://dl.acm.org/institution/60007798"
+  },
+  "60016611": {
+    "id": "60016611",
+    "name": "Dell Inc.",
+    "url": "https://dl.acm.org/institution/60016611"
+  },
+  "60016788": {
+    "id": "60016788",
+    "name": "Royal Danish Academy of Fine Arts, School of Architecture",
+    "url": "https://dl.acm.org/institution/60016788"
+  },
+  "60273204": {
+    "id": "60273204",
+    "name": "Ubisoft",
+    "url": "https://dl.acm.org/institution/60273204"
+  },
+  "60028628": {
+    "id": "60028628",
+    "name": "Northeastern University",
+    "url": "https://dl.acm.org/institution/60028628"
+  },
+  "60018567": {
+    "id": "60018567",
+    "name": "IT University of Copenhagen",
+    "url": "https://dl.acm.org/institution/60018567"
+  },
+  "60023212": {
+    "id": "60023212",
+    "name": "Shenyang University of Technology",
+    "url": "https://dl.acm.org/institution/60023212"
+  },
+  "60069731": {
+    "id": "60069731",
+    "name": "Information Engineering University China",
+    "url": "https://dl.acm.org/institution/60069731"
+  },
+  "60011375": {
+    "id": "60011375",
+    "name": "Japan Advanced Institute of Science and Technology",
+    "url": "https://dl.acm.org/institution/60011375"
+  },
+  "60019118": {
+    "id": "60019118",
+    "name": "University of Science and Technology of China",
+    "url": "https://dl.acm.org/institution/60019118"
+  },
+  "60032356": {
+    "id": "60032356",
+    "name": "Hunan University",
+    "url": "https://dl.acm.org/institution/60032356"
+  },
+  "60073311": {
+    "id": "60073311",
+    "name": "Institute for Zoo and Wildlife Research",
+    "url": "https://dl.acm.org/institution/60073311"
+  },
+  "60022995": {
+    "id": "60022995",
+    "name": "University of Wuppertal",
+    "url": "https://dl.acm.org/institution/60022995"
+  },
+  "60016653": {
+    "id": "60016653",
+    "name": "RWTH Aachen University",
+    "url": "https://dl.acm.org/institution/60016653"
+  },
+  "60004630": {
+    "id": "60004630",
+    "name": "Fujian Agriculture and Forestry University",
+    "url": "https://dl.acm.org/institution/60004630"
+  },
+  "60020633": {
+    "id": "60020633",
+    "name": "University of Louisville",
+    "url": "https://dl.acm.org/institution/60020633"
+  },
+  "60024350": {
+    "id": "60024350",
+    "name": "National University of Defense Technology China",
+    "url": "https://dl.acm.org/institution/60024350"
+  },
+  "60087534": {
+    "id": "60087534",
+    "name": "National Key Laboratory for Parallel and Distributed Processing",
+    "url": "https://dl.acm.org/institution/60087534"
+  },
+  "60026320": {
+    "id": "60026320",
+    "name": "Qufu Normal University",
+    "url": "https://dl.acm.org/institution/60026320"
+  },
+  "60000990": {
+    "id": "60000990",
+    "name": "Chalmers University of Technology",
+    "url": "https://dl.acm.org/institution/60000990"
+  },
+  "60102538": {
+    "id": "60102538",
+    "name": "Karlsruhe Institute of Technology",
+    "url": "https://dl.acm.org/institution/60102538"
+  },
+  "60103673": {
+    "id": "60103673",
+    "name": "University of Eastern Finland",
+    "url": "https://dl.acm.org/institution/60103673"
+  },
+  "60239646": {
+    "id": "60239646",
+    "name": "Center for Organizational and Occupational Sciences",
+    "url": "https://dl.acm.org/institution/60239646"
+  },
+  "60021427": {
+    "id": "60021427",
+    "name": "Communication University of China",
+    "url": "https://dl.acm.org/institution/60021427"
+  },
+  "60011069": {
+    "id": "60011069",
+    "name": "East China University of Science and Technology",
+    "url": "https://dl.acm.org/institution/60011069"
   }
 }

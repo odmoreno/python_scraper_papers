@@ -71,13 +71,13 @@ def main():
     #papers_client = AcmClient(data)
     #papers_client.main_fun()
 
-    get_refs = Refs(data)
+    #get_refs = Refs(data)
     #get_refs.main_fun()
-    get_refs.loop_raw_refs()
+    #get_refs.loop_raw_refs()
 
-    #extra_info_client = Info(data)
-    #extra_info_client.main_fun()
-    #extra_info_client.get_authors()
+    extra_info_client = Info(data)
+    extra_info_client.main_fun()
+    extra_info_client.get_authors()
     #extra_info_client.get_institutions()
     #extra_info_client.loop_authors()
     print('Finish')
