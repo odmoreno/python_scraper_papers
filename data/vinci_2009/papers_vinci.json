@@ -301,10 +301,10 @@
       "University of Macau"
     ],
     "countries": [
-      "macao",
-      "macao",
-      "macao",
-      "macao"
+      "china",
+      "china",
+      "china",
+      "china"
     ],
     "regions": [
       "asia",
@@ -363,7 +363,7 @@
       "Tianjin University",
       "Tianjin University",
       "Tianjin University",
-      "The University of Sydney",
+      "University of Technology Sydney",
       "Tianjin University"
     ],
     "countries": [
@@ -1504,7 +1504,7 @@
       "europe",
       "europe"
     ],
-    "conference": "VINCI 2020: The 13th International Symposium on Visual Information Communication and Interaction, Eindhoven, The Netherlands, 8-10 December, 2020.",
+    "conference": "VINCI 2020: The 13th International Symposium on Visual Information Communication and Interaction, Eindhoven, Netherlands, 8-10 December, 2020.",
     "id": "10.1145/3430036.3430041"
   },
   "10.1145/3430036.3430054": {
@@ -1540,7 +1540,7 @@
       "europe",
       "europe"
     ],
-    "conference": "VINCI 2020: The 13th International Symposium on Visual Information Communication and Interaction, Eindhoven, The Netherlands, 8-10 December, 2020.",
+    "conference": "VINCI 2020: The 13th International Symposium on Visual Information Communication and Interaction, Eindhoven, Netherlands, 8-10 December, 2020.",
     "id": "10.1145/3430036.3430054"
   },
   "10.1145/3430036.3430037": {
@@ -1568,7 +1568,7 @@
       "europe",
       "europe"
     ],
-    "conference": "VINCI 2020: The 13th International Symposium on Visual Information Communication and Interaction, Eindhoven, The Netherlands, 8-10 December, 2020.",
+    "conference": "VINCI 2020: The 13th International Symposium on Visual Information Communication and Interaction, Eindhoven, Netherlands, 8-10 December, 2020.",
     "id": "10.1145/3430036.3430037"
   },
   "10.1145/3356422.3356433": {
@@ -1596,7 +1596,7 @@
       "asia",
       "asia"
     ],
-    "conference": "Proceedings of the 12th International Symposium on Visual Information Communication and Interaction, VINCI 2019, Shanghai, China, September 20-22, 2019.",
+    "conference": "Proceedings of the 12th International Symposium on Visual Information Communication and Interaction, VINCI 2019, China, September 20-22, 2019.",
     "id": "10.1145/3356422.3356433"
   },
   "10.1145/3356422.3356440": {
@@ -1624,7 +1624,7 @@
       "asia",
       "asia"
     ],
-    "conference": "Proceedings of the 12th International Symposium on Visual Information Communication and Interaction, VINCI 2019, Shanghai, China, September 20-22, 2019.",
+    "conference": "Proceedings of the 12th International Symposium on Visual Information Communication and Interaction, VINCI 2019, China, September 20-22, 2019.",
     "id": "10.1145/3356422.3356440"
   },
   "10.1145/3356422.3356439": {
@@ -1656,7 +1656,7 @@
       "asia",
       "asia"
     ],
-    "conference": "Proceedings of the 12th International Symposium on Visual Information Communication and Interaction, VINCI 2019, Shanghai, China, September 20-22, 2019.",
+    "conference": "Proceedings of the 12th International Symposium on Visual Information Communication and Interaction, VINCI 2019, China, September 20-22, 2019.",
     "id": "10.1145/3356422.3356439"
   },
   "10.1145/3231622.3231624": {
@@ -1809,8 +1809,8 @@
       "university of stuttgart"
     ],
     "countries": [
-      "eindhoven",
-      "stuttgart"
+      "netherlands",
+      "germany"
     ],
     "regions": [
       "europe",
@@ -1831,10 +1831,10 @@
       "K. Zhang"
     ],
     "afilitions": [
-      "the university of texas at dallas",
+      "university of texas",
       "hohai university",
       "tianjin university",
-      "the university of texas at dallas"
+      "university of texas"
     ],
     "countries": [
       "united states",
@@ -1959,7 +1959,7 @@
       "eindhoven university of technology"
     ],
     "countries": [
-      "eindhoven"
+      "netherlands"
     ],
     "regions": [
       "europe"
@@ -2279,7 +2279,7 @@
       "eindhoven university of technology"
     ],
     "countries": [
-      "eindhoven"
+      "netherlands"
     ],
     "regions": [
       "europe"
@@ -2542,13 +2542,13 @@
       "Daniel Weiskopf"
     ],
     "afilitions": [
-      "University of Stuttgart",
-      "University of Stuttgart",
-      "University of Stuttgart",
-      "University of Stuttgart",
+      "university of stuttgart",
+      "university of stuttgart",
+      "university of stuttgart",
+      "university of stuttgart",
       "Fraunhofer Institute for Solar Energy Systems ISE",
       "Fraunhofer Institute for Solar Energy Systems ISE",
-      "University of Stuttgart"
+      "university of stuttgart"
     ],
     "countries": [
       "germany",
@@ -2663,14 +2663,14 @@
       "Fujitsu Laboratories Ltd"
     ],
     "countries": [
-      "ibaraki",
-      "ibaraki",
-      "united states minor outlying islands"
+      "japan",
+      "japan",
+      "japan"
     ],
     "regions": [
-      "europe",
-      "europe",
-      "oceania"
+      "asia",
+      "asia",
+      "asia"
     ],
     "conference": "Proceedings of the 10th International Symposium on Visual Information Communication and Interaction, VINCI 2017, Bangkok, Thailand, August 14-16, 2017.",
     "id": "10.1145/3105971.3105987"
@@ -2771,9 +2771,9 @@
       "university of macau"
     ],
     "countries": [
-      "macau sar",
-      "macau sar",
-      "macau sar"
+      "china",
+      "china",
+      "china"
     ],
     "regions": [
       "asia",
@@ -2794,7 +2794,7 @@
       "Yi Yang"
     ],
     "afilitions": [
-      "The University of Texas at Dallas",
+      "university of texas",
       "Beijing Film Academy",
       "Chinese Academy of Sciences"
     ],
@@ -3029,12 +3029,12 @@
       "Giulio Iacucci"
     ],
     "afilitions": [
-      "university of helsinki and aalto university",
+      "university of helsinki",
       "Universitá di Padova",
-      "University of Helsinki",
+      "university of helsinki",
       "Universitá di Padova",
       "Universitá di Padova",
-      "University of Helsinki"
+      "university of helsinki"
     ],
     "countries": [
       "finland",
@@ -3068,7 +3068,7 @@
     ],
     "afilitions": [
       "zhejiang university",
-      "The University of Texas at Dallas",
+      "university of texas",
       "zhejiang university",
       "zhejiang university"
     ],
@@ -3166,19 +3166,19 @@
       "Bin Pang"
     ],
     "afilitions": [
-      "university of macau and avenida da universidade",
-      "the university of melbourne",
-      "university of macau and avenida da universidade"
+      "university of macau",
+      "university of melbourne",
+      "university of macau"
     ],
     "countries": [
-      "macau",
-      "vic",
-      "macau"
+      "china",
+      "australia",
+      "china"
     ],
     "regions": [
-      "europe",
-      "europe",
-      "europe"
+      "asia",
+      "oceania",
+      "asia"
     ],
     "conference": "Proceedings of the 10th International Symposium on Visual Information Communication and Interaction, VINCI 2017, Bangkok, Thailand, August 14-16, 2017.",
     "id": "10.1145/3105971.3105976"
@@ -3201,10 +3201,10 @@
       "university of kent"
     ],
     "countries": [
-      "uk",
-      "uk",
-      "uk",
-      "uk"
+      "united kingdom",
+      "united kingdom",
+      "united kingdom",
+      "united kingdom"
     ],
     "regions": [
       "europe",
@@ -3272,11 +3272,11 @@
       "Andrew Blake"
     ],
     "afilitions": [
-      "University of Brighton",
-      "University of Brighton",
+      "university of brighton",
+      "university of brighton",
       "University of Cambridge",
       "University of Cambridge",
-      "University of Brighton"
+      "university of brighton"
     ],
     "countries": [
       "united kingdom",
@@ -3326,19 +3326,19 @@
       "Angus Graeme Forbes"
     ],
     "afilitions": [
-      "university of illinois at chicago",
+      "university of illinois",
       "oklahoma state university",
-      "university of illinois at chicago"
+      "university of illinois"
     ],
     "countries": [
-      "university of illinois at chicago",
-      "united states minor outlying islands",
-      "university of illinois at chicago"
+      "united states",
+      "united states",
+      "united states"
     ],
     "regions": [
-      "europe",
-      "oceania",
-      "oceania"
+      "north america",
+      "north america",
+      "north america"
     ],
     "conference": "Proceedings of the 9th International Symposium on Visual Information Communication and Interaction, VINCI 2016, Dallas, TX, United States, September 24-26, 2016.",
     "id": "10.1145/2968220.2968229"
@@ -3363,11 +3363,11 @@
       "hong kong university of science and technology"
     ],
     "countries": [
-      "hong kong",
-      "hong kong",
-      "hong kong",
-      "hong kong",
-      "hong kong"
+      "china",
+      "china",
+      "china",
+      "china",
+      "china"
     ],
     "regions": [
       "asia",
@@ -3567,18 +3567,18 @@
       "Cindy Marie Grimm"
     ],
     "afilitions": [
-      "University of North Texas",
-      "University of North Texas",
-      "University of North Texas",
-      "University of North Texas",
-      "University of North Texas",
-      "University of North Texas",
-      "University of North Texas",
-      "University of North Texas",
-      "Wash",
-      "Rochester Inst",
-      "Oregon State University",
-      "Oregon State University"
+      "university of north texas",
+      "university of north texas",
+      "university of north texas",
+      "university of north texas",
+      "university of north texas",
+      "university of north texas",
+      "university of north texas",
+      "university of north texas",
+      "washington university",
+      "Rochester Institute of Technology",
+      "oregon state university",
+      "oregon state university"
     ],
     "countries": [
       "united states",
@@ -3589,8 +3589,8 @@
       "united states",
       "united states",
       "united states",
-      "louis",
-      "united states minor outlying islands",
+      "united states",
+      "united states",
       "united states",
       "united states"
     ],
@@ -3603,8 +3603,8 @@
       "north america",
       "north america",
       "north america",
-      "europe",
-      "oceania",
+      "north america",
+      "north america",
       "north america",
       "north america"
     ],
@@ -3627,14 +3627,14 @@
       "north dakota state university"
     ],
     "countries": [
-      "north dakota state university",
-      "north dakota state university",
-      "north dakota state university"
+      "united states",
+      "united states",
+      "united states"
     ],
     "regions": [
-      "oceania",
-      "oceania",
-      "oceania"
+      "north america",
+      "north america",
+      "north america"
     ],
     "conference": "Proceedings of the 9th International Symposium on Visual Information Communication and Interaction, VINCI 2016, Dallas, TX, United States, September 24-26, 2016.",
     "id": "10.1145/2968220.2968236"
@@ -3650,19 +3650,19 @@
       "Muye Yang"
     ],
     "afilitions": [
-      "the university of melbourne",
+      "university of melbourne",
       "university of macau",
       "university of macau"
     ],
     "countries": [
       "australia",
-      "macau sar",
-      "macau sar"
+      "china",
+      "china"
     ],
     "regions": [
       "oceania",
-      "oceania",
-      "oceania"
+      "asia",
+      "asia"
     ],
     "conference": "Proceedings of the 9th International Symposium on Visual Information Communication and Interaction, VINCI 2016, Dallas, TX, United States, September 24-26, 2016.",
     "id": "10.1145/2968220.2968239"
@@ -3709,16 +3709,16 @@
       "university of san francisco"
     ],
     "countries": [
-      "ca",
-      "ca",
-      "ca",
-      "ca"
+      "united states",
+      "united states",
+      "united states",
+      "united states"
     ],
     "regions": [
-      "asia",
-      "asia",
-      "asia",
-      "asia"
+      "north america",
+      "north america",
+      "north america",
+      "north america"
     ],
     "conference": "Proceedings of the 9th International Symposium on Visual Information Communication and Interaction, VINCI 2016, Dallas, TX, United States, September 24-26, 2016.",
     "id": "10.1145/2968220.2968241"
@@ -3779,10 +3779,10 @@
     "afilitions": [
       "Fraunhofer IGD",
       "Fraunhofer IGD",
-      "technical university of darmstadt",
+      "technical university of germany",
       "Fraunhofer IGD",
       "Fraunhofer IGD",
-      "fraunhofer igd  technical university of darmstadt"
+      "technical university of germany"
     ],
     "countries": [
       "germany",
@@ -3847,8 +3847,8 @@
       "hohai university",
       "hohai university",
       "hohai university",
-      "Baidu",
-      "Baidu"
+      "Baidu Inc",
+      "Baidu Inc"
     ],
     "countries": [
       "china",
@@ -3888,12 +3888,12 @@
     ],
     "countries": [
       "china",
-      "kemper hall",
+      "united states",
       "china"
     ],
     "regions": [
       "asia",
-      "asia",
+      "north america",
       "asia"
     ],
     "conference": "Proceedings of the 9th International Symposium on Visual Information Communication and Interaction, VINCI 2016, Dallas, TX, United States, September 24-26, 2016.",
@@ -3910,7 +3910,7 @@
     ],
     "afilitions": [
       "tianjin university",
-      "the university of texas at dallas"
+      "university of texas"
     ],
     "countries": [
       "china",
@@ -3971,14 +3971,14 @@
       "BYU Hawaii"
     ],
     "countries": [
-      "hawaii",
-      "utah",
-      "hawaii"
+      "united states",
+      "united states",
+      "united states"
     ],
     "regions": [
-      "asia",
-      "asia",
-      "asia"
+      "north america",
+      "north america",
+      "north america"
     ],
     "conference": "Proceedings of the 9th International Symposium on Visual Information Communication and Interaction, VINCI 2016, Dallas, TX, United States, September 24-26, 2016.",
     "id": "10.1145/2968220.2968231"
@@ -4001,16 +4001,16 @@
       "university of san francisco"
     ],
     "countries": [
-      "ca",
-      "ca",
-      "ca",
-      "ca"
+      "united states",
+      "united states",
+      "united states",
+      "united states"
     ],
     "regions": [
-      "asia",
-      "asia",
-      "asia",
-      "asia"
+      "north america",
+      "north america",
+      "north america",
+      "north america"
     ],
     "conference": "Proceedings of the 9th International Symposium on Visual Information Communication and Interaction, VINCI 2016, Dallas, TX, United States, September 24-26, 2016.",
     "id": "10.1145/2968220.2968233"
@@ -4024,7 +4024,7 @@
       "Xin Kang"
     ],
     "afilitions": [
-      "peking university"
+      "national taipei university of technology"
     ],
     "countries": [
       "china"
@@ -4073,12 +4073,12 @@
       "university of wyoming"
     ],
     "countries": [
-      "wy",
-      "wy"
+      "united states",
+      "united states"
     ],
     "regions": [
-      "asia",
-      "asia"
+      "north america",
+      "north america"
     ],
     "conference": "Proceedings of the 9th International Symposium on Visual Information Communication and Interaction, VINCI 2016, Dallas, TX, United States, September 24-26, 2016.",
     "id": "10.1145/2968220.2968245"
@@ -4149,8 +4149,8 @@
       "shanghai jiao tong university"
     ],
     "countries": [
-      "shanghai jiao tong university",
-      "shanghai jiao tong university"
+      "china",
+      "china"
     ],
     "regions": [
       "asia",
@@ -4170,7 +4170,7 @@
     ],
     "afilitions": [
       "purdue university",
-      "crestindiana university"
+      "indiana university"
     ],
     "countries": [
       "indiana",
@@ -4366,9 +4366,9 @@
       "An Nguyen"
     ],
     "afilitions": [
-      "the university of sydney",
+      "university of sydney",
       "monash university",
-      "the university of sydney"
+      "university of sydney"
     ],
     "countries": [
       "australia",
@@ -4397,12 +4397,12 @@
       "national chiao tung university"
     ],
     "countries": [
-      "taiwan",
-      "taiwan"
+      "china",
+      "china"
     ],
     "regions": [
-      "oceania",
-      "oceania"
+      "asia",
+      "asia"
     ],
     "conference": "",
     "id": "10.1145/2801040.2801046"
@@ -4478,9 +4478,9 @@
       "Mohd Shahrizal Bin Sunar"
     ],
     "afilitions": [
-      "MaGIC-X (Media and Games Innovation Centre of Excellence)",
+      "Universiti Teknologi Malaysia",
       "university of canterbury",
-      "MaGIC-X (Media and Games Innovation Centre of Excellence)"
+      "Universiti Teknologi Malaysia"
     ],
     "countries": [
       "malaysia",
@@ -4533,19 +4533,19 @@
     "afilitions": [
       "tianjin university",
       "tianjin university",
-      "the university of technology",
-      "the university of texas at dallas"
+      "tianjin university",
+      "university of texas"
     ],
     "countries": [
       "china",
       "china",
-      "australia",
+      "china",
       "united states"
     ],
     "regions": [
       "asia",
       "asia",
-      "oceania",
+      "asia",
       "north america"
     ],
     "conference": "",
@@ -4565,12 +4565,12 @@
       "ochanomizu university"
     ],
     "countries": [
-      "united states minor outlying islands",
-      "united states minor outlying islands"
+      "japan",
+      "japan"
     ],
     "regions": [
-      "oceania",
-      "oceania"
+      "asia",
+      "asia"
     ],
     "conference": "",
     "id": "10.1145/2801040.2801041"
@@ -4648,17 +4648,17 @@
     "afilitions": [
       "nankai university",
       "nankai university",
-      "the university of texas at dallas"
+      "university of texas"
     ],
     "countries": [
-      "united states minor outlying islands",
-      "united states minor outlying islands",
-      "united states minor outlying islands"
+      "china",
+      "china",
+      "united states"
     ],
     "regions": [
-      "oceania",
-      "oceania",
-      "oceania"
+      "asia",
+      "asia",
+      "north america"
     ],
     "conference": "",
     "id": "10.1145/2801040.2801062"
@@ -4777,8 +4777,8 @@
       "Hidenori Watanave"
     ],
     "afilitions": [
-      "tokyo metropolitan university  asahigaoka",
-      "tokyo metropolitan university  asahigaoka"
+      "tokyo metropolitan university",
+      "tokyo metropolitan university"
     ],
     "countries": [
       "japan",
@@ -4826,19 +4826,19 @@
       "Simeon J Simoff"
     ],
     "afilitions": [
-      "university of western",
-      "university of western",
-      "university of western"
+      "university of western sydney",
+      "university of western sydney",
+      "university of western sydney"
     ],
     "countries": [
-      "sydney",
-      "sydney",
-      "sydney"
+      "australia",
+      "australia",
+      "australia"
     ],
     "regions": [
-      "asia",
-      "asia",
-      "asia"
+      "oceania",
+      "oceania",
+      "oceania"
     ],
     "conference": "",
     "id": "10.1145/2801040.2801060"
@@ -4878,9 +4878,9 @@
       "Masahiro Takatsuka"
     ],
     "afilitions": [
-      "ochanomizu university  otsuka",
-      "ochanomizu university  otsuka",
-      "the university of sydney nsw"
+      "ochanomizu university",
+      "ochanomizu university",
+      "university of sydney"
     ],
     "countries": [
       "japan",
@@ -4913,16 +4913,16 @@
       "ajou university"
     ],
     "countries": [
-      "united states minor outlying islands",
-      "united states minor outlying islands",
-      "united states minor outlying islands",
-      "united states minor outlying islands"
+      "south korea",
+      "south korea",
+      "south korea",
+      "south korea"
     ],
     "regions": [
-      "oceania",
-      "oceania",
-      "oceania",
-      "oceania"
+      "asia",
+      "asia",
+      "asia",
+      "asia"
     ],
     "conference": "",
     "id": "10.1145/2801040.2801069"
@@ -4945,7 +4945,7 @@
       "tokyo university of science",
       "tokyo university of science",
       "Centre les Capucins",
-      "Laboratoire Angevin de",
+      "Laboratoire Angevin de Recherche en Ingénierie des Systèmes",
       "Centre les Capucins"
     ],
     "countries": [
@@ -4977,8 +4977,8 @@
       "Katsuhiro Amako"
     ],
     "afilitions": [
-      "the university of electrocommunications",
-      "the university of electrocommunications"
+      "university of electrocommunications",
+      "university of electrocommunications"
     ],
     "countries": [
       "japan",
@@ -5007,15 +5007,15 @@
       "chang gung university",
       "chang gung university",
       "chang gung university",
-      "Department of Neurosurgery and Medical Augmented Reality Research Center",
-      "Department of Neurosurgery and Medical Augmented Reality Research Center"
+      "Chang Gung Memorial Hospital",
+      "Chang Gung Memorial Hospital"
     ],
     "countries": [
-      "taiwan 333",
-      "taiwan 333",
-      "taiwan 333",
-      "taiwan 333",
-      "taiwan 333"
+      "china",
+      "china",
+      "china",
+      "china",
+      "china"
     ],
     "regions": [
       "asia",
@@ -5038,8 +5038,8 @@
       "Shin'ichi Satoh"
     ],
     "afilitions": [
-      "National Institute of Informatics / SOKENDAI",
-      "National Institute of Informatics / SOKENDAI",
+      "National Institute of Informatics",
+      "National Institute of Informatics",
       "National Institute of Informatics"
     ],
     "countries": [
@@ -5068,7 +5068,7 @@
     "afilitions": [
       "tianjin university",
       "tianjin university",
-      "the university of texas at dallas"
+      "university of texas"
     ],
     "countries": [
       "china",
@@ -5097,14 +5097,14 @@
     "afilitions": [
       "gakushuin university",
       "senshu university",
-      "gakushuin university",
-      "gakushuin university"
+      "Gakushuin University",
+      "Gakushuin University"
     ],
     "countries": [
       "japan",
       "japan",
-      "gakushuin university",
-      "gakushuin university"
+      "japan",
+      "japan"
     ],
     "regions": [
       "asia",
@@ -5157,16 +5157,16 @@
       "university of san francisco"
     ],
     "countries": [
-      "id 83716",
-      "id 83725",
-      "id 83725",
-      "ca 94403"
+      "united states",
+      "united states",
+      "united states",
+      "united states"
     ],
     "regions": [
-      "europe",
-      "europe",
-      "europe",
-      "europe"
+      "north america",
+      "north america",
+      "north america",
+      "north america"
     ],
     "conference": "",
     "id": "10.1145/2636240.2636850"
@@ -5184,19 +5184,19 @@
     ],
     "afilitions": [
       "university of technology",
-      "tianjin university",
+      "university of technology",
       "western sydney university",
       "tianjin university"
     ],
     "countries": [
       "australia",
-      "china",
+      "australia",
       "australia",
       "china"
     ],
     "regions": [
       "oceania",
-      "asia",
+      "oceania",
       "oceania",
       "asia"
     ],
@@ -5240,11 +5240,11 @@
       "Shigeo Takahashi"
     ],
     "afilitions": [
-      "the university of tokyo",
-      "the university of tokyo",
+      "university of tokyo",
+      "university of tokyo",
       "university of tsukuba",
-      "the university of tokyo",
-      "the university of tokyo"
+      "university of tokyo",
+      "university of tokyo"
     ],
     "countries": [
       "japan",
@@ -5276,15 +5276,15 @@
     ],
     "afilitions": [
       "Shenzhen University",
-      "Hong Kong University of Science and Technology",
+      "hong kong university of science and technology",
       "Shenzhen University",
-      "Hong Kong University of Science and Technology"
+      "hong kong university of science and technology"
     ],
     "countries": [
       "china",
-      "hong kong",
       "china",
-      "hong kong"
+      "china",
+      "china"
     ],
     "regions": [
       "asia",
@@ -5361,12 +5361,12 @@
       "national chiao tung university"
     ],
     "countries": [
-      "taiwan",
-      "taiwan"
+      "china",
+      "china"
     ],
     "regions": [
-      "europe",
-      "europe"
+      "asia",
+      "asia"
     ],
     "conference": "",
     "id": "10.1145/2636240.2636846"
@@ -5386,15 +5386,15 @@
     "afilitions": [
       "university of salerno",
       "university of salerno",
-      "Australian Catholic Univ",
-      "Univ",
+      "australian catholic university",
+      "university of western sydney",
       "university of salerno"
     ],
     "countries": [
       "italy",
       "italy",
-      "united states minor outlying islands",
-      "au",
+      "australia",
+      "australia",
       "italy"
     ],
     "regions": [
@@ -5441,21 +5441,21 @@
       "university of alberta"
     ],
     "countries": [
-      "western sydney university",
-      "united states minor outlying islands",
-      "western sydney university",
-      "western sydney university",
-      "western sydney university",
-      "western sydney university",
-      "central queensland university",
-      "central queensland university",
+      "australia",
+      "australia",
+      "australia",
+      "australia",
+      "australia",
+      "australia",
+      "australia",
+      "australia",
       "canada",
       "united states",
-      "central queensland university",
+      "australia",
       "canada"
     ],
     "regions": [
-      "europe",
+      "oceania",
       "oceania",
       "oceania",
       "oceania",
@@ -5465,7 +5465,7 @@
       "oceania",
       "north america",
       "north america",
-      "north america",
+      "oceania",
       "north america"
     ],
     "conference": "",
@@ -5485,12 +5485,12 @@
       "Geereddy Ram Mohana Reddy"
     ],
     "afilitions": [
-      "Department of Information",
-      "Department of Information",
-      "Department of Information Technology",
-      "Department of Information Technology",
-      "Department of Information Technology",
-      "Department of Information Technology"
+      "Technology National Institute of Technology Karnataka",
+      "Technology National Institute of Technology Karnataka",
+      "National Institute of Technology Karnataka",
+      "National Institute of Technology Karnataka",
+      "National Institute of Technology Karnataka",
+      "National Institute of Technology Karnataka"
     ],
     "countries": [
       "india",
@@ -5524,9 +5524,9 @@
     ],
     "afilitions": [
       "tianjin university",
-      "university of texas at dallas",
+      "university of texas",
       "tianjin university",
-      "university of texas at dallas"
+      "tianjin university"
     ],
     "countries": [
       "china",
@@ -5561,16 +5561,16 @@
       "tsinghua university"
     ],
     "countries": [
-      "united states minor outlying islands",
-      "united states minor outlying islands",
-      "united states minor outlying islands",
-      "united states minor outlying islands"
+      "china",
+      "china",
+      "china",
+      "china"
     ],
     "regions": [
-      "oceania",
-      "oceania",
-      "oceania",
-      "oceania"
+      "asia",
+      "asia",
+      "asia",
+      "asia"
     ],
     "conference": "",
     "id": "10.1145/2636240.2636845"
@@ -5613,12 +5613,12 @@
       "university of waikato"
     ],
     "countries": [
-      "bermuda",
-      "bermuda"
+      "new zealand",
+      "new zealand"
     ],
     "regions": [
-      "north america",
-      "north america"
+      "oceania",
+      "oceania"
     ],
     "conference": "",
     "id": "10.1145/2636240.2636853"
@@ -5635,10 +5635,10 @@
       "John Howse"
     ],
     "afilitions": [
-      "University of Brighton",
-      "University of Brighton",
-      "University of Kent",
-      "University of Brighton"
+      "university of brighton",
+      "university of brighton",
+      "university of kent",
+      "university of brighton"
     ],
     "countries": [
       "united kingdom",
@@ -5688,10 +5688,10 @@
       "Jennifer Seevinck"
     ],
     "afilitions": [
-      "queensland university of technology qut"
+      "queensland university of technology"
     ],
     "countries": [
-      "united states minor outlying islands"
+      "australia"
     ],
     "regions": [
       "oceania"
@@ -5711,15 +5711,15 @@
       "Tomasz P Bednarz"
     ],
     "afilitions": [
-      "the university of sydney",
-      "the university of sydney",
-      "the university of sydney  city road",
+      "university of sydney",
+      "university of sydney",
+      "university of sydney",
       "CSIRO Computational Informatics"
     ],
     "countries": [
-      "united states minor outlying islands",
-      "united states minor outlying islands",
-      "united states minor outlying islands",
+      "australia",
+      "australia",
+      "australia",
       "australia"
     ],
     "regions": [
@@ -5745,12 +5745,12 @@
       "kyushu university"
     ],
     "countries": [
-      "kyushu university",
-      "kyushu university"
+      "japan",
+      "japan"
     ],
     "regions": [
-      "oceania",
-      "oceania"
+      "asia",
+      "asia"
     ],
     "conference": "",
     "id": "10.1145/2636240.2636849"
@@ -5829,12 +5829,12 @@
       "brigham young university"
     ],
     "countries": [
-      "hawaii 96762",
-      "hawaii 96762"
+      "united states",
+      "united states"
     ],
     "regions": [
-      "oceania",
-      "oceania"
+      "north america",
+      "north america"
     ],
     "conference": "",
     "id": "10.1145/2636240.2636871"
@@ -5853,12 +5853,12 @@
       "Geereddy Ram Mohana Reddy"
     ],
     "afilitions": [
-      "Department of Information Technology",
-      "Department of Information Technology",
-      "Department of Information Technology",
-      "Department of Information Technology",
-      "Department of Information Technology",
-      "Department of Information Technology"
+      "National Institute of Technology Karnataka",
+      "National Institute of Technology Karnataka",
+      "National Institute of Technology Karnataka",
+      "National Institute of Technology Karnataka",
+      "National Institute of Technology Karnataka",
+      "National Institute of Technology Karnataka"
     ],
     "countries": [
       "india",
@@ -5921,8 +5921,8 @@
       "university of tasmania"
     ],
     "countries": [
-      "united states minor outlying islands",
-      "united states minor outlying islands"
+      "australia",
+      "australia"
     ],
     "regions": [
       "oceania",
@@ -6023,14 +6023,14 @@
       "The 28th Research Institute of China Electronics Technology Group Corporation"
     ],
     "countries": [
-      "united states minor outlying islands",
-      "united states minor outlying islands",
-      "united states minor outlying islands"
+      "china",
+      "china",
+      "china"
     ],
     "regions": [
-      "oceania",
-      "oceania",
-      "oceania"
+      "asia",
+      "asia",
+      "asia"
     ],
     "conference": "",
     "id": "10.1145/2636240.2636870"
@@ -6045,8 +6045,8 @@
       "Martin Tomitsch"
     ],
     "afilitions": [
-      "the university of sydney",
-      "the university of sydney"
+      "university of sydney",
+      "university of sydney"
     ],
     "countries": [
       "australia",
@@ -6073,8 +6073,8 @@
       "queensland university of technology"
     ],
     "countries": [
-      "queensland university of technology +61 4 3836 7178",
-      "queensland university of technology +61 7 3138 3135"
+      "australia",
+      "australia"
     ],
     "regions": [
       "oceania",
@@ -6093,7 +6093,7 @@
       "Anuja T Dharmaratne"
     ],
     "afilitions": [
-      "university of colombo school of computing",
+      "university of colombo",
       "monash university malaysia"
     ],
     "countries": [
@@ -6161,12 +6161,12 @@
       "Department of IT"
     ],
     "countries": [
-      "surathkal",
-      "surathkal",
-      "surathkal",
-      "surathkal",
-      "surathkal",
-      "surathkal"
+      "india",
+      "india",
+      "india",
+      "india",
+      "india",
+      "india"
     ],
     "regions": [
       "asia",
@@ -6195,14 +6195,14 @@
       "university of colombo"
     ],
     "countries": [
-      "united states minor outlying islands",
+      "sri lanka",
       "malaysia",
-      "united states minor outlying islands"
+      "sri lanka"
     ],
     "regions": [
-      "oceania",
       "asia",
-      "oceania"
+      "asia",
+      "asia"
     ],
     "conference": "",
     "id": "10.1145/2636240.2636875"
@@ -6217,7 +6217,7 @@
       "Anuja T Dharmaratne"
     ],
     "afilitions": [
-      "university of colombo school of computing",
+      "university of colombo",
       "monash university"
     ],
     "countries": [
@@ -6275,9 +6275,9 @@
       "queensland university of technology"
     ],
     "countries": [
-      "united states minor outlying islands",
-      "united states minor outlying islands",
-      "brisbane qld 4001"
+      "australia",
+      "australia",
+      "australia"
     ],
     "regions": [
       "oceania",
@@ -6458,27 +6458,27 @@
     ],
     "afilitions": [
       "Tsinghua University",
-      "Hong Kong University of Science and Technology",
+      "hong kong university of science and technology",
       "Tsinghua University",
-      "Information System",
+      "Information System Sina Technology",
       "Tsinghua University",
-      "Information System"
+      "Information System Sina Technology"
     ],
     "countries": [
       "china",
-      "hong kong",
       "china",
-      "united states minor outlying islands",
       "china",
-      "united states minor outlying islands"
+      "china",
+      "china",
+      "china"
     ],
     "regions": [
       "asia",
       "asia",
       "asia",
-      "oceania",
       "asia",
-      "oceania"
+      "asia",
+      "asia"
     ],
     "conference": "The 6th International Symposium on Visual Information Communication and Interaction (VINCI), VINCI '13, Tianjin, China - August 17 - 18, 2013.",
     "id": "10.1145/2493102.2493108"
@@ -6494,19 +6494,19 @@
       "Eakta Jain"
     ],
     "afilitions": [
-      "university of texas at dallas",
-      "university of texas at dallas",
-      "university of texas at dallas"
+      "university of texas",
+      "tianjin university",
+      "university of texas"
     ],
     "countries": [
-      "tx",
+      "united states",
       "china",
-      "tx"
+      "united states"
     ],
     "regions": [
-      "oceania",
+      "north america",
       "asia",
-      "asia"
+      "north america"
     ],
     "conference": "The 6th International Symposium on Visual Information Communication and Interaction (VINCI), VINCI '13, Tianjin, China - August 17 - 18, 2013.",
     "id": "10.1145/2493102.2493109"
@@ -6686,7 +6686,7 @@
       "italy",
       "italy",
       "italy",
-      "uk",
+      "united kingdom",
       "italy"
     ],
     "regions": [
@@ -6773,12 +6773,12 @@
       "loughborough university"
     ],
     "countries": [
-      "united states minor outlying islands",
-      "united states minor outlying islands"
+      "united kingdom",
+      "united kingdom"
     ],
     "regions": [
-      "oceania",
-      "oceania"
+      "europe",
+      "europe"
     ],
     "conference": "The 6th International Symposium on Visual Information Communication and Interaction (VINCI), VINCI '13, Tianjin, China - August 17 - 18, 2013.",
     "id": "10.1145/2493102.2493120"
@@ -6865,14 +6865,14 @@
       "university college london"
     ],
     "countries": [
-      "sc",
-      "il",
-      "england",
-      "england"
+      "united states",
+      "united states",
+      "united kingdom",
+      "united kingdom"
     ],
     "regions": [
-      "asia",
-      "asia",
+      "north america",
+      "north america",
       "europe",
       "europe"
     ],
@@ -6928,13 +6928,13 @@
       "Michelle Xue Zhou"
     ],
     "afilitions": [
-      "User Systems and Experience Research (USER)"
+      "IBM Research"
     ],
     "countries": [
-      "ca"
+      "united states"
     ],
     "regions": [
-      "asia"
+      "north america"
     ],
     "conference": "The 6th International Symposium on Visual Information Communication and Interaction (VINCI), VINCI '13, Tianjin, China - August 17 - 18, 2013.",
     "id": "10.1145/2493102.2499786"
@@ -6951,10 +6951,10 @@
       "loughborough university"
     ],
     "countries": [
-      "united states minor outlying islands"
+      "united kingdom"
     ],
     "regions": [
-      "oceania"
+      "europe"
     ],
     "conference": "The 6th International Symposium on Visual Information Communication and Interaction (VINCI), VINCI '13, Tianjin, China - August 17 - 18, 2013.",
     "id": "10.1145/2493102.2499787"
@@ -7007,9 +7007,9 @@
       "central south university"
     ],
     "countries": [
-      "changsha hunan",
-      "changsha hunan",
-      "changsha hunan"
+      "china",
+      "china",
+      "china"
     ],
     "regions": [
       "asia",
@@ -7073,14 +7073,14 @@
     "countries": [
       "china",
       "china",
-      "ny",
+      "united states",
       "china",
       "china"
     ],
     "regions": [
       "asia",
       "asia",
-      "asia",
+      "north america",
       "asia",
       "asia"
     ],
@@ -7101,12 +7101,12 @@
       "boise state university"
     ],
     "countries": [
-      "tn",
-      "idaho"
+      "united states",
+      "united states"
     ],
     "regions": [
-      "asia",
-      "asia"
+      "north america",
+      "north america"
     ],
     "conference": "The International Symposium on Visual Information Communication and Interaction, VINCI '12, Hangzhou, China - September 27 - 28, 2012.",
     "id": "10.1145/2397696.2397701"
@@ -7145,8 +7145,8 @@
       "Leland K Wilkinson"
     ],
     "afilitions": [
-      "University of Illinois at Chicago",
-      "University of Illinois at Chicago"
+      "university of illinois",
+      "university of illinois"
     ],
     "countries": [
       "united states",
@@ -7175,13 +7175,13 @@
       "zhejiang university"
     ],
     "countries": [
-      "nc",
-      "nc",
+      "united states",
+      "united states",
       "china"
     ],
     "regions": [
-      "asia",
-      "asia",
+      "north america",
+      "north america",
       "asia"
     ],
     "conference": "The International Symposium on Visual Information Communication and Interaction, VINCI '12, Hangzhou, China - September 27 - 28, 2012.",
@@ -7206,13 +7206,13 @@
     ],
     "countries": [
       "australia",
-      "tx",
+      "united states",
       "australia",
       "china"
     ],
     "regions": [
       "oceania",
-      "oceania",
+      "north america",
       "oceania",
       "asia"
     ],
@@ -7273,15 +7273,15 @@
       "K. Zhang"
     ],
     "afilitions": [
-      "university of texas at dallas",
-      "china and university of texas at dallas"
+      "university of texas",
+      "tianjin university"
     ],
     "countries": [
-      "texas",
+      "united states",
       "china"
     ],
     "regions": [
-      "asia",
+      "north america",
       "asia"
     ],
     "conference": "The International Symposium on Visual Information Communication and Interaction, VINCI '12, Hangzhou, China - September 27 - 28, 2012.",
@@ -7365,20 +7365,20 @@
       "university of the pacific"
     ],
     "countries": [
-      "nc",
-      "nc",
-      "nc",
-      "nc",
+      "united states",
+      "united states",
+      "united states",
+      "united states",
       "ca",
       "ca"
     ],
     "regions": [
-      "asia",
-      "asia",
-      "asia",
-      "asia",
-      "asia",
-      "asia"
+      "north america",
+      "north america",
+      "north america",
+      "north america",
+      "north america",
+      "north america"
     ],
     "conference": "The International Symposium on Visual Information Communication and Interaction, VINCI '12, Hangzhou, China - September 27 - 28, 2012.",
     "id": "10.1145/2397696.2397710"
@@ -7440,13 +7440,13 @@
     ],
     "countries": [
       "australia",
-      "taiwan",
+      "china",
       "sydney"
     ],
     "regions": [
       "oceania",
-      "oceania",
-      "oceania"
+      "asia",
+      "asia"
     ],
     "conference": "The International Symposium on Visual Information Communication and Interaction, VINCI '12, Hangzhou, China - September 27 - 28, 2012.",
     "id": "10.1145/2397696.2397712"
@@ -7465,22 +7465,22 @@
     ],
     "afilitions": [
       "charlotte visualization center",
-      "palo alto research center",
+      "Palo Alto Research Center",
       "university of new hampshire",
       "charlotte visualization center",
       "charlotte visualization center"
     ],
     "countries": [
       "",
-      "",
-      "",
+      "united states",
+      "united states",
       "",
       ""
     ],
     "regions": [
       "",
-      "",
-      "",
+      "north america",
+      "north america",
       "",
       ""
     ],
@@ -7646,19 +7646,19 @@
       "Xiaolong(Luke) Zhang"
     ],
     "afilitions": [
-      "university park",
-      "university park",
-      "university park"
+      "pennsylvania state university",
+      "pennsylvania state university",
+      "pennsylvania state university"
     ],
     "countries": [
-      "pa",
-      "pa",
-      "pa"
+      "united states",
+      "united states",
+      "united states"
     ],
     "regions": [
-      "asia",
-      "asia",
-      "asia"
+      "north america",
+      "north america",
+      "north america"
     ],
     "conference": "The 2011 Visual Information Communication - International Symposium, VINCI '11, Hong Kong, China - August 04 - 05, 2011.",
     "id": "10.1145/2016656.2016663"
@@ -7775,16 +7775,16 @@
       "university of technology sydney"
     ],
     "countries": [
-      "united states minor outlying islands",
-      "united states minor outlying islands",
-      "united states minor outlying islands",
+      "china",
+      "china",
+      "china",
       "china",
       "australia"
     ],
     "regions": [
-      "oceania",
-      "oceania",
-      "oceania",
+      "asia",
+      "asia",
+      "asia",
       "asia",
       "oceania"
     ],
@@ -7801,16 +7801,16 @@
       "K. Zhang"
     ],
     "afilitions": [
-      "the university of texas at dallas",
-      "the university of texas at dallas"
+      "university of texas",
+      "university of texas"
     ],
     "countries": [
-      "tx",
-      "tx"
+      "united states",
+      "united states"
     ],
     "regions": [
-      "oceania",
-      "oceania"
+      "north america",
+      "north america"
     ],
     "conference": "The 2011 Visual Information Communication - International Symposium, VINCI '11, Hong Kong, China - August 04 - 05, 2011.",
     "id": "10.1145/2016656.2016668"
@@ -7829,20 +7829,20 @@
       "Lionel Ming Shuan Ni"
     ],
     "afilitions": [
-      "Hong Kong University of Science and Technology",
-      "Hong Kong University of Science and Technology",
-      "Hong Kong University of Science and Technology",
-      "Hong Kong University of Science and Technology",
-      "Hong Kong University of Science and Technology",
-      "Hong Kong University of Science and Technology"
+      "hong kong university of science and technology",
+      "hong kong university of science and technology",
+      "hong kong university of science and technology",
+      "hong kong university of science and technology",
+      "hong kong university of science and technology",
+      "hong kong university of science and technology"
     ],
     "countries": [
-      "hong kong",
-      "hong kong",
-      "hong kong",
-      "hong kong",
-      "hong kong",
-      "hong kong"
+      "china",
+      "china",
+      "china",
+      "china",
+      "china",
+      "china"
     ],
     "regions": [
       "asia",
@@ -7873,8 +7873,8 @@
       "texas"
     ],
     "regions": [
-      "oceania",
-      "oceania"
+      "asia",
+      "asia"
     ],
     "conference": "The 2011 Visual Information Communication - International Symposium, VINCI '11, Hong Kong, China - August 04 - 05, 2011.",
     "id": "10.1145/2016656.2016670"
@@ -7892,25 +7892,25 @@
       "Xiaolong(Luke) Zhang"
     ],
     "afilitions": [
-      "university park",
+      "the penn state university",
       "sun yatsen university",
       "sun yatsen university",
       "sun yatsen university",
-      "university park"
+      "the penn state university"
     ],
     "countries": [
-      "pa",
+      "united states",
       "china",
       "china",
       "china",
-      "pa"
+      "united states"
     ],
     "regions": [
-      "oceania",
+      "north america",
       "asia",
       "asia",
       "asia",
-      "asia"
+      "north america"
     ],
     "conference": "The 2011 Visual Information Communication - International Symposium, VINCI '11, Hong Kong, China - August 04 - 05, 2011.",
     "id": "10.1145/2016656.2016671"
@@ -7925,16 +7925,16 @@
       "K. Zhang"
     ],
     "afilitions": [
-      "the university of texas at dallas",
-      "the university of texas at dallas"
+      "university of texas",
+      "university of texas"
     ],
     "countries": [
-      "tx",
-      "tx"
+      "united states",
+      "united states"
     ],
     "regions": [
-      "asia",
-      "asia"
+      "north america",
+      "north america"
     ],
     "conference": "The 2011 Visual Information Communication - International Symposium, VINCI '11, Hong Kong, China - August 04 - 05, 2011.",
     "id": "10.1145/2016656.2016672"
@@ -7951,12 +7951,12 @@
       "university of california"
     ],
     "countries": [
-      "san diego"
+      "united states"
     ],
     "regions": [
-      "asia"
+      "north america"
     ],
-    "conference": "2010 International Symposium on Visual Information Communication, VINCI '10, Beijing, China - September 28 - 29, 2010.",
+    "conference": "2010 International Symposium on Visual Information Communication, VINCI '10, China - September 28 - 29, 2010.",
     "id": "10.1145/1865841.1865843"
   },
   "10.1145/1865841.1865844": {
@@ -7976,7 +7976,7 @@
     "regions": [
       ""
     ],
-    "conference": "2010 International Symposium on Visual Information Communication, VINCI '10, Beijing, China - September 28 - 29, 2010.",
+    "conference": "2010 International Symposium on Visual Information Communication, VINCI '10, China - September 28 - 29, 2010.",
     "id": "10.1145/1865841.1865844"
   },
   "10.1145/1865841.1865845": {
@@ -7991,12 +7991,12 @@
       "CSIRO ICT Centre"
     ],
     "countries": [
-      "nsw"
+      "australia"
     ],
     "regions": [
-      "asia"
+      "oceania"
     ],
-    "conference": "2010 International Symposium on Visual Information Communication, VINCI '10, Beijing, China - September 28 - 29, 2010.",
+    "conference": "2010 International Symposium on Visual Information Communication, VINCI '10, China - September 28 - 29, 2010.",
     "id": "10.1145/1865841.1865845"
   },
   "10.1145/1865841.1865846": {
@@ -8011,12 +8011,12 @@
       "brunel university"
     ],
     "countries": [
-      "uk"
+      "united kingdom"
     ],
     "regions": [
-      "asia"
+      "europe"
     ],
-    "conference": "2010 International Symposium on Visual Information Communication, VINCI '10, Beijing, China - September 28 - 29, 2010.",
+    "conference": "2010 International Symposium on Visual Information Communication, VINCI '10, China - September 28 - 29, 2010.",
     "id": "10.1145/1865841.1865846"
   },
   "10.1145/1865841.1865848": {
@@ -8048,7 +8048,7 @@
       "asia",
       "asia"
     ],
-    "conference": "2010 International Symposium on Visual Information Communication, VINCI '10, Beijing, China - September 28 - 29, 2010.",
+    "conference": "2010 International Symposium on Visual Information Communication, VINCI '10, China - September 28 - 29, 2010.",
     "id": "10.1145/1865841.1865848"
   },
   "10.1145/1865841.1865849": {
@@ -8084,7 +8084,7 @@
       "asia",
       "asia"
     ],
-    "conference": "2010 International Symposium on Visual Information Communication, VINCI '10, Beijing, China - September 28 - 29, 2010.",
+    "conference": "2010 International Symposium on Visual Information Communication, VINCI '10, China - September 28 - 29, 2010.",
     "id": "10.1145/1865841.1865849"
   },
   "10.1145/1865841.1865850": {
@@ -8101,14 +8101,14 @@
       "beijing normal university"
     ],
     "countries": [
-      "beijing",
-      "beijing"
+      "china",
+      "china"
     ],
     "regions": [
       "asia",
       "asia"
     ],
-    "conference": "2010 International Symposium on Visual Information Communication, VINCI '10, Beijing, China - September 28 - 29, 2010.",
+    "conference": "2010 International Symposium on Visual Information Communication, VINCI '10, China - September 28 - 29, 2010.",
     "id": "10.1145/1865841.1865850"
   },
   "10.1145/1865841.1865852": {
@@ -8128,7 +8128,7 @@
     "regions": [
       "asia"
     ],
-    "conference": "2010 International Symposium on Visual Information Communication, VINCI '10, Beijing, China - September 28 - 29, 2010.",
+    "conference": "2010 International Symposium on Visual Information Communication, VINCI '10, China - September 28 - 29, 2010.",
     "id": "10.1145/1865841.1865852"
   },
   "10.1145/1865841.1865853": {
@@ -8160,7 +8160,7 @@
       "asia",
       "asia"
     ],
-    "conference": "2010 International Symposium on Visual Information Communication, VINCI '10, Beijing, China - September 28 - 29, 2010.",
+    "conference": "2010 International Symposium on Visual Information Communication, VINCI '10, China - September 28 - 29, 2010.",
     "id": "10.1145/1865841.1865853"
   },
   "10.1145/1865841.1865854": {
@@ -8184,7 +8184,7 @@
       "oceania",
       "oceania"
     ],
-    "conference": "2010 International Symposium on Visual Information Communication, VINCI '10, Beijing, China - September 28 - 29, 2010.",
+    "conference": "2010 International Symposium on Visual Information Communication, VINCI '10, China - September 28 - 29, 2010.",
     "id": "10.1145/1865841.1865854"
   },
   "10.1145/1865841.1865856": {
@@ -8208,7 +8208,7 @@
       "north america",
       "north america"
     ],
-    "conference": "2010 International Symposium on Visual Information Communication, VINCI '10, Beijing, China - September 28 - 29, 2010.",
+    "conference": "2010 International Symposium on Visual Information Communication, VINCI '10, China - September 28 - 29, 2010.",
     "id": "10.1145/1865841.1865856"
   },
   "10.1145/1865841.1865857": {
@@ -8236,7 +8236,7 @@
       "asia",
       "asia"
     ],
-    "conference": "2010 International Symposium on Visual Information Communication, VINCI '10, Beijing, China - September 28 - 29, 2010.",
+    "conference": "2010 International Symposium on Visual Information Communication, VINCI '10, China - September 28 - 29, 2010.",
     "id": "10.1145/1865841.1865857"
   },
   "10.1145/1865841.1865858": {
@@ -8260,7 +8260,7 @@
       "asia",
       "asia"
     ],
-    "conference": "2010 International Symposium on Visual Information Communication, VINCI '10, Beijing, China - September 28 - 29, 2010.",
+    "conference": "2010 International Symposium on Visual Information Communication, VINCI '10, China - September 28 - 29, 2010.",
     "id": "10.1145/1865841.1865858"
   },
   "10.1145/1865841.1865860": {
@@ -8300,7 +8300,7 @@
       "asia",
       "asia"
     ],
-    "conference": "2010 International Symposium on Visual Information Communication, VINCI '10, Beijing, China - September 28 - 29, 2010.",
+    "conference": "2010 International Symposium on Visual Information Communication, VINCI '10, China - September 28 - 29, 2010.",
     "id": "10.1145/1865841.1865860"
   },
   "10.1145/1865841.1865861": {
@@ -8332,7 +8332,7 @@
       "asia",
       "asia"
     ],
-    "conference": "2010 International Symposium on Visual Information Communication, VINCI '10, Beijing, China - September 28 - 29, 2010.",
+    "conference": "2010 International Symposium on Visual Information Communication, VINCI '10, China - September 28 - 29, 2010.",
     "id": "10.1145/1865841.1865861"
   },
   "10.1145/1865841.1865862": {
@@ -8360,7 +8360,7 @@
       "oceania",
       "oceania"
     ],
-    "conference": "2010 International Symposium on Visual Information Communication, VINCI '10, Beijing, China - September 28 - 29, 2010.",
+    "conference": "2010 International Symposium on Visual Information Communication, VINCI '10, China - September 28 - 29, 2010.",
     "id": "10.1145/1865841.1865862"
   },
   "10.1145/1865841.1865864": {
@@ -8384,7 +8384,7 @@
       "oceania",
       "oceania"
     ],
-    "conference": "2010 International Symposium on Visual Information Communication, VINCI '10, Beijing, China - September 28 - 29, 2010.",
+    "conference": "2010 International Symposium on Visual Information Communication, VINCI '10, China - September 28 - 29, 2010.",
     "id": "10.1145/1865841.1865864"
   },
   "10.1145/1865841.1865865": {
@@ -8399,24 +8399,24 @@
       "Xiaolong(Luke) Zhang"
     ],
     "afilitions": [
-      "university park",
-      "university park",
-      "university park",
-      "university park"
+      "the penn state university park",
+      "the penn state university park",
+      "the penn state university park",
+      "the penn state university park"
     ],
     "countries": [
-      "united states minor outlying islands",
-      "united states minor outlying islands",
-      "united states minor outlying islands",
-      "united states minor outlying islands"
+      "united states",
+      "united states",
+      "united states",
+      "united states"
     ],
     "regions": [
-      "oceania",
-      "oceania",
-      "oceania",
-      "oceania"
+      "north america",
+      "north america",
+      "north america",
+      "north america"
     ],
-    "conference": "2010 International Symposium on Visual Information Communication, VINCI '10, Beijing, China - September 28 - 29, 2010.",
+    "conference": "2010 International Symposium on Visual Information Communication, VINCI '10, China - September 28 - 29, 2010.",
     "id": "10.1145/1865841.1865865"
   },
   "10.1145/1865841.1865866": {
@@ -8440,7 +8440,7 @@
       "asia",
       "asia"
     ],
-    "conference": "2010 International Symposium on Visual Information Communication, VINCI '10, Beijing, China - September 28 - 29, 2010.",
+    "conference": "2010 International Symposium on Visual Information Communication, VINCI '10, China - September 28 - 29, 2010.",
     "id": "10.1145/1865841.1865866"
   },
   "10.1145/1865841.1865868": {
@@ -8453,18 +8453,18 @@
       "K. Zhang"
     ],
     "afilitions": [
-      "the university of texas at dallas",
-      "the university of texas at dallas"
+      "university of texas",
+      "university of texas"
     ],
     "countries": [
-      "tx",
-      "tx"
+      "united states",
+      "united states"
     ],
     "regions": [
-      "asia",
-      "asia"
+      "north america",
+      "north america"
     ],
-    "conference": "2010 International Symposium on Visual Information Communication, VINCI '10, Beijing, China - September 28 - 29, 2010.",
+    "conference": "2010 International Symposium on Visual Information Communication, VINCI '10, China - September 28 - 29, 2010.",
     "id": "10.1145/1865841.1865868"
   },
   "10.1145/1865841.1865869": {
@@ -8481,14 +8481,14 @@
       "University of Macau"
     ],
     "countries": [
-      "macao",
-      "macao"
+      "china",
+      "china"
     ],
     "regions": [
       "asia",
       "asia"
     ],
-    "conference": "2010 International Symposium on Visual Information Communication, VINCI '10, Beijing, China - September 28 - 29, 2010.",
+    "conference": "2010 International Symposium on Visual Information Communication, VINCI '10, China - September 28 - 29, 2010.",
     "id": "10.1145/1865841.1865869"
   },
   "10.1145/1865841.1865870": {
@@ -8502,21 +8502,21 @@
       "Guoray Cai"
     ],
     "afilitions": [
-      "university park",
-      "university park",
-      "university park"
+      "pennsylvania state university",
+      "pennsylvania state university",
+      "pennsylvania state university"
     ],
     "countries": [
-      "pa",
-      "pa",
-      "pa"
+      "united states",
+      "united states",
+      "united states"
     ],
     "regions": [
-      "asia",
-      "asia",
-      "asia"
+      "north america",
+      "north america",
+      "north america"
     ],
-    "conference": "2010 International Symposium on Visual Information Communication, VINCI '10, Beijing, China - September 28 - 29, 2010.",
+    "conference": "2010 International Symposium on Visual Information Communication, VINCI '10, China - September 28 - 29, 2010.",
     "id": "10.1145/1865841.1865870"
   },
   "10.1145/3554944.3554948": {
@@ -8608,23 +8608,23 @@
       "Kang Zhang"
     ],
     "afilitions": [
-      "the university of texas at dallas",
+      "university of texas",
       "china university of mining and technology",
-      "university of pennsylvania",
-      "hong kong university of science and technology guangzhou",
-      "hong kong university of science and technology guangzhou"
+      "university of united states",
+      "hong kong university of science and technology",
+      "hong kong university of science and technology"
     ],
     "countries": [
       "united states",
       "china",
-      "united states",
+      "university of united states",
       "china",
       "china"
     ],
     "regions": [
       "north america",
       "asia",
-      "north america",
+      "asia",
       "asia",
       "asia"
     ],
@@ -9081,11 +9081,11 @@
       "Imperial College London"
     ],
     "countries": [
-      "united states minor outlying islands",
+      "united kingdom",
       "united kingdom"
     ],
     "regions": [
-      "oceania",
+      "europe",
       "europe"
     ],
     "conference": "",
@@ -9114,7 +9114,7 @@
     ],
     "countries": [
       "switzerland",
-      "united states minor outlying islands",
+      "",
       "switzerland",
       "switzerland",
       "switzerland",
@@ -9122,7 +9122,7 @@
     ],
     "regions": [
       "europe",
-      "oceania",
+      "",
       "europe",
       "europe",
       "europe",
@@ -9409,18 +9409,18 @@
       "Daniel Weiskopf"
     ],
     "afilitions": [
-      "University of Stuttgart",
-      "University of Stuttgart",
-      "University of Stuttgart",
-      "eth zurich",
-      "Oregon State University",
-      "University of Stuttgart"
+      "university of stuttgart",
+      "university of stuttgart",
+      "university of stuttgart",
+      "ETH Zurich",
+      "oregon state university",
+      "university of stuttgart"
     ],
     "countries": [
       "germany",
       "germany",
       "germany",
-      "",
+      "switzerland",
       "united states",
       "germany"
     ],
@@ -9428,7 +9428,7 @@
       "europe",
       "europe",
       "europe",
-      "",
+      "europe",
       "north america",
       "europe"
     ],
@@ -9818,9 +9818,9 @@
       "Ken Wakita"
     ],
     "afilitions": [
-      "tokyo institute of technology",
-      "teikoku databank and the university of tokyo",
-      "tokyo institute of technology"
+      "Tokyo Institute of Technology",
+      "university of tokyo",
+      "Tokyo Institute of Technology"
     ],
     "countries": [
       "japan",
@@ -10014,19 +10014,19 @@
       "Texas Tech University",
       "Texas Tech University",
       "Texas Tech University",
-      "Dell"
+      "Dell Inc"
     ],
     "countries": [
       "united states",
       "united states",
       "united states",
-      "united states minor outlying islands"
+      ""
     ],
     "regions": [
       "north america",
       "north america",
       "north america",
-      "oceania"
+      ""
     ],
     "conference": "",
     "id": "10.1145/3430036.3430072"
@@ -10203,9 +10203,9 @@
       "eindhoven university of technology"
     ],
     "countries": [
-      "eindhoven",
-      "eindhoven",
-      "eindhoven"
+      "netherlands",
+      "netherlands",
+      "netherlands"
     ],
     "regions": [
       "europe",
@@ -10328,15 +10328,15 @@
     ],
     "afilitions": [
       "chinese academy of sciences and university of chinese academy of sciencess",
-      "Shenzhen Institutes of Advanced Technology",
-      "Shenzhen Institutes of Advanced Technology",
-      "Shenzhen Institutes of Advanced Technology"
+      "Chinese Academy of Sciences",
+      "Chinese Academy of Sciences",
+      "Chinese Academy of Sciences"
     ],
     "countries": [
       "chinese",
-      "chinese",
-      "chinese",
-      "chinese"
+      "china",
+      "china",
+      "china"
     ],
     "regions": [
       "asia",
@@ -10365,7 +10365,7 @@
       "tianjin university",
       "tianjin university",
       "technology and business university",
-      "the university of texas at dallas",
+      "university of texas",
       "university of science and technology of china"
     ],
     "countries": [
@@ -10521,8 +10521,8 @@
       "eindhoven university of technology"
     ],
     "countries": [
-      "eindhoven",
-      "eindhoven"
+      "netherlands",
+      "netherlands"
     ],
     "regions": [
       "europe",
@@ -10573,12 +10573,12 @@
       "university of wuppertal"
     ],
     "countries": [
-      "engineering rwth aachen university",
-      "university of wuppertal"
+      "germany",
+      "germany"
     ],
     "regions": [
-      "asia",
-      "asia"
+      "europe",
+      "europe"
     ],
     "conference": "",
     "id": "10.1145/3356422.3356434"
@@ -10597,12 +10597,12 @@
       "university of louisville"
     ],
     "countries": [
-      "united states minor outlying islands",
-      "united states minor outlying islands"
+      "united states",
+      "united states"
     ],
     "regions": [
-      "oceania",
-      "oceania"
+      "north america",
+      "north america"
     ],
     "conference": "",
     "id": "10.1145/3356422.3356438"
@@ -10924,17 +10924,17 @@
     "afilitions": [
       "tianjin university",
       "tianjin university",
-      "university of texas at dallas"
+      "university of texas"
     ],
     "countries": [
       "china",
       "china",
-      "richardson tx united states"
+      "united states"
     ],
     "regions": [
       "asia",
       "asia",
-      "asia"
+      "north america"
     ],
     "conference": "",
     "id": "10.1145/3356422.3356453"

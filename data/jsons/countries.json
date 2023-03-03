@@ -928,6 +928,10 @@
         "continent": "Oceania"
     },
     {
+        "country": "",
+        "continent": ""
+    },
+    {
         "country": "Uruguay",
         "continent": "South America"
     },

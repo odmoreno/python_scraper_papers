@@ -127,7 +127,7 @@ class SpringerClient:
         pass
     
     def load_data_vinci(self):
-        self.papers_vinci = load_generic('data/jsons/papers_update.json')
+        self.papers_vinci = load_generic('data/vinci_2009/papers_update_v2.json')
         self.institutos_vinci = load_generic('data/jsons/insti.json')
         self.autores_vinci = load_generic('data/jsons/authors_update.json')
         self.paises = load_generic('data/jsons/countries.json')
@@ -201,7 +201,7 @@ class SpringerClient:
                 year = list['year']
                 autor_list_new = []
                 title = list['title']
-                if title == 'IMDb Explorer: Visual Exploration of a Movie Database':
+                if title == 'Visually Communicating Mathematical Knot Deformation':
                     print('a')
                     pass
 
@@ -211,7 +211,7 @@ class SpringerClient:
                         name = instituto[0]['name']
                         id_insti = instituto[0]['id']
                         element = self.institutos_vinci[id_insti]
-                        data = self.extract_info_2009(name, element)
+                        data = self.extract_info_2009(element['name'], element)
                         autor['institution'] = data
                     else:
                         instituto = instituto.replace('.', ',')
@@ -534,7 +534,6 @@ class SpringerClient:
 
         res2 = self.papers_acm | self.papers_vinci
         save_generic('data/jsons/papers_update.json', res2)
-
         pass
 
     def merge_data (self, new_auths):
@@ -557,6 +556,7 @@ class SpringerClient:
 
         res1 = papers_2009 | all_papers
         print(res1)
+        save_generic('data/vinci_refs/nodes2.json', res1)
 
         authors_2009 = {}
         authors_vinci = {}
@@ -605,6 +605,8 @@ class SpringerClient:
         #csv_generics('data/vinci_2009/authors.csv', list2, authors_col)
 
     def main(self):
+        self.papers_acm = load_generic('data/vinci_2009/papers_acm.json')
+
         #self.extract_page_for_acm()
         #self.save_info()
         #self.driver_for_acm.get("https://dl.acm.org/profile/99660628905")
@@ -612,7 +614,9 @@ class SpringerClient:
         #self.extract_info_springer()
         #self.save_info()
         #new_auths = self.extract_authors()
+
         #self.merge_data(new_auths)
+
         #self.merge_data_2(new_auths)
 
         self.get_papers_vinci_info()
