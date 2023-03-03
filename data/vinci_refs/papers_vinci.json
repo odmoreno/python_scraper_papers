@@ -3572,43 +3572,71 @@
       },
       {
         "name": "Tobias Boley",
-        "institution": "Reutlingen University",
+        "institution": {
+          "name": "Reutlingen University",
+          "country": "germany",
+          "region": "europe"
+        },
         "url": "https://dl.acm.org/profile/99659292088",
         "id": "99659292088"
       },
       {
         "name": "Arjana Mehmeti",
-        "institution": "Reutlingen University",
+        "institution": {
+          "name": "Reutlingen University",
+          "country": "germany",
+          "region": "europe"
+        },
         "url": "https://dl.acm.org/profile/99659290889",
         "id": "99659290889"
       },
       {
         "name": "Dina Kurbanismailova",
-        "institution": "Reutlingen University",
+        "institution": {
+          "name": "Reutlingen University",
+          "country": "germany",
+          "region": "europe"
+        },
         "url": "https://dl.acm.org/profile/99659291964",
         "id": "99659291964"
       },
       {
         "name": "Marc Roswag",
-        "institution": "Reutlingen University",
+        "institution": {
+          "name": "Reutlingen University",
+          "country": "germany",
+          "region": "europe"
+        },
         "url": "https://dl.acm.org/profile/99659291329",
         "id": "99659291329"
       },
       {
         "name": "Oliver Streicher",
-        "institution": "Reutlingen University",
+        "institution": {
+          "name": "Reutlingen University",
+          "country": "germany",
+          "region": "europe"
+        },
         "url": "https://dl.acm.org/profile/99659292148",
         "id": "99659292148"
       },
       {
         "name": "Steffen Wittig",
-        "institution": "Reutlingen University",
+        "institution": {
+          "name": "Reutlingen University",
+          "country": "germany",
+          "region": "europe"
+        },
         "url": "https://dl.acm.org/profile/99659289339",
         "id": "99659289339"
       },
       {
         "name": "Uwe Kloos",
-        "institution": "Reutlingen University",
+        "institution": {
+          "name": "Reutlingen University",
+          "country": "germany",
+          "region": "europe"
+        },
         "url": "https://dl.acm.org/profile/81466647554",
         "id": "81466647554"
       }
@@ -4470,25 +4498,41 @@
       },
       {
         "name": "Hongryeol Ryu",
-        "institution": "Yonsei University",
+        "institution": {
+          "name": "Yonsei University",
+          "country": "south korea",
+          "region": "asia"
+        },
         "url": "https://dl.acm.org/profile/99658730770",
         "id": "99658730770"
       },
       {
         "name": "Hanbyul Yeon",
-        "institution": "Sejong University",
+        "institution": {
+          "name": "Sejong University",
+          "country": "south korea",
+          "region": "asia"
+        },
         "url": "https://dl.acm.org/profile/99658765084",
         "id": "99658765084"
       },
       {
         "name": "Taekyoung ‘Taekyoung’ Kwon",
-        "institution": "Yonsei University",
+        "institution": {
+          "name": "Yonsei University",
+          "country": "south korea",
+          "region": "asia"
+        },
         "url": "https://dl.acm.org/profile/81451594353",
         "id": "81451594353"
       },
       {
         "name": "Yun Jang",
-        "institution": "Sejong University",
+        "institution": {
+          "name": "Sejong University",
+          "country": "south korea",
+          "region": "asia"
+        },
         "url": "https://dl.acm.org/profile/81372592812",
         "id": "81372592812"
       }
@@ -4525,37 +4569,61 @@
       },
       {
         "name": "Rudolf Netzel",
-        "institution": "University of Stuttgart",
+        "institution": {
+          "name": "University of Stuttgart",
+          "country": "germany",
+          "region": "europe"
+        },
         "url": "https://dl.acm.org/profile/81558361656",
         "id": "81558361656"
       },
       {
         "name": "Kazi Riaz Ullah",
-        "institution": "University of Stuttgart",
+        "institution": {
+          "name": "University of Stuttgart",
+          "country": "germany",
+          "region": "europe"
+        },
         "url": "https://dl.acm.org/profile/99659194145",
         "id": "99659194145"
       },
       {
         "name": "Michael Burch",
-        "institution": "University of Stuttgart",
+        "institution": {
+          "name": "University of Stuttgart",
+          "country": "germany",
+          "region": "europe"
+        },
         "url": "https://dl.acm.org/profile/81331488994",
         "id": "81331488994"
       },
       {
         "name": "Alexander Schultz",
-        "institution": "Fraunhofer Institute for Solar Energy Systems ISE",
+        "institution": {
+          "name": "Fraunhofer Institute for Solar Energy Systems ISE",
+          "country": "germany",
+          "region": "europe"
+        },
         "url": "https://dl.acm.org/profile/99659194188",
         "id": "99659194188"
       },
       {
         "name": "Bruno Burger",
-        "institution": "Fraunhofer Institute for Solar Energy Systems ISE",
+        "institution": {
+          "name": "Fraunhofer Institute for Solar Energy Systems ISE",
+          "country": "germany",
+          "region": "europe"
+        },
         "url": "https://dl.acm.org/profile/81440598602",
         "id": "81440598602"
       },
       {
         "name": "Daniel Weiskopf",
-        "institution": "University of Stuttgart",
+        "institution": {
+          "name": "University of Stuttgart",
+          "country": "germany",
+          "region": "europe"
+        },
         "url": "https://dl.acm.org/profile/81548014780",
         "id": "81548014780"
       }
@@ -4592,37 +4660,61 @@
       },
       {
         "name": "Luana Micallef",
-        "institution": "Aalto University",
+        "institution": {
+          "name": "Aalto University",
+          "country": "finland",
+          "region": "europe"
+        },
         "url": "https://dl.acm.org/profile/81548012985",
         "id": "81548012985"
       },
       {
         "name": "Chao An",
-        "institution": "University of Helsinki, Finland",
+        "institution": {
+          "name": "university of helsinki",
+          "country": "finland",
+          "region": "europe"
+        },
         "url": "https://dl.acm.org/profile/83058808757",
         "id": "83058808757"
       },
       {
         "name": "Aki Reijonen",
-        "institution": "University of Helsinki, Finland",
+        "institution": {
+          "name": "university of helsinki",
+          "country": "finland",
+          "region": "europe"
+        },
         "url": "https://dl.acm.org/profile/84459914957",
         "id": "84459914957"
       },
       {
         "name": "Jaakko Peltonen",
-        "institution": "Aalto University",
+        "institution": {
+          "name": "Aalto University",
+          "country": "finland",
+          "region": "europe"
+        },
         "url": "https://dl.acm.org/profile/81100125974",
         "id": "81100125974"
       },
       {
         "name": "Tuukka Ruotsalo",
-        "institution": "University of Helsinki, Finland",
+        "institution": {
+          "name": "university of helsinki",
+          "country": "finland",
+          "region": "europe"
+        },
         "url": "https://dl.acm.org/profile/81339525898",
         "id": "81339525898"
       },
       {
         "name": "Giulio Iacucci",
-        "institution": "University of Helsinki, Finland",
+        "institution": {
+          "name": "university of helsinki",
+          "country": "finland",
+          "region": "europe"
+        },
         "url": "https://dl.acm.org/profile/81100644548",
         "id": "81100644548"
       }
@@ -4771,13 +4863,21 @@
       },
       {
         "name": "Donghao Ren",
-        "institution": "University of California",
+        "institution": {
+          "name": "University of California",
+          "country": "united states",
+          "region": "north america"
+        },
         "url": "https://dl.acm.org/profile/84460132057",
         "id": "84460132057"
       },
       {
         "name": "George Legrady",
-        "institution": "University of California",
+        "institution": {
+          "name": "University of California",
+          "country": "united states",
+          "region": "north america"
+        },
         "url": "https://dl.acm.org/profile/81320492170",
         "id": "81320492170"
       }
@@ -4957,13 +5057,21 @@
       },
       {
         "name": "Yihang Bo",
-        "institution": "Beijing Film Academy, Beijing, China",
+        "institution": {
+          "name": "Beijing Film Academy",
+          "country": "china",
+          "region": "asia"
+        },
         "url": "https://dl.acm.org/profile/99659194158",
         "id": "99659194158"
       },
       {
         "name": "Yi Yang",
-        "institution": "Chinese Academy of Sciences, Beijing, China",
+        "institution": {
+          "name": "Chinese Academy of Sciences",
+          "country": "china",
+          "region": "asia"
+        },
         "url": "https://dl.acm.org/profile/99659194162",
         "id": "99659194162"
       }
@@ -5416,19 +5524,31 @@
       },
       {
         "name": "Lorenzo Papa",
-        "institution": "Universitá di Padova, Italy",
+        "institution": {
+          "name": "Universitá di Padova",
+          "country": "italy",
+          "region": "europe"
+        },
         "url": "https://dl.acm.org/profile/99659194174",
         "id": "99659194174"
       },
       {
         "name": "Luciano Gamberini",
-        "institution": "Universitá di Padova, Italy",
+        "institution": {
+          "name": "Universitá di Padova",
+          "country": "italy",
+          "region": "europe"
+        },
         "url": "https://dl.acm.org/profile/81100210885",
         "id": "81100210885"
       },
       {
         "name": "Giulio Iacucci",
-        "institution": "University of Helsinki",
+        "institution": {
+          "name": "University of Helsinki",
+          "country": "finland",
+          "region": "europe"
+        },
         "url": "https://dl.acm.org/profile/81100644548",
         "id": "81100644548"
       }
@@ -5475,13 +5595,21 @@
       },
       {
         "name": "Ren Peng",
-        "institution": "Zhejiang University, Hangzhou, China",
+        "institution": {
+          "name": "zhejiang university",
+          "country": "china",
+          "region": "asia"
+        },
         "url": "https://dl.acm.org/profile/81466642306",
         "id": "81466642306"
       },
       {
         "name": "Jinhui Yu",
-        "institution": "Zhejiang University, Hangzhou, China",
+        "institution": {
+          "name": "zhejiang university",
+          "country": "china",
+          "region": "asia"
+        },
         "url": "https://dl.acm.org/profile/81381602769",
         "id": "81381602769"
       }
@@ -5853,25 +5981,41 @@
       },
       {
         "name": "Gem Stapleton",
-        "institution": "University of Brighton",
+        "institution": {
+          "name": "University of Brighton",
+          "country": "united kingdom",
+          "region": "europe"
+        },
         "url": "https://dl.acm.org/profile/81339530296",
         "id": "81339530296"
       },
       {
         "name": "Mateja Jamnik",
-        "institution": "University of Cambridge",
+        "institution": {
+          "name": "University of Cambridge",
+          "country": "united kingdom",
+          "region": "europe"
+        },
         "url": "https://dl.acm.org/profile/81100097678",
         "id": "81100097678"
       },
       {
         "name": "Zohreh Shams",
-        "institution": "University of Cambridge",
+        "institution": {
+          "name": "University of Cambridge",
+          "country": "united kingdom",
+          "region": "europe"
+        },
         "url": "https://dl.acm.org/profile/99658750308",
         "id": "99658750308"
       },
       {
         "name": "Andrew Blake",
-        "institution": "University of Brighton",
+        "institution": {
+          "name": "University of Brighton",
+          "country": "united kingdom",
+          "region": "europe"
+        },
         "url": "https://dl.acm.org/profile/99658638715",
         "id": "99658638715"
       }
@@ -6061,37 +6205,61 @@
       },
       {
         "name": "Yaoxue Zhang",
-        "institution": "Central South University",
+        "institution": {
+          "name": "Central South University",
+          "country": "china",
+          "region": "asia"
+        },
         "url": "https://dl.acm.org/profile/81339540126",
         "id": "81339540126"
       },
       {
         "name": "Fangfang Zhou",
-        "institution": "Central South University",
+        "institution": {
+          "name": "Central South University",
+          "country": "china",
+          "region": "asia"
+        },
         "url": "https://dl.acm.org/profile/81549260756",
         "id": "81549260756"
       },
       {
         "name": "Ying Zhao",
-        "institution": "Central South University",
+        "institution": {
+          "name": "Central South University",
+          "country": "china",
+          "region": "asia"
+        },
         "url": "https://dl.acm.org/profile/81549278756",
         "id": "81549278756"
       },
       {
         "name": "Guojun Wang",
-        "institution": "Central South University",
+        "institution": {
+          "name": "Central South University",
+          "country": "china",
+          "region": "asia"
+        },
         "url": "https://dl.acm.org/profile/81408600293",
         "id": "81408600293"
       },
       {
         "name": "Ronghua Shi",
-        "institution": "Central South University",
+        "institution": {
+          "name": "Central South University",
+          "country": "china",
+          "region": "asia"
+        },
         "url": "https://dl.acm.org/profile/81470649905",
         "id": "81470649905"
       },
       {
         "name": "Xing Liang",
-        "institution": "Arizona State University",
+        "institution": {
+          "name": "Arizona State University",
+          "country": "united states",
+          "region": "north america"
+        },
         "url": "https://dl.acm.org/profile/99658630885",
         "id": "99658630885"
       }
@@ -6362,67 +6530,111 @@
       },
       {
         "name": "Meghan Kajihara",
-        "institution": "University of North Texas",
+        "institution": {
+          "name": "University of North Texas",
+          "country": "united states",
+          "region": "north america"
+        },
         "url": "https://dl.acm.org/profile/99659067772",
         "id": "99659067772"
       },
       {
         "name": "Max Parola",
-        "institution": "University of North Texas",
+        "institution": {
+          "name": "University of North Texas",
+          "country": "united states",
+          "region": "north america"
+        },
         "url": "https://dl.acm.org/profile/99658988047",
         "id": "99658988047"
       },
       {
         "name": "Kathryn Hays",
-        "institution": "University of North Texas",
+        "institution": {
+          "name": "University of North Texas",
+          "country": "united states",
+          "region": "north america"
+        },
         "url": "https://dl.acm.org/profile/99659067444",
         "id": "99659067444"
       },
       {
         "name": "Luke Hillard",
-        "institution": "University of North Texas",
+        "institution": {
+          "name": "University of North Texas",
+          "country": "united states",
+          "region": "north america"
+        },
         "url": "https://dl.acm.org/profile/99659068485",
         "id": "99659068485"
       },
       {
         "name": "Anne Carlew",
-        "institution": "University of North Texas",
+        "institution": {
+          "name": "University of North Texas",
+          "country": "united states",
+          "region": "north america"
+        },
         "url": "https://dl.acm.org/profile/99659067913",
         "id": "99659067913"
       },
       {
         "name": "Jeremey Deutsch",
-        "institution": "University of North Texas",
+        "institution": {
+          "name": "University of North Texas",
+          "country": "united states",
+          "region": "north america"
+        },
         "url": "https://dl.acm.org/profile/99659068986",
         "id": "99659068986"
       },
       {
         "name": "Brandon Lane",
-        "institution": "University of North Texas",
+        "institution": {
+          "name": "University of North Texas",
+          "country": "united states",
+          "region": "north america"
+        },
         "url": "https://dl.acm.org/profile/99659068083",
         "id": "99659068083"
       },
       {
         "name": "Michelle Holloway",
-        "institution": "Wash. Univ. in St. Louis",
+        "institution": {
+          "name": "Wash",
+          "country": "louis",
+          "region": "europe"
+        },
         "url": "https://dl.acm.org/profile/99658628447",
         "id": "99658628447"
       },
       {
         "name": "Brendan John",
-        "institution": "Rochester Inst. of Tech.",
+        "institution": {
+          "name": "Rochester Inst",
+          "country": "united states minor outlying islands",
+          "region": "oceania"
+        },
         "url": "https://dl.acm.org/profile/87658893257",
         "id": "87658893257"
       },
       {
         "name": "Anahita Sanandaji",
-        "institution": "Oregon State University",
+        "institution": {
+          "name": "Oregon State University",
+          "country": "united states",
+          "region": "north america"
+        },
         "url": "https://dl.acm.org/profile/99658988516",
         "id": "99658988516"
       },
       {
         "name": "Cindy Marie Grimm",
-        "institution": "Oregon State University",
+        "institution": {
+          "name": "Oregon State University",
+          "country": "united states",
+          "region": "north america"
+        },
         "url": "https://dl.acm.org/profile/81100553787",
         "id": "81100553787"
       }
@@ -6452,7 +6664,7 @@
         "institution": {
           "name": "north dakota state university",
           "country": "north dakota state university",
-          "region": "europe"
+          "region": "oceania"
         },
         "url": "https://dl.acm.org/profile/99659036087",
         "id": "99659036087"
@@ -6462,7 +6674,7 @@
         "institution": {
           "name": "north dakota state university",
           "country": "north dakota state university",
-          "region": "europe"
+          "region": "oceania"
         },
         "url": "https://dl.acm.org/profile/99659068000",
         "id": "99659068000"
@@ -6472,7 +6684,7 @@
         "institution": {
           "name": "north dakota state university",
           "country": "north dakota state university",
-          "region": "europe"
+          "region": "oceania"
         },
         "url": "https://dl.acm.org/profile/81408600332",
         "id": "81408600332"
@@ -7509,7 +7721,11 @@
       },
       {
         "name": "Yun Jang",
-        "institution": "Sejong University",
+        "institution": {
+          "name": "Sejong University",
+          "country": "south korea",
+          "region": "asia"
+        },
         "url": "https://dl.acm.org/profile/81372592812",
         "id": "81372592812"
       }
@@ -8514,7 +8730,11 @@
       },
       {
         "name": "Michiya Morita",
-        "institution": "Gakushuin University",
+        "institution": {
+          "name": "Gakushuin University",
+          "country": "japan",
+          "region": "asia"
+        },
         "url": "https://dl.acm.org/profile/99658767496",
         "id": "99658767496"
       }
@@ -9450,19 +9670,31 @@
       },
       {
         "name": "Panpan Xu",
-        "institution": "Hong Kong University of Science and Technology",
+        "institution": {
+          "name": "Hong Kong University of Science and Technology",
+          "country": "hong kong",
+          "region": "asia"
+        },
         "url": "https://dl.acm.org/profile/81487645560",
         "id": "81487645560"
       },
       {
         "name": "Zhong Ming",
-        "institution": "Shenzhen University",
+        "institution": {
+          "name": "Shenzhen University",
+          "country": "china",
+          "region": "asia"
+        },
         "url": "https://dl.acm.org/profile/81100136462",
         "id": "81100136462"
       },
       {
         "name": "Huamin Qu",
-        "institution": "Hong Kong University of Science and Technology",
+        "institution": {
+          "name": "Hong Kong University of Science and Technology",
+          "country": "hong kong",
+          "region": "asia"
+        },
         "url": "https://dl.acm.org/profile/81100337801",
         "id": "81100337801"
       }
@@ -10038,7 +10270,11 @@
       },
       {
         "name": "Keyur Sorathia",
-        "institution": "Indian Institute of Technology Guwahati",
+        "institution": {
+          "name": "Indian Institute of Technology Guwahati",
+          "country": "india",
+          "region": "asia"
+        },
         "url": "https://dl.acm.org/profile/87958883657",
         "id": "87958883657"
       }
@@ -10114,19 +10350,31 @@
       },
       {
         "name": "Gem Stapleton",
-        "institution": "University of Brighton",
+        "institution": {
+          "name": "University of Brighton",
+          "country": "united kingdom",
+          "region": "europe"
+        },
         "url": "https://dl.acm.org/profile/81339530296",
         "id": "81339530296"
       },
       {
         "name": "Peter J Rodgers",
-        "institution": "University of Kent",
+        "institution": {
+          "name": "University of Kent",
+          "country": "united kingdom",
+          "region": "europe"
+        },
         "url": "https://dl.acm.org/profile/81100642599",
         "id": "81100642599"
       },
       {
         "name": "John Howse",
-        "institution": "University of Brighton",
+        "institution": {
+          "name": "University of Brighton",
+          "country": "united kingdom",
+          "region": "europe"
+        },
         "url": "https://dl.acm.org/profile/81548004966",
         "id": "81548004966"
       }
@@ -11577,31 +11825,51 @@
       },
       {
         "name": "Huamin Qu",
-        "institution": "Hong Kong University of Science and Technology",
+        "institution": {
+          "name": "Hong Kong University of Science and Technology",
+          "country": "hong kong",
+          "region": "asia"
+        },
         "url": "https://dl.acm.org/profile/81100337801",
         "id": "81100337801"
       },
       {
         "name": "Li Chen",
-        "institution": "Tsinghua University",
+        "institution": {
+          "name": "Tsinghua University",
+          "country": "china",
+          "region": "asia"
+        },
         "url": "https://dl.acm.org/profile/81550069356",
         "id": "81550069356"
       },
       {
         "name": "Robert Wang",
-        "institution": "Information System, Sina Technology, (China)Co., Ltd",
+        "institution": {
+          "name": "Information System",
+          "country": "united states minor outlying islands",
+          "region": "oceania"
+        },
         "url": "https://dl.acm.org/profile/82459274457",
         "id": "82459274457"
       },
       {
         "name": "Jun-Hai Yong",
-        "institution": "Tsinghua University",
+        "institution": {
+          "name": "Tsinghua University",
+          "country": "china",
+          "region": "asia"
+        },
         "url": "https://dl.acm.org/profile/81350568307",
         "id": "81350568307"
       },
       {
         "name": "Detan Si",
-        "institution": "Information System, Sina Technology, (China)Co., Ltd",
+        "institution": {
+          "name": "Information System",
+          "country": "united states minor outlying islands",
+          "region": "oceania"
+        },
         "url": "https://dl.acm.org/profile/82458816557",
         "id": "82458816557"
       }
@@ -11631,7 +11899,7 @@
         "institution": {
           "name": "university of texas at dallas",
           "country": "tx",
-          "region": "asia"
+          "region": "oceania"
         },
         "url": "https://dl.acm.org/profile/81472652484",
         "id": "81472652484"
@@ -11821,13 +12089,21 @@
       },
       {
         "name": "Quang Vinh Nguyen",
-        "institution": "Western Sydney University",
+        "institution": {
+          "name": "Western Sydney University",
+          "country": "australia",
+          "region": "oceania"
+        },
         "url": "https://dl.acm.org/profile/81100511332",
         "id": "81100511332"
       },
       {
         "name": "Maolin Huang",
-        "institution": "University of Technology, Sydney, Australia",
+        "institution": {
+          "name": "university of technology",
+          "country": "australia",
+          "region": "oceania"
+        },
         "url": "https://dl.acm.org/profile/81100079792",
         "id": "81100079792"
       }
@@ -12782,7 +13058,11 @@
       },
       {
         "name": "Xia Lin",
-        "institution": "Drexel University",
+        "institution": {
+          "name": "Drexel University",
+          "country": "united states",
+          "region": "north america"
+        },
         "url": "https://dl.acm.org/profile/81100220220",
         "id": "81100220220"
       }
@@ -12819,7 +13099,11 @@
       },
       {
         "name": "Leland K Wilkinson",
-        "institution": "University of Illinois at Chicago",
+        "institution": {
+          "name": "University of Illinois at Chicago",
+          "country": "united states",
+          "region": "north america"
+        },
         "url": "https://dl.acm.org/profile/81100304143",
         "id": "81100304143"
       }
@@ -13539,7 +13823,11 @@
       },
       {
         "name": "Takashi Yuki",
-        "institution": "University of Tsukuba",
+        "institution": {
+          "name": "University of Tsukuba",
+          "country": "japan",
+          "region": "asia"
+        },
         "url": "https://dl.acm.org/profile/81487644992",
         "id": "81487644992"
       }
@@ -13855,7 +14143,11 @@
       },
       {
         "name": "Hong'an Wang",
-        "institution": "Chinese Academy of Sciences, China",
+        "institution": {
+          "name": "Chinese Academy of Sciences",
+          "country": "china",
+          "region": "asia"
+        },
         "url": "https://dl.acm.org/profile/81100220294",
         "id": "81100220294"
       }
@@ -14101,31 +14393,51 @@
       },
       {
         "name": "Panpan Xu",
-        "institution": "Hong Kong University of Science and Technology",
+        "institution": {
+          "name": "Hong Kong University of Science and Technology",
+          "country": "hong kong",
+          "region": "asia"
+        },
         "url": "https://dl.acm.org/profile/81487645560",
         "id": "81487645560"
       },
       {
         "name": "Huamin Qu",
-        "institution": "Hong Kong University of Science and Technology",
+        "institution": {
+          "name": "Hong Kong University of Science and Technology",
+          "country": "hong kong",
+          "region": "asia"
+        },
         "url": "https://dl.acm.org/profile/81100337801",
         "id": "81100337801"
       },
       {
         "name": "Weiwei Cui",
-        "institution": "Hong Kong University of Science and Technology",
+        "institution": {
+          "name": "Hong Kong University of Science and Technology",
+          "country": "hong kong",
+          "region": "asia"
+        },
         "url": "https://dl.acm.org/profile/81100228981",
         "id": "81100228981"
       },
       {
         "name": "Siyuan Liu",
-        "institution": "Hong Kong University of Science and Technology",
+        "institution": {
+          "name": "Hong Kong University of Science and Technology",
+          "country": "hong kong",
+          "region": "asia"
+        },
         "url": "https://dl.acm.org/profile/88159345257",
         "id": "88159345257"
       },
       {
         "name": "Lionel Ming Shuan Ni",
-        "institution": "Hong Kong University of Science and Technology",
+        "institution": {
+          "name": "Hong Kong University of Science and Technology",
+          "country": "hong kong",
+          "region": "asia"
+        },
         "url": "https://dl.acm.org/profile/81100358196",
         "id": "81100358196"
       }
@@ -15279,7 +15591,11 @@
       },
       {
         "name": "Yain Whar Si",
-        "institution": "University of Macau",
+        "institution": {
+          "name": "University of Macau",
+          "country": "macao",
+          "region": "asia"
+        },
         "url": "https://dl.acm.org/profile/81100394289",
         "id": "81100394289"
       }
@@ -16631,7 +16947,11 @@
       },
       {
         "name": "Jarke J van Wijk",
-        "institution": "Eindhoven University of Technology",
+        "institution": {
+          "name": "Eindhoven University of Technology",
+          "country": "netherlands",
+          "region": "europe"
+        },
         "url": "https://dl.acm.org/profile/81100294190",
         "id": "81100294190"
       }
@@ -17004,31 +17324,51 @@
       },
       {
         "name": "Noel Schäfer",
-        "institution": "University of Stuttgart",
+        "institution": {
+          "name": "University of Stuttgart",
+          "country": "germany",
+          "region": "europe"
+        },
         "url": "https://dl.acm.org/profile/99659628672",
         "id": "99659628672"
       },
       {
         "name": "Tanja Blascheck",
-        "institution": "University of Stuttgart",
+        "institution": {
+          "name": "University of Stuttgart",
+          "country": "germany",
+          "region": "europe"
+        },
         "url": "https://dl.acm.org/profile/83458713657",
         "id": "83458713657"
       },
       {
         "name": "Kuno Kurzhals",
-        "institution": "ETH Zurich",
+        "institution": {
+          "name": "eth zurich",
+          "country": "",
+          "region": ""
+        },
         "url": "https://dl.acm.org/profile/84459518557",
         "id": "84459518557"
       },
       {
         "name": "Eugene Zhang",
-        "institution": "Oregon State University",
+        "institution": {
+          "name": "Oregon State University",
+          "country": "united states",
+          "region": "north america"
+        },
         "url": "https://dl.acm.org/profile/81100115231",
         "id": "81100115231"
       },
       {
         "name": "Daniel Weiskopf",
-        "institution": "University of Stuttgart",
+        "institution": {
+          "name": "University of Stuttgart",
+          "country": "germany",
+          "region": "europe"
+        },
         "url": "https://dl.acm.org/profile/81100214723",
         "id": "81100214723"
       }
@@ -17472,13 +17812,21 @@
       },
       {
         "name": "Kwanghee Jung",
-        "institution": "Texas Tech University",
+        "institution": {
+          "name": "Texas Tech University",
+          "country": "united states",
+          "region": "north america"
+        },
         "url": "https://dl.acm.org/profile/99659638327",
         "id": "99659638327"
       },
       {
         "name": "Tommy Dang",
-        "institution": "Texas Tech University",
+        "institution": {
+          "name": "Texas Tech University",
+          "country": "united states",
+          "region": "north america"
+        },
         "url": "https://dl.acm.org/profile/99659285774",
         "id": "99659285774"
       }
@@ -17992,13 +18340,21 @@
       },
       {
         "name": "Mathias Funk",
-        "institution": "Eindhoven University of Technology",
+        "institution": {
+          "name": "Eindhoven University of Technology",
+          "country": "netherlands",
+          "region": "europe"
+        },
         "url": "https://dl.acm.org/profile/81343492899",
         "id": "81343492899"
       },
       {
         "name": "Aarnout C Brombacher",
-        "institution": "Eindhoven University of Technology",
+        "institution": {
+          "name": "Eindhoven University of Technology",
+          "country": "netherlands",
+          "region": "europe"
+        },
         "url": "https://dl.acm.org/profile/81100509387",
         "id": "81100509387"
       }
@@ -18117,19 +18473,31 @@
       },
       {
         "name": "Bao Dien Nguyen",
-        "institution": "Texas Tech University",
+        "institution": {
+          "name": "Texas Tech University",
+          "country": "united states",
+          "region": "north america"
+        },
         "url": "https://dl.acm.org/profile/99659571901",
         "id": "99659571901"
       },
       {
         "name": "Tommy Dang",
-        "institution": "Texas Tech University",
+        "institution": {
+          "name": "Texas Tech University",
+          "country": "united states",
+          "region": "north america"
+        },
         "url": "https://dl.acm.org/profile/99659285774",
         "id": "99659285774"
       },
       {
         "name": "Jon R Hass",
-        "institution": "Dell, Inc.",
+        "institution": {
+          "name": "Dell",
+          "country": "united states minor outlying islands",
+          "region": "oceania"
+        },
         "url": "https://dl.acm.org/profile/99659231116",
         "id": "99659231116"
       }
@@ -18512,31 +18880,51 @@
       },
       {
         "name": "Michael Aichem",
-        "institution": "University of Konstanz",
+        "institution": {
+          "name": "University of Konstanz",
+          "country": "germany",
+          "region": "europe"
+        },
         "url": "https://dl.acm.org/profile/99659483496",
         "id": "99659483496"
       },
       {
         "name": "Björn Sommer",
-        "institution": "Royal College of Arts, London",
+        "institution": {
+          "name": "Royal College of Arts",
+          "country": "united kingdom",
+          "region": "europe"
+        },
         "url": "https://dl.acm.org/profile/99658771476",
         "id": "99658771476"
       },
       {
         "name": "Stefan Erk",
-        "institution": "University of Konstanz",
+        "institution": {
+          "name": "University of Konstanz",
+          "country": "germany",
+          "region": "europe"
+        },
         "url": "https://dl.acm.org/profile/99659483529",
         "id": "99659483529"
       },
       {
         "name": "Ying Zhang",
-        "institution": "University of Konstanz",
+        "institution": {
+          "name": "University of Konstanz",
+          "country": "germany",
+          "region": "europe"
+        },
         "url": "https://dl.acm.org/profile/99659483766",
         "id": "99659483766"
       },
       {
         "name": "Falk Schreiber",
-        "institution": "University of Konstanz",
+        "institution": {
+          "name": "University of Konstanz",
+          "country": "germany",
+          "region": "europe"
+        },
         "url": "https://dl.acm.org/profile/81100087062",
         "id": "81100087062"
       }
@@ -18979,37 +19367,61 @@
       },
       {
         "name": "Sabrina Jaeger",
-        "institution": "University of Konstanz",
+        "institution": {
+          "name": "University of Konstanz",
+          "country": "germany",
+          "region": "europe"
+        },
         "url": "https://dl.acm.org/profile/99659482713",
         "id": "99659482713"
       },
       {
         "name": "Jörg Melzheimer",
-        "institution": "Department Evolutionary Ecology, Leibniz Institute for Zoo and Wildlife Research, Berlin",
+        "institution": {
+          "name": "Department Evolutionary Ecology",
+          "country": "germany",
+          "region": "europe"
+        },
         "url": "https://dl.acm.org/profile/99659482583",
         "id": "99659482583"
       },
       {
         "name": "Bettina Wachter",
-        "institution": "Department Evolutionary Ecology, Leibniz Institute for Zoo and Wildlife Research, Berlin",
+        "institution": {
+          "name": "Department Evolutionary Ecology",
+          "country": "germany",
+          "region": "europe"
+        },
         "url": "https://dl.acm.org/profile/99659482621",
         "id": "99659482621"
       },
       {
         "name": "Heribert Hofer",
-        "institution": "Department Evolutionary Ecology, Leibniz Institute for Zoo and Wildlife Research, Berlin",
+        "institution": {
+          "name": "Department Evolutionary Ecology",
+          "country": "germany",
+          "region": "europe"
+        },
         "url": "https://dl.acm.org/profile/99659482747",
         "id": "99659482747"
       },
       {
         "name": "Artur Baltabayev",
-        "institution": "University of Konstanz",
+        "institution": {
+          "name": "University of Konstanz",
+          "country": "germany",
+          "region": "europe"
+        },
         "url": "https://dl.acm.org/profile/99659483369",
         "id": "99659483369"
       },
       {
         "name": "Falk Schreiber",
-        "institution": "University of Konstanz",
+        "institution": {
+          "name": "University of Konstanz",
+          "country": "germany",
+          "region": "europe"
+        },
         "url": "https://dl.acm.org/profile/81100087062",
         "id": "81100087062"
       }
@@ -19039,7 +19451,7 @@
         "institution": {
           "name": "eindhoven university of technology",
           "country": "eindhoven",
-          "region": "asia"
+          "region": "europe"
         },
         "url": "https://dl.acm.org/profile/81331488994",
         "id": "81331488994"
@@ -19049,7 +19461,7 @@
         "institution": {
           "name": "eindhoven university of technology",
           "country": "eindhoven",
-          "region": "asia"
+          "region": "europe"
         },
         "url": "https://dl.acm.org/profile/99659482887",
         "id": "99659482887"

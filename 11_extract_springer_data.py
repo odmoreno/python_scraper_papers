@@ -200,6 +200,10 @@ class SpringerClient:
                 autores = list['authors']
                 year = list['year']
                 autor_list_new = []
+                title = list['title']
+                if title == 'IMDb Explorer: Visual Exploration of a Movie Database':
+                    print('a')
+                    pass
 
                 for autor in autores:
                     instituto = autor['institution']
@@ -220,7 +224,7 @@ class SpringerClient:
                                 element = self.reverse_institutos[instituto]
                                 data = self.extract_info_2009(element['name'], element)
                                 autor['institution'] = data
-                                break
+                                pass
                             else:
                                 split_by_parts = split_insti[0].lower().split(" ")
                                 size_parts = len(split_by_parts)

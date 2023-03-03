@@ -1559,9 +1559,9 @@
       "eindhoven university of technology"
     ],
     "countries": [
-      "the netherlands",
-      "the netherlands",
-      "the netherlands"
+      "netherlands",
+      "netherlands",
+      "netherlands"
     ],
     "regions": [
       "europe",
@@ -1754,18 +1754,18 @@
       "east of china normal university",
       "east of china normal university",
       "east of china normal university",
-      "Civil Aviation University of China"
+      "East China Normal University"
     ],
     "countries": [
-      "east of china normal university",
-      "east of china normal university",
-      "east of china normal university",
+      "china",
+      "china",
+      "china",
       "china"
     ],
     "regions": [
-      "oceania",
-      "oceania",
-      "oceania",
+      "asia",
+      "asia",
+      "asia",
       "asia"
     ],
     "conference": "Proceedings of the 11th International Symposium on Visual Information Communication and Interaction, VINCI 2018, VÃ¤xjÃ¶, Sweden, August 13-15, 2018.",
@@ -2013,14 +2013,14 @@
     ],
     "afilitions": [
       "eindhoven university of technology",
-      "Civil Aviation University of China",
-      "Civil Aviation University of China",
-      "Civil Aviation University of China",
-      "Civil Aviation University of China",
-      "Civil Aviation University of China",
-      "Civil Aviation University of China",
-      "Civil Aviation University of China",
-      "Civil Aviation University of China"
+      "Reutlingen University",
+      "Reutlingen University",
+      "Reutlingen University",
+      "Reutlingen University",
+      "Reutlingen University",
+      "Reutlingen University",
+      "Reutlingen University",
+      "Reutlingen University"
     ],
     "countries": [
       "eindhoven",
@@ -2303,9 +2303,9 @@
       "university of applied sciences"
     ],
     "countries": [
-      "upper austria",
-      "upper austria",
-      "upper austria"
+      "austria",
+      "austria",
+      "austria"
     ],
     "regions": [
       "europe",
@@ -2365,16 +2365,16 @@
       "Technische Universität Dresden"
     ],
     "countries": [
-      "dresden germany",
-      "dresden germany",
-      "dresden germany",
-      "dresden germany"
+      "germany",
+      "germany",
+      "germany",
+      "germany"
     ],
     "regions": [
-      "asia",
-      "asia",
-      "asia",
-      "asia"
+      "europe",
+      "europe",
+      "europe",
+      "europe"
     ],
     "conference": "Proceedings of the 10th International Symposium on Visual Information Communication and Interaction, VINCI 2017, Bangkok, Thailand, August 14-16, 2017.",
     "id": "10.1145/3105971.3105972"
@@ -2504,11 +2504,11 @@
       "Yun Jang"
     ],
     "afilitions": [
-      "Civil Aviation University of China",
-      "Civil Aviation University of China",
-      "Civil Aviation University of China",
-      "Civil Aviation University of China",
-      "Civil Aviation University of China"
+      "Sejong University",
+      "Yonsei University",
+      "Sejong University",
+      "Yonsei University",
+      "Sejong University"
     ],
     "countries": [
       "south korea",
@@ -2542,13 +2542,13 @@
       "Daniel Weiskopf"
     ],
     "afilitions": [
-      "Civil Aviation University of China",
-      "Civil Aviation University of China",
-      "Civil Aviation University of China",
-      "Civil Aviation University of China",
-      "Civil Aviation University of China",
-      "Civil Aviation University of China",
-      "Civil Aviation University of China"
+      "University of Stuttgart",
+      "University of Stuttgart",
+      "University of Stuttgart",
+      "University of Stuttgart",
+      "Fraunhofer Institute for Solar Energy Systems ISE",
+      "Fraunhofer Institute for Solar Energy Systems ISE",
+      "University of Stuttgart"
     ],
     "countries": [
       "germany",
@@ -2586,11 +2586,11 @@
       "Giulio Iacucci"
     ],
     "afilitions": [
-      "Civil Aviation University of China",
-      "Civil Aviation University of China",
+      "Aalto University",
+      "Aalto University",
       "university of helsinki",
       "university of helsinki",
-      "Civil Aviation University of China",
+      "Aalto University",
       "university of helsinki",
       "university of helsinki"
     ],
@@ -2686,9 +2686,9 @@
       "George Legrady"
     ],
     "afilitions": [
-      "Civil Aviation University of China",
-      "Civil Aviation University of China",
-      "Civil Aviation University of China"
+      "University of California",
+      "University of California",
+      "University of California"
     ],
     "countries": [
       "united states",
@@ -2794,7 +2794,7 @@
       "Yi Yang"
     ],
     "afilitions": [
-      "Civil Aviation University of China",
+      "The University of Texas at Dallas",
       "Beijing Film Academy",
       "Chinese Academy of Sciences"
     ],
@@ -2829,10 +2829,10 @@
       "tianjin university"
     ],
     "countries": [
-      "pr china",
-      "pr china",
-      "pr china",
-      "pr china"
+      "china",
+      "china",
+      "china",
+      "china"
     ],
     "regions": [
       "asia",
@@ -2866,7 +2866,7 @@
     ],
     "countries": [
       "korea",
-      "korea",
+      "south korea",
       "korea",
       "korea",
       "korea",
@@ -3031,13 +3031,13 @@
     "afilitions": [
       "university of helsinki and aalto university",
       "Universitá di Padova",
-      "Civil Aviation University of China",
+      "University of Helsinki",
       "Universitá di Padova",
       "Universitá di Padova",
-      "Civil Aviation University of China"
+      "University of Helsinki"
     ],
     "countries": [
-      "university of helsinki and aalto university",
+      "finland",
       "italy",
       "finland",
       "italy",
@@ -3045,7 +3045,7 @@
       "finland"
     ],
     "regions": [
-      "asia",
+      "europe",
       "europe",
       "europe",
       "europe",
@@ -3068,7 +3068,7 @@
     ],
     "afilitions": [
       "zhejiang university",
-      "Civil Aviation University of China",
+      "The University of Texas at Dallas",
       "zhejiang university",
       "zhejiang university"
     ],
@@ -3272,11 +3272,11 @@
       "Andrew Blake"
     ],
     "afilitions": [
-      "Civil Aviation University of China",
-      "Civil Aviation University of China",
-      "Civil Aviation University of China",
-      "Civil Aviation University of China",
-      "Civil Aviation University of China"
+      "University of Brighton",
+      "University of Brighton",
+      "University of Cambridge",
+      "University of Cambridge",
+      "University of Brighton"
     ],
     "countries": [
       "united kingdom",
@@ -3394,13 +3394,13 @@
       "Xing Liang"
     ],
     "afilitions": [
-      "Civil Aviation University of China",
-      "Civil Aviation University of China",
-      "Civil Aviation University of China",
-      "Civil Aviation University of China",
-      "Civil Aviation University of China",
-      "Civil Aviation University of China",
-      "Civil Aviation University of China"
+      "Central South University",
+      "Central South University",
+      "Central South University",
+      "Central South University",
+      "Central South University",
+      "Central South University",
+      "Arizona State University"
     ],
     "countries": [
       "china",
@@ -3567,18 +3567,18 @@
       "Cindy Marie Grimm"
     ],
     "afilitions": [
-      "Civil Aviation University of China",
-      "Civil Aviation University of China",
-      "Civil Aviation University of China",
-      "Civil Aviation University of China",
-      "Civil Aviation University of China",
-      "Civil Aviation University of China",
-      "Civil Aviation University of China",
-      "Civil Aviation University of China",
+      "University of North Texas",
+      "University of North Texas",
+      "University of North Texas",
+      "University of North Texas",
+      "University of North Texas",
+      "University of North Texas",
+      "University of North Texas",
+      "University of North Texas",
       "Wash",
       "Rochester Inst",
-      "Civil Aviation University of China",
-      "Civil Aviation University of China"
+      "Oregon State University",
+      "Oregon State University"
     ],
     "countries": [
       "united states",
@@ -3603,7 +3603,7 @@
       "north america",
       "north america",
       "north america",
-      "north america",
+      "europe",
       "oceania",
       "north america",
       "north america"
@@ -3632,9 +3632,9 @@
       "north dakota state university"
     ],
     "regions": [
-      "north america",
-      "north america",
-      "north america"
+      "oceania",
+      "oceania",
+      "oceania"
     ],
     "conference": "Proceedings of the 9th International Symposium on Visual Information Communication and Interaction, VINCI 2016, Dallas, TX, United States, September 24-26, 2016.",
     "id": "10.1145/2968220.2968236"
@@ -4193,8 +4193,8 @@
       "Yun Jang"
     ],
     "afilitions": [
-      "Civil Aviation University of China",
-      "Civil Aviation University of China"
+      "Sejong University",
+      "Sejong University"
     ],
     "countries": [
       "south korea",
@@ -4749,8 +4749,8 @@
     "afilitions": [
       "gakushuin university",
       "school of commerce senshu university",
-      "Civil Aviation University of China",
-      "Civil Aviation University of China"
+      "Gakushuin University",
+      "Gakushuin University"
     ],
     "countries": [
       "japan",
@@ -5275,10 +5275,10 @@
       "Huamin Qu"
     ],
     "afilitions": [
-      "Civil Aviation University of China",
-      "Civil Aviation University of China",
-      "Civil Aviation University of China",
-      "Civil Aviation University of China"
+      "Shenzhen University",
+      "Hong Kong University of Science and Technology",
+      "Shenzhen University",
+      "Hong Kong University of Science and Technology"
     ],
     "countries": [
       "china",
@@ -5442,7 +5442,7 @@
     ],
     "countries": [
       "western sydney university",
-      "western sydney university",
+      "united states minor outlying islands",
       "western sydney university",
       "western sydney university",
       "western sydney university",
@@ -5456,13 +5456,13 @@
     ],
     "regions": [
       "europe",
-      "europe",
-      "europe",
-      "europe",
-      "europe",
-      "europe",
-      "europe",
-      "europe",
+      "oceania",
+      "oceania",
+      "oceania",
+      "oceania",
+      "oceania",
+      "oceania",
+      "oceania",
       "north america",
       "north america",
       "north america",
@@ -5532,13 +5532,13 @@
       "china",
       "united states",
       "china",
-      "united states"
+      "china"
     ],
     "regions": [
       "asia",
       "north america",
       "asia",
-      "north america"
+      "asia"
     ],
     "conference": "",
     "id": "10.1145/2636240.2636857"
@@ -5585,8 +5585,8 @@
       "Keyur Sorathia"
     ],
     "afilitions": [
-      "Civil Aviation University of China",
-      "Civil Aviation University of China"
+      "Indian Institute of Technology Guwahati",
+      "Indian Institute of Technology Guwahati"
     ],
     "countries": [
       "india",
@@ -5613,12 +5613,12 @@
       "university of waikato"
     ],
     "countries": [
-      "new zealand",
-      "new zealand"
+      "bermuda",
+      "bermuda"
     ],
     "regions": [
-      "oceania",
-      "oceania"
+      "north america",
+      "north america"
     ],
     "conference": "",
     "id": "10.1145/2636240.2636853"
@@ -5635,10 +5635,10 @@
       "John Howse"
     ],
     "afilitions": [
-      "Civil Aviation University of China",
-      "Civil Aviation University of China",
-      "Civil Aviation University of China",
-      "Civil Aviation University of China"
+      "University of Brighton",
+      "University of Brighton",
+      "University of Kent",
+      "University of Brighton"
     ],
     "countries": [
       "united kingdom",
@@ -5717,9 +5717,9 @@
       "CSIRO Computational Informatics"
     ],
     "countries": [
-      "austrlia",
-      "austrlia",
-      "austrlia",
+      "united states minor outlying islands",
+      "united states minor outlying islands",
+      "united states minor outlying islands",
       "australia"
     ],
     "regions": [
@@ -5921,8 +5921,8 @@
       "university of tasmania"
     ],
     "countries": [
-      "university of tasmania",
-      "university of tasmania"
+      "united states minor outlying islands",
+      "united states minor outlying islands"
     ],
     "regions": [
       "oceania",
@@ -6098,7 +6098,7 @@
     ],
     "countries": [
       "sri lanka",
-      "monash university malaysia"
+      "malaysia"
     ],
     "regions": [
       "asia",
@@ -6195,14 +6195,14 @@
       "university of colombo"
     ],
     "countries": [
-      "sri lanka",
+      "united states minor outlying islands",
       "malaysia",
-      "sri lanka"
+      "united states minor outlying islands"
     ],
     "regions": [
+      "oceania",
       "asia",
-      "asia",
-      "asia"
+      "oceania"
     ],
     "conference": "",
     "id": "10.1145/2636240.2636875"
@@ -6275,14 +6275,14 @@
       "queensland university of technology"
     ],
     "countries": [
-      "brisbane qld 4001",
-      "brisbane qld 4001",
+      "united states minor outlying islands",
+      "united states minor outlying islands",
       "brisbane qld 4001"
     ],
     "regions": [
-      "asia",
-      "asia",
-      "asia"
+      "oceania",
+      "oceania",
+      "oceania"
     ],
     "conference": "",
     "id": "10.1145/2636240.2636873"
@@ -6457,11 +6457,11 @@
       "Detan Si"
     ],
     "afilitions": [
-      "Civil Aviation University of China",
-      "Civil Aviation University of China",
-      "Civil Aviation University of China",
+      "Tsinghua University",
+      "Hong Kong University of Science and Technology",
+      "Tsinghua University",
       "Information System",
-      "Civil Aviation University of China",
+      "Tsinghua University",
       "Information System"
     ],
     "countries": [
@@ -6588,8 +6588,8 @@
     ],
     "afilitions": [
       "university of technology",
-      "Civil Aviation University of China",
-      "Civil Aviation University of China",
+      "Western Sydney University",
+      "Western Sydney University",
       "university of technology"
     ],
     "countries": [
@@ -7121,8 +7121,8 @@
       "Xia Lin"
     ],
     "afilitions": [
-      "Civil Aviation University of China",
-      "Civil Aviation University of China"
+      "Beijing Normal University",
+      "Drexel University"
     ],
     "countries": [
       "china",
@@ -7145,8 +7145,8 @@
       "Leland K Wilkinson"
     ],
     "afilitions": [
-      "Civil Aviation University of China",
-      "Civil Aviation University of China"
+      "University of Illinois at Chicago",
+      "University of Illinois at Chicago"
     ],
     "countries": [
       "united states",
@@ -7180,8 +7180,8 @@
       "china"
     ],
     "regions": [
-      "north america",
-      "north america",
+      "asia",
+      "asia",
       "asia"
     ],
     "conference": "The International Symposium on Visual Information Communication and Interaction, VINCI '12, Hangzhou, China - September 27 - 28, 2012.",
@@ -7278,7 +7278,7 @@
     ],
     "countries": [
       "texas",
-      "texas"
+      "china"
     ],
     "regions": [
       "asia",
@@ -7439,14 +7439,14 @@
       "university of technology"
     ],
     "countries": [
-      "sydney",
+      "australia",
       "taiwan",
       "sydney"
     ],
     "regions": [
-      "asia",
-      "asia",
-      "asia"
+      "oceania",
+      "oceania",
+      "oceania"
     ],
     "conference": "The International Symposium on Visual Information Communication and Interaction, VINCI '12, Hangzhou, China - September 27 - 28, 2012.",
     "id": "10.1145/2397696.2397712"
@@ -7464,25 +7464,25 @@
       "Wenwen Dou"
     ],
     "afilitions": [
-      "Charlotte Visualization Center",
-      "Civil Aviation University of China",
-      "Civil Aviation University of China",
-      "Charlotte Visualization Center",
-      "Charlotte Visualization Center"
-    ],
-    "countries": [
       "charlotte visualization center",
-      "united states",
-      "united states",
+      "palo alto research center",
+      "university of new hampshire",
       "charlotte visualization center",
       "charlotte visualization center"
     ],
+    "countries": [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
     "regions": [
-      "asia",
-      "north america",
-      "north america",
-      "north america",
-      "north america"
+      "",
+      "",
+      "",
+      "",
+      ""
     ],
     "conference": "The 2011 Visual Information Communication - International Symposium, VINCI '11, Hong Kong, China - August 04 - 05, 2011.",
     "id": "10.1145/2016656.2016657"
@@ -7525,8 +7525,8 @@
       "Takashi Yuki"
     ],
     "afilitions": [
-      "Civil Aviation University of China",
-      "Civil Aviation University of China"
+      "University of Tsukuba",
+      "University of Tsukuba"
     ],
     "countries": [
       "japan",
@@ -7681,7 +7681,7 @@
       "Microsoft Research Asia",
       "Chinese Academy of Sciences",
       "Chinese Academy of Sciences",
-      "Civil Aviation University of China",
+      "Pennsylvania State University",
       "Chinese Academy of Sciences"
     ],
     "countries": [
@@ -7829,12 +7829,12 @@
       "Lionel Ming Shuan Ni"
     ],
     "afilitions": [
-      "Civil Aviation University of China",
-      "Civil Aviation University of China",
-      "Civil Aviation University of China",
-      "Civil Aviation University of China",
-      "Civil Aviation University of China",
-      "Civil Aviation University of China"
+      "Hong Kong University of Science and Technology",
+      "Hong Kong University of Science and Technology",
+      "Hong Kong University of Science and Technology",
+      "Hong Kong University of Science and Technology",
+      "Hong Kong University of Science and Technology",
+      "Hong Kong University of Science and Technology"
     ],
     "countries": [
       "hong kong",
@@ -7873,8 +7873,8 @@
       "texas"
     ],
     "regions": [
-      "asia",
-      "asia"
+      "oceania",
+      "oceania"
     ],
     "conference": "The 2011 Visual Information Communication - International Symposium, VINCI '11, Hong Kong, China - August 04 - 05, 2011.",
     "id": "10.1145/2016656.2016670"
@@ -7906,7 +7906,7 @@
       "pa"
     ],
     "regions": [
-      "asia",
+      "oceania",
       "asia",
       "asia",
       "asia",
@@ -7971,10 +7971,10 @@
       "university of maryland"
     ],
     "countries": [
-      "university of maryland"
+      ""
     ],
     "regions": [
-      "asia"
+      ""
     ],
     "conference": "2010 International Symposium on Visual Information Communication, VINCI '10, Beijing, China - September 28 - 29, 2010.",
     "id": "10.1145/1865841.1865844"
@@ -8477,8 +8477,8 @@
       "Yain Whar Si"
     ],
     "afilitions": [
-      "Civil Aviation University of China",
-      "Civil Aviation University of China"
+      "University of Macau",
+      "University of Macau"
     ],
     "countries": [
       "macao",
@@ -9081,11 +9081,11 @@
       "Imperial College London"
     ],
     "countries": [
-      "united kingdom",
+      "united states minor outlying islands",
       "united kingdom"
     ],
     "regions": [
-      "europe",
+      "oceania",
       "europe"
     ],
     "conference": "",
@@ -9201,8 +9201,8 @@
       "Jarke J van Wijk"
     ],
     "afilitions": [
-      "Civil Aviation University of China",
-      "Civil Aviation University of China"
+      "Eindhoven University of Technology",
+      "Eindhoven University of Technology"
     ],
     "countries": [
       "netherlands",
@@ -9279,9 +9279,9 @@
       "Technische Universiteit Eindhoven"
     ],
     "countries": [
-      "the netherlands",
-      "the netherlands",
-      "the netherlands"
+      "netherlands",
+      "netherlands",
+      "netherlands"
     ],
     "regions": [
       "europe",
@@ -9307,9 +9307,9 @@
       "eindhoven university of technology"
     ],
     "countries": [
-      "the netherlands",
-      "the netherlands",
-      "the netherlands"
+      "netherlands",
+      "netherlands",
+      "netherlands"
     ],
     "regions": [
       "europe",
@@ -9341,12 +9341,12 @@
       "eindhoven university of technology"
     ],
     "countries": [
-      "the netherlands",
-      "the netherlands",
-      "the netherlands",
-      "the netherlands",
-      "the netherlands",
-      "the netherlands"
+      "netherlands",
+      "netherlands",
+      "netherlands",
+      "netherlands",
+      "netherlands",
+      "netherlands"
     ],
     "regions": [
       "europe",
@@ -9409,18 +9409,18 @@
       "Daniel Weiskopf"
     ],
     "afilitions": [
-      "Civil Aviation University of China",
-      "Civil Aviation University of China",
-      "Civil Aviation University of China",
-      "ETH Zurich",
-      "Civil Aviation University of China",
-      "Civil Aviation University of China"
+      "University of Stuttgart",
+      "University of Stuttgart",
+      "University of Stuttgart",
+      "eth zurich",
+      "Oregon State University",
+      "University of Stuttgart"
     ],
     "countries": [
       "germany",
       "germany",
       "germany",
-      "eth zurich",
+      "",
       "united states",
       "germany"
     ],
@@ -9428,7 +9428,7 @@
       "europe",
       "europe",
       "europe",
-      "europe",
+      "",
       "north america",
       "europe"
     ],
@@ -9585,10 +9585,10 @@
       "eindhoven university of technology"
     ],
     "countries": [
-      "the netherlands",
-      "the netherlands",
-      "the netherlands",
-      "the netherlands"
+      "netherlands",
+      "netherlands",
+      "netherlands",
+      "netherlands"
     ],
     "regions": [
       "europe",
@@ -9637,16 +9637,16 @@
       "eindhoven university of technology"
     ],
     "countries": [
-      "the netherlands",
-      "the netherlands",
-      "the netherlands",
-      "the netherlands"
+      "netherlands",
+      "netherlands",
+      "netherlands",
+      "netherlands"
     ],
     "regions": [
-      "asia",
-      "asia",
-      "asia",
-      "asia"
+      "europe",
+      "europe",
+      "europe",
+      "europe"
     ],
     "conference": "",
     "id": "10.1145/3430036.3430049"
@@ -9662,9 +9662,9 @@
       "Tommy Dang"
     ],
     "afilitions": [
-      "Civil Aviation University of China",
-      "Civil Aviation University of China",
-      "Civil Aviation University of China"
+      "Texas Tech University",
+      "Texas Tech University",
+      "Texas Tech University"
     ],
     "countries": [
       "united states",
@@ -9745,10 +9745,10 @@
       "tu delft and eindhoven university of technology"
     ],
     "countries": [
-      "the netherlands",
-      "the netherlands",
-      "the netherlands",
-      "the netherlands"
+      "netherlands",
+      "netherlands",
+      "netherlands",
+      "netherlands"
     ],
     "regions": [
       "europe",
@@ -9785,14 +9785,14 @@
       "eindhoven university of technology"
     ],
     "countries": [
-      "the netherlands",
-      "the netherlands",
-      "the netherlands",
-      "the netherlands",
-      "the netherlands",
-      "the netherlands",
-      "the netherlands",
-      "the netherlands"
+      "netherlands",
+      "netherlands",
+      "netherlands",
+      "netherlands",
+      "netherlands",
+      "netherlands",
+      "netherlands",
+      "netherlands"
     ],
     "regions": [
       "europe",
@@ -9818,19 +9818,19 @@
       "Ken Wakita"
     ],
     "afilitions": [
-      "Tokyo Institute of Technology",
-      "teikoku databank and the university of tokyo",
-      "Tokyo Institute of Technology"
-    ],
-    "countries": [
       "tokyo institute of technology",
       "teikoku databank and the university of tokyo",
       "tokyo institute of technology"
     ],
+    "countries": [
+      "japan",
+      "japan",
+      "japan"
+    ],
     "regions": [
-      "europe",
-      "europe",
-      "europe"
+      "asia",
+      "asia",
+      "asia"
     ],
     "conference": "",
     "id": "10.1145/3430036.3430069"
@@ -9859,13 +9859,13 @@
       "eindhoven university of technology"
     ],
     "countries": [
-      "the netherlands",
-      "the netherlands",
-      "the netherlands",
-      "the netherlands",
-      "the netherlands",
-      "the netherlands",
-      "the netherlands"
+      "netherlands",
+      "netherlands",
+      "netherlands",
+      "netherlands",
+      "netherlands",
+      "netherlands",
+      "netherlands"
     ],
     "regions": [
       "europe",
@@ -9934,9 +9934,9 @@
       "Aarnout C Brombacher"
     ],
     "afilitions": [
-      "Civil Aviation University of China",
-      "Civil Aviation University of China",
-      "Civil Aviation University of China"
+      "Eindhoven University of Technology",
+      "Eindhoven University of Technology",
+      "Eindhoven University of Technology"
     ],
     "countries": [
       "netherlands",
@@ -10011,9 +10011,9 @@
       "Jon R Hass"
     ],
     "afilitions": [
-      "Civil Aviation University of China",
-      "Civil Aviation University of China",
-      "Civil Aviation University of China",
+      "Texas Tech University",
+      "Texas Tech University",
+      "Texas Tech University",
       "Dell"
     ],
     "countries": [
@@ -10137,16 +10137,16 @@
       "information engineering university"
     ],
     "countries": [
-      "zhengzhou henan china",
-      "zhengzhou henan china",
-      "zhengzhou henan china",
-      "zhengzhou henan china"
+      "china",
+      "china",
+      "china",
+      "china"
     ],
     "regions": [
-      "europe",
-      "europe",
-      "europe",
-      "europe"
+      "asia",
+      "asia",
+      "asia",
+      "asia"
     ],
     "conference": "",
     "id": "10.1145/3356422.3356431"
@@ -10229,12 +10229,12 @@
       "Falk Schreiber"
     ],
     "afilitions": [
-      "Civil Aviation University of China",
-      "Civil Aviation University of China",
+      "University of Konstanz",
+      "University of Konstanz",
       "Royal College of Arts",
-      "Civil Aviation University of China",
-      "Civil Aviation University of China",
-      "Civil Aviation University of China"
+      "University of Konstanz",
+      "University of Konstanz",
+      "University of Konstanz"
     ],
     "countries": [
       "germany",
@@ -10271,14 +10271,14 @@
       "Shanghai Hanjie Science and Technology Development Co"
     ],
     "countries": [
-      "united states minor outlying islands",
-      "united states minor outlying islands",
-      "united states minor outlying islands"
+      "china",
+      "china",
+      "china"
     ],
     "regions": [
-      "oceania",
-      "oceania",
-      "oceania"
+      "asia",
+      "asia",
+      "asia"
     ],
     "conference": "",
     "id": "10.1145/3356422.3356424"
@@ -10333,16 +10333,16 @@
       "Shenzhen Institutes of Advanced Technology"
     ],
     "countries": [
-      "chinese academy of sciences and university of chinese academy of sciencess",
-      "and chinese academy of sciences",
-      "chinese academy of sciences",
-      "chinese academy of sciences"
+      "chinese",
+      "chinese",
+      "chinese",
+      "chinese"
     ],
     "regions": [
-      "europe",
-      "europe",
-      "europe",
-      "europe"
+      "asia",
+      "asia",
+      "asia",
+      "asia"
     ],
     "conference": "",
     "id": "10.1145/3356422.3356430"
@@ -10478,13 +10478,13 @@
       "Falk Schreiber"
     ],
     "afilitions": [
-      "Civil Aviation University of China",
-      "Civil Aviation University of China",
+      "University of Konstanz",
+      "University of Konstanz",
       "Department Evolutionary Ecology",
       "Department Evolutionary Ecology",
       "Department Evolutionary Ecology",
-      "Civil Aviation University of China",
-      "Civil Aviation University of China"
+      "University of Konstanz",
+      "University of Konstanz"
     ],
     "countries": [
       "germany",
@@ -10709,10 +10709,10 @@
       "information engineering university"
     ],
     "countries": [
-      "zhengzhou henan china",
-      "zhengzhou henan china",
-      "zhengzhou henan china",
-      "beijing china"
+      "china",
+      "china",
+      "china",
+      "china"
     ],
     "regions": [
       "asia",
@@ -10823,14 +10823,14 @@
       "hohai university"
     ],
     "countries": [
-      "nanjing jiangsu china",
-      "nanjing jiangsu china",
-      "nanjing jiangsu china"
+      "china",
+      "china",
+      "china"
     ],
     "regions": [
-      "europe",
-      "europe",
-      "europe"
+      "asia",
+      "asia",
+      "asia"
     ],
     "conference": "",
     "id": "10.1145/3356422.3356443"
@@ -10927,8 +10927,8 @@
       "university of texas at dallas"
     ],
     "countries": [
-      "tianjin china",
-      "tianjin china",
+      "china",
+      "china",
       "richardson tx united states"
     ],
     "regions": [
@@ -10967,9 +10967,9 @@
       "tongji university"
     ],
     "countries": [
-      "shanghai china",
-      "shanghai china",
-      "shanghai china"
+      "china",
+      "china",
+      "china"
     ],
     "regions": [
       "asia",
@@ -11021,8 +11021,8 @@
       "east china university of science and technology"
     ],
     "countries": [
-      "shanghai china",
-      "shanghai china"
+      "china",
+      "china"
     ],
     "regions": [
       "asia",
@@ -11101,8 +11101,8 @@
       "east china university of science and technology"
     ],
     "countries": [
-      "shanghai china",
-      "shanghai china"
+      "china",
+      "china"
     ],
     "regions": [
       "asia",
@@ -11125,8 +11125,8 @@
       "east china university of science and technology"
     ],
     "countries": [
-      "shanghai china",
-      "shanghai china"
+      "china",
+      "china"
     ],
     "regions": [
       "asia",
