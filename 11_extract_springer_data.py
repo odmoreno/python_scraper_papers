@@ -1,10 +1,12 @@
 from common_functions import *
 import json
 import time
+import pandas as pd
 
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support import expected_conditions as EC
+
 
 class SpringerClient:
 
@@ -30,6 +32,17 @@ class SpringerClient:
         #valores tmp
         self.tmp = 1
         self.tmp2 = 1
+
+        # Coauthoria
+        self.coauthors = {}
+        self.coinsti = {}
+        self.copais = {}
+        self.coregion = {}
+        self.coauthors_col = ['author_name', 'author2_name', 'paper_doi', 'date']
+        self.coinsti_col = ['institution1', 'institution2', 'paper_doi', 'date']
+        self.copais_col = ['country1', 'country2', 'paper_doi', 'date']
+        self.coregion_col = ['region1', 'region2', 'paper_doi', 'date']
+
 
     def extract_page_for_acm(self):
         self.driver_for_acm.get(self.acm_url)
@@ -604,6 +617,119 @@ class SpringerClient:
         authors_col = ['id', 'name', 'institutions', 'url']
         #csv_generics('data/vinci_2009/authors.csv', list2, authors_col)
 
+
+
+    def loop_coauthorship(self):
+        panama_papers = load_generic('data/vinci_2009/papers_vinci.json')
+        try:
+            for doi, element in panama_papers.items():
+                authors = element['authors']
+                afilitions = element['afilitions']
+                countries = element['countries']
+                regions = element['regions']
+                date = element['year']
+                self.create_links_authors(doi, date, authors)
+                self.loop_institutions(doi, date, afilitions)
+                self.loop_countries(doi,date,countries)
+                self.loop_regions(doi, date, regions)
+        except Exception as e:
+            print(doi, element)
+            fail_message(e)
+
+        save_generic('data/vinci_2009/co-authorship_people.json', self.coauthors)
+        save_generic('data/vinci_2009/co-authorship_afilitions.json', self.coinsti)
+        save_generic('data/vinci_2009/co-authorship_countries.json', self.copais)
+        csv_generics('data/vinci_2009/co-authorship_people.csv', self.coauthors.values(), self.coauthors_col)
+        csv_generics('data/vinci_2009/co-authorship_afilitions.csv', self.coinsti.values(), self.coinsti_col)
+        csv_generics('data/vinci_2009/co-authorship_countries.csv', self.copais.values(), self.copais_col)
+        csv_generics('data/vinci_2009/co-authorship_regions.csv', self.coregion.values(), self.coregion_col)
+
+    def create_links_authors(self, doi, date, authors):
+        for author in authors:
+            for element in authors:
+                cod = author + '_ ' + element + '_ ' + doi
+                icod = element + '_ ' + author + '_ ' + doi
+                if (cod not in self.coauthors) and (icod not in self.coauthors):
+                    data = {
+                        'author_name': author,
+                        'author2_name': element,
+                        'paper_doi': doi,
+                        'date': date
+                    }
+                    self.coauthors[cod] = data
+
+    def loop_institutions(self, doi, date, afilitions):
+        for insti in afilitions:
+            for element in afilitions:
+                cod = insti + '_ ' + element + '_ ' + doi
+                icod = element + '_ ' + insti + '_ ' + doi
+                if (cod not in self.coinsti) and (icod not in self.coinsti):
+                    data = {
+                        'institution1': insti,
+                        'institution2': element,
+                        'paper_doi': doi,
+                        'date': date
+                    }
+                    self.coinsti[cod] = data
+
+    def loop_countries(self, doi, date, countries):
+        for co1 in countries:
+            for co2 in countries:
+                cod = co1 + '_ ' + co2 + '_ ' + doi
+                icod = co2 + '_ ' + co1 + '_ ' + doi
+                if (cod not in self.copais) and (icod not in self.copais):
+                    data = {
+                        'country1': co1,
+                        'country2': co2,
+                        'paper_doi': doi,
+                        'date': date
+                    }
+                    self.copais[cod] = data
+    def loop_regions(self, doi, date, regions):
+        for co1 in regions:
+            for co2 in regions:
+                cod = co1 + '_ ' + co2 + '_ ' + doi
+                icod = co2 + '_ ' + co1 + '_ ' + doi
+                if (cod not in self.coregion) and (icod not in self.coregion):
+                    data = {
+                        'region1': co1,
+                        'region2': co2,
+                        'paper_doi': doi,
+                        'date': date
+                    }
+                    self.coregion[cod] = data
+
+    def extract_by_years_countries(self):
+        years = [2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022]
+        dict_pais = load_generic('data/vinci_2009/co-authorship_countries.json')
+        paises = list(dict_pais.values())
+        paises = sorted(paises, key=lambda d: d['date'])
+        links = {}
+        for year in years:
+            filtered = [d for d in paises if int(d['date']) == year]
+            for element in filtered:
+                id = element['country1'] + '_' + element['country2']
+                if id in links:
+                    el = links[id]
+                    value = el['value'] + 1
+                    data = {
+                        'c1': element['country1'],
+                        'c2': element['country2'],
+                        'value': value
+                    }
+                    links[id] = data
+                else:
+                    data = {
+                        'c1': element['country1'],
+                        'c2': element['country2'],
+                        'value': 1
+                    }
+                    links[id] = data
+            print('fin:', year)
+            path = 'data/co_pais/co_authorship_countries_'+ str(year) +'.csv'
+            csv_generics(path, links.values(), ['c1', 'c2', 'value'])
+
+
     def main(self):
         self.papers_acm = load_generic('data/vinci_2009/papers_acm.json')
 
@@ -619,7 +745,11 @@ class SpringerClient:
 
         #self.merge_data_2(new_auths)
 
-        self.get_papers_vinci_info()
+        #self.get_papers_vinci_info()
+
+        #self.loop_coauthorship()
+
+        self.extract_by_years_countries()
 
 if __name__ == '__main__':
 

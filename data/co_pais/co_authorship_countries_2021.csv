@@ -1,0 +1,69 @@
+c1,c2,value
+australia,australia,41
+saudi arabia,saudi arabia,1
+saudi arabia,australia,1
+united states,united states,60
+united states,china,9
+united states,australia,1
+china,china,126
+china,australia,6
+germany,germany,49
+spain,spain,1
+malaysia,malaysia,8
+france,france,4
+australia,china,5
+,,3
+united kingdom,united kingdom,10
+canada,canada,5
+japan,japan,30
+,united states,1
+china,united states,14
+australia,united states,3
+italy,italy,8
+italy,japan,1
+italy,australia,2
+italy,united kingdom,1
+united states,united kingdom,1
+sweden,sweden,9
+russian federation,russian federation,1
+australia,canada,1
+canada,united states,1
+india,india,6
+new zealand,new zealand,2
+sri lanka,sri lanka,4
+sri lanka,malaysia,4
+south korea,south korea,6
+malaysia,new zealand,1
+japan,australia,2
+japan,france,1
+austria,austria,5
+austria,argentina,1
+austria,united states,1
+argentina,argentina,1
+argentina,united states,1
+finland,finland,4
+canada,thailand,2
+thailand,thailand,4
+finland,italy,1
+india,france,1
+netherlands,netherlands,19
+netherlands,germany,2
+israel,israel,1
+italy,netherlands,1
+sweden,germany,2
+germany,united kingdom,1
+sweden,finland,1
+germany,finland,1
+germany,switzerland,1
+germany,united states,1
+switzerland,switzerland,5
+switzerland,united states,1
+switzerland,germany,1
+denmark,denmark,3
+united states,,1
+germany,china,1
+united states,switzerland,1
+colombia,colombia,1
+finland,denmark,1
+switzerland,netherlands,1
+ecuador,ecuador,2

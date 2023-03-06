@@ -405,11 +405,11 @@
     },
     {
         "country": "Iran",
-        "continent": "Asia"
+        "continent": "Middle East"
     },
     {
         "country": "Iraq",
-        "continent": "Asia"
+        "continent": "Middle East"
     },
     {
         "country": "Ireland",
@@ -417,7 +417,7 @@
     },
     {
         "country": "Israel",
-        "continent": "Asia"
+        "continent": "Middle East"
     },
     {
         "country": "Italy",
@@ -757,7 +757,7 @@
     },
     {
         "country": "Saudi Arabia",
-        "continent": "Asia"
+        "continent": "Middle East"
     },
     {
         "country": "Scotland",

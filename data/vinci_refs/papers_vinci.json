@@ -40,7 +40,7 @@
         "institution": {
           "name": "King Fahad University of Petroleum and Minerals",
           "country": "saudi arabia",
-          "region": "asia"
+          "region": "middle east"
         },
         "id": "a09_3",
         "url": ""
@@ -112,7 +112,7 @@
         "id": "99660626111",
         "institution": {
           "name": "Hong Kong University of Science and Technology",
-          "country": "hong kong",
+          "country": "china",
           "region": "asia"
         }
       },
@@ -3341,7 +3341,7 @@
         "institution": {
           "name": "Technion",
           "country": "israel",
-          "region": "asia"
+          "region": "middle east"
         },
         "url": "https://dl.acm.org/profile/99659291201",
         "id": "99659291201"
@@ -3351,7 +3351,7 @@
         "institution": {
           "name": "Technion",
           "country": "israel",
-          "region": "asia"
+          "region": "middle east"
         },
         "url": "https://dl.acm.org/profile/81100400502",
         "id": "81100400502"
@@ -3554,7 +3554,7 @@
         "name": "Michael Burch",
         "institution": {
           "name": "eindhoven university of technology",
-          "country": "eindhoven",
+          "country": "netherlands",
           "region": "europe"
         },
         "url": "https://dl.acm.org/profile/81331488994",
@@ -5161,7 +5161,7 @@
         "name": "Wenjun Guo",
         "institution": {
           "name": "ajou university",
-          "country": "korea",
+          "country": "south korea",
           "region": "asia"
         },
         "url": "https://dl.acm.org/profile/84459002557",
@@ -5181,7 +5181,7 @@
         "name": "Sangjoon Son",
         "institution": {
           "name": "ajou university",
-          "country": "korea",
+          "country": "south korea",
           "region": "asia"
         },
         "url": "https://dl.acm.org/profile/99659178205",
@@ -5191,7 +5191,7 @@
         "name": "Changhyung Hong",
         "institution": {
           "name": "ajou university",
-          "country": "korea",
+          "country": "south korea",
           "region": "asia"
         },
         "url": "https://dl.acm.org/profile/99659178107",
@@ -5201,7 +5201,7 @@
         "name": "Hyunjung (Helen) Shin",
         "institution": {
           "name": "ajou university",
-          "country": "korea",
+          "country": "south korea",
           "region": "asia"
         },
         "url": "https://dl.acm.org/profile/81100157592",
@@ -5211,7 +5211,7 @@
         "name": "Kyungwon Lee",
         "institution": {
           "name": "ajou university",
-          "country": "korea",
+          "country": "south korea",
           "region": "asia"
         },
         "url": "https://dl.acm.org/profile/81458652821",
@@ -6044,7 +6044,7 @@
         "name": "Michael Burch",
         "institution": {
           "name": "university of stuttgart",
-          "country": "stuttgart",
+          "country": "germany",
           "region": "europe"
         },
         "url": "https://dl.acm.org/profile/81331488994",
@@ -6439,7 +6439,7 @@
       {
         "name": "Yu Qian",
         "institution": {
-          "name": "J",
+          "name": "J Craig Venter Institute",
           "country": "united states",
           "region": "north america"
         },
@@ -7672,8 +7672,8 @@
         "name": "Vetria Laverne Byrd",
         "institution": {
           "name": "purdue university",
-          "country": "indiana",
-          "region": "asia"
+          "country": "united states",
+          "region": "north america"
         },
         "url": "https://dl.acm.org/profile/81487640747",
         "id": "81487640747"
@@ -7682,8 +7682,8 @@
         "name": "Joseph A Cottam",
         "institution": {
           "name": "indiana university",
-          "country": "indiana",
-          "region": "asia"
+          "country": "united states",
+          "region": "north america"
         },
         "url": "https://dl.acm.org/profile/81372593397",
         "id": "81372593397"
@@ -8952,8 +8952,8 @@
         "name": "Masahiro Takatsuka",
         "institution": {
           "name": "university of sydney",
-          "country": "austraria",
-          "region": "asia"
+          "country": "australia",
+          "region": "oceania"
         },
         "url": "https://dl.acm.org/profile/81438595290",
         "id": "81438595290"
@@ -13518,7 +13518,7 @@
         "name": "Huaguang Song",
         "institution": {
           "name": "university of the pacific",
-          "country": "ca",
+          "country": "united states",
           "region": "north america"
         },
         "url": "https://dl.acm.org/profile/81548355456",
@@ -13528,7 +13528,7 @@
         "name": "Jinzhu Gao",
         "institution": {
           "name": "university of the pacific",
-          "country": "ca",
+          "country": "united states",
           "region": "north america"
         },
         "url": "https://dl.acm.org/profile/81100132506",
@@ -13659,9 +13659,9 @@
       {
         "name": "Maolin Huang",
         "institution": {
-          "name": "university of technology",
-          "country": "sydney",
-          "region": "asia"
+          "name": "university of technology sydney",
+          "country": "australia",
+          "region": "oceania"
         },
         "url": "https://dl.acm.org/profile/81100079792",
         "id": "81100079792"
@@ -14467,8 +14467,8 @@
         "name": "Yu Su",
         "institution": {
           "name": "southern methodist university",
-          "country": "texas",
-          "region": "asia"
+          "country": "united states",
+          "region": "north america"
         },
         "url": "https://dl.acm.org/profile/81479650318",
         "id": "81479650318"
@@ -14477,8 +14477,8 @@
         "name": "Margaret H Dunham",
         "institution": {
           "name": "southern methodist university",
-          "country": "texas",
-          "region": "asia"
+          "country": "united states",
+          "region": "north america"
         },
         "url": "https://dl.acm.org/profile/81409595451",
         "id": "81409595451"
@@ -15819,7 +15819,7 @@
       {
         "name": "Yixuan Zhu",
         "institution": {
-          "name": "china university of mining and technology",
+          "name": "university of mining and technology",
           "country": "china",
           "region": "asia"
         },
@@ -15829,9 +15829,9 @@
       {
         "name": "Christine Yan",
         "institution": {
-          "name": "university of united states",
-          "country": "university of united states",
-          "region": "asia"
+          "name": "university of pennsylvania",
+          "country": "united states",
+          "region": "north america"
         },
         "url": "https://dl.acm.org/profile/99660628227",
         "id": "99660628227"
@@ -16399,7 +16399,7 @@
       {
         "name": "Leonel Merino",
         "institution": {
-          "name": "Escuela de Dise??o",
+          "name": "Escuela de Diseno",
           "country": "chile",
           "region": "south america"
         },
@@ -19065,7 +19065,7 @@
         "name": "Ao Dong",
         "institution": {
           "name": "chinese academy of sciences and university of chinese academy of sciencess",
-          "country": "chinese",
+          "country": "china",
           "region": "asia"
         },
         "url": "https://dl.acm.org/profile/99659483356",
@@ -19166,8 +19166,8 @@
         "name": "K. Zhang",
         "institution": {
           "name": "university of texas",
-          "country": "texas",
-          "region": "asia"
+          "country": "united states",
+          "region": "north america"
         },
         "url": "https://dl.acm.org/profile/81350576955",
         "id": "81350576955"

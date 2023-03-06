@@ -1,0 +1,47 @@
+c1,c2,value
+australia,australia,37
+saudi arabia,saudi arabia,1
+saudi arabia,australia,1
+united states,united states,50
+united states,china,8
+united states,australia,1
+china,china,93
+china,australia,5
+germany,germany,17
+spain,spain,1
+malaysia,malaysia,8
+france,france,3
+australia,china,5
+,,2
+united kingdom,united kingdom,8
+canada,canada,5
+japan,japan,24
+,united states,1
+china,united states,12
+australia,united states,3
+italy,italy,7
+italy,japan,1
+italy,australia,2
+italy,united kingdom,1
+united states,united kingdom,1
+sweden,sweden,1
+russian federation,russian federation,1
+australia,canada,1
+canada,united states,1
+india,india,5
+new zealand,new zealand,2
+sri lanka,sri lanka,4
+sri lanka,malaysia,4
+south korea,south korea,4
+malaysia,new zealand,1
+japan,australia,1
+japan,france,1
+austria,austria,2
+austria,argentina,1
+austria,united states,1
+argentina,argentina,1
+argentina,united states,1
+finland,finland,2
+canada,thailand,2
+thailand,thailand,4
+finland,italy,1
