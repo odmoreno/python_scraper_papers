@@ -50,7 +50,7 @@
       "australia"
     ],
     "regions": [
-      "asia",
+      "middle east",
       "oceania",
       "oceania",
       "oceania",
@@ -76,7 +76,7 @@
     ],
     "countries": [
       "united states",
-      "hong kong",
+      "china",
       "australia"
     ],
     "regions": [
@@ -1897,8 +1897,8 @@
       "israel"
     ],
     "regions": [
-      "asia",
-      "asia"
+      "middle east",
+      "middle east"
     ],
     "conference": "Proceedings of the 11th International Symposium on Visual Information Communication and Interaction, VINCI 2018, VÃ¤xjÃ¶, Sweden, August 13-15, 2018.",
     "id": "10.1145/3231622.3231623"
@@ -2023,7 +2023,7 @@
       "Reutlingen University"
     ],
     "countries": [
-      "eindhoven",
+      "netherlands",
       "germany",
       "germany",
       "germany",
@@ -2865,12 +2865,12 @@
       "ajou university"
     ],
     "countries": [
-      "korea",
       "south korea",
-      "korea",
-      "korea",
-      "korea",
-      "korea"
+      "south korea",
+      "south korea",
+      "south korea",
+      "south korea",
+      "south korea"
     ],
     "regions": [
       "asia",
@@ -3505,7 +3505,7 @@
     "afilitions": [
       "western sydney university",
       "western sydney university",
-      "J",
+      "J Craig Venter Institute",
       "university of technology"
     ],
     "countries": [
@@ -4173,12 +4173,12 @@
       "indiana university"
     ],
     "countries": [
-      "indiana",
-      "indiana"
+      "united states",
+      "united states"
     ],
     "regions": [
-      "asia",
-      "asia"
+      "north america",
+      "north america"
     ],
     "conference": "Proceedings of the 9th International Symposium on Visual Information Communication and Interaction, VINCI 2016, Dallas, TX, United States, September 24-26, 2016.",
     "id": "10.1145/2968220.2968249"
@@ -4885,12 +4885,12 @@
     "countries": [
       "japan",
       "japan",
-      "austraria"
+      "australia"
     ],
     "regions": [
       "asia",
       "asia",
-      "asia"
+      "oceania"
     ],
     "conference": "",
     "id": "10.1145/2801040.2801067"
@@ -7369,8 +7369,8 @@
       "united states",
       "united states",
       "united states",
-      "ca",
-      "ca"
+      "united states",
+      "united states"
     ],
     "regions": [
       "north america",
@@ -7436,17 +7436,17 @@
     "afilitions": [
       "australia university of technology",
       "national chiao tung university",
-      "university of technology"
+      "university of technology sydney"
     ],
     "countries": [
       "australia",
       "china",
-      "sydney"
+      "australia"
     ],
     "regions": [
       "oceania",
       "asia",
-      "asia"
+      "oceania"
     ],
     "conference": "The International Symposium on Visual Information Communication and Interaction, VINCI '12, Hangzhou, China - September 27 - 28, 2012.",
     "id": "10.1145/2397696.2397712"
@@ -7869,12 +7869,12 @@
       "southern methodist university"
     ],
     "countries": [
-      "texas",
-      "texas"
+      "united states",
+      "united states"
     ],
     "regions": [
-      "asia",
-      "asia"
+      "north america",
+      "north america"
     ],
     "conference": "The 2011 Visual Information Communication - International Symposium, VINCI '11, Hong Kong, China - August 04 - 05, 2011.",
     "id": "10.1145/2016656.2016670"
@@ -8609,22 +8609,22 @@
     ],
     "afilitions": [
       "university of texas",
-      "china university of mining and technology",
-      "university of united states",
+      "university of mining and technology",
+      "university of pennsylvania",
       "hong kong university of science and technology",
       "hong kong university of science and technology"
     ],
     "countries": [
       "united states",
       "china",
-      "university of united states",
+      "united states",
       "china",
       "china"
     ],
     "regions": [
       "north america",
       "asia",
-      "asia",
+      "north america",
       "asia",
       "asia"
     ],
@@ -8914,7 +8914,7 @@
     "afilitions": [
       "university of stuttgart",
       "university of stuttgart",
-      "Escuela de Dise??o",
+      "Escuela de Diseno",
       "university of stuttgart",
       "university of stuttgart"
     ],
@@ -10333,7 +10333,7 @@
       "Chinese Academy of Sciences"
     ],
     "countries": [
-      "chinese",
+      "china",
       "china",
       "china",
       "china"
@@ -10373,7 +10373,7 @@
       "china",
       "china",
       "china",
-      "texas",
+      "united states",
       "china"
     ],
     "regions": [
@@ -10381,7 +10381,7 @@
       "asia",
       "asia",
       "asia",
-      "asia",
+      "north america",
       "asia"
     ],
     "conference": "",

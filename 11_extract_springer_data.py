@@ -1,10 +1,12 @@
 from common_functions import *
 import json
 import time
+import pandas as pd
 
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support import expected_conditions as EC
+
 
 class SpringerClient:
 
@@ -30,6 +32,17 @@ class SpringerClient:
         #valores tmp
         self.tmp = 1
         self.tmp2 = 1
+
+        # Coauthoria
+        self.coauthors = {}
+        self.coinsti = {}
+        self.copais = {}
+        self.coregion = {}
+        self.coauthors_col = ['author_name', 'author2_name', 'paper_doi', 'date']
+        self.coinsti_col = ['institution1', 'institution2', 'paper_doi', 'date']
+        self.copais_col = ['country1', 'country2', 'paper_doi', 'date']
+        self.coregion_col = ['region1', 'region2', 'paper_doi', 'date']
+
 
     def extract_page_for_acm(self):
         self.driver_for_acm.get(self.acm_url)
@@ -282,202 +295,6 @@ class SpringerClient:
             driver_for_dblp.quit()
 
 
-
-
-    def format_papers_vinci(self):
-        try:
-            new_papers = {}
-            for doi, list in self.papers_vinci.items():
-                autores = list['authors']
-                year = list['year']
-                autor_list_new = []
-                for autor in autores:
-                    instituto = autor['institution']
-                    if year == '2009':
-                        name = instituto[0]['name']
-                        print(name)
-                        split_insti = name.split(',')
-                    else:
-                        instituto = instituto.replace('.', ',')
-                        split_insti = instituto.split(',')
-
-                    if year != '2009':
-                        check_first = True
-                        size_instituto = len(split_insti)
-                        if size_instituto == 1:
-                            # think
-                            split1 = split_insti[0].lower().split(" ")
-                            size = len(split1)
-                            for key in self.reverse_institutos:
-                                split2 = key.lower().split(" ")
-                                match = [i for i, j in zip(split1, split2) if i == j]
-
-                                if split_insti[0] in key.lower():
-                                    print(self.reverse_institutos[key])
-                                    instituto_element = self.reverse_institutos[key]
-                                    id_insti = instituto_element['id']
-                                    autor['institution'] = id_insti
-                                    break;
-
-
-                                if (len(match) == size):
-                                    instituto_element = self.reverse_institutos[key]
-                                    id_insti = instituto_element['id']
-                                    value = ''
-                                    if 'ad2' in instituto_element:
-                                        value = instituto_element['ad2']
-                                    elif 'ad1' in instituto_element:
-                                        value = instituto_element['ad1']
-                                    else:
-                                        value = instituto_element['ad0']
-
-                                    value = value.strip().lower()
-                                    if value in self.regions:
-                                        region = self.regions[value]
-
-                                    data = {
-                                        'name': name.strip(),
-                                        'country': value.strip(),
-                                        'region': region.strip()
-                                    }
-                                    autor['institution'] = data
-                                    check_first = False
-                        else:
-                            last_index = size_instituto - 1
-                            posible_universidad = split_insti[0].strip()
-                            posible_pais = split_insti[last_index].strip().lower()
-
-
-                            for ax in split_insti:
-
-                                if 'university' in ax.lower():
-                                    posible_universidad = ax.lower()
-
-                            for ax in split_insti:
-                                if (ax == "chinese academy of sciences and university of chinese academy of sciencess"):
-                                    print('xa')
-                                    pass
-                                ax = ax.lower().strip()
-                                ax = re.sub(r'[^\w\s]', '', ax)
-                                ax = ''.join([i for i in ax if not i.isdigit()])
-                                ax = ax.strip()
-
-                                second = ax.split(" ")
-                                for bx in second:
-                                    if 'university' in bx:
-                                        posible_universidad = ax.lower()
-                                    if bx in self.cities_check:
-                                        posible_pais = self.cities_check[bx.lower()]
-                                    if bx in self.regions:
-                                        posible_pais = bx.lower()
-
-                            if posible_pais in self.regions:
-                                region = self.regions[posible_pais]
-
-
-                            data = {
-                                'name': posible_universidad.strip(),
-                                'country': posible_pais.strip(),
-                                'region': region.strip()
-                            }
-                            autor['institution'] = data
-                            check_first = False
-
-                        if check_first == True:
-                            last_index = size_instituto - 1
-                            posible_universidad = split_insti[0].strip()
-                            posible_pais = split_insti[last_index].strip().lower()
-
-                            for ax in split_insti:
-                                ax = ax.lower().strip()
-                                #ax = ''.join(filter(str.isalnum, ax))
-                                ax = re.sub(r'[^\w\s]', '', ax)
-                                ax = ''.join([i for i in ax if not i.isdigit()])
-                                ax = ax.strip()
-
-                                if 'university' in ax.lower():
-                                    posible_universidad = ax.lower()
-                                if ax in self.cities_check:
-                                    posible_pais = self.cities_check[ax.lower()]
-                                if ax in self.regions:
-                                    posible_pais = ax.lower()
-
-                            if posible_pais in self.regions:
-                                region = self.regions[posible_pais]
-
-
-                            data = {
-                                'name': posible_universidad.strip(),
-                                'country': posible_pais.strip(),
-                                'region': region.strip()
-                            }
-                            autor['institution'] = data
-
-                    for element in split_insti:
-                        element = element.lower()
-                        #split1 = element.split(" ")
-                        '''
-                        size= len(split1)
-                        for key in self.reverse_institutos:
-                            split2 = key.lower().split(" ")
-                            match  = [i for i, j in zip(split1, split2) if i == j]
-                            #print(len(match), match)
-                            if(len(match) == size ):
-                                savekey = key
-                                instituto_element = self.reverse_institutos[savekey]
-                                id_insti = instituto_element['id']
-                                autor['institution'] = id_insti
-                                break;
-
-                            if element in key.lower():
-                                print(self.reverse_institutos[key])
-                                instituto_element = self.reverse_institutos[key]
-                                id_insti = instituto_element['id']
-                                autor['institution'] = id_insti
-                                break;
-                        '''
-                        ##nueva forma
-                        if year == '2009':
-                            insti = element
-                            if insti in self.reverse_institutos:
-                                instituto_element = self.reverse_institutos[insti]
-                                id_insti = instituto_element['id']
-                                name = instituto_element['name']
-                                value = ''
-                                if 'ad2' in instituto_element:
-                                    value = instituto_element['ad2']
-                                elif 'ad1' in instituto_element:
-                                    value = instituto_element['ad1']
-                                else:
-                                    value = instituto_element['ad0']
-
-                                value = value.strip().lower()
-                                if value in self.regions:
-                                    region = self.regions[value]
-
-                                data = {
-                                    'name': name.strip(),
-                                    'country': value,
-                                    'region': region
-                                }
-                                autor['institution'] = data
-                        else:
-
-                            pass
-
-                    autor_list_new.append(autor)
-                new_papers[doi] = list
-            print(new_papers)
-            save_generic('data/vinci_refs/papers.json', new_papers)
-            pass
-
-        except Exception as e:
-            print(list)
-            fail_message(e)
-            driver_for_dblp.quit()
-
-
-
     def get_papers_vinci_info(self):
         self.load_data_vinci()
         self.reverse_dicts()
@@ -604,6 +421,132 @@ class SpringerClient:
         authors_col = ['id', 'name', 'institutions', 'url']
         #csv_generics('data/vinci_2009/authors.csv', list2, authors_col)
 
+
+
+    def loop_coauthorship(self):
+        panama_papers = load_generic('data/vinci_2009/papers_vinci.json')
+        try:
+            for doi, element in panama_papers.items():
+                authors = element['authors']
+                afilitions = element['afilitions']
+                countries = element['countries']
+                regions = element['regions']
+                date = element['year']
+                self.create_links_authors(doi, date, authors)
+                self.loop_institutions(doi, date, afilitions)
+                self.loop_countries(doi,date,countries)
+                self.loop_regions(doi, date, regions)
+        except Exception as e:
+            print(doi, element)
+            fail_message(e)
+
+        save_generic('data/vinci_2009/co-authorship_people.json', self.coauthors)
+        save_generic('data/vinci_2009/co-authorship_afilitions.json', self.coinsti)
+        save_generic('data/vinci_2009/co-authorship_countries.json', self.copais)
+        csv_generics('data/vinci_2009/co-authorship_people.csv', self.coauthors.values(), self.coauthors_col)
+        csv_generics('data/vinci_2009/co-authorship_afilitions.csv', self.coinsti.values(), self.coinsti_col)
+        csv_generics('data/vinci_2009/co-authorship_countries.csv', self.copais.values(), self.copais_col)
+        csv_generics('data/vinci_2009/co-authorship_regions.csv', self.coregion.values(), self.coregion_col)
+
+    def create_links_authors(self, doi, date, authors):
+        j = 1
+        for author in authors:
+            for i in range(j, len(authors)):
+                element = authors[i]
+                cod = author + '_ ' + element + '_ ' + doi
+                icod = element + '_ ' + author + '_ ' + doi
+                if (cod not in self.coauthors) and (icod not in self.coauthors):
+                    data = {
+                        'author_name': author,
+                        'author2_name': element,
+                        'paper_doi': doi,
+                        'date': date
+                    }
+                    self.coauthors[cod] = data
+            j +=1
+
+    def loop_institutions(self, doi, date, afilitions):
+        j=1
+        for insti in afilitions:
+            for i in range(j, len(afilitions)):
+                element = afilitions[i]
+                cod = insti + '_ ' + element + '_ ' + doi
+                icod = element + '_ ' + insti + '_ ' + doi
+                if (cod not in self.coinsti) and (icod not in self.coinsti):
+                    data = {
+                        'institution1': insti,
+                        'institution2': element,
+                        'paper_doi': doi,
+                        'date': date
+                    }
+                    self.coinsti[cod] = data
+            j += 1
+
+    def loop_countries(self, doi, date, countries):
+        j=1
+        for co1 in countries:
+            for i in range(j, len(countries)):
+                co2 = countries[i]
+                cod = co1 + '_ ' + co2 + '_ ' + doi
+                icod = co2 + '_ ' + co1 + '_ ' + doi
+                if (cod not in self.copais) and (icod not in self.copais):
+                    data = {
+                        'country1': co1,
+                        'country2': co2,
+                        'paper_doi': doi,
+                        'date': date
+                    }
+                    self.copais[cod] = data
+            j +=1
+
+    def loop_regions(self, doi, date, regions):
+        j=1
+        for co1 in regions:
+            for i in range(j, len(regions)):
+                co2 = regions[i]
+                cod = co1 + '_ ' + co2 + '_ ' + doi
+                icod = co2 + '_ ' + co1 + '_ ' + doi
+                if (cod not in self.coregion) and (icod not in self.coregion):
+                    data = {
+                        'region1': co1,
+                        'region2': co2,
+                        'paper_doi': doi,
+                        'date': date
+                    }
+                    self.coregion[cod] = data
+            j +=1
+
+    def extract_by_years_countries(self):
+        years = [2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022]
+        dict_pais = load_generic('data/vinci_2009/co-authorship_countries.json')
+        paises = list(dict_pais.values())
+        paises = sorted(paises, key=lambda d: d['date'])
+        links = {}
+        for year in years:
+            filtered = [d for d in paises if int(d['date']) == year]
+            for element in filtered:
+                id = element['country1'] + '_' + element['country2']
+                if id in links:
+                    el = links[id]
+                    value = el['value'] + 1
+                    data = {
+                        'c1': element['country1'],
+                        'c2': element['country2'],
+                        'value': value
+                    }
+                    links[id] = data
+                else:
+                    data = {
+                        'c1': element['country1'],
+                        'c2': element['country2'],
+                        'value': 1
+                    }
+                    links[id] = data
+            print('fin:', year)
+            path = 'data/co_pais/co_authorship_countries_'+ str(year) +'.csv'
+            csv_generics(path, links.values(), ['c1', 'c2', 'value'])
+
+
     def main(self):
         self.papers_acm = load_generic('data/vinci_2009/papers_acm.json')
 
@@ -619,7 +562,11 @@ class SpringerClient:
 
         #self.merge_data_2(new_auths)
 
-        self.get_papers_vinci_info()
+        #self.get_papers_vinci_info()
+
+        self.loop_coauthorship()
+
+        self.extract_by_years_countries()
 
 if __name__ == '__main__':
 

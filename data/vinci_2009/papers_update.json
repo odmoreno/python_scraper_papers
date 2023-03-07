@@ -3052,7 +3052,7 @@
     "authors": [
       {
         "name": "Michael Burch",
-        "institution": "Eindhoven University of Technology. Eindhoven",
+        "institution": "Eindhoven University of Technology, Netherlands",
         "url": "https://dl.acm.org/profile/81331488994",
         "id": "81331488994"
       },
@@ -4243,37 +4243,37 @@
     "authors": [
       {
         "name": "Wenjun Guo",
-        "institution": "Ajou University, Korea",
+        "institution": "Ajou University, South Korea",
         "url": "https://dl.acm.org/profile/84459002557",
         "id": "84459002557"
       },
       {
         "name": "Seungwook Kim",
-        "institution": "Seoul National University, Korea",
+        "institution": "Seoul National University, South Korea",
         "url": "https://dl.acm.org/profile/99659194257",
         "id": "99659194257"
       },
       {
         "name": "Sangjoon Son",
-        "institution": "Ajou University, Korea",
+        "institution": "Ajou University, South Korea",
         "url": "https://dl.acm.org/profile/99659178205",
         "id": "99659178205"
       },
       {
         "name": "Changhyung Hong",
-        "institution": "Ajou University, Korea",
+        "institution": "Ajou University, South Korea",
         "url": "https://dl.acm.org/profile/99659178107",
         "id": "99659178107"
       },
       {
         "name": "Hyunjung (Helen) Shin",
-        "institution": "Ajou University, Korea",
+        "institution": "Ajou University, South Korea",
         "url": "https://dl.acm.org/profile/81100157592",
         "id": "81100157592"
       },
       {
         "name": "Kyungwon Lee",
-        "institution": "Ajou University, Korea",
+        "institution": "Ajou University, South Korea",
         "url": "https://dl.acm.org/profile/81458652821",
         "id": "81458652821"
       }
@@ -4882,7 +4882,11 @@
     "authors": [
       {
         "name": "Michael Burch",
+<<<<<<< HEAD:data/vinci_2009/papers_update.json
         "institution": "VISUS, University of Stuttgart, Germany",
+=======
+        "institution": "VISUS, University of Stuttgart, Allmandring, Stuttgart, Germany",
+>>>>>>> 44b476a49bab583f9c73e51aa8d53f07c3c77177:data/vinci_2009/papers_update_v2.json
         "url": "https://dl.acm.org/profile/81331488994",
         "id": "81331488994"
       }
@@ -5170,7 +5174,7 @@
       },
       {
         "name": "Yu Qian",
-        "institution": "J. Craig Venter Institute, United States",
+        "institution": "J Craig Venter Institute, United States",
         "url": "https://dl.acm.org/profile/81452599675",
         "id": "81452599675"
       },
@@ -6094,13 +6098,13 @@
     "authors": [
       {
         "name": "Vetria Laverne Byrd",
-        "institution": "Purdue University, Indiana",
+        "institution": "Purdue University, United States",
         "url": "https://dl.acm.org/profile/81487640747",
         "id": "81487640747"
       },
       {
         "name": "Joseph A Cottam",
-        "institution": "Indiana University, Indiana",
+        "institution": "Indiana University, United States",
         "url": "https://dl.acm.org/profile/81372593397",
         "id": "81372593397"
       }
@@ -7070,7 +7074,7 @@
       },
       {
         "name": "Masahiro Takatsuka",
-        "institution": "University of Sydney, Austraria",
+        "institution": "University of Sydney, Australia",
         "url": "https://dl.acm.org/profile/81438595290",
         "id": "81438595290"
       }
@@ -10497,13 +10501,13 @@
       },
       {
         "name": "Huaguang Song",
-        "institution": "University of the Pacific, Stockton, CA",
+        "institution": "University of the Pacific, Stockton, United States",
         "url": "https://dl.acm.org/profile/81548355456",
         "id": "81548355456"
       },
       {
         "name": "Jinzhu Gao",
-        "institution": "University of the Pacific, Stockton, CA",
+        "institution": "University of the Pacific, Stockton, United States",
         "url": "https://dl.acm.org/profile/81100132506",
         "id": "81100132506"
       }
@@ -10599,7 +10603,7 @@
       },
       {
         "name": "Maolin Huang",
-        "institution": "University of Technology, Sydney",
+        "institution": "University of Technology Sydney, Australia",
         "url": "https://dl.acm.org/profile/81100079792",
         "id": "81100079792"
       }
@@ -11206,13 +11210,13 @@
     "authors": [
       {
         "name": "Yu Su",
-        "institution": "Southern Methodist University, Dallas, Texas",
+        "institution": "Southern Methodist University, Dallas, United States",
         "url": "https://dl.acm.org/profile/81479650318",
         "id": "81479650318"
       },
       {
         "name": "Margaret H Dunham",
-        "institution": "Southern Methodist University, Dallas, Texas",
+        "institution": "Southern Methodist University, Dallas, United States",
         "url": "https://dl.acm.org/profile/81409595451",
         "id": "81409595451"
       }
@@ -12263,13 +12267,13 @@
       },
       {
         "name": "Yixuan Zhu",
-        "institution": "Department of Mathematics, China University of Mining and Technology, China",
+        "institution": "University of Mining and Technology, China",
         "url": "https://dl.acm.org/profile/99660626204",
         "id": "99660626204"
       },
       {
         "name": "Christine Yan",
-        "institution": "Department of Visual Studies, University of United States",
+        "institution": "University of Pennsylvania, United States",
         "url": "https://dl.acm.org/profile/99660628227",
         "id": "99660628227"
       },
@@ -12695,7 +12699,7 @@
       },
       {
         "name": "Leonel Merino",
-        "institution": "Escuela de Dise??o, Escuela de Ingenier??a, Pontificia Universidad Catolica de Chile, Chile",
+        "institution": "Escuela de Diseno, Escuela de Ingenieria, Pontificia Universidad Catolica de Chile, Chile",
         "url": "https://dl.acm.org/profile/99659082618",
         "id": "99659082618"
       },
@@ -14672,7 +14676,7 @@
     "authors": [
       {
         "name": "Ao Dong",
-        "institution": "Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences and University of Chinese Academy of Sciencess",
+        "institution": "Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences and University of Chinese Academy of Sciencess, China",
         "url": "https://dl.acm.org/profile/99659483356",
         "id": "99659483356"
       },
@@ -14741,7 +14745,7 @@
       },
       {
         "name": "K. Zhang",
-        "institution": "University of Texas, Dallas, Texas",
+        "institution": "University of Texas, Dallas, United States",
         "url": "https://dl.acm.org/profile/81350576955",
         "id": "81350576955"
       },

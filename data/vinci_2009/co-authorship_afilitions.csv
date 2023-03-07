@@ -1,0 +1,659 @@
+institution1,institution2,paper_doi,date
+The University of Sydney,The University of Sydney,10.1007/978-1-4419-0312-9_1,2009
+King Fahad University of Petroleum and Minerals,National ICT Australia,10.1007/978-1-4419-0312-9_2,2009
+King Fahad University of Petroleum and Minerals,The University of Sydney,10.1007/978-1-4419-0312-9_2,2009
+King Fahad University of Petroleum and Minerals,University of New South Wales,10.1007/978-1-4419-0312-9_2,2009
+King Fahad University of Petroleum and Minerals,ICT Center,10.1007/978-1-4419-0312-9_2,2009
+National ICT Australia,The University of Sydney,10.1007/978-1-4419-0312-9_2,2009
+National ICT Australia,University of New South Wales,10.1007/978-1-4419-0312-9_2,2009
+National ICT Australia,ICT Center,10.1007/978-1-4419-0312-9_2,2009
+The University of Sydney,University of New South Wales,10.1007/978-1-4419-0312-9_2,2009
+The University of Sydney,ICT Center,10.1007/978-1-4419-0312-9_2,2009
+University of New South Wales,ICT Center,10.1007/978-1-4419-0312-9_2,2009
+The University of Texas at Dallas,Hong Kong University of Science and Technology,10.1007/978-1-4419-0312-9_3,2009
+The University of Texas at Dallas,University of Technology Sydney,10.1007/978-1-4419-0312-9_3,2009
+Hong Kong University of Science and Technology,University of Technology Sydney,10.1007/978-1-4419-0312-9_3,2009
+University of Konstanz,University of Konstanz,10.1007/978-1-4419-0312-9_4,2009
+Beihang University,Beihang University,10.1007/978-1-4419-0312-9_5,2009
+Beihang University,Institute of Software Chinese Academy of Sciences,10.1007/978-1-4419-0312-9_5,2009
+Beihang University,Shangdong Institute of Commerce and Technology,10.1007/978-1-4419-0312-9_5,2009
+Institute of Software Chinese Academy of Sciences,Institute of Software Chinese Academy of Sciences,10.1007/978-1-4419-0312-9_5,2009
+Institute of Software Chinese Academy of Sciences,Shangdong Institute of Commerce and Technology,10.1007/978-1-4419-0312-9_5,2009
+Tianjin University,Tianjin University,10.1007/978-1-4419-0312-9_6,2009
+Tianjin University,Western Sydney University,10.1007/978-1-4419-0312-9_6,2009
+Tianjin University,University of Technology Sydney,10.1007/978-1-4419-0312-9_6,2009
+Western Sydney University,University of Technology Sydney,10.1007/978-1-4419-0312-9_6,2009
+Universitat Pompeu Fabra,Universitat Pompeu Fabra,10.1007/978-1-4419-0312-9_7,2009
+Nanjing University,Nanjing University,10.1007/978-1-4419-0312-9_8,2009
+Nanjing University,Hohai University,10.1007/978-1-4419-0312-9_8,2009
+Multimedia University,Multimedia University,10.1007/978-1-4419-0312-9_9,2009
+University of Macau,University of Macau,10.1007/978-1-4419-0312-9_10,2009
+Ocean University of China,Ocean University of China,10.1007/978-1-4419-0312-9_11,2009
+Tianjin University,Tianjin University,10.1007/978-1-4419-0312-9_12,2009
+Tianjin University,University of Technology Sydney,10.1007/978-1-4419-0312-9_12,2009
+German Research Center for Artificial Intelligence,German Research Center for Artificial Intelligence,10.1007/978-1-4419-0312-9_13,2009
+Beihang University,Institute of Software Chinese Academy of Sciences,10.1007/978-1-4419-0312-9_14,2009
+Beihang University,Beihang University,10.1007/978-1-4419-0312-9_14,2009
+Institute of Software Chinese Academy of Sciences,Institute of Software Chinese Academy of Sciences,10.1007/978-1-4419-0312-9_14,2009
+Western Sydney University,University of Technology Sydney,10.1007/978-1-4419-0312-9_15,2009
+Ecole Nationale Supérieure d’Architecture de Strasbourg,Ecole Nationale Supérieure d’Architecture de Strasbourg,10.1007/978-1-4419-0312-9_16,2009
+University Sains Malaysia,University Sains Malaysia,10.1007/978-1-4419-0312-9_17,2009
+Claremont Graduate University,Claremont Graduate University,10.1007/978-1-4419-0312-9_18,2009
+Tsinghua University,Tsinghua University,10.1007/978-1-4419-0312-9_20,2009
+The University of Newcastle,The University of Newcastle,10.1007/978-1-4419-0312-9_21,2009
+The University of Newcastle,Swinburne University of Technology,10.1007/978-1-4419-0312-9_21,2009
+The University of Newcastle,Chinese Academy of Sciences,10.1007/978-1-4419-0312-9_21,2009
+Swinburne University of Technology,Chinese Academy of Sciences,10.1007/978-1-4419-0312-9_21,2009
+Zhejiang University,Zhejiang University,10.1007/978-1-4419-0312-9_22,2009
+Beihang University,Beihang University,10.1007/978-1-4419-0312-9_23,2009
+Civil Aviation University of China,Civil Aviation University of China,10.1007/978-1-4419-0312-9_24,2009
+Civil Aviation University of China,Tianjin University,10.1007/978-1-4419-0312-9_24,2009
+university of stuttgart,university of stuttgart,10.1145/3481549.3481569,2021
+university of stuttgart,Shenzen Institutes of Advanced Technology,10.1145/3481549.3481569,2021
+university of stuttgart,shandong university,10.1145/3481549.3481569,2021
+Shenzen Institutes of Advanced Technology,shandong university,10.1145/3481549.3481569,2021
+ochanomizu university,ochanomizu university,10.1145/3481549.3481553,2021
+linnaeus university,linnaeus university,10.1145/3481549.3481557,2021
+Mercedes-Benz AG,university of stuttgart,10.1145/3481549.3481563,2021
+Mercedes-Benz AG,hochschule der medien  university of applied sciences,10.1145/3481549.3481563,2021
+university of stuttgart,hochschule der medien  university of applied sciences,10.1145/3481549.3481563,2021
+university of stuttgart,university of stuttgart,10.1145/3481549.3481563,2021
+university of potsdam,university of potsdam,10.1145/3481549.3481568,2021
+university of potsdam,university of potsdam,10.1145/3481549.3481570,2021
+Schepens Eye Research Institute,stony brook university,10.1145/3481549.3481562,2021
+Schepens Eye Research Institute,university of applied sciences,10.1145/3481549.3481562,2021
+stony brook university,stony brook university,10.1145/3481549.3481562,2021
+stony brook university,university of applied sciences,10.1145/3481549.3481562,2021
+queen mary university of london,queen mary university of london,10.1145/3481549.3481560,2021
+university of new south wales,university of new south wales,10.1145/3481549.3481556,2021
+university of new south wales,monash university,10.1145/3481549.3481556,2021
+university of new south wales,university of new south wales and csiro,10.1145/3481549.3481556,2021
+monash university,university of new south wales and csiro,10.1145/3481549.3481556,2021
+Universidad de los Andes and Universidad El Bosque,Universidad de los Andes,10.1145/3481549.3481554,2021
+St,JKU Linz,10.1145/3481549.3481558,2021
+St,St,10.1145/3481549.3481558,2021
+St,datavisyn GmbH,10.1145/3481549.3481558,2021
+JKU Linz,datavisyn GmbH,10.1145/3481549.3481558,2021
+JKU Linz,JKU Linz,10.1145/3481549.3481558,2021
+UNC Charlotte,UNC Charlotte,10.1145/3481549.3481564,2021
+ochanomizu university,monash university,10.1145/3481549.3481555,2021
+ochanomizu university,toyohashi university of technology,10.1145/3481549.3481555,2021
+ochanomizu university,ochanomizu university,10.1145/3481549.3481555,2021
+monash university,toyohashi university of technology,10.1145/3481549.3481555,2021
+university of trier,university of trier,10.1145/3481549.3481566,2021
+university of helsinki,university of copenhagen,10.1145/3481549.3481565,2021
+university of helsinki,university of helsinki,10.1145/3481549.3481565,2021
+university of applied sciences,eindhoven university of technology,10.1145/3481549.3481550,2021
+eindhoven university of technology,eindhoven university of technology,10.1145/3481549.3481550,2021
+Escuela Superior Politécnica del Litoral,Escuela Superior Politécnica del Litoral,10.1145/3481549.3481571,2021
+university of potsdam,university of potsdam,10.1145/3481549.3481573,2021
+Escuela Superior Politécnica del Litoral,Escuela Superior Politécnica del Litoral,10.1145/3481549.3481572,2021
+reutlingen university,reutlingen university,10.1145/3481549.3481559,2021
+north carolina state university,north carolina state university,10.1145/3481549.3481567,2021
+east china normal university,east china normal university,10.1145/3481549.3481551,2021
+zhejiang university,zhejiang university,10.1145/3481549.3481552,2021
+university of applied sciences,university of applied sciences,10.1145/3481549.3481561,2021
+university of potsdam,university of potsdam,10.1145/3430036.3430041,2020
+university of potsdam,university of potsdam,10.1145/3430036.3430054,2020
+eindhoven university of technology,eindhoven university of technology,10.1145/3430036.3430037,2020
+zhejiang university,zhejiang university,10.1145/3356422.3356433,2019
+hangzhou dianzi university,hangzhou dianzi university,10.1145/3356422.3356440,2019
+sejong university,sejong university,10.1145/3356422.3356439,2019
+BITS Pilani,LIRMM,10.1145/3231622.3231624,2018
+BITS Pilani,CIRAD,10.1145/3231622.3231624,2018
+BITS Pilani,TETIS,10.1145/3231622.3231624,2018
+LIRMM,CIRAD,10.1145/3231622.3231624,2018
+LIRMM,LIRMM,10.1145/3231622.3231624,2018
+LIRMM,TETIS,10.1145/3231622.3231624,2018
+CIRAD,TETIS,10.1145/3231622.3231624,2018
+swinburne university of technology,swinburne university of technology,10.1145/3231622.3231626,2018
+swinburne university of technology,deakin university,10.1145/3231622.3231626,2018
+swinburne university of technology,monash university,10.1145/3231622.3231626,2018
+swinburne university of technology,CSIRO Data 61,10.1145/3231622.3231626,2018
+deakin university,deakin university,10.1145/3231622.3231626,2018
+deakin university,monash university,10.1145/3231622.3231626,2018
+deakin university,CSIRO Data 61,10.1145/3231622.3231626,2018
+monash university,CSIRO Data 61,10.1145/3231622.3231626,2018
+east of china normal university,east of china normal university,10.1145/3231622.3231627,2018
+east of china normal university,East China Normal University,10.1145/3231622.3231627,2018
+university of stuttgart,university of stuttgart,10.1145/3231622.3231628,2018
+eindhoven university of technology,university of stuttgart,10.1145/3231622.3231635,2018
+university of texas,hohai university,10.1145/3231622.3231637,2018
+university of texas,tianjin university,10.1145/3231622.3231637,2018
+university of texas,university of texas,10.1145/3231622.3231637,2018
+hohai university,tianjin university,10.1145/3231622.3231637,2018
+university of potsdam,university of potsdam,10.1145/3231622.3231638,2018
+Technion,Technion,10.1145/3231622.3231623,2018
+ipk gaterslebenbielefeld university,bielefeld university,10.1145/3231622.3231639,2018
+ipk gaterslebenbielefeld university,university of konstanz,10.1145/3231622.3231639,2018
+bielefeld university,bielefeld university,10.1145/3231622.3231639,2018
+bielefeld university,university of konstanz,10.1145/3231622.3231639,2018
+university of konstanz,university of konstanz,10.1145/3231622.3231639,2018
+roma tre university,RIPE NCC,10.1145/3231622.3231632,2018
+roma tre university,roma tre university,10.1145/3231622.3231632,2018
+eindhoven university of technology,Reutlingen University,10.1145/3231622.3231633,2018
+Reutlingen University,Reutlingen University,10.1145/3231622.3231633,2018
+linnaeus university,linnaeus university,10.1145/3231622.3231625,2018
+linnaeus university,linnaeus university,10.1145/3231622.3231641,2018
+linnaeus university,university of potsdam,10.1145/3231622.3232505,2018
+linnaeus university,linnaeus university,10.1145/3231622.3232505,2018
+linnaeus university,linnaeus university,10.1145/3231622.3232508,2018
+linnaeus university,lund university,10.1145/3231622.3232508,2018
+linnaeus university,linnaeus university,10.1145/3231622.3232506,2018
+RIKEN Center for Computational Science,RIKEN Center for Computational Science,10.1145/3231622.3232504,2018
+RIKEN Center for Computational Science,kyushu university,10.1145/3231622.3232504,2018
+mid sweden university,mid sweden university,10.1145/3231622.3231636,2018
+university of applied sciences,university of applied sciences,10.1145/3231622.3231640,2018
+ajou university,ajou university,10.1145/3231622.3232507,2018
+SAP SE,Technische Universität Dresden,10.1145/3105971.3105972,2017
+Technische Universität Dresden,Technische Universität Dresden,10.1145/3105971.3105972,2017
+central south university,central south university,10.1145/3105971.3105980,2017
+central south university,Enterprise Security Group,10.1145/3105971.3105980,2017
+central south university,beijing technology and business university,10.1145/3105971.3105980,2017
+Enterprise Security Group,beijing technology and business university,10.1145/3105971.3105980,2017
+hohai university,hohai university,10.1145/3105971.3105983,2017
+east china normal university,east china normal university,10.1145/3105971.3105986,2017
+Sejong University,Yonsei University,10.1145/3105971.3105975,2017
+Sejong University,Sejong University,10.1145/3105971.3105975,2017
+Yonsei University,Yonsei University,10.1145/3105971.3105975,2017
+university of stuttgart,university of stuttgart,10.1145/3105971.3105982,2017
+university of stuttgart,Fraunhofer Institute for Solar Energy Systems ISE,10.1145/3105971.3105982,2017
+Fraunhofer Institute for Solar Energy Systems ISE,Fraunhofer Institute for Solar Energy Systems ISE,10.1145/3105971.3105982,2017
+Aalto University,Aalto University,10.1145/3105971.3105981,2017
+Aalto University,university of helsinki,10.1145/3105971.3105981,2017
+university of helsinki,university of helsinki,10.1145/3105971.3105981,2017
+vienna university of technology tu wien,vienna university of technology tu wien,10.1145/3105971.3105984,2017
+university of tsukuba,university of tsukuba,10.1145/3105971.3105987,2017
+university of tsukuba,Fujitsu Laboratories Ltd,10.1145/3105971.3105987,2017
+University of California,University of California,10.1145/3105971.3105990,2017
+tianjin university,tianjin university,10.1145/3105971.3108443,2017
+university of toronto,king mongkuts university of technology thonburi,10.1145/3105971.3108447,2017
+king mongkuts university of technology thonburi,king mongkuts university of technology thonburi,10.1145/3105971.3108447,2017
+university of macau,university of macau,10.1145/3105971.3108450,2017
+university of texas,Beijing Film Academy,10.1145/3105971.3108444,2017
+university of texas,Chinese Academy of Sciences,10.1145/3105971.3108444,2017
+Beijing Film Academy,Chinese Academy of Sciences,10.1145/3105971.3108444,2017
+China Automotive Technology and Research Center,China Automotive Technology and Research Center,10.1145/3105971.3108442,2017
+China Automotive Technology and Research Center,tianjin university,10.1145/3105971.3108442,2017
+ajou university,seoul national university,10.1145/3105971.3108445,2017
+ajou university,ajou university,10.1145/3105971.3108445,2017
+king mongkuts university of technology thonburi,Agoda Services Co,10.1145/3105971.3108446,2017
+king mongkuts university of technology thonburi,king mongkuts university of technology thonburi,10.1145/3105971.3108446,2017
+university of toronto,university of toronto,10.1145/3105971.3108448,2017
+university of toronto,KMUTT,10.1145/3105971.3108448,2017
+KMUTT,KMUTT,10.1145/3105971.3108448,2017
+east china normal university,east china normal university,10.1145/3105971.3105992,2017
+king mongkuts university of technology thonburi,king mongkuts university of technology thonburi,10.1145/3105971.3108449,2017
+university of helsinki,Universitá di Padova,10.1145/3105971.3105977,2017
+university of helsinki,university of helsinki,10.1145/3105971.3105977,2017
+Universitá di Padova,Universitá di Padova,10.1145/3105971.3105977,2017
+zhejiang university,university of texas,10.1145/3105971.3105974,2017
+zhejiang university,zhejiang university,10.1145/3105971.3105974,2017
+university of stuttgart and university of reutlingen,university of stuttgart and university of reutlingen,10.1145/3105971.3105989,2017
+university of macau,university of melbourne,10.1145/3105971.3105976,2017
+university of macau,university of macau,10.1145/3105971.3105976,2017
+university of brighton,university of brighton,10.1145/3105971.3105978,2017
+university of brighton,university of kent,10.1145/3105971.3105978,2017
+Technische Universität Dresden,Technische Universität Dresden,10.1145/3105971.3105979,2017
+Technische Universität Dresden,deecoob Technology GmbH,10.1145/3105971.3105979,2017
+Technische Universität Dresden,Mercateo AG,10.1145/3105971.3105979,2017
+Technische Universität Dresden,Chemmedia AG,10.1145/3105971.3105979,2017
+deecoob Technology GmbH,Mercateo AG,10.1145/3105971.3105979,2017
+deecoob Technology GmbH,Chemmedia AG,10.1145/3105971.3105979,2017
+Mercateo AG,Chemmedia AG,10.1145/3105971.3105979,2017
+university of brighton,university of brighton,10.1145/3105971.3105988,2017
+university of brighton,University of Cambridge,10.1145/3105971.3105988,2017
+University of Cambridge,University of Cambridge,10.1145/3105971.3105988,2017
+university of illinois,oklahoma state university,10.1145/2968220.2968229,2016
+university of illinois,university of illinois,10.1145/2968220.2968229,2016
+hong kong university of science and technology,hong kong university of science and technology,10.1145/2968220.2968242,2016
+Central South University,Central South University,10.1145/2968220.2968221,2016
+Central South University,Arizona State University,10.1145/2968220.2968221,2016
+VRVis Research Center,university of buenos aires,10.1145/2968220.2968238,2016
+VRVis Research Center,university of maryland,10.1145/2968220.2968238,2016
+VRVis Research Center,CONICET and U,10.1145/2968220.2968238,2016
+VRVis Research Center,Virginia Tech Blacksburg,10.1145/2968220.2968238,2016
+VRVis Research Center,VRVis Research Center,10.1145/2968220.2968238,2016
+university of buenos aires,university of maryland,10.1145/2968220.2968238,2016
+university of buenos aires,CONICET and U,10.1145/2968220.2968238,2016
+university of buenos aires,Virginia Tech Blacksburg,10.1145/2968220.2968238,2016
+university of maryland,CONICET and U,10.1145/2968220.2968238,2016
+university of maryland,Virginia Tech Blacksburg,10.1145/2968220.2968238,2016
+CONICET and U,Virginia Tech Blacksburg,10.1145/2968220.2968238,2016
+university of tokyo,university of aizu,10.1145/2968220.2968224,2016
+university of tokyo,keio university,10.1145/2968220.2968224,2016
+university of aizu,keio university,10.1145/2968220.2968224,2016
+western sydney university,western sydney university,10.1145/2968220.2968248,2016
+western sydney university,J Craig Venter Institute,10.1145/2968220.2968248,2016
+western sydney university,university of technology,10.1145/2968220.2968248,2016
+J Craig Venter Institute,university of technology,10.1145/2968220.2968248,2016
+Institute for Computer Science,Institute for Computer Science,10.1145/2968220.2968230,2016
+university of north texas,university of north texas,10.1145/2968220.2968235,2016
+university of north texas,washington university,10.1145/2968220.2968235,2016
+university of north texas,Rochester Institute of Technology,10.1145/2968220.2968235,2016
+university of north texas,oregon state university,10.1145/2968220.2968235,2016
+washington university,Rochester Institute of Technology,10.1145/2968220.2968235,2016
+washington university,oregon state university,10.1145/2968220.2968235,2016
+Rochester Institute of Technology,oregon state university,10.1145/2968220.2968235,2016
+oregon state university,oregon state university,10.1145/2968220.2968235,2016
+north dakota state university,north dakota state university,10.1145/2968220.2968236,2016
+university of melbourne,university of macau,10.1145/2968220.2968239,2016
+university of macau,university of macau,10.1145/2968220.2968239,2016
+nankai university,nankai university,10.1145/2968220.2968240,2016
+university of san francisco,university of san francisco,10.1145/2968220.2968241,2016
+changsha university of science and technology,stony brook university,10.1145/2968220.2968222,2016
+changsha university of science and technology,zhejiang university,10.1145/2968220.2968222,2016
+changsha university of science and technology,zhejiang university of technology,10.1145/2968220.2968222,2016
+stony brook university,zhejiang university,10.1145/2968220.2968222,2016
+stony brook university,zhejiang university of technology,10.1145/2968220.2968222,2016
+zhejiang university,zhejiang university of technology,10.1145/2968220.2968222,2016
+zhejiang university,zhejiang university,10.1145/2968220.2968222,2016
+Fraunhofer IGD,Fraunhofer IGD,10.1145/2968220.2968223,2016
+Fraunhofer IGD,technical university of germany,10.1145/2968220.2968223,2016
+technical university of germany,technical university of germany,10.1145/2968220.2968223,2016
+drexel university,drexel university,10.1145/2968220.2968244,2016
+hohai university,hohai university,10.1145/2968220.2968246,2016
+hohai university,Baidu Inc,10.1145/2968220.2968246,2016
+Baidu Inc,Baidu Inc,10.1145/2968220.2968246,2016
+zhejiang university,university of californiadavis,10.1145/2968220.2968228,2016
+zhejiang university,zhejiang university,10.1145/2968220.2968228,2016
+tianjin university,university of texas,10.1145/2968220.2968232,2016
+university shanghai,university shanghai,10.1145/2968220.2968227,2016
+BYU Hawaii,brigham young university,10.1145/2968220.2968231,2016
+BYU Hawaii,BYU Hawaii,10.1145/2968220.2968231,2016
+university of san francisco,university of san francisco,10.1145/2968220.2968233,2016
+southeast university,southeast university,10.1145/2968220.2968243,2016
+university of wyoming,university of wyoming,10.1145/2968220.2968245,2016
+Highland Park High School,John Paul II High School,10.1145/2968220.2972225,2016
+Highland Park High School,tianjin university,10.1145/2968220.2972225,2016
+John Paul II High School,tianjin university,10.1145/2968220.2972225,2016
+tongji university,tongji university,10.1145/2968220.2972226,2016
+shanghai jiao tong university,shanghai jiao tong university,10.1145/2968220.2968234,2016
+purdue university,indiana university,10.1145/2968220.2968249,2016
+Sejong University,Sejong University,10.1145/2801040.2801054,2015
+university of tsukuba,university of tsukuba,10.1145/2801040.2801043,2015
+university of tsukuba,aichi university of education,10.1145/2801040.2801043,2015
+university of tsukuba,Toba National College of Maritime Technology,10.1145/2801040.2801043,2015
+university of tsukuba,Aichi Institute of Technology,10.1145/2801040.2801043,2015
+aichi university of education,Toba National College of Maritime Technology,10.1145/2801040.2801043,2015
+aichi university of education,Aichi Institute of Technology,10.1145/2801040.2801043,2015
+Toba National College of Maritime Technology,Aichi Institute of Technology,10.1145/2801040.2801043,2015
+Visualisierungsinstitut der Universität Stuttgart,Visualisierungsinstitut der Universität Stuttgart,10.1145/2801040.2801055,2015
+university of stuttgart,university of stuttgart,10.1145/2801040.2801057,2015
+university of stuttgart,university of stuttgart,10.1145/2801040.2801053,2015
+university of sydney,monash university,10.1145/2801040.2801059,2015
+university of sydney,university of sydney,10.1145/2801040.2801059,2015
+national chiao tung university,national chiao tung university,10.1145/2801040.2801046,2015
+ochanomizu university,ochanomizu university,10.1145/2801040.2801044,2015
+university of new south wales,St Vincent's Hospital,10.1145/2801040.2801051,2015
+university of new south wales,St Vincent's Private Hospital,10.1145/2801040.2801051,2015
+university of new south wales,university of new south wales,10.1145/2801040.2801051,2015
+St Vincent's Hospital,St Vincent's Hospital,10.1145/2801040.2801051,2015
+St Vincent's Hospital,St Vincent's Private Hospital,10.1145/2801040.2801051,2015
+Universiti Teknologi Malaysia,university of canterbury,10.1145/2801040.2801058,2015
+Universiti Teknologi Malaysia,Universiti Teknologi Malaysia,10.1145/2801040.2801058,2015
+university of rome la sapienza rome,university of rome la sapienza rome,10.1145/2801040.2801052,2015
+tianjin university,tianjin university,10.1145/2801040.2801061,2015
+tianjin university,university of texas,10.1145/2801040.2801061,2015
+ochanomizu university,ochanomizu university,10.1145/2801040.2801041,2015
+TCS Research,TCS Research,10.1145/2801040.2801049,2015
+university of chinese academy of sciences,State Key Laboratory of Computer Science,10.1145/2801040.2801063,2015
+State Key Laboratory of Computer Science,State Key Laboratory of Computer Science,10.1145/2801040.2801063,2015
+nankai university,nankai university,10.1145/2801040.2801062,2015
+nankai university,university of texas,10.1145/2801040.2801062,2015
+VISUS,VISUS,10.1145/2801040.2801045,2015
+university of macau,university of macau,10.1145/2801040.2801056,2015
+gakushuin university,school of commerce senshu university,10.1145/2801040.2801042,2015
+gakushuin university,Gakushuin University,10.1145/2801040.2801042,2015
+school of commerce senshu university,Gakushuin University,10.1145/2801040.2801042,2015
+Gakushuin University,Gakushuin University,10.1145/2801040.2801042,2015
+tokyo metropolitan university,tokyo metropolitan university,10.1145/2801040.2801047,2015
+interdisciplinary graduate school of science and engineering shimane university,interdisciplinary graduate school of science and engineering shimane university,10.1145/2801040.2801050,2015
+university of western sydney,university of western sydney,10.1145/2801040.2801060,2015
+kyushu university,kyushu university,10.1145/2801040.2801066,2015
+ochanomizu university,ochanomizu university,10.1145/2801040.2801067,2015
+ochanomizu university,university of sydney,10.1145/2801040.2801067,2015
+ajou university,ajou university,10.1145/2801040.2801069,2015
+tokyo university of science,tokyo university of science,10.1145/2801040.2801068,2015
+tokyo university of science,Centre les Capucins,10.1145/2801040.2801068,2015
+tokyo university of science,Laboratoire Angevin de Recherche en Ingénierie des Systèmes,10.1145/2801040.2801068,2015
+Centre les Capucins,Laboratoire Angevin de Recherche en Ingénierie des Systèmes,10.1145/2801040.2801068,2015
+Centre les Capucins,Centre les Capucins,10.1145/2801040.2801068,2015
+university of electrocommunications,university of electrocommunications,10.1145/2801040.2801070,2015
+chang gung university,chang gung university,10.1145/2801040.2801065,2015
+chang gung university,Chang Gung Memorial Hospital,10.1145/2801040.2801065,2015
+Chang Gung Memorial Hospital,Chang Gung Memorial Hospital,10.1145/2801040.2801065,2015
+National Institute of Informatics,National Institute of Informatics,10.1145/2801040.2801071,2015
+tianjin university,tianjin university,10.1145/2801040.2801072,2015
+tianjin university,university of texas,10.1145/2801040.2801072,2015
+gakushuin university,senshu university,10.1145/2801040.2802138,2015
+gakushuin university,Gakushuin University,10.1145/2801040.2802138,2015
+senshu university,Gakushuin University,10.1145/2801040.2802138,2015
+Gakushuin University,Gakushuin University,10.1145/2801040.2802138,2015
+lomonosov moscow state university,lomonosov moscow state university,10.1145/2636240.2636844,2014
+Micron Technology Incorporated,boise state university,10.1145/2636240.2636850,2014
+Micron Technology Incorporated,university of san francisco,10.1145/2636240.2636850,2014
+boise state university,boise state university,10.1145/2636240.2636850,2014
+boise state university,university of san francisco,10.1145/2636240.2636850,2014
+university of technology,university of technology,10.1145/2636240.2636841,2014
+university of technology,western sydney university,10.1145/2636240.2636841,2014
+university of technology,tianjin university,10.1145/2636240.2636841,2014
+western sydney university,tianjin university,10.1145/2636240.2636841,2014
+university of stuttgart,university of stuttgart,10.1145/2636240.2636839,2014
+university of tokyo,university of tokyo,10.1145/2636240.2636858,2014
+university of tokyo,university of tsukuba,10.1145/2636240.2636858,2014
+Shenzhen University,hong kong university of science and technology,10.1145/2636240.2636854,2014
+Shenzhen University,Shenzhen University,10.1145/2636240.2636854,2014
+hong kong university of science and technology,hong kong university of science and technology,10.1145/2636240.2636854,2014
+swinburne university of technology,swinburne university of technology,10.1145/2636240.2636843,2014
+university of paderborn,university of paderborn,10.1145/2636240.2636840,2014
+national chiao tung university,national chiao tung university,10.1145/2636240.2636846,2014
+university of salerno,university of salerno,10.1145/2636240.2636855,2014
+university of salerno,australian catholic university,10.1145/2636240.2636855,2014
+university of salerno,university of western sydney,10.1145/2636240.2636855,2014
+australian catholic university,university of western sydney,10.1145/2636240.2636855,2014
+western sydney university,western sydney university,10.1145/2636240.2636842,2014
+western sydney university,central queensland university,10.1145/2636240.2636842,2014
+western sydney university,university of british columbia,10.1145/2636240.2636842,2014
+western sydney university,kansas state university,10.1145/2636240.2636842,2014
+western sydney university,university of alberta,10.1145/2636240.2636842,2014
+central queensland university,central queensland university,10.1145/2636240.2636842,2014
+central queensland university,university of british columbia,10.1145/2636240.2636842,2014
+central queensland university,kansas state university,10.1145/2636240.2636842,2014
+central queensland university,university of alberta,10.1145/2636240.2636842,2014
+university of british columbia,kansas state university,10.1145/2636240.2636842,2014
+university of british columbia,university of alberta,10.1145/2636240.2636842,2014
+kansas state university,university of alberta,10.1145/2636240.2636842,2014
+Technology National Institute of Technology Karnataka,Technology National Institute of Technology Karnataka,10.1145/2636240.2636847,2014
+Technology National Institute of Technology Karnataka,National Institute of Technology Karnataka,10.1145/2636240.2636847,2014
+National Institute of Technology Karnataka,National Institute of Technology Karnataka,10.1145/2636240.2636847,2014
+tianjin university,university of texas,10.1145/2636240.2636857,2014
+tianjin university,tianjin university,10.1145/2636240.2636857,2014
+tsinghua university,tsinghua university,10.1145/2636240.2636845,2014
+Indian Institute of Technology Guwahati,Indian Institute of Technology Guwahati,10.1145/2636240.2636856,2014
+university of waikato,university of waikato,10.1145/2636240.2636853,2014
+university of brighton,university of brighton,10.1145/2636240.2636838,2014
+university of brighton,university of kent,10.1145/2636240.2636838,2014
+university of tasmania,CSIRO,10.1145/2636240.2636848,2014
+university of sydney,university of sydney,10.1145/2636240.2636852,2014
+university of sydney,CSIRO Computational Informatics,10.1145/2636240.2636852,2014
+kyushu university,kyushu university,10.1145/2636240.2636849,2014
+shandong university jinan,shandong university jinan,10.1145/2636240.2636862,2014
+james cook university,james cook university,10.1145/2636240.2636860,2014
+brigham young university,brigham young university,10.1145/2636240.2636871,2014
+National Institute of Technology Karnataka,National Institute of Technology Karnataka,10.1145/2636240.2636863,2014
+james cook university,james cook university,10.1145/2636240.2636865,2014
+university of tasmania,university of tasmania,10.1145/2636240.2636868,2014
+deakin university,deakin university,10.1145/2636240.2636866,2014
+ochanomizu university,ochanomizu university,10.1145/2636240.2636861,2014
+university of colombo,monash university,10.1145/2636240.2636867,2014
+The 28th Research Institute of China Electronics Technology Group Corporation,The 28th Research Institute of China Electronics Technology Group Corporation,10.1145/2636240.2636870,2014
+university of sydney,university of sydney,10.1145/2636240.2636864,2014
+queensland university of technology,queensland university of technology,10.1145/2636240.2636869,2014
+university of colombo,monash university malaysia,10.1145/2636240.2636876,2014
+ochanomizu university,ochanomizu university,10.1145/2636240.2636877,2014
+ochanomizu university,Shiseido Research Center,10.1145/2636240.2636877,2014
+Shiseido Research Center,Shiseido Research Center,10.1145/2636240.2636877,2014
+Department of IT,Department of IT,10.1145/2636240.2636878,2014
+university of colombo,monash university,10.1145/2636240.2636875,2014
+university of colombo,university of colombo,10.1145/2636240.2636875,2014
+university of colombo,monash university,10.1145/2636240.2636874,2014
+university of toyama,university of toyama,10.1145/2636240.2636872,2014
+queensland university of technology,queensland university of technology,10.1145/2636240.2636873,2014
+sapienza university of rome,shizuoka university,10.1145/2493102.2493103,2013
+sapienza university of rome,Kinjito Co,10.1145/2493102.2493103,2013
+shizuoka university,Kinjito Co,10.1145/2493102.2493103,2013
+beihang university,beihang university,10.1145/2493102.2493104,2013
+beihang university,Chinese Academy of Sciences,10.1145/2493102.2493104,2013
+Chinese Academy of Sciences,Chinese Academy of Sciences,10.1145/2493102.2493104,2013
+university of salerno,australia and australian catholic university,10.1145/2493102.2493105,2013
+university of salerno,western sydney university,10.1145/2493102.2493105,2013
+australia and australian catholic university,western sydney university,10.1145/2493102.2493105,2013
+Harbin Institute of Technology,Harbin Institute of Technology,10.1145/2493102.2493106,2013
+nanjing university,nanjing university,10.1145/2493102.2493107,2013
+Tsinghua University,hong kong university of science and technology,10.1145/2493102.2493108,2013
+Tsinghua University,Tsinghua University,10.1145/2493102.2493108,2013
+Tsinghua University,Information System Sina Technology,10.1145/2493102.2493108,2013
+hong kong university of science and technology,Information System Sina Technology,10.1145/2493102.2493108,2013
+Information System Sina Technology,Information System Sina Technology,10.1145/2493102.2493108,2013
+university of texas,tianjin university,10.1145/2493102.2493109,2013
+university of texas,university of texas,10.1145/2493102.2493109,2013
+east china normal university,east china normal university,10.1145/2493102.2493110,2013
+tsinghua university,tsinghua university,10.1145/2493102.2493111,2013
+university of technology,Western Sydney University,10.1145/2493102.2493112,2013
+university of technology,university of technology,10.1145/2493102.2493112,2013
+Western Sydney University,Western Sydney University,10.1145/2493102.2493112,2013
+university of salerno,university of salerno,10.1145/2493102.2493113,2013
+university of macau,university of macau,10.1145/2493102.2493114,2013
+university of rome,university of salerno,10.1145/2493102.2493116,2013
+university of rome,university of brighton,10.1145/2493102.2493116,2013
+university of salerno,university of salerno,10.1145/2493102.2493116,2013
+university of salerno,university of brighton,10.1145/2493102.2493116,2013
+nanjing university,nanjing university,10.1145/2493102.2493118,2013
+university françois rabelais of tours,university of lille,10.1145/2493102.2493119,2013
+university françois rabelais of tours,university françois rabelais of tours,10.1145/2493102.2493119,2013
+aston university,loughborough university,10.1145/2493102.2493120,2013
+shandong university,shandong university,10.1145/2493102.2493121,2013
+shandong university,shandong university,10.1145/2493102.2493122,2013
+winthrop university,Institute of Design,10.1145/2493102.2493115,2013
+winthrop university,university college london,10.1145/2493102.2493115,2013
+Institute of Design,university college london,10.1145/2493102.2493115,2013
+university college london,university college london,10.1145/2493102.2493115,2013
+zhejiang university of technology,zhejiang university of technology,10.1145/2397696.2397697,2012
+central south university,central south university,10.1145/2397696.2397698,2012
+shandong university jinan,shandong university jinan,10.1145/2397696.2397699,2012
+IBM Research -- China,IBM Research -- China,10.1145/2397696.2397700,2012
+IBM Research -- China,IBM T,10.1145/2397696.2397700,2012
+IBM Research -- China,Chinese Academy of Sciences,10.1145/2397696.2397700,2012
+IBM Research -- China,tsinghua university beijing,10.1145/2397696.2397700,2012
+IBM T,Chinese Academy of Sciences,10.1145/2397696.2397700,2012
+IBM T,tsinghua university beijing,10.1145/2397696.2397700,2012
+Chinese Academy of Sciences,tsinghua university beijing,10.1145/2397696.2397700,2012
+vanderbilt university,boise state university,10.1145/2397696.2397701,2012
+Beijing Normal University,Drexel University,10.1145/2397696.2397702,2012
+university of illinois,university of illinois,10.1145/2397696.2397703,2012
+UNC Charlotte Charlotte,UNC Charlotte Charlotte,10.1145/2397696.2397704,2012
+UNC Charlotte Charlotte,zhejiang university,10.1145/2397696.2397704,2012
+university of western,UT Southwestern Medical Center at Dallas,10.1145/2397696.2397705,2012
+university of western,university of technology,10.1145/2397696.2397705,2012
+university of western,tianjin university,10.1145/2397696.2397705,2012
+UT Southwestern Medical Center at Dallas,university of technology,10.1145/2397696.2397705,2012
+UT Southwestern Medical Center at Dallas,tianjin university,10.1145/2397696.2397705,2012
+university of technology,tianjin university,10.1145/2397696.2397705,2012
+east china normal university,east china normal university,10.1145/2397696.2397706,2012
+east china normal university,soochow university suzhou,10.1145/2397696.2397706,2012
+university of texas,tianjin university,10.1145/2397696.2397707,2012
+university of macau,university of macau,10.1145/2397696.2397708,2012
+nanjing university,nanjing university,10.1145/2397696.2397709,2012
+UNC Charlotte,UNC Charlotte,10.1145/2397696.2397710,2012
+UNC Charlotte,university of the pacific,10.1145/2397696.2397710,2012
+university of the pacific,university of the pacific,10.1145/2397696.2397710,2012
+tsinghua university,tsinghua university,10.1145/2397696.2397711,2012
+australia university of technology,national chiao tung university,10.1145/2397696.2397712,2012
+australia university of technology,university of technology sydney,10.1145/2397696.2397712,2012
+national chiao tung university,university of technology sydney,10.1145/2397696.2397712,2012
+charlotte visualization center,Palo Alto Research Center,10.1145/2016656.2016657,2011
+charlotte visualization center,university of new hampshire,10.1145/2016656.2016657,2011
+charlotte visualization center,charlotte visualization center,10.1145/2016656.2016657,2011
+Palo Alto Research Center,university of new hampshire,10.1145/2016656.2016657,2011
+university of macau,university of macau,10.1145/2016656.2016658,2011
+University of Tsukuba,University of Tsukuba,10.1145/2016656.2016659,2011
+Chinese Academy of Sciences,beijing jiaotong university,10.1145/2016656.2016660,2011
+Chinese Academy of Sciences,Chinese Academy of Sciences,10.1145/2016656.2016660,2011
+Chinese Academy of Sciences,Chinese Academy of Sciences Beijing,10.1145/2016656.2016660,2011
+beijing jiaotong university,Chinese Academy of Sciences Beijing,10.1145/2016656.2016660,2011
+ochanomizu university,ochanomizu university,10.1145/2016656.2016661,2011
+shimane university,shimane university,10.1145/2016656.2016662,2011
+shimane university,Yamamoto Clinic,10.1145/2016656.2016662,2011
+Yamamoto Clinic,Yamamoto Clinic,10.1145/2016656.2016662,2011
+pennsylvania state university,pennsylvania state university,10.1145/2016656.2016663,2011
+Chinese Academy of Sciences,Microsoft Research Asia,10.1145/2016656.2016664,2011
+Chinese Academy of Sciences,Chinese Academy of Sciences,10.1145/2016656.2016664,2011
+Chinese Academy of Sciences,Pennsylvania State University,10.1145/2016656.2016664,2011
+Microsoft Research Asia,Pennsylvania State University,10.1145/2016656.2016664,2011
+dalhousie university halifax,dalhousie university halifax,10.1145/2016656.2016665,2011
+Chinese Academy of Sciences,Chinese Academy of Sciences,10.1145/2016656.2016666,2011
+tianjin university,tianjin university,10.1145/2016656.2016667,2011
+tianjin university,university of technology sydney,10.1145/2016656.2016667,2011
+university of texas,university of texas,10.1145/2016656.2016668,2011
+hong kong university of science and technology,hong kong university of science and technology,10.1145/2016656.2016669,2011
+southern methodist university,southern methodist university,10.1145/2016656.2016670,2011
+the penn state university,sun yatsen university,10.1145/2016656.2016671,2011
+the penn state university,the penn state university,10.1145/2016656.2016671,2011
+sun yatsen university,sun yatsen university,10.1145/2016656.2016671,2011
+university of texas,university of texas,10.1145/2016656.2016672,2011
+peking university,peking university,10.1145/1865841.1865848,2010
+shandong university,shandong university,10.1145/1865841.1865849,2010
+beijing normal university,beijing normal university,10.1145/1865841.1865850,2010
+shandong university,shandong university,10.1145/1865841.1865853,2010
+CSIRO ICT Centre,university of technology,10.1145/1865841.1865854,2010
+dalhousie university,dalhousie university,10.1145/1865841.1865856,2010
+shandong university,shandong university,10.1145/1865841.1865857,2010
+KDU College Penang Campus,KDU College Penang Campus,10.1145/1865841.1865858,2010
+Chinese Academy of Sciences,Chinese Academy of Sciences,10.1145/1865841.1865860,2010
+Chinese Academy of Sciences,Chinese Academy of Sciences,10.1145/1865841.1865861,2010
+western sydney university,western sydney university,10.1145/1865841.1865862,2010
+western sydney university,university of technology,10.1145/1865841.1865862,2010
+CSIRO -- ICT Centre,CSIRO -- ICT Centre,10.1145/1865841.1865864,2010
+the penn state university park,the penn state university park,10.1145/1865841.1865865,2010
+shimane university,shimane university,10.1145/1865841.1865866,2010
+university of texas,university of texas,10.1145/1865841.1865868,2010
+University of Macau,University of Macau,10.1145/1865841.1865869,2010
+pennsylvania state university,pennsylvania state university,10.1145/1865841.1865870,2010
+pölten university of applied sciences,pölten university of applied sciences,10.1145/3554944.3554949,2022
+university of bergen,university of bergen,10.1145/3554944.3554950,2022
+university of texas,university of mining and technology,10.1145/3554944.3554951,2022
+university of texas,university of pennsylvania,10.1145/3554944.3554951,2022
+university of texas,hong kong university of science and technology,10.1145/3554944.3554951,2022
+university of mining and technology,university of pennsylvania,10.1145/3554944.3554951,2022
+university of mining and technology,hong kong university of science and technology,10.1145/3554944.3554951,2022
+university of pennsylvania,hong kong university of science and technology,10.1145/3554944.3554951,2022
+hong kong university of science and technology,hong kong university of science and technology,10.1145/3554944.3554951,2022
+university of british columbia,university of british columbia,10.1145/3554944.3554952,2022
+university of konstanz,university of stuttgart,10.1145/3554944.3554971,2022
+university of konstanz,university of konstanz,10.1145/3554944.3554971,2022
+university of stuttgart,university of stuttgart,10.1145/3554944.3554971,2022
+university of stuttgart,university of stuttgart,10.1145/3554944.3554947,2022
+university of stuttgart,university of stuttgart,10.1145/3554944.3554945,2022
+Escuela Superior Politécnica del Litoral,Escuela Superior Politécnica del Litoral,10.1145/3554944.3554957,2022
+university of bergen,haukeland university hospital,10.1145/3554944.3554958,2022
+haukeland university hospital,haukeland university hospital,10.1145/3554944.3554958,2022
+university of applied sciences of the grisons,eindhoven university of technology,10.1145/3554944.3554959,2022
+eindhoven university of technology,eindhoven university of technology,10.1145/3554944.3554959,2022
+Naval Research Laboratory,Naval Research Laboratory,10.1145/3554944.3554954,2022
+university of stuttgart,university of stuttgart,10.1145/3554944.3554970,2022
+university of stuttgart,Escuela de Diseno,10.1145/3554944.3554970,2022
+university of stuttgart,university of stuttgart,10.1145/3554944.3554956,2022
+university of applied sciences of the grisons,university of applied sciences of the grisons,10.1145/3554944.3554960,2022
+university of potsdam,university of potsdam,10.1145/3554944.3554961,2022
+university of applied sciences of the grisons,university of applied sciences of the grisons,10.1145/3554944.3554962,2022
+Behaviour Lab Ltd,Imperial College London,10.1145/3554944.3554963,2022
+university of applied sciences of the grisons,,10.1145/3554944.3554964,2022
+university of applied sciences of the grisons,university of applied sciences of the grisons,10.1145/3554944.3554964,2022
+university of applied sciences of the grisons,university of applied sciences of the grisons,10.1145/3554944.3554965,2022
+university of applied sciences of the grisons,university of applied sciences of the grisons,10.1145/3554944.3554966,2022
+Eindhoven University of Technology,Eindhoven University of Technology,10.1145/3430036.3430067,2020
+aalen university of applied sciences,aalen university of applied sciences,10.1145/3430036.3430060,2020
+aalen university of applied sciences,aalen university of applied sciences,10.1145/3430036.3430058,2020
+Technische Universiteit Eindhoven,Technische Universiteit Eindhoven,10.1145/3430036.3430053,2020
+Philips Research Eindhoven,Philips Research Eindhoven,10.1145/3430036.3430065,2020
+Philips Research Eindhoven,eindhoven university of technology,10.1145/3430036.3430065,2020
+eindhoven university of technology,eindhoven university of technology,10.1145/3430036.3430052,2020
+university of stuttgart,university of stuttgart,10.1145/3430036.3430050,2020
+university of stuttgart,Technische Universität Berlin,10.1145/3430036.3430050,2020
+university of stuttgart,university of stuttgart,10.1145/3430036.3430038,2020
+university of stuttgart,ETH Zurich,10.1145/3430036.3430038,2020
+university of stuttgart,oregon state university,10.1145/3430036.3430038,2020
+ETH Zurich,oregon state university,10.1145/3430036.3430038,2020
+university of aizu,university of aizu,10.1145/3430036.3430059,2020
+university of aizu,toyohashi university of technology,10.1145/3430036.3430059,2020
+university of aizu,akita university,10.1145/3430036.3430059,2020
+toyohashi university of technology,akita university,10.1145/3430036.3430059,2020
+university of applied sciences,university of applied sciences,10.1145/3430036.3430061,2020
+university of applied sciences,Hochschule Reutlingen,10.1145/3430036.3430061,2020
+Hochschule Reutlingen,Hochschule Reutlingen,10.1145/3430036.3430061,2020
+aarhus university,aarhus university,10.1145/3430036.3430042,2020
+aalen university of applied sciences,aalen university of applied sciences,10.1145/3430036.3430066,2020
+eindhoven university of technology,eindhoven university of technology,10.1145/3430036.3430043,2020
+eindhoven university of technology,eindhoven university of technology,10.1145/3430036.3430049,2020
+Texas Tech University,Texas Tech University,10.1145/3430036.3430071,2020
+university of stuttgart,university of stuttgart,10.1145/3430036.3430047,2020
+university of potsdam,university of potsdam,10.1145/3430036.3430045,2020
+TU Delft,TU Delft,10.1145/3430036.3430070,2020
+TU Delft,tu delft and eindhoven university of technology,10.1145/3430036.3430070,2020
+eindhoven university of technology,eindhoven university of technology,10.1145/3430036.3430044,2020
+Tokyo Institute of Technology,university of tokyo,10.1145/3430036.3430069,2020
+Tokyo Institute of Technology,Tokyo Institute of Technology,10.1145/3430036.3430069,2020
+eindhoven university of technology,eindhoven university of technology,10.1145/3430036.3430064,2020
+central south university,central south university,10.1145/3430036.3430068,2020
+Eindhoven University of Technology,Eindhoven University of Technology,10.1145/3430036.3430063,2020
+university of potsdam,university of potsdam,10.1145/3430036.3432753,2020
+Texas Tech University,Texas Tech University,10.1145/3430036.3430072,2020
+Texas Tech University,Dell Inc,10.1145/3430036.3430072,2020
+Royal Danish Academy,Royal Danish Academy,10.1145/3430036.3430073,2020
+School of Computer Science and Technology,Microsoft Research Asia,10.1145/3356422.3356446,2019
+School of Computer Science and Technology,School of Computer Science and Technology,10.1145/3356422.3356446,2019
+vienna university of technology,vienna university of technology,10.1145/3356422.3356426,2019
+information engineering university,information engineering university,10.1145/3356422.3356431,2019
+university of potsdam,university of potsdam,10.1145/3356422.3356425,2019
+university of potsdam,Targomo GmbH,10.1145/3356422.3356425,2019
+Targomo GmbH,Targomo GmbH,10.1145/3356422.3356425,2019
+eindhoven university of technology,eindhoven university of technology,10.1145/3356422.3356423,2019
+University of Konstanz,University of Konstanz,10.1145/3356422.3356450,2019
+University of Konstanz,Royal College of Arts,10.1145/3356422.3356450,2019
+Shanghai Hanjie Science and Technology Development Co,Shanghai Hanjie Science and Technology Development Co,10.1145/3356422.3356424,2019
+university of potsdam,university of potsdam,10.1145/3356422.3356444,2019
+chinese academy of sciences and university of chinese academy of sciencess,Chinese Academy of Sciences,10.1145/3356422.3356430,2019
+Chinese Academy of Sciences,Chinese Academy of Sciences,10.1145/3356422.3356430,2019
+tianjin university,tianjin university,10.1145/3356422.3356449,2019
+tianjin university,technology and business university,10.1145/3356422.3356449,2019
+tianjin university,university of texas,10.1145/3356422.3356449,2019
+tianjin university,university of science and technology of china,10.1145/3356422.3356449,2019
+technology and business university,university of texas,10.1145/3356422.3356449,2019
+technology and business university,university of science and technology of china,10.1145/3356422.3356449,2019
+university of texas,university of science and technology of china,10.1145/3356422.3356449,2019
+hunan university,hunan university,10.1145/3356422.3356441,2019
+east china normal university,university of techonlogy sydney,10.1145/3356422.3356429,2019
+east china normal university,east china normal university,10.1145/3356422.3356429,2019
+east china normal university,Shanghai Chinafortune Co,10.1145/3356422.3356429,2019
+east china normal university,ChengShu Information Technology,10.1145/3356422.3356429,2019
+university of techonlogy sydney,Shanghai Chinafortune Co,10.1145/3356422.3356429,2019
+university of techonlogy sydney,ChengShu Information Technology,10.1145/3356422.3356429,2019
+Shanghai Chinafortune Co,ChengShu Information Technology,10.1145/3356422.3356429,2019
+University of Konstanz,University of Konstanz,10.1145/3356422.3356435,2019
+University of Konstanz,Department Evolutionary Ecology,10.1145/3356422.3356435,2019
+Department Evolutionary Ecology,Department Evolutionary Ecology,10.1145/3356422.3356435,2019
+eindhoven university of technology,eindhoven university of technology,10.1145/3356422.3356447,2019
+zhejiang university,zhejiang university,10.1145/3356422.3356427,2019
+engineering rwth aachen university,university of wuppertal,10.1145/3356422.3356434,2019
+university of louisville,university of louisville,10.1145/3356422.3356438,2019
+university of potsdam,university of potsdam,10.1145/3356422.3356445,2019
+national university of defense technology,national university of defense technology,10.1145/3356422.3356442,2019
+qufu normal university,qufu normal university,10.1145/3356422.3356428,2019
+information engineering university,information engineering university,10.1145/3356422.3356432,2019
+beijing normal university,beijing normal university,10.1145/3356422.3356436,2019
+chalmers university of technology,LMU Munich,10.1145/3356422.3356437,2019
+chalmers university of technology,Karlsruhe Institut für Technologie,10.1145/3356422.3356437,2019
+chalmers university of technology,university of eastern finland,10.1145/3356422.3356437,2019
+chalmers university of technology,chalmers university of technology,10.1145/3356422.3356437,2019
+chalmers university of technology,chalmers university of technology gothenburg,10.1145/3356422.3356437,2019
+LMU Munich,Karlsruhe Institut für Technologie,10.1145/3356422.3356437,2019
+LMU Munich,university of eastern finland,10.1145/3356422.3356437,2019
+LMU Munich,chalmers university of technology gothenburg,10.1145/3356422.3356437,2019
+Karlsruhe Institut für Technologie,university of eastern finland,10.1145/3356422.3356437,2019
+Karlsruhe Institut für Technologie,chalmers university of technology gothenburg,10.1145/3356422.3356437,2019
+university of eastern finland,chalmers university of technology gothenburg,10.1145/3356422.3356437,2019
+hohai university,hohai university,10.1145/3356422.3356443,2019
+shanghai jiao tong university,shanghai jiao tong university,10.1145/3356422.3356448,2019
+communication university of china,communication university of china,10.1145/3356422.3356451,2019
+tongji university,tongji university,10.1145/3356422.3356452,2019
+tianjin university,tianjin university,10.1145/3356422.3356453,2019
+tianjin university,university of texas,10.1145/3356422.3356453,2019
+tongji university,tongji university,10.1145/3356422.3356455,2019
+tongji university,tongji university,10.1145/3356422.3356456,2019
+tongji university,tongji university shanghai,10.1145/3356422.3356456,2019
+east china university of science and technology,east china university of science and technology,10.1145/3356422.3356457,2019
+east china university of science and technology,east china university of science and technology,10.1145/3356422.3356458,2019
+east china university of science and technology,east china university of science and technology,10.1145/3356422.3356459,2019
+east china university of science and technology,east china university of science and technology,10.1145/3356422.3356460,2019
+east china university of science and technology,east china university of science and technology,10.1145/3356422.3356461,2019
