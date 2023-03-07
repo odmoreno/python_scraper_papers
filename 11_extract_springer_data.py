@@ -127,7 +127,7 @@ class SpringerClient:
         pass
     
     def load_data_vinci(self):
-        self.papers_vinci = load_generic('data/vinci_2009/papers_update_v2.json')
+        self.papers_vinci = load_generic('data/vinci_2009/papers_update.json')
         self.institutos_vinci = load_generic('data/jsons/insti.json')
         self.autores_vinci = load_generic('data/jsons/authors_update.json')
         self.paises = load_generic('data/jsons/countries.json')
