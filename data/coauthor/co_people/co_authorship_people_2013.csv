@@ -1,0 +1,470 @@
+e1,e2,value
+Andrew Vande Moere,Stephanie Patel,1
+Adel Ahmed,Xiaoyan Fu,1
+Adel Ahmed,Seok-Hee Hong,1
+Adel Ahmed,Quan Hoang Nguyen,1
+Adel Ahmed,Kai Xu,1
+Xiaoyan Fu,Seok-Hee Hong,1
+Xiaoyan Fu,Quan Hoang Nguyen,1
+Xiaoyan Fu,Kai Xu,1
+Seok-Hee Hong,Quan Hoang Nguyen,1
+Seok-Hee Hong,Kai Xu,1
+Quan Hoang Nguyen,Kai Xu,1
+Pushpa Kumar,Kang Zhang,1
+Pushpa Kumar,Mao Lin Huang,1
+Kang Zhang,Mao Lin Huang,1
+Steffen Bogen,Ulrik Brandes,1
+Steffen Bogen,Hendrik Ziezold,1
+Ulrik Brandes,Hendrik Ziezold,1
+Lei Ren,Lin Zhang,2
+Lei Ren,Dongxing Teng,1
+Lei Ren,Guozhong Dai,3
+Lei Ren,Qian Li,1
+Lin Zhang,Dongxing Teng,1
+Lin Zhang,Guozhong Dai,2
+Lin Zhang,Qian Li,1
+Dongxing Teng,Guozhong Dai,4
+Dongxing Teng,Qian Li,1
+Guozhong Dai,Qian Li,1
+Jiawan Zhang,Yuan Wen,1
+Jiawan Zhang,Quang Vinh Nguyen,1
+Jiawan Zhang,Liang Fu Lu,2
+Jiawan Zhang,Mao Lin Huang,1
+Jiawan Zhang,Jiadong Yang,1
+Jiawan Zhang,Jizhou Sun,1
+Yuan Wen,Quang Vinh Nguyen,1
+Yuan Wen,Liang Fu Lu,1
+Yuan Wen,Mao Lin Huang,1
+Yuan Wen,Jiadong Yang,1
+Yuan Wen,Jizhou Sun,1
+Quang Vinh Nguyen,Liang Fu Lu,1
+Quang Vinh Nguyen,Mao Lin Huang,1
+Quang Vinh Nguyen,Jiadong Yang,1
+Quang Vinh Nguyen,Jizhou Sun,1
+Liang Fu Lu,Mao Lin Huang,1
+Liang Fu Lu,Jiadong Yang,1
+Liang Fu Lu,Jizhou Sun,1
+Mao Lin Huang,Jiadong Yang,1
+Mao Lin Huang,Jizhou Sun,1
+Jiadong Yang,Jizhou Sun,1
+Ping Xiao,Ernesto Arroyo,1
+Ping Xiao,Josep Blat,1
+Ernesto Arroyo,Josep Blat,1
+Yang Zou,Jian Lü,1
+Yang Zou,Xiaoqin Zeng,1
+Yang Zou,Xiaoxing Ma,1
+Yang Zou,Qiliang Yang,1
+Jian Lü,Xiaoqin Zeng,1
+Jian Lü,Xiaoxing Ma,1
+Jian Lü,Qiliang Yang,1
+Xiaoqin Zeng,Xiaoxing Ma,1
+Xiaoqin Zeng,Qiliang Yang,1
+Xiaoxing Ma,Qiliang Yang,1
+Yan-Peng Lim,Peter Charles Woods,1
+Yain-Whar Si,Kan-Ion Leong,1
+Yain-Whar Si,Robert P. Biuk-Aghai,1
+Yain-Whar Si,Simon Fong,1
+Kan-Ion Leong,Robert P. Biuk-Aghai,1
+Kan-Ion Leong,Simon Fong,1
+Robert P. Biuk-Aghai,Simon Fong,1
+Cui Xie,Lihua Xing,1
+Cui Xie,Cunna Liu,1
+Cui Xie,Xiaocong Li,1
+Lihua Xing,Cunna Liu,1
+Lihua Xing,Xiaocong Li,1
+Cunna Liu,Xiaocong Li,1
+Jiawan Zhang,Guoqiang Yang,1
+Jiawan Zhang,MaoLin Huang,1
+Jiawan Zhang,Ming Che,1
+Guoqiang Yang,Liang Fu Lu,1
+Guoqiang Yang,MaoLin Huang,1
+Guoqiang Yang,Ming Che,1
+Liang Fu Lu,MaoLin Huang,1
+Liang Fu Lu,Ming Che,1
+MaoLin Huang,Ming Che,1
+Inessa Seifert,Michael Kruppa,1
+Lei Ren,Feng Tian,1
+Feng Tian,Lin Zhang,1
+Feng Tian,Guozhong Dai,3
+Quang Vinh Nguyen,MaoLin Huang,1
+Sandro Varano,Jean-Claude Bignon,1
+J. Joshua Thomas,Ahamad Tajudin Abdul Khader,1
+J. Joshua Thomas,Bahari Belaton,1
+Ahamad Tajudin Abdul Khader,Bahari Belaton,1
+Brian N. Hilton,Thomas A. Horan,1
+Brian N. Hilton,Benjamin L. Schooley,1
+Thomas A. Horan,Benjamin L. Schooley,1
+Li Zheng,Chao Zhang,1
+Li Zheng,Zhanwei Wu,1
+Li Zheng,Yixin Yan,1
+Chao Zhang,Zhanwei Wu,1
+Chao Zhang,Yixin Yan,1
+Zhanwei Wu,Yixin Yan,1
+Donggang Yu,Jesse Sheng Jin,1
+Donggang Yu,Suhuai Luo,1
+Donggang Yu,Wei Lai,1
+Donggang Yu,Qingming Huang,1
+Jesse Sheng Jin,Suhuai Luo,1
+Jesse Sheng Jin,Wei Lai,1
+Jesse Sheng Jin,Qingming Huang,1
+Suhuai Luo,Wei Lai,1
+Suhuai Luo,Qingming Huang,1
+Wei Lai,Qingming Huang,1
+Zhuo Li,Jian Chen,1
+Zhuo Li,Xiaoning Jiang,1
+Zhuo Li,Xian-Ting Zeng,1
+Zhuo Li,Xuezeng Pan,1
+Jian Chen,Xiaoning Jiang,1
+Jian Chen,Xian-Ting Zeng,1
+Jian Chen,Xuezeng Pan,1
+Xiaoning Jiang,Xian-Ting Zeng,1
+Xiaoning Jiang,Xuezeng Pan,1
+Xian-Ting Zeng,Xuezeng Pan,1
+Mingjing Ai,Lili Zhao,1
+Mingjing Ai,Yongmei Zhu,1
+Mingjing Ai,Qinping Zhao,1
+Lili Zhao,Yongmei Zhu,1
+Lili Zhao,Qinping Zhao,1
+Yongmei Zhu,Qinping Zhao,1
+Huaiqing He,Tianbao Wang,1
+Huaiqing He,Qing Xu,1
+Huaiqing He,Yaoyu Xing,1
+Tianbao Wang,Qing Xu,1
+Tianbao Wang,Yaoyu Xing,1
+Qing Xu,Yaoyu Xing,1
+Shaorong Wang,Yisong Chen,1
+Shaorong Wang,Sheng Li,1
+Shaorong Wang,Guoping Wang,1
+Yisong Chen,Sheng Li,1
+Yisong Chen,Guoping Wang,1
+Sheng Li,Guoping Wang,1
+Zhifang Jiang,Miaomiao Li,1
+Zhifang Jiang,Xiangxu Meng,4
+Zhifang Jiang,Yan Huang,1
+Zhifang Jiang,Shenfang Li,1
+Miaomiao Li,Xiangxu Meng,1
+Miaomiao Li,Yan Huang,1
+Miaomiao Li,Shenfang Li,1
+Xiangxu Meng,Yan Huang,1
+Xiangxu Meng,Shenfang Li,1
+Yan Huang,Shenfang Li,1
+Ye Yuan,Zhongke Wu,1
+Lei Tang,Xueqing Li,1
+Lei Tang,Wenjing Qi,1
+Lei Tang,Zhifang Jiang,1
+Xueqing Li,Wenjing Qi,1
+Xueqing Li,Zhifang Jiang,1
+Wenjing Qi,Zhifang Jiang,1
+Weidong Huang,Maolin Huang,2
+Philip Trevor Cox,Anh Dang,1
+Jiayao Chen,Xueqing Li,1
+Jiayao Chen,Jingzhao Yang,1
+Xueqing Li,Jingzhao Yang,1
+J Joshua Thomas,Choychee Ken,1
+Xiongfei Luo,Dongxing Teng,1
+Xiongfei Luo,Wei Liu,1
+Xiongfei Luo,Feng Tian,1
+Xiongfei Luo,Guozhong Dai,1
+Xiongfei Luo,Hong'an Wang,1
+Dongxing Teng,Wei Liu,1
+Dongxing Teng,Feng Tian,1
+Dongxing Teng,Hong'an Wang,2
+Wei Liu,Feng Tian,1
+Wei Liu,Guozhong Dai,1
+Wei Liu,Hong'an Wang,1
+Feng Tian,Hong'an Wang,2
+Guozhong Dai,Hong'an Wang,2
+Yi Du,Cui-Xia Ma,1
+Yi Du,Dongxing Teng,1
+Yi Du,Guozhong Dai,2
+Cui-Xia Ma,Dongxing Teng,1
+Cui-Xia Ma,Guozhong Dai,1
+Quang Vinh Nguyen,Simeon J Simoff,1
+Quang Vinh Nguyen,Maolin Huang,3
+Simeon J Simoff,Maolin Huang,2
+Shijian Lu,CÉcile Laurance Paris,1
+Liang Gou,Shaoke Zhang,1
+Liang Gou,Jing Wang,1
+Liang Gou,Xiaolong(Luke) Zhang,2
+Shaoke Zhang,Jing Wang,1
+Shaoke Zhang,Xiaolong(Luke) Zhang,1
+Jing Wang,Xiaolong(Luke) Zhang,1
+Hirofumi Miyamoto,Masahito Hirakawa,1
+SuTe Lei,K. Zhang,2
+Tatman Cheong,Yain Whar Si,1
+Anna Wu,Xiaolong(Luke) Zhang,2
+Anna Wu,Guoray Cai,1
+Xiaolong(Luke) Zhang,Guoray Cai,1
+Xiaoyu Wang,Eric A. Bier,1
+Xiaoyu Wang,Thomas James Butkiewicz,1
+Xiaoyu Wang,William Ribarsky,1
+Xiaoyu Wang,Wenwen Dou,1
+Eric A. Bier,Thomas James Butkiewicz,1
+Eric A. Bier,William Ribarsky,1
+Eric A. Bier,Wenwen Dou,1
+Thomas James Butkiewicz,William Ribarsky,1
+Thomas James Butkiewicz,Wenwen Dou,1
+William Ribarsky,Wenwen Dou,1
+Robert P. Biuk-Aghai,Cheongiao Pang,1
+Robert P. Biuk-Aghai,Felix Hon Hou Cheang,1
+Cheongiao Pang,Felix Hon Hou Cheang,1
+Kazuo Misue,Takashi Yuki,1
+Zhirong Zeng,Kun Wang,1
+Zhirong Zeng,Dongxing Teng,1
+Zhirong Zeng,Hong'an Wang,1
+Zhirong Zeng,Guozhong Dai,1
+Kun Wang,Dongxing Teng,1
+Kun Wang,Hong'an Wang,1
+Kun Wang,Guozhong Dai,1
+Hong'an Wang,Guozhong Dai,1
+Yuri Saito,Takayuki Itoh,1
+Yasuhiko Sota,Keisuke Yamamoto,1
+Yasuhiko Sota,Masahito Hirakawa,1
+Yasuhiko Sota,Souichiro Doi,1
+Yasuhiko Sota,Yasuhisa Yamamoto,1
+Keisuke Yamamoto,Masahito Hirakawa,1
+Keisuke Yamamoto,Souichiro Doi,1
+Keisuke Yamamoto,Yasuhisa Yamamoto,1
+Masahito Hirakawa,Souichiro Doi,1
+Masahito Hirakawa,Yasuhisa Yamamoto,1
+Souichiro Doi,Yasuhisa Yamamoto,1
+Anna Wu,Xin Yan,1
+Xin Yan,Xiaolong(Luke) Zhang,1
+Feng Tian,Xiang Cao,1
+Feng Tian,Fei Lyu,1
+Feng Tian,Xiaolong(Luke) Zhang,1
+Xiang Cao,Fei Lyu,1
+Xiang Cao,Guozhong Dai,1
+Xiang Cao,Xiaolong(Luke) Zhang,1
+Xiang Cao,Hong'an Wang,1
+Fei Lyu,Guozhong Dai,1
+Fei Lyu,Xiaolong(Luke) Zhang,1
+Fei Lyu,Hong'an Wang,1
+Guozhong Dai,Xiaolong(Luke) Zhang,1
+Xiaolong(Luke) Zhang,Hong'an Wang,1
+Philip Trevor Cox,Simon Gauvin,1
+Jian Shi,Ying Qiao,1
+Jian Shi,Hong'an Wang,1
+Ying Qiao,Hong'an Wang,1
+Jiawan Zhang,Yi Zhang,1
+Jiawan Zhang,Lei Fu,1
+Jiawan Zhang,Qinghui Guo,1
+Jiawan Zhang,Maolin Huang,1
+Yi Zhang,Lei Fu,1
+Yi Zhang,Qinghui Guo,1
+Yi Zhang,Maolin Huang,1
+Lei Fu,Qinghui Guo,1
+Lei Fu,Maolin Huang,1
+Qinghui Guo,Maolin Huang,1
+Jie Hao,K. Zhang,1
+Jiansu Pu,Panpan Xu,1
+Jiansu Pu,Huamin Qu,1
+Jiansu Pu,Weiwei Cui,1
+Jiansu Pu,Siyuan Liu,1
+Jiansu Pu,Lionel Ming Shuan Ni,1
+Panpan Xu,Huamin Qu,1
+Panpan Xu,Weiwei Cui,1
+Panpan Xu,Siyuan Liu,1
+Panpan Xu,Lionel Ming Shuan Ni,1
+Huamin Qu,Weiwei Cui,1
+Huamin Qu,Siyuan Liu,1
+Huamin Qu,Lionel Ming Shuan Ni,1
+Weiwei Cui,Siyuan Liu,1
+Weiwei Cui,Lionel Ming Shuan Ni,1
+Siyuan Liu,Lionel Ming Shuan Ni,1
+Yu Su,Margaret H Dunham,1
+Liang Gou,Fang You,1
+Liang Gou,Jun Guo,1
+Liang Gou,Luqi Wu,1
+Fang You,Jun Guo,1
+Fang You,Luqi Wu,1
+Fang You,Xiaolong(Luke) Zhang,1
+Jun Guo,Luqi Wu,1
+Jun Guo,Xiaolong(Luke) Zhang,1
+Luqi Wu,Xiaolong(Luke) Zhang,1
+Jing Fan,Xiaoying Shi,1
+Jing Fan,Zhan Zhou,1
+Jing Fan,Ying Tang,1
+Xiaoying Shi,Zhan Zhou,1
+Xiaoying Shi,Ying Tang,1
+Zhan Zhou,Ying Tang,1
+Ying Zhao,Fangfang Zhou,1
+Ying Zhao,Xiaoping Fan,1
+Fangfang Zhou,Xiaoping Fan,1
+Zhifang Jiang,Shenghui Cheng,2
+Zhifang Jiang,Ruobo Xin,1
+Shenghui Cheng,Ruobo Xin,1
+Shenghui Cheng,Xiangxu Meng,2
+Ruobo Xin,Xiangxu Meng,1
+Dongxu Duan,Weihong Qian,1
+Dongxu Duan,Shimei Pan,1
+Dongxu Duan,Lei Shi,1
+Dongxu Duan,Chuang Lin,1
+Weihong Qian,Shimei Pan,1
+Weihong Qian,Lei Shi,1
+Weihong Qian,Chuang Lin,1
+Shimei Pan,Lei Shi,1
+Shimei Pan,Chuang Lin,1
+Lei Shi,Chuang Lin,1
+Jared Shenson,Alark Joshi,1
+Xiaojuan Liu,Xia Lin,1
+Tuannhon Dang,Leland K Wilkinson,1
+Li Yu,Aidong Lu,1
+Li Yu,Weri Chen,1
+Aidong Lu,Weri Chen,1
+Quang Vinh Nguyen,Yu Qian,1
+Quang Vinh Nguyen,Jiawan Zhang,1
+Yu Qian,Maolin Huang,1
+Yu Qian,Jiawan Zhang,1
+Maolin Huang,Jiawan Zhang,1
+Zhao Xiao,Changbo Wang,1
+Zhao Xiao,Peng Ye,1
+Zhao Xiao,Yuhua Liu,1
+Zhao Xiao,Chenming Pang,1
+Changbo Wang,Changbo Wang,1
+Changbo Wang,Peng Ye,1
+Changbo Wang,Yuhua Liu,1
+Changbo Wang,Chenming Pang,1
+Peng Ye,Yuhua Liu,1
+Peng Ye,Chenming Pang,1
+Yuhua Liu,Chenming Pang,1
+Cong Chen,K. Zhang,1
+Robert P. Biuk-Aghai,Roy Chi Kit Chan,1
+Kewei Yang,Jie Zhou,1
+Kewei Yang,Zhengxing Sun,1
+Kewei Yang,Yi Li,1
+Jie Zhou,Zhengxing Sun,1
+Jie Zhou,Yi Li,1
+Zhengxing Sun,Yi Li,1
+Xianlin Hu,Lane T Harrison,1
+Xianlin Hu,Aidong Lu,1
+Xianlin Hu,Li Yu,1
+Xianlin Hu,Huaguang Song,1
+Xianlin Hu,Jinzhu Gao,1
+Lane T Harrison,Aidong Lu,1
+Lane T Harrison,Li Yu,1
+Lane T Harrison,Huaguang Song,1
+Lane T Harrison,Jinzhu Gao,1
+Aidong Lu,Li Yu,1
+Aidong Lu,Huaguang Song,1
+Aidong Lu,Jinzhu Gao,1
+Li Yu,Huaguang Song,1
+Li Yu,Jinzhu Gao,1
+Huaguang Song,Jinzhu Gao,1
+Shuqing Liu,Jiang Jian,1
+Shuqing Liu,Xianjunsam Zheng,1
+Shuqing Liu,Zaijia Liu,1
+Shuqing Liu,Guanmin Liu,1
+Shuqing Liu,Kaiping Peng,1
+Jiang Jian,Xianjunsam Zheng,1
+Jiang Jian,Zaijia Liu,1
+Jiang Jian,Guanmin Liu,1
+Jiang Jian,Kaiping Peng,1
+Xianjunsam Zheng,Zaijia Liu,1
+Xianjunsam Zheng,Guanmin Liu,1
+Xianjunsam Zheng,Kaiping Peng,2
+Zaijia Liu,Guanmin Liu,1
+Zaijia Liu,Kaiping Peng,2
+Guanmin Liu,Kaiping Peng,1
+Weidong Huang,Chuncheng Lin,1
+Chuncheng Lin,Maolin Huang,1
+Paolo Bottoni,Kamen D Kanev,1
+Paolo Bottoni,Nikolay N Mirenkov,1
+Kamen D Kanev,Nikolay N Mirenkov,1
+Lei Ren,Jin Cui,1
+Lei Ren,Yi Du,1
+Jin Cui,Yi Du,1
+Jin Cui,Guozhong Dai,1
+Vincenzo Deufemia,Christopher D'Souza,1
+Vincenzo Deufemia,Athula Ginige,1
+Christopher D'Souza,Athula Ginige,1
+Haifeng Li,Dayi Yang,1
+Haifeng Li,Yangyang Fu,1
+Haifeng Li,Hujie Huang,1
+Haifeng Li,Hongyuan Fang,1
+Dayi Yang,Yangyang Fu,1
+Dayi Yang,Hujie Huang,1
+Dayi Yang,Hongyuan Fang,1
+Yangyang Fu,Hujie Huang,1
+Yangyang Fu,Hongyuan Fang,1
+Hujie Huang,Hongyuan Fang,1
+Mofei Song,Feiqian Zhang,1
+Mofei Song,Zhengxing Sun,1
+Mofei Song,Yan Zhang,1
+Feiqian Zhang,Zhengxing Sun,1
+Feiqian Zhang,Yan Zhang,1
+Zhengxing Sun,Yan Zhang,1
+Quan Li,Huamin Qu,1
+Quan Li,Li Chen,1
+Quan Li,Robert Wang,1
+Quan Li,Jun-Hai Yong,1
+Quan Li,Detan Si,1
+Huamin Qu,Li Chen,1
+Huamin Qu,Robert Wang,1
+Huamin Qu,Jun-Hai Yong,1
+Huamin Qu,Detan Si,1
+Li Chen,Robert Wang,1
+Li Chen,Jun-Hai Yong,1
+Li Chen,Detan Si,1
+Robert Wang,Jun-Hai Yong,1
+Robert Wang,Detan Si,1
+Jun-Hai Yong,Detan Si,1
+Abhishek P Chhetri,K. Zhang,1
+Abhishek P Chhetri,Eakta Jain,1
+K. Zhang,Eakta Jain,1
+Chenghai Zhang,Yuhua Liu,1
+Chenghai Zhang,Changbo Wang,1
+Yuhua Liu,Changbo Wang,1
+Zaijia Liu,Xianjunsam Zheng,1
+Zaijia Liu,Mingyang Wu,1
+Zaijia Liu,Rui Dong,1
+Xianjunsam Zheng,Mingyang Wu,1
+Xianjunsam Zheng,Rui Dong,1
+Mingyang Wu,Rui Dong,1
+Mingyang Wu,Kaiping Peng,1
+Rui Dong,Kaiping Peng,1
+Jie Liang,Simeon J Simoff,1
+Jie Liang,Quang Vinh Nguyen,1
+Jie Liang,Maolin Huang,1
+Simeon J Simoff,Quang Vinh Nguyen,1
+Rossella Aiello,Giancarlo Nota,1
+Rossella Aiello,Gennaro Costagliola,1
+Rossella Aiello,Fabrizio Torre,1
+Giancarlo Nota,Gennaro Costagliola,1
+Giancarlo Nota,Fabrizio Torre,1
+Gennaro Costagliola,Fabrizio Torre,1
+Robert P. Biuk-Aghai,Waihou Ao,1
+Paolo Bottoni,Gennaro Costagliola,1
+Paolo Bottoni,Mattia de Rosa,1
+Paolo Bottoni,Andrew Fish,1
+Paolo Bottoni,Vittorio Fuccella,1
+Gennaro Costagliola,Mattia de Rosa,1
+Gennaro Costagliola,Andrew Fish,1
+Gennaro Costagliola,Vittorio Fuccella,1
+Mattia de Rosa,Andrew Fish,1
+Mattia de Rosa,Vittorio Fuccella,1
+Andrew Fish,Vittorio Fuccella,1
+Chenxi Li,Zhengxing Sun,1
+Chenxi Li,Mofei Song,1
+Chenxi Li,Yejia Zhang,1
+Zhengxing Sun,Mofei Song,1
+Zhengxing Sun,Yejia Zhang,1
+Mofei Song,Yejia Zhang,1
+Tianyang Liu,Fatma Bouali,1
+Tianyang Liu,Gilles Venturini,1
+Fatma Bouali,Gilles Venturini,1
+William Plant,Gerald Schaefer,1
+Ning Li,Zhifang Jiang,1
+Ning Li,Zixiang Liu,1
+Ning Li,Xiangxu Meng,1
+Zhifang Jiang,Zixiang Liu,1
+Zixiang Liu,Xiangxu Meng,1
+Xiaoting Bi,Zhifang Jiang,1
+Xiaoting Bi,Shenghui Cheng,1
+Xiaoting Bi,Xiangxu Meng,1
+Gerry Derksen,Stan Ruecker,1
+Gerry Derksen,Tim Causer,1
+Gerry Derksen,Melissa M Terras,1
+Stan Ruecker,Tim Causer,1
+Stan Ruecker,Melissa M Terras,1
+Tim Causer,Melissa M Terras,1

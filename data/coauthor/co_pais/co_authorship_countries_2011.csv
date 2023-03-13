@@ -1,19 +1,18 @@
-c1,c2,value
-australia,australia,10
+e1,e2,value
+australia,australia,8
 saudi arabia,australia,1
-united states,china,5
+united states,china,2
 united states,australia,1
 china,australia,4
 germany,germany,2
-china,china,34
+china,china,26
 spain,spain,1
 malaysia,malaysia,3
 france,france,1
-united states,united states,14
-australia,china,3
+united states,united states,10
+australia,china,1
 canada,canada,2
 japan,japan,4
 ,united states,1
 ,,1
-china,united states,3
-australia,united states,1
+china,united states,1

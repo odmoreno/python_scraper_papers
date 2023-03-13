@@ -38,10 +38,10 @@ class SpringerClient:
         self.coinsti = {}
         self.copais = {}
         self.coregion = {}
-        self.coauthors_col = ['author_name', 'author2_name', 'paper_doi', 'date']
-        self.coinsti_col = ['institution1', 'institution2', 'paper_doi', 'date']
-        self.copais_col = ['country1', 'country2', 'paper_doi', 'date']
-        self.coregion_col = ['region1', 'region2', 'paper_doi', 'date']
+        self.coauthors_col = ['el1', 'el2', 'paper_doi', 'date']
+        self.coinsti_col = ['el1', 'el2', 'paper_doi', 'date']
+        self.copais_col = ['el1', 'el2', 'paper_doi', 'date']
+        self.coregion_col = ['el1', 'el2', 'paper_doi', 'date']
 
 
     def extract_page_for_acm(self):
@@ -443,6 +443,7 @@ class SpringerClient:
         save_generic('data/vinci_2009/co-authorship_people.json', self.coauthors)
         save_generic('data/vinci_2009/co-authorship_afilitions.json', self.coinsti)
         save_generic('data/vinci_2009/co-authorship_countries.json', self.copais)
+        save_generic('data/vinci_2009/co-authorship_regions.json', self.coregion)
         csv_generics('data/vinci_2009/co-authorship_people.csv', self.coauthors.values(), self.coauthors_col)
         csv_generics('data/vinci_2009/co-authorship_afilitions.csv', self.coinsti.values(), self.coinsti_col)
         csv_generics('data/vinci_2009/co-authorship_countries.csv', self.copais.values(), self.copais_col)
@@ -457,8 +458,8 @@ class SpringerClient:
                 icod = element + '_ ' + author + '_ ' + doi
                 if (cod not in self.coauthors) and (icod not in self.coauthors):
                     data = {
-                        'author_name': author,
-                        'author2_name': element,
+                        'el1': author,
+                        'el2': element,
                         'paper_doi': doi,
                         'date': date
                     }
@@ -474,8 +475,8 @@ class SpringerClient:
                 icod = element + '_ ' + insti + '_ ' + doi
                 if (cod not in self.coinsti) and (icod not in self.coinsti):
                     data = {
-                        'institution1': insti,
-                        'institution2': element,
+                        'el1': insti,
+                        'el2': element,
                         'paper_doi': doi,
                         'date': date
                     }
@@ -491,8 +492,8 @@ class SpringerClient:
                 icod = co2 + '_ ' + co1 + '_ ' + doi
                 if (cod not in self.copais) and (icod not in self.copais):
                     data = {
-                        'country1': co1,
-                        'country2': co2,
+                        'el1': co1,
+                        'el2': co2,
                         'paper_doi': doi,
                         'date': date
                     }
@@ -508,43 +509,54 @@ class SpringerClient:
                 icod = co2 + '_ ' + co1 + '_ ' + doi
                 if (cod not in self.coregion) and (icod not in self.coregion):
                     data = {
-                        'region1': co1,
-                        'region2': co2,
+                        'el1': co1,
+                        'el2': co2,
                         'paper_doi': doi,
                         'date': date
                     }
                     self.coregion[cod] = data
             j +=1
 
-    def extract_by_years_countries(self):
+    def get_acum_coauthorship(self, path, mainfolder, key, name):
         years = [2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022]
-        dict_pais = load_generic('data/vinci_2009/co-authorship_countries.json')
-        paises = list(dict_pais.values())
-        paises = sorted(paises, key=lambda d: d['date'])
+        hash = load_generic(path)
+        elements = list(hash.values())
+        elements = sorted(elements, key=lambda d: d['date'])
         links = {}
         for year in years:
-            filtered = [d for d in paises if int(d['date']) == year]
+            filtered = [d for d in elements if int(d['date']) == year]
             for element in filtered:
-                id = element['country1'] + '_' + element['country2']
+                id = element['el1'] + '_' + element['el2']
                 if id in links:
                     el = links[id]
                     value = el['value'] + 1
                     data = {
-                        'c1': element['country1'],
-                        'c2': element['country2'],
+                        'e1': element['el1'],
+                        'e2': element['el2'],
                         'value': value
                     }
                     links[id] = data
                 else:
                     data = {
-                        'c1': element['country1'],
-                        'c2': element['country2'],
+                        'e1': element['el1'],
+                        'e2': element['el2'],
                         'value': 1
                     }
                     links[id] = data
             print('fin:', year)
-            path = 'data/co_pais/co_authorship_countries_'+ str(year) +'.csv'
-            csv_generics(path, links.values(), ['c1', 'c2', 'value'])
+            path = mainfolder + key + name + str(year) +'.csv'
+            csv_generics(path, links.values(), ['e1', 'e2', 'value'])
+
+    def extract_by_year(self):
+        mainfolder =  'data/coauthor/'
+        path1 = 'data/vinci_2009/co-authorship_countries.json'
+        path2 = 'data/vinci_2009/co-authorship_people.json'
+        path3 = 'data/vinci_2009/co-authorship_afilitions.json'
+        path4 = 'data/vinci_2009/co-authorship_regions.json'
+        self.get_acum_coauthorship(path1, mainfolder, 'co_pais/', 'co_authorship_countries_')
+        self.get_acum_coauthorship(path2, mainfolder, 'co_people/', 'co_authorship_people_')
+        self.get_acum_coauthorship(path3, mainfolder, 'co_insti/', 'co_authorship_afilitions_')
+        self.get_acum_coauthorship(path4, mainfolder, 'co_region/', 'co_authorship_regions_')
 
 
     def main(self):
@@ -566,7 +578,7 @@ class SpringerClient:
 
         self.loop_coauthorship()
 
-        self.extract_by_years_countries()
+        self.extract_by_year()
 
 if __name__ == '__main__':
 
