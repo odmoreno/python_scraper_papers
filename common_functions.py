@@ -245,7 +245,9 @@ def read_csv(path):
 
 def load_csv(path):
     file = open(path, encoding="utf8")
-    data = list(csv.DictReader(file, delimiter=","))
+    #raw_data = csv.reader(file, delimiter=',', quotechar='"')
+    #datum = list(raw_data)
+    data = list(csv.DictReader(file, delimiter=",", quotechar='"'))
     file.close()
     return data
 

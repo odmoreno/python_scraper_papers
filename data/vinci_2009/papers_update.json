@@ -9,7 +9,7 @@
         "institution": [
           {
             "id": "60025709",
-            "name": "University of Sydney, Australia"
+            "name": "The University of Sydney, Australia"
           }
         ],
         "id": "a09_1",
@@ -20,7 +20,7 @@
         "institution": [
           {
             "id": "60025709",
-            "name": "University of Sydney, Australia"
+            "name": "The University of Sydney, Australia"
           }
         ],
         "id": "a09_2",
@@ -64,7 +64,7 @@
         "institution": [
           {
             "id": "60025709",
-            "name": "University of Sydney, Australia"
+            "name": "The University of Sydney, Australia"
           }
         ],
         "id": "a09_5",
@@ -648,7 +648,7 @@
         "institution": [
           {
             "id": "60023932",
-            "name": "University of Sydney, Australia"
+            "name": "The University of Sydney, Australia"
           }
         ],
         "id": "81100079792",
@@ -4882,11 +4882,7 @@
     "authors": [
       {
         "name": "Michael Burch",
-<<<<<<< HEAD:data/vinci_2009/papers_update.json
         "institution": "VISUS, University of Stuttgart, Germany",
-=======
-        "institution": "VISUS, University of Stuttgart, Allmandring, Stuttgart, Germany",
->>>>>>> 44b476a49bab583f9c73e51aa8d53f07c3c77177:data/vinci_2009/papers_update_v2.json
         "url": "https://dl.acm.org/profile/81331488994",
         "id": "81331488994"
       }
@@ -6365,7 +6361,7 @@
     "authors": [
       {
         "name": "Andrew Kennedy",
-        "institution": "University of Sydney, Australia",
+        "institution": "The University of Sydney, Australia",
         "url": "https://dl.acm.org/profile/99658767810",
         "id": "99658767810"
       },
@@ -6377,7 +6373,7 @@
       },
       {
         "name": "An Nguyen",
-        "institution": "University of Sydney, Australia",
+        "institution": "The University of Sydney, Australia",
         "url": "https://dl.acm.org/profile/99658768973",
         "id": "99658768973"
       }
@@ -7074,7 +7070,7 @@
       },
       {
         "name": "Masahiro Takatsuka",
-        "institution": "University of Sydney, Australia",
+        "institution": "The University of Sydney, Australia",
         "url": "https://dl.acm.org/profile/81438595290",
         "id": "81438595290"
       }
@@ -8202,19 +8198,19 @@
     "authors": [
       {
         "name": "Phillip Gough",
-        "institution": "University of Sydney, Australia",
+        "institution": "The University of Sydney, Australia",
         "url": "https://dl.acm.org/profile/87958859657",
         "id": "87958859657"
       },
       {
         "name": "Xavier Ho",
-        "institution": "University of Sydney, Australia",
+        "institution": "The University of Sydney, Australia",
         "url": "https://dl.acm.org/profile/99658638983",
         "id": "99658638983"
       },
       {
         "name": "Kate Dunn",
-        "institution": "University of Sydney, Australia",
+        "institution": "The University of Sydney, Australia",
         "url": "https://dl.acm.org/profile/99658638791",
         "id": "99658638791"
       },
@@ -8658,13 +8654,13 @@
     "authors": [
       {
         "name": "Callum Parker",
-        "institution": "Design Lab, Faculty of Architecture, Design and Planning, University of Sydney, Sydney, NSW, Australia",
+        "institution": "Design Lab, Faculty of Architecture, Design and Planning, The University of Sydney, Sydney, NSW, Australia",
         "url": "https://dl.acm.org/profile/99658641366",
         "id": "99658641366"
       },
       {
         "name": "Martin Tomitsch",
-        "institution": "Design Lab, Faculty of Architecture, Design and Planning, University of Sydney, Sydney, NSW, Australia",
+        "institution": "Design Lab, Faculty of Architecture, Design and Planning, The University of Sydney, Sydney, NSW, Australia",
         "url": "https://dl.acm.org/profile/81100138830",
         "id": "81100138830"
       }

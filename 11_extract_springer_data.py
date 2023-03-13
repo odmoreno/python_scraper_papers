@@ -414,8 +414,8 @@ class SpringerClient:
 
 
         list1 = res1.values()
-        papers_col = ['type', 'title', 'url', 'year', 'authors', 'conference', 'id', 'is_vinci']
-        csv_generics('data/vinci_2009/papers.csv', list1, papers_col)
+        #papers_col = ['type', 'title', 'url', 'year', 'authors', 'conference', 'id', 'is_vinci']
+        #csv_generics('data/vinci_2009/papers.csv', list1, papers_col)
 
         list2 = res2.values()
         authors_col = ['id', 'name', 'institutions', 'url']
@@ -558,6 +558,21 @@ class SpringerClient:
         self.get_acum_coauthorship(path3, mainfolder, 'co_insti/', 'co_authorship_afilitions_')
         self.get_acum_coauthorship(path4, mainfolder, 'co_region/', 'co_authorship_regions_')
 
+    def extract_authors_vinci(self):
+        authors_csv = load_csv('data/vinci_2009/authors.csv')
+        print(authors_csv)
+        authors = {}
+        for raw in authors_csv:
+            list_raw = raw['institutions']
+            list_raw = list_raw.replace("'", '')
+            res = list_raw.strip('][').split(', ')
+            raw['institutions'] = res
+            authors[raw['name']] = raw
+        pass
+        print(authors)
+        save_generic('data/vinci_refs/authors.json', authors)
+
+
 
     def main(self):
         self.papers_acm = load_generic('data/vinci_2009/papers_acm.json')
@@ -574,11 +589,13 @@ class SpringerClient:
 
         #self.merge_data_2(new_auths)
 
-        #self.get_papers_vinci_info()
+        self.get_papers_vinci_info()
 
         self.loop_coauthorship()
 
         self.extract_by_year()
+
+        self.extract_authors_vinci()
 
 if __name__ == '__main__':
 
