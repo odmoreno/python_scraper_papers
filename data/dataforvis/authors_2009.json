@@ -7,7 +7,10 @@
         "name": "The University of Sydney, Australia"
       }
     ],
-    "id": "a09_1"
+    "id": "a09_1",
+    "papers": [
+      "10.1007/978-1-4419-0312-9_1"
+    ]
   },
   "a09_2": {
     "name": "Stephanie Patel",
@@ -17,7 +20,10 @@
         "name": "The University of Sydney, Australia"
       }
     ],
-    "id": "a09_2"
+    "id": "a09_2",
+    "papers": [
+      "10.1007/978-1-4419-0312-9_1"
+    ]
   },
   "a09_3": {
     "name": "Adel Ahmed",
@@ -27,7 +33,10 @@
         "name": "King Fahad University of Petroleum and Minerals, Saudi Arabia"
       }
     ],
-    "id": "a09_3"
+    "id": "a09_3",
+    "papers": [
+      "10.1007/978-1-4419-0312-9_2"
+    ]
   },
   "a09_4": {
     "name": "Xiaoyan Fu",
@@ -37,7 +46,10 @@
         "name": "National ICT Australia, Australia"
       }
     ],
-    "id": "a09_4"
+    "id": "a09_4",
+    "papers": [
+      "10.1007/978-1-4419-0312-9_2"
+    ]
   },
   "a09_5": {
     "name": "Seok-Hee Hong",
@@ -47,7 +59,10 @@
         "name": "The University of Sydney, Australia"
       }
     ],
-    "id": "a09_5"
+    "id": "a09_5",
+    "papers": [
+      "10.1007/978-1-4419-0312-9_2"
+    ]
   },
   "a09_6": {
     "name": "Quan Hoang Nguyen",
@@ -57,7 +72,10 @@
         "name": "University of New South Wales, United Kingdom"
       }
     ],
-    "id": "a09_6"
+    "id": "a09_6",
+    "papers": [
+      "10.1007/978-1-4419-0312-9_2"
+    ]
   },
   "a09_7": {
     "name": "Kai Xu",
@@ -67,7 +85,10 @@
         "name": "ICT Center, Australia"
       }
     ],
-    "id": "a09_7"
+    "id": "a09_7",
+    "papers": [
+      "10.1007/978-1-4419-0312-9_2"
+    ]
   },
   "a09_8": {
     "name": "Pushpa Kumar",
@@ -77,22 +98,10 @@
         "name": "University of Texas, United States"
       }
     ],
-    "id": "a09_8"
-  },
-  "99660626111": {
-    "name": "Kang Zhang",
-    "institutions": "Hong Kong University of Science and Technology, China",
-    "id": "99660626111"
-  },
-  "a09_10": {
-    "name": "Mao Lin Huang",
-    "institutions": [
-      {
-        "id": "60023932",
-        "name": "University of Technology Sydney, Australia"
-      }
-    ],
-    "id": "a09_10"
+    "id": "a09_8",
+    "papers": [
+      "10.1007/978-1-4419-0312-9_3"
+    ]
   },
   "a09_11": {
     "name": "Steffen Bogen",
@@ -102,7 +111,10 @@
         "name": "University of Konstanz, Germany"
       }
     ],
-    "id": "a09_11"
+    "id": "a09_11",
+    "papers": [
+      "10.1007/978-1-4419-0312-9_4"
+    ]
   },
   "a09_12": {
     "name": "Ulrik Brandes",
@@ -112,7 +124,10 @@
         "name": "University of Konstanz, Germany"
       }
     ],
-    "id": "a09_12"
+    "id": "a09_12",
+    "papers": [
+      "10.1007/978-1-4419-0312-9_4"
+    ]
   },
   "a09_13": {
     "name": "Hendrik Ziezold",
@@ -122,37 +137,10 @@
         "name": "University of Konstanz, Germany"
       }
     ],
-    "id": "a09_13"
-  },
-  "a09_14": {
-    "name": "Lei Ren",
-    "institutions": [
-      {
-        "id": "i09_14",
-        "name": "Beihang University"
-      }
-    ],
-    "id": "a09_14"
-  },
-  "a09_15": {
-    "name": "Lin Zhang",
-    "institutions": [
-      {
-        "id": "i09_15",
-        "name": ""
-      }
-    ],
-    "id": "a09_15"
-  },
-  "81384607002": {
-    "name": "Dongxing Teng",
-    "institutions": "Chinese Academy of Sciences, China",
-    "id": "81384607002"
-  },
-  "81100172122": {
-    "name": "Guozhong Dai",
-    "institutions": "Chinese Academy of Sciences, China",
-    "id": "81100172122"
+    "id": "a09_13",
+    "papers": [
+      "10.1007/978-1-4419-0312-9_4"
+    ]
   },
   "a09_18": {
     "name": "Qian Li",
@@ -162,12 +150,10 @@
         "name": "Shangdong Institute of Commerce and Technology"
       }
     ],
-    "id": "a09_18"
-  },
-  "81453614419": {
-    "name": "Jiawan Zhang",
-    "institutions": "Tianjin University, China",
-    "id": "81453614419"
+    "id": "a09_18",
+    "papers": [
+      "10.1007/978-1-4419-0312-9_5"
+    ]
   },
   "a09_20": {
     "name": "Yuan Wen",
@@ -177,32 +163,10 @@
         "name": "Tianjin University, China"
       }
     ],
-    "id": "a09_20"
-  },
-  "81100511332": {
-    "name": "Quang Vinh Nguyen",
-    "institutions": "Western Sydney University, Australia",
-    "id": "81100511332"
-  },
-  "a09_22": {
-    "name": "Liang Fu Lu",
-    "institutions": [
-      {
-        "id": "i09_22",
-        "name": ""
-      }
-    ],
-    "id": "a09_22"
-  },
-  "a09_23": {
-    "name": "Mao Lin Huang",
-    "institutions": [
-      {
-        "id": "i09_23",
-        "name": ""
-      }
-    ],
-    "id": "a09_23"
+    "id": "a09_20",
+    "papers": [
+      "10.1007/978-1-4419-0312-9_6"
+    ]
   },
   "a09_24": {
     "name": "Jiadong Yang",
@@ -212,7 +176,10 @@
         "name": "Tianjin University, China"
       }
     ],
-    "id": "a09_24"
+    "id": "a09_24",
+    "papers": [
+      "10.1007/978-1-4419-0312-9_6"
+    ]
   },
   "a09_25": {
     "name": "Jizhou Sun",
@@ -222,7 +189,10 @@
         "name": "Tianjin University, China"
       }
     ],
-    "id": "a09_25"
+    "id": "a09_25",
+    "papers": [
+      "10.1007/978-1-4419-0312-9_6"
+    ]
   },
   "a09_26": {
     "name": "Ping Xiao",
@@ -232,7 +202,10 @@
         "name": "Universitat Pompeu Fabra, Spain"
       }
     ],
-    "id": "a09_26"
+    "id": "a09_26",
+    "papers": [
+      "10.1007/978-1-4419-0312-9_7"
+    ]
   },
   "a09_27": {
     "name": "Ernesto Arroyo",
@@ -242,7 +215,10 @@
         "name": "Universitat Pompeu Fabra, Spain"
       }
     ],
-    "id": "a09_27"
+    "id": "a09_27",
+    "papers": [
+      "10.1007/978-1-4419-0312-9_7"
+    ]
   },
   "a09_28": {
     "name": "Josep Blat",
@@ -252,12 +228,10 @@
         "name": "Universitat Pompeu Fabra, Spain"
       }
     ],
-    "id": "a09_28"
-  },
-  "99659194214": {
-    "name": "Yang Zou",
-    "institutions": "Hohai University, China",
-    "id": "99659194214"
+    "id": "a09_28",
+    "papers": [
+      "10.1007/978-1-4419-0312-9_7"
+    ]
   },
   "a09_30": {
     "name": "Jian Lü",
@@ -267,12 +241,10 @@
         "name": "Nanjing University, China"
       }
     ],
-    "id": "a09_30"
-  },
-  "81319505316": {
-    "name": "Xiaoqin Zeng",
-    "institutions": "Hohai University, China",
-    "id": "81319505316"
+    "id": "a09_30",
+    "papers": [
+      "10.1007/978-1-4419-0312-9_8"
+    ]
   },
   "a09_32": {
     "name": "Xiaoxing Ma",
@@ -282,7 +254,10 @@
         "name": "Nanjing University, China"
       }
     ],
-    "id": "a09_32"
+    "id": "a09_32",
+    "papers": [
+      "10.1007/978-1-4419-0312-9_8"
+    ]
   },
   "a09_33": {
     "name": "Qiliang Yang",
@@ -292,7 +267,10 @@
         "name": "Nanjing University, China"
       }
     ],
-    "id": "a09_33"
+    "id": "a09_33",
+    "papers": [
+      "10.1007/978-1-4419-0312-9_8"
+    ]
   },
   "a09_34": {
     "name": "Yan-Peng Lim",
@@ -302,7 +280,10 @@
         "name": "Multimedia University, Malaysia"
       }
     ],
-    "id": "a09_34"
+    "id": "a09_34",
+    "papers": [
+      "10.1007/978-1-4419-0312-9_9"
+    ]
   },
   "a09_35": {
     "name": "Peter Charles Woods",
@@ -312,7 +293,10 @@
         "name": "Multimedia University, Malaysia"
       }
     ],
-    "id": "a09_35"
+    "id": "a09_35",
+    "papers": [
+      "10.1007/978-1-4419-0312-9_9"
+    ]
   },
   "a09_36": {
     "name": "Yain-Whar Si",
@@ -322,7 +306,10 @@
         "name": "University of Macau, China"
       }
     ],
-    "id": "a09_36"
+    "id": "a09_36",
+    "papers": [
+      "10.1007/978-1-4419-0312-9_10"
+    ]
   },
   "a09_37": {
     "name": "Kan-Ion Leong",
@@ -332,12 +319,10 @@
         "name": "University of Macau, China"
       }
     ],
-    "id": "a09_37"
-  },
-  "81100203521": {
-    "name": "Robert P. Biuk-Aghai",
-    "institutions": "University of Macau, China S.A.R., China",
-    "id": "81100203521"
+    "id": "a09_37",
+    "papers": [
+      "10.1007/978-1-4419-0312-9_10"
+    ]
   },
   "a09_39": {
     "name": "Simon Fong",
@@ -347,7 +332,10 @@
         "name": "University of Macau, China"
       }
     ],
-    "id": "a09_39"
+    "id": "a09_39",
+    "papers": [
+      "10.1007/978-1-4419-0312-9_10"
+    ]
   },
   "a09_40": {
     "name": "Cui Xie",
@@ -357,7 +345,10 @@
         "name": "Ocean University of China, China"
       }
     ],
-    "id": "a09_40"
+    "id": "a09_40",
+    "papers": [
+      "10.1007/978-1-4419-0312-9_11"
+    ]
   },
   "a09_41": {
     "name": "Lihua Xing",
@@ -367,7 +358,10 @@
         "name": "Ocean University of China, China"
       }
     ],
-    "id": "a09_41"
+    "id": "a09_41",
+    "papers": [
+      "10.1007/978-1-4419-0312-9_11"
+    ]
   },
   "a09_42": {
     "name": "Cunna Liu",
@@ -377,7 +371,10 @@
         "name": "Ocean University of China, China"
       }
     ],
-    "id": "a09_42"
+    "id": "a09_42",
+    "papers": [
+      "10.1007/978-1-4419-0312-9_11"
+    ]
   },
   "a09_43": {
     "name": "Xiaocong Li",
@@ -387,7 +384,10 @@
         "name": "Ocean University of China, China"
       }
     ],
-    "id": "a09_43"
+    "id": "a09_43",
+    "papers": [
+      "10.1007/978-1-4419-0312-9_11"
+    ]
   },
   "a09_45": {
     "name": "Guoqiang Yang",
@@ -398,7 +398,10 @@
         "url": "https://dl.acm.org/institution/60019533"
       }
     ],
-    "id": "a09_45"
+    "id": "a09_45",
+    "papers": [
+      "10.1007/978-1-4419-0312-9_12"
+    ]
   },
   "a09_46": {
     "name": "Liang Fu Lu",
@@ -409,17 +412,11 @@
         "url": "https://dl.acm.org/institution/60019533"
       }
     ],
-    "id": "a09_46"
-  },
-  "a09_47": {
-    "name": "Mao Lin Huang",
-    "institutions": [
-      {
-        "id": "i09_47",
-        "name": ""
-      }
-    ],
-    "id": "a09_47"
+    "id": "a09_46",
+    "papers": [
+      "10.1007/978-1-4419-0312-9_6",
+      "10.1007/978-1-4419-0312-9_12"
+    ]
   },
   "a09_48": {
     "name": "Ming Che",
@@ -430,7 +427,10 @@
         "url": "https://dl.acm.org/institution/60019533"
       }
     ],
-    "id": "a09_48"
+    "id": "a09_48",
+    "papers": [
+      "10.1007/978-1-4419-0312-9_12"
+    ]
   },
   "a09_49": {
     "name": "Inessa Seifert",
@@ -440,7 +440,10 @@
         "name": "German Research Center for Artificial Intelligence, Germany"
       }
     ],
-    "id": "a09_49"
+    "id": "a09_49",
+    "papers": [
+      "10.1007/978-1-4419-0312-9_13"
+    ]
   },
   "a09_50": {
     "name": "Michael Kruppa",
@@ -450,27 +453,10 @@
         "name": "German Research Center for Artificial Intelligence, Germany"
       }
     ],
-    "id": "a09_50"
-  },
-  "a09_51": {
-    "name": "Lei Ren",
-    "institutions": [
-      {
-        "id": "i09_51",
-        "name": ""
-      }
-    ],
-    "id": "a09_51"
-  },
-  "a09_52": {
-    "name": "Feng Tian",
-    "institutions": [
-      {
-        "id": "i09_52",
-        "name": ""
-      }
-    ],
-    "id": "a09_52"
+    "id": "a09_50",
+    "papers": [
+      "10.1007/978-1-4419-0312-9_13"
+    ]
   },
   "a09_53": {
     "name": "Lin Zhang",
@@ -480,37 +466,11 @@
         "name": "Beihang University, China"
       }
     ],
-    "id": "a09_53"
-  },
-  "a09_54": {
-    "name": "Guozhong Dai",
-    "institutions": [
-      {
-        "id": "i09_54",
-        "name": ""
-      }
-    ],
-    "id": "a09_54"
-  },
-  "a09_55": {
-    "name": "Quang Vinh Nguyen",
-    "institutions": [
-      {
-        "id": "i09_55",
-        "name": ""
-      }
-    ],
-    "id": "a09_55"
-  },
-  "a09_56": {
-    "name": "Mao Lin Huang",
-    "institutions": [
-      {
-        "id": "i09_56",
-        "name": ""
-      }
-    ],
-    "id": "a09_56"
+    "id": "a09_53",
+    "papers": [
+      "10.1007/978-1-4419-0312-9_5",
+      "10.1007/978-1-4419-0312-9_14"
+    ]
   },
   "a09_57": {
     "name": "Sandro Varano",
@@ -520,7 +480,10 @@
         "name": "Ecole Nationale Supérieure d’Architecture de Strasbourg, France"
       }
     ],
-    "id": "a09_57"
+    "id": "a09_57",
+    "papers": [
+      "10.1007/978-1-4419-0312-9_16"
+    ]
   },
   "a09_58": {
     "name": "Jean-Claude Bignon",
@@ -530,17 +493,10 @@
         "name": "Ecole Nationale Supérieure d’Architecture de Strasbourg, France"
       }
     ],
-    "id": "a09_58"
-  },
-  "a09_59": {
-    "name": "J. Joshua Thomas",
-    "institutions": [
-      {
-        "id": "i09_59",
-        "name": ""
-      }
-    ],
-    "id": "a09_59"
+    "id": "a09_58",
+    "papers": [
+      "10.1007/978-1-4419-0312-9_16"
+    ]
   },
   "a09_60": {
     "name": "Ahamad Tajudin Abdul Khader",
@@ -551,7 +507,10 @@
         "url": ""
       }
     ],
-    "id": "a09_60"
+    "id": "a09_60",
+    "papers": [
+      "10.1007/978-1-4419-0312-9_17"
+    ]
   },
   "a09_61": {
     "name": "Bahari Belaton",
@@ -562,7 +521,10 @@
         "url": ""
       }
     ],
-    "id": "a09_61"
+    "id": "a09_61",
+    "papers": [
+      "10.1007/978-1-4419-0312-9_17"
+    ]
   },
   "a09_62": {
     "name": "Brian N. Hilton",
@@ -572,7 +534,10 @@
         "name": "Claremont Graduate University, United States"
       }
     ],
-    "id": "a09_62"
+    "id": "a09_62",
+    "papers": [
+      "10.1007/978-1-4419-0312-9_18"
+    ]
   },
   "a09_63": {
     "name": "Thomas A. Horan",
@@ -582,7 +547,10 @@
         "name": "Claremont Graduate University, United States"
       }
     ],
-    "id": "a09_63"
+    "id": "a09_63",
+    "papers": [
+      "10.1007/978-1-4419-0312-9_18"
+    ]
   },
   "a09_64": {
     "name": "Benjamin L. Schooley",
@@ -592,7 +560,10 @@
         "name": "Claremont Graduate University, United States"
       }
     ],
-    "id": "a09_64"
+    "id": "a09_64",
+    "papers": [
+      "10.1007/978-1-4419-0312-9_18"
+    ]
   },
   "a09_65": {
     "name": "Chengying Mao",
@@ -602,7 +573,10 @@
         "name": "Jiangxi University of Finance and Economics, China"
       }
     ],
-    "id": "a09_65"
+    "id": "a09_65",
+    "papers": [
+      "10.1007/978-1-4419-0312-9_19"
+    ]
   },
   "a09_66": {
     "name": "Li Zheng",
@@ -612,7 +586,10 @@
         "name": "Tsinghua University, China"
       }
     ],
-    "id": "a09_66"
+    "id": "a09_66",
+    "papers": [
+      "10.1007/978-1-4419-0312-9_20"
+    ]
   },
   "a09_67": {
     "name": "Chao Zhang",
@@ -622,7 +599,10 @@
         "name": "Tsinghua University, China"
       }
     ],
-    "id": "a09_67"
+    "id": "a09_67",
+    "papers": [
+      "10.1007/978-1-4419-0312-9_20"
+    ]
   },
   "a09_68": {
     "name": "Zhanwei Wu",
@@ -632,7 +612,10 @@
         "name": "Tsinghua University, China"
       }
     ],
-    "id": "a09_68"
+    "id": "a09_68",
+    "papers": [
+      "10.1007/978-1-4419-0312-9_20"
+    ]
   },
   "a09_69": {
     "name": "Yixin Yan",
@@ -642,7 +625,10 @@
         "name": "Tsinghua University, China"
       }
     ],
-    "id": "a09_69"
+    "id": "a09_69",
+    "papers": [
+      "10.1007/978-1-4419-0312-9_20"
+    ]
   },
   "a09_70": {
     "name": "Donggang Yu",
@@ -652,7 +638,10 @@
         "name": "University of Newcastle, United Kingdom"
       }
     ],
-    "id": "a09_70"
+    "id": "a09_70",
+    "papers": [
+      "10.1007/978-1-4419-0312-9_21"
+    ]
   },
   "a09_71": {
     "name": "Jesse Sheng Jin",
@@ -662,7 +651,10 @@
         "name": "University of Newcastle, United Kingdom"
       }
     ],
-    "id": "a09_71"
+    "id": "a09_71",
+    "papers": [
+      "10.1007/978-1-4419-0312-9_21"
+    ]
   },
   "a09_72": {
     "name": "Suhuai Luo",
@@ -672,7 +664,10 @@
         "name": "University of Newcastle, United Kingdom"
       }
     ],
-    "id": "a09_72"
+    "id": "a09_72",
+    "papers": [
+      "10.1007/978-1-4419-0312-9_21"
+    ]
   },
   "a09_73": {
     "name": "Wei Lai",
@@ -682,7 +677,10 @@
         "name": "Swinburne University of Technology, Australia"
       }
     ],
-    "id": "a09_73"
+    "id": "a09_73",
+    "papers": [
+      "10.1007/978-1-4419-0312-9_21"
+    ]
   },
   "a09_74": {
     "name": "Qingming Huang",
@@ -692,7 +690,10 @@
         "name": "Chinese Academy of Sciences, China"
       }
     ],
-    "id": "a09_74"
+    "id": "a09_74",
+    "papers": [
+      "10.1007/978-1-4419-0312-9_21"
+    ]
   },
   "a09_75": {
     "name": "Zhuo Li",
@@ -702,7 +703,10 @@
         "name": "Zhejiang University"
       }
     ],
-    "id": "a09_75"
+    "id": "a09_75",
+    "papers": [
+      "10.1007/978-1-4419-0312-9_22"
+    ]
   },
   "a09_76": {
     "name": "Jian Chen",
@@ -712,7 +716,10 @@
         "name": "Zhejiang University"
       }
     ],
-    "id": "a09_76"
+    "id": "a09_76",
+    "papers": [
+      "10.1007/978-1-4419-0312-9_22"
+    ]
   },
   "a09_77": {
     "name": "Xiaoning Jiang",
@@ -722,7 +729,10 @@
         "name": "Zhejiang University"
       }
     ],
-    "id": "a09_77"
+    "id": "a09_77",
+    "papers": [
+      "10.1007/978-1-4419-0312-9_22"
+    ]
   },
   "a09_78": {
     "name": "Xian-Ting Zeng",
@@ -732,7 +742,10 @@
         "name": "Zhejiang University"
       }
     ],
-    "id": "a09_78"
+    "id": "a09_78",
+    "papers": [
+      "10.1007/978-1-4419-0312-9_22"
+    ]
   },
   "a09_79": {
     "name": "Xuezeng Pan",
@@ -742,7 +755,10 @@
         "name": "Zhejiang University"
       }
     ],
-    "id": "a09_79"
+    "id": "a09_79",
+    "papers": [
+      "10.1007/978-1-4419-0312-9_22"
+    ]
   },
   "a09_80": {
     "name": "Mingjing Ai",
@@ -752,7 +768,10 @@
         "name": "Beihang University, China"
       }
     ],
-    "id": "a09_80"
+    "id": "a09_80",
+    "papers": [
+      "10.1007/978-1-4419-0312-9_23"
+    ]
   },
   "a09_81": {
     "name": "Lili Zhao",
@@ -762,7 +781,10 @@
         "name": "Beihang University, China"
       }
     ],
-    "id": "a09_81"
+    "id": "a09_81",
+    "papers": [
+      "10.1007/978-1-4419-0312-9_23"
+    ]
   },
   "a09_82": {
     "name": "Yongmei Zhu",
@@ -772,7 +794,10 @@
         "name": "Beihang University, China"
       }
     ],
-    "id": "a09_82"
+    "id": "a09_82",
+    "papers": [
+      "10.1007/978-1-4419-0312-9_23"
+    ]
   },
   "a09_83": {
     "name": "Qinping Zhao",
@@ -782,7 +807,10 @@
         "name": "Beihang University, China"
       }
     ],
-    "id": "a09_83"
+    "id": "a09_83",
+    "papers": [
+      "10.1007/978-1-4419-0312-9_23"
+    ]
   },
   "a09_84": {
     "name": "Huaiqing He",
@@ -792,7 +820,10 @@
         "name": "Civil Aviation University of China"
       }
     ],
-    "id": "a09_84"
+    "id": "a09_84",
+    "papers": [
+      "10.1007/978-1-4419-0312-9_24"
+    ]
   },
   "a09_85": {
     "name": "Tianbao Wang",
@@ -802,7 +833,10 @@
         "name": "Civil Aviation University of China"
       }
     ],
-    "id": "a09_85"
+    "id": "a09_85",
+    "papers": [
+      "10.1007/978-1-4419-0312-9_24"
+    ]
   },
   "a09_86": {
     "name": "Qing Xu",
@@ -812,7 +846,10 @@
         "name": "Tianjin University, China"
       }
     ],
-    "id": "a09_86"
+    "id": "a09_86",
+    "papers": [
+      "10.1007/978-1-4419-0312-9_24"
+    ]
   },
   "a09_87": {
     "name": "Yaoyu Xing",
@@ -822,6 +859,9 @@
         "name": "Civil Aviation University of China"
       }
     ],
-    "id": "a09_87"
+    "id": "a09_87",
+    "papers": [
+      "10.1007/978-1-4419-0312-9_24"
+    ]
   }
 }

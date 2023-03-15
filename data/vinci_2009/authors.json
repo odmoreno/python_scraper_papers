@@ -79,26 +79,6 @@
     ],
     "id": "a09_8"
   },
-  "99660626111": {
-    "name": "Kang Zhang",
-    "institutions": [
-      {
-        "id": "60009415",
-        "name": "University of Texas at Dallas"
-      }
-    ],
-    "id": "99660626111"
-  },
-  "a09_10": {
-    "name": "Mao Lin Huang",
-    "institutions": [
-      {
-        "id": "i09_10",
-        "name": "The University of Sydney"
-      }
-    ],
-    "id": "a09_10"
-  },
   "a09_11": {
     "name": "Steffen Bogen",
     "institutions": [
@@ -129,46 +109,6 @@
     ],
     "id": "a09_13"
   },
-  "a09_14": {
-    "name": "Lei Ren",
-    "institutions": [
-      {
-        "id": "i09_14",
-        "name": "Beihang University"
-      }
-    ],
-    "id": "a09_14"
-  },
-  "a09_15": {
-    "name": "Lin Zhang",
-    "institutions": [
-      {
-        "id": "i09_15",
-        "name": ""
-      }
-    ],
-    "id": "a09_15"
-  },
-  "81384607002": {
-    "name": "Dongxing Teng",
-    "institutions": [
-      {
-        "id": "i09_16",
-        "name": ""
-      }
-    ],
-    "id": "81384607002"
-  },
-  "81100172122": {
-    "name": "Guozhong Dai",
-    "institutions": [
-      {
-        "id": "i09_17",
-        "name": ""
-      }
-    ],
-    "id": "81100172122"
-  },
   "a09_18": {
     "name": "Qian Li",
     "institutions": [
@@ -179,16 +119,6 @@
     ],
     "id": "a09_18"
   },
-  "81453614419": {
-    "name": "Jiawan Zhang",
-    "institutions": [
-      {
-        "id": "i09_19",
-        "name": ""
-      }
-    ],
-    "id": "81453614419"
-  },
   "a09_20": {
     "name": "Yuan Wen",
     "institutions": [
@@ -198,36 +128,6 @@
       }
     ],
     "id": "a09_20"
-  },
-  "81100511332": {
-    "name": "Quang Vinh Nguyen",
-    "institutions": [
-      {
-        "id": "i09_21",
-        "name": ""
-      }
-    ],
-    "id": "81100511332"
-  },
-  "a09_22": {
-    "name": "Liang Fu Lu",
-    "institutions": [
-      {
-        "id": "i09_22",
-        "name": ""
-      }
-    ],
-    "id": "a09_22"
-  },
-  "a09_23": {
-    "name": "Mao Lin Huang",
-    "institutions": [
-      {
-        "id": "i09_23",
-        "name": ""
-      }
-    ],
-    "id": "a09_23"
   },
   "a09_24": {
     "name": "Jiadong Yang",
@@ -279,16 +179,6 @@
     ],
     "id": "a09_28"
   },
-  "99659194214": {
-    "name": "Yang Zou",
-    "institutions": [
-      {
-        "id": "i09_29",
-        "name": ""
-      }
-    ],
-    "id": "99659194214"
-  },
   "a09_30": {
     "name": "Jian Lü",
     "institutions": [
@@ -298,16 +188,6 @@
       }
     ],
     "id": "a09_30"
-  },
-  "81319505316": {
-    "name": "Xiaoqin Zeng",
-    "institutions": [
-      {
-        "id": "i09_31",
-        "name": ""
-      }
-    ],
-    "id": "81319505316"
   },
   "a09_32": {
     "name": "Xiaoxing Ma",
@@ -368,16 +248,6 @@
       }
     ],
     "id": "a09_37"
-  },
-  "81100203521": {
-    "name": "Robert P. Biuk-Aghai",
-    "institutions": [
-      {
-        "id": "i09_38",
-        "name": ""
-      }
-    ],
-    "id": "81100203521"
   },
   "a09_39": {
     "name": "Simon Fong",
@@ -449,16 +319,6 @@
     ],
     "id": "a09_46"
   },
-  "a09_47": {
-    "name": "Mao Lin Huang",
-    "institutions": [
-      {
-        "id": "i09_47",
-        "name": ""
-      }
-    ],
-    "id": "a09_47"
-  },
   "a09_48": {
     "name": "Ming Che",
     "institutions": [
@@ -489,26 +349,6 @@
     ],
     "id": "a09_50"
   },
-  "a09_51": {
-    "name": "Lei Ren",
-    "institutions": [
-      {
-        "id": "i09_51",
-        "name": ""
-      }
-    ],
-    "id": "a09_51"
-  },
-  "a09_52": {
-    "name": "Feng Tian",
-    "institutions": [
-      {
-        "id": "i09_52",
-        "name": ""
-      }
-    ],
-    "id": "a09_52"
-  },
   "a09_53": {
     "name": "Lin Zhang",
     "institutions": [
@@ -518,36 +358,6 @@
       }
     ],
     "id": "a09_53"
-  },
-  "a09_54": {
-    "name": "Guozhong Dai",
-    "institutions": [
-      {
-        "id": "i09_54",
-        "name": ""
-      }
-    ],
-    "id": "a09_54"
-  },
-  "a09_55": {
-    "name": "Quang Vinh Nguyen",
-    "institutions": [
-      {
-        "id": "i09_55",
-        "name": ""
-      }
-    ],
-    "id": "a09_55"
-  },
-  "a09_56": {
-    "name": "Mao Lin Huang",
-    "institutions": [
-      {
-        "id": "i09_56",
-        "name": ""
-      }
-    ],
-    "id": "a09_56"
   },
   "a09_57": {
     "name": "Sandro Varano",
@@ -568,16 +378,6 @@
       }
     ],
     "id": "a09_58"
-  },
-  "a09_59": {
-    "name": "J. Joshua Thomas",
-    "institutions": [
-      {
-        "id": "i09_59",
-        "name": ""
-      }
-    ],
-    "id": "a09_59"
   },
   "a09_60": {
     "name": "Ahamad Tajudin Abdul Khader",
