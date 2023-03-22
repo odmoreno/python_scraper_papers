@@ -115,7 +115,7 @@
   },
   "60104372": {
     "id": "60104372",
-    "name": "Linnaeus University, Kalmar",
+    "name": "Linnaeus University",
     "url": "https://dl.acm.org/institution/60104372",
     "ad0": "Kalmar",
     "ad1": "Kalmar",
@@ -1284,8 +1284,8 @@
     "id": "60008592",
     "name": "Hong Kong University of Science and Technology",
     "url": "https://dl.acm.org/institution/60008592",
-    "ad0": "China",
-    "ad1": "China"
+    "ad0": "hong kong",
+    "ad1": "hong kong"
   },
   "60022195": {
     "id": "60022195",
