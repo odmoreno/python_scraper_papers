@@ -1,5 +1,5 @@
 {
-  "10.1007/978-1-4419-0312-9_1": {
+  "1": {
     "type": "paper-conference",
     "title": "The Physical Visualization of Information: Designing Data Sculptures in an Educational Context.",
     "url": "https://doi.org/10.1007/978-1-4419-0312-9_1",
@@ -22,7 +22,7 @@
     "conference": "vinci",
     "id": 1
   },
-  "10.1007/978-1-4419-0312-9_2": {
+  "2": {
     "type": "paper-conference",
     "title": "Visual Analysis of History of World Cup: A Dynamic Network with Dynamic Hierarchy and Geographic Clustering.",
     "url": "https://doi.org/10.1007/978-1-4419-0312-9_2",
@@ -54,7 +54,7 @@
     "conference": "vinci",
     "id": 2
   },
-  "10.1007/978-1-4419-0312-9_3": {
+  "3": {
     "type": "paper-conference",
     "title": "From Tree to Graph - Experiments with E-Spring Algorithm.",
     "url": "https://doi.org/10.1007/978-1-4419-0312-9_3",
@@ -84,7 +84,7 @@
     "conference": "vinci",
     "id": 3
   },
-  "10.1007/978-1-4419-0312-9_4": {
+  "4": {
     "type": "paper-conference",
     "title": "Visual Navigation with Schematic Maps.",
     "url": "https://doi.org/10.1007/978-1-4419-0312-9_4",
@@ -108,7 +108,7 @@
     "conference": "vinci",
     "id": 4
   },
-  "10.1007/978-1-4419-0312-9_5": {
+  "5": {
     "type": "paper-conference",
     "title": "DOI-Wave: A Focus+Context Interaction Technique for Networks Based on Attention-Reactive Interface.",
     "url": "https://doi.org/10.1007/978-1-4419-0312-9_5",
@@ -136,7 +136,7 @@
     "conference": "vinci",
     "id": 5
   },
-  "10.1007/978-1-4419-0312-9_6": {
+  "6": {
     "type": "paper-conference",
     "title": "Multi-dimensional Data Visualization using Concentric Coordinates.",
     "url": "https://doi.org/10.1007/978-1-4419-0312-9_6",
@@ -168,7 +168,7 @@
     "conference": "vinci",
     "id": 6
   },
-  "10.1007/978-1-4419-0312-9_7": {
+  "7": {
     "type": "paper-conference",
     "title": "Construct Connotation Dictionary of Visual Symbols.",
     "url": "https://doi.org/10.1007/978-1-4419-0312-9_7",
@@ -192,7 +192,7 @@
     "conference": "vinci",
     "id": 7
   },
-  "10.1007/978-1-4419-0312-9_8": {
+  "8": {
     "type": "paper-conference",
     "title": "Constructing Confluent Context-sensitive Graph Grammars from Non-confluent Productions for Parsing Efficiency.",
     "url": "https://doi.org/10.1007/978-1-4419-0312-9_8",
@@ -219,7 +219,7 @@
     "conference": "vinci",
     "id": 8
   },
-  "10.1007/978-1-4419-0312-9_9": {
+  "9": {
     "type": "paper-conference",
     "title": "Experimental Color in Computer Icons.",
     "url": "https://doi.org/10.1007/978-1-4419-0312-9_9",
@@ -242,7 +242,7 @@
     "conference": "vinci",
     "id": 9
   },
-  "10.1007/978-1-4419-0312-9_10": {
+  "10": {
     "type": "paper-conference",
     "title": "Hidden Cluster Detection for Infectious Disease Control and Quarantine Management.",
     "url": "https://doi.org/10.1007/978-1-4419-0312-9_10",
@@ -267,7 +267,7 @@
     "conference": "vinci",
     "id": 10
   },
-  "10.1007/978-1-4419-0312-9_11": {
+  "11": {
     "type": "paper-conference",
     "title": "Multi-scale Vortex Extraction of Ocean Flow.",
     "url": "https://doi.org/10.1007/978-1-4419-0312-9_11",
@@ -292,7 +292,7 @@
     "conference": "vinci",
     "id": 11
   },
-  "10.1007/978-1-4419-0312-9_12": {
+  "12": {
     "type": "paper-conference",
     "title": "A Novel Visualization Method for Detecting DDoS Network Attacks.",
     "url": "https://doi.org/10.1007/978-1-4419-0312-9_12",
@@ -321,7 +321,7 @@
     "conference": "vinci",
     "id": 12
   },
-  "10.1007/978-1-4419-0312-9_13": {
+  "13": {
     "type": "paper-conference",
     "title": "A Pool of Topics: Interactive Relational Topic Visualization for Information Discovery.",
     "url": "https://doi.org/10.1007/978-1-4419-0312-9_13",
@@ -344,7 +344,7 @@
     "conference": "vinci",
     "id": 13
   },
-  "10.1007/978-1-4419-0312-9_14": {
+  "14": {
     "type": "paper-conference",
     "title": "DaisyViz: A Model-based User Interfaces Toolkit for Development of Interactive Information Visualization.",
     "url": "https://doi.org/10.1007/978-1-4419-0312-9_14",
@@ -370,7 +370,7 @@
     "conference": "vinci",
     "id": 14
   },
-  "10.1007/978-1-4419-0312-9_15": {
+  "15": {
     "type": "paper-conference",
     "title": "A New Interactive Platform for Visual Analytics of Social Networks.",
     "url": "https://doi.org/10.1007/978-1-4419-0312-9_15",
@@ -394,7 +394,7 @@
     "conference": "vinci",
     "id": 15
   },
-  "10.1007/978-1-4419-0312-9_16": {
+  "16": {
     "type": "paper-conference",
     "title": "Strategic paths and memory map: Exploring a building and memorizing knowledge.",
     "url": "https://doi.org/10.1007/978-1-4419-0312-9_16",
@@ -417,7 +417,7 @@
     "conference": "vinci",
     "id": 16
   },
-  "10.1007/978-1-4419-0312-9_17": {
+  "17": {
     "type": "paper-conference",
     "title": "Information visualization Approach on the University Examination Timetabling Problem.",
     "url": "https://doi.org/10.1007/978-1-4419-0312-9_17",
@@ -441,7 +441,7 @@
     "conference": "vinci",
     "id": 17
   },
-  "10.1007/978-1-4419-0312-9_18": {
+  "18": {
     "type": "paper-conference",
     "title": "Making Traffic Safety Personal: Visualization and Customization of National Traffic Fatalities.",
     "url": "https://doi.org/10.1007/978-1-4419-0312-9_18",
@@ -465,7 +465,7 @@
     "conference": "vinci",
     "id": 18
   },
-  "10.1007/978-1-4419-0312-9_19": {
+  "19": {
     "type": "paper-conference",
     "title": "Visualizing Table Dependency Relations to Reveal Network Characters in Database Applications.",
     "url": "https://doi.org/10.1007/978-1-4419-0312-9_19",
@@ -487,7 +487,7 @@
     "conference": "vinci",
     "id": 19
   },
-  "10.1007/978-1-4419-0312-9_20": {
+  "20": {
     "type": "paper-conference",
     "title": "Visualized Feature Modeling in Software Product Line.",
     "url": "https://doi.org/10.1007/978-1-4419-0312-9_20",
@@ -512,7 +512,7 @@
     "conference": "vinci",
     "id": 20
   },
-  "10.1007/978-1-4419-0312-9_21": {
+  "21": {
     "type": "paper-conference",
     "title": "A Useful Visualization Technique: A Literature Review for Augmented Reality and its Application, limitation & future direction.",
     "url": "https://doi.org/10.1007/978-1-4419-0312-9_21",
@@ -542,7 +542,7 @@
     "conference": "vinci",
     "id": 21
   },
-  "10.1007/978-1-4419-0312-9_22": {
+  "22": {
     "type": "paper-conference",
     "title": "Novel Blind Steganalysis for JPEG Images.",
     "url": "https://doi.org/10.1007/978-1-4419-0312-9_22",
@@ -568,7 +568,7 @@
     "conference": "vinci",
     "id": 22
   },
-  "10.1007/978-1-4419-0312-9_23": {
+  "23": {
     "type": "paper-conference",
     "title": "A Polarization Restraint Based Fast Motion Estimation Approach to H.264 Stereoscopic Video Coding.",
     "url": "https://doi.org/10.1007/978-1-4419-0312-9_23",
@@ -593,7 +593,7 @@
     "conference": "vinci",
     "id": 23
   },
-  "10.1007/978-1-4419-0312-9_24": {
+  "24": {
     "type": "paper-conference",
     "title": "Multi-core Parallel of Photon Mapping.",
     "url": "https://doi.org/10.1007/978-1-4419-0312-9_24",
@@ -619,7 +619,7 @@
     "conference": "vinci",
     "id": 24
   },
-  "10.1145/3481549.3481569": {
+  "25": {
     "type": "research-article",
     "title": "Hagrid — Gridify Scatterplots with Hilbert and Gosper Curves",
     "url": "https://doi.org/10.1145/3481549.3481569",
@@ -650,7 +650,7 @@
     "conference": "vinci",
     "id": 25
   },
-  "10.1145/3481549.3481553": {
+  "26": {
     "type": "research-article",
     "title": "Scatterplot Selection Applying a Graph Coloring Algorithm",
     "url": "https://doi.org/10.1145/3481549.3481553",
@@ -674,7 +674,7 @@
     "conference": "vinci",
     "id": 26
   },
-  "10.1145/3481549.3481557": {
+  "27": {
     "type": "short-paper",
     "title": "Visual Analysis of Industrial Multivariate Time Series",
     "url": "https://doi.org/10.1145/3481549.3481557",
@@ -698,7 +698,7 @@
     "conference": "vinci",
     "id": 27
   },
-  "10.1145/3481549.3481563": {
+  "28": {
     "type": "research-article",
     "title": "PropellerHand: A Hand-Mounted, Propeller-Based Force Feedback Device",
     "url": "https://doi.org/10.1145/3481549.3481563",
@@ -725,7 +725,7 @@
     "conference": "vinci",
     "id": 28
   },
-  "10.1145/3481549.3481568": {
+  "29": {
     "type": "short-paper",
     "title": "Interactive Simulation and Visualization ofLong-Term, ETF-based Investment Strategies",
     "url": "https://doi.org/10.1145/3481549.3481568",
@@ -750,7 +750,7 @@
     "conference": "vinci",
     "id": 29
   },
-  "10.1145/3481549.3481570": {
+  "30": {
     "type": "short-paper",
     "title": "Visualization of Data Changes in 2.5D Treemaps usingProcedural Textures and Animated Transitions",
     "url": "https://doi.org/10.1145/3481549.3481570",
@@ -775,7 +775,7 @@
     "conference": "vinci",
     "id": 30
   },
-  "10.1145/3481549.3481562": {
+  "31": {
     "type": "short-paper",
     "title": "EyeFIX: An Interactive Visual Analytics Interface for Eye Movement Analysis",
     "url": "https://doi.org/10.1145/3481549.3481562",
@@ -805,7 +805,7 @@
     "conference": "vinci",
     "id": 31
   },
-  "10.1145/3481549.3481560": {
+  "32": {
     "type": "research-article",
     "title": "An empirically-based spatial segmentation and coreference annotation scheme for comics",
     "url": "https://doi.org/10.1145/3481549.3481560",
@@ -828,7 +828,7 @@
     "conference": "vinci",
     "id": 32
   },
-  "10.1145/3481549.3481556": {
+  "33": {
     "type": "short-paper",
     "title": "RST as Narrative Structure for Node-Based Editors",
     "url": "https://doi.org/10.1145/3481549.3481556",
@@ -854,7 +854,7 @@
     "conference": "vinci",
     "id": 33
   },
-  "10.1145/3481549.3481554": {
+  "34": {
     "type": "short-paper",
     "title": "SPLORT: Evaluation of a Web-based Approach for Descriptive and Exploratory Analysis of Multivariate Spatio-temporal Data",
     "url": "https://doi.org/10.1145/3481549.3481554",
@@ -878,7 +878,7 @@
     "conference": "vinci",
     "id": 34
   },
-  "10.1145/3481549.3481558": {
+  "35": {
     "type": "short-paper",
     "title": "Design and Comparative Evaluation of Visualization Onboarding Methods",
     "url": "https://doi.org/10.1145/3481549.3481558",
@@ -907,7 +907,7 @@
     "conference": "vinci",
     "id": 35
   },
-  "10.1145/3481549.3481564": {
+  "36": {
     "type": "research-article",
     "title": "Cross-Platform Immersive Visualization and Navigation with Augmented Reality",
     "url": "https://doi.org/10.1145/3481549.3481564",
@@ -932,7 +932,7 @@
     "conference": "vinci",
     "id": 36
   },
-  "10.1145/3481549.3481555": {
+  "37": {
     "type": "research-article",
     "title": "Visual Linking of Feature Values in Immersive Graph Visualization Environment",
     "url": "https://doi.org/10.1145/3481549.3481555",
@@ -961,7 +961,7 @@
     "conference": "vinci",
     "id": 37
   },
-  "10.1145/3481549.3481566": {
+  "38": {
     "type": "research-article",
     "title": "ThreadRadar: A Thread-Aware Visualization for Debugging Concurrent Java Programs",
     "url": "https://doi.org/10.1145/3481549.3481566",
@@ -985,7 +985,7 @@
     "conference": "vinci",
     "id": 38
   },
-  "10.1145/3481549.3481565": {
+  "39": {
     "type": "research-article",
     "title": "Interactive Visual Facets to Support Fluid Exploratory Search",
     "url": "https://doi.org/10.1145/3481549.3481565",
@@ -1014,7 +1014,7 @@
     "conference": "vinci",
     "id": 39
   },
-  "10.1145/3481549.3481550": {
+  "40": {
     "type": "short-paper",
     "title": "Visual Analysis of Graph Algorithm Dynamics",
     "url": "https://doi.org/10.1145/3481549.3481550",
@@ -1042,7 +1042,7 @@
     "conference": "vinci",
     "id": 40
   },
-  "10.1145/3481549.3481571": {
+  "41": {
     "type": "poster",
     "title": "Enabling Comparative Analysis of Election Data in Ecuador",
     "url": "https://doi.org/10.1145/3481549.3481571",
@@ -1065,7 +1065,7 @@
     "conference": "vinci",
     "id": 41
   },
-  "10.1145/3481549.3481573": {
+  "42": {
     "type": "poster",
     "title": "Software Galaxies: Displaying Coding Activitiesusing a Galaxy Metaphor",
     "url": "https://doi.org/10.1145/3481549.3481573",
@@ -1090,7 +1090,7 @@
     "conference": "vinci",
     "id": 42
   },
-  "10.1145/3481549.3481572": {
+  "43": {
     "type": "poster",
     "title": "Using Scrollytelling to Explain Voting Power in Ecuador",
     "url": "https://doi.org/10.1145/3481549.3481572",
@@ -1113,7 +1113,7 @@
     "conference": "vinci",
     "id": 43
   },
-  "10.1145/3481549.3481559": {
+  "44": {
     "type": "poster",
     "title": "A Web-Based Tool for analysing Formula 1 Races and Seasons",
     "url": "https://doi.org/10.1145/3481549.3481559",
@@ -1137,7 +1137,7 @@
     "conference": "vinci",
     "id": 44
   },
-  "10.1145/3481549.3481567": {
+  "45": {
     "type": "poster",
     "title": "POEM: People-Oriented EMail for Social Connectedness",
     "url": "https://doi.org/10.1145/3481549.3481567",
@@ -1160,7 +1160,7 @@
     "conference": "vinci",
     "id": 45
   },
-  "10.1145/3481549.3481551": {
+  "46": {
     "type": "research-article",
     "title": "OpinionManager: Visual Exploration of Online Reviews in P2P Accommodation",
     "url": "https://doi.org/10.1145/3481549.3481551",
@@ -1187,7 +1187,7 @@
     "conference": "vinci",
     "id": 46
   },
-  "10.1145/3481549.3481552": {
+  "47": {
     "type": "research-article",
     "title": "Particle pre-processing for particle-based fluid surface reconstruction",
     "url": "https://doi.org/10.1145/3481549.3481552",
@@ -1211,7 +1211,7 @@
     "conference": "vinci",
     "id": 47
   },
-  "10.1145/3481549.3481561": {
+  "48": {
     "type": "short-paper",
     "title": "Identifying Correlation Patterns in Large Educational Data Sources",
     "url": "https://doi.org/10.1145/3481549.3481561",
@@ -1236,7 +1236,7 @@
     "conference": "vinci",
     "id": 48
   },
-  "10.1145/3430036.3430041": {
+  "49": {
     "type": "research-article",
     "title": "Survey of treemap layout algorithms",
     "url": "https://doi.org/10.1145/3430036.3430041",
@@ -1260,7 +1260,7 @@
     "conference": "vinci",
     "id": 49
   },
-  "10.1145/3430036.3430054": {
+  "50": {
     "type": "research-article",
     "title": "Survey on user studies on the effectiveness of treemaps",
     "url": "https://doi.org/10.1145/3430036.3430054",
@@ -1286,7 +1286,7 @@
     "conference": "vinci",
     "id": 50
   },
-  "10.1145/3430036.3430037": {
+  "51": {
     "type": "research-article",
     "title": "Multiple linked perspectives on hierarchical data",
     "url": "https://doi.org/10.1145/3430036.3430037",
@@ -1310,7 +1310,7 @@
     "conference": "vinci",
     "id": 51
   },
-  "10.1145/3356422.3356433": {
+  "52": {
     "type": "research-article",
     "title": "Visual Analytics of Urban Transportation from a Bike-Sharing and Taxi Perspective",
     "url": "https://doi.org/10.1145/3356422.3356433",
@@ -1334,7 +1334,7 @@
     "conference": "vinci",
     "id": 52
   },
-  "10.1145/3356422.3356440": {
+  "53": {
     "type": "research-article",
     "title": "Revealing Travel Patterns from Dockless Bike-sharing Data Based on Tensor Decomposition",
     "url": "https://doi.org/10.1145/3356422.3356440",
@@ -1358,7 +1358,7 @@
     "conference": "vinci",
     "id": 53
   },
-  "10.1145/3356422.3356439": {
+  "54": {
     "type": "research-article",
     "title": "Visual predictive modeling of incomplete time series panel data",
     "url": "https://doi.org/10.1145/3356422.3356439",
@@ -1383,7 +1383,7 @@
     "conference": "vinci",
     "id": 54
   },
-  "10.1145/3231622.3231624": {
+  "55": {
     "type": "research-article",
     "title": "EpidNews: An Epidemiological News Explorer for Monitoring Animal Diseases",
     "url": "https://doi.org/10.1145/3231622.3231624",
@@ -1415,7 +1415,7 @@
     "conference": "vinci",
     "id": 55
   },
-  "10.1145/3231622.3231626": {
+  "56": {
     "type": "research-article",
     "title": "PedaViz: Visualising Hour-Level Pedestrian Activity",
     "url": "https://doi.org/10.1145/3231622.3231626",
@@ -1445,7 +1445,7 @@
     "conference": "vinci",
     "id": 56
   },
-  "10.1145/3231622.3231627": {
+  "57": {
     "type": "research-article",
     "title": "BehaviorTracker: Visual Analytics of Customer Switching Behavior in O2O Market",
     "url": "https://doi.org/10.1145/3231622.3231627",
@@ -1470,7 +1470,7 @@
     "conference": "vinci",
     "id": 57
   },
-  "10.1145/3231622.3231628": {
+  "58": {
     "type": "research-article",
     "title": "Contrast Enhancement Based on Viewing Distance",
     "url": "https://doi.org/10.1145/3231622.3231628",
@@ -1493,7 +1493,7 @@
     "conference": "vinci",
     "id": 58
   },
-  "10.1145/3231622.3231635": {
+  "59": {
     "type": "research-article",
     "title": "Challenges and Perspectives of Interacting with Hierarchy Visualizations on Large-Scale Displays",
     "url": "https://doi.org/10.1145/3231622.3231635",
@@ -1518,7 +1518,7 @@
     "conference": "vinci",
     "id": 59
   },
-  "10.1145/3231622.3231637": {
+  "60": {
     "type": "research-article",
     "title": "Generating Tractable Designs by Transforming Shape Grammars to Graph Grammars",
     "url": "https://doi.org/10.1145/3231622.3231637",
@@ -1547,7 +1547,7 @@
     "conference": "vinci",
     "id": 60
   },
-  "10.1145/3231622.3231638": {
+  "61": {
     "type": "research-article",
     "title": "Interactive, Height-Based Filtering in 2.5D Treemaps",
     "url": "https://doi.org/10.1145/3231622.3231638",
@@ -1571,7 +1571,7 @@
     "conference": "vinci",
     "id": 61
   },
-  "10.1145/3231622.3231623": {
+  "62": {
     "type": "research-article",
     "title": "Automatic View Placement in 3D toward Hierarchical Non-Linear Presentations",
     "url": "https://doi.org/10.1145/3231622.3231623",
@@ -1594,7 +1594,7 @@
     "conference": "vinci",
     "id": 62
   },
-  "10.1145/3231622.3231639": {
+  "63": {
     "type": "research-article",
     "title": "3D Modelling and Visualisation of Heterogeneous Cell Membranes in Blender",
     "url": "https://doi.org/10.1145/3231622.3231639",
@@ -1623,7 +1623,7 @@
     "conference": "vinci",
     "id": 63
   },
-  "10.1145/3231622.3231630": {
+  "64": {
     "type": "research-article",
     "title": "Property-Driven Dynamic Call Graph Exploration",
     "url": "https://doi.org/10.1145/3231622.3231630",
@@ -1645,7 +1645,7 @@
     "conference": "vinci",
     "id": 64
   },
-  "10.1145/3231622.3231632": {
+  "65": {
     "type": "research-article",
     "title": "Upstream Visibility: A Multi-View Routing Visualization",
     "url": "https://doi.org/10.1145/3231622.3231632",
@@ -1671,7 +1671,7 @@
     "conference": "vinci",
     "id": 65
   },
-  "10.1145/3231622.3231633": {
+  "66": {
     "type": "short-paper",
     "title": "IMDb Explorer: Visual Exploration of a Movie Database",
     "url": "https://doi.org/10.1145/3231622.3231633",
@@ -1703,7 +1703,7 @@
     "conference": "vinci",
     "id": 66
   },
-  "10.1145/3231622.3231625": {
+  "67": {
     "type": "short-paper",
     "title": "Using an Augmented Reality Cube-Like Interface and 3D Gesture-Based Interaction to Navigate and Manipulate Data",
     "url": "https://doi.org/10.1145/3231622.3231625",
@@ -1726,7 +1726,7 @@
     "conference": "vinci",
     "id": 67
   },
-  "10.1145/3231622.3231641": {
+  "68": {
     "type": "short-paper",
     "title": "Analysis of VINCI 2009-2017 Proceedings",
     "url": "https://doi.org/10.1145/3231622.3231641",
@@ -1750,7 +1750,7 @@
     "conference": "vinci",
     "id": 68
   },
-  "10.1145/3231622.3232505": {
+  "69": {
     "type": "poster",
     "title": "Application of Interactive Computer-Assisted Argument Extraction to Opinionated Social Media Texts",
     "url": "https://doi.org/10.1145/3231622.3232505",
@@ -1776,7 +1776,7 @@
     "conference": "vinci",
     "id": 69
   },
-  "10.1145/3231622.3232508": {
+  "70": {
     "type": "poster",
     "title": "Diabetes Information in Social Media",
     "url": "https://doi.org/10.1145/3231622.3232508",
@@ -1805,7 +1805,7 @@
     "conference": "vinci",
     "id": 70
   },
-  "10.1145/3231622.3232506": {
+  "71": {
     "type": "poster",
     "title": "Visualizing Programming Session Timelines",
     "url": "https://doi.org/10.1145/3231622.3232506",
@@ -1828,7 +1828,7 @@
     "conference": "vinci",
     "id": 71
   },
-  "10.1145/3231622.3232504": {
+  "72": {
     "type": "poster",
     "title": "ChOWDER: Dynamic Contents Sharing through Remote Tiled Display System",
     "url": "https://doi.org/10.1145/3231622.3232504",
@@ -1853,7 +1853,7 @@
     "conference": "vinci",
     "id": 72
   },
-  "10.1145/3231622.3231634": {
+  "73": {
     "type": "poster",
     "title": "Data Modeling and Analysis on Fashion Evolution",
     "url": "https://doi.org/10.1145/3231622.3231634",
@@ -1875,7 +1875,7 @@
     "conference": "vinci",
     "id": 73
   },
-  "10.1145/3231622.3231636": {
+  "74": {
     "type": "poster",
     "title": "Information Visualization and Design",
     "url": "https://doi.org/10.1145/3231622.3231636",
@@ -1898,7 +1898,7 @@
     "conference": "vinci",
     "id": 74
   },
-  "10.1145/3231622.3231629": {
+  "75": {
     "type": "poster",
     "title": "Visual Notifier: A Timeline-Based Visualization for Notifications from Several Environments",
     "url": "https://doi.org/10.1145/3231622.3231629",
@@ -1920,7 +1920,7 @@
     "conference": "vinci",
     "id": 75
   },
-  "10.1145/3231622.3231640": {
+  "76": {
     "type": "poster",
     "title": "Towards Uncertainty Visualization in Smart Production Environments",
     "url": "https://doi.org/10.1145/3231622.3231640",
@@ -1944,7 +1944,7 @@
     "conference": "vinci",
     "id": 76
   },
-  "10.1145/3231622.3232507": {
+  "77": {
     "type": "poster",
     "title": "Improved Exploration with Dimensional Weight Manipulation in RadViz",
     "url": "https://doi.org/10.1145/3231622.3232507",
@@ -1969,7 +1969,7 @@
     "conference": "vinci",
     "id": 77
   },
-  "10.1145/3105971.3105972": {
+  "78": {
     "type": "research-article",
     "title": "Visualizing uncertainty in flow diagrams: a case study in product costing",
     "url": "https://doi.org/10.1145/3105971.3105972",
@@ -1995,7 +1995,7 @@
     "conference": "vinci",
     "id": 78
   },
-  "10.1145/3105971.3105980": {
+  "79": {
     "type": "research-article",
     "title": "A radviz-based visualization for understanding fuzzy clustering results",
     "url": "https://doi.org/10.1145/3105971.3105980",
@@ -2026,7 +2026,7 @@
     "conference": "vinci",
     "id": 79
   },
-  "10.1145/3105971.3105983": {
+  "80": {
     "type": "research-article",
     "title": "Partial precedence of context-sensitive graph grammars",
     "url": "https://doi.org/10.1145/3105971.3105983",
@@ -2051,7 +2051,7 @@
     "conference": "vinci",
     "id": 80
   },
-  "10.1145/3105971.3105986": {
+  "81": {
     "type": "short-paper",
     "title": "An application of optimization method for storyline based on cluster analysis",
     "url": "https://doi.org/10.1145/3105971.3105986",
@@ -2076,7 +2076,7 @@
     "conference": "vinci",
     "id": 81
   },
-  "10.1145/3105971.3105975": {
+  "82": {
     "type": "research-article",
     "title": "Personal visual analytics for android security risk lifelog",
     "url": "https://doi.org/10.1145/3105971.3105975",
@@ -2103,7 +2103,7 @@
     "conference": "vinci",
     "id": 82
   },
-  "10.1145/3105971.3105982": {
+  "83": {
     "type": "research-article",
     "title": "Visualization of time series data with spatial context: communicating the energy production of power plants",
     "url": "https://doi.org/10.1145/3105971.3105982",
@@ -2132,7 +2132,7 @@
     "conference": "vinci",
     "id": 83
   },
-  "10.1145/3105971.3105981": {
+  "84": {
     "type": "research-article",
     "title": "Visualizing activity traces to support collaborative literature searching",
     "url": "https://doi.org/10.1145/3105971.3105981",
@@ -2161,7 +2161,7 @@
     "conference": "vinci",
     "id": 84
   },
-  "10.1145/3105971.3105984": {
+  "85": {
     "type": "short-paper",
     "title": "Visual support for rastering of unequally spaced time series",
     "url": "https://doi.org/10.1145/3105971.3105984",
@@ -2186,7 +2186,7 @@
     "conference": "vinci",
     "id": 85
   },
-  "10.1145/3105971.3105987": {
+  "86": {
     "type": "short-paper",
     "title": "Visual considerations of relative trajectory models of moving objects",
     "url": "https://doi.org/10.1145/3105971.3105987",
@@ -2211,7 +2211,7 @@
     "conference": "vinci",
     "id": 86
   },
-  "10.1145/3105971.3105990": {
+  "87": {
     "type": "poster",
     "title": "Anamorphic fluid: exploring spatial organization and movements of images in a simulated fluid environment",
     "url": "https://doi.org/10.1145/3105971.3105990",
@@ -2235,7 +2235,7 @@
     "conference": "vinci",
     "id": 87
   },
-  "10.1145/3105971.3108443": {
+  "88": {
     "type": "poster",
     "title": "Using sunflower metaphor to reduce clutter of scatterplot",
     "url": "https://doi.org/10.1145/3105971.3108443",
@@ -2258,7 +2258,7 @@
     "conference": "vinci",
     "id": 88
   },
-  "10.1145/3105971.3108447": {
+  "89": {
     "type": "poster",
     "title": "Visualizing thai stock performance using parallel coordinates",
     "url": "https://doi.org/10.1145/3105971.3108447",
@@ -2285,7 +2285,7 @@
     "conference": "vinci",
     "id": 89
   },
-  "10.1145/3105971.3108450": {
+  "90": {
     "type": "poster",
     "title": "Visual clustering-based apriori ARM methodology for obtaining quality association rules",
     "url": "https://doi.org/10.1145/3105971.3108450",
@@ -2309,7 +2309,7 @@
     "conference": "vinci",
     "id": 90
   },
-  "10.1145/3105971.3108444": {
+  "91": {
     "type": "poster",
     "title": "Towards a design generation methodology",
     "url": "https://doi.org/10.1145/3105971.3108444",
@@ -2337,7 +2337,7 @@
     "conference": "vinci",
     "id": 91
   },
-  "10.1145/3105971.3108442": {
+  "92": {
     "type": "poster",
     "title": "Visual analysis of driving styles from vehicle experiment data",
     "url": "https://doi.org/10.1145/3105971.3108442",
@@ -2363,7 +2363,7 @@
     "conference": "vinci",
     "id": 92
   },
-  "10.1145/3105971.3108445": {
+  "93": {
     "type": "poster",
     "title": "Data-driven dementia diagnosis record visualization system",
     "url": "https://doi.org/10.1145/3105971.3108445",
@@ -2391,7 +2391,7 @@
     "conference": "vinci",
     "id": 93
   },
-  "10.1145/3105971.3108446": {
+  "94": {
     "type": "poster",
     "title": "Network-based visualization tool for analyzing gene expression data",
     "url": "https://doi.org/10.1145/3105971.3108446",
@@ -2416,7 +2416,7 @@
     "conference": "vinci",
     "id": 94
   },
-  "10.1145/3105971.3108448": {
+  "95": {
     "type": "poster",
     "title": "Gene-set profiles: visualizing dissimilarity within gene co-expression networks for biomarker identification",
     "url": "https://doi.org/10.1145/3105971.3108448",
@@ -2445,7 +2445,7 @@
     "conference": "vinci",
     "id": 95
   },
-  "10.1145/3105971.3105992": {
+  "96": {
     "type": "poster",
     "title": "Overall quality evaluation of graph layouts based on regression analysis",
     "url": "https://doi.org/10.1145/3105971.3105992",
@@ -2471,7 +2471,7 @@
     "conference": "vinci",
     "id": 96
   },
-  "10.1145/3105971.3108449": {
+  "97": {
     "type": "poster",
     "title": "Network analysis of inter-organizational success factor relationships",
     "url": "https://doi.org/10.1145/3105971.3108449",
@@ -2496,7 +2496,7 @@
     "conference": "vinci",
     "id": 97
   },
-  "10.1145/3105971.3105977": {
+  "98": {
     "type": "research-article",
     "title": "Exploring gaze-adaptive features for interacting with multi-document visualizations",
     "url": "https://doi.org/10.1145/3105971.3105977",
@@ -2525,7 +2525,7 @@
     "conference": "vinci",
     "id": 98
   },
-  "10.1145/3105971.3105974": {
+  "99": {
     "type": "research-article",
     "title": "Computer-aided generation of mandala thangka patterns",
     "url": "https://doi.org/10.1145/3105971.3105974",
@@ -2553,7 +2553,7 @@
     "conference": "vinci",
     "id": 99
   },
-  "10.1145/3105971.3105973": {
+  "100": {
     "type": "research-article",
     "title": "Eye movement plots",
     "url": "https://doi.org/10.1145/3105971.3105973",
@@ -2575,7 +2575,7 @@
     "conference": "vinci",
     "id": 100
   },
-  "10.1145/3105971.3105989": {
+  "101": {
     "type": "short-paper",
     "title": "artVIS: an interactive visualization for painting collections",
     "url": "https://doi.org/10.1145/3105971.3105989",
@@ -2604,7 +2604,7 @@
     "conference": "vinci",
     "id": 101
   },
-  "10.1145/3105971.3105976": {
+  "102": {
     "type": "research-article",
     "title": "Map-like visualisations vs. treemaps: an experimental comparison",
     "url": "https://doi.org/10.1145/3105971.3105976",
@@ -2631,7 +2631,7 @@
     "conference": "vinci",
     "id": 102
   },
-  "10.1145/3105971.3105978": {
+  "103": {
     "type": "research-article",
     "title": "Evaluating the effects of size in linesets",
     "url": "https://doi.org/10.1145/3105971.3105978",
@@ -2657,7 +2657,7 @@
     "conference": "vinci",
     "id": 103
   },
-  "10.1145/3105971.3105979": {
+  "104": {
     "type": "research-article",
     "title": "Towards Glyph-based visualizations for big data clustering",
     "url": "https://doi.org/10.1145/3105971.3105979",
@@ -2688,7 +2688,7 @@
     "conference": "vinci",
     "id": 104
   },
-  "10.1145/3105971.3105988": {
+  "105": {
     "type": "short-paper",
     "title": "How Network-based and set-based visualizations aid consistency checking in ontologies",
     "url": "https://doi.org/10.1145/3105971.3105988",
@@ -2715,7 +2715,7 @@
     "conference": "vinci",
     "id": 105
   },
-  "10.1145/2968220.2968226": {
+  "106": {
     "type": "research-article",
     "title": "The Dynamic Call Graph Matrix",
     "url": "https://doi.org/10.1145/2968220.2968226",
@@ -2737,7 +2737,7 @@
     "conference": "vinci",
     "id": 106
   },
-  "10.1145/2968220.2968229": {
+  "107": {
     "type": "research-article",
     "title": "BranchingSets: Interactively Visualizing Categories on Node-Link Diagrams",
     "url": "https://doi.org/10.1145/2968220.2968229",
@@ -2762,7 +2762,7 @@
     "conference": "vinci",
     "id": 107
   },
-  "10.1145/2968220.2968242": {
+  "108": {
     "type": "research-article",
     "title": "A Guided Tour of Literature Review: Facilitating Academic Paper Reading with Narrative Visualization",
     "url": "https://doi.org/10.1145/2968220.2968242",
@@ -2788,7 +2788,7 @@
     "conference": "vinci",
     "id": 108
   },
-  "10.1145/2968220.2968221": {
+  "109": {
     "type": "short-paper",
     "title": "IDSPlanet: A Novel Radial Visualization of Intrusion Detection Alerts",
     "url": "https://doi.org/10.1145/2968220.2968221",
@@ -2819,7 +2819,7 @@
     "conference": "vinci",
     "id": 109
   },
-  "10.1145/2968220.2968238": {
+  "110": {
     "type": "short-paper",
     "title": "Bus Lines Explorer: Interactive Exploration of Public Transportation Data",
     "url": "https://doi.org/10.1145/2968220.2968238",
@@ -2854,7 +2854,7 @@
     "conference": "vinci",
     "id": 110
   },
-  "10.1145/2968220.2968224": {
+  "111": {
     "type": "research-article",
     "title": "Enhancing Infographics Based on Symmetry Saliency",
     "url": "https://doi.org/10.1145/2968220.2968224",
@@ -2880,7 +2880,7 @@
     "conference": "vinci",
     "id": 111
   },
-  "10.1145/2968220.2968248": {
+  "112": {
     "type": "research-article",
     "title": "Deep Exploration of Multidimensional Data with Linkable Scatterplots",
     "url": "https://doi.org/10.1145/2968220.2968248",
@@ -2909,7 +2909,7 @@
     "conference": "vinci",
     "id": 112
   },
-  "10.1145/2968220.2968230": {
+  "113": {
     "type": "research-article",
     "title": "Visibility Widgets: Managing Occlusion of Quantitative Data in 3D Terrain Visualization",
     "url": "https://doi.org/10.1145/2968220.2968230",
@@ -2932,7 +2932,7 @@
     "conference": "vinci",
     "id": 113
   },
-  "10.1145/2968220.2968235": {
+  "114": {
     "type": "research-article",
     "title": "Eliciting Tacit Expertise in 3D Volume Segmentation",
     "url": "https://doi.org/10.1145/2968220.2968235",
@@ -2968,7 +2968,7 @@
     "conference": "vinci",
     "id": 114
   },
-  "10.1145/2968220.2968236": {
+  "115": {
     "type": "research-article",
     "title": "A Comparative Study on Inter-Device Interaction: One-Handed Interaction VS Two-Handed Interaction",
     "url": "https://doi.org/10.1145/2968220.2968236",
@@ -2992,7 +2992,7 @@
     "conference": "vinci",
     "id": 115
   },
-  "10.1145/2968220.2968239": {
+  "116": {
     "type": "research-article",
     "title": "What Makes You Think This Is a Map?: Suggestions for Creating Map-like Visualisations",
     "url": "https://doi.org/10.1145/2968220.2968239",
@@ -3019,7 +3019,7 @@
     "conference": "vinci",
     "id": 116
   },
-  "10.1145/2968220.2968240": {
+  "117": {
     "type": "research-article",
     "title": "How People Deploy Dimensional Information to Estimate Relative Values",
     "url": "https://doi.org/10.1145/2968220.2968240",
@@ -3042,7 +3042,7 @@
     "conference": "vinci",
     "id": 117
   },
-  "10.1145/2968220.2968241": {
+  "118": {
     "type": "short-paper",
     "title": "Do Defaults Matter?: Evaluating the Effect of Defaults on User Preference for Multi-Class Scatterplots",
     "url": "https://doi.org/10.1145/2968220.2968241",
@@ -3067,7 +3067,7 @@
     "conference": "vinci",
     "id": 118
   },
-  "10.1145/2968220.2968222": {
+  "119": {
     "type": "research-article",
     "title": "Visual Analysis of User-Driven Association Rule Mining",
     "url": "https://doi.org/10.1145/2968220.2968222",
@@ -3098,7 +3098,7 @@
     "conference": "vinci",
     "id": 119
   },
-  "10.1145/2968220.2968223": {
+  "120": {
     "type": "research-article",
     "title": "Supporting Collaborative Political Decision Making: An Interactive Policy Process Visualization System",
     "url": "https://doi.org/10.1145/2968220.2968223",
@@ -3126,7 +3126,7 @@
     "conference": "vinci",
     "id": 120
   },
-  "10.1145/2968220.2968244": {
+  "121": {
     "type": "short-paper",
     "title": "Spatiotemporal Analytics of Topic Trajectory",
     "url": "https://doi.org/10.1145/2968220.2968244",
@@ -3149,7 +3149,7 @@
     "conference": "vinci",
     "id": 121
   },
-  "10.1145/2968220.2968246": {
+  "122": {
     "type": "short-paper",
     "title": "A Hybrid Approach for Event Social Influence Visualization",
     "url": "https://doi.org/10.1145/2968220.2968246",
@@ -3178,7 +3178,7 @@
     "conference": "vinci",
     "id": 122
   },
-  "10.1145/2968220.2968228": {
+  "123": {
     "type": "research-article",
     "title": "Adaptively Tiled Image Mosaics Utilizing Measures of Color and Region Entropy",
     "url": "https://doi.org/10.1145/2968220.2968228",
@@ -3205,7 +3205,7 @@
     "conference": "vinci",
     "id": 123
   },
-  "10.1145/2968220.2968232": {
+  "124": {
     "type": "research-article",
     "title": "Generation of Miro's Surrealism",
     "url": "https://doi.org/10.1145/2968220.2968232",
@@ -3231,7 +3231,7 @@
     "conference": "vinci",
     "id": 124
   },
-  "10.1145/2968220.2968227": {
+  "125": {
     "type": "poster",
     "title": "EduVis: Visualization for Education Knowledge Graph Based on Web Data",
     "url": "https://doi.org/10.1145/2968220.2968227",
@@ -3256,7 +3256,7 @@
     "conference": "vinci",
     "id": 125
   },
-  "10.1145/2968220.2968231": {
+  "126": {
     "type": "poster",
     "title": "Visualizing Time-Variant Sets on a Handheld Device",
     "url": "https://doi.org/10.1145/2968220.2968231",
@@ -3281,7 +3281,7 @@
     "conference": "vinci",
     "id": 126
   },
-  "10.1145/2968220.2968233": {
+  "127": {
     "type": "poster",
     "title": "Interactive Exploration of Multidimensional YouTube Data Using the GPLOM Technique",
     "url": "https://doi.org/10.1145/2968220.2968233",
@@ -3306,7 +3306,7 @@
     "conference": "vinci",
     "id": 127
   },
-  "10.1145/2968220.2968237": {
+  "128": {
     "type": "poster",
     "title": "The Effect of Color on Short-term Memory in Information Visualization",
     "url": "https://doi.org/10.1145/2968220.2968237",
@@ -3328,7 +3328,7 @@
     "conference": "vinci",
     "id": 128
   },
-  "10.1145/2968220.2968243": {
+  "129": {
     "type": "poster",
     "title": "Design for the future: Incorporating Cradle to Cradle Design into our street",
     "url": "https://doi.org/10.1145/2968220.2968243",
@@ -3351,7 +3351,7 @@
     "conference": "vinci",
     "id": 129
   },
-  "10.1145/2968220.2968245": {
+  "130": {
     "type": "poster",
     "title": "VolSelectAware: Visual-Cognition Coupled Non-Visual Data-Driven Volume Selection for Immersive Scientific Visualizations",
     "url": "https://doi.org/10.1145/2968220.2968245",
@@ -3374,7 +3374,7 @@
     "conference": "vinci",
     "id": 130
   },
-  "10.1145/2968220.2972225": {
+  "131": {
     "type": "poster",
     "title": "Visual Analysis of TED Talk Topic Trends",
     "url": "https://doi.org/10.1145/2968220.2972225",
@@ -3402,7 +3402,7 @@
     "conference": "vinci",
     "id": 131
   },
-  "10.1145/2968220.2972226": {
+  "132": {
     "type": "poster",
     "title": "A Mapping of Color Information from Inputted Images to Generated Polygons: A Case Study of Generative Design of Epoxy-Terrazzo Artistry",
     "url": "https://doi.org/10.1145/2968220.2972226",
@@ -3425,7 +3425,7 @@
     "conference": "vinci",
     "id": 132
   },
-  "10.1145/2968220.2968234": {
+  "133": {
     "type": "poster",
     "title": "Visual Communication Power Construction and Multimodal Discourse Analysis of Tobacco Control Advertising",
     "url": "https://doi.org/10.1145/2968220.2968234",
@@ -3448,7 +3448,7 @@
     "conference": "vinci",
     "id": 133
   },
-  "10.1145/2968220.2968249": {
+  "134": {
     "type": "panel",
     "title": "Facilitating Visualization Capacity Building",
     "url": "https://doi.org/10.1145/2968220.2968249",
@@ -3472,7 +3472,7 @@
     "conference": "vinci",
     "id": 134
   },
-  "10.1145/2801040.2801054": {
+  "135": {
     "type": "research-article",
     "title": "Predictive Visual Analytics using Topic Composition",
     "url": "https://doi.org/10.1145/2801040.2801054",
@@ -3495,7 +3495,7 @@
     "conference": "vinci",
     "id": 135
   },
-  "10.1145/2801040.2801043": {
+  "136": {
     "type": "research-article",
     "title": "A Preliminary Study on Network-based ADL Training for the Visually Impaired by Use of a Parametric-speaker Robot",
     "url": "https://doi.org/10.1145/2801040.2801043",
@@ -3524,7 +3524,7 @@
     "conference": "vinci",
     "id": 136
   },
-  "10.1145/2801040.2801055": {
+  "137": {
     "type": "research-article",
     "title": "In-Situ Visualisation of Fractional Code Ownership over Time",
     "url": "https://doi.org/10.1145/2801040.2801055",
@@ -3548,7 +3548,7 @@
     "conference": "vinci",
     "id": 137
   },
-  "10.1145/2801040.2801057": {
+  "138": {
     "type": "research-article",
     "title": "Remote Rendering and User Interaction on Mobile Devices for Scientific Visualization",
     "url": "https://doi.org/10.1145/2801040.2801057",
@@ -3572,7 +3572,7 @@
     "conference": "vinci",
     "id": 138
   },
-  "10.1145/2801040.2801048": {
+  "139": {
     "type": "research-article",
     "title": "Dynamic Graph Visualization with Multiple Visual Metaphors",
     "url": "https://doi.org/10.1145/2801040.2801048",
@@ -3594,7 +3594,7 @@
     "conference": "vinci",
     "id": 139
   },
-  "10.1145/2801040.2801053": {
+  "140": {
     "type": "research-article",
     "title": "Consistently GPU-Accelerated Graph Visualization",
     "url": "https://doi.org/10.1145/2801040.2801053",
@@ -3620,7 +3620,7 @@
     "conference": "vinci",
     "id": 140
   },
-  "10.1145/2801040.2801059": {
+  "141": {
     "type": "research-article",
     "title": "The Graph Landscape: a Concept for the Visual Analysis of Graph Set Properties",
     "url": "https://doi.org/10.1145/2801040.2801059",
@@ -3645,7 +3645,7 @@
     "conference": "vinci",
     "id": 141
   },
-  "10.1145/2801040.2801046": {
+  "142": {
     "type": "research-article",
     "title": "Digital Artwork Creation Using Water and Sand on a Two-Dimensional Surface",
     "url": "https://doi.org/10.1145/2801040.2801046",
@@ -3668,7 +3668,7 @@
     "conference": "vinci",
     "id": 142
   },
-  "10.1145/2801040.2801044": {
+  "143": {
     "type": "research-article",
     "title": "HistoryPaper: A Magazine-Style Layout of Representative Web Pages Extracted From Browsing History",
     "url": "https://doi.org/10.1145/2801040.2801044",
@@ -3691,7 +3691,7 @@
     "conference": "vinci",
     "id": 143
   },
-  "10.1145/2801040.2801051": {
+  "144": {
     "type": "short-paper",
     "title": "The Fantastic Voyage: an arts-led approach to 3D virtual reality visualization of clinical stroke data",
     "url": "https://doi.org/10.1145/2801040.2801051",
@@ -3719,7 +3719,7 @@
     "conference": "vinci",
     "id": 144
   },
-  "10.1145/2801040.2801058": {
+  "145": {
     "type": "research-article",
     "title": "Vision-Based Technique and Issues for Multimodal Interaction in Augmented Reality",
     "url": "https://doi.org/10.1145/2801040.2801058",
@@ -3746,7 +3746,7 @@
     "conference": "vinci",
     "id": 145
   },
-  "10.1145/2801040.2801052": {
+  "146": {
     "type": "research-article",
     "title": "Visual Cyber Situational Awareness for Critical Infrastructures",
     "url": "https://doi.org/10.1145/2801040.2801052",
@@ -3769,7 +3769,7 @@
     "conference": "vinci",
     "id": 146
   },
-  "10.1145/2801040.2801061": {
+  "147": {
     "type": "research-article",
     "title": "An Interactive Radial Visualization of Geoscience Observation Data",
     "url": "https://doi.org/10.1145/2801040.2801061",
@@ -3797,7 +3797,7 @@
     "conference": "vinci",
     "id": 147
   },
-  "10.1145/2801040.2801041": {
+  "148": {
     "type": "research-article",
     "title": "An interactive exploratory search system for on-line apparel shopping",
     "url": "https://doi.org/10.1145/2801040.2801041",
@@ -3820,7 +3820,7 @@
     "conference": "vinci",
     "id": 148
   },
-  "10.1145/2801040.2801049": {
+  "149": {
     "type": "research-article",
     "title": "Interactive Visual Analysis of Temporal Text Data",
     "url": "https://doi.org/10.1145/2801040.2801049",
@@ -3845,7 +3845,7 @@
     "conference": "vinci",
     "id": 149
   },
-  "10.1145/2801040.2801063": {
+  "150": {
     "type": "short-paper",
     "title": "Exploring the Benefits of Text and Sketch in Video Retrieval of Complex Queries",
     "url": "https://doi.org/10.1145/2801040.2801063",
@@ -3870,7 +3870,7 @@
     "conference": "vinci",
     "id": 150
   },
-  "10.1145/2801040.2801062": {
+  "151": {
     "type": "research-article",
     "title": "Metaphoric Transfer Effect in Information Visualization Using Glyphs",
     "url": "https://doi.org/10.1145/2801040.2801062",
@@ -3897,7 +3897,7 @@
     "conference": "vinci",
     "id": 151
   },
-  "10.1145/2801040.2801045": {
+  "152": {
     "type": "research-article",
     "title": "On the Utility of Large High-Resolution Displays for Comparative Scientific Visualisation",
     "url": "https://doi.org/10.1145/2801040.2801045",
@@ -3923,7 +3923,7 @@
     "conference": "vinci",
     "id": 152
   },
-  "10.1145/2801040.2801056": {
+  "153": {
     "type": "research-article",
     "title": "Enhanced Hexagon-Tiling Algorithm for Map-Like Information Visualisation",
     "url": "https://doi.org/10.1145/2801040.2801056",
@@ -3946,7 +3946,7 @@
     "conference": "vinci",
     "id": 153
   },
-  "10.1145/2801040.2801064": {
+  "154": {
     "type": "short-paper",
     "title": "On Clustered Graph Layouts Sketched by Users Based on Predefined Clusters",
     "url": "https://doi.org/10.1145/2801040.2801064",
@@ -3960,7 +3960,7 @@
     "conference": "vinci",
     "id": 154
   },
-  "10.1145/2801040.2801042": {
+  "155": {
     "type": "poster",
     "title": "Visually Do Statistics: Visual Materials of Covariance in Regressive Analysis",
     "url": "https://doi.org/10.1145/2801040.2801042",
@@ -3986,7 +3986,7 @@
     "conference": "vinci",
     "id": 155
   },
-  "10.1145/2801040.2801047": {
+  "156": {
     "type": "poster",
     "title": "The Interface Design for Serendipity with Collective Intelligence",
     "url": "https://doi.org/10.1145/2801040.2801047",
@@ -4009,7 +4009,7 @@
     "conference": "vinci",
     "id": 156
   },
-  "10.1145/2801040.2801050": {
+  "157": {
     "type": "research-article",
     "title": "Synchronizing Digital Signage Content with the Movement of Passerby",
     "url": "https://doi.org/10.1145/2801040.2801050",
@@ -4032,7 +4032,7 @@
     "conference": "vinci",
     "id": 157
   },
-  "10.1145/2801040.2801060": {
+  "158": {
     "type": "poster",
     "title": "Enabling Finger-Gesture Interaction with Kinect",
     "url": "https://doi.org/10.1145/2801040.2801060",
@@ -4056,7 +4056,7 @@
     "conference": "vinci",
     "id": 158
   },
-  "10.1145/2801040.2801066": {
+  "159": {
     "type": "poster",
     "title": "Interactive Visualization of Quantitative Data with G2D3",
     "url": "https://doi.org/10.1145/2801040.2801066",
@@ -4079,7 +4079,7 @@
     "conference": "vinci",
     "id": 159
   },
-  "10.1145/2801040.2801067": {
+  "160": {
     "type": "poster",
     "title": "A Layout Technique for Storyline-based Visualization of Consecutive Numerical Time-varying Data",
     "url": "https://doi.org/10.1145/2801040.2801067",
@@ -4106,7 +4106,7 @@
     "conference": "vinci",
     "id": 160
   },
-  "10.1145/2801040.2801069": {
+  "161": {
     "type": "poster",
     "title": "Logo Trend Visualization: Logo Design Shape Element Trend and Pattern Analysis",
     "url": "https://doi.org/10.1145/2801040.2801069",
@@ -4131,7 +4131,7 @@
     "conference": "vinci",
     "id": 161
   },
-  "10.1145/2801040.2801068": {
+  "162": {
     "type": "poster",
     "title": "Data Analysis Tool for Arm Movement Pattern in Virtual Catching Task: A Preliminary Development",
     "url": "https://doi.org/10.1145/2801040.2801068",
@@ -4162,7 +4162,7 @@
     "conference": "vinci",
     "id": 162
   },
-  "10.1145/2801040.2801070": {
+  "163": {
     "type": "poster",
     "title": "A Visual Approach to Detecting Drive-by Download Attacks",
     "url": "https://doi.org/10.1145/2801040.2801070",
@@ -4185,7 +4185,7 @@
     "conference": "vinci",
     "id": 163
   },
-  "10.1145/2801040.2801065": {
+  "164": {
     "type": "poster",
     "title": "A Projection-based Medical Augmented Reality System",
     "url": "https://doi.org/10.1145/2801040.2801065",
@@ -4212,7 +4212,7 @@
     "conference": "vinci",
     "id": 164
   },
-  "10.1145/2801040.2801071": {
+  "165": {
     "type": "poster",
     "title": "Enhanced Visualization of News Shot Cloud with Employing Circular Layout",
     "url": "https://doi.org/10.1145/2801040.2801071",
@@ -4236,7 +4236,7 @@
     "conference": "vinci",
     "id": 165
   },
-  "10.1145/2801040.2801072": {
+  "166": {
     "type": "poster",
     "title": "Using Virtual Reality Technique to Enhance Experience of Exploring 3D Trajectory Visualizations",
     "url": "https://doi.org/10.1145/2801040.2801072",
@@ -4263,7 +4263,7 @@
     "conference": "vinci",
     "id": 166
   },
-  "10.1145/2801040.2802138": {
+  "167": {
     "type": "tutorial",
     "title": "Visually Do Statistics for Business Persons: Visual Materials from Regression to Black-Sholes Model",
     "url": "https://doi.org/10.1145/2801040.2802138",
@@ -4289,7 +4289,7 @@
     "conference": "vinci",
     "id": 167
   },
-  "10.1145/2636240.2636844": {
+  "168": {
     "type": "research-article",
     "title": "Adaptive Visualization Interface That Manages User's Cognitive Load Based on Interaction Characteristics",
     "url": "https://doi.org/10.1145/2636240.2636844",
@@ -4312,7 +4312,7 @@
     "conference": "vinci",
     "id": 168
   },
-  "10.1145/2636240.2636850": {
+  "169": {
     "type": "research-article",
     "title": "CoVE: A Colony Visualization System for Animal Pedigrees",
     "url": "https://doi.org/10.1145/2636240.2636850",
@@ -4339,7 +4339,7 @@
     "conference": "vinci",
     "id": 169
   },
-  "10.1145/2636240.2636841": {
+  "170": {
     "type": "research-article",
     "title": "A Space-Filling Multidimensional Visualization (SFMDVis for Exploratory Data Analysis",
     "url": "https://doi.org/10.1145/2636240.2636841",
@@ -4368,7 +4368,7 @@
     "conference": "vinci",
     "id": 170
   },
-  "10.1145/2636240.2636839": {
+  "171": {
     "type": "research-article",
     "title": "A Flip-Book of Edge-Splatted Small Multiples for Visualizing Dynamic Graphs",
     "url": "https://doi.org/10.1145/2636240.2636839",
@@ -4391,7 +4391,7 @@
     "conference": "vinci",
     "id": 171
   },
-  "10.1145/2636240.2636858": {
+  "172": {
     "type": "research-article",
     "title": "Visualizing Bag-of-Features Image Categorization Using Anchored Maps",
     "url": "https://doi.org/10.1145/2636240.2636858",
@@ -4418,7 +4418,7 @@
     "conference": "vinci",
     "id": 172
   },
-  "10.1145/2636240.2636854": {
+  "173": {
     "type": "research-article",
     "title": "Parallel Coordinates with Data Labels",
     "url": "https://doi.org/10.1145/2636240.2636854",
@@ -4445,7 +4445,7 @@
     "conference": "vinci",
     "id": 173
   },
-  "10.1145/2636240.2636843": {
+  "174": {
     "type": "research-article",
     "title": "Generating Reusable Visual Notations using Model Transformation",
     "url": "https://doi.org/10.1145/2636240.2636843",
@@ -4469,7 +4469,7 @@
     "conference": "vinci",
     "id": 174
   },
-  "10.1145/2636240.2636840": {
+  "175": {
     "type": "research-article",
     "title": "Encapsulating Interaction Techniques of 3D Language Editors in Visual Patterns",
     "url": "https://doi.org/10.1145/2636240.2636840",
@@ -4492,7 +4492,7 @@
     "conference": "vinci",
     "id": 175
   },
-  "10.1145/2636240.2636846": {
+  "176": {
     "type": "research-article",
     "title": "Interactive Sand Art Drawing Using Kinect",
     "url": "https://doi.org/10.1145/2636240.2636846",
@@ -4515,7 +4515,7 @@
     "conference": "vinci",
     "id": 176
   },
-  "10.1145/2636240.2636855": {
+  "177": {
     "type": "research-article",
     "title": "Supporting Access Control within a Mockup-based EUDWeb Environment",
     "url": "https://doi.org/10.1145/2636240.2636855",
@@ -4545,7 +4545,7 @@
     "conference": "vinci",
     "id": 177
   },
-  "10.1145/2636240.2636842": {
+  "178": {
     "type": "research-article",
     "title": "A Time-based Visualization for Web User Classification in Social Networks",
     "url": "https://doi.org/10.1145/2636240.2636842",
@@ -4585,7 +4585,7 @@
     "conference": "vinci",
     "id": 178
   },
-  "10.1145/2636240.2636847": {
+  "179": {
     "type": "research-article",
     "title": "Ember: A Smartphone Web Browser Interface for the Blind",
     "url": "https://doi.org/10.1145/2636240.2636847",
@@ -4613,7 +4613,7 @@
     "conference": "vinci",
     "id": 179
   },
-  "10.1145/2636240.2636857": {
+  "180": {
     "type": "research-article",
     "title": "Mobile Visualization Supporting Awareness in Collaborative Software Development",
     "url": "https://doi.org/10.1145/2636240.2636857",
@@ -4641,7 +4641,7 @@
     "conference": "vinci",
     "id": 180
   },
-  "10.1145/2636240.2636845": {
+  "181": {
     "type": "research-article",
     "title": "NEI: A Framework for Dynamic News Event Exploration and Visualization",
     "url": "https://doi.org/10.1145/2636240.2636845",
@@ -4666,7 +4666,7 @@
     "conference": "vinci",
     "id": 181
   },
-  "10.1145/2636240.2636856": {
+  "182": {
     "type": "research-article",
     "title": "Visualising and systematizing a per-poor ICT intervention for Rural and Semi-urban Mothers in India",
     "url": "https://doi.org/10.1145/2636240.2636856",
@@ -4689,7 +4689,7 @@
     "conference": "vinci",
     "id": 182
   },
-  "10.1145/2636240.2636853": {
+  "183": {
     "type": "research-article",
     "title": "Developing useful Visualizations of Domestic Energy Usage",
     "url": "https://doi.org/10.1145/2636240.2636853",
@@ -4712,7 +4712,7 @@
     "conference": "vinci",
     "id": 183
   },
-  "10.1145/2636240.2636838": {
+  "184": {
     "type": "research-article",
     "title": "How Should We Use Colour in Euler Diagrams?",
     "url": "https://doi.org/10.1145/2636240.2636838",
@@ -4738,7 +4738,7 @@
     "conference": "vinci",
     "id": 184
   },
-  "10.1145/2636240.2636848": {
+  "185": {
     "type": "research-article",
     "title": "Towards a Cognitive Approach to User-Centered Visualization Design and Evaluation",
     "url": "https://doi.org/10.1145/2636240.2636848",
@@ -4762,7 +4762,7 @@
     "conference": "vinci",
     "id": 185
   },
-  "10.1145/2636240.2636851": {
+  "186": {
     "type": "research-article",
     "title": "Emergence and Artistic Visualization",
     "url": "https://doi.org/10.1145/2636240.2636851",
@@ -4784,7 +4784,7 @@
     "conference": "vinci",
     "id": 186
   },
-  "10.1145/2636240.2636852": {
+  "187": {
     "type": "research-article",
     "title": "Art and Chartjunk: a Guide for NEUVis",
     "url": "https://doi.org/10.1145/2636240.2636852",
@@ -4810,7 +4810,7 @@
     "conference": "vinci",
     "id": 187
   },
-  "10.1145/2636240.2636849": {
+  "188": {
     "type": "research-article",
     "title": "Web-based Multiuser 3D Room Layout System Using Interactive Evolutionary Computation with Conjoint Analysis",
     "url": "https://doi.org/10.1145/2636240.2636849",
@@ -4833,7 +4833,7 @@
     "conference": "vinci",
     "id": 188
   },
-  "10.1145/2636240.2636862": {
+  "189": {
     "type": "research-article",
     "title": "Hyperbolic Tree + Time Disc: Visualizing Hierarchical Time-series Data",
     "url": "https://doi.org/10.1145/2636240.2636862",
@@ -4858,7 +4858,7 @@
     "conference": "vinci",
     "id": 189
   },
-  "10.1145/2636240.2636860": {
+  "190": {
     "type": "research-article",
     "title": "Design Implications from the Preliminary Results of a Telemedicine Patient-Technology Interaction Study",
     "url": "https://doi.org/10.1145/2636240.2636860",
@@ -4882,7 +4882,7 @@
     "conference": "vinci",
     "id": 190
   },
-  "10.1145/2636240.2636871": {
+  "191": {
     "type": "research-article",
     "title": "Radial vs. Cartesian Revisited: A Comparison of Space-Filling Visualizations",
     "url": "https://doi.org/10.1145/2636240.2636871",
@@ -4905,7 +4905,7 @@
     "conference": "vinci",
     "id": 191
   },
-  "10.1145/2636240.2636863": {
+  "192": {
     "type": "research-article",
     "title": "Vision Based Laser Controlled Keyboard System for the Disabled",
     "url": "https://doi.org/10.1145/2636240.2636863",
@@ -4932,7 +4932,7 @@
     "conference": "vinci",
     "id": 192
   },
-  "10.1145/2636240.2636865": {
+  "193": {
     "type": "research-article",
     "title": "Large Scale, Collaborative, Invasive Species Planning and Visualisation Tool",
     "url": "https://doi.org/10.1145/2636240.2636865",
@@ -4956,7 +4956,7 @@
     "conference": "vinci",
     "id": 193
   },
-  "10.1145/2636240.2636868": {
+  "194": {
     "type": "research-article",
     "title": "Using Your Fingers to Think: Interactive Exploration of Subjective Constraints",
     "url": "https://doi.org/10.1145/2636240.2636868",
@@ -4979,7 +4979,7 @@
     "conference": "vinci",
     "id": 194
   },
-  "10.1145/2636240.2636866": {
+  "195": {
     "type": "research-article",
     "title": "Metaphors in Interactive Visual Analytics",
     "url": "https://doi.org/10.1145/2636240.2636866",
@@ -5003,7 +5003,7 @@
     "conference": "vinci",
     "id": 195
   },
-  "10.1145/2636240.2636861": {
+  "196": {
     "type": "research-article",
     "title": "Photomosaic Generation for Photograph Collection Browsing",
     "url": "https://doi.org/10.1145/2636240.2636861",
@@ -5026,7 +5026,7 @@
     "conference": "vinci",
     "id": 196
   },
-  "10.1145/2636240.2636867": {
+  "197": {
     "type": "research-article",
     "title": "Super Resolution to Identify License Plate Numbers in Low Resolution Videos",
     "url": "https://doi.org/10.1145/2636240.2636867",
@@ -5051,7 +5051,7 @@
     "conference": "vinci",
     "id": 197
   },
-  "10.1145/2636240.2636870": {
+  "198": {
     "type": "research-article",
     "title": "Monocular Human Motion Tracking in Latent Space based on Sequential Immune Genetic Algorithm",
     "url": "https://doi.org/10.1145/2636240.2636870",
@@ -5075,7 +5075,7 @@
     "conference": "vinci",
     "id": 198
   },
-  "10.1145/2636240.2636864": {
+  "199": {
     "type": "research-article",
     "title": "Data Visualisation Trends in Mobile Augmented Reality Applications",
     "url": "https://doi.org/10.1145/2636240.2636864",
@@ -5098,7 +5098,7 @@
     "conference": "vinci",
     "id": 199
   },
-  "10.1145/2636240.2636869": {
+  "200": {
     "type": "research-article",
     "title": "Design of a Tangible Data Visualization",
     "url": "https://doi.org/10.1145/2636240.2636869",
@@ -5121,7 +5121,7 @@
     "conference": "vinci",
     "id": 200
   },
-  "10.1145/2636240.2636876": {
+  "201": {
     "type": "research-article",
     "title": "Facial Expression Generation in 3D Space",
     "url": "https://doi.org/10.1145/2636240.2636876",
@@ -5146,7 +5146,7 @@
     "conference": "vinci",
     "id": 201
   },
-  "10.1145/2636240.2636877": {
+  "202": {
     "type": "research-article",
     "title": "Comparative impression analysis between real and virtual human skins",
     "url": "https://doi.org/10.1145/2636240.2636877",
@@ -5172,7 +5172,7 @@
     "conference": "vinci",
     "id": 202
   },
-  "10.1145/2636240.2636878": {
+  "203": {
     "type": "research-article",
     "title": "An Android GPS-Based Navigation Application For Blind",
     "url": "https://doi.org/10.1145/2636240.2636878",
@@ -5199,7 +5199,7 @@
     "conference": "vinci",
     "id": 203
   },
-  "10.1145/2636240.2636875": {
+  "204": {
     "type": "research-article",
     "title": "A Feature Point Based Approach for Pose Variant Face Recognition",
     "url": "https://doi.org/10.1145/2636240.2636875",
@@ -5225,7 +5225,7 @@
     "conference": "vinci",
     "id": 204
   },
-  "10.1145/2636240.2636874": {
+  "205": {
     "type": "research-article",
     "title": "Semantic Human Activity Detection in Videos",
     "url": "https://doi.org/10.1145/2636240.2636874",
@@ -5250,7 +5250,7 @@
     "conference": "vinci",
     "id": 205
   },
-  "10.1145/2636240.2636872": {
+  "206": {
     "type": "research-article",
     "title": "Study on influence of the visibility in store lighting",
     "url": "https://doi.org/10.1145/2636240.2636872",
@@ -5274,7 +5274,7 @@
     "conference": "vinci",
     "id": 206
   },
-  "10.1145/2636240.2636873": {
+  "207": {
     "type": "research-article",
     "title": "Participatory Data Analytics: Collaborative Interfaces for Data Composition and Visualisation",
     "url": "https://doi.org/10.1145/2636240.2636873",
@@ -5298,7 +5298,7 @@
     "conference": "vinci",
     "id": 207
   },
-  "10.1145/2493102.2493103": {
+  "208": {
     "type": "research-article",
     "title": "Constructing collaborative services through augmented documents and objects",
     "url": "https://doi.org/10.1145/2493102.2493103",
@@ -5326,7 +5326,7 @@
     "conference": "vinci",
     "id": 208
   },
-  "10.1145/2493102.2493104": {
+  "209": {
     "type": "research-article",
     "title": "Multilevel interaction model for hierarchical tasks in information visualization",
     "url": "https://doi.org/10.1145/2493102.2493104",
@@ -5352,7 +5352,7 @@
     "conference": "vinci",
     "id": 209
   },
-  "10.1145/2493102.2493105": {
+  "210": {
     "type": "research-article",
     "title": "Visually modelling data intensive web applications to assist end-user development",
     "url": "https://doi.org/10.1145/2493102.2493105",
@@ -5380,7 +5380,7 @@
     "conference": "vinci",
     "id": 210
   },
-  "10.1145/2493102.2493106": {
+  "211": {
     "type": "research-article",
     "title": "A microstructure evolution visualization method based on neutrosophic set theory and cellular automaton technique",
     "url": "https://doi.org/10.1145/2493102.2493106",
@@ -5406,7 +5406,7 @@
     "conference": "vinci",
     "id": 211
   },
-  "10.1145/2493102.2493107": {
+  "212": {
     "type": "research-article",
     "title": "Intent-driven model synthesis",
     "url": "https://doi.org/10.1145/2493102.2493107",
@@ -5431,7 +5431,7 @@
     "conference": "vinci",
     "id": 212
   },
-  "10.1145/2493102.2493108": {
+  "213": {
     "type": "research-article",
     "title": "Visual analysis of retweeting propagation network in a microblogging platform",
     "url": "https://doi.org/10.1145/2493102.2493108",
@@ -5461,7 +5461,7 @@
     "conference": "vinci",
     "id": 213
   },
-  "10.1145/2493102.2493109": {
+  "214": {
     "type": "research-article",
     "title": "ERELT: a faster alternative to the list-based interfaces for tree exploration and searching in mobile devices",
     "url": "https://doi.org/10.1145/2493102.2493109",
@@ -5488,7 +5488,7 @@
     "conference": "vinci",
     "id": 214
   },
-  "10.1145/2493102.2493110": {
+  "215": {
     "type": "research-article",
     "title": "Time-space varying visual analysis of micro-blog sentiment",
     "url": "https://doi.org/10.1145/2493102.2493110",
@@ -5512,7 +5512,7 @@
     "conference": "vinci",
     "id": 215
   },
-  "10.1145/2493102.2493111": {
+  "216": {
     "type": "research-article",
     "title": "Culture influence on aesthetic perception of Chinese and western paintings: evidence from eye movement patterns",
     "url": "https://doi.org/10.1145/2493102.2493111",
@@ -5538,7 +5538,7 @@
     "conference": "vinci",
     "id": 216
   },
-  "10.1145/2493102.2493112": {
+  "217": {
     "type": "research-article",
     "title": "Visualizing large trees with divide & conquer partition",
     "url": "https://doi.org/10.1145/2493102.2493112",
@@ -5564,7 +5564,7 @@
     "conference": "vinci",
     "id": 217
   },
-  "10.1145/2493102.2493113": {
+  "218": {
     "type": "research-article",
     "title": "3DRC: a novel technique in evaluating stakeholders project views",
     "url": "https://doi.org/10.1145/2493102.2493113",
@@ -5589,7 +5589,7 @@
     "conference": "vinci",
     "id": 218
   },
-  "10.1145/2493102.2493114": {
+  "219": {
     "type": "research-article",
     "title": "A novel map-based visualization method based on liquid modelling",
     "url": "https://doi.org/10.1145/2493102.2493114",
@@ -5612,7 +5612,7 @@
     "conference": "vinci",
     "id": 219
   },
-  "10.1145/2493102.2493116": {
+  "220": {
     "type": "research-article",
     "title": "Euler diagram codes: interpretation and generation",
     "url": "https://doi.org/10.1145/2493102.2493116",
@@ -5641,7 +5641,7 @@
     "conference": "vinci",
     "id": 220
   },
-  "10.1145/2493102.2493118": {
+  "221": {
     "type": "research-article",
     "title": "Best view selection of 3D models based on unsupervised feature learning and discrimination ability",
     "url": "https://doi.org/10.1145/2493102.2493118",
@@ -5666,7 +5666,7 @@
     "conference": "vinci",
     "id": 221
   },
-  "10.1145/2493102.2493119": {
+  "222": {
     "type": "research-article",
     "title": "Visual and interactive analysis of a large collection of open data with the relative neighborhood graph",
     "url": "https://doi.org/10.1145/2493102.2493119",
@@ -5691,7 +5691,7 @@
     "conference": "vinci",
     "id": 222
   },
-  "10.1145/2493102.2493120": {
+  "223": {
     "type": "research-article",
     "title": "Exploring mapping-based visualisations of large remote image databases",
     "url": "https://doi.org/10.1145/2493102.2493120",
@@ -5715,7 +5715,7 @@
     "conference": "vinci",
     "id": 223
   },
-  "10.1145/2493102.2493121": {
+  "224": {
     "type": "research-article",
     "title": "A method of hierarchical time-series data visualization",
     "url": "https://doi.org/10.1145/2493102.2493121",
@@ -5740,7 +5740,7 @@
     "conference": "vinci",
     "id": 224
   },
-  "10.1145/2493102.2493122": {
+  "225": {
     "type": "research-article",
     "title": "Air pollution data visualization based on the shape of a tree",
     "url": "https://doi.org/10.1145/2493102.2493122",
@@ -5765,7 +5765,7 @@
     "conference": "vinci",
     "id": 225
   },
-  "10.1145/2493102.2493115": {
+  "226": {
     "type": "research-article",
     "title": "Demonstrating data using storyboard visualization tool",
     "url": "https://doi.org/10.1145/2493102.2493115",
@@ -5794,7 +5794,7 @@
     "conference": "vinci",
     "id": 226
   },
-  "10.1145/2493102.2499784": {
+  "227": {
     "type": "research-article",
     "title": "Interaction and evaluation techniques for information visualization: future directions",
     "url": "https://doi.org/10.1145/2493102.2499784",
@@ -5816,7 +5816,7 @@
     "conference": "vinci",
     "id": 227
   },
-  "10.1145/2493102.2499785": {
+  "228": {
     "type": "research-article",
     "title": "Interdisciplinary studies on information art & design",
     "url": "https://doi.org/10.1145/2493102.2499785",
@@ -5838,7 +5838,7 @@
     "conference": "vinci",
     "id": 228
   },
-  "10.1145/2493102.2499786": {
+  "229": {
     "type": "research-article",
     "title": "\"Big picture\": mixed-initiative visual analytics of big data",
     "url": "https://doi.org/10.1145/2493102.2499786",
@@ -5860,7 +5860,7 @@
     "conference": "vinci",
     "id": 229
   },
-  "10.1145/2493102.2499787": {
+  "230": {
     "type": "research-article",
     "title": "Visualisation of large image collections",
     "url": "https://doi.org/10.1145/2493102.2499787",
@@ -5882,7 +5882,7 @@
     "conference": "vinci",
     "id": 230
   },
-  "10.1145/2397696.2397697": {
+  "231": {
     "type": "research-article",
     "title": "A fast texture-by-numbers synthesis method based on texture optimization",
     "url": "https://doi.org/10.1145/2397696.2397697",
@@ -5907,7 +5907,7 @@
     "conference": "vinci",
     "id": 231
   },
-  "10.1145/2397696.2397698": {
+  "232": {
     "type": "research-article",
     "title": "A real-time visualization framework for IDS alerts",
     "url": "https://doi.org/10.1145/2397696.2397698",
@@ -5931,7 +5931,7 @@
     "conference": "vinci",
     "id": 232
   },
-  "10.1145/2397696.2397699": {
+  "233": {
     "type": "research-article",
     "title": "The shape coordinates system in visualization space",
     "url": "https://doi.org/10.1145/2397696.2397699",
@@ -5956,7 +5956,7 @@
     "conference": "vinci",
     "id": 233
   },
-  "10.1145/2397696.2397700": {
+  "234": {
     "type": "research-article",
     "title": "VISA: a visual sentiment analysis system",
     "url": "https://doi.org/10.1145/2397696.2397700",
@@ -5987,7 +5987,7 @@
     "conference": "vinci",
     "id": 234
   },
-  "10.1145/2397696.2397701": {
+  "235": {
     "type": "research-article",
     "title": "Visualizing disease incidence in the context of socioeconomic factors",
     "url": "https://doi.org/10.1145/2397696.2397701",
@@ -6011,7 +6011,7 @@
     "conference": "vinci",
     "id": 235
   },
-  "10.1145/2397696.2397702": {
+  "236": {
     "type": "research-article",
     "title": "NewsVAT: an interactive visual analytics tool for news exploration",
     "url": "https://doi.org/10.1145/2397696.2397702",
@@ -6037,7 +6037,7 @@
     "conference": "vinci",
     "id": 236
   },
-  "10.1145/2397696.2397703": {
+  "237": {
     "type": "research-article",
     "title": "Timeseer: detecting interesting distributions in multiple time series data",
     "url": "https://doi.org/10.1145/2397696.2397703",
@@ -6060,7 +6060,7 @@
     "conference": "vinci",
     "id": 237
   },
-  "10.1145/2397696.2397704": {
+  "238": {
     "type": "research-article",
     "title": "Generating time lines with virtual words for time-varying data visualization",
     "url": "https://doi.org/10.1145/2397696.2397704",
@@ -6087,7 +6087,7 @@
     "conference": "vinci",
     "id": 238
   },
-  "10.1145/2397696.2397705": {
+  "239": {
     "type": "research-article",
     "title": "TabuVis: a light weight visual analytics system for multidimensional data",
     "url": "https://doi.org/10.1145/2397696.2397705",
@@ -6119,7 +6119,7 @@
     "conference": "vinci",
     "id": 239
   },
-  "10.1145/2397696.2397706": {
+  "240": {
     "type": "research-article",
     "title": "ExtractVis: dynamic visualization of extracting multidimensional data",
     "url": "https://doi.org/10.1145/2397696.2397706",
@@ -6148,7 +6148,7 @@
     "conference": "vinci",
     "id": 240
   },
-  "10.1145/2397696.2397707": {
+  "241": {
     "type": "research-article",
     "title": "Continuous awareness: a visual mobile approach",
     "url": "https://doi.org/10.1145/2397696.2397707",
@@ -6174,7 +6174,7 @@
     "conference": "vinci",
     "id": 241
   },
-  "10.1145/2397696.2397708": {
+  "242": {
     "type": "research-article",
     "title": "Feeling the pulse of a wiki: visualization of recent changes in Wikipedia",
     "url": "https://doi.org/10.1145/2397696.2397708",
@@ -6197,7 +6197,7 @@
     "conference": "vinci",
     "id": 242
   },
-  "10.1145/2397696.2397709": {
+  "243": {
     "type": "research-article",
     "title": "Image-based irregular needling embroidery rendering",
     "url": "https://doi.org/10.1145/2397696.2397709",
@@ -6222,7 +6222,7 @@
     "conference": "vinci",
     "id": 243
   },
-  "10.1145/2397696.2397710": {
+  "244": {
     "type": "research-article",
     "title": "Evaluation of co-located and distributed collaborative visualization",
     "url": "https://doi.org/10.1145/2397696.2397710",
@@ -6250,7 +6250,7 @@
     "conference": "vinci",
     "id": 244
   },
-  "10.1145/2397696.2397711": {
+  "245": {
     "type": "research-article",
     "title": "Assessing user experience of interactive products: a Chinese questionnaire",
     "url": "https://doi.org/10.1145/2397696.2397711",
@@ -6277,7 +6277,7 @@
     "conference": "vinci",
     "id": 245
   },
-  "10.1145/2397696.2397712": {
+  "246": {
     "type": "research-article",
     "title": "An aggregation-based approach to quality evaluation of graph drawings",
     "url": "https://doi.org/10.1145/2397696.2397712",
@@ -6305,7 +6305,7 @@
     "conference": "vinci",
     "id": 246
   },
-  "10.1145/2016656.2016657": {
+  "247": {
     "type": "research-article",
     "title": "Designing visual analytics systems for organizational environments",
     "url": "https://doi.org/10.1145/2016656.2016657",
@@ -6335,7 +6335,7 @@
     "conference": "vinci",
     "id": 247
   },
-  "10.1145/2016656.2016658": {
+  "248": {
     "type": "research-article",
     "title": "Visualization of large category hierarchies",
     "url": "https://doi.org/10.1145/2016656.2016658",
@@ -6359,7 +6359,7 @@
     "conference": "vinci",
     "id": 248
   },
-  "10.1145/2016656.2016659": {
+  "249": {
     "type": "research-article",
     "title": "A visual analysis tool that smoothly switches between tabular forms and parallel coordinates",
     "url": "https://doi.org/10.1145/2016656.2016659",
@@ -6382,7 +6382,7 @@
     "conference": "vinci",
     "id": 249
   },
-  "10.1145/2016656.2016660": {
+  "250": {
     "type": "research-article",
     "title": "A hyperbolic tree based interface for exploring massive files",
     "url": "https://doi.org/10.1145/2016656.2016660",
@@ -6410,7 +6410,7 @@
     "conference": "vinci",
     "id": 250
   },
-  "10.1145/2016656.2016661": {
+  "251": {
     "type": "research-article",
     "title": "MusiCube: a visual music recommendation system featuring interactive evolutionary computing",
     "url": "https://doi.org/10.1145/2016656.2016661",
@@ -6433,7 +6433,7 @@
     "conference": "vinci",
     "id": 251
   },
-  "10.1145/2016656.2016662": {
+  "252": {
     "type": "research-article",
     "title": "Support of self-management for chronic kidney failure patients",
     "url": "https://doi.org/10.1145/2016656.2016662",
@@ -6460,7 +6460,7 @@
     "conference": "vinci",
     "id": 252
   },
-  "10.1145/2016656.2016663": {
+  "253": {
     "type": "research-article",
     "title": "Geo-tagged mobile photo sharing in collaborative emergency management",
     "url": "https://doi.org/10.1145/2016656.2016663",
@@ -6484,7 +6484,7 @@
     "conference": "vinci",
     "id": 253
   },
-  "10.1145/2016656.2016664": {
+  "254": {
     "type": "research-article",
     "title": "Empirical studies of pen tilting performance in pen-based user interfaces",
     "url": "https://doi.org/10.1145/2016656.2016664",
@@ -6515,7 +6515,7 @@
     "conference": "vinci",
     "id": 254
   },
-  "10.1145/2016656.2016665": {
+  "255": {
     "type": "research-article",
     "title": "Controlled dataflow visual programming languages",
     "url": "https://doi.org/10.1145/2016656.2016665",
@@ -6538,7 +6538,7 @@
     "conference": "vinci",
     "id": 255
   },
-  "10.1145/2016656.2016666": {
+  "256": {
     "type": "research-article",
     "title": "Visualizing inference process of a rule engine",
     "url": "https://doi.org/10.1145/2016656.2016666",
@@ -6562,7 +6562,7 @@
     "conference": "vinci",
     "id": 256
   },
-  "10.1145/2016656.2016667": {
+  "257": {
     "type": "research-article",
     "title": "Coaxial interactive viewer: a multi-dimensional data visualization with spatial distortional views",
     "url": "https://doi.org/10.1145/2016656.2016667",
@@ -6591,7 +6591,7 @@
     "conference": "vinci",
     "id": 257
   },
-  "10.1145/2016656.2016668": {
+  "258": {
     "type": "research-article",
     "title": "InfoShape: high-level views of multidimensional information",
     "url": "https://doi.org/10.1145/2016656.2016668",
@@ -6614,7 +6614,7 @@
     "conference": "vinci",
     "id": 258
   },
-  "10.1145/2016656.2016669": {
+  "259": {
     "type": "research-article",
     "title": "Visual analysis of people's mobility pattern from mobile phone data",
     "url": "https://doi.org/10.1145/2016656.2016669",
@@ -6641,7 +6641,7 @@
     "conference": "vinci",
     "id": 259
   },
-  "10.1145/2016656.2016670": {
+  "260": {
     "type": "research-article",
     "title": "A graph-based fuzzy linguistic metadata schema for describing spatial relationships",
     "url": "https://doi.org/10.1145/2016656.2016670",
@@ -6664,7 +6664,7 @@
     "conference": "vinci",
     "id": 260
   },
-  "10.1145/2016656.2016671": {
+  "261": {
     "type": "research-article",
     "title": "SFViz: interest-based friends exploration and recommendation in social networks",
     "url": "https://doi.org/10.1145/2016656.2016671",
@@ -6693,7 +6693,7 @@
     "conference": "vinci",
     "id": 261
   },
-  "10.1145/2016656.2016672": {
+  "262": {
     "type": "research-article",
     "title": "Visual signatures for financial time series",
     "url": "https://doi.org/10.1145/2016656.2016672",
@@ -6716,7 +6716,7 @@
     "conference": "vinci",
     "id": 262
   },
-  "10.1145/1865841.1865843": {
+  "263": {
     "type": "keynote",
     "title": "Beyond the interface: a distributed cognition perspective",
     "url": "https://doi.org/10.1145/1865841.1865843",
@@ -6738,7 +6738,7 @@
     "conference": "vinci",
     "id": 263
   },
-  "10.1145/1865841.1865844": {
+  "264": {
     "type": "keynote",
     "title": "The promise of zoomable user interfaces",
     "url": "https://doi.org/10.1145/1865841.1865844",
@@ -6760,7 +6760,7 @@
     "conference": "vinci",
     "id": 264
   },
-  "10.1145/1865841.1865845": {
+  "265": {
     "type": "keynote",
     "title": "Browsing a highly connected information space: can natural language processing help?",
     "url": "https://doi.org/10.1145/1865841.1865845",
@@ -6782,7 +6782,7 @@
     "conference": "vinci",
     "id": 265
   },
-  "10.1145/1865841.1865846": {
+  "266": {
     "type": "keynote",
     "title": "2D and 3D conceptual design sketching: interface, modelling and progress",
     "url": "https://doi.org/10.1145/1865841.1865846",
@@ -6804,7 +6804,7 @@
     "conference": "vinci",
     "id": 266
   },
-  "10.1145/1865841.1865848": {
+  "267": {
     "type": "research-article",
     "title": "Difference of inflow and outflow based 3D streamline placement",
     "url": "https://doi.org/10.1145/1865841.1865848",
@@ -6829,7 +6829,7 @@
     "conference": "vinci",
     "id": 267
   },
-  "10.1145/1865841.1865849": {
+  "268": {
     "type": "research-article",
     "title": "The research of the regional pollutant concentration visualization based on the particles",
     "url": "https://doi.org/10.1145/1865841.1865849",
@@ -6855,7 +6855,7 @@
     "conference": "vinci",
     "id": 268
   },
-  "10.1145/1865841.1865850": {
+  "269": {
     "type": "research-article",
     "title": "Simulating self-organizing behaviors of fish school",
     "url": "https://doi.org/10.1145/1865841.1865850",
@@ -6878,7 +6878,7 @@
     "conference": "vinci",
     "id": 269
   },
-  "10.1145/1865841.1865852": {
+  "270": {
     "type": "research-article",
     "title": "Visualization of BP neural network using parallel coordinates",
     "url": "https://doi.org/10.1145/1865841.1865852",
@@ -6900,7 +6900,7 @@
     "conference": "vinci",
     "id": 270
   },
-  "10.1145/1865841.1865853": {
+  "271": {
     "type": "research-article",
     "title": "Column-based cluster and bar axis density in parallel coordinates",
     "url": "https://doi.org/10.1145/1865841.1865853",
@@ -6925,7 +6925,7 @@
     "conference": "vinci",
     "id": 271
   },
-  "10.1145/1865841.1865854": {
+  "272": {
     "type": "research-article",
     "title": "Exploring the relative importance of crossing number and crossing angle",
     "url": "https://doi.org/10.1145/1865841.1865854",
@@ -6949,7 +6949,7 @@
     "conference": "vinci",
     "id": 272
   },
-  "10.1145/1865841.1865856": {
+  "273": {
     "type": "research-article",
     "title": "Semantic comparison of structured visual dataflow programs",
     "url": "https://doi.org/10.1145/1865841.1865856",
@@ -6972,7 +6972,7 @@
     "conference": "vinci",
     "id": 273
   },
-  "10.1145/1865841.1865857": {
+  "274": {
     "type": "research-article",
     "title": "A model driven visualization platform for workflow",
     "url": "https://doi.org/10.1145/1865841.1865857",
@@ -6996,7 +6996,7 @@
     "conference": "vinci",
     "id": 274
   },
-  "10.1145/1865841.1865858": {
+  "275": {
     "type": "research-article",
     "title": "Process visualization to solve the travelling salesman problem",
     "url": "https://doi.org/10.1145/1865841.1865858",
@@ -7019,7 +7019,7 @@
     "conference": "vinci",
     "id": 275
   },
-  "10.1145/1865841.1865860": {
+  "276": {
     "type": "research-article",
     "title": "A developing framework for interactive temporal data visualization",
     "url": "https://doi.org/10.1145/1865841.1865860",
@@ -7046,7 +7046,7 @@
     "conference": "vinci",
     "id": 276
   },
-  "10.1145/1865841.1865861": {
+  "277": {
     "type": "research-article",
     "title": "Cooperative concept map based on cognitive model for visual analysis",
     "url": "https://doi.org/10.1145/1865841.1865861",
@@ -7071,7 +7071,7 @@
     "conference": "vinci",
     "id": 277
   },
-  "10.1145/1865841.1865862": {
+  "278": {
     "type": "research-article",
     "title": "Interactive visualization with user perspective: a new concept",
     "url": "https://doi.org/10.1145/1865841.1865862",
@@ -7096,7 +7096,7 @@
     "conference": "vinci",
     "id": 278
   },
-  "10.1145/1865841.1865864": {
+  "279": {
     "type": "research-article",
     "title": "Harvesting discourse strategies for rapid prototyping of tailored information delivery systems",
     "url": "https://doi.org/10.1145/1865841.1865864",
@@ -7119,7 +7119,7 @@
     "conference": "vinci",
     "id": 279
   },
-  "10.1145/1865841.1865865": {
+  "280": {
     "type": "research-article",
     "title": "TagNetLens: multiscale visualization of knowledge structures in social tags",
     "url": "https://doi.org/10.1145/1865841.1865865",
@@ -7144,7 +7144,7 @@
     "conference": "vinci",
     "id": 280
   },
-  "10.1145/1865841.1865866": {
+  "281": {
     "type": "research-article",
     "title": "Visually searching the web for structural content",
     "url": "https://doi.org/10.1145/1865841.1865866",
@@ -7167,7 +7167,7 @@
     "conference": "vinci",
     "id": 281
   },
-  "10.1145/1865841.1865868": {
+  "282": {
     "type": "research-article",
     "title": "A visual analytics system for financial time-series data",
     "url": "https://doi.org/10.1145/1865841.1865868",
@@ -7190,7 +7190,7 @@
     "conference": "vinci",
     "id": 282
   },
-  "10.1145/1865841.1865869": {
+  "283": {
     "type": "research-article",
     "title": "Event-based approach to money laundering data analysis and visualization",
     "url": "https://doi.org/10.1145/1865841.1865869",
@@ -7213,7 +7213,7 @@
     "conference": "vinci",
     "id": 283
   },
-  "10.1145/1865841.1865870": {
+  "284": {
     "type": "research-article",
     "title": "An interactive sensemaking framework for mobile visual analytics",
     "url": "https://doi.org/10.1145/1865841.1865870",
@@ -7237,7 +7237,7 @@
     "conference": "vinci",
     "id": 284
   },
-  "10.1145/3554944.3554948": {
+  "285": {
     "type": "research-article",
     "title": "How Students Design Visual Interfaces for Information Visualization Tools",
     "url": "https://doi.org/10.1145/3554944.3554948",
@@ -7259,7 +7259,7 @@
     "conference": "vinci",
     "id": 285
   },
-  "10.1145/3554944.3554949": {
+  "286": {
     "type": "research-article",
     "title": "Abstract and Concrete Materials: What to use for Visualization Onboarding for a Treemap Visualization?",
     "url": "https://doi.org/10.1145/3554944.3554949",
@@ -7283,7 +7283,7 @@
     "conference": "vinci",
     "id": 286
   },
-  "10.1145/3554944.3554950": {
+  "287": {
     "type": "research-article",
     "title": "Content-Driven Layout for Visualization Design",
     "url": "https://doi.org/10.1145/3554944.3554950",
@@ -7307,7 +7307,7 @@
     "conference": "vinci",
     "id": 287
   },
-  "10.1145/3554944.3554951": {
+  "288": {
     "type": "research-article",
     "title": "A Comparative Study of Color Between Abstract Paintings, Oil Paintings and Chinese Ink Paintings",
     "url": "https://doi.org/10.1145/3554944.3554951",
@@ -7339,7 +7339,7 @@
     "conference": "vinci",
     "id": 288
   },
-  "10.1145/3554944.3554952": {
+  "289": {
     "type": "research-article",
     "title": "Gaze-Guided Class Activation Mapping: Leverage Human Visual Attention for Network Attention in Chest X-rays Classification",
     "url": "https://doi.org/10.1145/3554944.3554952",
@@ -7363,7 +7363,7 @@
     "conference": "vinci",
     "id": 289
   },
-  "10.1145/3554944.3554953": {
+  "290": {
     "type": "short-paper",
     "title": "Conditions of Preserving Mental Images by Contour Deformation",
     "url": "https://doi.org/10.1145/3554944.3554953",
@@ -7385,7 +7385,7 @@
     "conference": "vinci",
     "id": 290
   },
-  "10.1145/3554944.3554971": {
+  "291": {
     "type": "research-article",
     "title": "Group Diagrams for Simplified Representation of Scanpaths",
     "url": "https://doi.org/10.1145/3554944.3554971",
@@ -7411,7 +7411,7 @@
     "conference": "vinci",
     "id": 291
   },
-  "10.1145/3554944.3554947": {
+  "292": {
     "type": "research-article",
     "title": "Accelerating GPU Rendering of 2D Visualizations Using Resolution Scaling and Temporal Reconstruction",
     "url": "https://doi.org/10.1145/3554944.3554947",
@@ -7438,7 +7438,7 @@
     "conference": "vinci",
     "id": 292
   },
-  "10.1145/3554944.3554945": {
+  "293": {
     "type": "research-article",
     "title": "Animated Transitions for Small-Scale Visualizations",
     "url": "https://doi.org/10.1145/3554944.3554945",
@@ -7463,7 +7463,7 @@
     "conference": "vinci",
     "id": 293
   },
-  "10.1145/3554944.3554957": {
+  "294": {
     "type": "research-article",
     "title": "LegisLatio: A visualization Tool for Legislative Roll-call Vote Data",
     "url": "https://doi.org/10.1145/3554944.3554957",
@@ -7487,7 +7487,7 @@
     "conference": "vinci",
     "id": 294
   },
-  "10.1145/3554944.3554958": {
+  "295": {
     "type": "short-paper",
     "title": "ICEVis: Interactive Clustering Exploration for tumor sub-region analysis in multiparametric cancer imaging",
     "url": "https://doi.org/10.1145/3554944.3554958",
@@ -7514,7 +7514,7 @@
     "conference": "vinci",
     "id": 295
   },
-  "10.1145/3554944.3554959": {
+  "296": {
     "type": "short-paper",
     "title": "Visual Analysis of Spatio-Temporal Earthquake Events",
     "url": "https://doi.org/10.1145/3554944.3554959",
@@ -7540,7 +7540,7 @@
     "conference": "vinci",
     "id": 296
   },
-  "10.1145/3554944.3554954": {
+  "297": {
     "type": "research-article",
     "title": "Investigation of Two Complexity Sources for Statistical Graphs",
     "url": "https://doi.org/10.1145/3554944.3554954",
@@ -7563,7 +7563,7 @@
     "conference": "vinci",
     "id": 297
   },
-  "10.1145/3554944.3554970": {
+  "298": {
     "type": "short-paper",
     "title": "Toward In-Situ Authoring of Situated Visualization with Chorded Keyboards",
     "url": "https://doi.org/10.1145/3554944.3554970",
@@ -7592,7 +7592,7 @@
     "conference": "vinci",
     "id": 298
   },
-  "10.1145/3554944.3554956": {
+  "299": {
     "type": "short-paper",
     "title": "MolecuSense: Using Force-Feedback Gloves for Creating and Interacting with Ball-and-Stick Molecules in VR",
     "url": "https://doi.org/10.1145/3554944.3554956",
@@ -7617,7 +7617,7 @@
     "conference": "vinci",
     "id": 299
   },
-  "10.1145/3554944.3554960": {
+  "300": {
     "type": "poster",
     "title": "Visual Similarity Analysis of Geospatial Properties for Swiss Municipalities",
     "url": "https://doi.org/10.1145/3554944.3554960",
@@ -7642,7 +7642,7 @@
     "conference": "vinci",
     "id": 300
   },
-  "10.1145/3554944.3554961": {
+  "301": {
     "type": "poster",
     "title": "A Benchmark for the Use of Topic Models for Text Visualization Tasks",
     "url": "https://doi.org/10.1145/3554944.3554961",
@@ -7669,7 +7669,7 @@
     "conference": "vinci",
     "id": 301
   },
-  "10.1145/3554944.3554962": {
+  "302": {
     "type": "poster",
     "title": "Pi-Experience – Making 62.8 Trillion Digits Come Alive",
     "url": "https://doi.org/10.1145/3554944.3554962",
@@ -7693,7 +7693,7 @@
     "conference": "vinci",
     "id": 302
   },
-  "10.1145/3554944.3554963": {
+  "303": {
     "type": "poster",
     "title": "An Inertial Representation of Search Results",
     "url": "https://doi.org/10.1145/3554944.3554963",
@@ -7717,7 +7717,7 @@
     "conference": "vinci",
     "id": 303
   },
-  "10.1145/3554944.3554964": {
+  "304": {
     "type": "poster",
     "title": "Investigating Color-Object Associations With Eye Tracking",
     "url": "https://doi.org/10.1145/3554944.3554964",
@@ -7747,7 +7747,7 @@
     "conference": "vinci",
     "id": 304
   },
-  "10.1145/3554944.3554965": {
+  "305": {
     "type": "poster",
     "title": "Improving data monitoring systems in biosphere reserves",
     "url": "https://doi.org/10.1145/3554944.3554965",
@@ -7771,7 +7771,7 @@
     "conference": "vinci",
     "id": 305
   },
-  "10.1145/3554944.3554966": {
+  "306": {
     "type": "poster",
     "title": "Explorative Data Analysis of the Number Pi",
     "url": "https://doi.org/10.1145/3554944.3554966",
@@ -7796,7 +7796,7 @@
     "conference": "vinci",
     "id": 306
   },
-  "10.1145/3430036.3430067": {
+  "307": {
     "type": "short-paper",
     "title": "Machine learning interpretability through contribution-value plots",
     "url": "https://doi.org/10.1145/3430036.3430067",
@@ -7819,7 +7819,7 @@
     "conference": "vinci",
     "id": 307
   },
-  "10.1145/3430036.3430060": {
+  "308": {
     "type": "research-article",
     "title": "Cluster-clean-label: an interactive machine learning approach for labeling high-dimensional data",
     "url": "https://doi.org/10.1145/3430036.3430060",
@@ -7842,7 +7842,7 @@
     "conference": "vinci",
     "id": 308
   },
-  "10.1145/3430036.3430058": {
+  "309": {
     "type": "research-article",
     "title": "The machine learning model as a guide: pointing users to interesting instances for labeling through visual cues",
     "url": "https://doi.org/10.1145/3430036.3430058",
@@ -7865,7 +7865,7 @@
     "conference": "vinci",
     "id": 309
   },
-  "10.1145/3430036.3430053": {
+  "310": {
     "type": "research-article",
     "title": "Visualizing dynamic graphs with heat triangles",
     "url": "https://doi.org/10.1145/3430036.3430053",
@@ -7889,7 +7889,7 @@
     "conference": "vinci",
     "id": 310
   },
-  "10.1145/3430036.3430065": {
+  "311": {
     "type": "research-article",
     "title": "A visualization of family relations inspired by the London metro map",
     "url": "https://doi.org/10.1145/3430036.3430065",
@@ -7914,7 +7914,7 @@
     "conference": "vinci",
     "id": 311
   },
-  "10.1145/3430036.3430052": {
+  "312": {
     "type": "research-article",
     "title": "eDBLP: visualizing scientific publications",
     "url": "https://doi.org/10.1145/3430036.3430052",
@@ -7941,7 +7941,7 @@
     "conference": "vinci",
     "id": 312
   },
-  "10.1145/3430036.3430050": {
+  "313": {
     "type": "research-article",
     "title": "Visualization of nonlinear programming for robot motion planning",
     "url": "https://doi.org/10.1145/3430036.3430050",
@@ -7968,7 +7968,7 @@
     "conference": "vinci",
     "id": 313
   },
-  "10.1145/3430036.3430038": {
+  "314": {
     "type": "research-article",
     "title": "Comparative visual gaze analysis for virtual board games",
     "url": "https://doi.org/10.1145/3430036.3430038",
@@ -8000,7 +8000,7 @@
     "conference": "vinci",
     "id": 314
   },
-  "10.1145/3430036.3430059": {
+  "315": {
     "type": "research-article",
     "title": "Context-aware placement of items with gaze-based interaction",
     "url": "https://doi.org/10.1145/3430036.3430059",
@@ -8027,7 +8027,7 @@
     "conference": "vinci",
     "id": 315
   },
-  "10.1145/3430036.3430061": {
+  "316": {
     "type": "research-article",
     "title": "PasVis: enhancing public transport maps with interactive passenger data visualizations",
     "url": "https://doi.org/10.1145/3430036.3430061",
@@ -8058,7 +8058,7 @@
     "conference": "vinci",
     "id": 316
   },
-  "10.1145/3430036.3430042": {
+  "317": {
     "type": "research-article",
     "title": "Exploring vibrotactile cues for interactive guidance in data visualization",
     "url": "https://doi.org/10.1145/3430036.3430042",
@@ -8081,7 +8081,7 @@
     "conference": "vinci",
     "id": 317
   },
-  "10.1145/3430036.3430066": {
+  "318": {
     "type": "short-paper",
     "title": "XplainableClusterExplorer: a novel approach for interactive feature selection for clustering",
     "url": "https://doi.org/10.1145/3430036.3430066",
@@ -8105,7 +8105,7 @@
     "conference": "vinci",
     "id": 318
   },
-  "10.1145/3430036.3430043": {
+  "319": {
     "type": "research-article",
     "title": "Voronoier: from images to Voronoi diagrams",
     "url": "https://doi.org/10.1145/3430036.3430043",
@@ -8130,7 +8130,7 @@
     "conference": "vinci",
     "id": 319
   },
-  "10.1145/3430036.3430056": {
+  "320": {
     "type": "short-paper",
     "title": "Tools for developing color ramps for representing quantitative data",
     "url": "https://doi.org/10.1145/3430036.3430056",
@@ -8152,7 +8152,7 @@
     "conference": "vinci",
     "id": 320
   },
-  "10.1145/3430036.3430049": {
+  "321": {
     "type": "short-paper",
     "title": "Comparing dimensionality reductions for eye movement data",
     "url": "https://doi.org/10.1145/3430036.3430049",
@@ -8177,7 +8177,7 @@
     "conference": "vinci",
     "id": 321
   },
-  "10.1145/3430036.3430071": {
+  "322": {
     "type": "short-paper",
     "title": "Revisiting common pitfalls in graphical representations utilizing a case-based learning approach",
     "url": "https://doi.org/10.1145/3430036.3430071",
@@ -8201,7 +8201,7 @@
     "conference": "vinci",
     "id": 322
   },
-  "10.1145/3430036.3430047": {
+  "323": {
     "type": "short-paper",
     "title": "Inner-process visualization of hidden states in recurrent neural networks",
     "url": "https://doi.org/10.1145/3430036.3430047",
@@ -8224,7 +8224,7 @@
     "conference": "vinci",
     "id": 323
   },
-  "10.1145/3430036.3430045": {
+  "324": {
     "type": "research-article",
     "title": "2.5D dust & magnet visualization for large multivariate data",
     "url": "https://doi.org/10.1145/3430036.3430045",
@@ -8247,7 +8247,7 @@
     "conference": "vinci",
     "id": 324
   },
-  "10.1145/3430036.3430070": {
+  "325": {
     "type": "short-paper",
     "title": "Visual analysis of video recorded dinghy sailing sessions",
     "url": "https://doi.org/10.1145/3430036.3430070",
@@ -8273,7 +8273,7 @@
     "conference": "vinci",
     "id": 325
   },
-  "10.1145/3430036.3430044": {
+  "326": {
     "type": "short-paper",
     "title": "VizWick: a multiperspective view of hierarchical data",
     "url": "https://doi.org/10.1145/3430036.3430044",
@@ -8302,7 +8302,7 @@
     "conference": "vinci",
     "id": 326
   },
-  "10.1145/3430036.3430069": {
+  "327": {
     "type": "short-paper",
     "title": "A scalable \"exploranation\" technique for hierarchically indexed table data",
     "url": "https://doi.org/10.1145/3430036.3430069",
@@ -8327,7 +8327,7 @@
     "conference": "vinci",
     "id": 327
   },
-  "10.1145/3430036.3430064": {
+  "328": {
     "type": "Article",
     "title": "Guiding graph exploration by combining layouts and reorderings",
     "url": "https://doi.org/10.1145/3430036.3430064",
@@ -8355,7 +8355,7 @@
     "conference": "vinci",
     "id": 328
   },
-  "10.1145/3430036.3430068": {
+  "329": {
     "type": "poster",
     "title": "A fast method for detecting minority structures in a graph",
     "url": "https://doi.org/10.1145/3430036.3430068",
@@ -8383,7 +8383,7 @@
     "conference": "vinci",
     "id": 329
   },
-  "10.1145/3430036.3430063": {
+  "330": {
     "type": "poster",
     "title": "Leveraging aesthetic expression in visualization to communicate positive facts during COVID-19 pandemic",
     "url": "https://doi.org/10.1145/3430036.3430063",
@@ -8407,7 +8407,7 @@
     "conference": "vinci",
     "id": 330
   },
-  "10.1145/3430036.3432753": {
+  "331": {
     "type": "poster",
     "title": "Depicting uncertainty in 2.5D treemaps",
     "url": "https://doi.org/10.1145/3430036.3432753",
@@ -8431,7 +8431,7 @@
     "conference": "vinci",
     "id": 331
   },
-  "10.1145/3430036.3430057": {
+  "332": {
     "type": "poster",
     "title": "Visualization of contributions to open-source projects",
     "url": "https://doi.org/10.1145/3430036.3430057",
@@ -8453,7 +8453,7 @@
     "conference": "vinci",
     "id": 332
   },
-  "10.1145/3430036.3430072": {
+  "333": {
     "type": "short-paper",
     "title": "ScagnosticsViewer: tracking time series patterns via scagnostics meatures",
     "url": "https://doi.org/10.1145/3430036.3430072",
@@ -8481,7 +8481,7 @@
     "conference": "vinci",
     "id": 333
   },
-  "10.1145/3430036.3430073": {
+  "334": {
     "type": "short-paper",
     "title": "Subsyst simulator: an interactive infographic for knowledge transfer",
     "url": "https://doi.org/10.1145/3430036.3430073",
@@ -8505,7 +8505,7 @@
     "conference": "vinci",
     "id": 334
   },
-  "10.1145/3356422.3356446": {
+  "335": {
     "type": "research-article",
     "title": "Frequent Pattern-based Graph Exploration",
     "url": "https://doi.org/10.1145/3356422.3356446",
@@ -8530,7 +8530,7 @@
     "conference": "vinci",
     "id": 335
   },
-  "10.1145/3356422.3356426": {
+  "336": {
     "type": "research-article",
     "title": "Evaluation of a novel visualization for dynamic social networks",
     "url": "https://doi.org/10.1145/3356422.3356426",
@@ -8555,7 +8555,7 @@
     "conference": "vinci",
     "id": 336
   },
-  "10.1145/3356422.3356431": {
+  "337": {
     "type": "short-paper",
     "title": "Multidimensional Traffic State Discrimination Based on Floating Car Data",
     "url": "https://doi.org/10.1145/3356422.3356431",
@@ -8580,7 +8580,7 @@
     "conference": "vinci",
     "id": 337
   },
-  "10.1145/3356422.3356425": {
+  "338": {
     "type": "short-paper",
     "title": "Web-based Visualization of Transportation Networks for Mobility Analytics",
     "url": "https://doi.org/10.1145/3356422.3356425",
@@ -8607,7 +8607,7 @@
     "conference": "vinci",
     "id": 338
   },
-  "10.1145/3356422.3356423": {
+  "339": {
     "type": "research-article",
     "title": "EyeClouds: A Visualization and Analysis Tool for Exploring Eye Movement Data",
     "url": "https://doi.org/10.1145/3356422.3356423",
@@ -8631,7 +8631,7 @@
     "conference": "vinci",
     "id": 339
   },
-  "10.1145/3356422.3356450": {
+  "340": {
     "type": "short-paper",
     "title": "TEAMwISE: Synchronised Immersive Environments for Exploration and Analysis of Movement Data",
     "url": "https://doi.org/10.1145/3356422.3356450",
@@ -8660,7 +8660,7 @@
     "conference": "vinci",
     "id": 340
   },
-  "10.1145/3356422.3356424": {
+  "341": {
     "type": "short-paper",
     "title": "Underwater Frogman Situational Awareness and AR Helmet Display and Control System",
     "url": "https://doi.org/10.1145/3356422.3356424",
@@ -8684,7 +8684,7 @@
     "conference": "vinci",
     "id": 341
   },
-  "10.1145/3356422.3356444": {
+  "342": {
     "type": "research-article",
     "title": "Advanced Visual Metaphors and Techniques for Software Maps",
     "url": "https://doi.org/10.1145/3356422.3356444",
@@ -8709,7 +8709,7 @@
     "conference": "vinci",
     "id": 342
   },
-  "10.1145/3356422.3356430": {
+  "343": {
     "type": "research-article",
     "title": "VIStory: Interactive Storyboard for Exploring Visual Information in Scientific Publications",
     "url": "https://doi.org/10.1145/3356422.3356430",
@@ -8735,7 +8735,7 @@
     "conference": "vinci",
     "id": 343
   },
-  "10.1145/3356422.3356449": {
+  "344": {
     "type": "short-paper",
     "title": "How to Improve Semantics Understanding of Word Clouds",
     "url": "https://doi.org/10.1145/3356422.3356449",
@@ -8767,7 +8767,7 @@
     "conference": "vinci",
     "id": 344
   },
-  "10.1145/3356422.3356441": {
+  "345": {
     "type": "short-paper",
     "title": "Keyword Analysis Visualization for Chinese Historical Texts",
     "url": "https://doi.org/10.1145/3356422.3356441",
@@ -8793,7 +8793,7 @@
     "conference": "vinci",
     "id": 345
   },
-  "10.1145/3356422.3356429": {
+  "346": {
     "type": "research-article",
     "title": "Visual Analysis of Retailing Store Location Selection",
     "url": "https://doi.org/10.1145/3356422.3356429",
@@ -8825,7 +8825,7 @@
     "conference": "vinci",
     "id": 346
   },
-  "10.1145/3356422.3356435": {
+  "347": {
     "type": "research-article",
     "title": "Visual Analytics for Cheetah Behaviour Analysis",
     "url": "https://doi.org/10.1145/3356422.3356435",
@@ -8854,7 +8854,7 @@
     "conference": "vinci",
     "id": 347
   },
-  "10.1145/3356422.3356447": {
+  "348": {
     "type": "research-article",
     "title": "Teaching and Evaluating Collaborative Group Work in Large Visualization Courses",
     "url": "https://doi.org/10.1145/3356422.3356447",
@@ -8877,7 +8877,7 @@
     "conference": "vinci",
     "id": 348
   },
-  "10.1145/3356422.3356427": {
+  "349": {
     "type": "research-article",
     "title": "Object Inflation for Artistic Augmentation in Images and Animations",
     "url": "https://doi.org/10.1145/3356422.3356427",
@@ -8901,7 +8901,7 @@
     "conference": "vinci",
     "id": 349
   },
-  "10.1145/3356422.3356434": {
+  "350": {
     "type": "short-paper",
     "title": "Towards Utilizing Domain Expertise for Exploratory Data Analysis",
     "url": "https://doi.org/10.1145/3356422.3356434",
@@ -8925,7 +8925,7 @@
     "conference": "vinci",
     "id": 350
   },
-  "10.1145/3356422.3356438": {
+  "351": {
     "type": "research-article",
     "title": "Visually Communicating Mathematical Knot Deformation",
     "url": "https://doi.org/10.1145/3356422.3356438",
@@ -8948,7 +8948,7 @@
     "conference": "vinci",
     "id": 351
   },
-  "10.1145/3356422.3356445": {
+  "352": {
     "type": "research-article",
     "title": "Occlusion Management Techniques for the Visualization of Transportation Networks in Virtual 3D City Models",
     "url": "https://doi.org/10.1145/3356422.3356445",
@@ -8972,7 +8972,7 @@
     "conference": "vinci",
     "id": 352
   },
-  "10.1145/3356422.3356442": {
+  "353": {
     "type": "short-paper",
     "title": "Streamline Distribution Method based on Vector-magnitude-aware Entropy",
     "url": "https://doi.org/10.1145/3356422.3356442",
@@ -8996,7 +8996,7 @@
     "conference": "vinci",
     "id": 353
   },
-  "10.1145/3356422.3356428": {
+  "354": {
     "type": "poster",
     "title": "Feature Flow Animation",
     "url": "https://doi.org/10.1145/3356422.3356428",
@@ -9020,7 +9020,7 @@
     "conference": "vinci",
     "id": 354
   },
-  "10.1145/3356422.3356432": {
+  "355": {
     "type": "poster",
     "title": "Design and Implementation of a Dynamic Map Template Based on Rule Combination",
     "url": "https://doi.org/10.1145/3356422.3356432",
@@ -9045,7 +9045,7 @@
     "conference": "vinci",
     "id": 355
   },
-  "10.1145/3356422.3356436": {
+  "356": {
     "type": "poster",
     "title": "Skeleton Tree based Non-rigid 3D Shape Retrieval",
     "url": "https://doi.org/10.1145/3356422.3356436",
@@ -9073,7 +9073,7 @@
     "conference": "vinci",
     "id": 356
   },
-  "10.1145/3356422.3356437": {
+  "357": {
     "type": "poster",
     "title": "Automatic Image Segmentation for Microwave Tomography (MWT): From Implementation to Comparative Evaluation",
     "url": "https://doi.org/10.1145/3356422.3356437",
@@ -9106,7 +9106,7 @@
     "conference": "vinci",
     "id": 357
   },
-  "10.1145/3356422.3356443": {
+  "358": {
     "type": "poster",
     "title": "Parsing Strategies for Context-Sensitive Graph Grammars",
     "url": "https://doi.org/10.1145/3356422.3356443",
@@ -9130,7 +9130,7 @@
     "conference": "vinci",
     "id": 358
   },
-  "10.1145/3356422.3356448": {
+  "359": {
     "type": "poster",
     "title": "Online dynamic graph drawing with inverse Markov analysis",
     "url": "https://doi.org/10.1145/3356422.3356448",
@@ -9154,7 +9154,7 @@
     "conference": "vinci",
     "id": 359
   },
-  "10.1145/3356422.3356451": {
+  "360": {
     "type": "poster",
     "title": "The Application of Visual Narration in Academic Research",
     "url": "https://doi.org/10.1145/3356422.3356451",
@@ -9177,7 +9177,7 @@
     "conference": "vinci",
     "id": 360
   },
-  "10.1145/3356422.3356452": {
+  "361": {
     "type": "poster",
     "title": "Information Visualization in the Delivery of Postoperative Treatment Services for Breast Cancer",
     "url": "https://doi.org/10.1145/3356422.3356452",
@@ -9200,7 +9200,7 @@
     "conference": "vinci",
     "id": 361
   },
-  "10.1145/3356422.3356453": {
+  "362": {
     "type": "poster",
     "title": "Color in Tibetan Buddhism Communication Via Mani Heaps",
     "url": "https://doi.org/10.1145/3356422.3356453",
@@ -9227,7 +9227,7 @@
     "conference": "vinci",
     "id": 362
   },
-  "10.1145/3356422.3356454": {
+  "363": {
     "type": "poster",
     "title": "Visualizing Dynamic Network via Sampled Massive Sequence View",
     "url": "https://doi.org/10.1145/3356422.3356454",
@@ -9241,7 +9241,7 @@
     "conference": "vinci",
     "id": 363
   },
-  "10.1145/3356422.3356455": {
+  "364": {
     "type": "poster",
     "title": "Digital Simulation and Reinterpretation for Pattern from Art Heritages",
     "url": "https://doi.org/10.1145/3356422.3356455",
@@ -9265,7 +9265,7 @@
     "conference": "vinci",
     "id": 364
   },
-  "10.1145/3356422.3356456": {
+  "365": {
     "type": "poster",
     "title": "Algorithmic Animation in supporting Dance and Choreography",
     "url": "https://doi.org/10.1145/3356422.3356456",
@@ -9290,7 +9290,7 @@
     "conference": "vinci",
     "id": 365
   },
-  "10.1145/3356422.3356457": {
+  "366": {
     "type": "short-paper",
     "title": "Research on Traffic Sign Detection Based on Convolutional Neural Network",
     "url": "https://doi.org/10.1145/3356422.3356457",
@@ -9313,7 +9313,7 @@
     "conference": "vinci",
     "id": 366
   },
-  "10.1145/3356422.3356458": {
+  "367": {
     "type": "short-paper",
     "title": "Automatic Driving of End-to-end Convolutional Neural Network Based on MobileNet-V2 Migration Learning",
     "url": "https://doi.org/10.1145/3356422.3356458",
@@ -9337,7 +9337,7 @@
     "conference": "vinci",
     "id": 367
   },
-  "10.1145/3356422.3356459": {
+  "368": {
     "type": "short-paper",
     "title": "Features Extraction and Classification of Wood Defect Based on Hu Invariant Moment and Wavelet Moment and BP Neural Network",
     "url": "https://doi.org/10.1145/3356422.3356459",
@@ -9361,7 +9361,7 @@
     "conference": "vinci",
     "id": 368
   },
-  "10.1145/3356422.3356460": {
+  "369": {
     "type": "short-paper",
     "title": "On the Strategies of Visual Design and Competition of Chinese Tableware Brands",
     "url": "https://doi.org/10.1145/3356422.3356460",
@@ -9384,7 +9384,7 @@
     "conference": "vinci",
     "id": 369
   },
-  "10.1145/3356422.3356461": {
+  "370": {
     "type": "short-paper",
     "title": "On Applications of Art of Chinese Minorities in Brand-Localization: Taking the design of a luggage enterprise as an example",
     "url": "https://doi.org/10.1145/3356422.3356461",

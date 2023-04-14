@@ -76,7 +76,7 @@ class dataVis:
                         'authors': [],
 
                     }
-                    self.new_instis[key]['papers'].append(doi)
+                    self.new_instis[key]['papers'].append(counter)
                     self.new_instis[key]['authors'].append(id)
 
                     #if insti_id not in list_instis:
@@ -85,7 +85,7 @@ class dataVis:
                 else:
 
                     if doi not in self.new_instis[key]['papers']:
-                        self.new_instis[key]['papers'].append(doi)
+                        self.new_instis[key]['papers'].append(counter)
                     if id not in self.new_instis[key]['authors']:
                         self.new_instis[key]['authors'].append(id)
                     temp = self.new_instis[key]
@@ -101,18 +101,20 @@ class dataVis:
                         'id': id,
                         'name': author['name'],
                         'url': author['url'],
+                        'region': '',
                         'papers': [],
                         'institutions': [],
                         'countries': [],
                         'regions': []
                     }
-                    self.new_authors[id]['papers'].append(doi)
+                    self.new_authors[id]['papers'].append(counter)
                     self.new_authors[id]['institutions'].append(id_insti)
                     self.new_authors[id]['countries'].append(insti['country'])
                     self.new_authors[id]['regions'].append(insti['region'])
+                    self.new_authors[id]['region'] = insti['region']
                 else:
                     if doi not in self.new_authors[id]['papers']:
-                        self.new_authors[id]['papers'].append(doi)
+                        self.new_authors[id]['papers'].append(counter)
                     if id_insti not in self.new_authors[id]['institutions']:
                         self.new_authors[id]['institutions'].append(id_insti)
                     if insti['country'] not in self.new_authors[id]['countries']:
@@ -143,7 +145,7 @@ class dataVis:
                 "conference": 'vinci',
                 "id": counter
             }
-            new_format[pvinci['doi']] = data
+            new_format[counter] = data
             counter += 1
         print("fin")
         save_generic('data/dataforvis/nodesu.json', new_format)
