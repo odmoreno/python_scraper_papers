@@ -50,6 +50,7 @@ class dataVis:
         new_format = {}
         counter = 1
         insti_id = 1
+        temp_authors = {}
 
         for doi, pvinci in self.papers_en_vinci.items():
             authors = pvinci['authors']
@@ -57,6 +58,7 @@ class dataVis:
             list_instis = []
             list_paises = []
             list_regiones = []
+
             for author in authors:
                 id = author['id']
                 insti = author['institution']
@@ -97,6 +99,23 @@ class dataVis:
                     if id in self.authors_vinci:
                         author = self.authors_vinci[id]
 
+                    temp_authors[id] = {
+                        'id': id,
+                        'name': author['name'],
+                        'institution': '',
+                        'country': '',
+                        'region': '',
+                        'institutions': [],
+                        'countries': [],
+                        'regions': []
+                    }
+                    temp_authors[id]['institutions'].append(key)
+                    temp_authors[id]['countries'].append(insti['country'])
+                    temp_authors[id]['regions'].append(insti['region'])
+                    temp_authors[id]['region'] = insti['region']
+                    temp_authors[id]['country'] = insti['country']
+                    temp_authors[id]['institution'] = key
+
                     self.new_authors[id] = {
                         'id': id,
                         'name': author['name'],
@@ -117,10 +136,13 @@ class dataVis:
                         self.new_authors[id]['papers'].append(counter)
                     if id_insti not in self.new_authors[id]['institutions']:
                         self.new_authors[id]['institutions'].append(id_insti)
+                        temp_authors[id]['institutions'].append(key)
                     if insti['country'] not in self.new_authors[id]['countries']:
                         self.new_authors[id]['countries'].append(insti['country'])
+                        temp_authors[id]['countries'].append(insti['country'])
                     if insti['region'] not in self.new_authors[id]['regions']:
                         self.new_authors[id]['regions'].append(insti['region'])
+                        temp_authors[id]['regions'].append(insti['region'])
 
 
 
@@ -148,6 +170,12 @@ class dataVis:
             new_format[counter] = data
             counter += 1
         print("fin")
+
+        list1 = temp_authors.values()
+        authors_col = ['id', 'name', 'institution', 'country', 'region', 'institutions', 'countries', 'regions']
+        csv_generics('data/dataforvis/authors.csv', list1, authors_col)
+
+
         save_generic('data/dataforvis/nodesu.json', new_format)
         save_generic('data/dataforvis/instiu.json', self.new_instis)
         save_generic('data/dataforvis/authorsu.json', self.new_authors)
