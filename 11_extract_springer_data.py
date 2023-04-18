@@ -434,6 +434,11 @@ class SpringerClient:
                 countries = element['countries']
                 regions = element['regions']
                 date = element['year']
+
+                afilitions = list(set(afilitions))
+                countries = list(set(countries))
+                regions = list(set(regions))
+
                 self.create_links_authors(doi, date, authors)
                 self.loop_institutions(doi, date, afilitions)
                 self.loop_countries(doi,date,countries)

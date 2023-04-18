@@ -10,11 +10,23 @@ class dataVis:
     def __init__(self):
         self.base = 'data/dataforvis/'
         self.institutions = {}
+        self.reverse_institutions = {}
         self.papers_upd = {}
         self.authors_vinci = {}
         self.authors_2009 = {}
         self.authors = {}
         self.countries = {}
+        self.regiones = {}
+        self.reverse_institutions = {}
+
+        #nuevos dicts
+        self.new_instis = {}
+        self.paises = {}
+        self.regiones = {}
+        self.insti_final = {}
+        self.new_authors = {}
+
+        self.new_regions = {}
 
     def load_data(self):
         self.institutions = load_generic(self.base + 'insti.json')
@@ -22,21 +34,182 @@ class dataVis:
         self.authors_vinci = load_generic('data/jsons/authors.json')
         self.authors_2009 = load_generic('data/vinci_2009/authors.json')
         self.countries = load_generic('data/jsons/countries.json')
+        self.papers_en_vinci = load_generic('data/vinci_refs/papers_vinci.json')
+
+        for element in self.countries:
+            pais = element["country"].strip().lower()
+            region = element["continent"].strip().lower()
+            self.regiones[pais] = region
+
+        for key, list in self.institutions.items():
+            name = list['name']
+            codname = name.lower()
+            self.reverse_institutions[codname] = list
+
+    def reformat_papers(self):
+        new_format = {}
+        counter = 1
+        insti_id = 1
+        temp_authors = {}
+
+        for doi, pvinci in self.papers_en_vinci.items():
+            authors = pvinci['authors']
+            list_ids = []
+            list_instis = []
+            list_paises = []
+            list_regiones = []
+
+            for author in authors:
+                id = author['id']
+                insti = author['institution']
+                key = insti['name'].lower()
+                id_insti = insti_id
+
+                if insti['region'] not in self.new_regions:
+                    self.new_regions[insti['region']] = insti['region']
+
+                if key not in self.new_instis:
+                    self.new_instis[key] = {
+                        'id': insti_id,
+                        'name': key,
+                        'country': insti['country'],
+                        'region': insti['region'],
+                        'papers': [],
+                        'authors': [],
+
+                    }
+                    self.new_instis[key]['papers'].append(counter)
+                    self.new_instis[key]['authors'].append(id)
+
+                    #if insti_id not in list_instis:
+                    list_instis.append(insti_id)
+                    insti_id += 1
+                else:
+
+                    if doi not in self.new_instis[key]['papers']:
+                        self.new_instis[key]['papers'].append(counter)
+                    if id not in self.new_instis[key]['authors']:
+                        self.new_instis[key]['authors'].append(id)
+                    temp = self.new_instis[key]
+                    id_insti = temp['id']
+                    if temp['id'] not in list_instis:
+                        list_instis.append(temp['id'])
+
+                if id not in self.new_authors:
+                    if id in self.authors_vinci:
+                        author = self.authors_vinci[id]
+
+                    temp_authors[id] = {
+                        'id': id,
+                        'name': author['name'],
+                        'institution': '',
+                        'country': '',
+                        'region': '',
+                        'institutions': [],
+                        'countries': [],
+                        'regions': []
+                    }
+                    temp_authors[id]['institutions'].append(key)
+                    temp_authors[id]['countries'].append(insti['country'])
+                    temp_authors[id]['regions'].append(insti['region'])
+                    temp_authors[id]['region'] = insti['region']
+                    temp_authors[id]['country'] = insti['country']
+                    temp_authors[id]['institution'] = key
+
+                    self.new_authors[id] = {
+                        'id': id,
+                        'name': author['name'],
+                        'url': author['url'],
+                        'region': '',
+                        'papers': [],
+                        'institutions': [],
+                        'countries': [],
+                        'regions': []
+                    }
+                    self.new_authors[id]['papers'].append(counter)
+                    self.new_authors[id]['institutions'].append(id_insti)
+                    self.new_authors[id]['countries'].append(insti['country'])
+                    self.new_authors[id]['regions'].append(insti['region'])
+                    self.new_authors[id]['region'] = insti['region']
+                else:
+                    if doi not in self.new_authors[id]['papers']:
+                        self.new_authors[id]['papers'].append(counter)
+                    if id_insti not in self.new_authors[id]['institutions']:
+                        self.new_authors[id]['institutions'].append(id_insti)
+                        temp_authors[id]['institutions'].append(key)
+                    if insti['country'] not in self.new_authors[id]['countries']:
+                        self.new_authors[id]['countries'].append(insti['country'])
+                        temp_authors[id]['countries'].append(insti['country'])
+                    if insti['region'] not in self.new_authors[id]['regions']:
+                        self.new_authors[id]['regions'].append(insti['region'])
+                        temp_authors[id]['regions'].append(insti['region'])
+
+
+
+                # append lists
+                if insti['country'] not in list_paises:
+                    list_paises.append(insti['country'])
+                if insti['region'] not in list_regiones:
+                    list_regiones.append(insti['region'])
+                list_ids.append(id)
+
+            data = {
+                "type": pvinci['type'],
+                "title": pvinci['title'],
+                "url": pvinci['url'],
+                "year": pvinci['year'],
+                "authors": list_ids,
+                "institutions": list_instis,
+                "countries": list_paises,
+                "regions": list_regiones,
+                "doi": pvinci['doi'],
+                "publisher": pvinci['publisher'],
+                "conference": 'vinci',
+                "id": counter
+            }
+            new_format[counter] = data
+            counter += 1
+        print("fin")
+
+        list1 = temp_authors.values()
+        authors_col = ['id', 'name', 'institution', 'country', 'region', 'institutions', 'countries', 'regions']
+        csv_generics('data/dataforvis/authors.csv', list1, authors_col)
+
+
+        save_generic('data/dataforvis/nodesu.json', new_format)
+        save_generic('data/dataforvis/instiu.json', self.new_instis)
+        save_generic('data/dataforvis/authorsu.json', self.new_authors)
+        save_generic('data/dataforvis/regions.json', self.new_regions)
+
+    def reformat_institutions(self):
+        insti_reverse = load_generic('data/dataforvis/instiu.json')
+        for key, list in insti_reverse.items():
+            id = list['id']
+            self.insti_final[id] = list
+
+        save_generic('data/dataforvis/instiu.json', self.insti_final)
 
     def fill_authors_2009(self):
         papers = {}
         counter = 1
         for doi, pvinci in self.papers_upd.items():
+            #print(pvinci)
             authors = pvinci['authors']
+            year = pvinci['year']
             list_ids = []
             list_instis = []
+            list_paises = []
+            list_regiones = []
             for author in authors:
                 id = author['id']
                 institution = author['institution']
-
                 for i in institution:
-                    list_instis.append(i['id'])
-
+                    pass
+                    #print( type(i['id']), i['id'])
+                    #list_instis.append(i['id'])
+                    #info_extra = self.get_countries_and_region(self.institutions[i['id']])
+                    #list_paises.append(info_extra[0])
+                    #list_regiones.append(info_extra[1])
 
                 if id in self.authors_2009:
                     self.authors_2009[id]['institutions'] = institution
@@ -54,7 +227,9 @@ class dataVis:
                 list_ids.append(id)
 
             pvinci['authors'] = list_ids
-            pvinci['authors'] = list_instis
+           #pvinci['institutions'] = list_instis
+           # pvinci['countries'] = list_paises
+           # pvinci['regions'] = list_regiones
 
             pvinci['doi'] = doi
             pvinci['conference'] = 'vinci'
@@ -89,6 +264,22 @@ class dataVis:
             if 'institution' in self.authors_vinci:
                 del self.authors_vinci[id]['institution']
         #print(self.authors_vinci)
+
+    def get_countries_and_region(self, insti):
+        region = ''
+        if 'ad2' in insti:
+            pais = insti['ad2']
+        elif 'ad1' in insti:
+            pais = insti['ad1']
+        else:
+            pais = insti['ad0']
+
+        pais = pais.lower()
+        if pais in self.regiones:
+            region = self.regiones[pais]
+
+        return [pais, region]
+
 
     def merge_authors(self):
         authors_vinci = {}
@@ -147,6 +338,9 @@ class dataVis:
     def get_jsons_for_vis(self):
         self.fill_authors_2009()
         self.config_vinci_au()
+        self.reformat_papers()
+        self.reformat_institutions()
+
         self.merge_authors()
 
 
