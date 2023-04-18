@@ -214,12 +214,14 @@ class SpringerClient:
                 year = list['year']
                 autor_list_new = []
                 title = list['title']
-                if title == 'Visually Communicating Mathematical Knot Deformation':
+                if title == 'Digital Artwork Creation Using Water and Sand on a Two-Dimensional Surface':
                     print('a')
                     pass
 
                 for autor in autores:
                     instituto = autor['institution']
+                    if title == 'National Chiao Tung University, Taiwan':
+                        print('a')
                     if year == '2009':
                         name = instituto[0]['name']
                         id_insti = instituto[0]['id']

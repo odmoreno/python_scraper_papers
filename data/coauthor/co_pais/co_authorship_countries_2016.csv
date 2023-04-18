@@ -1,11 +1,12 @@
 e1,e2,value
 australia,australia,29
 saudi arabia,australia,1
-united states,china,7
+united states,hong kong,1
 united states,australia,1
-china,australia,4
+hong kong,australia,1
 germany,germany,10
-china,china,68
+china,china,64
+china,australia,3
 spain,spain,1
 malaysia,malaysia,4
 france,france,3
@@ -16,9 +17,12 @@ japan,japan,23
 ,united states,1
 ,,1
 china,united states,11
+hong kong,hong kong,3
+united states,china,6
 australia,united states,3
 italy,japan,1
 italy,australia,2
+china,hong kong,2
 italy,italy,4
 italy,united kingdom,1
 united kingdom,united kingdom,3
@@ -31,6 +35,7 @@ new zealand,new zealand,1
 sri lanka,malaysia,4
 sri lanka,sri lanka,1
 south korea,south korea,2
+taiwan,taiwan,2
 malaysia,new zealand,1
 japan,australia,1
 japan,france,1
