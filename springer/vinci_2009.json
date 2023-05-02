@@ -1,0 +1,1244 @@
+{
+  "10.1007/978-1-4419-0312-9_1": {
+    "type": "paper-conference",
+    "title": "The Physical Visualization of Information: Designing Data Sculptures in an Educational Context.",
+    "url": "https://doi.org/10.1007/978-1-4419-0312-9_1",
+    "authors": [
+      {
+        "name": "Andrew Vande Moere",
+        "institution": [
+          {
+            "id": "60025709",
+            "name": "The University of Sydney, Australia"
+          }
+        ],
+        "id": "a09_1",
+        "url": ""
+      },
+      {
+        "name": "Stephanie Patel",
+        "institution": [
+          {
+            "id": "60025709",
+            "name": "The University of Sydney, Australia"
+          }
+        ],
+        "id": "a09_2",
+        "url": ""
+      }
+    ],
+    "doi": "10.1007/978-1-4419-0312-9_1",
+    "year": "2009",
+    "publisher": "Springer",
+    "conference_title": "vinci"
+  },
+  "10.1007/978-1-4419-0312-9_2": {
+    "type": "paper-conference",
+    "title": "Visual Analysis of History of World Cup: A Dynamic Network with Dynamic Hierarchy and Geographic Clustering.",
+    "url": "https://doi.org/10.1007/978-1-4419-0312-9_2",
+    "authors": [
+      {
+        "name": "Adel Ahmed",
+        "institution": [
+          {
+            "id": "i09_3",
+            "name": "King Fahad University of Petroleum and Minerals, Saudi Arabia"
+          }
+        ],
+        "id": "a09_3",
+        "url": ""
+      },
+      {
+        "name": "Xiaoyan Fu",
+        "institution": [
+          {
+            "id": "i09_4",
+            "name": "National ICT Australia, Australia"
+          }
+        ],
+        "id": "a09_4",
+        "url": ""
+      },
+      {
+        "name": "Seok-Hee Hong",
+        "institution": [
+          {
+            "id": "60025709",
+            "name": "The University of Sydney, Australia"
+          }
+        ],
+        "id": "a09_5",
+        "url": ""
+      },
+      {
+        "name": "Quan Hoang Nguyen",
+        "institution": [
+          {
+            "id": "i09_6",
+            "name": "University of New South Wales, United Kingdom"
+          }
+        ],
+        "id": "a09_6",
+        "url": ""
+      },
+      {
+        "name": "Kai Xu",
+        "institution": [
+          {
+            "id": "i09_7",
+            "name": "ICT Center, Australia"
+          }
+        ],
+        "id": "a09_7",
+        "url": ""
+      }
+    ],
+    "doi": "10.1007/978-1-4419-0312-9_2",
+    "year": "2009",
+    "publisher": "Springer",
+    "conference_title": "vinci"
+  },
+  "10.1007/978-1-4419-0312-9_3": {
+    "type": "paper-conference",
+    "title": "From Tree to Graph - Experiments with E-Spring Algorithm.",
+    "url": "https://doi.org/10.1007/978-1-4419-0312-9_3",
+    "authors": [
+      {
+        "name": "Pushpa Kumar",
+        "institution": [
+          {
+            "id": "60009415",
+            "name": "University of Texas, United States"
+          }
+        ],
+        "id": "a09_8",
+        "url": ""
+      },
+      {
+        "name": "Kang Zhang",
+        "url": "https://dl.acm.org/profile/99660626111",
+        "id": "99660626111",
+        "institution": [
+          {
+            "id": "60008592",
+            "name": "Hong Kong University of Science and Technology, Hong Kong",
+            "url": "https://dl.acm.org/institution/60008592"
+          }
+        ]
+      },
+      {
+        "name": "Mao Lin Huang",
+        "institution": [
+          {
+            "id": "60023932",
+            "name": "University of Technology Sydney, Australia"
+          }
+        ],
+        "id": "81100079792",
+        "url": ""
+      }
+    ],
+    "doi": "10.1007/978-1-4419-0312-9_3",
+    "year": "2009",
+    "publisher": "Springer",
+    "conference_title": "vinci"
+  },
+  "10.1007/978-1-4419-0312-9_4": {
+    "type": "paper-conference",
+    "title": "Visual Navigation with Schematic Maps.",
+    "url": "https://doi.org/10.1007/978-1-4419-0312-9_4",
+    "authors": [
+      {
+        "name": "Steffen Bogen",
+        "institution": [
+          {
+            "id": "60025525",
+            "name": "University of Konstanz, Germany"
+          }
+        ],
+        "id": "a09_11",
+        "url": ""
+      },
+      {
+        "name": "Ulrik Brandes",
+        "institution": [
+          {
+            "id": "60025525",
+            "name": "University of Konstanz, Germany"
+          }
+        ],
+        "id": "a09_12",
+        "url": ""
+      },
+      {
+        "name": "Hendrik Ziezold",
+        "institution": [
+          {
+            "id": "60025525",
+            "name": "University of Konstanz, Germany"
+          }
+        ],
+        "id": "a09_13",
+        "url": ""
+      }
+    ],
+    "doi": "10.1007/978-1-4419-0312-9_4",
+    "year": "2009",
+    "publisher": "Springer",
+    "conference_title": "vinci"
+  },
+  "10.1007/978-1-4419-0312-9_5": {
+    "type": "paper-conference",
+    "title": "DOI-Wave: A Focus+Context Interaction Technique for Networks Based on Attention-Reactive Interface.",
+    "url": "https://doi.org/10.1007/978-1-4419-0312-9_5",
+    "authors": [
+      {
+        "name": "Lei Ren",
+        "url": "https://dl.acm.org/profile/81552904056",
+        "id": "81552904056",
+        "institution": [
+          {
+            "id": "60013789",
+            "name": "Beihang University, China",
+            "url": "https://dl.acm.org/institution/60013789"
+          }
+        ]
+      },
+      {
+        "name": "Lin Zhang",
+        "institution": [
+          {
+            "id": "60013789",
+            "name": "Beihang University, China",
+            "url": "https://dl.acm.org/institution/60013789"
+          }
+        ],
+        "id": "a09_53",
+        "url": ""
+      },
+      {
+        "name": "Dongxing Teng",
+        "url": "https://dl.acm.org/profile/81384607002",
+        "id": "81384607002",
+        "institution": [
+          {
+            "id": "60025256",
+            "name": "Institute of Software Chinese Academy of Sciences",
+            "url": "https://dl.acm.org/institution/60025256"
+          }
+        ]
+      },
+      {
+        "name": "Guozhong Dai",
+        "url": "https://dl.acm.org/profile/81100172122",
+        "id": "81100172122",
+        "institution": [
+          {
+            "id": "60025256",
+            "name": "Institute of Software Chinese Academy of Sciences",
+            "url": "https://dl.acm.org/institution/60025256"
+          }
+        ]
+      },
+      {
+        "name": "Qian Li",
+        "institution": [
+          {
+            "id": "i09_18",
+            "name": "Shangdong Institute of Commerce and Technology"
+          }
+        ],
+        "id": "a09_18",
+        "url": ""
+      }
+    ],
+    "doi": "10.1007/978-1-4419-0312-9_5",
+    "year": "2009",
+    "publisher": "Springer",
+    "conference_title": "vinci"
+  },
+  "10.1007/978-1-4419-0312-9_6": {
+    "type": "paper-conference",
+    "title": "Multi-dimensional Data Visualization using Concentric Coordinates.",
+    "url": "https://doi.org/10.1007/978-1-4419-0312-9_6",
+    "authors": [
+      {
+        "name": "Jiawan Zhang",
+        "url": "https://dl.acm.org/profile/81453614419",
+        "id": "81453614419",
+        "institution": [
+          {
+            "id": "60019533",
+            "name": "Tianjin University, China",
+            "url": "https://dl.acm.org/institution/60019533"
+          }
+        ]
+      },
+      {
+        "name": "Yuan Wen",
+        "institution": [
+          {
+            "id": "60019533",
+            "name": "Tianjin University, China"
+          }
+        ],
+        "id": "a09_20",
+        "url": ""
+      },
+      {
+        "name": "Quang Vinh Nguyen",
+        "url": "https://dl.acm.org/profile/81100511332",
+        "id": "81100511332",
+        "institution": [
+          {
+            "id": "60017803",
+            "name": "Western Sydney University, Australia",
+            "url": "https://dl.acm.org/institution/60017803"
+          }
+        ]
+      },
+      {
+        "name": "Liang Fu Lu",
+        "institution": [
+          {
+            "id": "60019533",
+            "name": "Tianjin University, China"
+          }
+        ],
+        "id": "a09_46",
+        "url": ""
+      },
+      {
+        "name": "Mao Lin Huang",
+        "institution": [
+          {
+            "id": "60023932",
+            "name": "University of Technology Sydney, Australia"
+          }
+        ],
+        "id": "81100079792",
+        "url": ""
+      },
+      {
+        "name": "Jiadong Yang",
+        "institution": [
+          {
+            "id": "60019533",
+            "name": "Tianjin University, China"
+          }
+        ],
+        "id": "a09_24",
+        "url": ""
+      },
+      {
+        "name": "Jizhou Sun",
+        "institution": [
+          {
+            "id": "60019533",
+            "name": "Tianjin University, China"
+          }
+        ],
+        "id": "a09_25",
+        "url": ""
+      }
+    ],
+    "doi": "10.1007/978-1-4419-0312-9_6",
+    "year": "2009",
+    "publisher": "Springer",
+    "conference_title": "vinci"
+  },
+  "10.1007/978-1-4419-0312-9_7": {
+    "type": "paper-conference",
+    "title": "Construct Connotation Dictionary of Visual Symbols.",
+    "url": "https://doi.org/10.1007/978-1-4419-0312-9_7",
+    "authors": [
+      {
+        "name": "Ping Xiao",
+        "institution": [
+          {
+            "id": "i09_26",
+            "name": "Universitat Pompeu Fabra, Spain"
+          }
+        ],
+        "id": "a09_26",
+        "url": ""
+      },
+      {
+        "name": "Ernesto Arroyo",
+        "institution": [
+          {
+            "id": "i09_26",
+            "name": "Universitat Pompeu Fabra, Spain"
+          }
+        ],
+        "id": "a09_27",
+        "url": ""
+      },
+      {
+        "name": "Josep Blat",
+        "institution": [
+          {
+            "id": "i09_26",
+            "name": "Universitat Pompeu Fabra, Spain"
+          }
+        ],
+        "id": "a09_28",
+        "url": ""
+      }
+    ],
+    "doi": "10.1007/978-1-4419-0312-9_7",
+    "year": "2009",
+    "publisher": "Springer",
+    "conference_title": "vinci"
+  },
+  "10.1007/978-1-4419-0312-9_8": {
+    "type": "paper-conference",
+    "title": "Constructing Confluent Context-sensitive Graph Grammars from Non-confluent Productions for Parsing Efficiency.",
+    "url": "https://doi.org/10.1007/978-1-4419-0312-9_8",
+    "authors": [
+      {
+        "name": "Yang Zou",
+        "url": "https://dl.acm.org/profile/99659194214",
+        "id": "99659194214",
+        "institution": [
+          {
+            "id": "60033100",
+            "name": "Nanjing University, China"
+          }
+        ]
+      },
+      {
+        "name": "Jian Lü",
+        "institution": [
+          {
+            "id": "60033100",
+            "name": "Nanjing University, China"
+          }
+        ],
+        "id": "a09_30",
+        "url": ""
+      },
+      {
+        "name": "Xiaoqin Zeng",
+        "url": "https://dl.acm.org/profile/81319505316",
+        "id": "81319505316",
+        "institution": [
+          {
+            "id": "60010851",
+            "name": "Hohai University",
+            "url": "https://dl.acm.org/institution/60010851"
+          }
+        ]
+      },
+      {
+        "name": "Xiaoxing Ma",
+        "institution": [
+          {
+            "id": "60033100",
+            "name": "Nanjing University, China"
+          }
+        ],
+        "id": "a09_32",
+        "url": ""
+      },
+      {
+        "name": "Qiliang Yang",
+        "institution": [
+          {
+            "id": "60033100",
+            "name": "Nanjing University, China"
+          }
+        ],
+        "id": "a09_33",
+        "url": ""
+      }
+    ],
+    "doi": "10.1007/978-1-4419-0312-9_8",
+    "year": "2009",
+    "publisher": "Springer",
+    "conference_title": "vinci"
+  },
+  "10.1007/978-1-4419-0312-9_9": {
+    "type": "paper-conference",
+    "title": "Experimental Color in Computer Icons.",
+    "url": "https://doi.org/10.1007/978-1-4419-0312-9_9",
+    "authors": [
+      {
+        "name": "Yan-Peng Lim",
+        "institution": [
+          {
+            "id": "i09_34",
+            "name": "Multimedia University, Malaysia"
+          }
+        ],
+        "id": "a09_34",
+        "url": ""
+      },
+      {
+        "name": "Peter Charles Woods",
+        "institution": [
+          {
+            "id": "i09_34",
+            "name": "Multimedia University, Malaysia"
+          }
+        ],
+        "id": "a09_35",
+        "url": ""
+      }
+    ],
+    "doi": "10.1007/978-1-4419-0312-9_9",
+    "year": "2009",
+    "publisher": "Springer",
+    "conference_title": "vinci"
+  },
+  "10.1007/978-1-4419-0312-9_10": {
+    "type": "paper-conference",
+    "title": "Hidden Cluster Detection for Infectious Disease Control and Quarantine Management.",
+    "url": "https://doi.org/10.1007/978-1-4419-0312-9_10",
+    "authors": [
+      {
+        "name": "Yain-Whar Si",
+        "institution": [
+          {
+            "id": "60022317",
+            "name": "University of Macau, China"
+          }
+        ],
+        "id": "a09_36",
+        "url": ""
+      },
+      {
+        "name": "Kan-Ion Leong",
+        "institution": [
+          {
+            "id": "60022317",
+            "name": "University of Macau, China"
+          }
+        ],
+        "id": "a09_37",
+        "url": ""
+      },
+      {
+        "name": "Robert P. Biuk-Aghai",
+        "url": "https://dl.acm.org/profile/81100203521",
+        "id": "81100203521",
+        "institution": [
+          {
+            "id": "60022317",
+            "name": "University of Macau, China",
+            "url": "https://dl.acm.org/institution/60022317"
+          }
+        ]
+      },
+      {
+        "name": "Simon Fong",
+        "institution": [
+          {
+            "id": "60022317",
+            "name": "University of Macau, China"
+          }
+        ],
+        "id": "a09_39",
+        "url": ""
+      }
+    ],
+    "doi": "10.1007/978-1-4419-0312-9_10",
+    "year": "2009",
+    "publisher": "Springer",
+    "conference_title": "vinci"
+  },
+  "10.1007/978-1-4419-0312-9_11": {
+    "type": "paper-conference",
+    "title": "Multi-scale Vortex Extraction of Ocean Flow.",
+    "url": "https://doi.org/10.1007/978-1-4419-0312-9_11",
+    "authors": [
+      {
+        "name": "Cui Xie",
+        "institution": [
+          {
+            "id": "i09_40",
+            "name": "Ocean University of China, China"
+          }
+        ],
+        "id": "a09_40",
+        "url": ""
+      },
+      {
+        "name": "Lihua Xing",
+        "institution": [
+          {
+            "id": "i09_40",
+            "name": "Ocean University of China, China"
+          }
+        ],
+        "id": "a09_41",
+        "url": ""
+      },
+      {
+        "name": "Cunna Liu",
+        "institution": [
+          {
+            "id": "i09_40",
+            "name": "Ocean University of China, China"
+          }
+        ],
+        "id": "a09_42",
+        "url": ""
+      },
+      {
+        "name": "Xiaocong Li",
+        "institution": [
+          {
+            "id": "i09_40",
+            "name": "Ocean University of China, China"
+          }
+        ],
+        "id": "a09_43",
+        "url": ""
+      }
+    ],
+    "doi": "10.1007/978-1-4419-0312-9_11",
+    "year": "2009",
+    "publisher": "Springer",
+    "conference_title": "vinci"
+  },
+  "10.1007/978-1-4419-0312-9_12": {
+    "type": "paper-conference",
+    "title": "A Novel Visualization Method for Detecting DDoS Network Attacks.",
+    "url": "https://doi.org/10.1007/978-1-4419-0312-9_12",
+    "authors": [
+      {
+        "name": "Jiawan Zhang",
+        "url": "https://dl.acm.org/profile/81453614419",
+        "id": "81453614419",
+        "institution": [
+          {
+            "id": "60019533",
+            "name": "Tianjin University, China",
+            "url": "https://dl.acm.org/institution/60019533"
+          }
+        ]
+      },
+      {
+        "name": "Guoqiang Yang",
+        "institution": [
+          {
+            "id": "60019533",
+            "name": "Tianjin University, China",
+            "url": "https://dl.acm.org/institution/60019533"
+          }
+        ],
+        "id": "a09_45",
+        "url": ""
+      },
+      {
+        "name": "Liang Fu Lu",
+        "institution": [
+          {
+            "id": "60019533",
+            "name": "Tianjin University, China",
+            "url": "https://dl.acm.org/institution/60019533"
+          }
+        ],
+        "id": "a09_46",
+        "url": ""
+      },
+      {
+        "name": "MaoLin Huang",
+        "institution": [
+          {
+            "id": "60023932",
+            "name": "The University of Sydney, Australia"
+          }
+        ],
+        "id": "81100079792",
+        "url": ""
+      },
+      {
+        "name": "Ming Che",
+        "institution": [
+          {
+            "id": "60019533",
+            "name": "Tianjin University, China",
+            "url": "https://dl.acm.org/institution/60019533"
+          }
+        ],
+        "id": "a09_48",
+        "url": ""
+      }
+    ],
+    "doi": "10.1007/978-1-4419-0312-9_12",
+    "year": "2009",
+    "publisher": "Springer",
+    "conference_title": "vinci"
+  },
+  "10.1007/978-1-4419-0312-9_13": {
+    "type": "paper-conference",
+    "title": "A Pool of Topics: Interactive Relational Topic Visualization for Information Discovery.",
+    "url": "https://doi.org/10.1007/978-1-4419-0312-9_13",
+    "authors": [
+      {
+        "name": "Inessa Seifert",
+        "institution": [
+          {
+            "id": "i09_49",
+            "name": "German Research Center for Artificial Intelligence, Germany"
+          }
+        ],
+        "id": "a09_49",
+        "url": ""
+      },
+      {
+        "name": "Michael Kruppa",
+        "institution": [
+          {
+            "id": "i09_49",
+            "name": "German Research Center for Artificial Intelligence, Germany"
+          }
+        ],
+        "id": "a09_50",
+        "url": ""
+      }
+    ],
+    "doi": "10.1007/978-1-4419-0312-9_13",
+    "year": "2009",
+    "publisher": "Springer",
+    "conference_title": "vinci"
+  },
+  "10.1007/978-1-4419-0312-9_14": {
+    "type": "paper-conference",
+    "title": "DaisyViz: A Model-based User Interfaces Toolkit for Development of Interactive Information Visualization.",
+    "url": "https://doi.org/10.1007/978-1-4419-0312-9_14",
+    "authors": [
+      {
+        "name": "Lei Ren",
+        "url": "https://dl.acm.org/profile/81552904056",
+        "id": "81552904056",
+        "institution": [
+          {
+            "id": "60013789",
+            "name": "Beihang University, China",
+            "url": "https://dl.acm.org/institution/60013789"
+          }
+        ]
+      },
+      {
+        "name": "Feng Tian",
+        "url": "https://dl.acm.org/profile/81100106876",
+        "id": "81100106876",
+        "institution": [
+          {
+            "id": "60025256",
+            "name": "Chinese Academy of Sciences, China",
+            "url": "https://dl.acm.org/institution/60025256"
+          }
+        ]
+      },
+      {
+        "name": "Lin Zhang",
+        "institution": [
+          {
+            "id": "60013789",
+            "name": "Beihang University, China"
+          }
+        ],
+        "id": "a09_53",
+        "url": ""
+      },
+      {
+        "name": "Guozhong Dai",
+        "url": "https://dl.acm.org/profile/81100172122",
+        "id": "81100172122",
+        "institution": [
+          {
+            "id": "60025256",
+            "name": "Chinese Academy of Sciences, China",
+            "url": "https://dl.acm.org/institution/60025256"
+          }
+        ]
+      }
+    ],
+    "doi": "10.1007/978-1-4419-0312-9_14",
+    "year": "2009",
+    "publisher": "Springer",
+    "conference_title": "vinci"
+  },
+  "10.1007/978-1-4419-0312-9_15": {
+    "type": "paper-conference",
+    "title": "A New Interactive Platform for Visual Analytics of Social Networks.",
+    "url": "https://doi.org/10.1007/978-1-4419-0312-9_15",
+    "authors": [
+      {
+        "name": "Quang Vinh Nguyen",
+        "url": "https://dl.acm.org/profile/81100511332",
+        "id": "81100511332",
+        "institution": [
+          {
+            "id": "60017803",
+            "name": "Western Sydney University, Australia",
+            "url": "https://dl.acm.org/institution/60017803"
+          }
+        ]
+      },
+      {
+        "name": "MaoLin Huang",
+        "institution": [
+          {
+            "id": "60023932",
+            "name": "University of Technology Sydney, Australia",
+            "url": "https://dl.acm.org/institution/60023932"
+          }
+        ],
+        "id": "81100079792",
+        "url": ""
+      }
+    ],
+    "doi": "10.1007/978-1-4419-0312-9_15",
+    "year": "2009",
+    "publisher": "Springer",
+    "conference_title": "vinci"
+  },
+  "10.1007/978-1-4419-0312-9_16": {
+    "type": "paper-conference",
+    "title": "Strategic paths and memory map: Exploring a building and memorizing knowledge.",
+    "url": "https://doi.org/10.1007/978-1-4419-0312-9_16",
+    "authors": [
+      {
+        "name": "Sandro Varano",
+        "institution": [
+          {
+            "id": "i09_57",
+            "name": "Ecole Nationale Supérieure d’Architecture de Strasbourg, France"
+          }
+        ],
+        "id": "a09_57",
+        "url": ""
+      },
+      {
+        "name": "Jean-Claude Bignon",
+        "institution": [
+          {
+            "id": "i09_57",
+            "name": "Ecole Nationale Supérieure d’Architecture de Strasbourg, France"
+          }
+        ],
+        "id": "a09_58",
+        "url": ""
+      }
+    ],
+    "doi": "10.1007/978-1-4419-0312-9_16",
+    "year": "2009",
+    "publisher": "Springer",
+    "conference_title": "vinci"
+  },
+  "10.1007/978-1-4419-0312-9_17": {
+    "type": "paper-conference",
+    "title": "Information visualization Approach on the University Examination Timetabling Problem.",
+    "url": "https://doi.org/10.1007/978-1-4419-0312-9_17",
+    "authors": [
+      {
+        "name": "J. Joshua Thomas",
+        "institution": [
+          {
+            "id": "i09_61",
+            "name": "University Sains Malaysia, Malaysia",
+            "url": ""
+          }
+        ],
+        "id": "81440610062",
+        "url": ""
+      },
+      {
+        "name": "Ahamad Tajudin Abdul Khader",
+        "institution": [
+          {
+            "id": "i09_61",
+            "name": "University Sains Malaysia, Malaysia",
+            "url": ""
+          }
+        ],
+        "id": "a09_60",
+        "url": ""
+      },
+      {
+        "name": "Bahari Belaton",
+        "institution": [
+          {
+            "id": "i09_61",
+            "name": "University Sains Malaysia, Malaysia",
+            "url": ""
+          }
+        ],
+        "id": "a09_61",
+        "url": ""
+      }
+    ],
+    "doi": "10.1007/978-1-4419-0312-9_17",
+    "year": "2009",
+    "publisher": "Springer",
+    "conference_title": "vinci"
+  },
+  "10.1007/978-1-4419-0312-9_18": {
+    "type": "paper-conference",
+    "title": "Making Traffic Safety Personal: Visualization and Customization of National Traffic Fatalities.",
+    "url": "https://doi.org/10.1007/978-1-4419-0312-9_18",
+    "authors": [
+      {
+        "name": "Brian N. Hilton",
+        "institution": [
+          {
+            "id": "i09_62",
+            "name": "Claremont Graduate University, United States"
+          }
+        ],
+        "id": "a09_62",
+        "url": ""
+      },
+      {
+        "name": "Thomas A. Horan",
+        "institution": [
+          {
+            "id": "i09_62",
+            "name": "Claremont Graduate University, United States"
+          }
+        ],
+        "id": "a09_63",
+        "url": ""
+      },
+      {
+        "name": "Benjamin L. Schooley",
+        "institution": [
+          {
+            "id": "i09_62",
+            "name": "Claremont Graduate University, United States"
+          }
+        ],
+        "id": "a09_64",
+        "url": ""
+      }
+    ],
+    "doi": "10.1007/978-1-4419-0312-9_18",
+    "year": "2009",
+    "publisher": "Springer",
+    "conference_title": "vinci"
+  },
+  "10.1007/978-1-4419-0312-9_19": {
+    "type": "paper-conference",
+    "title": "Visualizing Table Dependency Relations to Reveal Network Characters in Database Applications.",
+    "url": "https://doi.org/10.1007/978-1-4419-0312-9_19",
+    "authors": [
+      {
+        "name": "Chengying Mao",
+        "institution": [
+          {
+            "id": "i09_65",
+            "name": "Jiangxi University of Finance and Economics, China"
+          }
+        ],
+        "id": "a09_65",
+        "url": ""
+      }
+    ],
+    "doi": "10.1007/978-1-4419-0312-9_19",
+    "year": "2009",
+    "publisher": "Springer",
+    "conference_title": "vinci"
+  },
+  "10.1007/978-1-4419-0312-9_20": {
+    "type": "paper-conference",
+    "title": "Visualized Feature Modeling in Software Product Line.",
+    "url": "https://doi.org/10.1007/978-1-4419-0312-9_20",
+    "authors": [
+      {
+        "name": "Li Zheng",
+        "institution": [
+          {
+            "id": "60025278",
+            "name": "Tsinghua University, China"
+          }
+        ],
+        "id": "a09_66",
+        "url": ""
+      },
+      {
+        "name": "Chao Zhang",
+        "institution": [
+          {
+            "id": "60025278",
+            "name": "Tsinghua University, China"
+          }
+        ],
+        "id": "a09_67",
+        "url": ""
+      },
+      {
+        "name": "Zhanwei Wu",
+        "institution": [
+          {
+            "id": "60025278",
+            "name": "Tsinghua University, China"
+          }
+        ],
+        "id": "a09_68",
+        "url": ""
+      },
+      {
+        "name": "Yixin Yan",
+        "institution": [
+          {
+            "id": "60025278",
+            "name": "Tsinghua University, China"
+          }
+        ],
+        "id": "a09_69",
+        "url": ""
+      }
+    ],
+    "doi": "10.1007/978-1-4419-0312-9_20",
+    "year": "2009",
+    "publisher": "Springer",
+    "conference_title": "vinci"
+  },
+  "10.1007/978-1-4419-0312-9_21": {
+    "type": "paper-conference",
+    "title": "A Useful Visualization Technique: A Literature Review for Augmented Reality and its Application, limitation & future direction.",
+    "url": "https://doi.org/10.1007/978-1-4419-0312-9_21",
+    "authors": [
+      {
+        "name": "Donggang Yu",
+        "institution": [
+          {
+            "id": "i09_70",
+            "name": "University of Newcastle, United Kingdom"
+          }
+        ],
+        "id": "a09_70",
+        "url": ""
+      },
+      {
+        "name": "Jesse Sheng Jin",
+        "institution": [
+          {
+            "id": "i09_70",
+            "name": "University of Newcastle, United Kingdom"
+          }
+        ],
+        "id": "a09_71",
+        "url": ""
+      },
+      {
+        "name": "Suhuai Luo",
+        "institution": [
+          {
+            "id": "i09_70",
+            "name": "University of Newcastle, United Kingdom"
+          }
+        ],
+        "id": "a09_72",
+        "url": ""
+      },
+      {
+        "name": "Wei Lai",
+        "institution": [
+          {
+            "id": "60030804",
+            "name": "Swinburne University of Technology, Australia"
+          }
+        ],
+        "id": "a09_73",
+        "url": ""
+      },
+      {
+        "name": "Qingming Huang",
+        "institution": [
+          {
+            "id": "60019499",
+            "name": "Chinese Academy of Sciences, China"
+          }
+        ],
+        "id": "a09_74",
+        "url": ""
+      }
+    ],
+    "doi": "10.1007/978-1-4419-0312-9_21",
+    "year": "2009",
+    "publisher": "Springer",
+    "conference_title": "vinci"
+  },
+  "10.1007/978-1-4419-0312-9_22": {
+    "type": "paper-conference",
+    "title": "Novel Blind Steganalysis for JPEG Images.",
+    "url": "https://doi.org/10.1007/978-1-4419-0312-9_22",
+    "authors": [
+      {
+        "name": "Zhuo Li",
+        "institution": [
+          {
+            "id": "60003970",
+            "name": "Zhejiang University"
+          }
+        ],
+        "id": "a09_75",
+        "url": ""
+      },
+      {
+        "name": "Jian Chen",
+        "institution": [
+          {
+            "id": "60003970",
+            "name": "Zhejiang University"
+          }
+        ],
+        "id": "a09_76",
+        "url": ""
+      },
+      {
+        "name": "Xiaoning Jiang",
+        "institution": [
+          {
+            "id": "60003970",
+            "name": "Zhejiang University"
+          }
+        ],
+        "id": "a09_77",
+        "url": ""
+      },
+      {
+        "name": "Xian-Ting Zeng",
+        "institution": [
+          {
+            "id": "60003970",
+            "name": "Zhejiang University"
+          }
+        ],
+        "id": "a09_78",
+        "url": ""
+      },
+      {
+        "name": "Xuezeng Pan",
+        "institution": [
+          {
+            "id": "60003970",
+            "name": "Zhejiang University"
+          }
+        ],
+        "id": "a09_79",
+        "url": ""
+      }
+    ],
+    "doi": "10.1007/978-1-4419-0312-9_22",
+    "year": "2009",
+    "publisher": "Springer",
+    "conference_title": "vinci"
+  },
+  "10.1007/978-1-4419-0312-9_23": {
+    "type": "paper-conference",
+    "title": "A Polarization Restraint Based Fast Motion Estimation Approach to H.264 Stereoscopic Video Coding.",
+    "url": "https://doi.org/10.1007/978-1-4419-0312-9_23",
+    "authors": [
+      {
+        "name": "Mingjing Ai",
+        "institution": [
+          {
+            "id": "60013789",
+            "name": "Beihang University, China"
+          }
+        ],
+        "id": "a09_80",
+        "url": ""
+      },
+      {
+        "name": "Lili Zhao",
+        "institution": [
+          {
+            "id": "60013789",
+            "name": "Beihang University, China"
+          }
+        ],
+        "id": "a09_81",
+        "url": ""
+      },
+      {
+        "name": "Yongmei Zhu",
+        "institution": [
+          {
+            "id": "60013789",
+            "name": "Beihang University, China"
+          }
+        ],
+        "id": "a09_82",
+        "url": ""
+      },
+      {
+        "name": "Qinping Zhao",
+        "institution": [
+          {
+            "id": "60013789",
+            "name": "Beihang University, China"
+          }
+        ],
+        "id": "a09_83",
+        "url": ""
+      }
+    ],
+    "doi": "10.1007/978-1-4419-0312-9_23",
+    "year": "2009",
+    "publisher": "Springer",
+    "conference_title": "vinci"
+  },
+  "10.1007/978-1-4419-0312-9_24": {
+    "type": "paper-conference",
+    "title": "Multi-core Parallel of Photon Mapping.",
+    "url": "https://doi.org/10.1007/978-1-4419-0312-9_24",
+    "authors": [
+      {
+        "name": "Huaiqing He",
+        "institution": [
+          {
+            "id": "i09_85",
+            "name": "Civil Aviation University of China"
+          }
+        ],
+        "id": "a09_84",
+        "url": ""
+      },
+      {
+        "name": "Tianbao Wang",
+        "institution": [
+          {
+            "id": "i09_85",
+            "name": "Civil Aviation University of China"
+          }
+        ],
+        "id": "a09_85",
+        "url": ""
+      },
+      {
+        "name": "Qing Xu",
+        "institution": [
+          {
+            "id": "60019533",
+            "name": "Tianjin University, China"
+          }
+        ],
+        "id": "a09_86",
+        "url": ""
+      },
+      {
+        "name": "Yaoyu Xing",
+        "institution": [
+          {
+            "id": "i09_85",
+            "name": "Civil Aviation University of China"
+          }
+        ],
+        "id": "a09_87",
+        "url": ""
+      }
+    ],
+    "doi": "10.1007/978-1-4419-0312-9_24",
+    "year": "2009",
+    "publisher": "Springer",
+    "conference_title": "vinci"
+  }
+}
