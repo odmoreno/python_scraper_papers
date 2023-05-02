@@ -1,11 +1,17 @@
 e1,e2,value
+oceania,oceania,30
 middle east,oceania,1
-asia,oceania,11
-asia,north america,18
+north america,asia,18
 oceania,north america,4
+oceania,asia,11
+europe,europe,23
+asia,asia,106
+north america,north america,32
 ,north america,1
+,,1
 asia,europe,2
 europe,oceania,2
 europe,north america,2
-south america,europe,1
+europe,south america,1
 south america,north america,1
+south america,south america,1

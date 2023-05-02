@@ -1,244 +1,412 @@
 e1,e2,value
-ICT Center,National ICT Australia,1
-ICT Center,The University of Sydney,1
-ICT Center,University of New South Wales,1
-ICT Center,King Fahad University of Petroleum and Minerals,1
+The University of Sydney,The University of Sydney,1
+King Fahad University of Petroleum and Minerals,National ICT Australia,1
+King Fahad University of Petroleum and Minerals,The University of Sydney,1
+King Fahad University of Petroleum and Minerals,University of New South Wales,1
+King Fahad University of Petroleum and Minerals,ICT Center,1
 National ICT Australia,The University of Sydney,1
 National ICT Australia,University of New South Wales,1
-National ICT Australia,King Fahad University of Petroleum and Minerals,1
+National ICT Australia,ICT Center,1
 The University of Sydney,University of New South Wales,1
-The University of Sydney,King Fahad University of Petroleum and Minerals,1
-University of New South Wales,King Fahad University of Petroleum and Minerals,1
-Hong Kong University of Science and Technology,The University of Texas at Dallas,1
-Hong Kong University of Science and Technology,University of Technology Sydney,1
+The University of Sydney,ICT Center,1
+University of New South Wales,ICT Center,1
+The University of Texas at Dallas,Hong Kong University of Science and Technology,1
 The University of Texas at Dallas,University of Technology Sydney,1
-Beihang University,Shangdong Institute of Commerce and Technology,1
+Hong Kong University of Science and Technology,University of Technology Sydney,1
+University of Konstanz,University of Konstanz,3
+Beihang University,Beihang University,3
 Beihang University,Institute of Software Chinese Academy of Sciences,2
-Shangdong Institute of Commerce and Technology,Institute of Software Chinese Academy of Sciences,1
-University of Technology Sydney,Tianjin University,2
-University of Technology Sydney,Western Sydney University,2
+Beihang University,Shangdong Institute of Commerce and Technology,1
+Institute of Software Chinese Academy of Sciences,Institute of Software Chinese Academy of Sciences,2
+Institute of Software Chinese Academy of Sciences,Shangdong Institute of Commerce and Technology,1
+Tianjin University,Tianjin University,2
 Tianjin University,Western Sydney University,1
-Hohai University,Nanjing University,1
-Chinese Academy of Sciences,The University of Newcastle,1
-Chinese Academy of Sciences,Swinburne University of Technology,1
+Tianjin University,University of Technology Sydney,2
+Western Sydney University,University of Technology Sydney,2
+Universitat Pompeu Fabra,Universitat Pompeu Fabra,1
+Nanjing University,Nanjing University,1
+Nanjing University,Hohai University,1
+Multimedia University,Multimedia University,1
+University of Macau,University of Macau,2
+Ocean University of China,Ocean University of China,1
+German Research Center for Artificial Intelligence,German Research Center for Artificial Intelligence,1
+Ecole Nationale Supérieure d’Architecture de Strasbourg,Ecole Nationale Supérieure d’Architecture de Strasbourg,1
+University Sains Malaysia,University Sains Malaysia,1
+Claremont Graduate University,Claremont Graduate University,1
+Tsinghua University,Tsinghua University,2
+The University of Newcastle,The University of Newcastle,1
 The University of Newcastle,Swinburne University of Technology,1
+The University of Newcastle,Chinese Academy of Sciences,1
+Swinburne University of Technology,Chinese Academy of Sciences,1
+Zhejiang University,Zhejiang University,1
+Civil Aviation University of China,Civil Aviation University of China,1
 Civil Aviation University of China,Tianjin University,1
-university of technology,CSIRO ICT Centre,1
-western sydney university,university of technology,2
+peking university,peking university,1
+shandong university,shandong university,5
+beijing normal university,beijing normal university,2
+CSIRO ICT Centre,university of technology,1
+dalhousie university,dalhousie university,1
+KDU College Penang Campus,KDU College Penang Campus,1
+Chinese Academy of Sciences,Chinese Academy of Sciences,7
+western sydney university,western sydney university,3
+western sydney university,university of technology,3
+CSIRO -- ICT Centre,CSIRO -- ICT Centre,1
+the penn state university park,the penn state university park,1
+shimane university,shimane university,2
+university of texas,university of texas,5
+pennsylvania state university,pennsylvania state university,2
+charlotte visualization center,Palo Alto Research Center,1
+charlotte visualization center,university of new hampshire,1
+charlotte visualization center,charlotte visualization center,1
 Palo Alto Research Center,university of new hampshire,1
-Palo Alto Research Center,charlotte visualization center,1
-university of new hampshire,charlotte visualization center,1
+university of macau,university of macau,7
+University of Tsukuba,University of Tsukuba,1
 Chinese Academy of Sciences,beijing jiaotong university,1
 Chinese Academy of Sciences,Chinese Academy of Sciences Beijing,1
 beijing jiaotong university,Chinese Academy of Sciences Beijing,1
+ochanomizu university,ochanomizu university,6
 shimane university,Yamamoto Clinic,1
-Chinese Academy of Sciences,Pennsylvania State University,1
+Yamamoto Clinic,Yamamoto Clinic,1
 Chinese Academy of Sciences,Microsoft Research Asia,1
-Pennsylvania State University,Microsoft Research Asia,1
-university of technology sydney,tianjin university,1
-sun yatsen university,the penn state university,1
-Chinese Academy of Sciences,IBM T,1
-Chinese Academy of Sciences,IBM Research -- China,1
-Chinese Academy of Sciences,tsinghua university beijing,1
-IBM T,IBM Research -- China,1
-IBM T,tsinghua university beijing,1
+Chinese Academy of Sciences,Pennsylvania State University,1
+Microsoft Research Asia,Pennsylvania State University,1
+dalhousie university halifax,dalhousie university halifax,1
+tianjin university,tianjin university,7
+tianjin university,university of technology sydney,1
+hong kong university of science and technology,hong kong university of science and technology,3
+southern methodist university,southern methodist university,1
+the penn state university,sun yatsen university,1
+the penn state university,the penn state university,1
+sun yatsen university,sun yatsen university,1
+zhejiang university of technology,zhejiang university of technology,1
+central south university,central south university,2
+shandong university jinan,shandong university jinan,2
+IBM Research -- China,IBM Research -- China,1
+IBM Research -- China,IBM T,1
+IBM Research -- China,Chinese Academy of Sciences,1
 IBM Research -- China,tsinghua university beijing,1
+IBM T,Chinese Academy of Sciences,1
+IBM T,tsinghua university beijing,1
+Chinese Academy of Sciences,tsinghua university beijing,1
 vanderbilt university,boise state university,1
 Beijing Normal University,Drexel University,1
+university of illinois,university of illinois,2
+UNC Charlotte Charlotte,UNC Charlotte Charlotte,1
 UNC Charlotte Charlotte,zhejiang university,1
-university of technology,UT Southwestern Medical Center at Dallas,1
-university of technology,tianjin university,2
-university of technology,university of western,1
+university of western,UT Southwestern Medical Center at Dallas,1
+university of western,university of technology,1
+university of western,tianjin university,1
+UT Southwestern Medical Center at Dallas,university of technology,1
 UT Southwestern Medical Center at Dallas,tianjin university,1
-UT Southwestern Medical Center at Dallas,university of western,1
-tianjin university,university of western,1
-soochow university suzhou,east china normal university,1
-university of texas,tianjin university,9
-university of the pacific,UNC Charlotte,1
+university of technology,tianjin university,2
+east china normal university,east china normal university,5
+east china normal university,soochow university suzhou,1
+tianjin university,university of texas,9
+nanjing university,nanjing university,3
+UNC Charlotte,UNC Charlotte,1
+UNC Charlotte,university of the pacific,1
+university of the pacific,university of the pacific,1
+tsinghua university,tsinghua university,3
+australia university of technology,national chiao tung university,1
+australia university of technology,university of technology sydney,1
 national chiao tung university,university of technology sydney,1
-national chiao tung university,australia university of technology,1
-university of technology sydney,australia university of technology,1
-shizuoka university,sapienza university of rome,1
-shizuoka university,Kinjito Co,1
+sapienza university of rome,shizuoka university,1
 sapienza university of rome,Kinjito Co,1
-Chinese Academy of Sciences,beihang university,1
-university of salerno,western sydney university,1
+shizuoka university,Kinjito Co,1
+beihang university,beihang university,1
+beihang university,Chinese Academy of Sciences,1
 university of salerno,australia and australian catholic university,1
-western sydney university,australia and australian catholic university,1
+university of salerno,western sydney university,1
+australia and australian catholic university,western sydney university,1
+Harbin Institute of Technology,Harbin Institute of Technology,1
+Tsinghua University,hong kong university of science and technology,1
+Tsinghua University,Information System Sina Technology,1
 hong kong university of science and technology,Information System Sina Technology,1
-hong kong university of science and technology,Tsinghua University,1
-Information System Sina Technology,Tsinghua University,1
+Information System Sina Technology,Information System Sina Technology,1
 university of technology,Western Sydney University,1
-university of salerno,university of rome,1
-university of salerno,university of brighton,1
+university of technology,university of technology,2
+Western Sydney University,Western Sydney University,1
+university of salerno,university of salerno,3
+university of rome,university of salerno,1
 university of rome,university of brighton,1
-university of lille,university françois rabelais of tours,1
-loughborough university,aston university,1
-winthrop university,university college london,1
+university of salerno,university of brighton,1
+university françois rabelais of tours,university of lille,1
+university françois rabelais of tours,university françois rabelais of tours,1
+aston university,loughborough university,1
 winthrop university,Institute of Design,1
-university college london,Institute of Design,1
-Micron Technology Incorporated,university of san francisco,1
+winthrop university,university college london,1
+Institute of Design,university college london,1
+university college london,university college london,1
+lomonosov moscow state university,lomonosov moscow state university,1
 Micron Technology Incorporated,boise state university,1
-university of san francisco,boise state university,1
-university of technology,western sydney university,1
-tianjin university,western sydney university,1
+Micron Technology Incorporated,university of san francisco,1
+boise state university,boise state university,1
+boise state university,university of san francisco,1
+western sydney university,tianjin university,1
+university of stuttgart,university of stuttgart,5
+university of tokyo,university of tokyo,1
 university of tokyo,university of tsukuba,1
-hong kong university of science and technology,Shenzhen University,1
-university of salerno,university of western sydney,1
+Shenzhen University,hong kong university of science and technology,1
+Shenzhen University,Shenzhen University,1
+swinburne university of technology,swinburne university of technology,2
+university of paderborn,university of paderborn,1
+national chiao tung university,national chiao tung university,2
 university of salerno,australian catholic university,1
-university of western sydney,australian catholic university,1
-university of alberta,kansas state university,1
-university of alberta,western sydney university,1
-university of alberta,university of british columbia,1
-university of alberta,central queensland university,1
-kansas state university,western sydney university,1
-kansas state university,university of british columbia,1
-kansas state university,central queensland university,1
-western sydney university,university of british columbia,1
+university of salerno,university of western sydney,1
+australian catholic university,university of western sydney,1
 western sydney university,central queensland university,1
-university of british columbia,central queensland university,1
+western sydney university,university of british columbia,1
+western sydney university,kansas state university,1
+western sydney university,university of alberta,1
+central queensland university,central queensland university,1
+central queensland university,university of british columbia,1
+central queensland university,kansas state university,1
+central queensland university,university of alberta,1
+university of british columbia,kansas state university,1
+university of british columbia,university of alberta,1
+kansas state university,university of alberta,1
+Technology National Institute of Technology Karnataka,Technology National Institute of Technology Karnataka,1
 Technology National Institute of Technology Karnataka,National Institute of Technology Karnataka,1
+National Institute of Technology Karnataka,National Institute of Technology Karnataka,2
+Indian Institute of Technology Guwahati,Indian Institute of Technology Guwahati,1
+university of waikato,university of waikato,1
+university of brighton,university of brighton,3
 university of brighton,university of kent,2
 university of tasmania,CSIRO,1
-CSIRO Computational Informatics,the university of sydney,1
+the university of sydney,the university of sydney,3
+the university of sydney,CSIRO Computational Informatics,1
+kyushu university,kyushu university,2
+james cook university,james cook university,2
+brigham young university,brigham young university,1
+university of tasmania,university of tasmania,1
+deakin university,deakin university,2
 university of colombo,monash university,3
-monash university malaysia,university of colombo,1
-Shiseido Research Center,ochanomizu university,1
-Aichi Institute of Technology,Toba National College of Maritime Technology,1
-Aichi Institute of Technology,university of tsukuba,1
-Aichi Institute of Technology,aichi university of education,1
-Toba National College of Maritime Technology,university of tsukuba,1
-Toba National College of Maritime Technology,aichi university of education,1
+The 28th Research Institute of China Electronics Technology Group Corporation,The 28th Research Institute of China Electronics Technology Group Corporation,1
+queensland university of technology,queensland university of technology,2
+university of colombo,monash university malaysia,1
+ochanomizu university,Shiseido Research Center,1
+Shiseido Research Center,Shiseido Research Center,1
+Department of IT,Department of IT,1
+university of colombo,university of colombo,1
+university of toyama,university of toyama,1
+Sejong University,Sejong University,2
+university of tsukuba,university of tsukuba,2
 university of tsukuba,aichi university of education,1
-monash university,the university of sydney,1
-St Vincent's Private Hospital,university of new south wales,1
-St Vincent's Private Hospital,St Vincent's Hospital,1
+university of tsukuba,Toba National College of Maritime Technology,1
+university of tsukuba,Aichi Institute of Technology,1
+aichi university of education,Toba National College of Maritime Technology,1
+aichi university of education,Aichi Institute of Technology,1
+Toba National College of Maritime Technology,Aichi Institute of Technology,1
+Visualisierungsinstitut der Universität Stuttgart,Visualisierungsinstitut der Universität Stuttgart,1
+the university of sydney,monash university,1
 university of new south wales,St Vincent's Hospital,1
+university of new south wales,St Vincent's Private Hospital,1
+university of new south wales,university of new south wales,1
+St Vincent's Hospital,St Vincent's Hospital,1
+St Vincent's Hospital,St Vincent's Private Hospital,1
 Universiti Teknologi Malaysia,university of canterbury,1
+Universiti Teknologi Malaysia,Universiti Teknologi Malaysia,1
+university of rome la sapienza rome,university of rome la sapienza rome,1
+TCS Research,TCS Research,1
 university of chinese academy of sciences,State Key Laboratory of Computer Science,1
-university of texas,nankai university,1
-Gakushuin University,gakushuin university,2
-Gakushuin University,school of commerce senshu university,1
+State Key Laboratory of Computer Science,State Key Laboratory of Computer Science,1
+nankai university,nankai university,2
+nankai university,university of texas,1
+VISUS,VISUS,1
 gakushuin university,school of commerce senshu university,1
-the university of sydney,ochanomizu university,1
-Centre les Capucins,tokyo university of science,1
-Centre les Capucins,Laboratoire Angevin de Recherche en Ingénierie des Systèmes,1
+gakushuin university,Gakushuin University,2
+school of commerce senshu university,Gakushuin University,1
+Gakushuin University,Gakushuin University,2
+tokyo metropolitan university,tokyo metropolitan university,1
+interdisciplinary graduate school of science and engineering shimane university,interdisciplinary graduate school of science and engineering shimane university,1
+university of western sydney,university of western sydney,1
+ochanomizu university,the university of sydney,1
+ajou university,ajou university,3
+tokyo university of science,tokyo university of science,1
+tokyo university of science,Centre les Capucins,1
 tokyo university of science,Laboratoire Angevin de Recherche en Ingénierie des Systèmes,1
-Chang Gung Memorial Hospital,chang gung university,1
-Gakushuin University,senshu university,1
+Centre les Capucins,Laboratoire Angevin de Recherche en Ingénierie des Systèmes,1
+Centre les Capucins,Centre les Capucins,1
+university of electrocommunications,university of electrocommunications,1
+chang gung university,chang gung university,1
+chang gung university,Chang Gung Memorial Hospital,1
+Chang Gung Memorial Hospital,Chang Gung Memorial Hospital,1
+National Institute of Informatics,National Institute of Informatics,1
 gakushuin university,senshu university,1
-oklahoma state university,university of illinois,1
-Arizona State University,Central South University,1
+senshu university,Gakushuin University,1
+university of illinois,oklahoma state university,1
+Central South University,Central South University,1
+Central South University,Arizona State University,1
+VRVis Research Center,university of buenos aires,1
+VRVis Research Center,university of maryland,1
+VRVis Research Center,CONICET and U,1
+VRVis Research Center,Virginia Tech Blacksburg,1
+VRVis Research Center,VRVis Research Center,1
+university of buenos aires,university of maryland,1
 university of buenos aires,CONICET and U,1
 university of buenos aires,Virginia Tech Blacksburg,1
-university of buenos aires,VRVis Research Center,1
-university of buenos aires,university of maryland,1
+university of maryland,CONICET and U,1
+university of maryland,Virginia Tech Blacksburg,1
 CONICET and U,Virginia Tech Blacksburg,1
-CONICET and U,VRVis Research Center,1
-CONICET and U,university of maryland,1
-Virginia Tech Blacksburg,VRVis Research Center,1
-Virginia Tech Blacksburg,university of maryland,1
-VRVis Research Center,university of maryland,1
-university of tokyo,keio university,1
 university of tokyo,university of aizu,1
-keio university,university of aizu,1
+university of tokyo,keio university,1
+university of aizu,keio university,1
 western sydney university,J Craig Venter Institute,1
 J Craig Venter Institute,university of technology,1
-washington university,oregon state university,1
-washington university,university of north texas,1
-washington university,Rochester Institute of Technology,1
-oregon state university,university of north texas,1
-oregon state university,Rochester Institute of Technology,1
+Institute for Computer Science,Institute for Computer Science,1
+university of north texas,university of north texas,1
+university of north texas,washington university,1
 university of north texas,Rochester Institute of Technology,1
-university of melbourne,university of macau,2
-zhejiang university,zhejiang university of technology,1
-zhejiang university,changsha university of science and technology,1
-zhejiang university,stony brook university,1
-zhejiang university of technology,changsha university of science and technology,1
-zhejiang university of technology,stony brook university,1
+university of north texas,oregon state university,1
+washington university,Rochester Institute of Technology,1
+washington university,oregon state university,1
+Rochester Institute of Technology,oregon state university,1
+oregon state university,oregon state university,1
+north dakota state university,north dakota state university,1
+university of macau,university of melbourne,2
+university of san francisco,university of san francisco,2
 changsha university of science and technology,stony brook university,1
-technical university of germany,Fraunhofer IGD,1
-Baidu Inc,hohai university,1
+changsha university of science and technology,zhejiang university,1
+changsha university of science and technology,zhejiang university of technology,1
+stony brook university,zhejiang university,1
+stony brook university,zhejiang university of technology,1
+zhejiang university,zhejiang university of technology,1
+zhejiang university,zhejiang university,5
+Fraunhofer IGD,Fraunhofer IGD,1
+Fraunhofer IGD,technical university of germany,1
+technical university of germany,technical university of germany,1
+drexel university,drexel university,1
+hohai university,hohai university,3
+hohai university,Baidu Inc,1
+Baidu Inc,Baidu Inc,1
 zhejiang university,university of californiadavis,1
+university shanghai,university shanghai,1
 BYU Hawaii,brigham young university,1
-tianjin university,John Paul II High School,1
-tianjin university,Highland Park High School,1
-John Paul II High School,Highland Park High School,1
+BYU Hawaii,BYU Hawaii,1
+southeast university,southeast university,1
+university of wyoming,university of wyoming,1
+Highland Park High School,John Paul II High School,1
+Highland Park High School,tianjin university,1
+John Paul II High School,tianjin university,1
+tongji university,tongji university,4
+shanghai jiao tong university,shanghai jiao tong university,2
 purdue university,indiana university,1
-Technische Universität Dresden,SAP SE,1
+SAP SE,Technische Universität Dresden,1
+Technische Universität Dresden,Technische Universität Dresden,2
 central south university,Enterprise Security Group,1
 central south university,beijing technology and business university,1
 Enterprise Security Group,beijing technology and business university,1
-Yonsei University,Sejong University,1
-Fraunhofer Institute for Solar Energy Systems ISE,university of stuttgart,1
-university of helsinki,Aalto University,1
+Sejong University,Yonsei University,1
+Yonsei University,Yonsei University,1
+university of stuttgart,Fraunhofer Institute for Solar Energy Systems ISE,1
+Fraunhofer Institute for Solar Energy Systems ISE,Fraunhofer Institute for Solar Energy Systems ISE,1
+Aalto University,Aalto University,1
+Aalto University,university of helsinki,1
+university of helsinki,university of helsinki,2
+vienna university of technology tu wien,vienna university of technology tu wien,1
 university of tsukuba,Fujitsu Laboratories Ltd,1
-king mongkuts university of technology thonburi,university of toronto,1
+University of California,University of California,1
+university of toronto,king mongkuts university of technology thonburi,1
+king mongkuts university of technology thonburi,king mongkuts university of technology thonburi,3
 university of texas,Beijing Film Academy,1
 university of texas,Chinese Academy of Sciences,1
 Beijing Film Academy,Chinese Academy of Sciences,1
-tianjin university,China Automotive Technology and Research Center,1
+China Automotive Technology and Research Center,China Automotive Technology and Research Center,1
+China Automotive Technology and Research Center,tianjin university,1
 ajou university,seoul national university,1
-Agoda Services Co,king mongkuts university of technology thonburi,1
+king mongkuts university of technology thonburi,Agoda Services Co,1
+university of toronto,university of toronto,1
 university of toronto,KMUTT,1
-Universitá di Padova,university of helsinki,1
+KMUTT,KMUTT,1
+university of helsinki,Universitá di Padova,1
+Universitá di Padova,Universitá di Padova,1
 zhejiang university,university of texas,1
+university of stuttgart and university of reutlingen,university of stuttgart and university of reutlingen,1
+Technische Universität Dresden,deecoob Technology GmbH,1
 Technische Universität Dresden,Mercateo AG,1
 Technische Universität Dresden,Chemmedia AG,1
-Technische Universität Dresden,deecoob Technology GmbH,1
+deecoob Technology GmbH,Mercateo AG,1
+deecoob Technology GmbH,Chemmedia AG,1
 Mercateo AG,Chemmedia AG,1
-Mercateo AG,deecoob Technology GmbH,1
-Chemmedia AG,deecoob Technology GmbH,1
-University of Cambridge,university of brighton,1
-TETIS,CIRAD,1
-TETIS,LIRMM,1
-TETIS,BITS Pilani,1
-CIRAD,LIRMM,1
-CIRAD,BITS Pilani,1
-LIRMM,BITS Pilani,1
-CSIRO Data 61,monash university,1
-CSIRO Data 61,swinburne university of technology,1
-CSIRO Data 61,deakin university,1
-monash university,swinburne university of technology,1
-monash university,deakin university,1
+university of brighton,University of Cambridge,1
+University of Cambridge,University of Cambridge,1
+BITS Pilani,LIRMM,1
+BITS Pilani,CIRAD,1
+BITS Pilani,TETIS,1
+LIRMM,CIRAD,1
+LIRMM,LIRMM,1
+LIRMM,TETIS,1
+CIRAD,TETIS,1
 swinburne university of technology,deakin university,1
-East China Normal University,east of china normal university,1
+swinburne university of technology,monash university,1
+swinburne university of technology,CSIRO Data 61,1
+deakin university,monash university,1
+deakin university,CSIRO Data 61,1
+monash university,CSIRO Data 61,1
+east of china normal university,east of china normal university,1
+east of china normal university,East China Normal University,1
 eindhoven university of technology,university of stuttgart,1
 university of texas,hohai university,1
-tianjin university,hohai university,1
-ipk gaterslebenbielefeld university,university of konstanz,1
+hohai university,tianjin university,1
+university of potsdam,university of potsdam,4
+Technion,Technion,1
 ipk gaterslebenbielefeld university,bielefeld university,1
-university of konstanz,bielefeld university,1
-RIPE NCC,roma tre university,1
-Reutlingen University,eindhoven university of technology,1
-university of potsdam,linnaeus university,1
-lund university,linnaeus university,1
+ipk gaterslebenbielefeld university,university of konstanz,1
+bielefeld university,bielefeld university,1
+bielefeld university,university of konstanz,1
+university of konstanz,university of konstanz,1
+roma tre university,RIPE NCC,1
+roma tre university,roma tre university,1
+eindhoven university of technology,Reutlingen University,1
+Reutlingen University,Reutlingen University,1
+linnaeus university,linnaeus university,5
+linnaeus university,university of potsdam,1
+linnaeus university,lund university,1
+RIKEN Center for Computational Science,RIKEN Center for Computational Science,1
 RIKEN Center for Computational Science,kyushu university,1
-Microsoft Research Asia,School of Computer Science and Technology,1
+mid sweden university,mid sweden university,1
+university of applied sciences,university of applied sciences,1
+hangzhou dianzi university,hangzhou dianzi university,1
+sejong university,sejong university,1
+School of Computer Science and Technology,Microsoft Research Asia,1
+School of Computer Science and Technology,School of Computer Science and Technology,1
+vienna university of technology,vienna university of technology,1
+information engineering university,information engineering university,2
 university of potsdam,Targomo GmbH,1
-Royal College of Arts,University of Konstanz,1
-Chinese Academy of Sciences,chinese academy of sciences and university of chinese academy of sciencess,1
-university of texas,technology and business university,1
-university of texas,university of science and technology of china,1
+Targomo GmbH,Targomo GmbH,1
+eindhoven university of technology,eindhoven university of technology,2
+University of Konstanz,Royal College of Arts,1
+Shanghai Hanjie Science and Technology Development Co,Shanghai Hanjie Science and Technology Development Co,1
+chinese academy of sciences and university of chinese academy of sciencess,Chinese Academy of Sciences,1
 tianjin university,technology and business university,1
 tianjin university,university of science and technology of china,1
+technology and business university,university of texas,1
 technology and business university,university of science and technology of china,1
+university of texas,university of science and technology of china,1
+hunan university,hunan university,1
+east china normal university,university of techonlogy sydney,1
+east china normal university,Shanghai Chinafortune Co,1
+east china normal university,ChengShu Information Technology,1
+university of techonlogy sydney,Shanghai Chinafortune Co,1
+university of techonlogy sydney,ChengShu Information Technology,1
 Shanghai Chinafortune Co,ChengShu Information Technology,1
-Shanghai Chinafortune Co,university of techonlogy sydney,1
-Shanghai Chinafortune Co,east china normal university,1
-ChengShu Information Technology,university of techonlogy sydney,1
-ChengShu Information Technology,east china normal university,1
-university of techonlogy sydney,east china normal university,1
 University of Konstanz,Department Evolutionary Ecology,1
-university of wuppertal,engineering rwth aachen university,1
-university of eastern finland,Karlsruhe Institut für Technologie,1
-university of eastern finland,LMU Munich,1
-university of eastern finland,chalmers university of technology gothenburg,1
-university of eastern finland,chalmers university of technology,1
-Karlsruhe Institut für Technologie,LMU Munich,1
-Karlsruhe Institut für Technologie,chalmers university of technology gothenburg,1
-Karlsruhe Institut für Technologie,chalmers university of technology,1
+Department Evolutionary Ecology,Department Evolutionary Ecology,1
+engineering rwth aachen university,university of wuppertal,1
+university of louisville,university of louisville,1
+national university of defense technology,national university of defense technology,1
+qufu normal university,qufu normal university,1
+chalmers university of technology,LMU Munich,1
+chalmers university of technology,Karlsruhe Institut für Technologie,1
+chalmers university of technology,university of eastern finland,1
+chalmers university of technology,chalmers university of technology,1
+chalmers university of technology,chalmers university of technology gothenburg,1
+LMU Munich,Karlsruhe Institut für Technologie,1
+LMU Munich,university of eastern finland,1
 LMU Munich,chalmers university of technology gothenburg,1
-LMU Munich,chalmers university of technology,1
-chalmers university of technology gothenburg,chalmers university of technology,1
-tongji university shanghai,tongji university,1
+Karlsruhe Institut für Technologie,university of eastern finland,1
+Karlsruhe Institut für Technologie,chalmers university of technology gothenburg,1
+university of eastern finland,chalmers university of technology gothenburg,1
+communication university of china,communication university of china,1
+tongji university,tongji university shanghai,1
+east china university of science and technology,east china university of science and technology,5

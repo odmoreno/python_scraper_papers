@@ -1,37 +1,67 @@
 e1,e2,value
+australia,australia,31
 saudi arabia,australia,1
-australia,united states,4
-australia,hong kong,1
 united states,hong kong,1
-australia,china,10
-,united states,2
-united states,china,22
+australia,united states,4
+hong kong,australia,1
+germany,germany,43
+china,china,106
+china,australia,10
+spain,spain,1
+malaysia,malaysia,4
+france,france,4
+united states,united states,37
+canada,canada,4
+japan,japan,29
+united states,,2
+,,1
+china,united states,22
+hong kong,hong kong,3
 italy,japan,1
 italy,australia,2
 china,hong kong,2
+italy,italy,6
 italy,united kingdom,1
-united kingdom,united states,1
+united kingdom,united kingdom,6
+united states,united kingdom,1
+russian federation,russian federation,1
 australia,canada,1
-united states,canada,1
+canada,united states,1
+india,india,5
+new zealand,new zealand,1
 sri lanka,malaysia,4
-new zealand,malaysia,1
-australia,japan,2
+sri lanka,sri lanka,1
+south korea,south korea,6
+taiwan,taiwan,2
+malaysia,new zealand,1
+japan,australia,2
 japan,france,1
+austria,argentina,1
+austria,united states,1
+austria,austria,5
 argentina,united states,1
-argentina,austria,1
-united states,austria,1
-thailand,canada,2
-italy,finland,1
-france,india,1
-germany,netherlands,2
+argentina,argentina,1
+finland,finland,3
+canada,thailand,2
+thailand,thailand,4
+finland,italy,1
+india,france,1
+netherlands,germany,2
+israel,israel,1
 italy,netherlands,1
-germany,sweden,2
+sweden,sweden,8
+sweden,germany,2
+netherlands,netherlands,14
 germany,united kingdom,1
+sweden,finland,1
 germany,finland,1
-finland,sweden,1
-germany,switzerland,2
+switzerland,germany,2
 germany,united states,1
-switzerland,united states,2
+united states,switzerland,2
+switzerland,switzerland,2
+denmark,denmark,2
 germany,china,1
-denmark,finland,1
+colombia,colombia,1
+finland,denmark,1
 switzerland,netherlands,1
+ecuador,ecuador,2

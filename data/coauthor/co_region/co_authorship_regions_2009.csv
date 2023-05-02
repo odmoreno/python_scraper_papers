@@ -1,5 +1,9 @@
 e1,e2,value
+oceania,oceania,5
 middle east,oceania,1
-asia,oceania,4
-asia,north america,1
-oceania,north america,1
+north america,asia,1
+north america,oceania,1
+oceania,asia,4
+europe,europe,4
+asia,asia,13
+north america,north america,1

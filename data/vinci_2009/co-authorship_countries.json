@@ -1,20 +1,20 @@
 {
+  "australia_ australia_ 10.1007/978-1-4419-0312-9_1": {
+    "el1": "australia",
+    "el2": "australia",
+    "paper_doi": "10.1007/978-1-4419-0312-9_1",
+    "date": "2009"
+  },
   "saudi arabia_ australia_ 10.1007/978-1-4419-0312-9_2": {
     "el1": "saudi arabia",
     "el2": "australia",
     "paper_doi": "10.1007/978-1-4419-0312-9_2",
     "date": "2009"
   },
-  "australia_ united states_ 10.1007/978-1-4419-0312-9_3": {
+  "australia_ australia_ 10.1007/978-1-4419-0312-9_2": {
     "el1": "australia",
-    "el2": "united states",
-    "paper_doi": "10.1007/978-1-4419-0312-9_3",
-    "date": "2009"
-  },
-  "australia_ hong kong_ 10.1007/978-1-4419-0312-9_3": {
-    "el1": "australia",
-    "el2": "hong kong",
-    "paper_doi": "10.1007/978-1-4419-0312-9_3",
+    "el2": "australia",
+    "paper_doi": "10.1007/978-1-4419-0312-9_2",
     "date": "2009"
   },
   "united states_ hong kong_ 10.1007/978-1-4419-0312-9_3": {
@@ -23,16 +23,136 @@
     "paper_doi": "10.1007/978-1-4419-0312-9_3",
     "date": "2009"
   },
-  "australia_ china_ 10.1007/978-1-4419-0312-9_6": {
-    "el1": "australia",
+  "united states_ australia_ 10.1007/978-1-4419-0312-9_3": {
+    "el1": "united states",
+    "el2": "australia",
+    "paper_doi": "10.1007/978-1-4419-0312-9_3",
+    "date": "2009"
+  },
+  "hong kong_ australia_ 10.1007/978-1-4419-0312-9_3": {
+    "el1": "hong kong",
+    "el2": "australia",
+    "paper_doi": "10.1007/978-1-4419-0312-9_3",
+    "date": "2009"
+  },
+  "germany_ germany_ 10.1007/978-1-4419-0312-9_4": {
+    "el1": "germany",
+    "el2": "germany",
+    "paper_doi": "10.1007/978-1-4419-0312-9_4",
+    "date": "2009"
+  },
+  "china_ china_ 10.1007/978-1-4419-0312-9_5": {
+    "el1": "china",
+    "el2": "china",
+    "paper_doi": "10.1007/978-1-4419-0312-9_5",
+    "date": "2009"
+  },
+  "china_ china_ 10.1007/978-1-4419-0312-9_6": {
+    "el1": "china",
     "el2": "china",
     "paper_doi": "10.1007/978-1-4419-0312-9_6",
     "date": "2009"
   },
-  "australia_ china_ 10.1007/978-1-4419-0312-9_12": {
+  "china_ australia_ 10.1007/978-1-4419-0312-9_6": {
+    "el1": "china",
+    "el2": "australia",
+    "paper_doi": "10.1007/978-1-4419-0312-9_6",
+    "date": "2009"
+  },
+  "australia_ australia_ 10.1007/978-1-4419-0312-9_6": {
     "el1": "australia",
+    "el2": "australia",
+    "paper_doi": "10.1007/978-1-4419-0312-9_6",
+    "date": "2009"
+  },
+  "spain_ spain_ 10.1007/978-1-4419-0312-9_7": {
+    "el1": "spain",
+    "el2": "spain",
+    "paper_doi": "10.1007/978-1-4419-0312-9_7",
+    "date": "2009"
+  },
+  "china_ china_ 10.1007/978-1-4419-0312-9_8": {
+    "el1": "china",
+    "el2": "china",
+    "paper_doi": "10.1007/978-1-4419-0312-9_8",
+    "date": "2009"
+  },
+  "malaysia_ malaysia_ 10.1007/978-1-4419-0312-9_9": {
+    "el1": "malaysia",
+    "el2": "malaysia",
+    "paper_doi": "10.1007/978-1-4419-0312-9_9",
+    "date": "2009"
+  },
+  "china_ china_ 10.1007/978-1-4419-0312-9_10": {
+    "el1": "china",
+    "el2": "china",
+    "paper_doi": "10.1007/978-1-4419-0312-9_10",
+    "date": "2009"
+  },
+  "china_ china_ 10.1007/978-1-4419-0312-9_11": {
+    "el1": "china",
+    "el2": "china",
+    "paper_doi": "10.1007/978-1-4419-0312-9_11",
+    "date": "2009"
+  },
+  "china_ china_ 10.1007/978-1-4419-0312-9_12": {
+    "el1": "china",
     "el2": "china",
     "paper_doi": "10.1007/978-1-4419-0312-9_12",
+    "date": "2009"
+  },
+  "china_ australia_ 10.1007/978-1-4419-0312-9_12": {
+    "el1": "china",
+    "el2": "australia",
+    "paper_doi": "10.1007/978-1-4419-0312-9_12",
+    "date": "2009"
+  },
+  "germany_ germany_ 10.1007/978-1-4419-0312-9_13": {
+    "el1": "germany",
+    "el2": "germany",
+    "paper_doi": "10.1007/978-1-4419-0312-9_13",
+    "date": "2009"
+  },
+  "china_ china_ 10.1007/978-1-4419-0312-9_14": {
+    "el1": "china",
+    "el2": "china",
+    "paper_doi": "10.1007/978-1-4419-0312-9_14",
+    "date": "2009"
+  },
+  "australia_ australia_ 10.1007/978-1-4419-0312-9_15": {
+    "el1": "australia",
+    "el2": "australia",
+    "paper_doi": "10.1007/978-1-4419-0312-9_15",
+    "date": "2009"
+  },
+  "france_ france_ 10.1007/978-1-4419-0312-9_16": {
+    "el1": "france",
+    "el2": "france",
+    "paper_doi": "10.1007/978-1-4419-0312-9_16",
+    "date": "2009"
+  },
+  "malaysia_ malaysia_ 10.1007/978-1-4419-0312-9_17": {
+    "el1": "malaysia",
+    "el2": "malaysia",
+    "paper_doi": "10.1007/978-1-4419-0312-9_17",
+    "date": "2009"
+  },
+  "united states_ united states_ 10.1007/978-1-4419-0312-9_18": {
+    "el1": "united states",
+    "el2": "united states",
+    "paper_doi": "10.1007/978-1-4419-0312-9_18",
+    "date": "2009"
+  },
+  "china_ china_ 10.1007/978-1-4419-0312-9_20": {
+    "el1": "china",
+    "el2": "china",
+    "paper_doi": "10.1007/978-1-4419-0312-9_20",
+    "date": "2009"
+  },
+  "australia_ australia_ 10.1007/978-1-4419-0312-9_21": {
+    "el1": "australia",
+    "el2": "australia",
+    "paper_doi": "10.1007/978-1-4419-0312-9_21",
     "date": "2009"
   },
   "australia_ china_ 10.1007/978-1-4419-0312-9_21": {
@@ -41,26 +161,140 @@
     "paper_doi": "10.1007/978-1-4419-0312-9_21",
     "date": "2009"
   },
+  "china_ china_ 10.1007/978-1-4419-0312-9_22": {
+    "el1": "china",
+    "el2": "china",
+    "paper_doi": "10.1007/978-1-4419-0312-9_22",
+    "date": "2009"
+  },
+  "china_ china_ 10.1007/978-1-4419-0312-9_23": {
+    "el1": "china",
+    "el2": "china",
+    "paper_doi": "10.1007/978-1-4419-0312-9_23",
+    "date": "2009"
+  },
+  "china_ china_ 10.1007/978-1-4419-0312-9_24": {
+    "el1": "china",
+    "el2": "china",
+    "paper_doi": "10.1007/978-1-4419-0312-9_24",
+    "date": "2009"
+  },
+  "germany_ germany_ 10.1145/3481549.3481569": {
+    "el1": "germany",
+    "el2": "germany",
+    "paper_doi": "10.1145/3481549.3481569",
+    "date": "2021"
+  },
   "germany_ china_ 10.1145/3481549.3481569": {
     "el1": "germany",
     "el2": "china",
     "paper_doi": "10.1145/3481549.3481569",
     "date": "2021"
   },
-  "switzerland_ united states_ 10.1145/3481549.3481562": {
-    "el1": "switzerland",
+  "china_ china_ 10.1145/3481549.3481569": {
+    "el1": "china",
+    "el2": "china",
+    "paper_doi": "10.1145/3481549.3481569",
+    "date": "2021"
+  },
+  "japan_ japan_ 10.1145/3481549.3481553": {
+    "el1": "japan",
+    "el2": "japan",
+    "paper_doi": "10.1145/3481549.3481553",
+    "date": "2021"
+  },
+  "sweden_ sweden_ 10.1145/3481549.3481557": {
+    "el1": "sweden",
+    "el2": "sweden",
+    "paper_doi": "10.1145/3481549.3481557",
+    "date": "2021"
+  },
+  "germany_ germany_ 10.1145/3481549.3481563": {
+    "el1": "germany",
+    "el2": "germany",
+    "paper_doi": "10.1145/3481549.3481563",
+    "date": "2021"
+  },
+  "germany_ germany_ 10.1145/3481549.3481568": {
+    "el1": "germany",
+    "el2": "germany",
+    "paper_doi": "10.1145/3481549.3481568",
+    "date": "2021"
+  },
+  "germany_ germany_ 10.1145/3481549.3481570": {
+    "el1": "germany",
+    "el2": "germany",
+    "paper_doi": "10.1145/3481549.3481570",
+    "date": "2021"
+  },
+  "united states_ united states_ 10.1145/3481549.3481562": {
+    "el1": "united states",
     "el2": "united states",
     "paper_doi": "10.1145/3481549.3481562",
     "date": "2021"
   },
-  "australia_ japan_ 10.1145/3481549.3481555": {
+  "united states_ switzerland_ 10.1145/3481549.3481562": {
+    "el1": "united states",
+    "el2": "switzerland",
+    "paper_doi": "10.1145/3481549.3481562",
+    "date": "2021"
+  },
+  "united kingdom_ united kingdom_ 10.1145/3481549.3481560": {
+    "el1": "united kingdom",
+    "el2": "united kingdom",
+    "paper_doi": "10.1145/3481549.3481560",
+    "date": "2021"
+  },
+  "australia_ australia_ 10.1145/3481549.3481556": {
     "el1": "australia",
+    "el2": "australia",
+    "paper_doi": "10.1145/3481549.3481556",
+    "date": "2021"
+  },
+  "colombia_ colombia_ 10.1145/3481549.3481554": {
+    "el1": "colombia",
+    "el2": "colombia",
+    "paper_doi": "10.1145/3481549.3481554",
+    "date": "2021"
+  },
+  "austria_ austria_ 10.1145/3481549.3481558": {
+    "el1": "austria",
+    "el2": "austria",
+    "paper_doi": "10.1145/3481549.3481558",
+    "date": "2021"
+  },
+  "united states_ united states_ 10.1145/3481549.3481564": {
+    "el1": "united states",
+    "el2": "united states",
+    "paper_doi": "10.1145/3481549.3481564",
+    "date": "2021"
+  },
+  "japan_ australia_ 10.1145/3481549.3481555": {
+    "el1": "japan",
+    "el2": "australia",
+    "paper_doi": "10.1145/3481549.3481555",
+    "date": "2021"
+  },
+  "japan_ japan_ 10.1145/3481549.3481555": {
+    "el1": "japan",
     "el2": "japan",
     "paper_doi": "10.1145/3481549.3481555",
     "date": "2021"
   },
-  "denmark_ finland_ 10.1145/3481549.3481565": {
-    "el1": "denmark",
+  "germany_ germany_ 10.1145/3481549.3481566": {
+    "el1": "germany",
+    "el2": "germany",
+    "paper_doi": "10.1145/3481549.3481566",
+    "date": "2021"
+  },
+  "finland_ denmark_ 10.1145/3481549.3481565": {
+    "el1": "finland",
+    "el2": "denmark",
+    "paper_doi": "10.1145/3481549.3481565",
+    "date": "2021"
+  },
+  "finland_ finland_ 10.1145/3481549.3481565": {
+    "el1": "finland",
     "el2": "finland",
     "paper_doi": "10.1145/3481549.3481565",
     "date": "2021"
@@ -71,15 +305,129 @@
     "paper_doi": "10.1145/3481549.3481550",
     "date": "2021"
   },
-  "france_ india_ 10.1145/3231622.3231624": {
-    "el1": "france",
-    "el2": "india",
+  "netherlands_ netherlands_ 10.1145/3481549.3481550": {
+    "el1": "netherlands",
+    "el2": "netherlands",
+    "paper_doi": "10.1145/3481549.3481550",
+    "date": "2021"
+  },
+  "ecuador_ ecuador_ 10.1145/3481549.3481571": {
+    "el1": "ecuador",
+    "el2": "ecuador",
+    "paper_doi": "10.1145/3481549.3481571",
+    "date": "2021"
+  },
+  "germany_ germany_ 10.1145/3481549.3481573": {
+    "el1": "germany",
+    "el2": "germany",
+    "paper_doi": "10.1145/3481549.3481573",
+    "date": "2021"
+  },
+  "ecuador_ ecuador_ 10.1145/3481549.3481572": {
+    "el1": "ecuador",
+    "el2": "ecuador",
+    "paper_doi": "10.1145/3481549.3481572",
+    "date": "2021"
+  },
+  "germany_ germany_ 10.1145/3481549.3481559": {
+    "el1": "germany",
+    "el2": "germany",
+    "paper_doi": "10.1145/3481549.3481559",
+    "date": "2021"
+  },
+  "united states_ united states_ 10.1145/3481549.3481567": {
+    "el1": "united states",
+    "el2": "united states",
+    "paper_doi": "10.1145/3481549.3481567",
+    "date": "2021"
+  },
+  "china_ china_ 10.1145/3481549.3481551": {
+    "el1": "china",
+    "el2": "china",
+    "paper_doi": "10.1145/3481549.3481551",
+    "date": "2021"
+  },
+  "china_ china_ 10.1145/3481549.3481552": {
+    "el1": "china",
+    "el2": "china",
+    "paper_doi": "10.1145/3481549.3481552",
+    "date": "2021"
+  },
+  "switzerland_ switzerland_ 10.1145/3481549.3481561": {
+    "el1": "switzerland",
+    "el2": "switzerland",
+    "paper_doi": "10.1145/3481549.3481561",
+    "date": "2021"
+  },
+  "germany_ germany_ 10.1145/3430036.3430041": {
+    "el1": "germany",
+    "el2": "germany",
+    "paper_doi": "10.1145/3430036.3430041",
+    "date": "2020"
+  },
+  "germany_ germany_ 10.1145/3430036.3430054": {
+    "el1": "germany",
+    "el2": "germany",
+    "paper_doi": "10.1145/3430036.3430054",
+    "date": "2020"
+  },
+  "netherlands_ netherlands_ 10.1145/3430036.3430037": {
+    "el1": "netherlands",
+    "el2": "netherlands",
+    "paper_doi": "10.1145/3430036.3430037",
+    "date": "2020"
+  },
+  "china_ china_ 10.1145/3356422.3356433": {
+    "el1": "china",
+    "el2": "china",
+    "paper_doi": "10.1145/3356422.3356433",
+    "date": "2019"
+  },
+  "china_ china_ 10.1145/3356422.3356440": {
+    "el1": "china",
+    "el2": "china",
+    "paper_doi": "10.1145/3356422.3356440",
+    "date": "2019"
+  },
+  "south korea_ south korea_ 10.1145/3356422.3356439": {
+    "el1": "south korea",
+    "el2": "south korea",
+    "paper_doi": "10.1145/3356422.3356439",
+    "date": "2019"
+  },
+  "india_ france_ 10.1145/3231622.3231624": {
+    "el1": "india",
+    "el2": "france",
     "paper_doi": "10.1145/3231622.3231624",
     "date": "2018"
   },
-  "germany_ netherlands_ 10.1145/3231622.3231635": {
+  "france_ france_ 10.1145/3231622.3231624": {
+    "el1": "france",
+    "el2": "france",
+    "paper_doi": "10.1145/3231622.3231624",
+    "date": "2018"
+  },
+  "australia_ australia_ 10.1145/3231622.3231626": {
+    "el1": "australia",
+    "el2": "australia",
+    "paper_doi": "10.1145/3231622.3231626",
+    "date": "2018"
+  },
+  "china_ china_ 10.1145/3231622.3231627": {
+    "el1": "china",
+    "el2": "china",
+    "paper_doi": "10.1145/3231622.3231627",
+    "date": "2018"
+  },
+  "germany_ germany_ 10.1145/3231622.3231628": {
     "el1": "germany",
-    "el2": "netherlands",
+    "el2": "germany",
+    "paper_doi": "10.1145/3231622.3231628",
+    "date": "2018"
+  },
+  "netherlands_ germany_ 10.1145/3231622.3231635": {
+    "el1": "netherlands",
+    "el2": "germany",
     "paper_doi": "10.1145/3231622.3231635",
     "date": "2018"
   },
@@ -89,28 +437,202 @@
     "paper_doi": "10.1145/3231622.3231637",
     "date": "2018"
   },
+  "united states_ united states_ 10.1145/3231622.3231637": {
+    "el1": "united states",
+    "el2": "united states",
+    "paper_doi": "10.1145/3231622.3231637",
+    "date": "2018"
+  },
+  "china_ china_ 10.1145/3231622.3231637": {
+    "el1": "china",
+    "el2": "china",
+    "paper_doi": "10.1145/3231622.3231637",
+    "date": "2018"
+  },
+  "germany_ germany_ 10.1145/3231622.3231638": {
+    "el1": "germany",
+    "el2": "germany",
+    "paper_doi": "10.1145/3231622.3231638",
+    "date": "2018"
+  },
+  "israel_ israel_ 10.1145/3231622.3231623": {
+    "el1": "israel",
+    "el2": "israel",
+    "paper_doi": "10.1145/3231622.3231623",
+    "date": "2018"
+  },
+  "germany_ germany_ 10.1145/3231622.3231639": {
+    "el1": "germany",
+    "el2": "germany",
+    "paper_doi": "10.1145/3231622.3231639",
+    "date": "2018"
+  },
   "italy_ netherlands_ 10.1145/3231622.3231632": {
     "el1": "italy",
     "el2": "netherlands",
     "paper_doi": "10.1145/3231622.3231632",
     "date": "2018"
   },
-  "germany_ netherlands_ 10.1145/3231622.3231633": {
-    "el1": "germany",
-    "el2": "netherlands",
+  "italy_ italy_ 10.1145/3231622.3231632": {
+    "el1": "italy",
+    "el2": "italy",
+    "paper_doi": "10.1145/3231622.3231632",
+    "date": "2018"
+  },
+  "netherlands_ germany_ 10.1145/3231622.3231633": {
+    "el1": "netherlands",
+    "el2": "germany",
     "paper_doi": "10.1145/3231622.3231633",
     "date": "2018"
   },
-  "germany_ sweden_ 10.1145/3231622.3232505": {
+  "germany_ germany_ 10.1145/3231622.3231633": {
     "el1": "germany",
+    "el2": "germany",
+    "paper_doi": "10.1145/3231622.3231633",
+    "date": "2018"
+  },
+  "sweden_ sweden_ 10.1145/3231622.3231625": {
+    "el1": "sweden",
+    "el2": "sweden",
+    "paper_doi": "10.1145/3231622.3231625",
+    "date": "2018"
+  },
+  "sweden_ sweden_ 10.1145/3231622.3231641": {
+    "el1": "sweden",
+    "el2": "sweden",
+    "paper_doi": "10.1145/3231622.3231641",
+    "date": "2018"
+  },
+  "sweden_ germany_ 10.1145/3231622.3232505": {
+    "el1": "sweden",
+    "el2": "germany",
+    "paper_doi": "10.1145/3231622.3232505",
+    "date": "2018"
+  },
+  "sweden_ sweden_ 10.1145/3231622.3232505": {
+    "el1": "sweden",
     "el2": "sweden",
     "paper_doi": "10.1145/3231622.3232505",
     "date": "2018"
   },
-  "thailand_ canada_ 10.1145/3105971.3108447": {
-    "el1": "thailand",
-    "el2": "canada",
+  "sweden_ sweden_ 10.1145/3231622.3232508": {
+    "el1": "sweden",
+    "el2": "sweden",
+    "paper_doi": "10.1145/3231622.3232508",
+    "date": "2018"
+  },
+  "sweden_ sweden_ 10.1145/3231622.3232506": {
+    "el1": "sweden",
+    "el2": "sweden",
+    "paper_doi": "10.1145/3231622.3232506",
+    "date": "2018"
+  },
+  "japan_ japan_ 10.1145/3231622.3232504": {
+    "el1": "japan",
+    "el2": "japan",
+    "paper_doi": "10.1145/3231622.3232504",
+    "date": "2018"
+  },
+  "sweden_ sweden_ 10.1145/3231622.3231636": {
+    "el1": "sweden",
+    "el2": "sweden",
+    "paper_doi": "10.1145/3231622.3231636",
+    "date": "2018"
+  },
+  "austria_ austria_ 10.1145/3231622.3231640": {
+    "el1": "austria",
+    "el2": "austria",
+    "paper_doi": "10.1145/3231622.3231640",
+    "date": "2018"
+  },
+  "south korea_ south korea_ 10.1145/3231622.3232507": {
+    "el1": "south korea",
+    "el2": "south korea",
+    "paper_doi": "10.1145/3231622.3232507",
+    "date": "2018"
+  },
+  "germany_ germany_ 10.1145/3105971.3105972": {
+    "el1": "germany",
+    "el2": "germany",
+    "paper_doi": "10.1145/3105971.3105972",
+    "date": "2017"
+  },
+  "china_ china_ 10.1145/3105971.3105980": {
+    "el1": "china",
+    "el2": "china",
+    "paper_doi": "10.1145/3105971.3105980",
+    "date": "2017"
+  },
+  "china_ china_ 10.1145/3105971.3105983": {
+    "el1": "china",
+    "el2": "china",
+    "paper_doi": "10.1145/3105971.3105983",
+    "date": "2017"
+  },
+  "china_ china_ 10.1145/3105971.3105986": {
+    "el1": "china",
+    "el2": "china",
+    "paper_doi": "10.1145/3105971.3105986",
+    "date": "2017"
+  },
+  "south korea_ south korea_ 10.1145/3105971.3105975": {
+    "el1": "south korea",
+    "el2": "south korea",
+    "paper_doi": "10.1145/3105971.3105975",
+    "date": "2017"
+  },
+  "germany_ germany_ 10.1145/3105971.3105982": {
+    "el1": "germany",
+    "el2": "germany",
+    "paper_doi": "10.1145/3105971.3105982",
+    "date": "2017"
+  },
+  "finland_ finland_ 10.1145/3105971.3105981": {
+    "el1": "finland",
+    "el2": "finland",
+    "paper_doi": "10.1145/3105971.3105981",
+    "date": "2017"
+  },
+  "austria_ austria_ 10.1145/3105971.3105984": {
+    "el1": "austria",
+    "el2": "austria",
+    "paper_doi": "10.1145/3105971.3105984",
+    "date": "2017"
+  },
+  "japan_ japan_ 10.1145/3105971.3105987": {
+    "el1": "japan",
+    "el2": "japan",
+    "paper_doi": "10.1145/3105971.3105987",
+    "date": "2017"
+  },
+  "united states_ united states_ 10.1145/3105971.3105990": {
+    "el1": "united states",
+    "el2": "united states",
+    "paper_doi": "10.1145/3105971.3105990",
+    "date": "2017"
+  },
+  "china_ china_ 10.1145/3105971.3108443": {
+    "el1": "china",
+    "el2": "china",
+    "paper_doi": "10.1145/3105971.3108443",
+    "date": "2017"
+  },
+  "canada_ thailand_ 10.1145/3105971.3108447": {
+    "el1": "canada",
+    "el2": "thailand",
     "paper_doi": "10.1145/3105971.3108447",
+    "date": "2017"
+  },
+  "thailand_ thailand_ 10.1145/3105971.3108447": {
+    "el1": "thailand",
+    "el2": "thailand",
+    "paper_doi": "10.1145/3105971.3108447",
+    "date": "2017"
+  },
+  "china_ china_ 10.1145/3105971.3108450": {
+    "el1": "china",
+    "el2": "china",
+    "paper_doi": "10.1145/3105971.3108450",
     "date": "2017"
   },
   "united states_ china_ 10.1145/3105971.3108444": {
@@ -119,34 +641,166 @@
     "paper_doi": "10.1145/3105971.3108444",
     "date": "2017"
   },
-  "thailand_ canada_ 10.1145/3105971.3108448": {
+  "china_ china_ 10.1145/3105971.3108444": {
+    "el1": "china",
+    "el2": "china",
+    "paper_doi": "10.1145/3105971.3108444",
+    "date": "2017"
+  },
+  "china_ china_ 10.1145/3105971.3108442": {
+    "el1": "china",
+    "el2": "china",
+    "paper_doi": "10.1145/3105971.3108442",
+    "date": "2017"
+  },
+  "south korea_ south korea_ 10.1145/3105971.3108445": {
+    "el1": "south korea",
+    "el2": "south korea",
+    "paper_doi": "10.1145/3105971.3108445",
+    "date": "2017"
+  },
+  "thailand_ thailand_ 10.1145/3105971.3108446": {
     "el1": "thailand",
+    "el2": "thailand",
+    "paper_doi": "10.1145/3105971.3108446",
+    "date": "2017"
+  },
+  "canada_ canada_ 10.1145/3105971.3108448": {
+    "el1": "canada",
     "el2": "canada",
     "paper_doi": "10.1145/3105971.3108448",
     "date": "2017"
   },
-  "italy_ finland_ 10.1145/3105971.3105977": {
-    "el1": "italy",
+  "canada_ thailand_ 10.1145/3105971.3108448": {
+    "el1": "canada",
+    "el2": "thailand",
+    "paper_doi": "10.1145/3105971.3108448",
+    "date": "2017"
+  },
+  "thailand_ thailand_ 10.1145/3105971.3108448": {
+    "el1": "thailand",
+    "el2": "thailand",
+    "paper_doi": "10.1145/3105971.3108448",
+    "date": "2017"
+  },
+  "china_ china_ 10.1145/3105971.3105992": {
+    "el1": "china",
+    "el2": "china",
+    "paper_doi": "10.1145/3105971.3105992",
+    "date": "2017"
+  },
+  "thailand_ thailand_ 10.1145/3105971.3108449": {
+    "el1": "thailand",
+    "el2": "thailand",
+    "paper_doi": "10.1145/3105971.3108449",
+    "date": "2017"
+  },
+  "finland_ italy_ 10.1145/3105971.3105977": {
+    "el1": "finland",
+    "el2": "italy",
+    "paper_doi": "10.1145/3105971.3105977",
+    "date": "2017"
+  },
+  "finland_ finland_ 10.1145/3105971.3105977": {
+    "el1": "finland",
     "el2": "finland",
     "paper_doi": "10.1145/3105971.3105977",
     "date": "2017"
   },
-  "united states_ china_ 10.1145/3105971.3105974": {
-    "el1": "united states",
+  "italy_ italy_ 10.1145/3105971.3105977": {
+    "el1": "italy",
+    "el2": "italy",
+    "paper_doi": "10.1145/3105971.3105977",
+    "date": "2017"
+  },
+  "china_ united states_ 10.1145/3105971.3105974": {
+    "el1": "china",
+    "el2": "united states",
+    "paper_doi": "10.1145/3105971.3105974",
+    "date": "2017"
+  },
+  "china_ china_ 10.1145/3105971.3105974": {
+    "el1": "china",
     "el2": "china",
     "paper_doi": "10.1145/3105971.3105974",
     "date": "2017"
   },
-  "australia_ china_ 10.1145/3105971.3105976": {
-    "el1": "australia",
+  "germany_ germany_ 10.1145/3105971.3105989": {
+    "el1": "germany",
+    "el2": "germany",
+    "paper_doi": "10.1145/3105971.3105989",
+    "date": "2017"
+  },
+  "china_ australia_ 10.1145/3105971.3105976": {
+    "el1": "china",
+    "el2": "australia",
+    "paper_doi": "10.1145/3105971.3105976",
+    "date": "2017"
+  },
+  "china_ china_ 10.1145/3105971.3105976": {
+    "el1": "china",
     "el2": "china",
     "paper_doi": "10.1145/3105971.3105976",
     "date": "2017"
   },
-  "united states_ china_ 10.1145/2968220.2968221": {
+  "united kingdom_ united kingdom_ 10.1145/3105971.3105978": {
+    "el1": "united kingdom",
+    "el2": "united kingdom",
+    "paper_doi": "10.1145/3105971.3105978",
+    "date": "2017"
+  },
+  "germany_ germany_ 10.1145/3105971.3105979": {
+    "el1": "germany",
+    "el2": "germany",
+    "paper_doi": "10.1145/3105971.3105979",
+    "date": "2017"
+  },
+  "united kingdom_ united kingdom_ 10.1145/3105971.3105988": {
+    "el1": "united kingdom",
+    "el2": "united kingdom",
+    "paper_doi": "10.1145/3105971.3105988",
+    "date": "2017"
+  },
+  "united states_ united states_ 10.1145/2968220.2968229": {
     "el1": "united states",
+    "el2": "united states",
+    "paper_doi": "10.1145/2968220.2968229",
+    "date": "2016"
+  },
+  "hong kong_ hong kong_ 10.1145/2968220.2968242": {
+    "el1": "hong kong",
+    "el2": "hong kong",
+    "paper_doi": "10.1145/2968220.2968242",
+    "date": "2016"
+  },
+  "china_ china_ 10.1145/2968220.2968221": {
+    "el1": "china",
     "el2": "china",
     "paper_doi": "10.1145/2968220.2968221",
+    "date": "2016"
+  },
+  "china_ united states_ 10.1145/2968220.2968221": {
+    "el1": "china",
+    "el2": "united states",
+    "paper_doi": "10.1145/2968220.2968221",
+    "date": "2016"
+  },
+  "austria_ argentina_ 10.1145/2968220.2968238": {
+    "el1": "austria",
+    "el2": "argentina",
+    "paper_doi": "10.1145/2968220.2968238",
+    "date": "2016"
+  },
+  "austria_ united states_ 10.1145/2968220.2968238": {
+    "el1": "austria",
+    "el2": "united states",
+    "paper_doi": "10.1145/2968220.2968238",
+    "date": "2016"
+  },
+  "austria_ austria_ 10.1145/2968220.2968238": {
+    "el1": "austria",
+    "el2": "austria",
+    "paper_doi": "10.1145/2968220.2968238",
     "date": "2016"
   },
   "argentina_ united states_ 10.1145/2968220.2968238": {
@@ -155,16 +809,28 @@
     "paper_doi": "10.1145/2968220.2968238",
     "date": "2016"
   },
-  "argentina_ austria_ 10.1145/2968220.2968238": {
+  "argentina_ argentina_ 10.1145/2968220.2968238": {
     "el1": "argentina",
-    "el2": "austria",
+    "el2": "argentina",
     "paper_doi": "10.1145/2968220.2968238",
     "date": "2016"
   },
-  "united states_ austria_ 10.1145/2968220.2968238": {
+  "united states_ united states_ 10.1145/2968220.2968238": {
     "el1": "united states",
-    "el2": "austria",
+    "el2": "united states",
     "paper_doi": "10.1145/2968220.2968238",
+    "date": "2016"
+  },
+  "japan_ japan_ 10.1145/2968220.2968224": {
+    "el1": "japan",
+    "el2": "japan",
+    "paper_doi": "10.1145/2968220.2968224",
+    "date": "2016"
+  },
+  "australia_ australia_ 10.1145/2968220.2968248": {
+    "el1": "australia",
+    "el2": "australia",
+    "paper_doi": "10.1145/2968220.2968248",
     "date": "2016"
   },
   "australia_ united states_ 10.1145/2968220.2968248": {
@@ -173,28 +839,130 @@
     "paper_doi": "10.1145/2968220.2968248",
     "date": "2016"
   },
+  "germany_ germany_ 10.1145/2968220.2968230": {
+    "el1": "germany",
+    "el2": "germany",
+    "paper_doi": "10.1145/2968220.2968230",
+    "date": "2016"
+  },
+  "united states_ united states_ 10.1145/2968220.2968235": {
+    "el1": "united states",
+    "el2": "united states",
+    "paper_doi": "10.1145/2968220.2968235",
+    "date": "2016"
+  },
+  "united states_ united states_ 10.1145/2968220.2968236": {
+    "el1": "united states",
+    "el2": "united states",
+    "paper_doi": "10.1145/2968220.2968236",
+    "date": "2016"
+  },
   "australia_ china_ 10.1145/2968220.2968239": {
     "el1": "australia",
     "el2": "china",
     "paper_doi": "10.1145/2968220.2968239",
     "date": "2016"
   },
-  "united states_ china_ 10.1145/2968220.2968222": {
+  "china_ china_ 10.1145/2968220.2968239": {
+    "el1": "china",
+    "el2": "china",
+    "paper_doi": "10.1145/2968220.2968239",
+    "date": "2016"
+  },
+  "china_ china_ 10.1145/2968220.2968240": {
+    "el1": "china",
+    "el2": "china",
+    "paper_doi": "10.1145/2968220.2968240",
+    "date": "2016"
+  },
+  "united states_ united states_ 10.1145/2968220.2968241": {
     "el1": "united states",
+    "el2": "united states",
+    "paper_doi": "10.1145/2968220.2968241",
+    "date": "2016"
+  },
+  "china_ united states_ 10.1145/2968220.2968222": {
+    "el1": "china",
+    "el2": "united states",
+    "paper_doi": "10.1145/2968220.2968222",
+    "date": "2016"
+  },
+  "china_ china_ 10.1145/2968220.2968222": {
+    "el1": "china",
     "el2": "china",
     "paper_doi": "10.1145/2968220.2968222",
     "date": "2016"
   },
-  "united states_ china_ 10.1145/2968220.2968228": {
+  "germany_ germany_ 10.1145/2968220.2968223": {
+    "el1": "germany",
+    "el2": "germany",
+    "paper_doi": "10.1145/2968220.2968223",
+    "date": "2016"
+  },
+  "united states_ united states_ 10.1145/2968220.2968244": {
     "el1": "united states",
+    "el2": "united states",
+    "paper_doi": "10.1145/2968220.2968244",
+    "date": "2016"
+  },
+  "china_ china_ 10.1145/2968220.2968246": {
+    "el1": "china",
+    "el2": "china",
+    "paper_doi": "10.1145/2968220.2968246",
+    "date": "2016"
+  },
+  "china_ united states_ 10.1145/2968220.2968228": {
+    "el1": "china",
+    "el2": "united states",
+    "paper_doi": "10.1145/2968220.2968228",
+    "date": "2016"
+  },
+  "china_ china_ 10.1145/2968220.2968228": {
+    "el1": "china",
     "el2": "china",
     "paper_doi": "10.1145/2968220.2968228",
     "date": "2016"
   },
-  "united states_ china_ 10.1145/2968220.2968232": {
-    "el1": "united states",
-    "el2": "china",
+  "china_ united states_ 10.1145/2968220.2968232": {
+    "el1": "china",
+    "el2": "united states",
     "paper_doi": "10.1145/2968220.2968232",
+    "date": "2016"
+  },
+  "china_ china_ 10.1145/2968220.2968227": {
+    "el1": "china",
+    "el2": "china",
+    "paper_doi": "10.1145/2968220.2968227",
+    "date": "2016"
+  },
+  "united states_ united states_ 10.1145/2968220.2968231": {
+    "el1": "united states",
+    "el2": "united states",
+    "paper_doi": "10.1145/2968220.2968231",
+    "date": "2016"
+  },
+  "united states_ united states_ 10.1145/2968220.2968233": {
+    "el1": "united states",
+    "el2": "united states",
+    "paper_doi": "10.1145/2968220.2968233",
+    "date": "2016"
+  },
+  "china_ china_ 10.1145/2968220.2968243": {
+    "el1": "china",
+    "el2": "china",
+    "paper_doi": "10.1145/2968220.2968243",
+    "date": "2016"
+  },
+  "united states_ united states_ 10.1145/2968220.2968245": {
+    "el1": "united states",
+    "el2": "united states",
+    "paper_doi": "10.1145/2968220.2968245",
+    "date": "2016"
+  },
+  "united states_ united states_ 10.1145/2968220.2972225": {
+    "el1": "united states",
+    "el2": "united states",
+    "paper_doi": "10.1145/2968220.2972225",
     "date": "2016"
   },
   "united states_ china_ 10.1145/2968220.2972225": {
@@ -203,28 +971,202 @@
     "paper_doi": "10.1145/2968220.2972225",
     "date": "2016"
   },
-  "new zealand_ malaysia_ 10.1145/2801040.2801058": {
-    "el1": "new zealand",
+  "china_ china_ 10.1145/2968220.2972226": {
+    "el1": "china",
+    "el2": "china",
+    "paper_doi": "10.1145/2968220.2972226",
+    "date": "2016"
+  },
+  "china_ china_ 10.1145/2968220.2968234": {
+    "el1": "china",
+    "el2": "china",
+    "paper_doi": "10.1145/2968220.2968234",
+    "date": "2016"
+  },
+  "united states_ united states_ 10.1145/2968220.2968249": {
+    "el1": "united states",
+    "el2": "united states",
+    "paper_doi": "10.1145/2968220.2968249",
+    "date": "2016"
+  },
+  "south korea_ south korea_ 10.1145/2801040.2801054": {
+    "el1": "south korea",
+    "el2": "south korea",
+    "paper_doi": "10.1145/2801040.2801054",
+    "date": "2015"
+  },
+  "japan_ japan_ 10.1145/2801040.2801043": {
+    "el1": "japan",
+    "el2": "japan",
+    "paper_doi": "10.1145/2801040.2801043",
+    "date": "2015"
+  },
+  "germany_ germany_ 10.1145/2801040.2801055": {
+    "el1": "germany",
+    "el2": "germany",
+    "paper_doi": "10.1145/2801040.2801055",
+    "date": "2015"
+  },
+  "germany_ germany_ 10.1145/2801040.2801057": {
+    "el1": "germany",
+    "el2": "germany",
+    "paper_doi": "10.1145/2801040.2801057",
+    "date": "2015"
+  },
+  "germany_ germany_ 10.1145/2801040.2801053": {
+    "el1": "germany",
+    "el2": "germany",
+    "paper_doi": "10.1145/2801040.2801053",
+    "date": "2015"
+  },
+  "australia_ australia_ 10.1145/2801040.2801059": {
+    "el1": "australia",
+    "el2": "australia",
+    "paper_doi": "10.1145/2801040.2801059",
+    "date": "2015"
+  },
+  "taiwan_ taiwan_ 10.1145/2801040.2801046": {
+    "el1": "taiwan",
+    "el2": "taiwan",
+    "paper_doi": "10.1145/2801040.2801046",
+    "date": "2015"
+  },
+  "japan_ japan_ 10.1145/2801040.2801044": {
+    "el1": "japan",
+    "el2": "japan",
+    "paper_doi": "10.1145/2801040.2801044",
+    "date": "2015"
+  },
+  "australia_ australia_ 10.1145/2801040.2801051": {
+    "el1": "australia",
+    "el2": "australia",
+    "paper_doi": "10.1145/2801040.2801051",
+    "date": "2015"
+  },
+  "malaysia_ new zealand_ 10.1145/2801040.2801058": {
+    "el1": "malaysia",
+    "el2": "new zealand",
+    "paper_doi": "10.1145/2801040.2801058",
+    "date": "2015"
+  },
+  "malaysia_ malaysia_ 10.1145/2801040.2801058": {
+    "el1": "malaysia",
     "el2": "malaysia",
     "paper_doi": "10.1145/2801040.2801058",
     "date": "2015"
   },
-  "united states_ china_ 10.1145/2801040.2801061": {
-    "el1": "united states",
+  "italy_ italy_ 10.1145/2801040.2801052": {
+    "el1": "italy",
+    "el2": "italy",
+    "paper_doi": "10.1145/2801040.2801052",
+    "date": "2015"
+  },
+  "china_ china_ 10.1145/2801040.2801061": {
+    "el1": "china",
     "el2": "china",
     "paper_doi": "10.1145/2801040.2801061",
     "date": "2015"
   },
-  "united states_ china_ 10.1145/2801040.2801062": {
-    "el1": "united states",
+  "china_ united states_ 10.1145/2801040.2801061": {
+    "el1": "china",
+    "el2": "united states",
+    "paper_doi": "10.1145/2801040.2801061",
+    "date": "2015"
+  },
+  "japan_ japan_ 10.1145/2801040.2801041": {
+    "el1": "japan",
+    "el2": "japan",
+    "paper_doi": "10.1145/2801040.2801041",
+    "date": "2015"
+  },
+  "india_ india_ 10.1145/2801040.2801049": {
+    "el1": "india",
+    "el2": "india",
+    "paper_doi": "10.1145/2801040.2801049",
+    "date": "2015"
+  },
+  "china_ china_ 10.1145/2801040.2801063": {
+    "el1": "china",
+    "el2": "china",
+    "paper_doi": "10.1145/2801040.2801063",
+    "date": "2015"
+  },
+  "china_ china_ 10.1145/2801040.2801062": {
+    "el1": "china",
     "el2": "china",
     "paper_doi": "10.1145/2801040.2801062",
     "date": "2015"
   },
-  "australia_ japan_ 10.1145/2801040.2801067": {
+  "china_ united states_ 10.1145/2801040.2801062": {
+    "el1": "china",
+    "el2": "united states",
+    "paper_doi": "10.1145/2801040.2801062",
+    "date": "2015"
+  },
+  "germany_ germany_ 10.1145/2801040.2801045": {
+    "el1": "germany",
+    "el2": "germany",
+    "paper_doi": "10.1145/2801040.2801045",
+    "date": "2015"
+  },
+  "china_ china_ 10.1145/2801040.2801056": {
+    "el1": "china",
+    "el2": "china",
+    "paper_doi": "10.1145/2801040.2801056",
+    "date": "2015"
+  },
+  "japan_ japan_ 10.1145/2801040.2801042": {
+    "el1": "japan",
+    "el2": "japan",
+    "paper_doi": "10.1145/2801040.2801042",
+    "date": "2015"
+  },
+  "japan_ japan_ 10.1145/2801040.2801047": {
+    "el1": "japan",
+    "el2": "japan",
+    "paper_doi": "10.1145/2801040.2801047",
+    "date": "2015"
+  },
+  "japan_ japan_ 10.1145/2801040.2801050": {
+    "el1": "japan",
+    "el2": "japan",
+    "paper_doi": "10.1145/2801040.2801050",
+    "date": "2015"
+  },
+  "australia_ australia_ 10.1145/2801040.2801060": {
     "el1": "australia",
+    "el2": "australia",
+    "paper_doi": "10.1145/2801040.2801060",
+    "date": "2015"
+  },
+  "japan_ japan_ 10.1145/2801040.2801066": {
+    "el1": "japan",
+    "el2": "japan",
+    "paper_doi": "10.1145/2801040.2801066",
+    "date": "2015"
+  },
+  "japan_ japan_ 10.1145/2801040.2801067": {
+    "el1": "japan",
     "el2": "japan",
     "paper_doi": "10.1145/2801040.2801067",
+    "date": "2015"
+  },
+  "japan_ australia_ 10.1145/2801040.2801067": {
+    "el1": "japan",
+    "el2": "australia",
+    "paper_doi": "10.1145/2801040.2801067",
+    "date": "2015"
+  },
+  "south korea_ south korea_ 10.1145/2801040.2801069": {
+    "el1": "south korea",
+    "el2": "south korea",
+    "paper_doi": "10.1145/2801040.2801069",
+    "date": "2015"
+  },
+  "japan_ japan_ 10.1145/2801040.2801068": {
+    "el1": "japan",
+    "el2": "japan",
+    "paper_doi": "10.1145/2801040.2801068",
     "date": "2015"
   },
   "japan_ france_ 10.1145/2801040.2801068": {
@@ -233,16 +1175,82 @@
     "paper_doi": "10.1145/2801040.2801068",
     "date": "2015"
   },
-  "united states_ china_ 10.1145/2801040.2801072": {
-    "el1": "united states",
+  "france_ france_ 10.1145/2801040.2801068": {
+    "el1": "france",
+    "el2": "france",
+    "paper_doi": "10.1145/2801040.2801068",
+    "date": "2015"
+  },
+  "japan_ japan_ 10.1145/2801040.2801070": {
+    "el1": "japan",
+    "el2": "japan",
+    "paper_doi": "10.1145/2801040.2801070",
+    "date": "2015"
+  },
+  "taiwan_ taiwan_ 10.1145/2801040.2801065": {
+    "el1": "taiwan",
+    "el2": "taiwan",
+    "paper_doi": "10.1145/2801040.2801065",
+    "date": "2015"
+  },
+  "japan_ japan_ 10.1145/2801040.2801071": {
+    "el1": "japan",
+    "el2": "japan",
+    "paper_doi": "10.1145/2801040.2801071",
+    "date": "2015"
+  },
+  "china_ china_ 10.1145/2801040.2801072": {
+    "el1": "china",
     "el2": "china",
     "paper_doi": "10.1145/2801040.2801072",
     "date": "2015"
+  },
+  "china_ united states_ 10.1145/2801040.2801072": {
+    "el1": "china",
+    "el2": "united states",
+    "paper_doi": "10.1145/2801040.2801072",
+    "date": "2015"
+  },
+  "japan_ japan_ 10.1145/2801040.2802138": {
+    "el1": "japan",
+    "el2": "japan",
+    "paper_doi": "10.1145/2801040.2802138",
+    "date": "2015"
+  },
+  "russian federation_ russian federation_ 10.1145/2636240.2636844": {
+    "el1": "russian federation",
+    "el2": "russian federation",
+    "paper_doi": "10.1145/2636240.2636844",
+    "date": "2014"
+  },
+  "united states_ united states_ 10.1145/2636240.2636850": {
+    "el1": "united states",
+    "el2": "united states",
+    "paper_doi": "10.1145/2636240.2636850",
+    "date": "2014"
+  },
+  "australia_ australia_ 10.1145/2636240.2636841": {
+    "el1": "australia",
+    "el2": "australia",
+    "paper_doi": "10.1145/2636240.2636841",
+    "date": "2014"
   },
   "australia_ china_ 10.1145/2636240.2636841": {
     "el1": "australia",
     "el2": "china",
     "paper_doi": "10.1145/2636240.2636841",
+    "date": "2014"
+  },
+  "germany_ germany_ 10.1145/2636240.2636839": {
+    "el1": "germany",
+    "el2": "germany",
+    "paper_doi": "10.1145/2636240.2636839",
+    "date": "2014"
+  },
+  "japan_ japan_ 10.1145/2636240.2636858": {
+    "el1": "japan",
+    "el2": "japan",
+    "paper_doi": "10.1145/2636240.2636858",
     "date": "2014"
   },
   "china_ hong kong_ 10.1145/2636240.2636854": {
@@ -251,15 +1259,57 @@
     "paper_doi": "10.1145/2636240.2636854",
     "date": "2014"
   },
+  "china_ china_ 10.1145/2636240.2636854": {
+    "el1": "china",
+    "el2": "china",
+    "paper_doi": "10.1145/2636240.2636854",
+    "date": "2014"
+  },
+  "hong kong_ hong kong_ 10.1145/2636240.2636854": {
+    "el1": "hong kong",
+    "el2": "hong kong",
+    "paper_doi": "10.1145/2636240.2636854",
+    "date": "2014"
+  },
+  "australia_ australia_ 10.1145/2636240.2636843": {
+    "el1": "australia",
+    "el2": "australia",
+    "paper_doi": "10.1145/2636240.2636843",
+    "date": "2014"
+  },
+  "germany_ germany_ 10.1145/2636240.2636840": {
+    "el1": "germany",
+    "el2": "germany",
+    "paper_doi": "10.1145/2636240.2636840",
+    "date": "2014"
+  },
+  "china_ china_ 10.1145/2636240.2636846": {
+    "el1": "china",
+    "el2": "china",
+    "paper_doi": "10.1145/2636240.2636846",
+    "date": "2014"
+  },
+  "italy_ italy_ 10.1145/2636240.2636855": {
+    "el1": "italy",
+    "el2": "italy",
+    "paper_doi": "10.1145/2636240.2636855",
+    "date": "2014"
+  },
   "italy_ australia_ 10.1145/2636240.2636855": {
     "el1": "italy",
     "el2": "australia",
     "paper_doi": "10.1145/2636240.2636855",
     "date": "2014"
   },
-  "australia_ united states_ 10.1145/2636240.2636842": {
+  "australia_ australia_ 10.1145/2636240.2636855": {
     "el1": "australia",
-    "el2": "united states",
+    "el2": "australia",
+    "paper_doi": "10.1145/2636240.2636855",
+    "date": "2014"
+  },
+  "australia_ australia_ 10.1145/2636240.2636842": {
+    "el1": "australia",
+    "el2": "australia",
     "paper_doi": "10.1145/2636240.2636842",
     "date": "2014"
   },
@@ -269,16 +1319,130 @@
     "paper_doi": "10.1145/2636240.2636842",
     "date": "2014"
   },
-  "united states_ canada_ 10.1145/2636240.2636842": {
-    "el1": "united states",
+  "australia_ united states_ 10.1145/2636240.2636842": {
+    "el1": "australia",
+    "el2": "united states",
+    "paper_doi": "10.1145/2636240.2636842",
+    "date": "2014"
+  },
+  "canada_ united states_ 10.1145/2636240.2636842": {
+    "el1": "canada",
+    "el2": "united states",
+    "paper_doi": "10.1145/2636240.2636842",
+    "date": "2014"
+  },
+  "canada_ canada_ 10.1145/2636240.2636842": {
+    "el1": "canada",
     "el2": "canada",
     "paper_doi": "10.1145/2636240.2636842",
     "date": "2014"
   },
-  "united states_ china_ 10.1145/2636240.2636857": {
-    "el1": "united states",
+  "india_ india_ 10.1145/2636240.2636847": {
+    "el1": "india",
+    "el2": "india",
+    "paper_doi": "10.1145/2636240.2636847",
+    "date": "2014"
+  },
+  "china_ united states_ 10.1145/2636240.2636857": {
+    "el1": "china",
+    "el2": "united states",
+    "paper_doi": "10.1145/2636240.2636857",
+    "date": "2014"
+  },
+  "china_ china_ 10.1145/2636240.2636857": {
+    "el1": "china",
     "el2": "china",
     "paper_doi": "10.1145/2636240.2636857",
+    "date": "2014"
+  },
+  "china_ china_ 10.1145/2636240.2636845": {
+    "el1": "china",
+    "el2": "china",
+    "paper_doi": "10.1145/2636240.2636845",
+    "date": "2014"
+  },
+  "india_ india_ 10.1145/2636240.2636856": {
+    "el1": "india",
+    "el2": "india",
+    "paper_doi": "10.1145/2636240.2636856",
+    "date": "2014"
+  },
+  "new zealand_ new zealand_ 10.1145/2636240.2636853": {
+    "el1": "new zealand",
+    "el2": "new zealand",
+    "paper_doi": "10.1145/2636240.2636853",
+    "date": "2014"
+  },
+  "united kingdom_ united kingdom_ 10.1145/2636240.2636838": {
+    "el1": "united kingdom",
+    "el2": "united kingdom",
+    "paper_doi": "10.1145/2636240.2636838",
+    "date": "2014"
+  },
+  "australia_ australia_ 10.1145/2636240.2636848": {
+    "el1": "australia",
+    "el2": "australia",
+    "paper_doi": "10.1145/2636240.2636848",
+    "date": "2014"
+  },
+  "australia_ australia_ 10.1145/2636240.2636852": {
+    "el1": "australia",
+    "el2": "australia",
+    "paper_doi": "10.1145/2636240.2636852",
+    "date": "2014"
+  },
+  "japan_ japan_ 10.1145/2636240.2636849": {
+    "el1": "japan",
+    "el2": "japan",
+    "paper_doi": "10.1145/2636240.2636849",
+    "date": "2014"
+  },
+  "china_ china_ 10.1145/2636240.2636862": {
+    "el1": "china",
+    "el2": "china",
+    "paper_doi": "10.1145/2636240.2636862",
+    "date": "2014"
+  },
+  "australia_ australia_ 10.1145/2636240.2636860": {
+    "el1": "australia",
+    "el2": "australia",
+    "paper_doi": "10.1145/2636240.2636860",
+    "date": "2014"
+  },
+  "united states_ united states_ 10.1145/2636240.2636871": {
+    "el1": "united states",
+    "el2": "united states",
+    "paper_doi": "10.1145/2636240.2636871",
+    "date": "2014"
+  },
+  "india_ india_ 10.1145/2636240.2636863": {
+    "el1": "india",
+    "el2": "india",
+    "paper_doi": "10.1145/2636240.2636863",
+    "date": "2014"
+  },
+  "australia_ australia_ 10.1145/2636240.2636865": {
+    "el1": "australia",
+    "el2": "australia",
+    "paper_doi": "10.1145/2636240.2636865",
+    "date": "2014"
+  },
+  "australia_ australia_ 10.1145/2636240.2636868": {
+    "el1": "australia",
+    "el2": "australia",
+    "paper_doi": "10.1145/2636240.2636868",
+    "date": "2014"
+  },
+  "australia_ australia_ 10.1145/2636240.2636866": {
+    "el1": "australia",
+    "el2": "australia",
+    "paper_doi": "10.1145/2636240.2636866",
+    "date": "2014"
+  },
+  "japan_ japan_ 10.1145/2636240.2636861": {
+    "el1": "japan",
+    "el2": "japan",
+    "paper_doi": "10.1145/2636240.2636861",
     "date": "2014"
   },
   "sri lanka_ malaysia_ 10.1145/2636240.2636867": {
@@ -287,15 +1451,51 @@
     "paper_doi": "10.1145/2636240.2636867",
     "date": "2014"
   },
+  "china_ china_ 10.1145/2636240.2636870": {
+    "el1": "china",
+    "el2": "china",
+    "paper_doi": "10.1145/2636240.2636870",
+    "date": "2014"
+  },
+  "australia_ australia_ 10.1145/2636240.2636864": {
+    "el1": "australia",
+    "el2": "australia",
+    "paper_doi": "10.1145/2636240.2636864",
+    "date": "2014"
+  },
+  "australia_ australia_ 10.1145/2636240.2636869": {
+    "el1": "australia",
+    "el2": "australia",
+    "paper_doi": "10.1145/2636240.2636869",
+    "date": "2014"
+  },
   "sri lanka_ malaysia_ 10.1145/2636240.2636876": {
     "el1": "sri lanka",
     "el2": "malaysia",
     "paper_doi": "10.1145/2636240.2636876",
     "date": "2014"
   },
+  "japan_ japan_ 10.1145/2636240.2636877": {
+    "el1": "japan",
+    "el2": "japan",
+    "paper_doi": "10.1145/2636240.2636877",
+    "date": "2014"
+  },
+  "india_ india_ 10.1145/2636240.2636878": {
+    "el1": "india",
+    "el2": "india",
+    "paper_doi": "10.1145/2636240.2636878",
+    "date": "2014"
+  },
   "sri lanka_ malaysia_ 10.1145/2636240.2636875": {
     "el1": "sri lanka",
     "el2": "malaysia",
+    "paper_doi": "10.1145/2636240.2636875",
+    "date": "2014"
+  },
+  "sri lanka_ sri lanka_ 10.1145/2636240.2636875": {
+    "el1": "sri lanka",
+    "el2": "sri lanka",
     "paper_doi": "10.1145/2636240.2636875",
     "date": "2014"
   },
@@ -305,10 +1505,34 @@
     "paper_doi": "10.1145/2636240.2636874",
     "date": "2014"
   },
+  "japan_ japan_ 10.1145/2636240.2636872": {
+    "el1": "japan",
+    "el2": "japan",
+    "paper_doi": "10.1145/2636240.2636872",
+    "date": "2014"
+  },
+  "australia_ australia_ 10.1145/2636240.2636873": {
+    "el1": "australia",
+    "el2": "australia",
+    "paper_doi": "10.1145/2636240.2636873",
+    "date": "2014"
+  },
   "italy_ japan_ 10.1145/2493102.2493103": {
     "el1": "italy",
     "el2": "japan",
     "paper_doi": "10.1145/2493102.2493103",
+    "date": "2013"
+  },
+  "japan_ japan_ 10.1145/2493102.2493103": {
+    "el1": "japan",
+    "el2": "japan",
+    "paper_doi": "10.1145/2493102.2493103",
+    "date": "2013"
+  },
+  "china_ china_ 10.1145/2493102.2493104": {
+    "el1": "china",
+    "el2": "china",
+    "paper_doi": "10.1145/2493102.2493104",
     "date": "2013"
   },
   "italy_ australia_ 10.1145/2493102.2493105": {
@@ -317,9 +1541,33 @@
     "paper_doi": "10.1145/2493102.2493105",
     "date": "2013"
   },
+  "australia_ australia_ 10.1145/2493102.2493105": {
+    "el1": "australia",
+    "el2": "australia",
+    "paper_doi": "10.1145/2493102.2493105",
+    "date": "2013"
+  },
+  "china_ china_ 10.1145/2493102.2493106": {
+    "el1": "china",
+    "el2": "china",
+    "paper_doi": "10.1145/2493102.2493106",
+    "date": "2013"
+  },
+  "china_ china_ 10.1145/2493102.2493107": {
+    "el1": "china",
+    "el2": "china",
+    "paper_doi": "10.1145/2493102.2493107",
+    "date": "2013"
+  },
   "china_ hong kong_ 10.1145/2493102.2493108": {
     "el1": "china",
     "el2": "hong kong",
+    "paper_doi": "10.1145/2493102.2493108",
+    "date": "2013"
+  },
+  "china_ china_ 10.1145/2493102.2493108": {
+    "el1": "china",
+    "el2": "china",
     "paper_doi": "10.1145/2493102.2493108",
     "date": "2013"
   },
@@ -329,28 +1577,154 @@
     "paper_doi": "10.1145/2493102.2493109",
     "date": "2013"
   },
+  "united states_ united states_ 10.1145/2493102.2493109": {
+    "el1": "united states",
+    "el2": "united states",
+    "paper_doi": "10.1145/2493102.2493109",
+    "date": "2013"
+  },
+  "china_ china_ 10.1145/2493102.2493110": {
+    "el1": "china",
+    "el2": "china",
+    "paper_doi": "10.1145/2493102.2493110",
+    "date": "2013"
+  },
+  "china_ china_ 10.1145/2493102.2493111": {
+    "el1": "china",
+    "el2": "china",
+    "paper_doi": "10.1145/2493102.2493111",
+    "date": "2013"
+  },
+  "australia_ australia_ 10.1145/2493102.2493112": {
+    "el1": "australia",
+    "el2": "australia",
+    "paper_doi": "10.1145/2493102.2493112",
+    "date": "2013"
+  },
+  "italy_ italy_ 10.1145/2493102.2493113": {
+    "el1": "italy",
+    "el2": "italy",
+    "paper_doi": "10.1145/2493102.2493113",
+    "date": "2013"
+  },
+  "china_ china_ 10.1145/2493102.2493114": {
+    "el1": "china",
+    "el2": "china",
+    "paper_doi": "10.1145/2493102.2493114",
+    "date": "2013"
+  },
+  "italy_ italy_ 10.1145/2493102.2493116": {
+    "el1": "italy",
+    "el2": "italy",
+    "paper_doi": "10.1145/2493102.2493116",
+    "date": "2013"
+  },
   "italy_ united kingdom_ 10.1145/2493102.2493116": {
     "el1": "italy",
     "el2": "united kingdom",
     "paper_doi": "10.1145/2493102.2493116",
     "date": "2013"
   },
-  "united kingdom_ united states_ 10.1145/2493102.2493115": {
+  "china_ china_ 10.1145/2493102.2493118": {
+    "el1": "china",
+    "el2": "china",
+    "paper_doi": "10.1145/2493102.2493118",
+    "date": "2013"
+  },
+  "france_ france_ 10.1145/2493102.2493119": {
+    "el1": "france",
+    "el2": "france",
+    "paper_doi": "10.1145/2493102.2493119",
+    "date": "2013"
+  },
+  "united kingdom_ united kingdom_ 10.1145/2493102.2493120": {
     "el1": "united kingdom",
+    "el2": "united kingdom",
+    "paper_doi": "10.1145/2493102.2493120",
+    "date": "2013"
+  },
+  "china_ china_ 10.1145/2493102.2493121": {
+    "el1": "china",
+    "el2": "china",
+    "paper_doi": "10.1145/2493102.2493121",
+    "date": "2013"
+  },
+  "china_ china_ 10.1145/2493102.2493122": {
+    "el1": "china",
+    "el2": "china",
+    "paper_doi": "10.1145/2493102.2493122",
+    "date": "2013"
+  },
+  "united states_ united states_ 10.1145/2493102.2493115": {
+    "el1": "united states",
     "el2": "united states",
     "paper_doi": "10.1145/2493102.2493115",
     "date": "2013"
   },
-  "united states_ china_ 10.1145/2397696.2397700": {
+  "united states_ united kingdom_ 10.1145/2493102.2493115": {
     "el1": "united states",
+    "el2": "united kingdom",
+    "paper_doi": "10.1145/2493102.2493115",
+    "date": "2013"
+  },
+  "united kingdom_ united kingdom_ 10.1145/2493102.2493115": {
+    "el1": "united kingdom",
+    "el2": "united kingdom",
+    "paper_doi": "10.1145/2493102.2493115",
+    "date": "2013"
+  },
+  "china_ china_ 10.1145/2397696.2397697": {
+    "el1": "china",
+    "el2": "china",
+    "paper_doi": "10.1145/2397696.2397697",
+    "date": "2012"
+  },
+  "china_ china_ 10.1145/2397696.2397698": {
+    "el1": "china",
+    "el2": "china",
+    "paper_doi": "10.1145/2397696.2397698",
+    "date": "2012"
+  },
+  "china_ china_ 10.1145/2397696.2397699": {
+    "el1": "china",
+    "el2": "china",
+    "paper_doi": "10.1145/2397696.2397699",
+    "date": "2012"
+  },
+  "china_ china_ 10.1145/2397696.2397700": {
+    "el1": "china",
     "el2": "china",
     "paper_doi": "10.1145/2397696.2397700",
     "date": "2012"
   },
-  "united states_ china_ 10.1145/2397696.2397702": {
+  "china_ united states_ 10.1145/2397696.2397700": {
+    "el1": "china",
+    "el2": "united states",
+    "paper_doi": "10.1145/2397696.2397700",
+    "date": "2012"
+  },
+  "united states_ united states_ 10.1145/2397696.2397701": {
     "el1": "united states",
-    "el2": "china",
+    "el2": "united states",
+    "paper_doi": "10.1145/2397696.2397701",
+    "date": "2012"
+  },
+  "china_ united states_ 10.1145/2397696.2397702": {
+    "el1": "china",
+    "el2": "united states",
     "paper_doi": "10.1145/2397696.2397702",
+    "date": "2012"
+  },
+  "united states_ united states_ 10.1145/2397696.2397703": {
+    "el1": "united states",
+    "el2": "united states",
+    "paper_doi": "10.1145/2397696.2397703",
+    "date": "2012"
+  },
+  "united states_ united states_ 10.1145/2397696.2397704": {
+    "el1": "united states",
+    "el2": "united states",
+    "paper_doi": "10.1145/2397696.2397704",
     "date": "2012"
   },
   "united states_ china_ 10.1145/2397696.2397704": {
@@ -362,6 +1736,12 @@
   "australia_ united states_ 10.1145/2397696.2397705": {
     "el1": "australia",
     "el2": "united states",
+    "paper_doi": "10.1145/2397696.2397705",
+    "date": "2012"
+  },
+  "australia_ australia_ 10.1145/2397696.2397705": {
+    "el1": "australia",
+    "el2": "australia",
     "paper_doi": "10.1145/2397696.2397705",
     "date": "2012"
   },
@@ -377,15 +1757,51 @@
     "paper_doi": "10.1145/2397696.2397705",
     "date": "2012"
   },
+  "china_ china_ 10.1145/2397696.2397706": {
+    "el1": "china",
+    "el2": "china",
+    "paper_doi": "10.1145/2397696.2397706",
+    "date": "2012"
+  },
   "united states_ china_ 10.1145/2397696.2397707": {
     "el1": "united states",
     "el2": "china",
     "paper_doi": "10.1145/2397696.2397707",
     "date": "2012"
   },
+  "china_ china_ 10.1145/2397696.2397708": {
+    "el1": "china",
+    "el2": "china",
+    "paper_doi": "10.1145/2397696.2397708",
+    "date": "2012"
+  },
+  "china_ china_ 10.1145/2397696.2397709": {
+    "el1": "china",
+    "el2": "china",
+    "paper_doi": "10.1145/2397696.2397709",
+    "date": "2012"
+  },
+  "united states_ united states_ 10.1145/2397696.2397710": {
+    "el1": "united states",
+    "el2": "united states",
+    "paper_doi": "10.1145/2397696.2397710",
+    "date": "2012"
+  },
+  "china_ china_ 10.1145/2397696.2397711": {
+    "el1": "china",
+    "el2": "china",
+    "paper_doi": "10.1145/2397696.2397711",
+    "date": "2012"
+  },
   "australia_ china_ 10.1145/2397696.2397712": {
     "el1": "australia",
     "el2": "china",
+    "paper_doi": "10.1145/2397696.2397712",
+    "date": "2012"
+  },
+  "australia_ australia_ 10.1145/2397696.2397712": {
+    "el1": "australia",
+    "el2": "australia",
     "paper_doi": "10.1145/2397696.2397712",
     "date": "2012"
   },
@@ -395,16 +1811,106 @@
     "paper_doi": "10.1145/2016656.2016657",
     "date": "2011"
   },
-  "united states_ china_ 10.1145/2016656.2016664": {
+  "_ _ 10.1145/2016656.2016657": {
+    "el1": "",
+    "el2": "",
+    "paper_doi": "10.1145/2016656.2016657",
+    "date": "2011"
+  },
+  "united states_ united states_ 10.1145/2016656.2016657": {
     "el1": "united states",
+    "el2": "united states",
+    "paper_doi": "10.1145/2016656.2016657",
+    "date": "2011"
+  },
+  "china_ china_ 10.1145/2016656.2016658": {
+    "el1": "china",
+    "el2": "china",
+    "paper_doi": "10.1145/2016656.2016658",
+    "date": "2011"
+  },
+  "japan_ japan_ 10.1145/2016656.2016659": {
+    "el1": "japan",
+    "el2": "japan",
+    "paper_doi": "10.1145/2016656.2016659",
+    "date": "2011"
+  },
+  "china_ china_ 10.1145/2016656.2016660": {
+    "el1": "china",
+    "el2": "china",
+    "paper_doi": "10.1145/2016656.2016660",
+    "date": "2011"
+  },
+  "japan_ japan_ 10.1145/2016656.2016661": {
+    "el1": "japan",
+    "el2": "japan",
+    "paper_doi": "10.1145/2016656.2016661",
+    "date": "2011"
+  },
+  "japan_ japan_ 10.1145/2016656.2016662": {
+    "el1": "japan",
+    "el2": "japan",
+    "paper_doi": "10.1145/2016656.2016662",
+    "date": "2011"
+  },
+  "united states_ united states_ 10.1145/2016656.2016663": {
+    "el1": "united states",
+    "el2": "united states",
+    "paper_doi": "10.1145/2016656.2016663",
+    "date": "2011"
+  },
+  "china_ china_ 10.1145/2016656.2016664": {
+    "el1": "china",
     "el2": "china",
     "paper_doi": "10.1145/2016656.2016664",
     "date": "2011"
   },
-  "australia_ china_ 10.1145/2016656.2016667": {
-    "el1": "australia",
+  "china_ united states_ 10.1145/2016656.2016664": {
+    "el1": "china",
+    "el2": "united states",
+    "paper_doi": "10.1145/2016656.2016664",
+    "date": "2011"
+  },
+  "canada_ canada_ 10.1145/2016656.2016665": {
+    "el1": "canada",
+    "el2": "canada",
+    "paper_doi": "10.1145/2016656.2016665",
+    "date": "2011"
+  },
+  "china_ china_ 10.1145/2016656.2016666": {
+    "el1": "china",
+    "el2": "china",
+    "paper_doi": "10.1145/2016656.2016666",
+    "date": "2011"
+  },
+  "china_ china_ 10.1145/2016656.2016667": {
+    "el1": "china",
     "el2": "china",
     "paper_doi": "10.1145/2016656.2016667",
+    "date": "2011"
+  },
+  "china_ australia_ 10.1145/2016656.2016667": {
+    "el1": "china",
+    "el2": "australia",
+    "paper_doi": "10.1145/2016656.2016667",
+    "date": "2011"
+  },
+  "united states_ united states_ 10.1145/2016656.2016668": {
+    "el1": "united states",
+    "el2": "united states",
+    "paper_doi": "10.1145/2016656.2016668",
+    "date": "2011"
+  },
+  "hong kong_ hong kong_ 10.1145/2016656.2016669": {
+    "el1": "hong kong",
+    "el2": "hong kong",
+    "paper_doi": "10.1145/2016656.2016669",
+    "date": "2011"
+  },
+  "united states_ united states_ 10.1145/2016656.2016670": {
+    "el1": "united states",
+    "el2": "united states",
+    "paper_doi": "10.1145/2016656.2016670",
     "date": "2011"
   },
   "united states_ china_ 10.1145/2016656.2016671": {
@@ -413,9 +1919,147 @@
     "paper_doi": "10.1145/2016656.2016671",
     "date": "2011"
   },
+  "united states_ united states_ 10.1145/2016656.2016671": {
+    "el1": "united states",
+    "el2": "united states",
+    "paper_doi": "10.1145/2016656.2016671",
+    "date": "2011"
+  },
+  "china_ china_ 10.1145/2016656.2016671": {
+    "el1": "china",
+    "el2": "china",
+    "paper_doi": "10.1145/2016656.2016671",
+    "date": "2011"
+  },
+  "united states_ united states_ 10.1145/2016656.2016672": {
+    "el1": "united states",
+    "el2": "united states",
+    "paper_doi": "10.1145/2016656.2016672",
+    "date": "2011"
+  },
+  "china_ china_ 10.1145/1865841.1865848": {
+    "el1": "china",
+    "el2": "china",
+    "paper_doi": "10.1145/1865841.1865848",
+    "date": "2010"
+  },
+  "china_ china_ 10.1145/1865841.1865849": {
+    "el1": "china",
+    "el2": "china",
+    "paper_doi": "10.1145/1865841.1865849",
+    "date": "2010"
+  },
+  "china_ china_ 10.1145/1865841.1865850": {
+    "el1": "china",
+    "el2": "china",
+    "paper_doi": "10.1145/1865841.1865850",
+    "date": "2010"
+  },
+  "china_ china_ 10.1145/1865841.1865853": {
+    "el1": "china",
+    "el2": "china",
+    "paper_doi": "10.1145/1865841.1865853",
+    "date": "2010"
+  },
+  "australia_ australia_ 10.1145/1865841.1865854": {
+    "el1": "australia",
+    "el2": "australia",
+    "paper_doi": "10.1145/1865841.1865854",
+    "date": "2010"
+  },
+  "canada_ canada_ 10.1145/1865841.1865856": {
+    "el1": "canada",
+    "el2": "canada",
+    "paper_doi": "10.1145/1865841.1865856",
+    "date": "2010"
+  },
+  "china_ china_ 10.1145/1865841.1865857": {
+    "el1": "china",
+    "el2": "china",
+    "paper_doi": "10.1145/1865841.1865857",
+    "date": "2010"
+  },
+  "malaysia_ malaysia_ 10.1145/1865841.1865858": {
+    "el1": "malaysia",
+    "el2": "malaysia",
+    "paper_doi": "10.1145/1865841.1865858",
+    "date": "2010"
+  },
+  "china_ china_ 10.1145/1865841.1865860": {
+    "el1": "china",
+    "el2": "china",
+    "paper_doi": "10.1145/1865841.1865860",
+    "date": "2010"
+  },
+  "china_ china_ 10.1145/1865841.1865861": {
+    "el1": "china",
+    "el2": "china",
+    "paper_doi": "10.1145/1865841.1865861",
+    "date": "2010"
+  },
+  "australia_ australia_ 10.1145/1865841.1865862": {
+    "el1": "australia",
+    "el2": "australia",
+    "paper_doi": "10.1145/1865841.1865862",
+    "date": "2010"
+  },
+  "australia_ australia_ 10.1145/1865841.1865864": {
+    "el1": "australia",
+    "el2": "australia",
+    "paper_doi": "10.1145/1865841.1865864",
+    "date": "2010"
+  },
+  "united states_ united states_ 10.1145/1865841.1865865": {
+    "el1": "united states",
+    "el2": "united states",
+    "paper_doi": "10.1145/1865841.1865865",
+    "date": "2010"
+  },
+  "japan_ japan_ 10.1145/1865841.1865866": {
+    "el1": "japan",
+    "el2": "japan",
+    "paper_doi": "10.1145/1865841.1865866",
+    "date": "2010"
+  },
+  "united states_ united states_ 10.1145/1865841.1865868": {
+    "el1": "united states",
+    "el2": "united states",
+    "paper_doi": "10.1145/1865841.1865868",
+    "date": "2010"
+  },
+  "china_ china_ 10.1145/1865841.1865869": {
+    "el1": "china",
+    "el2": "china",
+    "paper_doi": "10.1145/1865841.1865869",
+    "date": "2010"
+  },
+  "united states_ united states_ 10.1145/1865841.1865870": {
+    "el1": "united states",
+    "el2": "united states",
+    "paper_doi": "10.1145/1865841.1865870",
+    "date": "2010"
+  },
+  "austria_ austria_ 10.1145/3554944.3554949": {
+    "el1": "austria",
+    "el2": "austria",
+    "paper_doi": "10.1145/3554944.3554949",
+    "date": "2022"
+  },
+  "norway_ norway_ 10.1145/3554944.3554950": {
+    "el1": "norway",
+    "el2": "norway",
+    "paper_doi": "10.1145/3554944.3554950",
+    "date": "2022"
+  },
   "united states_ china_ 10.1145/3554944.3554951": {
     "el1": "united states",
     "el2": "china",
+    "paper_doi": "10.1145/3554944.3554951",
+    "date": "2022"
+  },
+  "united states_ united states_ 10.1145/3554944.3554951": {
+    "el1": "united states",
+    "el2": "united states",
     "paper_doi": "10.1145/3554944.3554951",
     "date": "2022"
   },
@@ -431,10 +2075,70 @@
     "paper_doi": "10.1145/3554944.3554951",
     "date": "2022"
   },
+  "hong kong_ hong kong_ 10.1145/3554944.3554951": {
+    "el1": "hong kong",
+    "el2": "hong kong",
+    "paper_doi": "10.1145/3554944.3554951",
+    "date": "2022"
+  },
+  "canada_ canada_ 10.1145/3554944.3554952": {
+    "el1": "canada",
+    "el2": "canada",
+    "paper_doi": "10.1145/3554944.3554952",
+    "date": "2022"
+  },
+  "germany_ germany_ 10.1145/3554944.3554971": {
+    "el1": "germany",
+    "el2": "germany",
+    "paper_doi": "10.1145/3554944.3554971",
+    "date": "2022"
+  },
+  "germany_ germany_ 10.1145/3554944.3554947": {
+    "el1": "germany",
+    "el2": "germany",
+    "paper_doi": "10.1145/3554944.3554947",
+    "date": "2022"
+  },
+  "germany_ germany_ 10.1145/3554944.3554945": {
+    "el1": "germany",
+    "el2": "germany",
+    "paper_doi": "10.1145/3554944.3554945",
+    "date": "2022"
+  },
+  "ecuador_ ecuador_ 10.1145/3554944.3554957": {
+    "el1": "ecuador",
+    "el2": "ecuador",
+    "paper_doi": "10.1145/3554944.3554957",
+    "date": "2022"
+  },
+  "norway_ norway_ 10.1145/3554944.3554958": {
+    "el1": "norway",
+    "el2": "norway",
+    "paper_doi": "10.1145/3554944.3554958",
+    "date": "2022"
+  },
   "switzerland_ netherlands_ 10.1145/3554944.3554959": {
     "el1": "switzerland",
     "el2": "netherlands",
     "paper_doi": "10.1145/3554944.3554959",
+    "date": "2022"
+  },
+  "netherlands_ netherlands_ 10.1145/3554944.3554959": {
+    "el1": "netherlands",
+    "el2": "netherlands",
+    "paper_doi": "10.1145/3554944.3554959",
+    "date": "2022"
+  },
+  "united states_ united states_ 10.1145/3554944.3554954": {
+    "el1": "united states",
+    "el2": "united states",
+    "paper_doi": "10.1145/3554944.3554954",
+    "date": "2022"
+  },
+  "germany_ germany_ 10.1145/3554944.3554970": {
+    "el1": "germany",
+    "el2": "germany",
+    "paper_doi": "10.1145/3554944.3554970",
     "date": "2022"
   },
   "germany_ chile_ 10.1145/3554944.3554970": {
@@ -443,11 +2147,107 @@
     "paper_doi": "10.1145/3554944.3554970",
     "date": "2022"
   },
-  "_ switzerland_ 10.1145/3554944.3554964": {
-    "el1": "",
+  "germany_ germany_ 10.1145/3554944.3554956": {
+    "el1": "germany",
+    "el2": "germany",
+    "paper_doi": "10.1145/3554944.3554956",
+    "date": "2022"
+  },
+  "switzerland_ switzerland_ 10.1145/3554944.3554960": {
+    "el1": "switzerland",
+    "el2": "switzerland",
+    "paper_doi": "10.1145/3554944.3554960",
+    "date": "2022"
+  },
+  "germany_ germany_ 10.1145/3554944.3554961": {
+    "el1": "germany",
+    "el2": "germany",
+    "paper_doi": "10.1145/3554944.3554961",
+    "date": "2022"
+  },
+  "switzerland_ switzerland_ 10.1145/3554944.3554962": {
+    "el1": "switzerland",
+    "el2": "switzerland",
+    "paper_doi": "10.1145/3554944.3554962",
+    "date": "2022"
+  },
+  "united kingdom_ united kingdom_ 10.1145/3554944.3554963": {
+    "el1": "united kingdom",
+    "el2": "united kingdom",
+    "paper_doi": "10.1145/3554944.3554963",
+    "date": "2022"
+  },
+  "switzerland_ _ 10.1145/3554944.3554964": {
+    "el1": "switzerland",
+    "el2": "",
+    "paper_doi": "10.1145/3554944.3554964",
+    "date": "2022"
+  },
+  "switzerland_ switzerland_ 10.1145/3554944.3554964": {
+    "el1": "switzerland",
     "el2": "switzerland",
     "paper_doi": "10.1145/3554944.3554964",
     "date": "2022"
+  },
+  "switzerland_ switzerland_ 10.1145/3554944.3554965": {
+    "el1": "switzerland",
+    "el2": "switzerland",
+    "paper_doi": "10.1145/3554944.3554965",
+    "date": "2022"
+  },
+  "switzerland_ switzerland_ 10.1145/3554944.3554966": {
+    "el1": "switzerland",
+    "el2": "switzerland",
+    "paper_doi": "10.1145/3554944.3554966",
+    "date": "2022"
+  },
+  "netherlands_ netherlands_ 10.1145/3430036.3430067": {
+    "el1": "netherlands",
+    "el2": "netherlands",
+    "paper_doi": "10.1145/3430036.3430067",
+    "date": "2020"
+  },
+  "germany_ germany_ 10.1145/3430036.3430060": {
+    "el1": "germany",
+    "el2": "germany",
+    "paper_doi": "10.1145/3430036.3430060",
+    "date": "2020"
+  },
+  "germany_ germany_ 10.1145/3430036.3430058": {
+    "el1": "germany",
+    "el2": "germany",
+    "paper_doi": "10.1145/3430036.3430058",
+    "date": "2020"
+  },
+  "netherlands_ netherlands_ 10.1145/3430036.3430053": {
+    "el1": "netherlands",
+    "el2": "netherlands",
+    "paper_doi": "10.1145/3430036.3430053",
+    "date": "2020"
+  },
+  "netherlands_ netherlands_ 10.1145/3430036.3430065": {
+    "el1": "netherlands",
+    "el2": "netherlands",
+    "paper_doi": "10.1145/3430036.3430065",
+    "date": "2020"
+  },
+  "netherlands_ netherlands_ 10.1145/3430036.3430052": {
+    "el1": "netherlands",
+    "el2": "netherlands",
+    "paper_doi": "10.1145/3430036.3430052",
+    "date": "2020"
+  },
+  "germany_ germany_ 10.1145/3430036.3430050": {
+    "el1": "germany",
+    "el2": "germany",
+    "paper_doi": "10.1145/3430036.3430050",
+    "date": "2020"
+  },
+  "germany_ germany_ 10.1145/3430036.3430038": {
+    "el1": "germany",
+    "el2": "germany",
+    "paper_doi": "10.1145/3430036.3430038",
+    "date": "2020"
   },
   "germany_ switzerland_ 10.1145/3430036.3430038": {
     "el1": "germany",
@@ -467,17 +2267,167 @@
     "paper_doi": "10.1145/3430036.3430038",
     "date": "2020"
   },
-  "germany_ switzerland_ 10.1145/3430036.3430061": {
-    "el1": "germany",
+  "japan_ japan_ 10.1145/3430036.3430059": {
+    "el1": "japan",
+    "el2": "japan",
+    "paper_doi": "10.1145/3430036.3430059",
+    "date": "2020"
+  },
+  "switzerland_ switzerland_ 10.1145/3430036.3430061": {
+    "el1": "switzerland",
     "el2": "switzerland",
     "paper_doi": "10.1145/3430036.3430061",
     "date": "2020"
   },
-  "_ united states_ 10.1145/3430036.3430072": {
-    "el1": "",
+  "switzerland_ germany_ 10.1145/3430036.3430061": {
+    "el1": "switzerland",
+    "el2": "germany",
+    "paper_doi": "10.1145/3430036.3430061",
+    "date": "2020"
+  },
+  "germany_ germany_ 10.1145/3430036.3430061": {
+    "el1": "germany",
+    "el2": "germany",
+    "paper_doi": "10.1145/3430036.3430061",
+    "date": "2020"
+  },
+  "denmark_ denmark_ 10.1145/3430036.3430042": {
+    "el1": "denmark",
+    "el2": "denmark",
+    "paper_doi": "10.1145/3430036.3430042",
+    "date": "2020"
+  },
+  "germany_ germany_ 10.1145/3430036.3430066": {
+    "el1": "germany",
+    "el2": "germany",
+    "paper_doi": "10.1145/3430036.3430066",
+    "date": "2020"
+  },
+  "netherlands_ netherlands_ 10.1145/3430036.3430043": {
+    "el1": "netherlands",
+    "el2": "netherlands",
+    "paper_doi": "10.1145/3430036.3430043",
+    "date": "2020"
+  },
+  "netherlands_ netherlands_ 10.1145/3430036.3430049": {
+    "el1": "netherlands",
+    "el2": "netherlands",
+    "paper_doi": "10.1145/3430036.3430049",
+    "date": "2020"
+  },
+  "united states_ united states_ 10.1145/3430036.3430071": {
+    "el1": "united states",
+    "el2": "united states",
+    "paper_doi": "10.1145/3430036.3430071",
+    "date": "2020"
+  },
+  "germany_ germany_ 10.1145/3430036.3430047": {
+    "el1": "germany",
+    "el2": "germany",
+    "paper_doi": "10.1145/3430036.3430047",
+    "date": "2020"
+  },
+  "germany_ germany_ 10.1145/3430036.3430045": {
+    "el1": "germany",
+    "el2": "germany",
+    "paper_doi": "10.1145/3430036.3430045",
+    "date": "2020"
+  },
+  "netherlands_ netherlands_ 10.1145/3430036.3430070": {
+    "el1": "netherlands",
+    "el2": "netherlands",
+    "paper_doi": "10.1145/3430036.3430070",
+    "date": "2020"
+  },
+  "netherlands_ netherlands_ 10.1145/3430036.3430044": {
+    "el1": "netherlands",
+    "el2": "netherlands",
+    "paper_doi": "10.1145/3430036.3430044",
+    "date": "2020"
+  },
+  "japan_ japan_ 10.1145/3430036.3430069": {
+    "el1": "japan",
+    "el2": "japan",
+    "paper_doi": "10.1145/3430036.3430069",
+    "date": "2020"
+  },
+  "netherlands_ netherlands_ 10.1145/3430036.3430064": {
+    "el1": "netherlands",
+    "el2": "netherlands",
+    "paper_doi": "10.1145/3430036.3430064",
+    "date": "2020"
+  },
+  "china_ china_ 10.1145/3430036.3430068": {
+    "el1": "china",
+    "el2": "china",
+    "paper_doi": "10.1145/3430036.3430068",
+    "date": "2020"
+  },
+  "netherlands_ netherlands_ 10.1145/3430036.3430063": {
+    "el1": "netherlands",
+    "el2": "netherlands",
+    "paper_doi": "10.1145/3430036.3430063",
+    "date": "2020"
+  },
+  "germany_ germany_ 10.1145/3430036.3432753": {
+    "el1": "germany",
+    "el2": "germany",
+    "paper_doi": "10.1145/3430036.3432753",
+    "date": "2020"
+  },
+  "united states_ united states_ 10.1145/3430036.3430072": {
+    "el1": "united states",
     "el2": "united states",
     "paper_doi": "10.1145/3430036.3430072",
     "date": "2020"
+  },
+  "united states_ _ 10.1145/3430036.3430072": {
+    "el1": "united states",
+    "el2": "",
+    "paper_doi": "10.1145/3430036.3430072",
+    "date": "2020"
+  },
+  "denmark_ denmark_ 10.1145/3430036.3430073": {
+    "el1": "denmark",
+    "el2": "denmark",
+    "paper_doi": "10.1145/3430036.3430073",
+    "date": "2020"
+  },
+  "china_ china_ 10.1145/3356422.3356446": {
+    "el1": "china",
+    "el2": "china",
+    "paper_doi": "10.1145/3356422.3356446",
+    "date": "2019"
+  },
+  "austria_ austria_ 10.1145/3356422.3356426": {
+    "el1": "austria",
+    "el2": "austria",
+    "paper_doi": "10.1145/3356422.3356426",
+    "date": "2019"
+  },
+  "china_ china_ 10.1145/3356422.3356431": {
+    "el1": "china",
+    "el2": "china",
+    "paper_doi": "10.1145/3356422.3356431",
+    "date": "2019"
+  },
+  "germany_ germany_ 10.1145/3356422.3356425": {
+    "el1": "germany",
+    "el2": "germany",
+    "paper_doi": "10.1145/3356422.3356425",
+    "date": "2019"
+  },
+  "netherlands_ netherlands_ 10.1145/3356422.3356423": {
+    "el1": "netherlands",
+    "el2": "netherlands",
+    "paper_doi": "10.1145/3356422.3356423",
+    "date": "2019"
+  },
+  "germany_ germany_ 10.1145/3356422.3356450": {
+    "el1": "germany",
+    "el2": "germany",
+    "paper_doi": "10.1145/3356422.3356450",
+    "date": "2019"
   },
   "germany_ united kingdom_ 10.1145/3356422.3356450": {
     "el1": "germany",
@@ -485,16 +2435,136 @@
     "paper_doi": "10.1145/3356422.3356450",
     "date": "2019"
   },
-  "united states_ china_ 10.1145/3356422.3356449": {
-    "el1": "united states",
+  "china_ china_ 10.1145/3356422.3356424": {
+    "el1": "china",
+    "el2": "china",
+    "paper_doi": "10.1145/3356422.3356424",
+    "date": "2019"
+  },
+  "germany_ germany_ 10.1145/3356422.3356444": {
+    "el1": "germany",
+    "el2": "germany",
+    "paper_doi": "10.1145/3356422.3356444",
+    "date": "2019"
+  },
+  "china_ china_ 10.1145/3356422.3356430": {
+    "el1": "china",
+    "el2": "china",
+    "paper_doi": "10.1145/3356422.3356430",
+    "date": "2019"
+  },
+  "china_ china_ 10.1145/3356422.3356449": {
+    "el1": "china",
     "el2": "china",
     "paper_doi": "10.1145/3356422.3356449",
     "date": "2019"
   },
-  "australia_ china_ 10.1145/3356422.3356429": {
-    "el1": "australia",
+  "china_ united states_ 10.1145/3356422.3356449": {
+    "el1": "china",
+    "el2": "united states",
+    "paper_doi": "10.1145/3356422.3356449",
+    "date": "2019"
+  },
+  "china_ china_ 10.1145/3356422.3356441": {
+    "el1": "china",
+    "el2": "china",
+    "paper_doi": "10.1145/3356422.3356441",
+    "date": "2019"
+  },
+  "china_ australia_ 10.1145/3356422.3356429": {
+    "el1": "china",
+    "el2": "australia",
+    "paper_doi": "10.1145/3356422.3356429",
+    "date": "2019"
+  },
+  "china_ china_ 10.1145/3356422.3356429": {
+    "el1": "china",
     "el2": "china",
     "paper_doi": "10.1145/3356422.3356429",
+    "date": "2019"
+  },
+  "germany_ germany_ 10.1145/3356422.3356435": {
+    "el1": "germany",
+    "el2": "germany",
+    "paper_doi": "10.1145/3356422.3356435",
+    "date": "2019"
+  },
+  "netherlands_ netherlands_ 10.1145/3356422.3356447": {
+    "el1": "netherlands",
+    "el2": "netherlands",
+    "paper_doi": "10.1145/3356422.3356447",
+    "date": "2019"
+  },
+  "china_ china_ 10.1145/3356422.3356427": {
+    "el1": "china",
+    "el2": "china",
+    "paper_doi": "10.1145/3356422.3356427",
+    "date": "2019"
+  },
+  "germany_ germany_ 10.1145/3356422.3356434": {
+    "el1": "germany",
+    "el2": "germany",
+    "paper_doi": "10.1145/3356422.3356434",
+    "date": "2019"
+  },
+  "united states_ united states_ 10.1145/3356422.3356438": {
+    "el1": "united states",
+    "el2": "united states",
+    "paper_doi": "10.1145/3356422.3356438",
+    "date": "2019"
+  },
+  "germany_ germany_ 10.1145/3356422.3356445": {
+    "el1": "germany",
+    "el2": "germany",
+    "paper_doi": "10.1145/3356422.3356445",
+    "date": "2019"
+  },
+  "china_ china_ 10.1145/3356422.3356442": {
+    "el1": "china",
+    "el2": "china",
+    "paper_doi": "10.1145/3356422.3356442",
+    "date": "2019"
+  },
+  "china_ china_ 10.1145/3356422.3356428": {
+    "el1": "china",
+    "el2": "china",
+    "paper_doi": "10.1145/3356422.3356428",
+    "date": "2019"
+  },
+  "china_ china_ 10.1145/3356422.3356432": {
+    "el1": "china",
+    "el2": "china",
+    "paper_doi": "10.1145/3356422.3356432",
+    "date": "2019"
+  },
+  "china_ china_ 10.1145/3356422.3356436": {
+    "el1": "china",
+    "el2": "china",
+    "paper_doi": "10.1145/3356422.3356436",
+    "date": "2019"
+  },
+  "sweden_ germany_ 10.1145/3356422.3356437": {
+    "el1": "sweden",
+    "el2": "germany",
+    "paper_doi": "10.1145/3356422.3356437",
+    "date": "2019"
+  },
+  "sweden_ finland_ 10.1145/3356422.3356437": {
+    "el1": "sweden",
+    "el2": "finland",
+    "paper_doi": "10.1145/3356422.3356437",
+    "date": "2019"
+  },
+  "sweden_ sweden_ 10.1145/3356422.3356437": {
+    "el1": "sweden",
+    "el2": "sweden",
+    "paper_doi": "10.1145/3356422.3356437",
+    "date": "2019"
+  },
+  "germany_ germany_ 10.1145/3356422.3356437": {
+    "el1": "germany",
+    "el2": "germany",
+    "paper_doi": "10.1145/3356422.3356437",
     "date": "2019"
   },
   "germany_ finland_ 10.1145/3356422.3356437": {
@@ -503,22 +2573,82 @@
     "paper_doi": "10.1145/3356422.3356437",
     "date": "2019"
   },
-  "germany_ sweden_ 10.1145/3356422.3356437": {
-    "el1": "germany",
-    "el2": "sweden",
-    "paper_doi": "10.1145/3356422.3356437",
+  "china_ china_ 10.1145/3356422.3356443": {
+    "el1": "china",
+    "el2": "china",
+    "paper_doi": "10.1145/3356422.3356443",
     "date": "2019"
   },
-  "finland_ sweden_ 10.1145/3356422.3356437": {
-    "el1": "finland",
-    "el2": "sweden",
-    "paper_doi": "10.1145/3356422.3356437",
+  "china_ china_ 10.1145/3356422.3356448": {
+    "el1": "china",
+    "el2": "china",
+    "paper_doi": "10.1145/3356422.3356448",
     "date": "2019"
   },
-  "united states_ china_ 10.1145/3356422.3356453": {
-    "el1": "united states",
+  "china_ china_ 10.1145/3356422.3356451": {
+    "el1": "china",
+    "el2": "china",
+    "paper_doi": "10.1145/3356422.3356451",
+    "date": "2019"
+  },
+  "china_ china_ 10.1145/3356422.3356452": {
+    "el1": "china",
+    "el2": "china",
+    "paper_doi": "10.1145/3356422.3356452",
+    "date": "2019"
+  },
+  "china_ china_ 10.1145/3356422.3356453": {
+    "el1": "china",
     "el2": "china",
     "paper_doi": "10.1145/3356422.3356453",
+    "date": "2019"
+  },
+  "china_ united states_ 10.1145/3356422.3356453": {
+    "el1": "china",
+    "el2": "united states",
+    "paper_doi": "10.1145/3356422.3356453",
+    "date": "2019"
+  },
+  "china_ china_ 10.1145/3356422.3356455": {
+    "el1": "china",
+    "el2": "china",
+    "paper_doi": "10.1145/3356422.3356455",
+    "date": "2019"
+  },
+  "china_ china_ 10.1145/3356422.3356456": {
+    "el1": "china",
+    "el2": "china",
+    "paper_doi": "10.1145/3356422.3356456",
+    "date": "2019"
+  },
+  "china_ china_ 10.1145/3356422.3356457": {
+    "el1": "china",
+    "el2": "china",
+    "paper_doi": "10.1145/3356422.3356457",
+    "date": "2019"
+  },
+  "china_ china_ 10.1145/3356422.3356458": {
+    "el1": "china",
+    "el2": "china",
+    "paper_doi": "10.1145/3356422.3356458",
+    "date": "2019"
+  },
+  "china_ china_ 10.1145/3356422.3356459": {
+    "el1": "china",
+    "el2": "china",
+    "paper_doi": "10.1145/3356422.3356459",
+    "date": "2019"
+  },
+  "china_ china_ 10.1145/3356422.3356460": {
+    "el1": "china",
+    "el2": "china",
+    "paper_doi": "10.1145/3356422.3356460",
+    "date": "2019"
+  },
+  "china_ china_ 10.1145/3356422.3356461": {
+    "el1": "china",
+    "el2": "china",
+    "paper_doi": "10.1145/3356422.3356461",
     "date": "2019"
   }
 }

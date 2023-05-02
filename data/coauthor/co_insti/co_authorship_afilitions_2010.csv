@@ -1,27 +1,57 @@
 e1,e2,value
-ICT Center,National ICT Australia,1
-ICT Center,The University of Sydney,1
-ICT Center,University of New South Wales,1
-ICT Center,King Fahad University of Petroleum and Minerals,1
+The University of Sydney,The University of Sydney,1
+King Fahad University of Petroleum and Minerals,National ICT Australia,1
+King Fahad University of Petroleum and Minerals,The University of Sydney,1
+King Fahad University of Petroleum and Minerals,University of New South Wales,1
+King Fahad University of Petroleum and Minerals,ICT Center,1
 National ICT Australia,The University of Sydney,1
 National ICT Australia,University of New South Wales,1
-National ICT Australia,King Fahad University of Petroleum and Minerals,1
+National ICT Australia,ICT Center,1
 The University of Sydney,University of New South Wales,1
-The University of Sydney,King Fahad University of Petroleum and Minerals,1
-University of New South Wales,King Fahad University of Petroleum and Minerals,1
-Hong Kong University of Science and Technology,The University of Texas at Dallas,1
-Hong Kong University of Science and Technology,University of Technology Sydney,1
+The University of Sydney,ICT Center,1
+University of New South Wales,ICT Center,1
+The University of Texas at Dallas,Hong Kong University of Science and Technology,1
 The University of Texas at Dallas,University of Technology Sydney,1
-Beihang University,Shangdong Institute of Commerce and Technology,1
+Hong Kong University of Science and Technology,University of Technology Sydney,1
+University of Konstanz,University of Konstanz,1
+Beihang University,Beihang University,3
 Beihang University,Institute of Software Chinese Academy of Sciences,2
-Shangdong Institute of Commerce and Technology,Institute of Software Chinese Academy of Sciences,1
-University of Technology Sydney,Tianjin University,2
-University of Technology Sydney,Western Sydney University,2
+Beihang University,Shangdong Institute of Commerce and Technology,1
+Institute of Software Chinese Academy of Sciences,Institute of Software Chinese Academy of Sciences,2
+Institute of Software Chinese Academy of Sciences,Shangdong Institute of Commerce and Technology,1
+Tianjin University,Tianjin University,2
 Tianjin University,Western Sydney University,1
-Hohai University,Nanjing University,1
-Chinese Academy of Sciences,The University of Newcastle,1
-Chinese Academy of Sciences,Swinburne University of Technology,1
+Tianjin University,University of Technology Sydney,2
+Western Sydney University,University of Technology Sydney,2
+Universitat Pompeu Fabra,Universitat Pompeu Fabra,1
+Nanjing University,Nanjing University,1
+Nanjing University,Hohai University,1
+Multimedia University,Multimedia University,1
+University of Macau,University of Macau,2
+Ocean University of China,Ocean University of China,1
+German Research Center for Artificial Intelligence,German Research Center for Artificial Intelligence,1
+Ecole Nationale Supérieure d’Architecture de Strasbourg,Ecole Nationale Supérieure d’Architecture de Strasbourg,1
+University Sains Malaysia,University Sains Malaysia,1
+Claremont Graduate University,Claremont Graduate University,1
+Tsinghua University,Tsinghua University,1
+The University of Newcastle,The University of Newcastle,1
 The University of Newcastle,Swinburne University of Technology,1
+The University of Newcastle,Chinese Academy of Sciences,1
+Swinburne University of Technology,Chinese Academy of Sciences,1
+Zhejiang University,Zhejiang University,1
+Civil Aviation University of China,Civil Aviation University of China,1
 Civil Aviation University of China,Tianjin University,1
-university of technology,CSIRO ICT Centre,1
+peking university,peking university,1
+shandong university,shandong university,3
+beijing normal university,beijing normal university,1
+CSIRO ICT Centre,university of technology,1
+dalhousie university,dalhousie university,1
+KDU College Penang Campus,KDU College Penang Campus,1
+Chinese Academy of Sciences,Chinese Academy of Sciences,2
+western sydney university,western sydney university,1
 western sydney university,university of technology,1
+CSIRO -- ICT Centre,CSIRO -- ICT Centre,1
+the penn state university park,the penn state university park,1
+shimane university,shimane university,1
+university of texas,university of texas,1
+pennsylvania state university,pennsylvania state university,1

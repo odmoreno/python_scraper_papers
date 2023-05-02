@@ -1,25 +1,31 @@
 {
-  "ICT Center_ National ICT Australia_ 10.1007/978-1-4419-0312-9_2": {
-    "el1": "ICT Center",
+  "The University of Sydney_ The University of Sydney_ 10.1007/978-1-4419-0312-9_1": {
+    "el1": "The University of Sydney",
+    "el2": "The University of Sydney",
+    "paper_doi": "10.1007/978-1-4419-0312-9_1",
+    "date": "2009"
+  },
+  "King Fahad University of Petroleum and Minerals_ National ICT Australia_ 10.1007/978-1-4419-0312-9_2": {
+    "el1": "King Fahad University of Petroleum and Minerals",
     "el2": "National ICT Australia",
     "paper_doi": "10.1007/978-1-4419-0312-9_2",
     "date": "2009"
   },
-  "ICT Center_ The University of Sydney_ 10.1007/978-1-4419-0312-9_2": {
-    "el1": "ICT Center",
+  "King Fahad University of Petroleum and Minerals_ The University of Sydney_ 10.1007/978-1-4419-0312-9_2": {
+    "el1": "King Fahad University of Petroleum and Minerals",
     "el2": "The University of Sydney",
     "paper_doi": "10.1007/978-1-4419-0312-9_2",
     "date": "2009"
   },
-  "ICT Center_ University of New South Wales_ 10.1007/978-1-4419-0312-9_2": {
-    "el1": "ICT Center",
+  "King Fahad University of Petroleum and Minerals_ University of New South Wales_ 10.1007/978-1-4419-0312-9_2": {
+    "el1": "King Fahad University of Petroleum and Minerals",
     "el2": "University of New South Wales",
     "paper_doi": "10.1007/978-1-4419-0312-9_2",
     "date": "2009"
   },
-  "ICT Center_ King Fahad University of Petroleum and Minerals_ 10.1007/978-1-4419-0312-9_2": {
-    "el1": "ICT Center",
-    "el2": "King Fahad University of Petroleum and Minerals",
+  "King Fahad University of Petroleum and Minerals_ ICT Center_ 10.1007/978-1-4419-0312-9_2": {
+    "el1": "King Fahad University of Petroleum and Minerals",
+    "el2": "ICT Center",
     "paper_doi": "10.1007/978-1-4419-0312-9_2",
     "date": "2009"
   },
@@ -35,9 +41,9 @@
     "paper_doi": "10.1007/978-1-4419-0312-9_2",
     "date": "2009"
   },
-  "National ICT Australia_ King Fahad University of Petroleum and Minerals_ 10.1007/978-1-4419-0312-9_2": {
+  "National ICT Australia_ ICT Center_ 10.1007/978-1-4419-0312-9_2": {
     "el1": "National ICT Australia",
-    "el2": "King Fahad University of Petroleum and Minerals",
+    "el2": "ICT Center",
     "paper_doi": "10.1007/978-1-4419-0312-9_2",
     "date": "2009"
   },
@@ -47,27 +53,21 @@
     "paper_doi": "10.1007/978-1-4419-0312-9_2",
     "date": "2009"
   },
-  "The University of Sydney_ King Fahad University of Petroleum and Minerals_ 10.1007/978-1-4419-0312-9_2": {
+  "The University of Sydney_ ICT Center_ 10.1007/978-1-4419-0312-9_2": {
     "el1": "The University of Sydney",
-    "el2": "King Fahad University of Petroleum and Minerals",
+    "el2": "ICT Center",
     "paper_doi": "10.1007/978-1-4419-0312-9_2",
     "date": "2009"
   },
-  "University of New South Wales_ King Fahad University of Petroleum and Minerals_ 10.1007/978-1-4419-0312-9_2": {
+  "University of New South Wales_ ICT Center_ 10.1007/978-1-4419-0312-9_2": {
     "el1": "University of New South Wales",
-    "el2": "King Fahad University of Petroleum and Minerals",
+    "el2": "ICT Center",
     "paper_doi": "10.1007/978-1-4419-0312-9_2",
     "date": "2009"
   },
-  "Hong Kong University of Science and Technology_ The University of Texas at Dallas_ 10.1007/978-1-4419-0312-9_3": {
-    "el1": "Hong Kong University of Science and Technology",
-    "el2": "The University of Texas at Dallas",
-    "paper_doi": "10.1007/978-1-4419-0312-9_3",
-    "date": "2009"
-  },
-  "Hong Kong University of Science and Technology_ University of Technology Sydney_ 10.1007/978-1-4419-0312-9_3": {
-    "el1": "Hong Kong University of Science and Technology",
-    "el2": "University of Technology Sydney",
+  "The University of Texas at Dallas_ Hong Kong University of Science and Technology_ 10.1007/978-1-4419-0312-9_3": {
+    "el1": "The University of Texas at Dallas",
+    "el2": "Hong Kong University of Science and Technology",
     "paper_doi": "10.1007/978-1-4419-0312-9_3",
     "date": "2009"
   },
@@ -77,9 +77,21 @@
     "paper_doi": "10.1007/978-1-4419-0312-9_3",
     "date": "2009"
   },
-  "Beihang University_ Shangdong Institute of Commerce and Technology_ 10.1007/978-1-4419-0312-9_5": {
+  "Hong Kong University of Science and Technology_ University of Technology Sydney_ 10.1007/978-1-4419-0312-9_3": {
+    "el1": "Hong Kong University of Science and Technology",
+    "el2": "University of Technology Sydney",
+    "paper_doi": "10.1007/978-1-4419-0312-9_3",
+    "date": "2009"
+  },
+  "University of Konstanz_ University of Konstanz_ 10.1007/978-1-4419-0312-9_4": {
+    "el1": "University of Konstanz",
+    "el2": "University of Konstanz",
+    "paper_doi": "10.1007/978-1-4419-0312-9_4",
+    "date": "2009"
+  },
+  "Beihang University_ Beihang University_ 10.1007/978-1-4419-0312-9_5": {
     "el1": "Beihang University",
-    "el2": "Shangdong Institute of Commerce and Technology",
+    "el2": "Beihang University",
     "paper_doi": "10.1007/978-1-4419-0312-9_5",
     "date": "2009"
   },
@@ -89,21 +101,27 @@
     "paper_doi": "10.1007/978-1-4419-0312-9_5",
     "date": "2009"
   },
-  "Shangdong Institute of Commerce and Technology_ Institute of Software Chinese Academy of Sciences_ 10.1007/978-1-4419-0312-9_5": {
-    "el1": "Shangdong Institute of Commerce and Technology",
+  "Beihang University_ Shangdong Institute of Commerce and Technology_ 10.1007/978-1-4419-0312-9_5": {
+    "el1": "Beihang University",
+    "el2": "Shangdong Institute of Commerce and Technology",
+    "paper_doi": "10.1007/978-1-4419-0312-9_5",
+    "date": "2009"
+  },
+  "Institute of Software Chinese Academy of Sciences_ Institute of Software Chinese Academy of Sciences_ 10.1007/978-1-4419-0312-9_5": {
+    "el1": "Institute of Software Chinese Academy of Sciences",
     "el2": "Institute of Software Chinese Academy of Sciences",
     "paper_doi": "10.1007/978-1-4419-0312-9_5",
     "date": "2009"
   },
-  "University of Technology Sydney_ Tianjin University_ 10.1007/978-1-4419-0312-9_6": {
-    "el1": "University of Technology Sydney",
-    "el2": "Tianjin University",
-    "paper_doi": "10.1007/978-1-4419-0312-9_6",
+  "Institute of Software Chinese Academy of Sciences_ Shangdong Institute of Commerce and Technology_ 10.1007/978-1-4419-0312-9_5": {
+    "el1": "Institute of Software Chinese Academy of Sciences",
+    "el2": "Shangdong Institute of Commerce and Technology",
+    "paper_doi": "10.1007/978-1-4419-0312-9_5",
     "date": "2009"
   },
-  "University of Technology Sydney_ Western Sydney University_ 10.1007/978-1-4419-0312-9_6": {
-    "el1": "University of Technology Sydney",
-    "el2": "Western Sydney University",
+  "Tianjin University_ Tianjin University_ 10.1007/978-1-4419-0312-9_6": {
+    "el1": "Tianjin University",
+    "el2": "Tianjin University",
     "paper_doi": "10.1007/978-1-4419-0312-9_6",
     "date": "2009"
   },
@@ -113,16 +131,70 @@
     "paper_doi": "10.1007/978-1-4419-0312-9_6",
     "date": "2009"
   },
-  "Hohai University_ Nanjing University_ 10.1007/978-1-4419-0312-9_8": {
-    "el1": "Hohai University",
+  "Tianjin University_ University of Technology Sydney_ 10.1007/978-1-4419-0312-9_6": {
+    "el1": "Tianjin University",
+    "el2": "University of Technology Sydney",
+    "paper_doi": "10.1007/978-1-4419-0312-9_6",
+    "date": "2009"
+  },
+  "Western Sydney University_ University of Technology Sydney_ 10.1007/978-1-4419-0312-9_6": {
+    "el1": "Western Sydney University",
+    "el2": "University of Technology Sydney",
+    "paper_doi": "10.1007/978-1-4419-0312-9_6",
+    "date": "2009"
+  },
+  "Universitat Pompeu Fabra_ Universitat Pompeu Fabra_ 10.1007/978-1-4419-0312-9_7": {
+    "el1": "Universitat Pompeu Fabra",
+    "el2": "Universitat Pompeu Fabra",
+    "paper_doi": "10.1007/978-1-4419-0312-9_7",
+    "date": "2009"
+  },
+  "Nanjing University_ Nanjing University_ 10.1007/978-1-4419-0312-9_8": {
+    "el1": "Nanjing University",
     "el2": "Nanjing University",
     "paper_doi": "10.1007/978-1-4419-0312-9_8",
     "date": "2009"
   },
-  "University of Technology Sydney_ Tianjin University_ 10.1007/978-1-4419-0312-9_12": {
-    "el1": "University of Technology Sydney",
+  "Nanjing University_ Hohai University_ 10.1007/978-1-4419-0312-9_8": {
+    "el1": "Nanjing University",
+    "el2": "Hohai University",
+    "paper_doi": "10.1007/978-1-4419-0312-9_8",
+    "date": "2009"
+  },
+  "Multimedia University_ Multimedia University_ 10.1007/978-1-4419-0312-9_9": {
+    "el1": "Multimedia University",
+    "el2": "Multimedia University",
+    "paper_doi": "10.1007/978-1-4419-0312-9_9",
+    "date": "2009"
+  },
+  "University of Macau_ University of Macau_ 10.1007/978-1-4419-0312-9_10": {
+    "el1": "University of Macau",
+    "el2": "University of Macau",
+    "paper_doi": "10.1007/978-1-4419-0312-9_10",
+    "date": "2009"
+  },
+  "Ocean University of China_ Ocean University of China_ 10.1007/978-1-4419-0312-9_11": {
+    "el1": "Ocean University of China",
+    "el2": "Ocean University of China",
+    "paper_doi": "10.1007/978-1-4419-0312-9_11",
+    "date": "2009"
+  },
+  "Tianjin University_ Tianjin University_ 10.1007/978-1-4419-0312-9_12": {
+    "el1": "Tianjin University",
     "el2": "Tianjin University",
     "paper_doi": "10.1007/978-1-4419-0312-9_12",
+    "date": "2009"
+  },
+  "Tianjin University_ University of Technology Sydney_ 10.1007/978-1-4419-0312-9_12": {
+    "el1": "Tianjin University",
+    "el2": "University of Technology Sydney",
+    "paper_doi": "10.1007/978-1-4419-0312-9_12",
+    "date": "2009"
+  },
+  "German Research Center for Artificial Intelligence_ German Research Center for Artificial Intelligence_ 10.1007/978-1-4419-0312-9_13": {
+    "el1": "German Research Center for Artificial Intelligence",
+    "el2": "German Research Center for Artificial Intelligence",
+    "paper_doi": "10.1007/978-1-4419-0312-9_13",
     "date": "2009"
   },
   "Beihang University_ Institute of Software Chinese Academy of Sciences_ 10.1007/978-1-4419-0312-9_14": {
@@ -131,21 +203,51 @@
     "paper_doi": "10.1007/978-1-4419-0312-9_14",
     "date": "2009"
   },
-  "University of Technology Sydney_ Western Sydney University_ 10.1007/978-1-4419-0312-9_15": {
-    "el1": "University of Technology Sydney",
-    "el2": "Western Sydney University",
+  "Beihang University_ Beihang University_ 10.1007/978-1-4419-0312-9_14": {
+    "el1": "Beihang University",
+    "el2": "Beihang University",
+    "paper_doi": "10.1007/978-1-4419-0312-9_14",
+    "date": "2009"
+  },
+  "Institute of Software Chinese Academy of Sciences_ Institute of Software Chinese Academy of Sciences_ 10.1007/978-1-4419-0312-9_14": {
+    "el1": "Institute of Software Chinese Academy of Sciences",
+    "el2": "Institute of Software Chinese Academy of Sciences",
+    "paper_doi": "10.1007/978-1-4419-0312-9_14",
+    "date": "2009"
+  },
+  "Western Sydney University_ University of Technology Sydney_ 10.1007/978-1-4419-0312-9_15": {
+    "el1": "Western Sydney University",
+    "el2": "University of Technology Sydney",
     "paper_doi": "10.1007/978-1-4419-0312-9_15",
     "date": "2009"
   },
-  "Chinese Academy of Sciences_ The University of Newcastle_ 10.1007/978-1-4419-0312-9_21": {
-    "el1": "Chinese Academy of Sciences",
-    "el2": "The University of Newcastle",
-    "paper_doi": "10.1007/978-1-4419-0312-9_21",
+  "Ecole Nationale Supérieure d’Architecture de Strasbourg_ Ecole Nationale Supérieure d’Architecture de Strasbourg_ 10.1007/978-1-4419-0312-9_16": {
+    "el1": "Ecole Nationale Supérieure d’Architecture de Strasbourg",
+    "el2": "Ecole Nationale Supérieure d’Architecture de Strasbourg",
+    "paper_doi": "10.1007/978-1-4419-0312-9_16",
     "date": "2009"
   },
-  "Chinese Academy of Sciences_ Swinburne University of Technology_ 10.1007/978-1-4419-0312-9_21": {
-    "el1": "Chinese Academy of Sciences",
-    "el2": "Swinburne University of Technology",
+  "University Sains Malaysia_ University Sains Malaysia_ 10.1007/978-1-4419-0312-9_17": {
+    "el1": "University Sains Malaysia",
+    "el2": "University Sains Malaysia",
+    "paper_doi": "10.1007/978-1-4419-0312-9_17",
+    "date": "2009"
+  },
+  "Claremont Graduate University_ Claremont Graduate University_ 10.1007/978-1-4419-0312-9_18": {
+    "el1": "Claremont Graduate University",
+    "el2": "Claremont Graduate University",
+    "paper_doi": "10.1007/978-1-4419-0312-9_18",
+    "date": "2009"
+  },
+  "Tsinghua University_ Tsinghua University_ 10.1007/978-1-4419-0312-9_20": {
+    "el1": "Tsinghua University",
+    "el2": "Tsinghua University",
+    "paper_doi": "10.1007/978-1-4419-0312-9_20",
+    "date": "2009"
+  },
+  "The University of Newcastle_ The University of Newcastle_ 10.1007/978-1-4419-0312-9_21": {
+    "el1": "The University of Newcastle",
+    "el2": "The University of Newcastle",
     "paper_doi": "10.1007/978-1-4419-0312-9_21",
     "date": "2009"
   },
@@ -155,21 +257,51 @@
     "paper_doi": "10.1007/978-1-4419-0312-9_21",
     "date": "2009"
   },
+  "The University of Newcastle_ Chinese Academy of Sciences_ 10.1007/978-1-4419-0312-9_21": {
+    "el1": "The University of Newcastle",
+    "el2": "Chinese Academy of Sciences",
+    "paper_doi": "10.1007/978-1-4419-0312-9_21",
+    "date": "2009"
+  },
+  "Swinburne University of Technology_ Chinese Academy of Sciences_ 10.1007/978-1-4419-0312-9_21": {
+    "el1": "Swinburne University of Technology",
+    "el2": "Chinese Academy of Sciences",
+    "paper_doi": "10.1007/978-1-4419-0312-9_21",
+    "date": "2009"
+  },
+  "Zhejiang University_ Zhejiang University_ 10.1007/978-1-4419-0312-9_22": {
+    "el1": "Zhejiang University",
+    "el2": "Zhejiang University",
+    "paper_doi": "10.1007/978-1-4419-0312-9_22",
+    "date": "2009"
+  },
+  "Beihang University_ Beihang University_ 10.1007/978-1-4419-0312-9_23": {
+    "el1": "Beihang University",
+    "el2": "Beihang University",
+    "paper_doi": "10.1007/978-1-4419-0312-9_23",
+    "date": "2009"
+  },
+  "Civil Aviation University of China_ Civil Aviation University of China_ 10.1007/978-1-4419-0312-9_24": {
+    "el1": "Civil Aviation University of China",
+    "el2": "Civil Aviation University of China",
+    "paper_doi": "10.1007/978-1-4419-0312-9_24",
+    "date": "2009"
+  },
   "Civil Aviation University of China_ Tianjin University_ 10.1007/978-1-4419-0312-9_24": {
     "el1": "Civil Aviation University of China",
     "el2": "Tianjin University",
     "paper_doi": "10.1007/978-1-4419-0312-9_24",
     "date": "2009"
   },
-  "Shenzen Institutes of Advanced Technology_ university of stuttgart_ 10.1145/3481549.3481569": {
-    "el1": "Shenzen Institutes of Advanced Technology",
+  "university of stuttgart_ university of stuttgart_ 10.1145/3481549.3481569": {
+    "el1": "university of stuttgart",
     "el2": "university of stuttgart",
     "paper_doi": "10.1145/3481549.3481569",
     "date": "2021"
   },
-  "Shenzen Institutes of Advanced Technology_ shandong university_ 10.1145/3481549.3481569": {
-    "el1": "Shenzen Institutes of Advanced Technology",
-    "el2": "shandong university",
+  "university of stuttgart_ Shenzen Institutes of Advanced Technology_ 10.1145/3481549.3481569": {
+    "el1": "university of stuttgart",
+    "el2": "Shenzen Institutes of Advanced Technology",
     "paper_doi": "10.1145/3481549.3481569",
     "date": "2021"
   },
@@ -179,16 +311,22 @@
     "paper_doi": "10.1145/3481549.3481569",
     "date": "2021"
   },
-  "hochschule der medien  university of applied sciences_ Mercedes-Benz AG_ 10.1145/3481549.3481563": {
-    "el1": "hochschule der medien  university of applied sciences",
-    "el2": "Mercedes-Benz AG",
-    "paper_doi": "10.1145/3481549.3481563",
+  "Shenzen Institutes of Advanced Technology_ shandong university_ 10.1145/3481549.3481569": {
+    "el1": "Shenzen Institutes of Advanced Technology",
+    "el2": "shandong university",
+    "paper_doi": "10.1145/3481549.3481569",
     "date": "2021"
   },
-  "hochschule der medien  university of applied sciences_ university of stuttgart_ 10.1145/3481549.3481563": {
-    "el1": "hochschule der medien  university of applied sciences",
-    "el2": "university of stuttgart",
-    "paper_doi": "10.1145/3481549.3481563",
+  "ochanomizu university_ ochanomizu university_ 10.1145/3481549.3481553": {
+    "el1": "ochanomizu university",
+    "el2": "ochanomizu university",
+    "paper_doi": "10.1145/3481549.3481553",
+    "date": "2021"
+  },
+  "linnaeus university_ linnaeus university_ 10.1145/3481549.3481557": {
+    "el1": "linnaeus university",
+    "el2": "linnaeus university",
+    "paper_doi": "10.1145/3481549.3481557",
     "date": "2021"
   },
   "Mercedes-Benz AG_ university of stuttgart_ 10.1145/3481549.3481563": {
@@ -197,16 +335,34 @@
     "paper_doi": "10.1145/3481549.3481563",
     "date": "2021"
   },
-  "university of applied sciences_ Schepens Eye Research Institute_ 10.1145/3481549.3481562": {
-    "el1": "university of applied sciences",
-    "el2": "Schepens Eye Research Institute",
-    "paper_doi": "10.1145/3481549.3481562",
+  "Mercedes-Benz AG_ hochschule der medien  university of applied sciences_ 10.1145/3481549.3481563": {
+    "el1": "Mercedes-Benz AG",
+    "el2": "hochschule der medien  university of applied sciences",
+    "paper_doi": "10.1145/3481549.3481563",
     "date": "2021"
   },
-  "university of applied sciences_ stony brook university_ 10.1145/3481549.3481562": {
-    "el1": "university of applied sciences",
-    "el2": "stony brook university",
-    "paper_doi": "10.1145/3481549.3481562",
+  "university of stuttgart_ hochschule der medien  university of applied sciences_ 10.1145/3481549.3481563": {
+    "el1": "university of stuttgart",
+    "el2": "hochschule der medien  university of applied sciences",
+    "paper_doi": "10.1145/3481549.3481563",
+    "date": "2021"
+  },
+  "university of stuttgart_ university of stuttgart_ 10.1145/3481549.3481563": {
+    "el1": "university of stuttgart",
+    "el2": "university of stuttgart",
+    "paper_doi": "10.1145/3481549.3481563",
+    "date": "2021"
+  },
+  "university of potsdam_ university of potsdam_ 10.1145/3481549.3481568": {
+    "el1": "university of potsdam",
+    "el2": "university of potsdam",
+    "paper_doi": "10.1145/3481549.3481568",
+    "date": "2021"
+  },
+  "university of potsdam_ university of potsdam_ 10.1145/3481549.3481570": {
+    "el1": "university of potsdam",
+    "el2": "university of potsdam",
+    "paper_doi": "10.1145/3481549.3481570",
     "date": "2021"
   },
   "Schepens Eye Research Institute_ stony brook university_ 10.1145/3481549.3481562": {
@@ -215,15 +371,33 @@
     "paper_doi": "10.1145/3481549.3481562",
     "date": "2021"
   },
-  "university of new south wales and csiro_ university of new south wales_ 10.1145/3481549.3481556": {
-    "el1": "university of new south wales and csiro",
-    "el2": "university of new south wales",
-    "paper_doi": "10.1145/3481549.3481556",
+  "Schepens Eye Research Institute_ university of applied sciences_ 10.1145/3481549.3481562": {
+    "el1": "Schepens Eye Research Institute",
+    "el2": "university of applied sciences",
+    "paper_doi": "10.1145/3481549.3481562",
     "date": "2021"
   },
-  "university of new south wales and csiro_ monash university_ 10.1145/3481549.3481556": {
-    "el1": "university of new south wales and csiro",
-    "el2": "monash university",
+  "stony brook university_ stony brook university_ 10.1145/3481549.3481562": {
+    "el1": "stony brook university",
+    "el2": "stony brook university",
+    "paper_doi": "10.1145/3481549.3481562",
+    "date": "2021"
+  },
+  "stony brook university_ university of applied sciences_ 10.1145/3481549.3481562": {
+    "el1": "stony brook university",
+    "el2": "university of applied sciences",
+    "paper_doi": "10.1145/3481549.3481562",
+    "date": "2021"
+  },
+  "queen mary university of london_ queen mary university of london_ 10.1145/3481549.3481560": {
+    "el1": "queen mary university of london",
+    "el2": "queen mary university of london",
+    "paper_doi": "10.1145/3481549.3481560",
+    "date": "2021"
+  },
+  "university of new south wales_ university of new south wales_ 10.1145/3481549.3481556": {
+    "el1": "university of new south wales",
+    "el2": "university of new south wales",
     "paper_doi": "10.1145/3481549.3481556",
     "date": "2021"
   },
@@ -233,16 +407,22 @@
     "paper_doi": "10.1145/3481549.3481556",
     "date": "2021"
   },
+  "university of new south wales_ university of new south wales and csiro_ 10.1145/3481549.3481556": {
+    "el1": "university of new south wales",
+    "el2": "university of new south wales and csiro",
+    "paper_doi": "10.1145/3481549.3481556",
+    "date": "2021"
+  },
+  "monash university_ university of new south wales and csiro_ 10.1145/3481549.3481556": {
+    "el1": "monash university",
+    "el2": "university of new south wales and csiro",
+    "paper_doi": "10.1145/3481549.3481556",
+    "date": "2021"
+  },
   "Universidad de los Andes and Universidad El Bosque_ Universidad de los Andes_ 10.1145/3481549.3481554": {
     "el1": "Universidad de los Andes and Universidad El Bosque",
     "el2": "Universidad de los Andes",
     "paper_doi": "10.1145/3481549.3481554",
-    "date": "2021"
-  },
-  "St_ datavisyn GmbH_ 10.1145/3481549.3481558": {
-    "el1": "St",
-    "el2": "datavisyn GmbH",
-    "paper_doi": "10.1145/3481549.3481558",
     "date": "2021"
   },
   "St_ JKU Linz_ 10.1145/3481549.3481558": {
@@ -251,32 +431,74 @@
     "paper_doi": "10.1145/3481549.3481558",
     "date": "2021"
   },
-  "datavisyn GmbH_ JKU Linz_ 10.1145/3481549.3481558": {
-    "el1": "datavisyn GmbH",
+  "St_ St_ 10.1145/3481549.3481558": {
+    "el1": "St",
+    "el2": "St",
+    "paper_doi": "10.1145/3481549.3481558",
+    "date": "2021"
+  },
+  "St_ datavisyn GmbH_ 10.1145/3481549.3481558": {
+    "el1": "St",
+    "el2": "datavisyn GmbH",
+    "paper_doi": "10.1145/3481549.3481558",
+    "date": "2021"
+  },
+  "JKU Linz_ datavisyn GmbH_ 10.1145/3481549.3481558": {
+    "el1": "JKU Linz",
+    "el2": "datavisyn GmbH",
+    "paper_doi": "10.1145/3481549.3481558",
+    "date": "2021"
+  },
+  "JKU Linz_ JKU Linz_ 10.1145/3481549.3481558": {
+    "el1": "JKU Linz",
     "el2": "JKU Linz",
     "paper_doi": "10.1145/3481549.3481558",
     "date": "2021"
   },
-  "toyohashi university of technology_ monash university_ 10.1145/3481549.3481555": {
-    "el1": "toyohashi university of technology",
+  "UNC Charlotte_ UNC Charlotte_ 10.1145/3481549.3481564": {
+    "el1": "UNC Charlotte",
+    "el2": "UNC Charlotte",
+    "paper_doi": "10.1145/3481549.3481564",
+    "date": "2021"
+  },
+  "ochanomizu university_ monash university_ 10.1145/3481549.3481555": {
+    "el1": "ochanomizu university",
     "el2": "monash university",
     "paper_doi": "10.1145/3481549.3481555",
     "date": "2021"
   },
-  "toyohashi university of technology_ ochanomizu university_ 10.1145/3481549.3481555": {
-    "el1": "toyohashi university of technology",
+  "ochanomizu university_ toyohashi university of technology_ 10.1145/3481549.3481555": {
+    "el1": "ochanomizu university",
+    "el2": "toyohashi university of technology",
+    "paper_doi": "10.1145/3481549.3481555",
+    "date": "2021"
+  },
+  "ochanomizu university_ ochanomizu university_ 10.1145/3481549.3481555": {
+    "el1": "ochanomizu university",
     "el2": "ochanomizu university",
     "paper_doi": "10.1145/3481549.3481555",
     "date": "2021"
   },
-  "monash university_ ochanomizu university_ 10.1145/3481549.3481555": {
+  "monash university_ toyohashi university of technology_ 10.1145/3481549.3481555": {
     "el1": "monash university",
-    "el2": "ochanomizu university",
+    "el2": "toyohashi university of technology",
     "paper_doi": "10.1145/3481549.3481555",
     "date": "2021"
   },
-  "university of copenhagen_ university of helsinki_ 10.1145/3481549.3481565": {
-    "el1": "university of copenhagen",
+  "university of trier_ university of trier_ 10.1145/3481549.3481566": {
+    "el1": "university of trier",
+    "el2": "university of trier",
+    "paper_doi": "10.1145/3481549.3481566",
+    "date": "2021"
+  },
+  "university of helsinki_ university of copenhagen_ 10.1145/3481549.3481565": {
+    "el1": "university of helsinki",
+    "el2": "university of copenhagen",
+    "paper_doi": "10.1145/3481549.3481565",
+    "date": "2021"
+  },
+  "university of helsinki_ university of helsinki_ 10.1145/3481549.3481565": {
+    "el1": "university of helsinki",
     "el2": "university of helsinki",
     "paper_doi": "10.1145/3481549.3481565",
     "date": "2021"
@@ -287,69 +509,141 @@
     "paper_doi": "10.1145/3481549.3481550",
     "date": "2021"
   },
-  "TETIS_ CIRAD_ 10.1145/3231622.3231624": {
-    "el1": "TETIS",
+  "eindhoven university of technology_ eindhoven university of technology_ 10.1145/3481549.3481550": {
+    "el1": "eindhoven university of technology",
+    "el2": "eindhoven university of technology",
+    "paper_doi": "10.1145/3481549.3481550",
+    "date": "2021"
+  },
+  "Escuela Superior Politécnica del Litoral_ Escuela Superior Politécnica del Litoral_ 10.1145/3481549.3481571": {
+    "el1": "Escuela Superior Politécnica del Litoral",
+    "el2": "Escuela Superior Politécnica del Litoral",
+    "paper_doi": "10.1145/3481549.3481571",
+    "date": "2021"
+  },
+  "university of potsdam_ university of potsdam_ 10.1145/3481549.3481573": {
+    "el1": "university of potsdam",
+    "el2": "university of potsdam",
+    "paper_doi": "10.1145/3481549.3481573",
+    "date": "2021"
+  },
+  "Escuela Superior Politécnica del Litoral_ Escuela Superior Politécnica del Litoral_ 10.1145/3481549.3481572": {
+    "el1": "Escuela Superior Politécnica del Litoral",
+    "el2": "Escuela Superior Politécnica del Litoral",
+    "paper_doi": "10.1145/3481549.3481572",
+    "date": "2021"
+  },
+  "reutlingen university_ reutlingen university_ 10.1145/3481549.3481559": {
+    "el1": "reutlingen university",
+    "el2": "reutlingen university",
+    "paper_doi": "10.1145/3481549.3481559",
+    "date": "2021"
+  },
+  "north carolina state university_ north carolina state university_ 10.1145/3481549.3481567": {
+    "el1": "north carolina state university",
+    "el2": "north carolina state university",
+    "paper_doi": "10.1145/3481549.3481567",
+    "date": "2021"
+  },
+  "east china normal university_ east china normal university_ 10.1145/3481549.3481551": {
+    "el1": "east china normal university",
+    "el2": "east china normal university",
+    "paper_doi": "10.1145/3481549.3481551",
+    "date": "2021"
+  },
+  "zhejiang university_ zhejiang university_ 10.1145/3481549.3481552": {
+    "el1": "zhejiang university",
+    "el2": "zhejiang university",
+    "paper_doi": "10.1145/3481549.3481552",
+    "date": "2021"
+  },
+  "university of applied sciences_ university of applied sciences_ 10.1145/3481549.3481561": {
+    "el1": "university of applied sciences",
+    "el2": "university of applied sciences",
+    "paper_doi": "10.1145/3481549.3481561",
+    "date": "2021"
+  },
+  "university of potsdam_ university of potsdam_ 10.1145/3430036.3430041": {
+    "el1": "university of potsdam",
+    "el2": "university of potsdam",
+    "paper_doi": "10.1145/3430036.3430041",
+    "date": "2020"
+  },
+  "university of potsdam_ university of potsdam_ 10.1145/3430036.3430054": {
+    "el1": "university of potsdam",
+    "el2": "university of potsdam",
+    "paper_doi": "10.1145/3430036.3430054",
+    "date": "2020"
+  },
+  "eindhoven university of technology_ eindhoven university of technology_ 10.1145/3430036.3430037": {
+    "el1": "eindhoven university of technology",
+    "el2": "eindhoven university of technology",
+    "paper_doi": "10.1145/3430036.3430037",
+    "date": "2020"
+  },
+  "zhejiang university_ zhejiang university_ 10.1145/3356422.3356433": {
+    "el1": "zhejiang university",
+    "el2": "zhejiang university",
+    "paper_doi": "10.1145/3356422.3356433",
+    "date": "2019"
+  },
+  "hangzhou dianzi university_ hangzhou dianzi university_ 10.1145/3356422.3356440": {
+    "el1": "hangzhou dianzi university",
+    "el2": "hangzhou dianzi university",
+    "paper_doi": "10.1145/3356422.3356440",
+    "date": "2019"
+  },
+  "sejong university_ sejong university_ 10.1145/3356422.3356439": {
+    "el1": "sejong university",
+    "el2": "sejong university",
+    "paper_doi": "10.1145/3356422.3356439",
+    "date": "2019"
+  },
+  "BITS Pilani_ LIRMM_ 10.1145/3231622.3231624": {
+    "el1": "BITS Pilani",
+    "el2": "LIRMM",
+    "paper_doi": "10.1145/3231622.3231624",
+    "date": "2018"
+  },
+  "BITS Pilani_ CIRAD_ 10.1145/3231622.3231624": {
+    "el1": "BITS Pilani",
     "el2": "CIRAD",
     "paper_doi": "10.1145/3231622.3231624",
     "date": "2018"
   },
-  "TETIS_ LIRMM_ 10.1145/3231622.3231624": {
-    "el1": "TETIS",
-    "el2": "LIRMM",
+  "BITS Pilani_ TETIS_ 10.1145/3231622.3231624": {
+    "el1": "BITS Pilani",
+    "el2": "TETIS",
     "paper_doi": "10.1145/3231622.3231624",
     "date": "2018"
   },
-  "TETIS_ BITS Pilani_ 10.1145/3231622.3231624": {
-    "el1": "TETIS",
-    "el2": "BITS Pilani",
-    "paper_doi": "10.1145/3231622.3231624",
-    "date": "2018"
-  },
-  "CIRAD_ LIRMM_ 10.1145/3231622.3231624": {
-    "el1": "CIRAD",
-    "el2": "LIRMM",
-    "paper_doi": "10.1145/3231622.3231624",
-    "date": "2018"
-  },
-  "CIRAD_ BITS Pilani_ 10.1145/3231622.3231624": {
-    "el1": "CIRAD",
-    "el2": "BITS Pilani",
-    "paper_doi": "10.1145/3231622.3231624",
-    "date": "2018"
-  },
-  "LIRMM_ BITS Pilani_ 10.1145/3231622.3231624": {
+  "LIRMM_ CIRAD_ 10.1145/3231622.3231624": {
     "el1": "LIRMM",
-    "el2": "BITS Pilani",
+    "el2": "CIRAD",
     "paper_doi": "10.1145/3231622.3231624",
     "date": "2018"
   },
-  "CSIRO Data 61_ monash university_ 10.1145/3231622.3231626": {
-    "el1": "CSIRO Data 61",
-    "el2": "monash university",
-    "paper_doi": "10.1145/3231622.3231626",
+  "LIRMM_ LIRMM_ 10.1145/3231622.3231624": {
+    "el1": "LIRMM",
+    "el2": "LIRMM",
+    "paper_doi": "10.1145/3231622.3231624",
     "date": "2018"
   },
-  "CSIRO Data 61_ swinburne university of technology_ 10.1145/3231622.3231626": {
-    "el1": "CSIRO Data 61",
+  "LIRMM_ TETIS_ 10.1145/3231622.3231624": {
+    "el1": "LIRMM",
+    "el2": "TETIS",
+    "paper_doi": "10.1145/3231622.3231624",
+    "date": "2018"
+  },
+  "CIRAD_ TETIS_ 10.1145/3231622.3231624": {
+    "el1": "CIRAD",
+    "el2": "TETIS",
+    "paper_doi": "10.1145/3231622.3231624",
+    "date": "2018"
+  },
+  "swinburne university of technology_ swinburne university of technology_ 10.1145/3231622.3231626": {
+    "el1": "swinburne university of technology",
     "el2": "swinburne university of technology",
-    "paper_doi": "10.1145/3231622.3231626",
-    "date": "2018"
-  },
-  "CSIRO Data 61_ deakin university_ 10.1145/3231622.3231626": {
-    "el1": "CSIRO Data 61",
-    "el2": "deakin university",
-    "paper_doi": "10.1145/3231622.3231626",
-    "date": "2018"
-  },
-  "monash university_ swinburne university of technology_ 10.1145/3231622.3231626": {
-    "el1": "monash university",
-    "el2": "swinburne university of technology",
-    "paper_doi": "10.1145/3231622.3231626",
-    "date": "2018"
-  },
-  "monash university_ deakin university_ 10.1145/3231622.3231626": {
-    "el1": "monash university",
-    "el2": "deakin university",
     "paper_doi": "10.1145/3231622.3231626",
     "date": "2018"
   },
@@ -359,10 +653,58 @@
     "paper_doi": "10.1145/3231622.3231626",
     "date": "2018"
   },
-  "East China Normal University_ east of china normal university_ 10.1145/3231622.3231627": {
-    "el1": "East China Normal University",
+  "swinburne university of technology_ monash university_ 10.1145/3231622.3231626": {
+    "el1": "swinburne university of technology",
+    "el2": "monash university",
+    "paper_doi": "10.1145/3231622.3231626",
+    "date": "2018"
+  },
+  "swinburne university of technology_ CSIRO Data 61_ 10.1145/3231622.3231626": {
+    "el1": "swinburne university of technology",
+    "el2": "CSIRO Data 61",
+    "paper_doi": "10.1145/3231622.3231626",
+    "date": "2018"
+  },
+  "deakin university_ deakin university_ 10.1145/3231622.3231626": {
+    "el1": "deakin university",
+    "el2": "deakin university",
+    "paper_doi": "10.1145/3231622.3231626",
+    "date": "2018"
+  },
+  "deakin university_ monash university_ 10.1145/3231622.3231626": {
+    "el1": "deakin university",
+    "el2": "monash university",
+    "paper_doi": "10.1145/3231622.3231626",
+    "date": "2018"
+  },
+  "deakin university_ CSIRO Data 61_ 10.1145/3231622.3231626": {
+    "el1": "deakin university",
+    "el2": "CSIRO Data 61",
+    "paper_doi": "10.1145/3231622.3231626",
+    "date": "2018"
+  },
+  "monash university_ CSIRO Data 61_ 10.1145/3231622.3231626": {
+    "el1": "monash university",
+    "el2": "CSIRO Data 61",
+    "paper_doi": "10.1145/3231622.3231626",
+    "date": "2018"
+  },
+  "east of china normal university_ east of china normal university_ 10.1145/3231622.3231627": {
+    "el1": "east of china normal university",
     "el2": "east of china normal university",
     "paper_doi": "10.1145/3231622.3231627",
+    "date": "2018"
+  },
+  "east of china normal university_ East China Normal University_ 10.1145/3231622.3231627": {
+    "el1": "east of china normal university",
+    "el2": "East China Normal University",
+    "paper_doi": "10.1145/3231622.3231627",
+    "date": "2018"
+  },
+  "university of stuttgart_ university of stuttgart_ 10.1145/3231622.3231628": {
+    "el1": "university of stuttgart",
+    "el2": "university of stuttgart",
+    "paper_doi": "10.1145/3231622.3231628",
     "date": "2018"
   },
   "eindhoven university of technology_ university of stuttgart_ 10.1145/3231622.3231635": {
@@ -371,28 +713,40 @@
     "paper_doi": "10.1145/3231622.3231635",
     "date": "2018"
   },
-  "university of texas_ tianjin university_ 10.1145/3231622.3231637": {
-    "el1": "university of texas",
-    "el2": "tianjin university",
-    "paper_doi": "10.1145/3231622.3231637",
-    "date": "2018"
-  },
   "university of texas_ hohai university_ 10.1145/3231622.3231637": {
     "el1": "university of texas",
     "el2": "hohai university",
     "paper_doi": "10.1145/3231622.3231637",
     "date": "2018"
   },
-  "tianjin university_ hohai university_ 10.1145/3231622.3231637": {
-    "el1": "tianjin university",
-    "el2": "hohai university",
+  "university of texas_ tianjin university_ 10.1145/3231622.3231637": {
+    "el1": "university of texas",
+    "el2": "tianjin university",
     "paper_doi": "10.1145/3231622.3231637",
     "date": "2018"
   },
-  "ipk gaterslebenbielefeld university_ university of konstanz_ 10.1145/3231622.3231639": {
-    "el1": "ipk gaterslebenbielefeld university",
-    "el2": "university of konstanz",
-    "paper_doi": "10.1145/3231622.3231639",
+  "university of texas_ university of texas_ 10.1145/3231622.3231637": {
+    "el1": "university of texas",
+    "el2": "university of texas",
+    "paper_doi": "10.1145/3231622.3231637",
+    "date": "2018"
+  },
+  "hohai university_ tianjin university_ 10.1145/3231622.3231637": {
+    "el1": "hohai university",
+    "el2": "tianjin university",
+    "paper_doi": "10.1145/3231622.3231637",
+    "date": "2018"
+  },
+  "university of potsdam_ university of potsdam_ 10.1145/3231622.3231638": {
+    "el1": "university of potsdam",
+    "el2": "university of potsdam",
+    "paper_doi": "10.1145/3231622.3231638",
+    "date": "2018"
+  },
+  "Technion_ Technion_ 10.1145/3231622.3231623": {
+    "el1": "Technion",
+    "el2": "Technion",
+    "paper_doi": "10.1145/3231622.3231623",
     "date": "2018"
   },
   "ipk gaterslebenbielefeld university_ bielefeld university_ 10.1145/3231622.3231639": {
@@ -401,34 +755,100 @@
     "paper_doi": "10.1145/3231622.3231639",
     "date": "2018"
   },
-  "university of konstanz_ bielefeld university_ 10.1145/3231622.3231639": {
-    "el1": "university of konstanz",
+  "ipk gaterslebenbielefeld university_ university of konstanz_ 10.1145/3231622.3231639": {
+    "el1": "ipk gaterslebenbielefeld university",
+    "el2": "university of konstanz",
+    "paper_doi": "10.1145/3231622.3231639",
+    "date": "2018"
+  },
+  "bielefeld university_ bielefeld university_ 10.1145/3231622.3231639": {
+    "el1": "bielefeld university",
     "el2": "bielefeld university",
     "paper_doi": "10.1145/3231622.3231639",
     "date": "2018"
   },
-  "RIPE NCC_ roma tre university_ 10.1145/3231622.3231632": {
-    "el1": "RIPE NCC",
+  "bielefeld university_ university of konstanz_ 10.1145/3231622.3231639": {
+    "el1": "bielefeld university",
+    "el2": "university of konstanz",
+    "paper_doi": "10.1145/3231622.3231639",
+    "date": "2018"
+  },
+  "university of konstanz_ university of konstanz_ 10.1145/3231622.3231639": {
+    "el1": "university of konstanz",
+    "el2": "university of konstanz",
+    "paper_doi": "10.1145/3231622.3231639",
+    "date": "2018"
+  },
+  "roma tre university_ RIPE NCC_ 10.1145/3231622.3231632": {
+    "el1": "roma tre university",
+    "el2": "RIPE NCC",
+    "paper_doi": "10.1145/3231622.3231632",
+    "date": "2018"
+  },
+  "roma tre university_ roma tre university_ 10.1145/3231622.3231632": {
+    "el1": "roma tre university",
     "el2": "roma tre university",
     "paper_doi": "10.1145/3231622.3231632",
     "date": "2018"
   },
-  "Reutlingen University_ eindhoven university of technology_ 10.1145/3231622.3231633": {
-    "el1": "Reutlingen University",
-    "el2": "eindhoven university of technology",
+  "eindhoven university of technology_ Reutlingen University_ 10.1145/3231622.3231633": {
+    "el1": "eindhoven university of technology",
+    "el2": "Reutlingen University",
     "paper_doi": "10.1145/3231622.3231633",
     "date": "2018"
   },
-  "university of potsdam_ linnaeus university_ 10.1145/3231622.3232505": {
-    "el1": "university of potsdam",
+  "Reutlingen University_ Reutlingen University_ 10.1145/3231622.3231633": {
+    "el1": "Reutlingen University",
+    "el2": "Reutlingen University",
+    "paper_doi": "10.1145/3231622.3231633",
+    "date": "2018"
+  },
+  "linnaeus university_ linnaeus university_ 10.1145/3231622.3231625": {
+    "el1": "linnaeus university",
+    "el2": "linnaeus university",
+    "paper_doi": "10.1145/3231622.3231625",
+    "date": "2018"
+  },
+  "linnaeus university_ linnaeus university_ 10.1145/3231622.3231641": {
+    "el1": "linnaeus university",
+    "el2": "linnaeus university",
+    "paper_doi": "10.1145/3231622.3231641",
+    "date": "2018"
+  },
+  "linnaeus university_ university of potsdam_ 10.1145/3231622.3232505": {
+    "el1": "linnaeus university",
+    "el2": "university of potsdam",
+    "paper_doi": "10.1145/3231622.3232505",
+    "date": "2018"
+  },
+  "linnaeus university_ linnaeus university_ 10.1145/3231622.3232505": {
+    "el1": "linnaeus university",
     "el2": "linnaeus university",
     "paper_doi": "10.1145/3231622.3232505",
     "date": "2018"
   },
-  "lund university_ linnaeus university_ 10.1145/3231622.3232508": {
-    "el1": "lund university",
+  "linnaeus university_ linnaeus university_ 10.1145/3231622.3232508": {
+    "el1": "linnaeus university",
     "el2": "linnaeus university",
     "paper_doi": "10.1145/3231622.3232508",
+    "date": "2018"
+  },
+  "linnaeus university_ lund university_ 10.1145/3231622.3232508": {
+    "el1": "linnaeus university",
+    "el2": "lund university",
+    "paper_doi": "10.1145/3231622.3232508",
+    "date": "2018"
+  },
+  "linnaeus university_ linnaeus university_ 10.1145/3231622.3232506": {
+    "el1": "linnaeus university",
+    "el2": "linnaeus university",
+    "paper_doi": "10.1145/3231622.3232506",
+    "date": "2018"
+  },
+  "RIKEN Center for Computational Science_ RIKEN Center for Computational Science_ 10.1145/3231622.3232504": {
+    "el1": "RIKEN Center for Computational Science",
+    "el2": "RIKEN Center for Computational Science",
+    "paper_doi": "10.1145/3231622.3232504",
     "date": "2018"
   },
   "RIKEN Center for Computational Science_ kyushu university_ 10.1145/3231622.3232504": {
@@ -437,10 +857,40 @@
     "paper_doi": "10.1145/3231622.3232504",
     "date": "2018"
   },
-  "Technische Universität Dresden_ SAP SE_ 10.1145/3105971.3105972": {
-    "el1": "Technische Universität Dresden",
-    "el2": "SAP SE",
+  "mid sweden university_ mid sweden university_ 10.1145/3231622.3231636": {
+    "el1": "mid sweden university",
+    "el2": "mid sweden university",
+    "paper_doi": "10.1145/3231622.3231636",
+    "date": "2018"
+  },
+  "university of applied sciences_ university of applied sciences_ 10.1145/3231622.3231640": {
+    "el1": "university of applied sciences",
+    "el2": "university of applied sciences",
+    "paper_doi": "10.1145/3231622.3231640",
+    "date": "2018"
+  },
+  "ajou university_ ajou university_ 10.1145/3231622.3232507": {
+    "el1": "ajou university",
+    "el2": "ajou university",
+    "paper_doi": "10.1145/3231622.3232507",
+    "date": "2018"
+  },
+  "SAP SE_ Technische Universität Dresden_ 10.1145/3105971.3105972": {
+    "el1": "SAP SE",
+    "el2": "Technische Universität Dresden",
     "paper_doi": "10.1145/3105971.3105972",
+    "date": "2017"
+  },
+  "Technische Universität Dresden_ Technische Universität Dresden_ 10.1145/3105971.3105972": {
+    "el1": "Technische Universität Dresden",
+    "el2": "Technische Universität Dresden",
+    "paper_doi": "10.1145/3105971.3105972",
+    "date": "2017"
+  },
+  "central south university_ central south university_ 10.1145/3105971.3105980": {
+    "el1": "central south university",
+    "el2": "central south university",
+    "paper_doi": "10.1145/3105971.3105980",
     "date": "2017"
   },
   "central south university_ Enterprise Security Group_ 10.1145/3105971.3105980": {
@@ -461,22 +911,82 @@
     "paper_doi": "10.1145/3105971.3105980",
     "date": "2017"
   },
-  "Yonsei University_ Sejong University_ 10.1145/3105971.3105975": {
-    "el1": "Yonsei University",
+  "hohai university_ hohai university_ 10.1145/3105971.3105983": {
+    "el1": "hohai university",
+    "el2": "hohai university",
+    "paper_doi": "10.1145/3105971.3105983",
+    "date": "2017"
+  },
+  "east china normal university_ east china normal university_ 10.1145/3105971.3105986": {
+    "el1": "east china normal university",
+    "el2": "east china normal university",
+    "paper_doi": "10.1145/3105971.3105986",
+    "date": "2017"
+  },
+  "Sejong University_ Yonsei University_ 10.1145/3105971.3105975": {
+    "el1": "Sejong University",
+    "el2": "Yonsei University",
+    "paper_doi": "10.1145/3105971.3105975",
+    "date": "2017"
+  },
+  "Sejong University_ Sejong University_ 10.1145/3105971.3105975": {
+    "el1": "Sejong University",
     "el2": "Sejong University",
     "paper_doi": "10.1145/3105971.3105975",
     "date": "2017"
   },
-  "Fraunhofer Institute for Solar Energy Systems ISE_ university of stuttgart_ 10.1145/3105971.3105982": {
-    "el1": "Fraunhofer Institute for Solar Energy Systems ISE",
+  "Yonsei University_ Yonsei University_ 10.1145/3105971.3105975": {
+    "el1": "Yonsei University",
+    "el2": "Yonsei University",
+    "paper_doi": "10.1145/3105971.3105975",
+    "date": "2017"
+  },
+  "university of stuttgart_ university of stuttgart_ 10.1145/3105971.3105982": {
+    "el1": "university of stuttgart",
     "el2": "university of stuttgart",
     "paper_doi": "10.1145/3105971.3105982",
     "date": "2017"
   },
-  "university of helsinki_ Aalto University_ 10.1145/3105971.3105981": {
-    "el1": "university of helsinki",
+  "university of stuttgart_ Fraunhofer Institute for Solar Energy Systems ISE_ 10.1145/3105971.3105982": {
+    "el1": "university of stuttgart",
+    "el2": "Fraunhofer Institute for Solar Energy Systems ISE",
+    "paper_doi": "10.1145/3105971.3105982",
+    "date": "2017"
+  },
+  "Fraunhofer Institute for Solar Energy Systems ISE_ Fraunhofer Institute for Solar Energy Systems ISE_ 10.1145/3105971.3105982": {
+    "el1": "Fraunhofer Institute for Solar Energy Systems ISE",
+    "el2": "Fraunhofer Institute for Solar Energy Systems ISE",
+    "paper_doi": "10.1145/3105971.3105982",
+    "date": "2017"
+  },
+  "Aalto University_ Aalto University_ 10.1145/3105971.3105981": {
+    "el1": "Aalto University",
     "el2": "Aalto University",
     "paper_doi": "10.1145/3105971.3105981",
+    "date": "2017"
+  },
+  "Aalto University_ university of helsinki_ 10.1145/3105971.3105981": {
+    "el1": "Aalto University",
+    "el2": "university of helsinki",
+    "paper_doi": "10.1145/3105971.3105981",
+    "date": "2017"
+  },
+  "university of helsinki_ university of helsinki_ 10.1145/3105971.3105981": {
+    "el1": "university of helsinki",
+    "el2": "university of helsinki",
+    "paper_doi": "10.1145/3105971.3105981",
+    "date": "2017"
+  },
+  "vienna university of technology tu wien_ vienna university of technology tu wien_ 10.1145/3105971.3105984": {
+    "el1": "vienna university of technology tu wien",
+    "el2": "vienna university of technology tu wien",
+    "paper_doi": "10.1145/3105971.3105984",
+    "date": "2017"
+  },
+  "university of tsukuba_ university of tsukuba_ 10.1145/3105971.3105987": {
+    "el1": "university of tsukuba",
+    "el2": "university of tsukuba",
+    "paper_doi": "10.1145/3105971.3105987",
     "date": "2017"
   },
   "university of tsukuba_ Fujitsu Laboratories Ltd_ 10.1145/3105971.3105987": {
@@ -485,10 +995,34 @@
     "paper_doi": "10.1145/3105971.3105987",
     "date": "2017"
   },
-  "king mongkuts university of technology thonburi_ university of toronto_ 10.1145/3105971.3108447": {
-    "el1": "king mongkuts university of technology thonburi",
-    "el2": "university of toronto",
+  "University of California_ University of California_ 10.1145/3105971.3105990": {
+    "el1": "University of California",
+    "el2": "University of California",
+    "paper_doi": "10.1145/3105971.3105990",
+    "date": "2017"
+  },
+  "tianjin university_ tianjin university_ 10.1145/3105971.3108443": {
+    "el1": "tianjin university",
+    "el2": "tianjin university",
+    "paper_doi": "10.1145/3105971.3108443",
+    "date": "2017"
+  },
+  "university of toronto_ king mongkuts university of technology thonburi_ 10.1145/3105971.3108447": {
+    "el1": "university of toronto",
+    "el2": "king mongkuts university of technology thonburi",
     "paper_doi": "10.1145/3105971.3108447",
+    "date": "2017"
+  },
+  "king mongkuts university of technology thonburi_ king mongkuts university of technology thonburi_ 10.1145/3105971.3108447": {
+    "el1": "king mongkuts university of technology thonburi",
+    "el2": "king mongkuts university of technology thonburi",
+    "paper_doi": "10.1145/3105971.3108447",
+    "date": "2017"
+  },
+  "university of macau_ university of macau_ 10.1145/3105971.3108450": {
+    "el1": "university of macau",
+    "el2": "university of macau",
+    "paper_doi": "10.1145/3105971.3108450",
     "date": "2017"
   },
   "university of texas_ Beijing Film Academy_ 10.1145/3105971.3108444": {
@@ -509,9 +1043,15 @@
     "paper_doi": "10.1145/3105971.3108444",
     "date": "2017"
   },
-  "tianjin university_ China Automotive Technology and Research Center_ 10.1145/3105971.3108442": {
-    "el1": "tianjin university",
+  "China Automotive Technology and Research Center_ China Automotive Technology and Research Center_ 10.1145/3105971.3108442": {
+    "el1": "China Automotive Technology and Research Center",
     "el2": "China Automotive Technology and Research Center",
+    "paper_doi": "10.1145/3105971.3108442",
+    "date": "2017"
+  },
+  "China Automotive Technology and Research Center_ tianjin university_ 10.1145/3105971.3108442": {
+    "el1": "China Automotive Technology and Research Center",
+    "el2": "tianjin university",
     "paper_doi": "10.1145/3105971.3108442",
     "date": "2017"
   },
@@ -521,10 +1061,28 @@
     "paper_doi": "10.1145/3105971.3108445",
     "date": "2017"
   },
-  "Agoda Services Co_ king mongkuts university of technology thonburi_ 10.1145/3105971.3108446": {
-    "el1": "Agoda Services Co",
+  "ajou university_ ajou university_ 10.1145/3105971.3108445": {
+    "el1": "ajou university",
+    "el2": "ajou university",
+    "paper_doi": "10.1145/3105971.3108445",
+    "date": "2017"
+  },
+  "king mongkuts university of technology thonburi_ Agoda Services Co_ 10.1145/3105971.3108446": {
+    "el1": "king mongkuts university of technology thonburi",
+    "el2": "Agoda Services Co",
+    "paper_doi": "10.1145/3105971.3108446",
+    "date": "2017"
+  },
+  "king mongkuts university of technology thonburi_ king mongkuts university of technology thonburi_ 10.1145/3105971.3108446": {
+    "el1": "king mongkuts university of technology thonburi",
     "el2": "king mongkuts university of technology thonburi",
     "paper_doi": "10.1145/3105971.3108446",
+    "date": "2017"
+  },
+  "university of toronto_ university of toronto_ 10.1145/3105971.3108448": {
+    "el1": "university of toronto",
+    "el2": "university of toronto",
+    "paper_doi": "10.1145/3105971.3108448",
     "date": "2017"
   },
   "university of toronto_ KMUTT_ 10.1145/3105971.3108448": {
@@ -533,9 +1091,39 @@
     "paper_doi": "10.1145/3105971.3108448",
     "date": "2017"
   },
-  "Universitá di Padova_ university of helsinki_ 10.1145/3105971.3105977": {
-    "el1": "Universitá di Padova",
+  "KMUTT_ KMUTT_ 10.1145/3105971.3108448": {
+    "el1": "KMUTT",
+    "el2": "KMUTT",
+    "paper_doi": "10.1145/3105971.3108448",
+    "date": "2017"
+  },
+  "east china normal university_ east china normal university_ 10.1145/3105971.3105992": {
+    "el1": "east china normal university",
+    "el2": "east china normal university",
+    "paper_doi": "10.1145/3105971.3105992",
+    "date": "2017"
+  },
+  "king mongkuts university of technology thonburi_ king mongkuts university of technology thonburi_ 10.1145/3105971.3108449": {
+    "el1": "king mongkuts university of technology thonburi",
+    "el2": "king mongkuts university of technology thonburi",
+    "paper_doi": "10.1145/3105971.3108449",
+    "date": "2017"
+  },
+  "university of helsinki_ Universitá di Padova_ 10.1145/3105971.3105977": {
+    "el1": "university of helsinki",
+    "el2": "Universitá di Padova",
+    "paper_doi": "10.1145/3105971.3105977",
+    "date": "2017"
+  },
+  "university of helsinki_ university of helsinki_ 10.1145/3105971.3105977": {
+    "el1": "university of helsinki",
     "el2": "university of helsinki",
+    "paper_doi": "10.1145/3105971.3105977",
+    "date": "2017"
+  },
+  "Universitá di Padova_ Universitá di Padova_ 10.1145/3105971.3105977": {
+    "el1": "Universitá di Padova",
+    "el2": "Universitá di Padova",
     "paper_doi": "10.1145/3105971.3105977",
     "date": "2017"
   },
@@ -545,16 +1133,52 @@
     "paper_doi": "10.1145/3105971.3105974",
     "date": "2017"
   },
-  "university of melbourne_ university of macau_ 10.1145/3105971.3105976": {
-    "el1": "university of melbourne",
+  "zhejiang university_ zhejiang university_ 10.1145/3105971.3105974": {
+    "el1": "zhejiang university",
+    "el2": "zhejiang university",
+    "paper_doi": "10.1145/3105971.3105974",
+    "date": "2017"
+  },
+  "university of stuttgart and university of reutlingen_ university of stuttgart and university of reutlingen_ 10.1145/3105971.3105989": {
+    "el1": "university of stuttgart and university of reutlingen",
+    "el2": "university of stuttgart and university of reutlingen",
+    "paper_doi": "10.1145/3105971.3105989",
+    "date": "2017"
+  },
+  "university of macau_ university of melbourne_ 10.1145/3105971.3105976": {
+    "el1": "university of macau",
+    "el2": "university of melbourne",
+    "paper_doi": "10.1145/3105971.3105976",
+    "date": "2017"
+  },
+  "university of macau_ university of macau_ 10.1145/3105971.3105976": {
+    "el1": "university of macau",
     "el2": "university of macau",
     "paper_doi": "10.1145/3105971.3105976",
+    "date": "2017"
+  },
+  "university of brighton_ university of brighton_ 10.1145/3105971.3105978": {
+    "el1": "university of brighton",
+    "el2": "university of brighton",
+    "paper_doi": "10.1145/3105971.3105978",
     "date": "2017"
   },
   "university of brighton_ university of kent_ 10.1145/3105971.3105978": {
     "el1": "university of brighton",
     "el2": "university of kent",
     "paper_doi": "10.1145/3105971.3105978",
+    "date": "2017"
+  },
+  "Technische Universität Dresden_ Technische Universität Dresden_ 10.1145/3105971.3105979": {
+    "el1": "Technische Universität Dresden",
+    "el2": "Technische Universität Dresden",
+    "paper_doi": "10.1145/3105971.3105979",
+    "date": "2017"
+  },
+  "Technische Universität Dresden_ deecoob Technology GmbH_ 10.1145/3105971.3105979": {
+    "el1": "Technische Universität Dresden",
+    "el2": "deecoob Technology GmbH",
+    "paper_doi": "10.1145/3105971.3105979",
     "date": "2017"
   },
   "Technische Universität Dresden_ Mercateo AG_ 10.1145/3105971.3105979": {
@@ -569,9 +1193,15 @@
     "paper_doi": "10.1145/3105971.3105979",
     "date": "2017"
   },
-  "Technische Universität Dresden_ deecoob Technology GmbH_ 10.1145/3105971.3105979": {
-    "el1": "Technische Universität Dresden",
-    "el2": "deecoob Technology GmbH",
+  "deecoob Technology GmbH_ Mercateo AG_ 10.1145/3105971.3105979": {
+    "el1": "deecoob Technology GmbH",
+    "el2": "Mercateo AG",
+    "paper_doi": "10.1145/3105971.3105979",
+    "date": "2017"
+  },
+  "deecoob Technology GmbH_ Chemmedia AG_ 10.1145/3105971.3105979": {
+    "el1": "deecoob Technology GmbH",
+    "el2": "Chemmedia AG",
     "paper_doi": "10.1145/3105971.3105979",
     "date": "2017"
   },
@@ -581,34 +1211,88 @@
     "paper_doi": "10.1145/3105971.3105979",
     "date": "2017"
   },
-  "Mercateo AG_ deecoob Technology GmbH_ 10.1145/3105971.3105979": {
-    "el1": "Mercateo AG",
-    "el2": "deecoob Technology GmbH",
-    "paper_doi": "10.1145/3105971.3105979",
-    "date": "2017"
-  },
-  "Chemmedia AG_ deecoob Technology GmbH_ 10.1145/3105971.3105979": {
-    "el1": "Chemmedia AG",
-    "el2": "deecoob Technology GmbH",
-    "paper_doi": "10.1145/3105971.3105979",
-    "date": "2017"
-  },
-  "University of Cambridge_ university of brighton_ 10.1145/3105971.3105988": {
-    "el1": "University of Cambridge",
+  "university of brighton_ university of brighton_ 10.1145/3105971.3105988": {
+    "el1": "university of brighton",
     "el2": "university of brighton",
     "paper_doi": "10.1145/3105971.3105988",
     "date": "2017"
   },
-  "oklahoma state university_ university of illinois_ 10.1145/2968220.2968229": {
-    "el1": "oklahoma state university",
+  "university of brighton_ University of Cambridge_ 10.1145/3105971.3105988": {
+    "el1": "university of brighton",
+    "el2": "University of Cambridge",
+    "paper_doi": "10.1145/3105971.3105988",
+    "date": "2017"
+  },
+  "University of Cambridge_ University of Cambridge_ 10.1145/3105971.3105988": {
+    "el1": "University of Cambridge",
+    "el2": "University of Cambridge",
+    "paper_doi": "10.1145/3105971.3105988",
+    "date": "2017"
+  },
+  "university of illinois_ oklahoma state university_ 10.1145/2968220.2968229": {
+    "el1": "university of illinois",
+    "el2": "oklahoma state university",
+    "paper_doi": "10.1145/2968220.2968229",
+    "date": "2016"
+  },
+  "university of illinois_ university of illinois_ 10.1145/2968220.2968229": {
+    "el1": "university of illinois",
     "el2": "university of illinois",
     "paper_doi": "10.1145/2968220.2968229",
     "date": "2016"
   },
-  "Arizona State University_ Central South University_ 10.1145/2968220.2968221": {
-    "el1": "Arizona State University",
+  "hong kong university of science and technology_ hong kong university of science and technology_ 10.1145/2968220.2968242": {
+    "el1": "hong kong university of science and technology",
+    "el2": "hong kong university of science and technology",
+    "paper_doi": "10.1145/2968220.2968242",
+    "date": "2016"
+  },
+  "Central South University_ Central South University_ 10.1145/2968220.2968221": {
+    "el1": "Central South University",
     "el2": "Central South University",
     "paper_doi": "10.1145/2968220.2968221",
+    "date": "2016"
+  },
+  "Central South University_ Arizona State University_ 10.1145/2968220.2968221": {
+    "el1": "Central South University",
+    "el2": "Arizona State University",
+    "paper_doi": "10.1145/2968220.2968221",
+    "date": "2016"
+  },
+  "VRVis Research Center_ university of buenos aires_ 10.1145/2968220.2968238": {
+    "el1": "VRVis Research Center",
+    "el2": "university of buenos aires",
+    "paper_doi": "10.1145/2968220.2968238",
+    "date": "2016"
+  },
+  "VRVis Research Center_ university of maryland_ 10.1145/2968220.2968238": {
+    "el1": "VRVis Research Center",
+    "el2": "university of maryland",
+    "paper_doi": "10.1145/2968220.2968238",
+    "date": "2016"
+  },
+  "VRVis Research Center_ CONICET and U_ 10.1145/2968220.2968238": {
+    "el1": "VRVis Research Center",
+    "el2": "CONICET and U",
+    "paper_doi": "10.1145/2968220.2968238",
+    "date": "2016"
+  },
+  "VRVis Research Center_ Virginia Tech Blacksburg_ 10.1145/2968220.2968238": {
+    "el1": "VRVis Research Center",
+    "el2": "Virginia Tech Blacksburg",
+    "paper_doi": "10.1145/2968220.2968238",
+    "date": "2016"
+  },
+  "VRVis Research Center_ VRVis Research Center_ 10.1145/2968220.2968238": {
+    "el1": "VRVis Research Center",
+    "el2": "VRVis Research Center",
+    "paper_doi": "10.1145/2968220.2968238",
+    "date": "2016"
+  },
+  "university of buenos aires_ university of maryland_ 10.1145/2968220.2968238": {
+    "el1": "university of buenos aires",
+    "el2": "university of maryland",
+    "paper_doi": "10.1145/2968220.2968238",
     "date": "2016"
   },
   "university of buenos aires_ CONICET and U_ 10.1145/2968220.2968238": {
@@ -623,15 +1307,15 @@
     "paper_doi": "10.1145/2968220.2968238",
     "date": "2016"
   },
-  "university of buenos aires_ VRVis Research Center_ 10.1145/2968220.2968238": {
-    "el1": "university of buenos aires",
-    "el2": "VRVis Research Center",
+  "university of maryland_ CONICET and U_ 10.1145/2968220.2968238": {
+    "el1": "university of maryland",
+    "el2": "CONICET and U",
     "paper_doi": "10.1145/2968220.2968238",
     "date": "2016"
   },
-  "university of buenos aires_ university of maryland_ 10.1145/2968220.2968238": {
-    "el1": "university of buenos aires",
-    "el2": "university of maryland",
+  "university of maryland_ Virginia Tech Blacksburg_ 10.1145/2968220.2968238": {
+    "el1": "university of maryland",
+    "el2": "Virginia Tech Blacksburg",
     "paper_doi": "10.1145/2968220.2968238",
     "date": "2016"
   },
@@ -641,34 +1325,10 @@
     "paper_doi": "10.1145/2968220.2968238",
     "date": "2016"
   },
-  "CONICET and U_ VRVis Research Center_ 10.1145/2968220.2968238": {
-    "el1": "CONICET and U",
-    "el2": "VRVis Research Center",
-    "paper_doi": "10.1145/2968220.2968238",
-    "date": "2016"
-  },
-  "CONICET and U_ university of maryland_ 10.1145/2968220.2968238": {
-    "el1": "CONICET and U",
-    "el2": "university of maryland",
-    "paper_doi": "10.1145/2968220.2968238",
-    "date": "2016"
-  },
-  "Virginia Tech Blacksburg_ VRVis Research Center_ 10.1145/2968220.2968238": {
-    "el1": "Virginia Tech Blacksburg",
-    "el2": "VRVis Research Center",
-    "paper_doi": "10.1145/2968220.2968238",
-    "date": "2016"
-  },
-  "Virginia Tech Blacksburg_ university of maryland_ 10.1145/2968220.2968238": {
-    "el1": "Virginia Tech Blacksburg",
-    "el2": "university of maryland",
-    "paper_doi": "10.1145/2968220.2968238",
-    "date": "2016"
-  },
-  "VRVis Research Center_ university of maryland_ 10.1145/2968220.2968238": {
-    "el1": "VRVis Research Center",
-    "el2": "university of maryland",
-    "paper_doi": "10.1145/2968220.2968238",
+  "university of tokyo_ university of aizu_ 10.1145/2968220.2968224": {
+    "el1": "university of tokyo",
+    "el2": "university of aizu",
+    "paper_doi": "10.1145/2968220.2968224",
     "date": "2016"
   },
   "university of tokyo_ keio university_ 10.1145/2968220.2968224": {
@@ -677,16 +1337,16 @@
     "paper_doi": "10.1145/2968220.2968224",
     "date": "2016"
   },
-  "university of tokyo_ university of aizu_ 10.1145/2968220.2968224": {
-    "el1": "university of tokyo",
-    "el2": "university of aizu",
+  "university of aizu_ keio university_ 10.1145/2968220.2968224": {
+    "el1": "university of aizu",
+    "el2": "keio university",
     "paper_doi": "10.1145/2968220.2968224",
     "date": "2016"
   },
-  "keio university_ university of aizu_ 10.1145/2968220.2968224": {
-    "el1": "keio university",
-    "el2": "university of aizu",
-    "paper_doi": "10.1145/2968220.2968224",
+  "western sydney university_ western sydney university_ 10.1145/2968220.2968248": {
+    "el1": "western sydney university",
+    "el2": "western sydney university",
+    "paper_doi": "10.1145/2968220.2968248",
     "date": "2016"
   },
   "western sydney university_ J Craig Venter Institute_ 10.1145/2968220.2968248": {
@@ -707,33 +1367,21 @@
     "paper_doi": "10.1145/2968220.2968248",
     "date": "2016"
   },
-  "washington university_ oregon state university_ 10.1145/2968220.2968235": {
-    "el1": "washington university",
-    "el2": "oregon state university",
-    "paper_doi": "10.1145/2968220.2968235",
+  "Institute for Computer Science_ Institute for Computer Science_ 10.1145/2968220.2968230": {
+    "el1": "Institute for Computer Science",
+    "el2": "Institute for Computer Science",
+    "paper_doi": "10.1145/2968220.2968230",
     "date": "2016"
   },
-  "washington university_ university of north texas_ 10.1145/2968220.2968235": {
-    "el1": "washington university",
+  "university of north texas_ university of north texas_ 10.1145/2968220.2968235": {
+    "el1": "university of north texas",
     "el2": "university of north texas",
     "paper_doi": "10.1145/2968220.2968235",
     "date": "2016"
   },
-  "washington university_ Rochester Institute of Technology_ 10.1145/2968220.2968235": {
-    "el1": "washington university",
-    "el2": "Rochester Institute of Technology",
-    "paper_doi": "10.1145/2968220.2968235",
-    "date": "2016"
-  },
-  "oregon state university_ university of north texas_ 10.1145/2968220.2968235": {
-    "el1": "oregon state university",
-    "el2": "university of north texas",
-    "paper_doi": "10.1145/2968220.2968235",
-    "date": "2016"
-  },
-  "oregon state university_ Rochester Institute of Technology_ 10.1145/2968220.2968235": {
-    "el1": "oregon state university",
-    "el2": "Rochester Institute of Technology",
+  "university of north texas_ washington university_ 10.1145/2968220.2968235": {
+    "el1": "university of north texas",
+    "el2": "washington university",
     "paper_doi": "10.1145/2968220.2968235",
     "date": "2016"
   },
@@ -743,40 +1391,64 @@
     "paper_doi": "10.1145/2968220.2968235",
     "date": "2016"
   },
+  "university of north texas_ oregon state university_ 10.1145/2968220.2968235": {
+    "el1": "university of north texas",
+    "el2": "oregon state university",
+    "paper_doi": "10.1145/2968220.2968235",
+    "date": "2016"
+  },
+  "washington university_ Rochester Institute of Technology_ 10.1145/2968220.2968235": {
+    "el1": "washington university",
+    "el2": "Rochester Institute of Technology",
+    "paper_doi": "10.1145/2968220.2968235",
+    "date": "2016"
+  },
+  "washington university_ oregon state university_ 10.1145/2968220.2968235": {
+    "el1": "washington university",
+    "el2": "oregon state university",
+    "paper_doi": "10.1145/2968220.2968235",
+    "date": "2016"
+  },
+  "Rochester Institute of Technology_ oregon state university_ 10.1145/2968220.2968235": {
+    "el1": "Rochester Institute of Technology",
+    "el2": "oregon state university",
+    "paper_doi": "10.1145/2968220.2968235",
+    "date": "2016"
+  },
+  "oregon state university_ oregon state university_ 10.1145/2968220.2968235": {
+    "el1": "oregon state university",
+    "el2": "oregon state university",
+    "paper_doi": "10.1145/2968220.2968235",
+    "date": "2016"
+  },
+  "north dakota state university_ north dakota state university_ 10.1145/2968220.2968236": {
+    "el1": "north dakota state university",
+    "el2": "north dakota state university",
+    "paper_doi": "10.1145/2968220.2968236",
+    "date": "2016"
+  },
   "university of melbourne_ university of macau_ 10.1145/2968220.2968239": {
     "el1": "university of melbourne",
     "el2": "university of macau",
     "paper_doi": "10.1145/2968220.2968239",
     "date": "2016"
   },
-  "zhejiang university_ zhejiang university of technology_ 10.1145/2968220.2968222": {
-    "el1": "zhejiang university",
-    "el2": "zhejiang university of technology",
-    "paper_doi": "10.1145/2968220.2968222",
+  "university of macau_ university of macau_ 10.1145/2968220.2968239": {
+    "el1": "university of macau",
+    "el2": "university of macau",
+    "paper_doi": "10.1145/2968220.2968239",
     "date": "2016"
   },
-  "zhejiang university_ changsha university of science and technology_ 10.1145/2968220.2968222": {
-    "el1": "zhejiang university",
-    "el2": "changsha university of science and technology",
-    "paper_doi": "10.1145/2968220.2968222",
+  "nankai university_ nankai university_ 10.1145/2968220.2968240": {
+    "el1": "nankai university",
+    "el2": "nankai university",
+    "paper_doi": "10.1145/2968220.2968240",
     "date": "2016"
   },
-  "zhejiang university_ stony brook university_ 10.1145/2968220.2968222": {
-    "el1": "zhejiang university",
-    "el2": "stony brook university",
-    "paper_doi": "10.1145/2968220.2968222",
-    "date": "2016"
-  },
-  "zhejiang university of technology_ changsha university of science and technology_ 10.1145/2968220.2968222": {
-    "el1": "zhejiang university of technology",
-    "el2": "changsha university of science and technology",
-    "paper_doi": "10.1145/2968220.2968222",
-    "date": "2016"
-  },
-  "zhejiang university of technology_ stony brook university_ 10.1145/2968220.2968222": {
-    "el1": "zhejiang university of technology",
-    "el2": "stony brook university",
-    "paper_doi": "10.1145/2968220.2968222",
+  "university of san francisco_ university of san francisco_ 10.1145/2968220.2968241": {
+    "el1": "university of san francisco",
+    "el2": "university of san francisco",
+    "paper_doi": "10.1145/2968220.2968241",
     "date": "2016"
   },
   "changsha university of science and technology_ stony brook university_ 10.1145/2968220.2968222": {
@@ -785,15 +1457,81 @@
     "paper_doi": "10.1145/2968220.2968222",
     "date": "2016"
   },
-  "technical university of germany_ Fraunhofer IGD_ 10.1145/2968220.2968223": {
-    "el1": "technical university of germany",
+  "changsha university of science and technology_ zhejiang university_ 10.1145/2968220.2968222": {
+    "el1": "changsha university of science and technology",
+    "el2": "zhejiang university",
+    "paper_doi": "10.1145/2968220.2968222",
+    "date": "2016"
+  },
+  "changsha university of science and technology_ zhejiang university of technology_ 10.1145/2968220.2968222": {
+    "el1": "changsha university of science and technology",
+    "el2": "zhejiang university of technology",
+    "paper_doi": "10.1145/2968220.2968222",
+    "date": "2016"
+  },
+  "stony brook university_ zhejiang university_ 10.1145/2968220.2968222": {
+    "el1": "stony brook university",
+    "el2": "zhejiang university",
+    "paper_doi": "10.1145/2968220.2968222",
+    "date": "2016"
+  },
+  "stony brook university_ zhejiang university of technology_ 10.1145/2968220.2968222": {
+    "el1": "stony brook university",
+    "el2": "zhejiang university of technology",
+    "paper_doi": "10.1145/2968220.2968222",
+    "date": "2016"
+  },
+  "zhejiang university_ zhejiang university of technology_ 10.1145/2968220.2968222": {
+    "el1": "zhejiang university",
+    "el2": "zhejiang university of technology",
+    "paper_doi": "10.1145/2968220.2968222",
+    "date": "2016"
+  },
+  "zhejiang university_ zhejiang university_ 10.1145/2968220.2968222": {
+    "el1": "zhejiang university",
+    "el2": "zhejiang university",
+    "paper_doi": "10.1145/2968220.2968222",
+    "date": "2016"
+  },
+  "Fraunhofer IGD_ Fraunhofer IGD_ 10.1145/2968220.2968223": {
+    "el1": "Fraunhofer IGD",
     "el2": "Fraunhofer IGD",
     "paper_doi": "10.1145/2968220.2968223",
     "date": "2016"
   },
-  "Baidu Inc_ hohai university_ 10.1145/2968220.2968246": {
-    "el1": "Baidu Inc",
+  "Fraunhofer IGD_ technical university of germany_ 10.1145/2968220.2968223": {
+    "el1": "Fraunhofer IGD",
+    "el2": "technical university of germany",
+    "paper_doi": "10.1145/2968220.2968223",
+    "date": "2016"
+  },
+  "technical university of germany_ technical university of germany_ 10.1145/2968220.2968223": {
+    "el1": "technical university of germany",
+    "el2": "technical university of germany",
+    "paper_doi": "10.1145/2968220.2968223",
+    "date": "2016"
+  },
+  "drexel university_ drexel university_ 10.1145/2968220.2968244": {
+    "el1": "drexel university",
+    "el2": "drexel university",
+    "paper_doi": "10.1145/2968220.2968244",
+    "date": "2016"
+  },
+  "hohai university_ hohai university_ 10.1145/2968220.2968246": {
+    "el1": "hohai university",
     "el2": "hohai university",
+    "paper_doi": "10.1145/2968220.2968246",
+    "date": "2016"
+  },
+  "hohai university_ Baidu Inc_ 10.1145/2968220.2968246": {
+    "el1": "hohai university",
+    "el2": "Baidu Inc",
+    "paper_doi": "10.1145/2968220.2968246",
+    "date": "2016"
+  },
+  "Baidu Inc_ Baidu Inc_ 10.1145/2968220.2968246": {
+    "el1": "Baidu Inc",
+    "el2": "Baidu Inc",
     "paper_doi": "10.1145/2968220.2968246",
     "date": "2016"
   },
@@ -803,10 +1541,22 @@
     "paper_doi": "10.1145/2968220.2968228",
     "date": "2016"
   },
-  "university of texas_ tianjin university_ 10.1145/2968220.2968232": {
-    "el1": "university of texas",
-    "el2": "tianjin university",
+  "zhejiang university_ zhejiang university_ 10.1145/2968220.2968228": {
+    "el1": "zhejiang university",
+    "el2": "zhejiang university",
+    "paper_doi": "10.1145/2968220.2968228",
+    "date": "2016"
+  },
+  "tianjin university_ university of texas_ 10.1145/2968220.2968232": {
+    "el1": "tianjin university",
+    "el2": "university of texas",
     "paper_doi": "10.1145/2968220.2968232",
+    "date": "2016"
+  },
+  "university shanghai_ university shanghai_ 10.1145/2968220.2968227": {
+    "el1": "university shanghai",
+    "el2": "university shanghai",
+    "paper_doi": "10.1145/2968220.2968227",
     "date": "2016"
   },
   "BYU Hawaii_ brigham young university_ 10.1145/2968220.2968231": {
@@ -815,22 +1565,58 @@
     "paper_doi": "10.1145/2968220.2968231",
     "date": "2016"
   },
-  "tianjin university_ John Paul II High School_ 10.1145/2968220.2972225": {
-    "el1": "tianjin university",
+  "BYU Hawaii_ BYU Hawaii_ 10.1145/2968220.2968231": {
+    "el1": "BYU Hawaii",
+    "el2": "BYU Hawaii",
+    "paper_doi": "10.1145/2968220.2968231",
+    "date": "2016"
+  },
+  "university of san francisco_ university of san francisco_ 10.1145/2968220.2968233": {
+    "el1": "university of san francisco",
+    "el2": "university of san francisco",
+    "paper_doi": "10.1145/2968220.2968233",
+    "date": "2016"
+  },
+  "southeast university_ southeast university_ 10.1145/2968220.2968243": {
+    "el1": "southeast university",
+    "el2": "southeast university",
+    "paper_doi": "10.1145/2968220.2968243",
+    "date": "2016"
+  },
+  "university of wyoming_ university of wyoming_ 10.1145/2968220.2968245": {
+    "el1": "university of wyoming",
+    "el2": "university of wyoming",
+    "paper_doi": "10.1145/2968220.2968245",
+    "date": "2016"
+  },
+  "Highland Park High School_ John Paul II High School_ 10.1145/2968220.2972225": {
+    "el1": "Highland Park High School",
     "el2": "John Paul II High School",
     "paper_doi": "10.1145/2968220.2972225",
     "date": "2016"
   },
-  "tianjin university_ Highland Park High School_ 10.1145/2968220.2972225": {
-    "el1": "tianjin university",
-    "el2": "Highland Park High School",
+  "Highland Park High School_ tianjin university_ 10.1145/2968220.2972225": {
+    "el1": "Highland Park High School",
+    "el2": "tianjin university",
     "paper_doi": "10.1145/2968220.2972225",
     "date": "2016"
   },
-  "John Paul II High School_ Highland Park High School_ 10.1145/2968220.2972225": {
+  "John Paul II High School_ tianjin university_ 10.1145/2968220.2972225": {
     "el1": "John Paul II High School",
-    "el2": "Highland Park High School",
+    "el2": "tianjin university",
     "paper_doi": "10.1145/2968220.2972225",
+    "date": "2016"
+  },
+  "tongji university_ tongji university_ 10.1145/2968220.2972226": {
+    "el1": "tongji university",
+    "el2": "tongji university",
+    "paper_doi": "10.1145/2968220.2972226",
+    "date": "2016"
+  },
+  "shanghai jiao tong university_ shanghai jiao tong university_ 10.1145/2968220.2968234": {
+    "el1": "shanghai jiao tong university",
+    "el2": "shanghai jiao tong university",
+    "paper_doi": "10.1145/2968220.2968234",
     "date": "2016"
   },
   "purdue university_ indiana university_ 10.1145/2968220.2968249": {
@@ -839,33 +1625,15 @@
     "paper_doi": "10.1145/2968220.2968249",
     "date": "2016"
   },
-  "Aichi Institute of Technology_ Toba National College of Maritime Technology_ 10.1145/2801040.2801043": {
-    "el1": "Aichi Institute of Technology",
-    "el2": "Toba National College of Maritime Technology",
-    "paper_doi": "10.1145/2801040.2801043",
+  "Sejong University_ Sejong University_ 10.1145/2801040.2801054": {
+    "el1": "Sejong University",
+    "el2": "Sejong University",
+    "paper_doi": "10.1145/2801040.2801054",
     "date": "2015"
   },
-  "Aichi Institute of Technology_ university of tsukuba_ 10.1145/2801040.2801043": {
-    "el1": "Aichi Institute of Technology",
+  "university of tsukuba_ university of tsukuba_ 10.1145/2801040.2801043": {
+    "el1": "university of tsukuba",
     "el2": "university of tsukuba",
-    "paper_doi": "10.1145/2801040.2801043",
-    "date": "2015"
-  },
-  "Aichi Institute of Technology_ aichi university of education_ 10.1145/2801040.2801043": {
-    "el1": "Aichi Institute of Technology",
-    "el2": "aichi university of education",
-    "paper_doi": "10.1145/2801040.2801043",
-    "date": "2015"
-  },
-  "Toba National College of Maritime Technology_ university of tsukuba_ 10.1145/2801040.2801043": {
-    "el1": "Toba National College of Maritime Technology",
-    "el2": "university of tsukuba",
-    "paper_doi": "10.1145/2801040.2801043",
-    "date": "2015"
-  },
-  "Toba National College of Maritime Technology_ aichi university of education_ 10.1145/2801040.2801043": {
-    "el1": "Toba National College of Maritime Technology",
-    "el2": "aichi university of education",
     "paper_doi": "10.1145/2801040.2801043",
     "date": "2015"
   },
@@ -875,27 +1643,105 @@
     "paper_doi": "10.1145/2801040.2801043",
     "date": "2015"
   },
-  "monash university_ the university of sydney_ 10.1145/2801040.2801059": {
-    "el1": "monash university",
+  "university of tsukuba_ Toba National College of Maritime Technology_ 10.1145/2801040.2801043": {
+    "el1": "university of tsukuba",
+    "el2": "Toba National College of Maritime Technology",
+    "paper_doi": "10.1145/2801040.2801043",
+    "date": "2015"
+  },
+  "university of tsukuba_ Aichi Institute of Technology_ 10.1145/2801040.2801043": {
+    "el1": "university of tsukuba",
+    "el2": "Aichi Institute of Technology",
+    "paper_doi": "10.1145/2801040.2801043",
+    "date": "2015"
+  },
+  "aichi university of education_ Toba National College of Maritime Technology_ 10.1145/2801040.2801043": {
+    "el1": "aichi university of education",
+    "el2": "Toba National College of Maritime Technology",
+    "paper_doi": "10.1145/2801040.2801043",
+    "date": "2015"
+  },
+  "aichi university of education_ Aichi Institute of Technology_ 10.1145/2801040.2801043": {
+    "el1": "aichi university of education",
+    "el2": "Aichi Institute of Technology",
+    "paper_doi": "10.1145/2801040.2801043",
+    "date": "2015"
+  },
+  "Toba National College of Maritime Technology_ Aichi Institute of Technology_ 10.1145/2801040.2801043": {
+    "el1": "Toba National College of Maritime Technology",
+    "el2": "Aichi Institute of Technology",
+    "paper_doi": "10.1145/2801040.2801043",
+    "date": "2015"
+  },
+  "Visualisierungsinstitut der Universität Stuttgart_ Visualisierungsinstitut der Universität Stuttgart_ 10.1145/2801040.2801055": {
+    "el1": "Visualisierungsinstitut der Universität Stuttgart",
+    "el2": "Visualisierungsinstitut der Universität Stuttgart",
+    "paper_doi": "10.1145/2801040.2801055",
+    "date": "2015"
+  },
+  "university of stuttgart_ university of stuttgart_ 10.1145/2801040.2801057": {
+    "el1": "university of stuttgart",
+    "el2": "university of stuttgart",
+    "paper_doi": "10.1145/2801040.2801057",
+    "date": "2015"
+  },
+  "university of stuttgart_ university of stuttgart_ 10.1145/2801040.2801053": {
+    "el1": "university of stuttgart",
+    "el2": "university of stuttgart",
+    "paper_doi": "10.1145/2801040.2801053",
+    "date": "2015"
+  },
+  "the university of sydney_ monash university_ 10.1145/2801040.2801059": {
+    "el1": "the university of sydney",
+    "el2": "monash university",
+    "paper_doi": "10.1145/2801040.2801059",
+    "date": "2015"
+  },
+  "the university of sydney_ the university of sydney_ 10.1145/2801040.2801059": {
+    "el1": "the university of sydney",
     "el2": "the university of sydney",
     "paper_doi": "10.1145/2801040.2801059",
     "date": "2015"
   },
-  "St Vincent's Private Hospital_ university of new south wales_ 10.1145/2801040.2801051": {
-    "el1": "St Vincent's Private Hospital",
-    "el2": "university of new south wales",
-    "paper_doi": "10.1145/2801040.2801051",
+  "national chiao tung university_ national chiao tung university_ 10.1145/2801040.2801046": {
+    "el1": "national chiao tung university",
+    "el2": "national chiao tung university",
+    "paper_doi": "10.1145/2801040.2801046",
     "date": "2015"
   },
-  "St Vincent's Private Hospital_ St Vincent's Hospital_ 10.1145/2801040.2801051": {
-    "el1": "St Vincent's Private Hospital",
-    "el2": "St Vincent's Hospital",
-    "paper_doi": "10.1145/2801040.2801051",
+  "ochanomizu university_ ochanomizu university_ 10.1145/2801040.2801044": {
+    "el1": "ochanomizu university",
+    "el2": "ochanomizu university",
+    "paper_doi": "10.1145/2801040.2801044",
     "date": "2015"
   },
   "university of new south wales_ St Vincent's Hospital_ 10.1145/2801040.2801051": {
     "el1": "university of new south wales",
     "el2": "St Vincent's Hospital",
+    "paper_doi": "10.1145/2801040.2801051",
+    "date": "2015"
+  },
+  "university of new south wales_ St Vincent's Private Hospital_ 10.1145/2801040.2801051": {
+    "el1": "university of new south wales",
+    "el2": "St Vincent's Private Hospital",
+    "paper_doi": "10.1145/2801040.2801051",
+    "date": "2015"
+  },
+  "university of new south wales_ university of new south wales_ 10.1145/2801040.2801051": {
+    "el1": "university of new south wales",
+    "el2": "university of new south wales",
+    "paper_doi": "10.1145/2801040.2801051",
+    "date": "2015"
+  },
+  "St Vincent's Hospital_ St Vincent's Hospital_ 10.1145/2801040.2801051": {
+    "el1": "St Vincent's Hospital",
+    "el2": "St Vincent's Hospital",
+    "paper_doi": "10.1145/2801040.2801051",
+    "date": "2015"
+  },
+  "St Vincent's Hospital_ St Vincent's Private Hospital_ 10.1145/2801040.2801051": {
+    "el1": "St Vincent's Hospital",
+    "el2": "St Vincent's Private Hospital",
     "paper_doi": "10.1145/2801040.2801051",
     "date": "2015"
   },
@@ -905,10 +1751,40 @@
     "paper_doi": "10.1145/2801040.2801058",
     "date": "2015"
   },
-  "university of texas_ tianjin university_ 10.1145/2801040.2801061": {
-    "el1": "university of texas",
+  "Universiti Teknologi Malaysia_ Universiti Teknologi Malaysia_ 10.1145/2801040.2801058": {
+    "el1": "Universiti Teknologi Malaysia",
+    "el2": "Universiti Teknologi Malaysia",
+    "paper_doi": "10.1145/2801040.2801058",
+    "date": "2015"
+  },
+  "university of rome la sapienza rome_ university of rome la sapienza rome_ 10.1145/2801040.2801052": {
+    "el1": "university of rome la sapienza rome",
+    "el2": "university of rome la sapienza rome",
+    "paper_doi": "10.1145/2801040.2801052",
+    "date": "2015"
+  },
+  "tianjin university_ tianjin university_ 10.1145/2801040.2801061": {
+    "el1": "tianjin university",
     "el2": "tianjin university",
     "paper_doi": "10.1145/2801040.2801061",
+    "date": "2015"
+  },
+  "tianjin university_ university of texas_ 10.1145/2801040.2801061": {
+    "el1": "tianjin university",
+    "el2": "university of texas",
+    "paper_doi": "10.1145/2801040.2801061",
+    "date": "2015"
+  },
+  "ochanomizu university_ ochanomizu university_ 10.1145/2801040.2801041": {
+    "el1": "ochanomizu university",
+    "el2": "ochanomizu university",
+    "paper_doi": "10.1145/2801040.2801041",
+    "date": "2015"
+  },
+  "TCS Research_ TCS Research_ 10.1145/2801040.2801049": {
+    "el1": "TCS Research",
+    "el2": "TCS Research",
+    "paper_doi": "10.1145/2801040.2801049",
     "date": "2015"
   },
   "university of chinese academy of sciences_ State Key Laboratory of Computer Science_ 10.1145/2801040.2801063": {
@@ -917,22 +1793,34 @@
     "paper_doi": "10.1145/2801040.2801063",
     "date": "2015"
   },
-  "university of texas_ nankai university_ 10.1145/2801040.2801062": {
-    "el1": "university of texas",
+  "State Key Laboratory of Computer Science_ State Key Laboratory of Computer Science_ 10.1145/2801040.2801063": {
+    "el1": "State Key Laboratory of Computer Science",
+    "el2": "State Key Laboratory of Computer Science",
+    "paper_doi": "10.1145/2801040.2801063",
+    "date": "2015"
+  },
+  "nankai university_ nankai university_ 10.1145/2801040.2801062": {
+    "el1": "nankai university",
     "el2": "nankai university",
     "paper_doi": "10.1145/2801040.2801062",
     "date": "2015"
   },
-  "Gakushuin University_ gakushuin university_ 10.1145/2801040.2801042": {
-    "el1": "Gakushuin University",
-    "el2": "gakushuin university",
-    "paper_doi": "10.1145/2801040.2801042",
+  "nankai university_ university of texas_ 10.1145/2801040.2801062": {
+    "el1": "nankai university",
+    "el2": "university of texas",
+    "paper_doi": "10.1145/2801040.2801062",
     "date": "2015"
   },
-  "Gakushuin University_ school of commerce senshu university_ 10.1145/2801040.2801042": {
-    "el1": "Gakushuin University",
-    "el2": "school of commerce senshu university",
-    "paper_doi": "10.1145/2801040.2801042",
+  "VISUS_ VISUS_ 10.1145/2801040.2801045": {
+    "el1": "VISUS",
+    "el2": "VISUS",
+    "paper_doi": "10.1145/2801040.2801045",
+    "date": "2015"
+  },
+  "university of macau_ university of macau_ 10.1145/2801040.2801056": {
+    "el1": "university of macau",
+    "el2": "university of macau",
+    "paper_doi": "10.1145/2801040.2801056",
     "date": "2015"
   },
   "gakushuin university_ school of commerce senshu university_ 10.1145/2801040.2801042": {
@@ -941,21 +1829,75 @@
     "paper_doi": "10.1145/2801040.2801042",
     "date": "2015"
   },
-  "the university of sydney_ ochanomizu university_ 10.1145/2801040.2801067": {
-    "el1": "the university of sydney",
+  "gakushuin university_ Gakushuin University_ 10.1145/2801040.2801042": {
+    "el1": "gakushuin university",
+    "el2": "Gakushuin University",
+    "paper_doi": "10.1145/2801040.2801042",
+    "date": "2015"
+  },
+  "school of commerce senshu university_ Gakushuin University_ 10.1145/2801040.2801042": {
+    "el1": "school of commerce senshu university",
+    "el2": "Gakushuin University",
+    "paper_doi": "10.1145/2801040.2801042",
+    "date": "2015"
+  },
+  "Gakushuin University_ Gakushuin University_ 10.1145/2801040.2801042": {
+    "el1": "Gakushuin University",
+    "el2": "Gakushuin University",
+    "paper_doi": "10.1145/2801040.2801042",
+    "date": "2015"
+  },
+  "tokyo metropolitan university_ tokyo metropolitan university_ 10.1145/2801040.2801047": {
+    "el1": "tokyo metropolitan university",
+    "el2": "tokyo metropolitan university",
+    "paper_doi": "10.1145/2801040.2801047",
+    "date": "2015"
+  },
+  "interdisciplinary graduate school of science and engineering shimane university_ interdisciplinary graduate school of science and engineering shimane university_ 10.1145/2801040.2801050": {
+    "el1": "interdisciplinary graduate school of science and engineering shimane university",
+    "el2": "interdisciplinary graduate school of science and engineering shimane university",
+    "paper_doi": "10.1145/2801040.2801050",
+    "date": "2015"
+  },
+  "university of western sydney_ university of western sydney_ 10.1145/2801040.2801060": {
+    "el1": "university of western sydney",
+    "el2": "university of western sydney",
+    "paper_doi": "10.1145/2801040.2801060",
+    "date": "2015"
+  },
+  "kyushu university_ kyushu university_ 10.1145/2801040.2801066": {
+    "el1": "kyushu university",
+    "el2": "kyushu university",
+    "paper_doi": "10.1145/2801040.2801066",
+    "date": "2015"
+  },
+  "ochanomizu university_ ochanomizu university_ 10.1145/2801040.2801067": {
+    "el1": "ochanomizu university",
     "el2": "ochanomizu university",
     "paper_doi": "10.1145/2801040.2801067",
     "date": "2015"
   },
-  "Centre les Capucins_ tokyo university of science_ 10.1145/2801040.2801068": {
-    "el1": "Centre les Capucins",
+  "ochanomizu university_ the university of sydney_ 10.1145/2801040.2801067": {
+    "el1": "ochanomizu university",
+    "el2": "the university of sydney",
+    "paper_doi": "10.1145/2801040.2801067",
+    "date": "2015"
+  },
+  "ajou university_ ajou university_ 10.1145/2801040.2801069": {
+    "el1": "ajou university",
+    "el2": "ajou university",
+    "paper_doi": "10.1145/2801040.2801069",
+    "date": "2015"
+  },
+  "tokyo university of science_ tokyo university of science_ 10.1145/2801040.2801068": {
+    "el1": "tokyo university of science",
     "el2": "tokyo university of science",
     "paper_doi": "10.1145/2801040.2801068",
     "date": "2015"
   },
-  "Centre les Capucins_ Laboratoire Angevin de Recherche en Ingénierie des Systèmes_ 10.1145/2801040.2801068": {
-    "el1": "Centre les Capucins",
-    "el2": "Laboratoire Angevin de Recherche en Ingénierie des Systèmes",
+  "tokyo university of science_ Centre les Capucins_ 10.1145/2801040.2801068": {
+    "el1": "tokyo university of science",
+    "el2": "Centre les Capucins",
     "paper_doi": "10.1145/2801040.2801068",
     "date": "2015"
   },
@@ -965,28 +1907,58 @@
     "paper_doi": "10.1145/2801040.2801068",
     "date": "2015"
   },
-  "Chang Gung Memorial Hospital_ chang gung university_ 10.1145/2801040.2801065": {
-    "el1": "Chang Gung Memorial Hospital",
+  "Centre les Capucins_ Laboratoire Angevin de Recherche en Ingénierie des Systèmes_ 10.1145/2801040.2801068": {
+    "el1": "Centre les Capucins",
+    "el2": "Laboratoire Angevin de Recherche en Ingénierie des Systèmes",
+    "paper_doi": "10.1145/2801040.2801068",
+    "date": "2015"
+  },
+  "Centre les Capucins_ Centre les Capucins_ 10.1145/2801040.2801068": {
+    "el1": "Centre les Capucins",
+    "el2": "Centre les Capucins",
+    "paper_doi": "10.1145/2801040.2801068",
+    "date": "2015"
+  },
+  "university of electrocommunications_ university of electrocommunications_ 10.1145/2801040.2801070": {
+    "el1": "university of electrocommunications",
+    "el2": "university of electrocommunications",
+    "paper_doi": "10.1145/2801040.2801070",
+    "date": "2015"
+  },
+  "chang gung university_ chang gung university_ 10.1145/2801040.2801065": {
+    "el1": "chang gung university",
     "el2": "chang gung university",
     "paper_doi": "10.1145/2801040.2801065",
     "date": "2015"
   },
-  "university of texas_ tianjin university_ 10.1145/2801040.2801072": {
-    "el1": "university of texas",
+  "chang gung university_ Chang Gung Memorial Hospital_ 10.1145/2801040.2801065": {
+    "el1": "chang gung university",
+    "el2": "Chang Gung Memorial Hospital",
+    "paper_doi": "10.1145/2801040.2801065",
+    "date": "2015"
+  },
+  "Chang Gung Memorial Hospital_ Chang Gung Memorial Hospital_ 10.1145/2801040.2801065": {
+    "el1": "Chang Gung Memorial Hospital",
+    "el2": "Chang Gung Memorial Hospital",
+    "paper_doi": "10.1145/2801040.2801065",
+    "date": "2015"
+  },
+  "National Institute of Informatics_ National Institute of Informatics_ 10.1145/2801040.2801071": {
+    "el1": "National Institute of Informatics",
+    "el2": "National Institute of Informatics",
+    "paper_doi": "10.1145/2801040.2801071",
+    "date": "2015"
+  },
+  "tianjin university_ tianjin university_ 10.1145/2801040.2801072": {
+    "el1": "tianjin university",
     "el2": "tianjin university",
     "paper_doi": "10.1145/2801040.2801072",
     "date": "2015"
   },
-  "Gakushuin University_ gakushuin university_ 10.1145/2801040.2802138": {
-    "el1": "Gakushuin University",
-    "el2": "gakushuin university",
-    "paper_doi": "10.1145/2801040.2802138",
-    "date": "2015"
-  },
-  "Gakushuin University_ senshu university_ 10.1145/2801040.2802138": {
-    "el1": "Gakushuin University",
-    "el2": "senshu university",
-    "paper_doi": "10.1145/2801040.2802138",
+  "tianjin university_ university of texas_ 10.1145/2801040.2801072": {
+    "el1": "tianjin university",
+    "el2": "university of texas",
+    "paper_doi": "10.1145/2801040.2801072",
     "date": "2015"
   },
   "gakushuin university_ senshu university_ 10.1145/2801040.2802138": {
@@ -995,10 +1967,28 @@
     "paper_doi": "10.1145/2801040.2802138",
     "date": "2015"
   },
-  "Micron Technology Incorporated_ university of san francisco_ 10.1145/2636240.2636850": {
-    "el1": "Micron Technology Incorporated",
-    "el2": "university of san francisco",
-    "paper_doi": "10.1145/2636240.2636850",
+  "gakushuin university_ Gakushuin University_ 10.1145/2801040.2802138": {
+    "el1": "gakushuin university",
+    "el2": "Gakushuin University",
+    "paper_doi": "10.1145/2801040.2802138",
+    "date": "2015"
+  },
+  "senshu university_ Gakushuin University_ 10.1145/2801040.2802138": {
+    "el1": "senshu university",
+    "el2": "Gakushuin University",
+    "paper_doi": "10.1145/2801040.2802138",
+    "date": "2015"
+  },
+  "Gakushuin University_ Gakushuin University_ 10.1145/2801040.2802138": {
+    "el1": "Gakushuin University",
+    "el2": "Gakushuin University",
+    "paper_doi": "10.1145/2801040.2802138",
+    "date": "2015"
+  },
+  "lomonosov moscow state university_ lomonosov moscow state university_ 10.1145/2636240.2636844": {
+    "el1": "lomonosov moscow state university",
+    "el2": "lomonosov moscow state university",
+    "paper_doi": "10.1145/2636240.2636844",
     "date": "2014"
   },
   "Micron Technology Incorporated_ boise state university_ 10.1145/2636240.2636850": {
@@ -1007,15 +1997,27 @@
     "paper_doi": "10.1145/2636240.2636850",
     "date": "2014"
   },
-  "university of san francisco_ boise state university_ 10.1145/2636240.2636850": {
-    "el1": "university of san francisco",
+  "Micron Technology Incorporated_ university of san francisco_ 10.1145/2636240.2636850": {
+    "el1": "Micron Technology Incorporated",
+    "el2": "university of san francisco",
+    "paper_doi": "10.1145/2636240.2636850",
+    "date": "2014"
+  },
+  "boise state university_ boise state university_ 10.1145/2636240.2636850": {
+    "el1": "boise state university",
     "el2": "boise state university",
     "paper_doi": "10.1145/2636240.2636850",
     "date": "2014"
   },
-  "university of technology_ tianjin university_ 10.1145/2636240.2636841": {
+  "boise state university_ university of san francisco_ 10.1145/2636240.2636850": {
+    "el1": "boise state university",
+    "el2": "university of san francisco",
+    "paper_doi": "10.1145/2636240.2636850",
+    "date": "2014"
+  },
+  "university of technology_ university of technology_ 10.1145/2636240.2636841": {
     "el1": "university of technology",
-    "el2": "tianjin university",
+    "el2": "university of technology",
     "paper_doi": "10.1145/2636240.2636841",
     "date": "2014"
   },
@@ -1025,10 +2027,28 @@
     "paper_doi": "10.1145/2636240.2636841",
     "date": "2014"
   },
-  "tianjin university_ western sydney university_ 10.1145/2636240.2636841": {
-    "el1": "tianjin university",
-    "el2": "western sydney university",
+  "university of technology_ tianjin university_ 10.1145/2636240.2636841": {
+    "el1": "university of technology",
+    "el2": "tianjin university",
     "paper_doi": "10.1145/2636240.2636841",
+    "date": "2014"
+  },
+  "western sydney university_ tianjin university_ 10.1145/2636240.2636841": {
+    "el1": "western sydney university",
+    "el2": "tianjin university",
+    "paper_doi": "10.1145/2636240.2636841",
+    "date": "2014"
+  },
+  "university of stuttgart_ university of stuttgart_ 10.1145/2636240.2636839": {
+    "el1": "university of stuttgart",
+    "el2": "university of stuttgart",
+    "paper_doi": "10.1145/2636240.2636839",
+    "date": "2014"
+  },
+  "university of tokyo_ university of tokyo_ 10.1145/2636240.2636858": {
+    "el1": "university of tokyo",
+    "el2": "university of tokyo",
+    "paper_doi": "10.1145/2636240.2636858",
     "date": "2014"
   },
   "university of tokyo_ university of tsukuba_ 10.1145/2636240.2636858": {
@@ -1037,15 +2057,45 @@
     "paper_doi": "10.1145/2636240.2636858",
     "date": "2014"
   },
-  "hong kong university of science and technology_ Shenzhen University_ 10.1145/2636240.2636854": {
-    "el1": "hong kong university of science and technology",
+  "Shenzhen University_ hong kong university of science and technology_ 10.1145/2636240.2636854": {
+    "el1": "Shenzhen University",
+    "el2": "hong kong university of science and technology",
+    "paper_doi": "10.1145/2636240.2636854",
+    "date": "2014"
+  },
+  "Shenzhen University_ Shenzhen University_ 10.1145/2636240.2636854": {
+    "el1": "Shenzhen University",
     "el2": "Shenzhen University",
     "paper_doi": "10.1145/2636240.2636854",
     "date": "2014"
   },
-  "university of salerno_ university of western sydney_ 10.1145/2636240.2636855": {
+  "hong kong university of science and technology_ hong kong university of science and technology_ 10.1145/2636240.2636854": {
+    "el1": "hong kong university of science and technology",
+    "el2": "hong kong university of science and technology",
+    "paper_doi": "10.1145/2636240.2636854",
+    "date": "2014"
+  },
+  "swinburne university of technology_ swinburne university of technology_ 10.1145/2636240.2636843": {
+    "el1": "swinburne university of technology",
+    "el2": "swinburne university of technology",
+    "paper_doi": "10.1145/2636240.2636843",
+    "date": "2014"
+  },
+  "university of paderborn_ university of paderborn_ 10.1145/2636240.2636840": {
+    "el1": "university of paderborn",
+    "el2": "university of paderborn",
+    "paper_doi": "10.1145/2636240.2636840",
+    "date": "2014"
+  },
+  "national chiao tung university_ national chiao tung university_ 10.1145/2636240.2636846": {
+    "el1": "national chiao tung university",
+    "el2": "national chiao tung university",
+    "paper_doi": "10.1145/2636240.2636846",
+    "date": "2014"
+  },
+  "university of salerno_ university of salerno_ 10.1145/2636240.2636855": {
     "el1": "university of salerno",
-    "el2": "university of western sydney",
+    "el2": "university of salerno",
     "paper_doi": "10.1145/2636240.2636855",
     "date": "2014"
   },
@@ -1055,50 +2105,26 @@
     "paper_doi": "10.1145/2636240.2636855",
     "date": "2014"
   },
-  "university of western sydney_ australian catholic university_ 10.1145/2636240.2636855": {
-    "el1": "university of western sydney",
-    "el2": "australian catholic university",
+  "university of salerno_ university of western sydney_ 10.1145/2636240.2636855": {
+    "el1": "university of salerno",
+    "el2": "university of western sydney",
     "paper_doi": "10.1145/2636240.2636855",
     "date": "2014"
   },
-  "university of alberta_ kansas state university_ 10.1145/2636240.2636842": {
-    "el1": "university of alberta",
-    "el2": "kansas state university",
-    "paper_doi": "10.1145/2636240.2636842",
+  "australian catholic university_ university of western sydney_ 10.1145/2636240.2636855": {
+    "el1": "australian catholic university",
+    "el2": "university of western sydney",
+    "paper_doi": "10.1145/2636240.2636855",
     "date": "2014"
   },
-  "university of alberta_ western sydney university_ 10.1145/2636240.2636842": {
-    "el1": "university of alberta",
+  "western sydney university_ western sydney university_ 10.1145/2636240.2636842": {
+    "el1": "western sydney university",
     "el2": "western sydney university",
     "paper_doi": "10.1145/2636240.2636842",
     "date": "2014"
   },
-  "university of alberta_ university of british columbia_ 10.1145/2636240.2636842": {
-    "el1": "university of alberta",
-    "el2": "university of british columbia",
-    "paper_doi": "10.1145/2636240.2636842",
-    "date": "2014"
-  },
-  "university of alberta_ central queensland university_ 10.1145/2636240.2636842": {
-    "el1": "university of alberta",
-    "el2": "central queensland university",
-    "paper_doi": "10.1145/2636240.2636842",
-    "date": "2014"
-  },
-  "kansas state university_ western sydney university_ 10.1145/2636240.2636842": {
-    "el1": "kansas state university",
-    "el2": "western sydney university",
-    "paper_doi": "10.1145/2636240.2636842",
-    "date": "2014"
-  },
-  "kansas state university_ university of british columbia_ 10.1145/2636240.2636842": {
-    "el1": "kansas state university",
-    "el2": "university of british columbia",
-    "paper_doi": "10.1145/2636240.2636842",
-    "date": "2014"
-  },
-  "kansas state university_ central queensland university_ 10.1145/2636240.2636842": {
-    "el1": "kansas state university",
+  "western sydney university_ central queensland university_ 10.1145/2636240.2636842": {
+    "el1": "western sydney university",
     "el2": "central queensland university",
     "paper_doi": "10.1145/2636240.2636842",
     "date": "2014"
@@ -1109,16 +2135,64 @@
     "paper_doi": "10.1145/2636240.2636842",
     "date": "2014"
   },
-  "western sydney university_ central queensland university_ 10.1145/2636240.2636842": {
+  "western sydney university_ kansas state university_ 10.1145/2636240.2636842": {
     "el1": "western sydney university",
+    "el2": "kansas state university",
+    "paper_doi": "10.1145/2636240.2636842",
+    "date": "2014"
+  },
+  "western sydney university_ university of alberta_ 10.1145/2636240.2636842": {
+    "el1": "western sydney university",
+    "el2": "university of alberta",
+    "paper_doi": "10.1145/2636240.2636842",
+    "date": "2014"
+  },
+  "central queensland university_ central queensland university_ 10.1145/2636240.2636842": {
+    "el1": "central queensland university",
     "el2": "central queensland university",
     "paper_doi": "10.1145/2636240.2636842",
     "date": "2014"
   },
-  "university of british columbia_ central queensland university_ 10.1145/2636240.2636842": {
-    "el1": "university of british columbia",
-    "el2": "central queensland university",
+  "central queensland university_ university of british columbia_ 10.1145/2636240.2636842": {
+    "el1": "central queensland university",
+    "el2": "university of british columbia",
     "paper_doi": "10.1145/2636240.2636842",
+    "date": "2014"
+  },
+  "central queensland university_ kansas state university_ 10.1145/2636240.2636842": {
+    "el1": "central queensland university",
+    "el2": "kansas state university",
+    "paper_doi": "10.1145/2636240.2636842",
+    "date": "2014"
+  },
+  "central queensland university_ university of alberta_ 10.1145/2636240.2636842": {
+    "el1": "central queensland university",
+    "el2": "university of alberta",
+    "paper_doi": "10.1145/2636240.2636842",
+    "date": "2014"
+  },
+  "university of british columbia_ kansas state university_ 10.1145/2636240.2636842": {
+    "el1": "university of british columbia",
+    "el2": "kansas state university",
+    "paper_doi": "10.1145/2636240.2636842",
+    "date": "2014"
+  },
+  "university of british columbia_ university of alberta_ 10.1145/2636240.2636842": {
+    "el1": "university of british columbia",
+    "el2": "university of alberta",
+    "paper_doi": "10.1145/2636240.2636842",
+    "date": "2014"
+  },
+  "kansas state university_ university of alberta_ 10.1145/2636240.2636842": {
+    "el1": "kansas state university",
+    "el2": "university of alberta",
+    "paper_doi": "10.1145/2636240.2636842",
+    "date": "2014"
+  },
+  "Technology National Institute of Technology Karnataka_ Technology National Institute of Technology Karnataka_ 10.1145/2636240.2636847": {
+    "el1": "Technology National Institute of Technology Karnataka",
+    "el2": "Technology National Institute of Technology Karnataka",
+    "paper_doi": "10.1145/2636240.2636847",
     "date": "2014"
   },
   "Technology National Institute of Technology Karnataka_ National Institute of Technology Karnataka_ 10.1145/2636240.2636847": {
@@ -1127,10 +2201,46 @@
     "paper_doi": "10.1145/2636240.2636847",
     "date": "2014"
   },
-  "university of texas_ tianjin university_ 10.1145/2636240.2636857": {
-    "el1": "university of texas",
+  "National Institute of Technology Karnataka_ National Institute of Technology Karnataka_ 10.1145/2636240.2636847": {
+    "el1": "National Institute of Technology Karnataka",
+    "el2": "National Institute of Technology Karnataka",
+    "paper_doi": "10.1145/2636240.2636847",
+    "date": "2014"
+  },
+  "tianjin university_ university of texas_ 10.1145/2636240.2636857": {
+    "el1": "tianjin university",
+    "el2": "university of texas",
+    "paper_doi": "10.1145/2636240.2636857",
+    "date": "2014"
+  },
+  "tianjin university_ tianjin university_ 10.1145/2636240.2636857": {
+    "el1": "tianjin university",
     "el2": "tianjin university",
     "paper_doi": "10.1145/2636240.2636857",
+    "date": "2014"
+  },
+  "tsinghua university_ tsinghua university_ 10.1145/2636240.2636845": {
+    "el1": "tsinghua university",
+    "el2": "tsinghua university",
+    "paper_doi": "10.1145/2636240.2636845",
+    "date": "2014"
+  },
+  "Indian Institute of Technology Guwahati_ Indian Institute of Technology Guwahati_ 10.1145/2636240.2636856": {
+    "el1": "Indian Institute of Technology Guwahati",
+    "el2": "Indian Institute of Technology Guwahati",
+    "paper_doi": "10.1145/2636240.2636856",
+    "date": "2014"
+  },
+  "university of waikato_ university of waikato_ 10.1145/2636240.2636853": {
+    "el1": "university of waikato",
+    "el2": "university of waikato",
+    "paper_doi": "10.1145/2636240.2636853",
+    "date": "2014"
+  },
+  "university of brighton_ university of brighton_ 10.1145/2636240.2636838": {
+    "el1": "university of brighton",
+    "el2": "university of brighton",
+    "paper_doi": "10.1145/2636240.2636838",
     "date": "2014"
   },
   "university of brighton_ university of kent_ 10.1145/2636240.2636838": {
@@ -1145,10 +2255,70 @@
     "paper_doi": "10.1145/2636240.2636848",
     "date": "2014"
   },
-  "CSIRO Computational Informatics_ the university of sydney_ 10.1145/2636240.2636852": {
-    "el1": "CSIRO Computational Informatics",
+  "the university of sydney_ the university of sydney_ 10.1145/2636240.2636852": {
+    "el1": "the university of sydney",
     "el2": "the university of sydney",
     "paper_doi": "10.1145/2636240.2636852",
+    "date": "2014"
+  },
+  "the university of sydney_ CSIRO Computational Informatics_ 10.1145/2636240.2636852": {
+    "el1": "the university of sydney",
+    "el2": "CSIRO Computational Informatics",
+    "paper_doi": "10.1145/2636240.2636852",
+    "date": "2014"
+  },
+  "kyushu university_ kyushu university_ 10.1145/2636240.2636849": {
+    "el1": "kyushu university",
+    "el2": "kyushu university",
+    "paper_doi": "10.1145/2636240.2636849",
+    "date": "2014"
+  },
+  "shandong university jinan_ shandong university jinan_ 10.1145/2636240.2636862": {
+    "el1": "shandong university jinan",
+    "el2": "shandong university jinan",
+    "paper_doi": "10.1145/2636240.2636862",
+    "date": "2014"
+  },
+  "james cook university_ james cook university_ 10.1145/2636240.2636860": {
+    "el1": "james cook university",
+    "el2": "james cook university",
+    "paper_doi": "10.1145/2636240.2636860",
+    "date": "2014"
+  },
+  "brigham young university_ brigham young university_ 10.1145/2636240.2636871": {
+    "el1": "brigham young university",
+    "el2": "brigham young university",
+    "paper_doi": "10.1145/2636240.2636871",
+    "date": "2014"
+  },
+  "National Institute of Technology Karnataka_ National Institute of Technology Karnataka_ 10.1145/2636240.2636863": {
+    "el1": "National Institute of Technology Karnataka",
+    "el2": "National Institute of Technology Karnataka",
+    "paper_doi": "10.1145/2636240.2636863",
+    "date": "2014"
+  },
+  "james cook university_ james cook university_ 10.1145/2636240.2636865": {
+    "el1": "james cook university",
+    "el2": "james cook university",
+    "paper_doi": "10.1145/2636240.2636865",
+    "date": "2014"
+  },
+  "university of tasmania_ university of tasmania_ 10.1145/2636240.2636868": {
+    "el1": "university of tasmania",
+    "el2": "university of tasmania",
+    "paper_doi": "10.1145/2636240.2636868",
+    "date": "2014"
+  },
+  "deakin university_ deakin university_ 10.1145/2636240.2636866": {
+    "el1": "deakin university",
+    "el2": "deakin university",
+    "paper_doi": "10.1145/2636240.2636866",
+    "date": "2014"
+  },
+  "ochanomizu university_ ochanomizu university_ 10.1145/2636240.2636861": {
+    "el1": "ochanomizu university",
+    "el2": "ochanomizu university",
+    "paper_doi": "10.1145/2636240.2636861",
     "date": "2014"
   },
   "university of colombo_ monash university_ 10.1145/2636240.2636867": {
@@ -1157,21 +2327,63 @@
     "paper_doi": "10.1145/2636240.2636867",
     "date": "2014"
   },
-  "monash university malaysia_ university of colombo_ 10.1145/2636240.2636876": {
-    "el1": "monash university malaysia",
-    "el2": "university of colombo",
+  "The 28th Research Institute of China Electronics Technology Group Corporation_ The 28th Research Institute of China Electronics Technology Group Corporation_ 10.1145/2636240.2636870": {
+    "el1": "The 28th Research Institute of China Electronics Technology Group Corporation",
+    "el2": "The 28th Research Institute of China Electronics Technology Group Corporation",
+    "paper_doi": "10.1145/2636240.2636870",
+    "date": "2014"
+  },
+  "the university of sydney_ the university of sydney_ 10.1145/2636240.2636864": {
+    "el1": "the university of sydney",
+    "el2": "the university of sydney",
+    "paper_doi": "10.1145/2636240.2636864",
+    "date": "2014"
+  },
+  "queensland university of technology_ queensland university of technology_ 10.1145/2636240.2636869": {
+    "el1": "queensland university of technology",
+    "el2": "queensland university of technology",
+    "paper_doi": "10.1145/2636240.2636869",
+    "date": "2014"
+  },
+  "university of colombo_ monash university malaysia_ 10.1145/2636240.2636876": {
+    "el1": "university of colombo",
+    "el2": "monash university malaysia",
     "paper_doi": "10.1145/2636240.2636876",
     "date": "2014"
   },
-  "Shiseido Research Center_ ochanomizu university_ 10.1145/2636240.2636877": {
-    "el1": "Shiseido Research Center",
+  "ochanomizu university_ ochanomizu university_ 10.1145/2636240.2636877": {
+    "el1": "ochanomizu university",
     "el2": "ochanomizu university",
     "paper_doi": "10.1145/2636240.2636877",
+    "date": "2014"
+  },
+  "ochanomizu university_ Shiseido Research Center_ 10.1145/2636240.2636877": {
+    "el1": "ochanomizu university",
+    "el2": "Shiseido Research Center",
+    "paper_doi": "10.1145/2636240.2636877",
+    "date": "2014"
+  },
+  "Shiseido Research Center_ Shiseido Research Center_ 10.1145/2636240.2636877": {
+    "el1": "Shiseido Research Center",
+    "el2": "Shiseido Research Center",
+    "paper_doi": "10.1145/2636240.2636877",
+    "date": "2014"
+  },
+  "Department of IT_ Department of IT_ 10.1145/2636240.2636878": {
+    "el1": "Department of IT",
+    "el2": "Department of IT",
+    "paper_doi": "10.1145/2636240.2636878",
     "date": "2014"
   },
   "university of colombo_ monash university_ 10.1145/2636240.2636875": {
     "el1": "university of colombo",
     "el2": "monash university",
+    "paper_doi": "10.1145/2636240.2636875",
+    "date": "2014"
+  },
+  "university of colombo_ university of colombo_ 10.1145/2636240.2636875": {
+    "el1": "university of colombo",
+    "el2": "university of colombo",
     "paper_doi": "10.1145/2636240.2636875",
     "date": "2014"
   },
@@ -1181,15 +2393,21 @@
     "paper_doi": "10.1145/2636240.2636874",
     "date": "2014"
   },
-  "shizuoka university_ sapienza university of rome_ 10.1145/2493102.2493103": {
-    "el1": "shizuoka university",
-    "el2": "sapienza university of rome",
-    "paper_doi": "10.1145/2493102.2493103",
-    "date": "2013"
+  "university of toyama_ university of toyama_ 10.1145/2636240.2636872": {
+    "el1": "university of toyama",
+    "el2": "university of toyama",
+    "paper_doi": "10.1145/2636240.2636872",
+    "date": "2014"
   },
-  "shizuoka university_ Kinjito Co_ 10.1145/2493102.2493103": {
-    "el1": "shizuoka university",
-    "el2": "Kinjito Co",
+  "queensland university of technology_ queensland university of technology_ 10.1145/2636240.2636873": {
+    "el1": "queensland university of technology",
+    "el2": "queensland university of technology",
+    "paper_doi": "10.1145/2636240.2636873",
+    "date": "2014"
+  },
+  "sapienza university of rome_ shizuoka university_ 10.1145/2493102.2493103": {
+    "el1": "sapienza university of rome",
+    "el2": "shizuoka university",
     "paper_doi": "10.1145/2493102.2493103",
     "date": "2013"
   },
@@ -1199,16 +2417,28 @@
     "paper_doi": "10.1145/2493102.2493103",
     "date": "2013"
   },
-  "Chinese Academy of Sciences_ beihang university_ 10.1145/2493102.2493104": {
-    "el1": "Chinese Academy of Sciences",
+  "shizuoka university_ Kinjito Co_ 10.1145/2493102.2493103": {
+    "el1": "shizuoka university",
+    "el2": "Kinjito Co",
+    "paper_doi": "10.1145/2493102.2493103",
+    "date": "2013"
+  },
+  "beihang university_ beihang university_ 10.1145/2493102.2493104": {
+    "el1": "beihang university",
     "el2": "beihang university",
     "paper_doi": "10.1145/2493102.2493104",
     "date": "2013"
   },
-  "university of salerno_ western sydney university_ 10.1145/2493102.2493105": {
-    "el1": "university of salerno",
-    "el2": "western sydney university",
-    "paper_doi": "10.1145/2493102.2493105",
+  "beihang university_ Chinese Academy of Sciences_ 10.1145/2493102.2493104": {
+    "el1": "beihang university",
+    "el2": "Chinese Academy of Sciences",
+    "paper_doi": "10.1145/2493102.2493104",
+    "date": "2013"
+  },
+  "Chinese Academy of Sciences_ Chinese Academy of Sciences_ 10.1145/2493102.2493104": {
+    "el1": "Chinese Academy of Sciences",
+    "el2": "Chinese Academy of Sciences",
+    "paper_doi": "10.1145/2493102.2493104",
     "date": "2013"
   },
   "university of salerno_ australia and australian catholic university_ 10.1145/2493102.2493105": {
@@ -1217,10 +2447,46 @@
     "paper_doi": "10.1145/2493102.2493105",
     "date": "2013"
   },
-  "western sydney university_ australia and australian catholic university_ 10.1145/2493102.2493105": {
-    "el1": "western sydney university",
-    "el2": "australia and australian catholic university",
+  "university of salerno_ western sydney university_ 10.1145/2493102.2493105": {
+    "el1": "university of salerno",
+    "el2": "western sydney university",
     "paper_doi": "10.1145/2493102.2493105",
+    "date": "2013"
+  },
+  "australia and australian catholic university_ western sydney university_ 10.1145/2493102.2493105": {
+    "el1": "australia and australian catholic university",
+    "el2": "western sydney university",
+    "paper_doi": "10.1145/2493102.2493105",
+    "date": "2013"
+  },
+  "Harbin Institute of Technology_ Harbin Institute of Technology_ 10.1145/2493102.2493106": {
+    "el1": "Harbin Institute of Technology",
+    "el2": "Harbin Institute of Technology",
+    "paper_doi": "10.1145/2493102.2493106",
+    "date": "2013"
+  },
+  "nanjing university_ nanjing university_ 10.1145/2493102.2493107": {
+    "el1": "nanjing university",
+    "el2": "nanjing university",
+    "paper_doi": "10.1145/2493102.2493107",
+    "date": "2013"
+  },
+  "Tsinghua University_ hong kong university of science and technology_ 10.1145/2493102.2493108": {
+    "el1": "Tsinghua University",
+    "el2": "hong kong university of science and technology",
+    "paper_doi": "10.1145/2493102.2493108",
+    "date": "2013"
+  },
+  "Tsinghua University_ Tsinghua University_ 10.1145/2493102.2493108": {
+    "el1": "Tsinghua University",
+    "el2": "Tsinghua University",
+    "paper_doi": "10.1145/2493102.2493108",
+    "date": "2013"
+  },
+  "Tsinghua University_ Information System Sina Technology_ 10.1145/2493102.2493108": {
+    "el1": "Tsinghua University",
+    "el2": "Information System Sina Technology",
+    "paper_doi": "10.1145/2493102.2493108",
     "date": "2013"
   },
   "hong kong university of science and technology_ Information System Sina Technology_ 10.1145/2493102.2493108": {
@@ -1229,15 +2495,9 @@
     "paper_doi": "10.1145/2493102.2493108",
     "date": "2013"
   },
-  "hong kong university of science and technology_ Tsinghua University_ 10.1145/2493102.2493108": {
-    "el1": "hong kong university of science and technology",
-    "el2": "Tsinghua University",
-    "paper_doi": "10.1145/2493102.2493108",
-    "date": "2013"
-  },
-  "Information System Sina Technology_ Tsinghua University_ 10.1145/2493102.2493108": {
+  "Information System Sina Technology_ Information System Sina Technology_ 10.1145/2493102.2493108": {
     "el1": "Information System Sina Technology",
-    "el2": "Tsinghua University",
+    "el2": "Information System Sina Technology",
     "paper_doi": "10.1145/2493102.2493108",
     "date": "2013"
   },
@@ -1247,21 +2507,57 @@
     "paper_doi": "10.1145/2493102.2493109",
     "date": "2013"
   },
+  "university of texas_ university of texas_ 10.1145/2493102.2493109": {
+    "el1": "university of texas",
+    "el2": "university of texas",
+    "paper_doi": "10.1145/2493102.2493109",
+    "date": "2013"
+  },
+  "east china normal university_ east china normal university_ 10.1145/2493102.2493110": {
+    "el1": "east china normal university",
+    "el2": "east china normal university",
+    "paper_doi": "10.1145/2493102.2493110",
+    "date": "2013"
+  },
+  "tsinghua university_ tsinghua university_ 10.1145/2493102.2493111": {
+    "el1": "tsinghua university",
+    "el2": "tsinghua university",
+    "paper_doi": "10.1145/2493102.2493111",
+    "date": "2013"
+  },
   "university of technology_ Western Sydney University_ 10.1145/2493102.2493112": {
     "el1": "university of technology",
     "el2": "Western Sydney University",
     "paper_doi": "10.1145/2493102.2493112",
     "date": "2013"
   },
-  "university of salerno_ university of rome_ 10.1145/2493102.2493116": {
-    "el1": "university of salerno",
-    "el2": "university of rome",
-    "paper_doi": "10.1145/2493102.2493116",
+  "university of technology_ university of technology_ 10.1145/2493102.2493112": {
+    "el1": "university of technology",
+    "el2": "university of technology",
+    "paper_doi": "10.1145/2493102.2493112",
     "date": "2013"
   },
-  "university of salerno_ university of brighton_ 10.1145/2493102.2493116": {
+  "Western Sydney University_ Western Sydney University_ 10.1145/2493102.2493112": {
+    "el1": "Western Sydney University",
+    "el2": "Western Sydney University",
+    "paper_doi": "10.1145/2493102.2493112",
+    "date": "2013"
+  },
+  "university of salerno_ university of salerno_ 10.1145/2493102.2493113": {
     "el1": "university of salerno",
-    "el2": "university of brighton",
+    "el2": "university of salerno",
+    "paper_doi": "10.1145/2493102.2493113",
+    "date": "2013"
+  },
+  "university of macau_ university of macau_ 10.1145/2493102.2493114": {
+    "el1": "university of macau",
+    "el2": "university of macau",
+    "paper_doi": "10.1145/2493102.2493114",
+    "date": "2013"
+  },
+  "university of rome_ university of salerno_ 10.1145/2493102.2493116": {
+    "el1": "university of rome",
+    "el2": "university of salerno",
     "paper_doi": "10.1145/2493102.2493116",
     "date": "2013"
   },
@@ -1271,22 +2567,52 @@
     "paper_doi": "10.1145/2493102.2493116",
     "date": "2013"
   },
-  "university of lille_ university françois rabelais of tours_ 10.1145/2493102.2493119": {
-    "el1": "university of lille",
+  "university of salerno_ university of salerno_ 10.1145/2493102.2493116": {
+    "el1": "university of salerno",
+    "el2": "university of salerno",
+    "paper_doi": "10.1145/2493102.2493116",
+    "date": "2013"
+  },
+  "university of salerno_ university of brighton_ 10.1145/2493102.2493116": {
+    "el1": "university of salerno",
+    "el2": "university of brighton",
+    "paper_doi": "10.1145/2493102.2493116",
+    "date": "2013"
+  },
+  "nanjing university_ nanjing university_ 10.1145/2493102.2493118": {
+    "el1": "nanjing university",
+    "el2": "nanjing university",
+    "paper_doi": "10.1145/2493102.2493118",
+    "date": "2013"
+  },
+  "university françois rabelais of tours_ university of lille_ 10.1145/2493102.2493119": {
+    "el1": "university françois rabelais of tours",
+    "el2": "university of lille",
+    "paper_doi": "10.1145/2493102.2493119",
+    "date": "2013"
+  },
+  "university françois rabelais of tours_ university françois rabelais of tours_ 10.1145/2493102.2493119": {
+    "el1": "university françois rabelais of tours",
     "el2": "university françois rabelais of tours",
     "paper_doi": "10.1145/2493102.2493119",
     "date": "2013"
   },
-  "loughborough university_ aston university_ 10.1145/2493102.2493120": {
-    "el1": "loughborough university",
-    "el2": "aston university",
+  "aston university_ loughborough university_ 10.1145/2493102.2493120": {
+    "el1": "aston university",
+    "el2": "loughborough university",
     "paper_doi": "10.1145/2493102.2493120",
     "date": "2013"
   },
-  "winthrop university_ university college london_ 10.1145/2493102.2493115": {
-    "el1": "winthrop university",
-    "el2": "university college london",
-    "paper_doi": "10.1145/2493102.2493115",
+  "shandong university_ shandong university_ 10.1145/2493102.2493121": {
+    "el1": "shandong university",
+    "el2": "shandong university",
+    "paper_doi": "10.1145/2493102.2493121",
+    "date": "2013"
+  },
+  "shandong university_ shandong university_ 10.1145/2493102.2493122": {
+    "el1": "shandong university",
+    "el2": "shandong university",
+    "paper_doi": "10.1145/2493102.2493122",
     "date": "2013"
   },
   "winthrop university_ Institute of Design_ 10.1145/2493102.2493115": {
@@ -1295,33 +2621,69 @@
     "paper_doi": "10.1145/2493102.2493115",
     "date": "2013"
   },
-  "university college london_ Institute of Design_ 10.1145/2493102.2493115": {
-    "el1": "university college london",
-    "el2": "Institute of Design",
+  "winthrop university_ university college london_ 10.1145/2493102.2493115": {
+    "el1": "winthrop university",
+    "el2": "university college london",
     "paper_doi": "10.1145/2493102.2493115",
     "date": "2013"
   },
-  "Chinese Academy of Sciences_ IBM T_ 10.1145/2397696.2397700": {
-    "el1": "Chinese Academy of Sciences",
+  "Institute of Design_ university college london_ 10.1145/2493102.2493115": {
+    "el1": "Institute of Design",
+    "el2": "university college london",
+    "paper_doi": "10.1145/2493102.2493115",
+    "date": "2013"
+  },
+  "university college london_ university college london_ 10.1145/2493102.2493115": {
+    "el1": "university college london",
+    "el2": "university college london",
+    "paper_doi": "10.1145/2493102.2493115",
+    "date": "2013"
+  },
+  "zhejiang university of technology_ zhejiang university of technology_ 10.1145/2397696.2397697": {
+    "el1": "zhejiang university of technology",
+    "el2": "zhejiang university of technology",
+    "paper_doi": "10.1145/2397696.2397697",
+    "date": "2012"
+  },
+  "central south university_ central south university_ 10.1145/2397696.2397698": {
+    "el1": "central south university",
+    "el2": "central south university",
+    "paper_doi": "10.1145/2397696.2397698",
+    "date": "2012"
+  },
+  "shandong university jinan_ shandong university jinan_ 10.1145/2397696.2397699": {
+    "el1": "shandong university jinan",
+    "el2": "shandong university jinan",
+    "paper_doi": "10.1145/2397696.2397699",
+    "date": "2012"
+  },
+  "IBM Research -- China_ IBM Research -- China_ 10.1145/2397696.2397700": {
+    "el1": "IBM Research -- China",
+    "el2": "IBM Research -- China",
+    "paper_doi": "10.1145/2397696.2397700",
+    "date": "2012"
+  },
+  "IBM Research -- China_ IBM T_ 10.1145/2397696.2397700": {
+    "el1": "IBM Research -- China",
     "el2": "IBM T",
     "paper_doi": "10.1145/2397696.2397700",
     "date": "2012"
   },
-  "Chinese Academy of Sciences_ IBM Research -- China_ 10.1145/2397696.2397700": {
-    "el1": "Chinese Academy of Sciences",
-    "el2": "IBM Research -- China",
+  "IBM Research -- China_ Chinese Academy of Sciences_ 10.1145/2397696.2397700": {
+    "el1": "IBM Research -- China",
+    "el2": "Chinese Academy of Sciences",
     "paper_doi": "10.1145/2397696.2397700",
     "date": "2012"
   },
-  "Chinese Academy of Sciences_ tsinghua university beijing_ 10.1145/2397696.2397700": {
-    "el1": "Chinese Academy of Sciences",
+  "IBM Research -- China_ tsinghua university beijing_ 10.1145/2397696.2397700": {
+    "el1": "IBM Research -- China",
     "el2": "tsinghua university beijing",
     "paper_doi": "10.1145/2397696.2397700",
     "date": "2012"
   },
-  "IBM T_ IBM Research -- China_ 10.1145/2397696.2397700": {
+  "IBM T_ Chinese Academy of Sciences_ 10.1145/2397696.2397700": {
     "el1": "IBM T",
-    "el2": "IBM Research -- China",
+    "el2": "Chinese Academy of Sciences",
     "paper_doi": "10.1145/2397696.2397700",
     "date": "2012"
   },
@@ -1331,8 +2693,8 @@
     "paper_doi": "10.1145/2397696.2397700",
     "date": "2012"
   },
-  "IBM Research -- China_ tsinghua university beijing_ 10.1145/2397696.2397700": {
-    "el1": "IBM Research -- China",
+  "Chinese Academy of Sciences_ tsinghua university beijing_ 10.1145/2397696.2397700": {
+    "el1": "Chinese Academy of Sciences",
     "el2": "tsinghua university beijing",
     "paper_doi": "10.1145/2397696.2397700",
     "date": "2012"
@@ -1349,27 +2711,45 @@
     "paper_doi": "10.1145/2397696.2397702",
     "date": "2012"
   },
+  "university of illinois_ university of illinois_ 10.1145/2397696.2397703": {
+    "el1": "university of illinois",
+    "el2": "university of illinois",
+    "paper_doi": "10.1145/2397696.2397703",
+    "date": "2012"
+  },
+  "UNC Charlotte Charlotte_ UNC Charlotte Charlotte_ 10.1145/2397696.2397704": {
+    "el1": "UNC Charlotte Charlotte",
+    "el2": "UNC Charlotte Charlotte",
+    "paper_doi": "10.1145/2397696.2397704",
+    "date": "2012"
+  },
   "UNC Charlotte Charlotte_ zhejiang university_ 10.1145/2397696.2397704": {
     "el1": "UNC Charlotte Charlotte",
     "el2": "zhejiang university",
     "paper_doi": "10.1145/2397696.2397704",
     "date": "2012"
   },
-  "university of technology_ UT Southwestern Medical Center at Dallas_ 10.1145/2397696.2397705": {
-    "el1": "university of technology",
+  "university of western_ UT Southwestern Medical Center at Dallas_ 10.1145/2397696.2397705": {
+    "el1": "university of western",
     "el2": "UT Southwestern Medical Center at Dallas",
     "paper_doi": "10.1145/2397696.2397705",
     "date": "2012"
   },
-  "university of technology_ tianjin university_ 10.1145/2397696.2397705": {
-    "el1": "university of technology",
+  "university of western_ university of technology_ 10.1145/2397696.2397705": {
+    "el1": "university of western",
+    "el2": "university of technology",
+    "paper_doi": "10.1145/2397696.2397705",
+    "date": "2012"
+  },
+  "university of western_ tianjin university_ 10.1145/2397696.2397705": {
+    "el1": "university of western",
     "el2": "tianjin university",
     "paper_doi": "10.1145/2397696.2397705",
     "date": "2012"
   },
-  "university of technology_ university of western_ 10.1145/2397696.2397705": {
-    "el1": "university of technology",
-    "el2": "university of western",
+  "UT Southwestern Medical Center at Dallas_ university of technology_ 10.1145/2397696.2397705": {
+    "el1": "UT Southwestern Medical Center at Dallas",
+    "el2": "university of technology",
     "paper_doi": "10.1145/2397696.2397705",
     "date": "2012"
   },
@@ -1379,21 +2759,21 @@
     "paper_doi": "10.1145/2397696.2397705",
     "date": "2012"
   },
-  "UT Southwestern Medical Center at Dallas_ university of western_ 10.1145/2397696.2397705": {
-    "el1": "UT Southwestern Medical Center at Dallas",
-    "el2": "university of western",
+  "university of technology_ tianjin university_ 10.1145/2397696.2397705": {
+    "el1": "university of technology",
+    "el2": "tianjin university",
     "paper_doi": "10.1145/2397696.2397705",
     "date": "2012"
   },
-  "tianjin university_ university of western_ 10.1145/2397696.2397705": {
-    "el1": "tianjin university",
-    "el2": "university of western",
-    "paper_doi": "10.1145/2397696.2397705",
-    "date": "2012"
-  },
-  "soochow university suzhou_ east china normal university_ 10.1145/2397696.2397706": {
-    "el1": "soochow university suzhou",
+  "east china normal university_ east china normal university_ 10.1145/2397696.2397706": {
+    "el1": "east china normal university",
     "el2": "east china normal university",
+    "paper_doi": "10.1145/2397696.2397706",
+    "date": "2012"
+  },
+  "east china normal university_ soochow university suzhou_ 10.1145/2397696.2397706": {
+    "el1": "east china normal university",
+    "el2": "soochow university suzhou",
     "paper_doi": "10.1145/2397696.2397706",
     "date": "2012"
   },
@@ -1403,10 +2783,52 @@
     "paper_doi": "10.1145/2397696.2397707",
     "date": "2012"
   },
-  "university of the pacific_ UNC Charlotte_ 10.1145/2397696.2397710": {
-    "el1": "university of the pacific",
+  "university of macau_ university of macau_ 10.1145/2397696.2397708": {
+    "el1": "university of macau",
+    "el2": "university of macau",
+    "paper_doi": "10.1145/2397696.2397708",
+    "date": "2012"
+  },
+  "nanjing university_ nanjing university_ 10.1145/2397696.2397709": {
+    "el1": "nanjing university",
+    "el2": "nanjing university",
+    "paper_doi": "10.1145/2397696.2397709",
+    "date": "2012"
+  },
+  "UNC Charlotte_ UNC Charlotte_ 10.1145/2397696.2397710": {
+    "el1": "UNC Charlotte",
     "el2": "UNC Charlotte",
     "paper_doi": "10.1145/2397696.2397710",
+    "date": "2012"
+  },
+  "UNC Charlotte_ university of the pacific_ 10.1145/2397696.2397710": {
+    "el1": "UNC Charlotte",
+    "el2": "university of the pacific",
+    "paper_doi": "10.1145/2397696.2397710",
+    "date": "2012"
+  },
+  "university of the pacific_ university of the pacific_ 10.1145/2397696.2397710": {
+    "el1": "university of the pacific",
+    "el2": "university of the pacific",
+    "paper_doi": "10.1145/2397696.2397710",
+    "date": "2012"
+  },
+  "tsinghua university_ tsinghua university_ 10.1145/2397696.2397711": {
+    "el1": "tsinghua university",
+    "el2": "tsinghua university",
+    "paper_doi": "10.1145/2397696.2397711",
+    "date": "2012"
+  },
+  "australia university of technology_ national chiao tung university_ 10.1145/2397696.2397712": {
+    "el1": "australia university of technology",
+    "el2": "national chiao tung university",
+    "paper_doi": "10.1145/2397696.2397712",
+    "date": "2012"
+  },
+  "australia university of technology_ university of technology sydney_ 10.1145/2397696.2397712": {
+    "el1": "australia university of technology",
+    "el2": "university of technology sydney",
+    "paper_doi": "10.1145/2397696.2397712",
     "date": "2012"
   },
   "national chiao tung university_ university of technology sydney_ 10.1145/2397696.2397712": {
@@ -1415,17 +2837,23 @@
     "paper_doi": "10.1145/2397696.2397712",
     "date": "2012"
   },
-  "national chiao tung university_ australia university of technology_ 10.1145/2397696.2397712": {
-    "el1": "national chiao tung university",
-    "el2": "australia university of technology",
-    "paper_doi": "10.1145/2397696.2397712",
-    "date": "2012"
+  "charlotte visualization center_ Palo Alto Research Center_ 10.1145/2016656.2016657": {
+    "el1": "charlotte visualization center",
+    "el2": "Palo Alto Research Center",
+    "paper_doi": "10.1145/2016656.2016657",
+    "date": "2011"
   },
-  "university of technology sydney_ australia university of technology_ 10.1145/2397696.2397712": {
-    "el1": "university of technology sydney",
-    "el2": "australia university of technology",
-    "paper_doi": "10.1145/2397696.2397712",
-    "date": "2012"
+  "charlotte visualization center_ university of new hampshire_ 10.1145/2016656.2016657": {
+    "el1": "charlotte visualization center",
+    "el2": "university of new hampshire",
+    "paper_doi": "10.1145/2016656.2016657",
+    "date": "2011"
+  },
+  "charlotte visualization center_ charlotte visualization center_ 10.1145/2016656.2016657": {
+    "el1": "charlotte visualization center",
+    "el2": "charlotte visualization center",
+    "paper_doi": "10.1145/2016656.2016657",
+    "date": "2011"
   },
   "Palo Alto Research Center_ university of new hampshire_ 10.1145/2016656.2016657": {
     "el1": "Palo Alto Research Center",
@@ -1433,21 +2861,27 @@
     "paper_doi": "10.1145/2016656.2016657",
     "date": "2011"
   },
-  "Palo Alto Research Center_ charlotte visualization center_ 10.1145/2016656.2016657": {
-    "el1": "Palo Alto Research Center",
-    "el2": "charlotte visualization center",
-    "paper_doi": "10.1145/2016656.2016657",
+  "university of macau_ university of macau_ 10.1145/2016656.2016658": {
+    "el1": "university of macau",
+    "el2": "university of macau",
+    "paper_doi": "10.1145/2016656.2016658",
     "date": "2011"
   },
-  "university of new hampshire_ charlotte visualization center_ 10.1145/2016656.2016657": {
-    "el1": "university of new hampshire",
-    "el2": "charlotte visualization center",
-    "paper_doi": "10.1145/2016656.2016657",
+  "University of Tsukuba_ University of Tsukuba_ 10.1145/2016656.2016659": {
+    "el1": "University of Tsukuba",
+    "el2": "University of Tsukuba",
+    "paper_doi": "10.1145/2016656.2016659",
     "date": "2011"
   },
   "Chinese Academy of Sciences_ beijing jiaotong university_ 10.1145/2016656.2016660": {
     "el1": "Chinese Academy of Sciences",
     "el2": "beijing jiaotong university",
+    "paper_doi": "10.1145/2016656.2016660",
+    "date": "2011"
+  },
+  "Chinese Academy of Sciences_ Chinese Academy of Sciences_ 10.1145/2016656.2016660": {
+    "el1": "Chinese Academy of Sciences",
+    "el2": "Chinese Academy of Sciences",
     "paper_doi": "10.1145/2016656.2016660",
     "date": "2011"
   },
@@ -1463,16 +2897,34 @@
     "paper_doi": "10.1145/2016656.2016660",
     "date": "2011"
   },
+  "ochanomizu university_ ochanomizu university_ 10.1145/2016656.2016661": {
+    "el1": "ochanomizu university",
+    "el2": "ochanomizu university",
+    "paper_doi": "10.1145/2016656.2016661",
+    "date": "2011"
+  },
+  "shimane university_ shimane university_ 10.1145/2016656.2016662": {
+    "el1": "shimane university",
+    "el2": "shimane university",
+    "paper_doi": "10.1145/2016656.2016662",
+    "date": "2011"
+  },
   "shimane university_ Yamamoto Clinic_ 10.1145/2016656.2016662": {
     "el1": "shimane university",
     "el2": "Yamamoto Clinic",
     "paper_doi": "10.1145/2016656.2016662",
     "date": "2011"
   },
-  "Chinese Academy of Sciences_ Pennsylvania State University_ 10.1145/2016656.2016664": {
-    "el1": "Chinese Academy of Sciences",
-    "el2": "Pennsylvania State University",
-    "paper_doi": "10.1145/2016656.2016664",
+  "Yamamoto Clinic_ Yamamoto Clinic_ 10.1145/2016656.2016662": {
+    "el1": "Yamamoto Clinic",
+    "el2": "Yamamoto Clinic",
+    "paper_doi": "10.1145/2016656.2016662",
+    "date": "2011"
+  },
+  "pennsylvania state university_ pennsylvania state university_ 10.1145/2016656.2016663": {
+    "el1": "pennsylvania state university",
+    "el2": "pennsylvania state university",
+    "paper_doi": "10.1145/2016656.2016663",
     "date": "2011"
   },
   "Chinese Academy of Sciences_ Microsoft Research Asia_ 10.1145/2016656.2016664": {
@@ -1481,28 +2933,154 @@
     "paper_doi": "10.1145/2016656.2016664",
     "date": "2011"
   },
-  "Pennsylvania State University_ Microsoft Research Asia_ 10.1145/2016656.2016664": {
-    "el1": "Pennsylvania State University",
-    "el2": "Microsoft Research Asia",
+  "Chinese Academy of Sciences_ Chinese Academy of Sciences_ 10.1145/2016656.2016664": {
+    "el1": "Chinese Academy of Sciences",
+    "el2": "Chinese Academy of Sciences",
     "paper_doi": "10.1145/2016656.2016664",
     "date": "2011"
   },
-  "university of technology sydney_ tianjin university_ 10.1145/2016656.2016667": {
-    "el1": "university of technology sydney",
+  "Chinese Academy of Sciences_ Pennsylvania State University_ 10.1145/2016656.2016664": {
+    "el1": "Chinese Academy of Sciences",
+    "el2": "Pennsylvania State University",
+    "paper_doi": "10.1145/2016656.2016664",
+    "date": "2011"
+  },
+  "Microsoft Research Asia_ Pennsylvania State University_ 10.1145/2016656.2016664": {
+    "el1": "Microsoft Research Asia",
+    "el2": "Pennsylvania State University",
+    "paper_doi": "10.1145/2016656.2016664",
+    "date": "2011"
+  },
+  "dalhousie university halifax_ dalhousie university halifax_ 10.1145/2016656.2016665": {
+    "el1": "dalhousie university halifax",
+    "el2": "dalhousie university halifax",
+    "paper_doi": "10.1145/2016656.2016665",
+    "date": "2011"
+  },
+  "Chinese Academy of Sciences_ Chinese Academy of Sciences_ 10.1145/2016656.2016666": {
+    "el1": "Chinese Academy of Sciences",
+    "el2": "Chinese Academy of Sciences",
+    "paper_doi": "10.1145/2016656.2016666",
+    "date": "2011"
+  },
+  "tianjin university_ tianjin university_ 10.1145/2016656.2016667": {
+    "el1": "tianjin university",
     "el2": "tianjin university",
     "paper_doi": "10.1145/2016656.2016667",
     "date": "2011"
   },
-  "sun yatsen university_ the penn state university_ 10.1145/2016656.2016671": {
-    "el1": "sun yatsen university",
+  "tianjin university_ university of technology sydney_ 10.1145/2016656.2016667": {
+    "el1": "tianjin university",
+    "el2": "university of technology sydney",
+    "paper_doi": "10.1145/2016656.2016667",
+    "date": "2011"
+  },
+  "university of texas_ university of texas_ 10.1145/2016656.2016668": {
+    "el1": "university of texas",
+    "el2": "university of texas",
+    "paper_doi": "10.1145/2016656.2016668",
+    "date": "2011"
+  },
+  "hong kong university of science and technology_ hong kong university of science and technology_ 10.1145/2016656.2016669": {
+    "el1": "hong kong university of science and technology",
+    "el2": "hong kong university of science and technology",
+    "paper_doi": "10.1145/2016656.2016669",
+    "date": "2011"
+  },
+  "southern methodist university_ southern methodist university_ 10.1145/2016656.2016670": {
+    "el1": "southern methodist university",
+    "el2": "southern methodist university",
+    "paper_doi": "10.1145/2016656.2016670",
+    "date": "2011"
+  },
+  "the penn state university_ sun yatsen university_ 10.1145/2016656.2016671": {
+    "el1": "the penn state university",
+    "el2": "sun yatsen university",
+    "paper_doi": "10.1145/2016656.2016671",
+    "date": "2011"
+  },
+  "the penn state university_ the penn state university_ 10.1145/2016656.2016671": {
+    "el1": "the penn state university",
     "el2": "the penn state university",
     "paper_doi": "10.1145/2016656.2016671",
     "date": "2011"
   },
-  "university of technology_ CSIRO ICT Centre_ 10.1145/1865841.1865854": {
-    "el1": "university of technology",
-    "el2": "CSIRO ICT Centre",
+  "sun yatsen university_ sun yatsen university_ 10.1145/2016656.2016671": {
+    "el1": "sun yatsen university",
+    "el2": "sun yatsen university",
+    "paper_doi": "10.1145/2016656.2016671",
+    "date": "2011"
+  },
+  "university of texas_ university of texas_ 10.1145/2016656.2016672": {
+    "el1": "university of texas",
+    "el2": "university of texas",
+    "paper_doi": "10.1145/2016656.2016672",
+    "date": "2011"
+  },
+  "peking university_ peking university_ 10.1145/1865841.1865848": {
+    "el1": "peking university",
+    "el2": "peking university",
+    "paper_doi": "10.1145/1865841.1865848",
+    "date": "2010"
+  },
+  "shandong university_ shandong university_ 10.1145/1865841.1865849": {
+    "el1": "shandong university",
+    "el2": "shandong university",
+    "paper_doi": "10.1145/1865841.1865849",
+    "date": "2010"
+  },
+  "beijing normal university_ beijing normal university_ 10.1145/1865841.1865850": {
+    "el1": "beijing normal university",
+    "el2": "beijing normal university",
+    "paper_doi": "10.1145/1865841.1865850",
+    "date": "2010"
+  },
+  "shandong university_ shandong university_ 10.1145/1865841.1865853": {
+    "el1": "shandong university",
+    "el2": "shandong university",
+    "paper_doi": "10.1145/1865841.1865853",
+    "date": "2010"
+  },
+  "CSIRO ICT Centre_ university of technology_ 10.1145/1865841.1865854": {
+    "el1": "CSIRO ICT Centre",
+    "el2": "university of technology",
     "paper_doi": "10.1145/1865841.1865854",
+    "date": "2010"
+  },
+  "dalhousie university_ dalhousie university_ 10.1145/1865841.1865856": {
+    "el1": "dalhousie university",
+    "el2": "dalhousie university",
+    "paper_doi": "10.1145/1865841.1865856",
+    "date": "2010"
+  },
+  "shandong university_ shandong university_ 10.1145/1865841.1865857": {
+    "el1": "shandong university",
+    "el2": "shandong university",
+    "paper_doi": "10.1145/1865841.1865857",
+    "date": "2010"
+  },
+  "KDU College Penang Campus_ KDU College Penang Campus_ 10.1145/1865841.1865858": {
+    "el1": "KDU College Penang Campus",
+    "el2": "KDU College Penang Campus",
+    "paper_doi": "10.1145/1865841.1865858",
+    "date": "2010"
+  },
+  "Chinese Academy of Sciences_ Chinese Academy of Sciences_ 10.1145/1865841.1865860": {
+    "el1": "Chinese Academy of Sciences",
+    "el2": "Chinese Academy of Sciences",
+    "paper_doi": "10.1145/1865841.1865860",
+    "date": "2010"
+  },
+  "Chinese Academy of Sciences_ Chinese Academy of Sciences_ 10.1145/1865841.1865861": {
+    "el1": "Chinese Academy of Sciences",
+    "el2": "Chinese Academy of Sciences",
+    "paper_doi": "10.1145/1865841.1865861",
+    "date": "2010"
+  },
+  "western sydney university_ western sydney university_ 10.1145/1865841.1865862": {
+    "el1": "western sydney university",
+    "el2": "western sydney university",
+    "paper_doi": "10.1145/1865841.1865862",
     "date": "2010"
   },
   "western sydney university_ university of technology_ 10.1145/1865841.1865862": {
@@ -1511,10 +3089,52 @@
     "paper_doi": "10.1145/1865841.1865862",
     "date": "2010"
   },
-  "university of texas_ hong kong university of science and technology_ 10.1145/3554944.3554951": {
+  "CSIRO -- ICT Centre_ CSIRO -- ICT Centre_ 10.1145/1865841.1865864": {
+    "el1": "CSIRO -- ICT Centre",
+    "el2": "CSIRO -- ICT Centre",
+    "paper_doi": "10.1145/1865841.1865864",
+    "date": "2010"
+  },
+  "the penn state university park_ the penn state university park_ 10.1145/1865841.1865865": {
+    "el1": "the penn state university park",
+    "el2": "the penn state university park",
+    "paper_doi": "10.1145/1865841.1865865",
+    "date": "2010"
+  },
+  "shimane university_ shimane university_ 10.1145/1865841.1865866": {
+    "el1": "shimane university",
+    "el2": "shimane university",
+    "paper_doi": "10.1145/1865841.1865866",
+    "date": "2010"
+  },
+  "university of texas_ university of texas_ 10.1145/1865841.1865868": {
     "el1": "university of texas",
-    "el2": "hong kong university of science and technology",
-    "paper_doi": "10.1145/3554944.3554951",
+    "el2": "university of texas",
+    "paper_doi": "10.1145/1865841.1865868",
+    "date": "2010"
+  },
+  "University of Macau_ University of Macau_ 10.1145/1865841.1865869": {
+    "el1": "University of Macau",
+    "el2": "University of Macau",
+    "paper_doi": "10.1145/1865841.1865869",
+    "date": "2010"
+  },
+  "pennsylvania state university_ pennsylvania state university_ 10.1145/1865841.1865870": {
+    "el1": "pennsylvania state university",
+    "el2": "pennsylvania state university",
+    "paper_doi": "10.1145/1865841.1865870",
+    "date": "2010"
+  },
+  "pölten university of applied sciences_ pölten university of applied sciences_ 10.1145/3554944.3554949": {
+    "el1": "pölten university of applied sciences",
+    "el2": "pölten university of applied sciences",
+    "paper_doi": "10.1145/3554944.3554949",
+    "date": "2022"
+  },
+  "university of bergen_ university of bergen_ 10.1145/3554944.3554950": {
+    "el1": "university of bergen",
+    "el2": "university of bergen",
+    "paper_doi": "10.1145/3554944.3554950",
     "date": "2022"
   },
   "university of texas_ university of mining and technology_ 10.1145/3554944.3554951": {
@@ -1529,15 +3149,9 @@
     "paper_doi": "10.1145/3554944.3554951",
     "date": "2022"
   },
-  "hong kong university of science and technology_ university of mining and technology_ 10.1145/3554944.3554951": {
-    "el1": "hong kong university of science and technology",
-    "el2": "university of mining and technology",
-    "paper_doi": "10.1145/3554944.3554951",
-    "date": "2022"
-  },
-  "hong kong university of science and technology_ university of pennsylvania_ 10.1145/3554944.3554951": {
-    "el1": "hong kong university of science and technology",
-    "el2": "university of pennsylvania",
+  "university of texas_ hong kong university of science and technology_ 10.1145/3554944.3554951": {
+    "el1": "university of texas",
+    "el2": "hong kong university of science and technology",
     "paper_doi": "10.1145/3554944.3554951",
     "date": "2022"
   },
@@ -1547,14 +3161,74 @@
     "paper_doi": "10.1145/3554944.3554951",
     "date": "2022"
   },
-  "university of stuttgart_ university of konstanz_ 10.1145/3554944.3554971": {
-    "el1": "university of stuttgart",
+  "university of mining and technology_ hong kong university of science and technology_ 10.1145/3554944.3554951": {
+    "el1": "university of mining and technology",
+    "el2": "hong kong university of science and technology",
+    "paper_doi": "10.1145/3554944.3554951",
+    "date": "2022"
+  },
+  "university of pennsylvania_ hong kong university of science and technology_ 10.1145/3554944.3554951": {
+    "el1": "university of pennsylvania",
+    "el2": "hong kong university of science and technology",
+    "paper_doi": "10.1145/3554944.3554951",
+    "date": "2022"
+  },
+  "hong kong university of science and technology_ hong kong university of science and technology_ 10.1145/3554944.3554951": {
+    "el1": "hong kong university of science and technology",
+    "el2": "hong kong university of science and technology",
+    "paper_doi": "10.1145/3554944.3554951",
+    "date": "2022"
+  },
+  "university of british columbia_ university of british columbia_ 10.1145/3554944.3554952": {
+    "el1": "university of british columbia",
+    "el2": "university of british columbia",
+    "paper_doi": "10.1145/3554944.3554952",
+    "date": "2022"
+  },
+  "university of konstanz_ university of stuttgart_ 10.1145/3554944.3554971": {
+    "el1": "university of konstanz",
+    "el2": "university of stuttgart",
+    "paper_doi": "10.1145/3554944.3554971",
+    "date": "2022"
+  },
+  "university of konstanz_ university of konstanz_ 10.1145/3554944.3554971": {
+    "el1": "university of konstanz",
     "el2": "university of konstanz",
     "paper_doi": "10.1145/3554944.3554971",
     "date": "2022"
   },
+  "university of stuttgart_ university of stuttgart_ 10.1145/3554944.3554971": {
+    "el1": "university of stuttgart",
+    "el2": "university of stuttgart",
+    "paper_doi": "10.1145/3554944.3554971",
+    "date": "2022"
+  },
+  "university of stuttgart_ university of stuttgart_ 10.1145/3554944.3554947": {
+    "el1": "university of stuttgart",
+    "el2": "university of stuttgart",
+    "paper_doi": "10.1145/3554944.3554947",
+    "date": "2022"
+  },
+  "university of stuttgart_ university of stuttgart_ 10.1145/3554944.3554945": {
+    "el1": "university of stuttgart",
+    "el2": "university of stuttgart",
+    "paper_doi": "10.1145/3554944.3554945",
+    "date": "2022"
+  },
+  "Escuela Superior Politécnica del Litoral_ Escuela Superior Politécnica del Litoral_ 10.1145/3554944.3554957": {
+    "el1": "Escuela Superior Politécnica del Litoral",
+    "el2": "Escuela Superior Politécnica del Litoral",
+    "paper_doi": "10.1145/3554944.3554957",
+    "date": "2022"
+  },
   "university of bergen_ haukeland university hospital_ 10.1145/3554944.3554958": {
     "el1": "university of bergen",
+    "el2": "haukeland university hospital",
+    "paper_doi": "10.1145/3554944.3554958",
+    "date": "2022"
+  },
+  "haukeland university hospital_ haukeland university hospital_ 10.1145/3554944.3554958": {
+    "el1": "haukeland university hospital",
     "el2": "haukeland university hospital",
     "paper_doi": "10.1145/3554944.3554958",
     "date": "2022"
@@ -1565,45 +3239,141 @@
     "paper_doi": "10.1145/3554944.3554959",
     "date": "2022"
   },
+  "eindhoven university of technology_ eindhoven university of technology_ 10.1145/3554944.3554959": {
+    "el1": "eindhoven university of technology",
+    "el2": "eindhoven university of technology",
+    "paper_doi": "10.1145/3554944.3554959",
+    "date": "2022"
+  },
+  "Naval Research Laboratory_ Naval Research Laboratory_ 10.1145/3554944.3554954": {
+    "el1": "Naval Research Laboratory",
+    "el2": "Naval Research Laboratory",
+    "paper_doi": "10.1145/3554944.3554954",
+    "date": "2022"
+  },
+  "university of stuttgart_ university of stuttgart_ 10.1145/3554944.3554970": {
+    "el1": "university of stuttgart",
+    "el2": "university of stuttgart",
+    "paper_doi": "10.1145/3554944.3554970",
+    "date": "2022"
+  },
   "university of stuttgart_ Escuela de Diseno_ 10.1145/3554944.3554970": {
     "el1": "university of stuttgart",
     "el2": "Escuela de Diseno",
     "paper_doi": "10.1145/3554944.3554970",
     "date": "2022"
   },
-  "Imperial College London_ Behaviour Lab Ltd_ 10.1145/3554944.3554963": {
-    "el1": "Imperial College London",
-    "el2": "Behaviour Lab Ltd",
+  "university of stuttgart_ university of stuttgart_ 10.1145/3554944.3554956": {
+    "el1": "university of stuttgart",
+    "el2": "university of stuttgart",
+    "paper_doi": "10.1145/3554944.3554956",
+    "date": "2022"
+  },
+  "university of applied sciences of the grisons_ university of applied sciences of the grisons_ 10.1145/3554944.3554960": {
+    "el1": "university of applied sciences of the grisons",
+    "el2": "university of applied sciences of the grisons",
+    "paper_doi": "10.1145/3554944.3554960",
+    "date": "2022"
+  },
+  "university of potsdam_ university of potsdam_ 10.1145/3554944.3554961": {
+    "el1": "university of potsdam",
+    "el2": "university of potsdam",
+    "paper_doi": "10.1145/3554944.3554961",
+    "date": "2022"
+  },
+  "university of applied sciences of the grisons_ university of applied sciences of the grisons_ 10.1145/3554944.3554962": {
+    "el1": "university of applied sciences of the grisons",
+    "el2": "university of applied sciences of the grisons",
+    "paper_doi": "10.1145/3554944.3554962",
+    "date": "2022"
+  },
+  "Behaviour Lab Ltd_ Imperial College London_ 10.1145/3554944.3554963": {
+    "el1": "Behaviour Lab Ltd",
+    "el2": "Imperial College London",
     "paper_doi": "10.1145/3554944.3554963",
     "date": "2022"
   },
-  "_ university of applied sciences of the grisons_ 10.1145/3554944.3554964": {
-    "el1": "",
+  "university of applied sciences of the grisons_ _ 10.1145/3554944.3554964": {
+    "el1": "university of applied sciences of the grisons",
+    "el2": "",
+    "paper_doi": "10.1145/3554944.3554964",
+    "date": "2022"
+  },
+  "university of applied sciences of the grisons_ university of applied sciences of the grisons_ 10.1145/3554944.3554964": {
+    "el1": "university of applied sciences of the grisons",
     "el2": "university of applied sciences of the grisons",
     "paper_doi": "10.1145/3554944.3554964",
     "date": "2022"
   },
-  "eindhoven university of technology_ Philips Research Eindhoven_ 10.1145/3430036.3430065": {
-    "el1": "eindhoven university of technology",
+  "university of applied sciences of the grisons_ university of applied sciences of the grisons_ 10.1145/3554944.3554965": {
+    "el1": "university of applied sciences of the grisons",
+    "el2": "university of applied sciences of the grisons",
+    "paper_doi": "10.1145/3554944.3554965",
+    "date": "2022"
+  },
+  "university of applied sciences of the grisons_ university of applied sciences of the grisons_ 10.1145/3554944.3554966": {
+    "el1": "university of applied sciences of the grisons",
+    "el2": "university of applied sciences of the grisons",
+    "paper_doi": "10.1145/3554944.3554966",
+    "date": "2022"
+  },
+  "Eindhoven University of Technology_ Eindhoven University of Technology_ 10.1145/3430036.3430067": {
+    "el1": "Eindhoven University of Technology",
+    "el2": "Eindhoven University of Technology",
+    "paper_doi": "10.1145/3430036.3430067",
+    "date": "2020"
+  },
+  "aalen university of applied sciences_ aalen university of applied sciences_ 10.1145/3430036.3430060": {
+    "el1": "aalen university of applied sciences",
+    "el2": "aalen university of applied sciences",
+    "paper_doi": "10.1145/3430036.3430060",
+    "date": "2020"
+  },
+  "aalen university of applied sciences_ aalen university of applied sciences_ 10.1145/3430036.3430058": {
+    "el1": "aalen university of applied sciences",
+    "el2": "aalen university of applied sciences",
+    "paper_doi": "10.1145/3430036.3430058",
+    "date": "2020"
+  },
+  "Technische Universiteit Eindhoven_ Technische Universiteit Eindhoven_ 10.1145/3430036.3430053": {
+    "el1": "Technische Universiteit Eindhoven",
+    "el2": "Technische Universiteit Eindhoven",
+    "paper_doi": "10.1145/3430036.3430053",
+    "date": "2020"
+  },
+  "Philips Research Eindhoven_ Philips Research Eindhoven_ 10.1145/3430036.3430065": {
+    "el1": "Philips Research Eindhoven",
     "el2": "Philips Research Eindhoven",
     "paper_doi": "10.1145/3430036.3430065",
     "date": "2020"
   },
-  "Technische Universität Berlin_ university of stuttgart_ 10.1145/3430036.3430050": {
-    "el1": "Technische Universität Berlin",
+  "Philips Research Eindhoven_ eindhoven university of technology_ 10.1145/3430036.3430065": {
+    "el1": "Philips Research Eindhoven",
+    "el2": "eindhoven university of technology",
+    "paper_doi": "10.1145/3430036.3430065",
+    "date": "2020"
+  },
+  "eindhoven university of technology_ eindhoven university of technology_ 10.1145/3430036.3430052": {
+    "el1": "eindhoven university of technology",
+    "el2": "eindhoven university of technology",
+    "paper_doi": "10.1145/3430036.3430052",
+    "date": "2020"
+  },
+  "university of stuttgart_ university of stuttgart_ 10.1145/3430036.3430050": {
+    "el1": "university of stuttgart",
     "el2": "university of stuttgart",
     "paper_doi": "10.1145/3430036.3430050",
     "date": "2020"
   },
-  "oregon state university_ university of stuttgart_ 10.1145/3430036.3430038": {
-    "el1": "oregon state university",
-    "el2": "university of stuttgart",
-    "paper_doi": "10.1145/3430036.3430038",
+  "university of stuttgart_ Technische Universität Berlin_ 10.1145/3430036.3430050": {
+    "el1": "university of stuttgart",
+    "el2": "Technische Universität Berlin",
+    "paper_doi": "10.1145/3430036.3430050",
     "date": "2020"
   },
-  "oregon state university_ ETH Zurich_ 10.1145/3430036.3430038": {
-    "el1": "oregon state university",
-    "el2": "ETH Zurich",
+  "university of stuttgart_ university of stuttgart_ 10.1145/3430036.3430038": {
+    "el1": "university of stuttgart",
+    "el2": "university of stuttgart",
     "paper_doi": "10.1145/3430036.3430038",
     "date": "2020"
   },
@@ -1613,22 +3383,46 @@
     "paper_doi": "10.1145/3430036.3430038",
     "date": "2020"
   },
+  "university of stuttgart_ oregon state university_ 10.1145/3430036.3430038": {
+    "el1": "university of stuttgart",
+    "el2": "oregon state university",
+    "paper_doi": "10.1145/3430036.3430038",
+    "date": "2020"
+  },
+  "ETH Zurich_ oregon state university_ 10.1145/3430036.3430038": {
+    "el1": "ETH Zurich",
+    "el2": "oregon state university",
+    "paper_doi": "10.1145/3430036.3430038",
+    "date": "2020"
+  },
+  "university of aizu_ university of aizu_ 10.1145/3430036.3430059": {
+    "el1": "university of aizu",
+    "el2": "university of aizu",
+    "paper_doi": "10.1145/3430036.3430059",
+    "date": "2020"
+  },
+  "university of aizu_ toyohashi university of technology_ 10.1145/3430036.3430059": {
+    "el1": "university of aizu",
+    "el2": "toyohashi university of technology",
+    "paper_doi": "10.1145/3430036.3430059",
+    "date": "2020"
+  },
+  "university of aizu_ akita university_ 10.1145/3430036.3430059": {
+    "el1": "university of aizu",
+    "el2": "akita university",
+    "paper_doi": "10.1145/3430036.3430059",
+    "date": "2020"
+  },
   "toyohashi university of technology_ akita university_ 10.1145/3430036.3430059": {
     "el1": "toyohashi university of technology",
     "el2": "akita university",
     "paper_doi": "10.1145/3430036.3430059",
     "date": "2020"
   },
-  "toyohashi university of technology_ university of aizu_ 10.1145/3430036.3430059": {
-    "el1": "toyohashi university of technology",
-    "el2": "university of aizu",
-    "paper_doi": "10.1145/3430036.3430059",
-    "date": "2020"
-  },
-  "akita university_ university of aizu_ 10.1145/3430036.3430059": {
-    "el1": "akita university",
-    "el2": "university of aizu",
-    "paper_doi": "10.1145/3430036.3430059",
+  "university of applied sciences_ university of applied sciences_ 10.1145/3430036.3430061": {
+    "el1": "university of applied sciences",
+    "el2": "university of applied sciences",
+    "paper_doi": "10.1145/3430036.3430061",
     "date": "2020"
   },
   "university of applied sciences_ Hochschule Reutlingen_ 10.1145/3430036.3430061": {
@@ -1637,28 +3431,154 @@
     "paper_doi": "10.1145/3430036.3430061",
     "date": "2020"
   },
+  "Hochschule Reutlingen_ Hochschule Reutlingen_ 10.1145/3430036.3430061": {
+    "el1": "Hochschule Reutlingen",
+    "el2": "Hochschule Reutlingen",
+    "paper_doi": "10.1145/3430036.3430061",
+    "date": "2020"
+  },
+  "aarhus university_ aarhus university_ 10.1145/3430036.3430042": {
+    "el1": "aarhus university",
+    "el2": "aarhus university",
+    "paper_doi": "10.1145/3430036.3430042",
+    "date": "2020"
+  },
+  "aalen university of applied sciences_ aalen university of applied sciences_ 10.1145/3430036.3430066": {
+    "el1": "aalen university of applied sciences",
+    "el2": "aalen university of applied sciences",
+    "paper_doi": "10.1145/3430036.3430066",
+    "date": "2020"
+  },
+  "eindhoven university of technology_ eindhoven university of technology_ 10.1145/3430036.3430043": {
+    "el1": "eindhoven university of technology",
+    "el2": "eindhoven university of technology",
+    "paper_doi": "10.1145/3430036.3430043",
+    "date": "2020"
+  },
+  "eindhoven university of technology_ eindhoven university of technology_ 10.1145/3430036.3430049": {
+    "el1": "eindhoven university of technology",
+    "el2": "eindhoven university of technology",
+    "paper_doi": "10.1145/3430036.3430049",
+    "date": "2020"
+  },
+  "Texas Tech University_ Texas Tech University_ 10.1145/3430036.3430071": {
+    "el1": "Texas Tech University",
+    "el2": "Texas Tech University",
+    "paper_doi": "10.1145/3430036.3430071",
+    "date": "2020"
+  },
+  "university of stuttgart_ university of stuttgart_ 10.1145/3430036.3430047": {
+    "el1": "university of stuttgart",
+    "el2": "university of stuttgart",
+    "paper_doi": "10.1145/3430036.3430047",
+    "date": "2020"
+  },
+  "university of potsdam_ university of potsdam_ 10.1145/3430036.3430045": {
+    "el1": "university of potsdam",
+    "el2": "university of potsdam",
+    "paper_doi": "10.1145/3430036.3430045",
+    "date": "2020"
+  },
+  "TU Delft_ TU Delft_ 10.1145/3430036.3430070": {
+    "el1": "TU Delft",
+    "el2": "TU Delft",
+    "paper_doi": "10.1145/3430036.3430070",
+    "date": "2020"
+  },
   "TU Delft_ tu delft and eindhoven university of technology_ 10.1145/3430036.3430070": {
     "el1": "TU Delft",
     "el2": "tu delft and eindhoven university of technology",
     "paper_doi": "10.1145/3430036.3430070",
     "date": "2020"
   },
-  "university of tokyo_ Tokyo Institute of Technology_ 10.1145/3430036.3430069": {
-    "el1": "university of tokyo",
+  "eindhoven university of technology_ eindhoven university of technology_ 10.1145/3430036.3430044": {
+    "el1": "eindhoven university of technology",
+    "el2": "eindhoven university of technology",
+    "paper_doi": "10.1145/3430036.3430044",
+    "date": "2020"
+  },
+  "Tokyo Institute of Technology_ university of tokyo_ 10.1145/3430036.3430069": {
+    "el1": "Tokyo Institute of Technology",
+    "el2": "university of tokyo",
+    "paper_doi": "10.1145/3430036.3430069",
+    "date": "2020"
+  },
+  "Tokyo Institute of Technology_ Tokyo Institute of Technology_ 10.1145/3430036.3430069": {
+    "el1": "Tokyo Institute of Technology",
     "el2": "Tokyo Institute of Technology",
     "paper_doi": "10.1145/3430036.3430069",
     "date": "2020"
   },
-  "Dell Inc_ Texas Tech University_ 10.1145/3430036.3430072": {
-    "el1": "Dell Inc",
+  "eindhoven university of technology_ eindhoven university of technology_ 10.1145/3430036.3430064": {
+    "el1": "eindhoven university of technology",
+    "el2": "eindhoven university of technology",
+    "paper_doi": "10.1145/3430036.3430064",
+    "date": "2020"
+  },
+  "central south university_ central south university_ 10.1145/3430036.3430068": {
+    "el1": "central south university",
+    "el2": "central south university",
+    "paper_doi": "10.1145/3430036.3430068",
+    "date": "2020"
+  },
+  "Eindhoven University of Technology_ Eindhoven University of Technology_ 10.1145/3430036.3430063": {
+    "el1": "Eindhoven University of Technology",
+    "el2": "Eindhoven University of Technology",
+    "paper_doi": "10.1145/3430036.3430063",
+    "date": "2020"
+  },
+  "university of potsdam_ university of potsdam_ 10.1145/3430036.3432753": {
+    "el1": "university of potsdam",
+    "el2": "university of potsdam",
+    "paper_doi": "10.1145/3430036.3432753",
+    "date": "2020"
+  },
+  "Texas Tech University_ Texas Tech University_ 10.1145/3430036.3430072": {
+    "el1": "Texas Tech University",
     "el2": "Texas Tech University",
     "paper_doi": "10.1145/3430036.3430072",
     "date": "2020"
   },
-  "Microsoft Research Asia_ School of Computer Science and Technology_ 10.1145/3356422.3356446": {
-    "el1": "Microsoft Research Asia",
+  "Texas Tech University_ Dell Inc_ 10.1145/3430036.3430072": {
+    "el1": "Texas Tech University",
+    "el2": "Dell Inc",
+    "paper_doi": "10.1145/3430036.3430072",
+    "date": "2020"
+  },
+  "Royal Danish Academy_ Royal Danish Academy_ 10.1145/3430036.3430073": {
+    "el1": "Royal Danish Academy",
+    "el2": "Royal Danish Academy",
+    "paper_doi": "10.1145/3430036.3430073",
+    "date": "2020"
+  },
+  "School of Computer Science and Technology_ Microsoft Research Asia_ 10.1145/3356422.3356446": {
+    "el1": "School of Computer Science and Technology",
+    "el2": "Microsoft Research Asia",
+    "paper_doi": "10.1145/3356422.3356446",
+    "date": "2019"
+  },
+  "School of Computer Science and Technology_ School of Computer Science and Technology_ 10.1145/3356422.3356446": {
+    "el1": "School of Computer Science and Technology",
     "el2": "School of Computer Science and Technology",
     "paper_doi": "10.1145/3356422.3356446",
+    "date": "2019"
+  },
+  "vienna university of technology_ vienna university of technology_ 10.1145/3356422.3356426": {
+    "el1": "vienna university of technology",
+    "el2": "vienna university of technology",
+    "paper_doi": "10.1145/3356422.3356426",
+    "date": "2019"
+  },
+  "information engineering university_ information engineering university_ 10.1145/3356422.3356431": {
+    "el1": "information engineering university",
+    "el2": "information engineering university",
+    "paper_doi": "10.1145/3356422.3356431",
+    "date": "2019"
+  },
+  "university of potsdam_ university of potsdam_ 10.1145/3356422.3356425": {
+    "el1": "university of potsdam",
+    "el2": "university of potsdam",
+    "paper_doi": "10.1145/3356422.3356425",
     "date": "2019"
   },
   "university of potsdam_ Targomo GmbH_ 10.1145/3356422.3356425": {
@@ -1667,33 +3587,57 @@
     "paper_doi": "10.1145/3356422.3356425",
     "date": "2019"
   },
-  "Royal College of Arts_ University of Konstanz_ 10.1145/3356422.3356450": {
-    "el1": "Royal College of Arts",
+  "Targomo GmbH_ Targomo GmbH_ 10.1145/3356422.3356425": {
+    "el1": "Targomo GmbH",
+    "el2": "Targomo GmbH",
+    "paper_doi": "10.1145/3356422.3356425",
+    "date": "2019"
+  },
+  "eindhoven university of technology_ eindhoven university of technology_ 10.1145/3356422.3356423": {
+    "el1": "eindhoven university of technology",
+    "el2": "eindhoven university of technology",
+    "paper_doi": "10.1145/3356422.3356423",
+    "date": "2019"
+  },
+  "University of Konstanz_ University of Konstanz_ 10.1145/3356422.3356450": {
+    "el1": "University of Konstanz",
     "el2": "University of Konstanz",
     "paper_doi": "10.1145/3356422.3356450",
     "date": "2019"
   },
-  "Chinese Academy of Sciences_ chinese academy of sciences and university of chinese academy of sciencess_ 10.1145/3356422.3356430": {
-    "el1": "Chinese Academy of Sciences",
-    "el2": "chinese academy of sciences and university of chinese academy of sciencess",
+  "University of Konstanz_ Royal College of Arts_ 10.1145/3356422.3356450": {
+    "el1": "University of Konstanz",
+    "el2": "Royal College of Arts",
+    "paper_doi": "10.1145/3356422.3356450",
+    "date": "2019"
+  },
+  "Shanghai Hanjie Science and Technology Development Co_ Shanghai Hanjie Science and Technology Development Co_ 10.1145/3356422.3356424": {
+    "el1": "Shanghai Hanjie Science and Technology Development Co",
+    "el2": "Shanghai Hanjie Science and Technology Development Co",
+    "paper_doi": "10.1145/3356422.3356424",
+    "date": "2019"
+  },
+  "university of potsdam_ university of potsdam_ 10.1145/3356422.3356444": {
+    "el1": "university of potsdam",
+    "el2": "university of potsdam",
+    "paper_doi": "10.1145/3356422.3356444",
+    "date": "2019"
+  },
+  "chinese academy of sciences and university of chinese academy of sciencess_ Chinese Academy of Sciences_ 10.1145/3356422.3356430": {
+    "el1": "chinese academy of sciences and university of chinese academy of sciencess",
+    "el2": "Chinese Academy of Sciences",
     "paper_doi": "10.1145/3356422.3356430",
     "date": "2019"
   },
-  "university of texas_ tianjin university_ 10.1145/3356422.3356449": {
-    "el1": "university of texas",
+  "Chinese Academy of Sciences_ Chinese Academy of Sciences_ 10.1145/3356422.3356430": {
+    "el1": "Chinese Academy of Sciences",
+    "el2": "Chinese Academy of Sciences",
+    "paper_doi": "10.1145/3356422.3356430",
+    "date": "2019"
+  },
+  "tianjin university_ tianjin university_ 10.1145/3356422.3356449": {
+    "el1": "tianjin university",
     "el2": "tianjin university",
-    "paper_doi": "10.1145/3356422.3356449",
-    "date": "2019"
-  },
-  "university of texas_ technology and business university_ 10.1145/3356422.3356449": {
-    "el1": "university of texas",
-    "el2": "technology and business university",
-    "paper_doi": "10.1145/3356422.3356449",
-    "date": "2019"
-  },
-  "university of texas_ university of science and technology of china_ 10.1145/3356422.3356449": {
-    "el1": "university of texas",
-    "el2": "university of science and technology of china",
     "paper_doi": "10.1145/3356422.3356449",
     "date": "2019"
   },
@@ -1703,9 +3647,21 @@
     "paper_doi": "10.1145/3356422.3356449",
     "date": "2019"
   },
+  "tianjin university_ university of texas_ 10.1145/3356422.3356449": {
+    "el1": "tianjin university",
+    "el2": "university of texas",
+    "paper_doi": "10.1145/3356422.3356449",
+    "date": "2019"
+  },
   "tianjin university_ university of science and technology of china_ 10.1145/3356422.3356449": {
     "el1": "tianjin university",
     "el2": "university of science and technology of china",
+    "paper_doi": "10.1145/3356422.3356449",
+    "date": "2019"
+  },
+  "technology and business university_ university of texas_ 10.1145/3356422.3356449": {
+    "el1": "technology and business university",
+    "el2": "university of texas",
     "paper_doi": "10.1145/3356422.3356449",
     "date": "2019"
   },
@@ -1715,40 +3671,64 @@
     "paper_doi": "10.1145/3356422.3356449",
     "date": "2019"
   },
+  "university of texas_ university of science and technology of china_ 10.1145/3356422.3356449": {
+    "el1": "university of texas",
+    "el2": "university of science and technology of china",
+    "paper_doi": "10.1145/3356422.3356449",
+    "date": "2019"
+  },
+  "hunan university_ hunan university_ 10.1145/3356422.3356441": {
+    "el1": "hunan university",
+    "el2": "hunan university",
+    "paper_doi": "10.1145/3356422.3356441",
+    "date": "2019"
+  },
+  "east china normal university_ university of techonlogy sydney_ 10.1145/3356422.3356429": {
+    "el1": "east china normal university",
+    "el2": "university of techonlogy sydney",
+    "paper_doi": "10.1145/3356422.3356429",
+    "date": "2019"
+  },
+  "east china normal university_ east china normal university_ 10.1145/3356422.3356429": {
+    "el1": "east china normal university",
+    "el2": "east china normal university",
+    "paper_doi": "10.1145/3356422.3356429",
+    "date": "2019"
+  },
+  "east china normal university_ Shanghai Chinafortune Co_ 10.1145/3356422.3356429": {
+    "el1": "east china normal university",
+    "el2": "Shanghai Chinafortune Co",
+    "paper_doi": "10.1145/3356422.3356429",
+    "date": "2019"
+  },
+  "east china normal university_ ChengShu Information Technology_ 10.1145/3356422.3356429": {
+    "el1": "east china normal university",
+    "el2": "ChengShu Information Technology",
+    "paper_doi": "10.1145/3356422.3356429",
+    "date": "2019"
+  },
+  "university of techonlogy sydney_ Shanghai Chinafortune Co_ 10.1145/3356422.3356429": {
+    "el1": "university of techonlogy sydney",
+    "el2": "Shanghai Chinafortune Co",
+    "paper_doi": "10.1145/3356422.3356429",
+    "date": "2019"
+  },
+  "university of techonlogy sydney_ ChengShu Information Technology_ 10.1145/3356422.3356429": {
+    "el1": "university of techonlogy sydney",
+    "el2": "ChengShu Information Technology",
+    "paper_doi": "10.1145/3356422.3356429",
+    "date": "2019"
+  },
   "Shanghai Chinafortune Co_ ChengShu Information Technology_ 10.1145/3356422.3356429": {
     "el1": "Shanghai Chinafortune Co",
     "el2": "ChengShu Information Technology",
     "paper_doi": "10.1145/3356422.3356429",
     "date": "2019"
   },
-  "Shanghai Chinafortune Co_ university of techonlogy sydney_ 10.1145/3356422.3356429": {
-    "el1": "Shanghai Chinafortune Co",
-    "el2": "university of techonlogy sydney",
-    "paper_doi": "10.1145/3356422.3356429",
-    "date": "2019"
-  },
-  "Shanghai Chinafortune Co_ east china normal university_ 10.1145/3356422.3356429": {
-    "el1": "Shanghai Chinafortune Co",
-    "el2": "east china normal university",
-    "paper_doi": "10.1145/3356422.3356429",
-    "date": "2019"
-  },
-  "ChengShu Information Technology_ university of techonlogy sydney_ 10.1145/3356422.3356429": {
-    "el1": "ChengShu Information Technology",
-    "el2": "university of techonlogy sydney",
-    "paper_doi": "10.1145/3356422.3356429",
-    "date": "2019"
-  },
-  "ChengShu Information Technology_ east china normal university_ 10.1145/3356422.3356429": {
-    "el1": "ChengShu Information Technology",
-    "el2": "east china normal university",
-    "paper_doi": "10.1145/3356422.3356429",
-    "date": "2019"
-  },
-  "university of techonlogy sydney_ east china normal university_ 10.1145/3356422.3356429": {
-    "el1": "university of techonlogy sydney",
-    "el2": "east china normal university",
-    "paper_doi": "10.1145/3356422.3356429",
+  "University of Konstanz_ University of Konstanz_ 10.1145/3356422.3356435": {
+    "el1": "University of Konstanz",
+    "el2": "University of Konstanz",
+    "paper_doi": "10.1145/3356422.3356435",
     "date": "2019"
   },
   "University of Konstanz_ Department Evolutionary Ecology_ 10.1145/3356422.3356435": {
@@ -1757,51 +3737,105 @@
     "paper_doi": "10.1145/3356422.3356435",
     "date": "2019"
   },
-  "university of wuppertal_ engineering rwth aachen university_ 10.1145/3356422.3356434": {
-    "el1": "university of wuppertal",
-    "el2": "engineering rwth aachen university",
+  "Department Evolutionary Ecology_ Department Evolutionary Ecology_ 10.1145/3356422.3356435": {
+    "el1": "Department Evolutionary Ecology",
+    "el2": "Department Evolutionary Ecology",
+    "paper_doi": "10.1145/3356422.3356435",
+    "date": "2019"
+  },
+  "eindhoven university of technology_ eindhoven university of technology_ 10.1145/3356422.3356447": {
+    "el1": "eindhoven university of technology",
+    "el2": "eindhoven university of technology",
+    "paper_doi": "10.1145/3356422.3356447",
+    "date": "2019"
+  },
+  "zhejiang university_ zhejiang university_ 10.1145/3356422.3356427": {
+    "el1": "zhejiang university",
+    "el2": "zhejiang university",
+    "paper_doi": "10.1145/3356422.3356427",
+    "date": "2019"
+  },
+  "engineering rwth aachen university_ university of wuppertal_ 10.1145/3356422.3356434": {
+    "el1": "engineering rwth aachen university",
+    "el2": "university of wuppertal",
     "paper_doi": "10.1145/3356422.3356434",
     "date": "2019"
   },
-  "university of eastern finland_ Karlsruhe Institut für Technologie_ 10.1145/3356422.3356437": {
-    "el1": "university of eastern finland",
+  "university of louisville_ university of louisville_ 10.1145/3356422.3356438": {
+    "el1": "university of louisville",
+    "el2": "university of louisville",
+    "paper_doi": "10.1145/3356422.3356438",
+    "date": "2019"
+  },
+  "university of potsdam_ university of potsdam_ 10.1145/3356422.3356445": {
+    "el1": "university of potsdam",
+    "el2": "university of potsdam",
+    "paper_doi": "10.1145/3356422.3356445",
+    "date": "2019"
+  },
+  "national university of defense technology_ national university of defense technology_ 10.1145/3356422.3356442": {
+    "el1": "national university of defense technology",
+    "el2": "national university of defense technology",
+    "paper_doi": "10.1145/3356422.3356442",
+    "date": "2019"
+  },
+  "qufu normal university_ qufu normal university_ 10.1145/3356422.3356428": {
+    "el1": "qufu normal university",
+    "el2": "qufu normal university",
+    "paper_doi": "10.1145/3356422.3356428",
+    "date": "2019"
+  },
+  "information engineering university_ information engineering university_ 10.1145/3356422.3356432": {
+    "el1": "information engineering university",
+    "el2": "information engineering university",
+    "paper_doi": "10.1145/3356422.3356432",
+    "date": "2019"
+  },
+  "beijing normal university_ beijing normal university_ 10.1145/3356422.3356436": {
+    "el1": "beijing normal university",
+    "el2": "beijing normal university",
+    "paper_doi": "10.1145/3356422.3356436",
+    "date": "2019"
+  },
+  "chalmers university of technology_ LMU Munich_ 10.1145/3356422.3356437": {
+    "el1": "chalmers university of technology",
+    "el2": "LMU Munich",
+    "paper_doi": "10.1145/3356422.3356437",
+    "date": "2019"
+  },
+  "chalmers university of technology_ Karlsruhe Institut für Technologie_ 10.1145/3356422.3356437": {
+    "el1": "chalmers university of technology",
     "el2": "Karlsruhe Institut für Technologie",
     "paper_doi": "10.1145/3356422.3356437",
     "date": "2019"
   },
-  "university of eastern finland_ LMU Munich_ 10.1145/3356422.3356437": {
-    "el1": "university of eastern finland",
-    "el2": "LMU Munich",
+  "chalmers university of technology_ university of eastern finland_ 10.1145/3356422.3356437": {
+    "el1": "chalmers university of technology",
+    "el2": "university of eastern finland",
     "paper_doi": "10.1145/3356422.3356437",
     "date": "2019"
   },
-  "university of eastern finland_ chalmers university of technology gothenburg_ 10.1145/3356422.3356437": {
-    "el1": "university of eastern finland",
-    "el2": "chalmers university of technology gothenburg",
-    "paper_doi": "10.1145/3356422.3356437",
-    "date": "2019"
-  },
-  "university of eastern finland_ chalmers university of technology_ 10.1145/3356422.3356437": {
-    "el1": "university of eastern finland",
+  "chalmers university of technology_ chalmers university of technology_ 10.1145/3356422.3356437": {
+    "el1": "chalmers university of technology",
     "el2": "chalmers university of technology",
     "paper_doi": "10.1145/3356422.3356437",
     "date": "2019"
   },
-  "Karlsruhe Institut für Technologie_ LMU Munich_ 10.1145/3356422.3356437": {
-    "el1": "Karlsruhe Institut für Technologie",
-    "el2": "LMU Munich",
-    "paper_doi": "10.1145/3356422.3356437",
-    "date": "2019"
-  },
-  "Karlsruhe Institut für Technologie_ chalmers university of technology gothenburg_ 10.1145/3356422.3356437": {
-    "el1": "Karlsruhe Institut für Technologie",
+  "chalmers university of technology_ chalmers university of technology gothenburg_ 10.1145/3356422.3356437": {
+    "el1": "chalmers university of technology",
     "el2": "chalmers university of technology gothenburg",
     "paper_doi": "10.1145/3356422.3356437",
     "date": "2019"
   },
-  "Karlsruhe Institut für Technologie_ chalmers university of technology_ 10.1145/3356422.3356437": {
-    "el1": "Karlsruhe Institut für Technologie",
-    "el2": "chalmers university of technology",
+  "LMU Munich_ Karlsruhe Institut für Technologie_ 10.1145/3356422.3356437": {
+    "el1": "LMU Munich",
+    "el2": "Karlsruhe Institut für Technologie",
+    "paper_doi": "10.1145/3356422.3356437",
+    "date": "2019"
+  },
+  "LMU Munich_ university of eastern finland_ 10.1145/3356422.3356437": {
+    "el1": "LMU Munich",
+    "el2": "university of eastern finland",
     "paper_doi": "10.1145/3356422.3356437",
     "date": "2019"
   },
@@ -1811,28 +3845,106 @@
     "paper_doi": "10.1145/3356422.3356437",
     "date": "2019"
   },
-  "LMU Munich_ chalmers university of technology_ 10.1145/3356422.3356437": {
-    "el1": "LMU Munich",
-    "el2": "chalmers university of technology",
+  "Karlsruhe Institut für Technologie_ university of eastern finland_ 10.1145/3356422.3356437": {
+    "el1": "Karlsruhe Institut für Technologie",
+    "el2": "university of eastern finland",
     "paper_doi": "10.1145/3356422.3356437",
     "date": "2019"
   },
-  "chalmers university of technology gothenburg_ chalmers university of technology_ 10.1145/3356422.3356437": {
-    "el1": "chalmers university of technology gothenburg",
-    "el2": "chalmers university of technology",
+  "Karlsruhe Institut für Technologie_ chalmers university of technology gothenburg_ 10.1145/3356422.3356437": {
+    "el1": "Karlsruhe Institut für Technologie",
+    "el2": "chalmers university of technology gothenburg",
     "paper_doi": "10.1145/3356422.3356437",
     "date": "2019"
   },
-  "university of texas_ tianjin university_ 10.1145/3356422.3356453": {
-    "el1": "university of texas",
+  "university of eastern finland_ chalmers university of technology gothenburg_ 10.1145/3356422.3356437": {
+    "el1": "university of eastern finland",
+    "el2": "chalmers university of technology gothenburg",
+    "paper_doi": "10.1145/3356422.3356437",
+    "date": "2019"
+  },
+  "hohai university_ hohai university_ 10.1145/3356422.3356443": {
+    "el1": "hohai university",
+    "el2": "hohai university",
+    "paper_doi": "10.1145/3356422.3356443",
+    "date": "2019"
+  },
+  "shanghai jiao tong university_ shanghai jiao tong university_ 10.1145/3356422.3356448": {
+    "el1": "shanghai jiao tong university",
+    "el2": "shanghai jiao tong university",
+    "paper_doi": "10.1145/3356422.3356448",
+    "date": "2019"
+  },
+  "communication university of china_ communication university of china_ 10.1145/3356422.3356451": {
+    "el1": "communication university of china",
+    "el2": "communication university of china",
+    "paper_doi": "10.1145/3356422.3356451",
+    "date": "2019"
+  },
+  "tongji university_ tongji university_ 10.1145/3356422.3356452": {
+    "el1": "tongji university",
+    "el2": "tongji university",
+    "paper_doi": "10.1145/3356422.3356452",
+    "date": "2019"
+  },
+  "tianjin university_ tianjin university_ 10.1145/3356422.3356453": {
+    "el1": "tianjin university",
     "el2": "tianjin university",
     "paper_doi": "10.1145/3356422.3356453",
     "date": "2019"
   },
-  "tongji university shanghai_ tongji university_ 10.1145/3356422.3356456": {
-    "el1": "tongji university shanghai",
+  "tianjin university_ university of texas_ 10.1145/3356422.3356453": {
+    "el1": "tianjin university",
+    "el2": "university of texas",
+    "paper_doi": "10.1145/3356422.3356453",
+    "date": "2019"
+  },
+  "tongji university_ tongji university_ 10.1145/3356422.3356455": {
+    "el1": "tongji university",
+    "el2": "tongji university",
+    "paper_doi": "10.1145/3356422.3356455",
+    "date": "2019"
+  },
+  "tongji university_ tongji university_ 10.1145/3356422.3356456": {
+    "el1": "tongji university",
     "el2": "tongji university",
     "paper_doi": "10.1145/3356422.3356456",
+    "date": "2019"
+  },
+  "tongji university_ tongji university shanghai_ 10.1145/3356422.3356456": {
+    "el1": "tongji university",
+    "el2": "tongji university shanghai",
+    "paper_doi": "10.1145/3356422.3356456",
+    "date": "2019"
+  },
+  "east china university of science and technology_ east china university of science and technology_ 10.1145/3356422.3356457": {
+    "el1": "east china university of science and technology",
+    "el2": "east china university of science and technology",
+    "paper_doi": "10.1145/3356422.3356457",
+    "date": "2019"
+  },
+  "east china university of science and technology_ east china university of science and technology_ 10.1145/3356422.3356458": {
+    "el1": "east china university of science and technology",
+    "el2": "east china university of science and technology",
+    "paper_doi": "10.1145/3356422.3356458",
+    "date": "2019"
+  },
+  "east china university of science and technology_ east china university of science and technology_ 10.1145/3356422.3356459": {
+    "el1": "east china university of science and technology",
+    "el2": "east china university of science and technology",
+    "paper_doi": "10.1145/3356422.3356459",
+    "date": "2019"
+  },
+  "east china university of science and technology_ east china university of science and technology_ 10.1145/3356422.3356460": {
+    "el1": "east china university of science and technology",
+    "el2": "east china university of science and technology",
+    "paper_doi": "10.1145/3356422.3356460",
+    "date": "2019"
+  },
+  "east china university of science and technology_ east china university of science and technology_ 10.1145/3356422.3356461": {
+    "el1": "east china university of science and technology",
+    "el2": "east china university of science and technology",
+    "paper_doi": "10.1145/3356422.3356461",
     "date": "2019"
   }
 }

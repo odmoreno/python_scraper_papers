@@ -27,7 +27,7 @@ Dongxing Teng,Guozhong Dai,4
 Dongxing Teng,Qian Li,1
 Guozhong Dai,Qian Li,1
 Jiawan Zhang,Yuan Wen,1
-Jiawan Zhang,Quang Vinh Nguyen,1
+Quang Vinh Nguyen,Jiawan Zhang,2
 Jiawan Zhang,Liang Fu Lu,2
 Jiawan Zhang,Mao Lin Huang,1
 Jiawan Zhang,Jiadong Yang,1
@@ -173,13 +173,13 @@ Wei Liu,Feng Tian,1
 Wei Liu,Guozhong Dai,1
 Wei Liu,Hong'an Wang,1
 Feng Tian,Hong'an Wang,2
-Guozhong Dai,Hong'an Wang,2
+Guozhong Dai,Hong'an Wang,3
 Yi Du,Cui-Xia Ma,1
 Yi Du,Dongxing Teng,1
 Yi Du,Guozhong Dai,2
 Cui-Xia Ma,Dongxing Teng,1
 Cui-Xia Ma,Guozhong Dai,1
-Quang Vinh Nguyen,Simeon J Simoff,1
+Simeon J Simoff,Quang Vinh Nguyen,2
 Quang Vinh Nguyen,Maolin Huang,3
 Simeon J Simoff,Maolin Huang,2
 Shijian Lu,CÉcile Laurance Paris,1
@@ -216,7 +216,6 @@ Zhirong Zeng,Guozhong Dai,1
 Kun Wang,Dongxing Teng,1
 Kun Wang,Hong'an Wang,1
 Kun Wang,Guozhong Dai,1
-Hong'an Wang,Guozhong Dai,1
 Yuri Saito,Takayuki Itoh,1
 Yasuhiko Sota,Keisuke Yamamoto,1
 Yasuhiko Sota,Masahito Hirakawa,1
@@ -249,7 +248,7 @@ Ying Qiao,Hong'an Wang,1
 Jiawan Zhang,Yi Zhang,1
 Jiawan Zhang,Lei Fu,1
 Jiawan Zhang,Qinghui Guo,1
-Jiawan Zhang,Maolin Huang,1
+Maolin Huang,Jiawan Zhang,2
 Yi Zhang,Lei Fu,1
 Yi Zhang,Qinghui Guo,1
 Yi Zhang,Maolin Huang,1
@@ -309,21 +308,19 @@ Lei Shi,Chuang Lin,1
 Jared Shenson,Alark Joshi,1
 Xiaojuan Liu,Xia Lin,1
 Tuannhon Dang,Leland K Wilkinson,1
-Li Yu,Aidong Lu,1
+Aidong Lu,Li Yu,2
 Li Yu,Weri Chen,1
 Aidong Lu,Weri Chen,1
 Quang Vinh Nguyen,Yu Qian,1
-Quang Vinh Nguyen,Jiawan Zhang,1
 Yu Qian,Maolin Huang,1
 Yu Qian,Jiawan Zhang,1
-Maolin Huang,Jiawan Zhang,1
 Zhao Xiao,Changbo Wang,1
 Zhao Xiao,Peng Ye,1
 Zhao Xiao,Yuhua Liu,1
 Zhao Xiao,Chenming Pang,1
 Changbo Wang,Changbo Wang,1
 Changbo Wang,Peng Ye,1
-Changbo Wang,Yuhua Liu,1
+Yuhua Liu,Changbo Wang,2
 Changbo Wang,Chenming Pang,1
 Peng Ye,Yuhua Liu,1
 Peng Ye,Chenming Pang,1
@@ -345,7 +342,6 @@ Lane T Harrison,Aidong Lu,1
 Lane T Harrison,Li Yu,1
 Lane T Harrison,Huaguang Song,1
 Lane T Harrison,Jinzhu Gao,1
-Aidong Lu,Li Yu,1
 Aidong Lu,Huaguang Song,1
 Aidong Lu,Jinzhu Gao,1
 Li Yu,Huaguang Song,1
@@ -360,7 +356,7 @@ Jiang Jian,Xianjunsam Zheng,1
 Jiang Jian,Zaijia Liu,1
 Jiang Jian,Guanmin Liu,1
 Jiang Jian,Kaiping Peng,1
-Xianjunsam Zheng,Zaijia Liu,1
+Zaijia Liu,Xianjunsam Zheng,2
 Xianjunsam Zheng,Guanmin Liu,1
 Xianjunsam Zheng,Kaiping Peng,2
 Zaijia Liu,Guanmin Liu,1
@@ -389,7 +385,7 @@ Yangyang Fu,Hujie Huang,1
 Yangyang Fu,Hongyuan Fang,1
 Hujie Huang,Hongyuan Fang,1
 Mofei Song,Feiqian Zhang,1
-Mofei Song,Zhengxing Sun,1
+Zhengxing Sun,Mofei Song,2
 Mofei Song,Yan Zhang,1
 Feiqian Zhang,Zhengxing Sun,1
 Feiqian Zhang,Yan Zhang,1
@@ -414,8 +410,6 @@ Abhishek P Chhetri,Eakta Jain,1
 K. Zhang,Eakta Jain,1
 Chenghai Zhang,Yuhua Liu,1
 Chenghai Zhang,Changbo Wang,1
-Yuhua Liu,Changbo Wang,1
-Zaijia Liu,Xianjunsam Zheng,1
 Zaijia Liu,Mingyang Wu,1
 Zaijia Liu,Rui Dong,1
 Xianjunsam Zheng,Mingyang Wu,1
@@ -426,7 +420,6 @@ Rui Dong,Kaiping Peng,1
 Jie Liang,Simeon J Simoff,1
 Jie Liang,Quang Vinh Nguyen,1
 Jie Liang,Maolin Huang,1
-Simeon J Simoff,Quang Vinh Nguyen,1
 Rossella Aiello,Giancarlo Nota,1
 Rossella Aiello,Gennaro Costagliola,1
 Rossella Aiello,Fabrizio Torre,1
@@ -447,7 +440,6 @@ Andrew Fish,Vittorio Fuccella,1
 Chenxi Li,Zhengxing Sun,1
 Chenxi Li,Mofei Song,1
 Chenxi Li,Yejia Zhang,1
-Zhengxing Sun,Mofei Song,1
 Zhengxing Sun,Yejia Zhang,1
 Mofei Song,Yejia Zhang,1
 Tianyang Liu,Fatma Bouali,1

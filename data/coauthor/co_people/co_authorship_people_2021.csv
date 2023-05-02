@@ -27,7 +27,7 @@ Dongxing Teng,Guozhong Dai,4
 Dongxing Teng,Qian Li,1
 Guozhong Dai,Qian Li,1
 Jiawan Zhang,Yuan Wen,1
-Jiawan Zhang,Quang Vinh Nguyen,1
+Quang Vinh Nguyen,Jiawan Zhang,2
 Jiawan Zhang,Liang Fu Lu,2
 Jiawan Zhang,Mao Lin Huang,1
 Jiawan Zhang,Jiadong Yang,1
@@ -173,14 +173,14 @@ Wei Liu,Feng Tian,1
 Wei Liu,Guozhong Dai,1
 Wei Liu,Hong'an Wang,1
 Feng Tian,Hong'an Wang,2
-Guozhong Dai,Hong'an Wang,2
+Guozhong Dai,Hong'an Wang,3
 Yi Du,Cui-Xia Ma,1
 Yi Du,Dongxing Teng,1
 Yi Du,Guozhong Dai,2
 Cui-Xia Ma,Dongxing Teng,1
 Cui-Xia Ma,Guozhong Dai,1
-Quang Vinh Nguyen,Simeon J Simoff,3
-Quang Vinh Nguyen,Maolin Huang,4
+Quang Vinh Nguyen,Simeon J Simoff,4
+Quang Vinh Nguyen,Maolin Huang,5
 Simeon J Simoff,Maolin Huang,3
 Shijian Lu,CÉcile Laurance Paris,1
 Liang Gou,Shaoke Zhang,1
@@ -216,7 +216,6 @@ Zhirong Zeng,Guozhong Dai,1
 Kun Wang,Dongxing Teng,1
 Kun Wang,Hong'an Wang,1
 Kun Wang,Guozhong Dai,1
-Hong'an Wang,Guozhong Dai,1
 Yuri Saito,Takayuki Itoh,1
 Yasuhiko Sota,Keisuke Yamamoto,1
 Yasuhiko Sota,Masahito Hirakawa,1
@@ -249,7 +248,7 @@ Ying Qiao,Hong'an Wang,1
 Jiawan Zhang,Yi Zhang,1
 Jiawan Zhang,Lei Fu,1
 Jiawan Zhang,Qinghui Guo,1
-Jiawan Zhang,Maolin Huang,1
+Maolin Huang,Jiawan Zhang,2
 Yi Zhang,Lei Fu,1
 Yi Zhang,Qinghui Guo,1
 Yi Zhang,Maolin Huang,1
@@ -288,7 +287,7 @@ Jing Fan,Ying Tang,1
 Xiaoying Shi,Zhan Zhou,1
 Xiaoying Shi,Ying Tang,1
 Zhan Zhou,Ying Tang,1
-Ying Zhao,Fangfang Zhou,1
+Fangfang Zhou,Ying Zhao,4
 Ying Zhao,Xiaoping Fan,1
 Fangfang Zhou,Xiaoping Fan,1
 Zhifang Jiang,Shenghui Cheng,2
@@ -309,21 +308,19 @@ Lei Shi,Chuang Lin,1
 Jared Shenson,Alark Joshi,1
 Xiaojuan Liu,Xia Lin,1
 Tuannhon Dang,Leland K Wilkinson,1
-Li Yu,Aidong Lu,1
+Aidong Lu,Li Yu,2
 Li Yu,Weri Chen,1
 Aidong Lu,Weri Chen,1
 Quang Vinh Nguyen,Yu Qian,2
-Quang Vinh Nguyen,Jiawan Zhang,1
 Yu Qian,Maolin Huang,2
 Yu Qian,Jiawan Zhang,1
-Maolin Huang,Jiawan Zhang,1
 Zhao Xiao,Changbo Wang,1
 Zhao Xiao,Peng Ye,1
 Zhao Xiao,Yuhua Liu,1
 Zhao Xiao,Chenming Pang,1
 Changbo Wang,Changbo Wang,1
-Changbo Wang,Peng Ye,1
-Changbo Wang,Yuhua Liu,2
+Peng Ye,Changbo Wang,2
+Changbo Wang,Yuhua Liu,5
 Changbo Wang,Chenming Pang,1
 Peng Ye,Yuhua Liu,1
 Peng Ye,Chenming Pang,1
@@ -345,7 +342,6 @@ Lane T Harrison,Aidong Lu,1
 Lane T Harrison,Li Yu,1
 Lane T Harrison,Huaguang Song,1
 Lane T Harrison,Jinzhu Gao,1
-Aidong Lu,Li Yu,1
 Aidong Lu,Huaguang Song,1
 Aidong Lu,Jinzhu Gao,1
 Li Yu,Huaguang Song,1
@@ -360,7 +356,7 @@ Jiang Jian,Xianjunsam Zheng,1
 Jiang Jian,Zaijia Liu,1
 Jiang Jian,Guanmin Liu,1
 Jiang Jian,Kaiping Peng,1
-Xianjunsam Zheng,Zaijia Liu,1
+Zaijia Liu,Xianjunsam Zheng,2
 Xianjunsam Zheng,Guanmin Liu,1
 Xianjunsam Zheng,Kaiping Peng,2
 Zaijia Liu,Guanmin Liu,1
@@ -389,7 +385,7 @@ Yangyang Fu,Hujie Huang,1
 Yangyang Fu,Hongyuan Fang,1
 Hujie Huang,Hongyuan Fang,1
 Mofei Song,Feiqian Zhang,1
-Mofei Song,Zhengxing Sun,1
+Zhengxing Sun,Mofei Song,2
 Mofei Song,Yan Zhang,1
 Feiqian Zhang,Zhengxing Sun,1
 Feiqian Zhang,Yan Zhang,1
@@ -414,8 +410,6 @@ Abhishek P Chhetri,Eakta Jain,1
 K. Zhang,Eakta Jain,1
 Chenghai Zhang,Yuhua Liu,1
 Chenghai Zhang,Changbo Wang,1
-Yuhua Liu,Changbo Wang,3
-Zaijia Liu,Xianjunsam Zheng,1
 Zaijia Liu,Mingyang Wu,1
 Zaijia Liu,Rui Dong,1
 Xianjunsam Zheng,Mingyang Wu,1
@@ -426,7 +420,6 @@ Rui Dong,Kaiping Peng,1
 Jie Liang,Simeon J Simoff,1
 Jie Liang,Quang Vinh Nguyen,1
 Jie Liang,Maolin Huang,1
-Simeon J Simoff,Quang Vinh Nguyen,1
 Rossella Aiello,Giancarlo Nota,1
 Rossella Aiello,Gennaro Costagliola,1
 Rossella Aiello,Fabrizio Torre,1
@@ -447,7 +440,6 @@ Andrew Fish,Vittorio Fuccella,1
 Chenxi Li,Zhengxing Sun,1
 Chenxi Li,Mofei Song,1
 Chenxi Li,Yejia Zhang,1
-Zhengxing Sun,Mofei Song,1
 Zhengxing Sun,Yejia Zhang,1
 Mofei Song,Yejia Zhang,1
 Tianyang Liu,Fatma Bouali,1
@@ -478,7 +470,6 @@ Cheryl Jorcyk,Alark Joshi,1
 Tze Haw Huang,Maolin Huang,1
 Tze Haw Huang,Quang Vinh Nguyen,1
 Tze Haw Huang,Laiping Zhao,1
-Maolin Huang,Quang Vinh Nguyen,1
 Maolin Huang,Laiping Zhao,1
 Quang Vinh Nguyen,Laiping Zhao,1
 Michael Burch,Daniel Weiskopf,2
@@ -488,7 +479,7 @@ Gao Yi,Kazuyo Mizuno,1
 Gao Yi,Shigeo Takahashi,1
 Hsiangyun Wu,Kazuo Misue,1
 Hsiangyun Wu,Kazuyo Mizuno,1
-Hsiangyun Wu,Shigeo Takahashi,1
+Shigeo Takahashi,Hsiangyun Wu,2
 Kazuo Misue,Kazuyo Mizuno,1
 Kazuo Misue,Shigeo Takahashi,1
 Kazuyo Mizuno,Shigeo Takahashi,1
@@ -589,7 +580,7 @@ Susmitha Pulakhandam,T S Ashwin,1
 Susmitha Pulakhandam,Geereddy Ram Mohana Reddy,1
 Subhayan Mukherjee,T S Ashwin,1
 Subhayan Mukherjee,Geereddy Ram Mohana Reddy,1
-T S Ashwin,Geereddy Ram Mohana Reddy,2
+Geereddy Ram Mohana Reddy,T S Ashwin,3
 Mengyao Chen,Cong Chen,1
 Mengyao Chen,Shuqing Liu,1
 Mengyao Chen,K. Zhang,1
@@ -603,7 +594,7 @@ Juanzi Li,Xiaoli Ma,1
 Ruibing Yang,Xiaoli Ma,1
 Priyamvada Tiwari,Keyur Sorathia,1
 Joris Suppers,Mark D Apperley,1
-Andrew Blake,Gem Stapleton,1
+Gem Stapleton,Andrew Blake,2
 Andrew Blake,Peter J Rodgers,1
 Andrew Blake,John Howse,1
 Gem Stapleton,Peter J Rodgers,2
@@ -636,8 +627,8 @@ Aarti Prabhu,Geereddy Ram Mohana Reddy,1
 S D Deeksha,Shridhar G Domanal,1
 S D Deeksha,T S Ashwin,1
 S D Deeksha,Geereddy Ram Mohana Reddy,1
-Shridhar G Domanal,T S Ashwin,1
-Shridhar G Domanal,Geereddy Ram Mohana Reddy,1
+T S Ashwin,Shridhar G Domanal,2
+Geereddy Ram Mohana Reddy,Shridhar G Domanal,2
 Dylan Mathiesen,Trina S Myers,1
 Dylan Mathiesen,Ian M Atkinson,1
 Andrew Bennett,Christopher Lueg,1
@@ -670,9 +661,6 @@ H R Pruthvi,Shridhar G Domanal,1
 Shwetha N Hadimani,Geereddy Ram Mohana Reddy,1
 Shwetha N Hadimani,T S Ashwin,1
 Shwetha N Hadimani,Shridhar G Domanal,1
-Geereddy Ram Mohana Reddy,T S Ashwin,1
-Geereddy Ram Mohana Reddy,Shridhar G Domanal,1
-T S Ashwin,Shridhar G Domanal,1
 Madhawa Gunasekara,Anuja T Dharmaratne,1
 Madhawa Gunasekara,Damitha Sandaruwan,1
 Anuja T Dharmaratne,Damitha Sandaruwan,1
@@ -697,7 +685,7 @@ Nobuo Ezaki,Shinji Mizuno,1
 Christoph Müller,Guido Reina,2
 Christoph Müller,Thomas Ertl,3
 Guido Reina,Thomas Ertl,3
-Michael Krone,Christoph Müller,1
+Christoph Müller,Michael Krone,2
 Michael Krone,Thomas Ertl,2
 Alexandros Panagiotidis,Guido Reina,1
 Alexandros Panagiotidis,Michael Burch,1
@@ -746,13 +734,12 @@ Cui-Xia Ma,Hong'an Wang,1
 Yina Li,Dongjin Li,2
 Yina Li,K. Zhang,1
 Dongjin Li,K. Zhang,1
-Christoph Müller,Michael Krone,1
 Christoph Müller,Katrin Scharnowski,1
 Michael Krone,Katrin Scharnowski,1
 Michael Krone,Guido Reina,1
 Katrin Scharnowski,Guido Reina,1
 Katrin Scharnowski,Thomas Ertl,1
-Muye Yang,Robert P. Biuk-Aghai,1
+Robert P. Biuk-Aghai,Muye Yang,2
 Yukari Shirota,Yutaka Takahashi,2
 Yukari Shirota,Nobuhide Tanaka,2
 Yukari Shirota,Michiya Morita,2
@@ -828,7 +815,6 @@ Yaoxue Zhang,Ying Zhao,1
 Yaoxue Zhang,Guojun Wang,1
 Yaoxue Zhang,Ronghua Shi,1
 Yaoxue Zhang,Xing Liang,1
-Fangfang Zhou,Ying Zhao,3
 Fangfang Zhou,Guojun Wang,1
 Fangfang Zhou,Ronghua Shi,1
 Fangfang Zhou,Xing Liang,1
@@ -855,7 +841,6 @@ Claudio A Delrieux,Krešimir Matković,1
 Denis Gracanin,Krešimir Matković,1
 Kouhei Yasuda,Shigeo Takahashi,1
 Kouhei Yasuda,Hsiangyun Wu,1
-Shigeo Takahashi,Hsiangyun Wu,1
 Simeon J Simoff,Yu Qian,1
 Martin Röhlig,H. Schumann,1
 Ruth West,Meghan Kajihara,1
@@ -927,9 +912,8 @@ Anahita Sanandaji,Cindy Marie Grimm,1
 Zheng Huang,Jed Limke,1
 Zheng Huang,Jun Kong,1
 Jed Limke,Jun Kong,1
-Patrick Cheong-Iao Pang,Robert P. Biuk-Aghai,1
+Robert P. Biuk-Aghai,Patrick Cheong-Iao Pang,2
 Patrick Cheong-Iao Pang,Muye Yang,1
-Robert P. Biuk-Aghai,Muye Yang,1
 Casey Haber,Lyndonong Yiu,1
 Casey Haber,Alark Joshi,1
 Casey Haber,Sophie Engle,1
@@ -1016,7 +1000,7 @@ Vetria Laverne Byrd,Joseph A Cottam,1
 Zana Vosough,Dietrich Kammer,1
 Zana Vosough,Mandy Keck,1
 Zana Vosough,Rainer Groh,1
-Dietrich Kammer,Mandy Keck,1
+Mandy Keck,Dietrich Kammer,2
 Dietrich Kammer,Rainer Groh,2
 Mandy Keck,Rainer Groh,2
 Fangfang Zhou,Minghui Chen,1
@@ -1226,7 +1210,6 @@ Robin Horst,Benjamin Weinert,1
 Lukas Brand,Armin Müller,1
 Lukas Brand,Benjamin Weinert,1
 Armin Müller,Benjamin Weinert,1
-Robert P. Biuk-Aghai,Patrick Cheong-Iao Pang,1
 Robert P. Biuk-Aghai,Bin Pang,1
 Patrick Cheong-Iao Pang,Bin Pang,1
 Dominique Tranquille,Gem Stapleton,1
@@ -1234,7 +1217,6 @@ Dominique Tranquille,Jim Burton,1
 Dominique Tranquille,Peter J Rodgers,1
 Gem Stapleton,Jim Burton,1
 Jim Burton,Peter J Rodgers,1
-Mandy Keck,Dietrich Kammer,1
 Mandy Keck,Thomas Gründer,1
 Mandy Keck,Thomas Thom,1
 Mandy Keck,Martin Kleinsteuber,1
@@ -1259,7 +1241,6 @@ Yuri Sato,Zohreh Shams,1
 Yuri Sato,Andrew Blake,1
 Gem Stapleton,Mateja Jamnik,1
 Gem Stapleton,Zohreh Shams,1
-Gem Stapleton,Andrew Blake,1
 Mateja Jamnik,Zohreh Shams,1
 Mateja Jamnik,Andrew Blake,1
 Zohreh Shams,Andrew Blake,1
@@ -1296,8 +1277,8 @@ Yaru Du,Changbo Wang,1
 Yaru Du,Chenhui Li,1
 Yaru Du,Hong Yin,1
 Changbo Wang,Chenhui Li,2
-Changbo Wang,Hong Yin,1
-Chenhui Li,Hong Yin,1
+Hong Yin,Changbo Wang,3
+Hong Yin,Chenhui Li,2
 Liang Zhou,Daniel Weiskopf,1
 Michael Burch,Hansjörg Schmauder,1
 Xiaoyu Wang,Yufeng Liu,1
@@ -1307,7 +1288,7 @@ Yufeng Liu,Jie Li,1
 Yufeng Liu,K. Zhang,1
 Daniel Limberger,Matthias Trapp,4
 Daniel Limberger,Jürgen Döllner,8
-Matthias Trapp,Jürgen Döllner,5
+Matthias Trapp,Jürgen Döllner,6
 Daniil Rodin,Gershon Elber,1
 Mehmood Ghaffar,Niklas Biere,1
 Mehmood Ghaffar,Daniel Jäger,1
@@ -1328,7 +1309,7 @@ Karsten Klein,Falk Schreiber,3
 Karsten Klein,Olaf Kruse,1
 Karsten Klein,Björn Sommer,2
 Falk Schreiber,Olaf Kruse,1
-Falk Schreiber,Björn Sommer,1
+Björn Sommer,Falk Schreiber,2
 Olaf Kruse,Björn Sommer,1
 Luca Marzialetti,Massimo Candela,1
 Luca Marzialetti,Giuseppe Di Battista,1
@@ -1424,7 +1405,7 @@ Lina Wang,Johanna Doppler-Haider,1
 Lina Wang,Margit Pohl,1
 Johanna Doppler-Haider,Margit Pohl,1
 Mengting Sun,Haiping Wei,1
-Mengting Sun,Li Xu,1
+Li Xu,Mengting Sun,2
 Mengting Sun,Xingying Li,1
 Haiping Wei,Li Xu,1
 Haiping Wei,Xingying Li,1
@@ -1450,17 +1431,15 @@ Michael Aichem,Ying Zhang,1
 Michael Aichem,Falk Schreiber,1
 Björn Sommer,Stefan Erk,1
 Björn Sommer,Ying Zhang,1
-Björn Sommer,Falk Schreiber,1
 Stefan Erk,Ying Zhang,1
 Stefan Erk,Falk Schreiber,1
 Ying Zhang,Falk Schreiber,1
 Yanping Hu,Lihua Gui,1
 Yanping Hu,Ye Wang,1
 Lihua Gui,Ye Wang,1
-Daniel Limberger,Willy Scheibel,3
+Willy Scheibel,Daniel Limberger,6
 Willy Scheibel,Jürgen Döllner,6
 Willy Scheibel,Matthias Trapp,2
-Jürgen Döllner,Matthias Trapp,1
 Ao Dong,Wei Zeng,1
 Ao Dong,Xi Chen,1
 Ao Dong,Zhanglin Cheng,1
@@ -1492,20 +1471,18 @@ Shao Zhang,Jiajun Bie,1
 Shao Zhang,Sheng Xiao,1
 Jiajun Bie,Sheng Xiao,1
 Kirlin Li,Yina Li,1
-Kirlin Li,Hong Yin,1
+Hong Yin,Kirlin Li,2
 Kirlin Li,Yanpeng Hu,1
 Kirlin Li,Peng Ye,1
-Kirlin Li,Changbo Wang,1
+Changbo Wang,Kirlin Li,2
 Yina Li,Hong Yin,1
 Yina Li,Yanpeng Hu,1
 Yina Li,Peng Ye,1
 Yina Li,Changbo Wang,1
 Hong Yin,Yanpeng Hu,1
 Hong Yin,Peng Ye,1
-Hong Yin,Changbo Wang,2
 Yanpeng Hu,Peng Ye,1
 Yanpeng Hu,Changbo Wang,1
-Peng Ye,Changbo Wang,1
 Karsten Klein,Sabrina Jaeger,1
 Karsten Klein,Jörg Melzheimer,1
 Karsten Klein,Bettina Wachter,1
@@ -1540,7 +1517,6 @@ Daying Lu,Yao Ge,1
 Daying Lu,Jiancheng Ni,1
 Yao Ge,Jiancheng Ni,1
 Li Xu,Xiaohui Chen,1
-Li Xu,Mengting Sun,1
 Li Xu,Huanxin Chen,1
 Xiaohui Chen,Mengting Sun,1
 Xiaohui Chen,Huanxin Chen,1
@@ -1596,15 +1572,11 @@ Yinan Zhang,Shiyun Hunag,1
 Yinan Zhang,Yuqi Tao,1
 Shiyun Hunag,Yuqi Tao,1
 Zhongyu Wang,Hui Guo,1
-Minghong Hu,Hui Guo,1
-Minghong Hu,Xuyuan Ji,1
-Hui Guo,Xuyuan Ji,1
-Xuyuan Ji,Hui Guo,1
-Xuyuan Ji,Minghong Hu,1
-Hui Guo,Minghong Hu,1
+Hui Guo,Minghong Hu,2
+Xuyuan Ji,Minghong Hu,2
+Xuyuan Ji,Hui Guo,2
 Miao Liu,Chenyue Wang,1
 Miao Liu,Rui Chen,1
-Willy Scheibel,Daniel Limberger,3
 Carolin Fiedler,Willy Scheibel,1
 Carolin Fiedler,Daniel Limberger,1
 Carolin Fiedler,Matthias Trapp,1
@@ -1919,10 +1891,7 @@ Dong Li,Sicheng Song,1
 Dong Li,Kirlin Li,1
 Dong Li,Chenhui Li,1
 Hong Yin,Sicheng Song,1
-Hong Yin,Kirlin Li,1
-Hong Yin,Chenhui Li,1
 Changbo Wang,Sicheng Song,1
-Changbo Wang,Kirlin Li,1
 Sicheng Song,Kirlin Li,1
 Sicheng Song,Chenhui Li,1
 Kirlin Li,Chenhui Li,1

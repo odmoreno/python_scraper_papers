@@ -1,0 +1,58 @@
+{
+  "ieeesmc": {
+    "name": "IEEE Transactions on Systems, Man, and Cybernetics: Systems",
+    "value": "ieeesmc",
+    "publisher": "ieee",
+    "type": "journal",
+    "cod": ""
+  },
+  "smartgraph": {
+    "name": "SMARTGRAPH",
+    "value": "smartgraph",
+    "publisher": "springer",
+    "type": "conference",
+    "cod": ""
+  },
+  "eurovis": {
+    "name": "eurovis",
+    "value": "eurovis",
+    "publisher": "The Eurographics Association",
+    "type": "conference",
+    "cod": ""
+  },
+  "cvgip": {
+    "name": "computer vision, graphics, and image processing",
+    "value": "cvgip",
+    "publisher": "springer",
+    "type": "journal",
+    "cod": ""
+  },
+  "ieeecgv": {
+    "name": "IEEE Transactions on Visualization and Computer Graphics",
+    "value": "ieeecgv",
+    "publisher": "ieee",
+    "type": "journal",
+    "cod": ""
+  },
+  "gd": {
+    "name": "International Symposium on Graph Drawing",
+    "value": "gd",
+    "publisher": "",
+    "type": "conference",
+    "cod": ""
+  },
+  "iui": {
+    "name": "international conference on intelligent user interfaces",
+    "value": "iui",
+    "publisher": "",
+    "type": "conference",
+    "cod": ""
+  },
+  "": {
+    "name": "N/A",
+    "value": "",
+    "publisher": "",
+    "type": "",
+    "cod": ""
+  }
+}

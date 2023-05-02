@@ -63,6 +63,9 @@ class SpringerClient:
         authors = paper.findAll(attrs={"itemprop": "author"})
         #validate
         pagination = '' if pagination is None else pagination.text
+        #get referencias
+        title = paper.findAll('p', {'class': 'c-article-references__text'})
+
         #loop authors
         autores = []
         for author in authors:
@@ -435,9 +438,9 @@ class SpringerClient:
                 regions = element['regions']
                 date = element['year']
 
-                afilitions = list(set(afilitions))
-                countries = list(set(countries))
-                regions = list(set(regions))
+                #afilitions = list(set(afilitions))
+                #countries = list(set(countries))
+                #regions = list(set(regions))
 
                 self.create_links_authors(doi, date, authors)
                 self.loop_institutions(doi, date, afilitions)
@@ -534,15 +537,21 @@ class SpringerClient:
             filtered = [d for d in elements if int(d['date']) == year]
             for element in filtered:
                 id = element['el1'] + '_' + element['el2']
-                if id in links:
-                    el = links[id]
+                id2 = element['el2'] + '_' + element['el1']
+
+                bool1 = id in links
+                bool2 = id2 in links
+
+                if (bool1 or bool2):
+                    keyid = id if bool1 else id2
+                    el = links[keyid]
                     value = el['value'] + 1
                     data = {
                         'e1': element['el1'],
                         'e2': element['el2'],
                         'value': value
                     }
-                    links[id] = data
+                    links[keyid] = data
                 else:
                     data = {
                         'e1': element['el1'],
@@ -551,6 +560,9 @@ class SpringerClient:
                     }
                     links[id] = data
             print('fin:', year)
+
+
+
             path = mainfolder + key + name + str(year) +'.csv'
             csv_generics(path, links.values(), ['e1', 'e2', 'value'])
 
@@ -584,7 +596,7 @@ class SpringerClient:
     def main(self):
         self.papers_acm = load_generic('data/vinci_2009/papers_acm.json')
 
-        #self.extract_page_for_acm()
+        self.extract_page_for_acm()
         #self.save_info()
         #self.driver_for_acm.get("https://dl.acm.org/profile/99660628905")
 
