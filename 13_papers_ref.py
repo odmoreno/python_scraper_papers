@@ -20,10 +20,16 @@ class refs:
         self.temp_venues = {}
         self.venues = {}
 
+        self.refs_2009 = {}
+        self.ref_per_paper_2009 = {}
+
         self.venue_keywords = []
 
     def load_data(self):
-
+        # data 2009
+        self.refs_2009 = load_generic('springer/refs_2009.json')
+        self.ref_per_paper_2009 = load_generic('springer/ref_per_paper_2009.json')
+        #data 2010 - 2022
         self.temp = load_generic('data/jsons/papers_ref.json')
         self.temp_venues = load_generic('references/venue_temp.json')
         ref_per_papers = load_generic('data/jsons/ref_per_paper.json')
@@ -60,6 +66,9 @@ class refs:
                     paper = self.references[doi]
                 newlist.append(paper['doi'])
             new_ref_per_paper[parent_doi] = newlist
+
+        new_ref_per_paper = new_ref_per_paper | self.ref_per_paper_2009
+        self.temp = self.temp | self.refs_2009
 
         #save_generic('references/venue_temp.json', self.temp_venues)
         save_generic('references/ref_per_paper.json', new_ref_per_paper)
