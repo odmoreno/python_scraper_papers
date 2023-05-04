@@ -70,7 +70,7 @@ class refs:
         new_ref_per_paper = new_ref_per_paper | self.ref_per_paper_2009
         self.temp = self.temp | self.refs_2009
 
-        #save_generic('references/venue_temp.json', self.temp_venues)
+        save_generic('references/paper_refs.json', self.temp)
         save_generic('references/ref_per_paper.json', new_ref_per_paper)
 
     def main(self):
