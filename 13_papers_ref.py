@@ -11,6 +11,7 @@ nltk.download('stopwords')
 from collections import Counter
 
 from references.patterns import patterns
+from references.patterns import pub_patterns
 
 class refs:
 
@@ -114,35 +115,70 @@ class refs:
 
         # Diccionario para almacenar el número de veces que aparece cada conferencia o revista
         venue_counts = {}
+        publisher_counts = {}
 
         # Iterar sobre cada objeto JSON en la lista de objetos
         for key in self.temp:
-            if key == 'temp6513':
-                print('check')
-
             paper = self.temp[key]
-            venueT = paper['venue']
-            check = type(venueT) is list
-            if (check):
-                venue = paper['venue'][0].strip().lower()
-            else:
-                venue = paper['venue'].strip().lower()
+            type_paper = paper['type']
+            if type_paper == 'article-journal' or (type_paper == 'paper-conference'):
+                venueT = paper['venue']
+                urlT= paper['url']
+                publisherT = paper['publisher']
 
-            self.temp[key]['venue'] = venue
-            # Buscar coincidencias entre la cadena del atributo "venue" y los patrones de búsqueda
-            for conference, pattern in patterns.items():
-                if re.search(pattern, venue):
-                    matches = re.findall(pattern, venue)
-                    # Si se encuentra una coincidencia, aumentar el contador correspondiente en el diccionario
-                    if conference in venue_counts:
-                        venue_counts[conference] += 1
-                    else:
-                        venue_counts[conference] = 1
+                check = type(venueT) is list
+                if (check):
+                    venue = paper['venue'][0].strip().lower()
+                else:
+                    venue = paper['venue'].strip().lower()
+                self.temp[key]['venue'] = venue
 
-                    self.temp[key]['venue'] = conference
-                    break
+                check_url = type(urlT) is list
+                if (check_url):
+                    url = paper['url'][0].strip().lower()
+                else:
+                    url = paper['url'].strip().lower()
+                self.temp[key]['url'] = url
 
-            new_refs[paper['doi']] = self.temp[key]
+                check_pub = type(publisherT) is list
+                if (check_pub):
+                    publisher = paper['publisher'][0].strip().lower()
+                else:
+                    publisher = paper['publisher'].strip().lower()
+                self.temp[key]['publisher'] = publisher
+
+                if publisher in publisher_counts:
+                    publisher_counts[publisher] += 1
+                else:
+                    publisher_counts[publisher] = 1
+
+                # Buscar coincidencias entre la cadena del atributo "venue" y los patrones de búsqueda
+                for conference, pattern in patterns.items():
+                    if re.search(pattern, venue):
+                        matches = re.findall(pattern, venue)
+                        # Si se encuentra una coincidencia, aumentar el contador correspondiente en el diccionario
+                        if conference in venue_counts:
+                            venue_counts[conference] += 1
+                        else:
+                            venue_counts[conference] = 1
+    
+                        self.temp[key]['venue'] = conference
+                        break
+
+                #buscar nombres de publishers en las urls
+                for pub, pattern in pub_patterns.items():
+                    #if publisher != '':
+                        #print(f"publisher {key} :'{publisher}' ")
+                    if re.search(pattern, publisher):
+                        self.temp[key]['publisher'] = pub
+                        break
+                    if re.search(pattern, url):
+                        self.temp[key]['publisher'] = pub
+
+                        break
+
+
+                new_refs[paper['doi']] = self.temp[key]
 
         # Imprimir el diccionario de conteo de conferencias y revistas
         val = 0
@@ -150,26 +186,30 @@ class refs:
             val += value
         print(venue_counts)
         print(val)
+        print(publisher_counts)
 
         save_generic('references/references.json', new_refs)
         save_generic('references/count.json', venue_counts)
+        save_generic('references/pub_count.json', publisher_counts)
 
     def create_cites_ref(self):
         papers_refs = load_generic('references/references.json')
         ref_per_papers = load_generic('references/ref_per_paper.json')
         cocitation_conf = {}
 
-
+        #GI graphics interface
+        #
         for parent_doi, list in ref_per_papers.items():
             newlist = []
             for doi in list:
-                paper = papers_refs[doi]
-                venue = paper['venue']
-                data = {
-                    'venue': venue,
-                    'doi': paper['doi']
-                }
-                newlist.append(data)
+                if doi in papers_refs:
+                    paper = papers_refs[doi]
+                    venue = paper['venue']
+                    data = {
+                        'venue': venue,
+                        'doi': paper['doi']
+                    }
+                    newlist.append(data)
             cocitation_conf[parent_doi] = newlist
 
         print('fin')
