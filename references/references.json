@@ -210,7 +210,7 @@
       "Steven Feiner"
     ],
     "doi": "temp12",
-    "venue": "Proceedings of Graphics Interface",
+    "venue": "GI",
     "location": "",
     "note": "",
     "publisher": "",
@@ -19994,7 +19994,7 @@
       "Naren Ramakrishnan"
     ],
     "doi": "temp2307",
-    "venue": "Proceedings of Graphics Interface",
+    "venue": "GI",
     "location": "",
     "note": "",
     "publisher": "",
@@ -22035,7 +22035,7 @@
       "Faramarz F. Samavati"
     ],
     "doi": "temp2436",
-    "venue": "Proceedings of Graphics Interface",
+    "venue": "GI",
     "location": "",
     "note": "",
     "publisher": "",
@@ -22067,7 +22067,7 @@
       "Lance Williams"
     ],
     "doi": "temp2439",
-    "venue": "Proceedings of Graphics Interface",
+    "venue": "GI",
     "location": "",
     "note": "",
     "publisher": "",
@@ -23212,7 +23212,7 @@
       "Karan Singh"
     ],
     "doi": "10.20380/GI2002.03",
-    "venue": "Proceedings of Graphics Interface",
+    "venue": "GI",
     "location": [
       "Calgary, Alberta, Canada",
       "Calgary, Alberta, Canada"
@@ -24001,10 +24001,10 @@
     "volume": "",
     "pages": "21–29"
   },
-  "temp2585": {
+  "10.1145/3105971.3105983": {
     "type": "paper-conference",
     "title": "Partial Precedence of Context-sensitive Graph Grammars",
-    "url": "",
+    "url": "https://doi.org/10.1145/3105971.3105983",
     "date": "2017",
     "authors": [
       "Y. Zou",
@@ -24012,7 +24012,7 @@
       "Y. Liu",
       "H. Liu"
     ],
-    "doi": "temp2585",
+    "doi": "10.1145/3105971.3105983",
     "venue": "VINCI",
     "location": "",
     "note": "",
@@ -29693,7 +29693,7 @@
   },
   "temp3016": {
     "type": "paper-conference",
-    "title": "",
+    "title": "Visual Information Communication (Proceedings of VINCI '09)",
     "url": "",
     "date": "2010",
     "authors": [],
@@ -29707,9 +29707,9 @@
   },
   "temp3017": {
     "type": "paper-conference",
-    "title": "",
+    "title": "Proceedings of the 9th International Symposium on Visual Information Communication and Interaction",
     "url": "https://dl.acm.org/citation.cfm?id=2968220",
-    "date": "",
+    "date": "2016",
     "authors": [],
     "doi": "temp3017",
     "venue": "VINCI",
@@ -29798,7 +29798,7 @@
   },
   "temp3023": {
     "type": "paper-conference",
-    "title": "",
+    "title": "Proceedings of the 10th International Symposium on Visual Information Communication and Interaction",
     "url": "https://dl.acm.org/citation.cfm?id=3105971",
     "date": "",
     "authors": [],
@@ -29854,7 +29854,7 @@
   },
   "temp3028": {
     "type": "paper-conference",
-    "title": "",
+    "title": "Proceedings of the 7th International Symposium on Visual Information Communication and Interaction",
     "url": "https://dl.acm.org/citation.cfm?id=2636240",
     "date": "2014",
     "authors": [],
@@ -29889,9 +29889,9 @@
   },
   "10.1145/2397696": {
     "type": "paper-conference",
-    "title": "",
+    "title": "Proceedings of the 5th International Symposium on Visual Information Communication and Interaction",
     "url": "https://dl.acm.org/citation.cfm?id=2397696",
-    "date": "",
+    "date": "2012",
     "authors": [],
     "doi": "10.1145/2397696",
     "venue": "VINCI",
@@ -30012,9 +30012,9 @@
   },
   "temp3037": {
     "type": "paper-conference",
-    "title": "",
+    "title": "Proceedings of the 6th International Symposium on Visual Information Communication and Interaction (VINCI '13)",
     "url": "https://dl.acm.org/citation.cfm?id=2493102",
-    "date": "",
+    "date": "2013",
     "authors": [],
     "doi": "temp3037",
     "venue": "VINCI",
@@ -35631,7 +35631,7 @@
       "R. Sarin"
     ],
     "doi": "10.1145/1268517.1268539",
-    "venue": "Proceedings of Graphics Interface",
+    "venue": "GI",
     "location": "",
     "note": "",
     "publisher": "",
@@ -37348,17 +37348,17 @@
     "volume": "2",
     "pages": ""
   },
-  "temp4076": {
+  "10.1145/2636240.2636842": {
     "type": "paper-conference",
     "title": "A time-based visualization for web user classification in social networks",
-    "url": "",
+    "url": "https://doi.org/10.1145/2636240.2636842",
     "date": "2014",
     "authors": [
       "A.S. Brunker",
       "Q.V. Nguyen",
       "A.J.M. al"
     ],
-    "doi": "temp4076",
+    "doi": "10.1145/2636240.2636842",
     "venue": "VINCI",
     "location": "",
     "note": "",
@@ -37384,10 +37384,10 @@
     "volume": "",
     "pages": "364–365,"
   },
-  "temp4078": {
+  "10.1145/2016656.2016671": {
     "type": "paper-conference",
     "title": "Sfviz: interest-based friends exploration and recommendation in social networks",
-    "url": "",
+    "url": "https://doi.org/10.1145/2016656.2016671",
     "date": "2011",
     "authors": [
       "L. Gou",
@@ -37396,7 +37396,7 @@
       "L. Wu",
       "X.L. Zhang"
     ],
-    "doi": "temp4078",
+    "doi": "10.1145/2016656.2016671",
     "venue": "VINCI",
     "location": "",
     "note": "",
@@ -48945,7 +48945,7 @@
       "K. Shoemake"
     ],
     "doi": "10.5555/155294.155312",
-    "venue": "Proceedings of Graphics Interface",
+    "venue": "GI",
     "location": "",
     "note": "",
     "publisher": "",
@@ -55124,7 +55124,7 @@
       "Gabor Szijarto"
     ],
     "doi": "10.5555/1143079.1143089",
-    "venue": "Proceedings of Graphics Interface",
+    "venue": "GI",
     "location": "",
     "note": "",
     "publisher": "",

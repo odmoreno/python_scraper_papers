@@ -11,11 +11,10 @@
     "GD": 2,
     "IUI": 3,
     "VL/HCC": 1,
-    "Proceedings of Graphics Interface": 1,
+    "GI": 2,
     "CHI": 3,
     "TOG": 2,
     "PLOS ONE": 1,
-    "GI": 1,
     "PacificVis": 1,
     "CGF": 1,
     "ITS": 1,
@@ -611,7 +610,7 @@
     "Information Visualization": 1,
     "IV": 1,
     "CHI": 1,
-    "Proceedings of Graphics Interface": 1,
+    "GI": 1,
     "TOIS": 1
   },
   "10.1145/3356422.3356441": {
@@ -652,7 +651,7 @@
     "SIGGRAPH": 3,
     "CVPR": 1,
     "ECCV": 1,
-    "Proceedings of Graphics Interface": 2
+    "GI": 2
   },
   "10.1145/3356422.3356434": {
     "TVCG": 9,
@@ -673,7 +672,7 @@
     "SIGGRAPH": 5,
     "PG": 1,
     "WSCG": 2,
-    "Proceedings of Graphics Interface": 1,
+    "GI": 1,
     "TVCG": 1,
     "GRAPP": 1
   },
@@ -1126,7 +1125,7 @@
     "LNCS": 1,
     "JVLC": 1,
     "DIS": 1,
-    "Proceedings of Graphics Interface": 1
+    "GI": 1
   },
   "10.1145/2968220.2968239": {
     "TVCG": 2,
@@ -1528,7 +1527,7 @@
     "": 11,
     "TOIS": 1,
     "JVLC": 1,
-    "Proceedings of Graphics Interface": 1,
+    "GI": 1,
     "CHI": 1
   },
   "10.1145/2636240.2636846": {
@@ -1859,7 +1858,7 @@
   "10.1145/1865841.1865849": {
     "TOG": 1,
     "": 5,
-    "Proceedings of Graphics Interface": 1,
+    "GI": 1,
     "SIGGRAPH": 1
   },
   "10.1145/1865841.1865850": {

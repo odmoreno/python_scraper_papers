@@ -49276,7 +49276,7 @@
   "temp2585": {
     "type": "paper-conference",
     "title": "Partial Precedence of Context-sensitive Graph Grammars",
-    "url": "",
+    "url": "https://doi.org/10.1145/3105971.3105983",
     "date": "2017",
     "authors": [
       "Y. Zou",
@@ -49284,7 +49284,7 @@
       "Y. Liu",
       "H. Liu"
     ],
-    "doi": "temp2585",
+    "doi": "10.1145/3105971.3105983",
     "venue": "International Symposium on Visual Information Communication and Interaction",
     "location": "",
     "note": "",
@@ -57407,7 +57407,7 @@
   },
   "temp3008": {
     "type": "paper-conference",
-    "title": "",
+    "title": "Proceedings of the 8th International Symposium on Visual Information Communication and Interaction",
     "url": "https://dl.acm.org/citation.cfm?id=2801040",
     "date": "2015",
     "authors": [
@@ -57554,7 +57554,7 @@
   },
   "temp3016": {
     "type": "paper-conference",
-    "title": "",
+    "title": "Visual Information Communication (Proceedings of VINCI '09)",
     "url": "",
     "date": "2010",
     "authors": [],
@@ -57568,9 +57568,9 @@
   },
   "temp3017": {
     "type": "paper-conference",
-    "title": "",
+    "title": "Proceedings of the 9th International Symposium on Visual Information Communication and Interaction",
     "url": "https://dl.acm.org/citation.cfm?id=2968220",
-    "date": "",
+    "date": "2016",
     "authors": [],
     "doi": "temp3017",
     "venue": "2016. Proceedings of the 9th International Symposium on Visual Information Communication and Interaction",
@@ -57678,9 +57678,9 @@
   },
   "temp3023": {
     "type": "paper-conference",
-    "title": "",
+    "title": "Proceedings of the 10th International Symposium on Visual Information Communication and Interaction",
     "url": "https://dl.acm.org/citation.cfm?id=3105971",
-    "date": "",
+    "date": "2017",
     "authors": [],
     "doi": "temp3023",
     "venue": "2017. Proceedings of the 10th International Symposium on Visual Information Communication and Interaction",
@@ -57769,7 +57769,7 @@
   },
   "temp3028": {
     "type": "paper-conference",
-    "title": "",
+    "title": "Proceedings of the 7th International Symposium on Visual Information Communication and Interaction",
     "url": "https://dl.acm.org/citation.cfm?id=2636240",
     "date": "2014",
     "authors": [],
@@ -57804,9 +57804,9 @@
   },
   "temp3030": {
     "type": "paper-conference",
-    "title": "",
+    "title": "Proceedings of the 5th International Symposium on Visual Information Communication and Interaction",
     "url": "https://dl.acm.org/citation.cfm?id=2397696",
-    "date": "",
+    "date": "2012",
     "authors": [],
     "doi": "10.1145/2397696",
     "venue": "2012. Proceedings of the 5th International Symposium on Visual Information Communication and Interaction. ACM",
@@ -57927,9 +57927,9 @@
   },
   "temp3037": {
     "type": "paper-conference",
-    "title": "",
+    "title": "Proceedings of the 6th International Symposium on Visual Information Communication and Interaction (VINCI '13)",
     "url": "https://dl.acm.org/citation.cfm?id=2493102",
-    "date": "",
+    "date": "2013",
     "authors": [],
     "doi": "temp3037",
     "venue": "2013. Proceedings of the 6th International Symposium on Visual Information Communication and Interaction (VINCI '13). ACM",
@@ -76924,14 +76924,14 @@
   "temp4076": {
     "type": "paper-conference",
     "title": "A time-based visualization for web user classification in social networks",
-    "url": "",
+    "url": "https://doi.org/10.1145/2636240.2636842",
     "date": "2014",
     "authors": [
       "A.S. Brunker",
       "Q.V. Nguyen",
       "A.J.M. al"
     ],
-    "doi": "temp4076",
+    "doi": "10.1145/2636240.2636842",
     "venue": "Proceedings of VINCI 2014",
     "location": "",
     "note": "",
@@ -76960,7 +76960,7 @@
   "temp4078": {
     "type": "paper-conference",
     "title": "Sfviz: interest-based friends exploration and recommendation in social networks",
-    "url": "",
+    "url": "https://doi.org/10.1145/2016656.2016671",
     "date": "2011",
     "authors": [
       "L. Gou",
@@ -76969,7 +76969,7 @@
       "L. Wu",
       "X.L. Zhang"
     ],
-    "doi": "temp4078",
+    "doi": "10.1145/2016656.2016671",
     "venue": "Proceedings of VINCI 2011",
     "location": "",
     "note": "",
