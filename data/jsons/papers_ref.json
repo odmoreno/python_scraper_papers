@@ -21354,7 +21354,7 @@
       "Jürgen Döllner"
     ],
     "doi": "10.2312/eurovisshort.20171137",
-    "venue": "In",
+    "venue": "eurovis",
     "location": "",
     "note": "",
     "publisher": "",
@@ -28967,7 +28967,7 @@
       "T. Ertl"
     ],
     "doi": "temp1514",
-    "venue": "In",
+    "venue": "eurovis",
     "location": "",
     "note": "",
     "publisher": "",
@@ -35069,7 +35069,7 @@
       "Fabian Beck"
     ],
     "doi": "temp1855",
-    "venue": "In",
+    "venue": "eurovis",
     "location": "",
     "note": "",
     "publisher": "",
@@ -38813,7 +38813,6 @@
     "title": "The state of the art in visualizing dynamic graphs",
     "url": "",
     "date": [
-      "2014",
       "2014"
     ],
     "authors": [
@@ -38823,7 +38822,7 @@
       "Daniel Weiskopf"
     ],
     "doi": "temp2049",
-    "venue": "",
+    "venue": "eurovis",
     "location": "EuroVis STAR",
     "note": "",
     "publisher": "",
@@ -41913,7 +41912,7 @@
     ],
     "location": "",
     "note": "",
-    "publisher": "",
+    "publisher": "The Eurographics Association",
     "volume": "",
     "pages": ""
   },

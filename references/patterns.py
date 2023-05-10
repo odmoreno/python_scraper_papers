@@ -142,7 +142,7 @@ patterns = {
     'WCRE': re.compile(r'\b(Working Conference on Reverse Engineering|WCRE)\b', re.IGNORECASE),
     'ASE': re.compile(r'\b(ACM International Conference on Automated Software Engineering|ASE|ACM ASE)\b', re.IGNORECASE),
     'Web3D': re.compile(r'\b(International Conference on 3D Web Technology|Web3D|ACM Web3D)\b', re.IGNORECASE),
-    'VISIGRAPP ': re.compile(r'\b(International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications|IVAPP)\b', re.IGNORECASE),
+    'VISIGRAPP': re.compile(r'\b(International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications|IVAPP|Proceedings of GRAPP/IVAPP)\b', re.IGNORECASE),
     'CRIWG': re.compile(r'\b(International Workshop on Groupware|CRIWG)\b', re.IGNORECASE),
     'ICPC': re.compile(r'\b(IEEE/ACM International Conference on Program Comprehension|ICPC)\b', re.IGNORECASE),
     'ISVC': re.compile(r'\b(International Symposium on Visual Computing|ISVC)\b', re.IGNORECASE),

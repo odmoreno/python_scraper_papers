@@ -1,0 +1,9 @@
+{
+  "SAGE": {},
+  "PLOS ONE": re.compile(r'\b(plosone)\b', re.IGNORECASE),
+  "IEEE": re.compile(r'\b(ieee)\b', re.IGNORECASE),
+  "ACM": re.compile(r'\b(ACM|acm|acmsiggraph)\b', re.IGNORECASE),
+  "SPRINGER": re.compile(r'\b(springer-verlag|springer|springeropen)\b', re.IGNORECASE),
+  "ASA": re.compile(r'\b(american statistical association)\b', re.IGNORECASE),
+  "Elsevier": re.compile(r'\b(Elsevier|Elsevier Science)\b', re.IGNORECASE),
+}
