@@ -41934,7 +41934,7 @@
     "venue": "Frontiers in human neuroscience",
     "location": "",
     "note": "",
-    "publisher": "",
+    "publisher": "frontiers",
     "volume": "11",
     "pages": "70"
   },
@@ -92645,10 +92645,10 @@
       "D. Weiskopf"
     ],
     "doi": "temp4947",
-    "venue": "",
+    "venue": "EuroVis",
     "location": "",
     "note": "",
-    "publisher": "EuroVis STAR",
+    "publisher": "The Eurographics Association",
     "volume": "",
     "pages": ""
   },
