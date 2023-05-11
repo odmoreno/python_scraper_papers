@@ -18,9 +18,8 @@ class refs:
     def __init__(self):
         self.temp = {}
         self.references = {}
-        self.temp_venues = {}
-        self.venues = {}
-
+        self.venues_names = {}
+        self.venues_pub = {}
         self.refs_2009 = {}
         self.ref_per_paper_2009 = {}
 
@@ -32,10 +31,13 @@ class refs:
         self.ref_per_paper_2009 = load_generic('springer/ref_per_paper_2009.json')
         #data 2010 - 2022
         self.temp = load_generic('data/jsons/papers_ref.json')
-        self.temp_venues = load_generic('references/venue_temp.json')
         ref_per_papers = load_generic('data/jsons/ref_per_paper.json')
-        new_ref_per_paper = {}
+        #cargar venues names
+        self.venues_names = load_generic('references/venues_name.json')
+        #cargar publishers de venues
+        self.venues_pub = load_generic('references/venues_pubs.json')
 
+        new_ref_per_paper = {}
         for key in self.temp:
             element = self.temp[key]
             doi = element['doi']
@@ -48,15 +50,6 @@ class refs:
             else:
                 venue = element['venue'].strip().lower()
 
-            if venue not in self.temp_venues:
-                self.temp_venues[venue] = {
-                    'name': venue,
-                    'value': '',
-                    'publisher': '',
-                    'type': '',
-                    'cod': ''
-                }
-
         for parent_doi, lista in ref_per_papers.items():
             newlist = []
             for doi in lista:
@@ -65,6 +58,7 @@ class refs:
                     paper = self.temp[doi]
                 elif doi in self.references:
                     paper = self.references[doi]
+                #print(doi, paper)
                 newlist.append(paper['doi'])
             new_ref_per_paper[parent_doi] = newlist
 
@@ -74,6 +68,7 @@ class refs:
         save_generic('references/paper_refs.json', self.temp)
         save_generic('references/ref_per_paper.json', new_ref_per_paper)
 
+    '''
     def main(self):
         print("hola")
         for key in self.temp:
@@ -86,7 +81,6 @@ class refs:
             else:
                 venue = paper['venue'].strip().lower()
 
-
             words = nltk.word_tokenize(venue)
             stopwords = nltk.corpus.stopwords.words('english')
             words = [word for word in words if word.isalnum() and word not in stopwords]
@@ -95,62 +89,48 @@ class refs:
         venue_keywords_count = Counter(self.venue_keywords)
         sorted_keywords = venue_keywords_count.most_common()
         print(sorted_keywords)
+    '''
+
+    def checkifhaslist(self, value):
+        check = type(value) is list
+        if check:
+            newval = value[0].strip().lower()
+        else:
+            newval = value.strip().lower()
+        return newval
+
+    def check_status_publishers(self, paper):
+        conference = paper['venue']
+        pub = paper['publisher']
+
+        if conference not in self.venues_pub:
+            self.venues_pub[conference] = pub
+        else:
+            pub_tmp = self.venues_pub[conference]
+            if pub_tmp == "":
+                self.venues_pub[conference] = pub
+
 
     def identify_patterns(self):
-
         new_refs = {}
-        venues_list = {}
-        # Lista de patrones de búsqueda para cada conferencia o revista
-        patterns2 = {
-            'ACM Conference on Computer and Communications Security': r'\b(CCS|Conference on Computer and Communications Security)\b',
-            'IEEE Symposium on Security and Privacy': r'\b(S&P|Symposium on Security and Privacy)\b',
-            'USENIX Security Symposium': r'\b(USENIX Security|USENIX Security Symposium)\b',
-            'IEEE Transactions on Information Forensics and Security': r'\b(TIFS|IEEE Transactions on Information Forensics and Security)\b',
-            'IEEE Transactions on Dependable and Secure Computing': r'\b(TDSC|IEEE Transactions on Dependable and Secure Computing)\b',
-            'Journal of Cryptology': r'\b(JoC|Journal of Cryptology)\b',
-            'Annual Network and Distributed System Security Symposium': r'\b(NDSS|Annual Network and Distributed System Security Symposium)\b',
-            'IEEE Symposium on Visual Languages and Human-Centric Computing': r'\b(VL/HCC|Visual Languages|Human-Centric Computing)\b',
-            'VL/HCC': re.compile(r'\b(VL/HCC|Visual Languages|Human-Centric Computing)\b', re.IGNORECASE),
-        }
-
+        venues_dict = {}
         # Diccionario para almacenar el número de veces que aparece cada conferencia o revista
         venue_counts = {}
         publisher_counts = {}
-
+        venues_no_registradas = {}
+        all_refs = {}
         # Iterar sobre cada objeto JSON en la lista de objetos
         for key in self.temp:
             paper = self.temp[key]
             type_paper = paper['type']
+            all_refs[paper['doi']] = self.temp[key]
             if type_paper == 'article-journal' or (type_paper == 'paper-conference'):
-                venueT = paper['venue']
-                urlT= paper['url']
-                publisherT = paper['publisher']
-
-                check = type(venueT) is list
-                if (check):
-                    venue = paper['venue'][0].strip().lower()
-                else:
-                    venue = paper['venue'].strip().lower()
+                venue = self.checkifhaslist(paper['venue'])
                 self.temp[key]['venue'] = venue
-
-                check_url = type(urlT) is list
-                if (check_url):
-                    url = paper['url'][0].strip().lower()
-                else:
-                    url = paper['url'].strip().lower()
+                url = self.checkifhaslist(paper['url'])
                 self.temp[key]['url'] = url
-
-                check_pub = type(publisherT) is list
-                if (check_pub):
-                    publisher = paper['publisher'][0].strip().lower()
-                else:
-                    publisher = paper['publisher'].strip().lower()
+                publisher = self.checkifhaslist(paper['publisher'])
                 self.temp[key]['publisher'] = publisher
-
-                if publisher in publisher_counts:
-                    publisher_counts[publisher] += 1
-                else:
-                    publisher_counts[publisher] = 1
 
                 # Buscar coincidencias entre la cadena del atributo "venue" y los patrones de búsqueda
                 for conference, pattern in patterns.items():
@@ -161,36 +141,86 @@ class refs:
                             venue_counts[conference] += 1
                         else:
                             venue_counts[conference] = 1
-    
                         self.temp[key]['venue'] = conference
                         break
 
-                #buscar nombres de publishers en las urls
+                # Buscar nombres de publishers en las urls
                 for pub, pattern in pub_patterns.items():
-                    #if publisher != '':
-                        #print(f"publisher {key} :'{publisher}' ")
                     if re.search(pattern, publisher):
                         self.temp[key]['publisher'] = pub
                         break
                     if re.search(pattern, url):
                         self.temp[key]['publisher'] = pub
-
                         break
 
-
                 new_refs[paper['doi']] = self.temp[key]
+
+                # Revisamos publicaciones del dict, para evitar los campos vacios
+                current_paper = self.temp[key]
+                conference = current_paper['venue']
+                pub = current_paper['publisher']
+                if pub == "":
+                    if conference in self.venues_pub:
+                        pub_tmp = self.venues_pub[conference]
+                        if pub_tmp != "":
+                            self.temp[key]['publisher'] = self.venues_pub[conference]
+                #actualizamos el dictionario
+                self.check_status_publishers(current_paper)
+
+                '''
+                venue_cod = self.temp[key]['venue']
+                pub_cod = self.temp[key]['publisher']
+                if venue_cod in venue_counts:
+                    data = {
+                        "name": "",
+                        "code": venue_cod,
+                        "publisher": pub_cod
+                    }
+                    venues_dict[venue_cod] = data'''
+
+                if publisher in publisher_counts:
+                    publisher_counts[publisher] += 1
+                else:
+                    publisher_counts[publisher] = 1
+
 
         # Imprimir el diccionario de conteo de conferencias y revistas
         val = 0
         for key, value in venue_counts.items():
             val += value
+            name = self.venues_names[key] if key in self.venues_names else ''
+            publisher = self.venues_pub[key]
+            data = {
+                "name": name,
+                "code": key,
+                "publisher": publisher
+            }
+            venues_dict[key] = data
+
         print(venue_counts)
         print(val)
         print(publisher_counts)
 
+
+        for key, value in new_refs.items():
+            venue = value['venue']
+            if venue not in patterns:
+                if venue in venues_no_registradas:
+                    venues_no_registradas[venue] += 1
+                else:
+                    venues_no_registradas[venue] = 1
+
+        # Sort the dictionary in descending order by values
+        sorted_dict = dict(sorted(venues_no_registradas.items(), key=lambda x: x[1], reverse=True))
+        sorted_counts = dict(sorted(venue_counts.items(), key=lambda x: x[1], reverse=True))
+        sorted_pubs = dict(sorted(publisher_counts.items(), key=lambda x: x[1], reverse=True))
         save_generic('references/references.json', new_refs)
-        save_generic('references/count.json', venue_counts)
-        save_generic('references/pub_count.json', publisher_counts)
+        save_generic('references/references_2.json', all_refs)
+        save_generic('references/count.json', sorted_counts)
+        save_generic('references/pub_count.json', sorted_pubs)
+        save_generic('references/no_count.json', sorted_dict)
+        save_generic('references/venues.json', venues_dict)
+        save_generic('references/venues_pubs.json', self.venues_pub)
 
     def create_cites_ref(self):
         papers_refs = load_generic('references/references.json')
@@ -244,9 +274,7 @@ class refs:
     def acum_nodes_ref(self):
         papers_vinci = load_generic('data/jsons/papers_update.json') #year
         ref_count = load_generic('references/count_ref_paper.json')
-
         elements = sorted(papers_vinci.values(), key=lambda d: d['year'])
-
         lista = {}
         id = 1
         for element in elements:

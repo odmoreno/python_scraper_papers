@@ -29,7 +29,7 @@
       "doi": "10.1109/ICPP.2017.47"
     },
     {
-      "venue": "corr",
+      "venue": "CoRR",
       "doi": "10.48550/arXiv.2007.15407"
     },
     {
@@ -81,7 +81,7 @@
       "doi": "10.1145/2449396.2449411"
     },
     {
-      "venue": "GI",
+      "venue": "proc. imaging and printing in a web 2.0 world iii",
       "doi": "10.1117/12.914596"
     },
     {
@@ -227,7 +227,7 @@
       "doi": "temp74"
     },
     {
-      "venue": "computers & graphics",
+      "venue": "c&g",
       "doi": "10.1016/j.cag.2022.04.012"
     },
     {
@@ -261,7 +261,7 @@
       "doi": "10.1007/978-3-030-00928-1_98"
     },
     {
-      "venue": "GI",
+      "venue": "ISBI",
       "doi": "temp86"
     },
     {
@@ -277,11 +277,11 @@
       "doi": "temp89"
     },
     {
-      "venue": "GI",
+      "venue": "IPMI",
       "doi": "temp90"
     },
     {
-      "venue": "GI",
+      "venue": "ISBI",
       "doi": "temp91"
     },
     {
@@ -341,7 +341,7 @@
       "doi": "temp111"
     },
     {
-      "venue": "GI",
+      "venue": "EMBC",
       "doi": "temp112"
     },
     {
@@ -365,7 +365,7 @@
       "doi": "temp119"
     },
     {
-      "venue": "GI",
+      "venue": "ISBI",
       "doi": "temp120"
     },
     {
@@ -381,7 +381,7 @@
       "doi": "temp126"
     },
     {
-      "venue": "GI",
+      "venue": "ieee transactions on medical imaging(2022",
       "doi": "temp127"
     },
     {
@@ -389,7 +389,7 @@
       "doi": "temp128"
     },
     {
-      "venue": "GI",
+      "venue": "ISBI",
       "doi": "temp129"
     },
     {
@@ -457,7 +457,7 @@
       "doi": "10.1109/tvcg.2012.276"
     },
     {
-      "venue": "35th international symposium on computational geometry (socg 2019)(leibniz international proceedings in informatics (lipics), vol. 129",
+      "venue": "SOCG",
       "doi": "10.4230/LIPIcs.SoCG.2019.17"
     },
     {
@@ -653,7 +653,7 @@
       "doi": "10.1145/3025453.3025866"
     },
     {
-      "venue": "GI",
+      "venue": "computing in science engineering",
       "doi": "10.1109/MCSE.2018.2875316"
     },
     {
@@ -703,7 +703,7 @@
       "doi": "temp228"
     },
     {
-      "venue": "GI",
+      "venue": "politologickỳ časopis-czech journal of political science",
       "doi": "temp230"
     },
     {
@@ -743,7 +743,7 @@
       "doi": "10.1145/3378393.3402285"
     },
     {
-      "venue": "GI",
+      "venue": "legislative studies quarterly",
       "doi": "?DOI=10.3162/036298005X201536"
     },
     {
@@ -775,7 +775,7 @@
       "doi": "10.1109/PACIFICVIS.2017.8031599"
     },
     {
-      "venue": "GI",
+      "venue": "legislative studies quarterly",
       "doi": "10.1111/lsq.12129"
     },
     {
@@ -805,15 +805,15 @@
       "doi": "10.3322/caac.21492"
     },
     {
-      "venue": "GI",
+      "venue": "acta radiologica",
       "doi": "10.1177/0284185117740932"
     },
     {
-      "venue": "GI",
+      "venue": "journal of magnetic resonance imaging",
       "doi": "10.1002/jmri.27444"
     },
     {
-      "venue": "computers & graphics",
+      "venue": "c&g",
       "doi": "10.1016/j.cag.2010.05.016"
     },
     {
@@ -825,7 +825,7 @@
       "doi": "10.1038/bjc.2013.694"
     },
     {
-      "venue": "TOG",
+      "venue": "the cartographic journal",
       "doi": "10.1179/000870403235002042"
     },
     {
@@ -837,7 +837,7 @@
       "doi": "10.1038/s42003-021-02894-5"
     },
     {
-      "venue": "GI",
+      "venue": "computing in science and engineering",
       "doi": "10.1109/MCSE.2007.55"
     },
     {
@@ -889,11 +889,11 @@
       "doi": "10.21105/joss.01450"
     },
     {
-      "venue": "journal of the royal statistical society: series b (statistical methodology",
+      "venue": "jrss",
       "doi": "10.1111/1467-9868.00293"
     },
     {
-      "venue": "GI",
+      "venue": "journal of magnetic resonance imaging",
       "doi": "10.1002/jmri.26184"
     },
     {
@@ -1017,7 +1017,7 @@
       "doi": "temp335"
     },
     {
-      "venue": "the american statistician",
+      "venue": "tas",
       "doi": "temp336"
     },
     {
@@ -1075,7 +1075,7 @@
       "doi": "temp354"
     },
     {
-      "venue": "GI",
+      "venue": "proceedings of the 2nd ieee international workshop on wireless and mobile technologies in education",
       "doi": "temp355"
     },
     {
@@ -1141,7 +1141,7 @@
       "doi": "10.1186/1758-2946-4-17"
     },
     {
-      "venue": "GI",
+      "venue": "acm proc. on pervasive technologies related to assistive environments",
       "doi": "10.1145/3316782.3321536"
     },
     {
@@ -1187,15 +1187,15 @@
       "doi": "10.1109/TVCG.2019.2934397"
     },
     {
-      "venue": "GI",
+      "venue": "regional research of russia",
       "doi": "10.1134/S2079970515030041"
     },
     {
-      "venue": "GI",
+      "venue": "regional science policy and practice",
       "doi": "10.1111/rsp3.12264"
     },
     {
-      "venue": "GI",
+      "venue": "investigaciones regionales",
       "doi": "temp398"
     },
     {
@@ -1209,7 +1209,7 @@
   ],
   "10.1145/3554944.3554961": [
     {
-      "venue": "GI",
+      "venue": "VISIGRAPP",
       "doi": "10.5220/0010267601120122"
     },
     {
@@ -1225,7 +1225,7 @@
       "doi": "10.1109/MCG.2020.3033401"
     },
     {
-      "venue": "journal of the american society for information science",
+      "venue": "jasist",
       "doi": "10.1002/(SICI)1097-4571(199009)41:6"
     },
     {
@@ -1233,7 +1233,7 @@
       "doi": "10.1109/TVCG.2019.2944182"
     },
     {
-      "venue": "journal of graph algorithms and applications",
+      "venue": "jgaa",
       "doi": "10.7155/jgaa.00302"
     },
     {
@@ -1300,7 +1300,7 @@
       "doi": "10.1080/019722497129278"
     },
     {
-      "venue": "GI",
+      "venue": "psychological science",
       "doi": "10.1111/j.1467-9280.1997.tb00427.x"
     }
   ],
@@ -1631,7 +1631,7 @@
       "doi": "10.1007/s10618-018-0557-y"
     },
     {
-      "venue": "computers & graphics",
+      "venue": "c&g",
       "doi": "10.1016/j.cag.2017.02.005"
     },
     {
@@ -1681,7 +1681,7 @@
       "doi": "temp573"
     },
     {
-      "venue": "GI",
+      "venue": "ieee transactions on rehabilitation engineering",
       "doi": "temp575"
     },
     {
@@ -1709,7 +1709,7 @@
       "doi": "10.1145/3290605.3300450"
     },
     {
-      "venue": "GI",
+      "venue": "surgical endoscopy",
       "doi": "10.1007/s00464-008-0298-x"
     },
     {
@@ -1773,7 +1773,7 @@
       "doi": "10.1109/IV.2005.122"
     },
     {
-      "venue": "springer the visual computer",
+      "venue": "tvc",
       "doi": "10.1007/s00371-017-1373-x"
     },
     {
@@ -1789,7 +1789,7 @@
       "doi": "10.1109/VLHCC.2008.4639052"
     },
     {
-      "venue": "GI",
+      "venue": "VISIGRAPP",
       "doi": "10.5220/0007576203140321"
     },
     {
@@ -1797,7 +1797,7 @@
       "doi": "10.1145/3231622.3231638"
     },
     {
-      "venue": "VISIGRAPP ",
+      "venue": "VISIGRAPP",
       "doi": "10.5220/0005694401310138"
     },
     {
@@ -1827,7 +1827,7 @@
       "doi": "temp641"
     },
     {
-      "venue": "GI",
+      "venue": "proceedings of the 9th kes international conference on intelligent decision technologies (kes-idt(smart innovation, systems and technologies, vol. 73), ireneusz czarnowski, robert j",
       "doi": "temp642"
     },
     {
@@ -1885,7 +1885,7 @@
       "doi": "temp658"
     },
     {
-      "venue": "GI",
+      "venue": "digital scholarship in the humanities",
       "doi": "temp660"
     },
     {
@@ -1893,7 +1893,7 @@
       "doi": "temp661"
     },
     {
-      "venue": "GI",
+      "venue": "educational and psychological measurement",
       "doi": "temp662"
     },
     {
@@ -1905,7 +1905,7 @@
       "doi": "temp666"
     },
     {
-      "venue": "GI",
+      "venue": "neuropsychologia",
       "doi": "temp667"
     },
     {
@@ -1921,7 +1921,7 @@
       "doi": "temp671"
     },
     {
-      "venue": "GI",
+      "venue": "empirical comics research: digital, multimodal, and cognitive methods",
       "doi": "temp672"
     },
     {
@@ -1929,7 +1929,7 @@
       "doi": "temp673"
     },
     {
-      "venue": "GI",
+      "venue": "empirical comics research: digital, multimodal, and cognitive methods",
       "doi": "temp674"
     },
     {
@@ -1963,7 +1963,7 @@
       "doi": "10.1109/VR.2019.8797978."
     },
     {
-      "venue": "communications of the acm",
+      "venue": "comacm",
       "doi": "10.1145/381641.381653."
     },
     {
@@ -1983,7 +1983,7 @@
       "doi": "10.1177/0146167219853845."
     },
     {
-      "venue": "GI",
+      "venue": "international journal on digital libraries",
       "doi": "10.1007/s00799-019-00266-3."
     },
     {
@@ -2015,7 +2015,7 @@
       "doi": "10.1145/2843043.2843368"
     },
     {
-      "venue": "GI",
+      "venue": "weekly epidemiological update and weekly operational update",
       "doi": "temp716"
     }
   ],
@@ -2033,7 +2033,7 @@
       "doi": "10.1016/S0933-3657%2800%2900105-6"
     },
     {
-      "venue": "GI",
+      "venue": "2005. proceedings of the 2005 international workshop on geographic information systems - gis '05.acm press",
       "doi": "10.1145/1097064.1097103"
     },
     {
@@ -2045,7 +2045,7 @@
       "doi": "10.1145/3183713.3193559"
     },
     {
-      "venue": "GI",
+      "venue": "transportation research part c: emerging technologies",
       "doi": "temp725"
     },
     {
@@ -2143,7 +2143,7 @@
       "doi": "10.1109/TVCG.2009.111"
     },
     {
-      "venue": "the american statistician",
+      "venue": "tas",
       "doi": "10.1080/00031305.2015.1123651"
     },
     {
@@ -2265,7 +2265,7 @@
       "doi": "temp804"
     },
     {
-      "venue": "GI",
+      "venue": "ieee transactions on learning technologies",
       "doi": "temp805"
     },
     {
@@ -2393,7 +2393,7 @@
       "doi": "10.1109/TSE.2009.28"
     },
     {
-      "venue": "GI",
+      "venue": "empirical software engineering",
       "doi": "10.1007/s10664-005-3861-2"
     },
     {
@@ -2409,7 +2409,7 @@
       "doi": "10.1145/1346281.1346323"
     },
     {
-      "venue": "GI",
+      "venue": "proceedings of the 2019 acm/spec international conference on performance engineering, icpe 2019",
       "doi": "10.1145/3297663.3309677"
     },
     {
@@ -2657,7 +2657,7 @@
       "doi": "10.1109/TVCG.2011.226"
     },
     {
-      "venue": "comput. surveys",
+      "venue": "CSUR",
       "doi": "10.1145/1456650.1456652"
     },
     {
@@ -2749,7 +2749,7 @@
   ],
   "10.1145/3481549.3481573": [
     {
-      "venue": "GI",
+      "venue": "VISIGRAPP",
       "doi": "10.5220/0010267601120122"
     },
     {
@@ -2761,7 +2761,7 @@
       "doi": "10.1145/1869542.1869554"
     },
     {
-      "venue": "GI",
+      "venue": "empirical software engineering",
       "doi": "10.1007/s10664-015-9402-8"
     },
     {
@@ -2821,7 +2821,7 @@
       "doi": "10.1109/IV.2019.00025"
     },
     {
-      "venue": "GI",
+      "venue": "igi global",
       "doi": "10.4018/978-1-7998-4444-0.ch006"
     },
     {
@@ -2961,7 +2961,7 @@
       "doi": "10.1109/MPRV.2008.85"
     },
     {
-      "venue": "GI",
+      "venue": "polytechnic university department of computer science/finance and risk engineering",
       "doi": "temp1016"
     },
     {
@@ -2973,11 +2973,11 @@
       "doi": "temp1019"
     },
     {
-      "venue": "GI",
+      "venue": "engineering applications of artificial intelligence",
       "doi": "10.1016/j.engappai.2016.01.012"
     },
     {
-      "venue": "GI",
+      "venue": "business & information systems engineering",
       "doi": "temp1021"
     },
     {
@@ -3027,7 +3027,7 @@
       "doi": "10.5555/846276.846298"
     },
     {
-      "venue": "computers & graphics",
+      "venue": "c&g",
       "doi": "10.1016/j.cag.2006.07.021"
     },
     {
@@ -3035,7 +3035,7 @@
       "doi": "temp1034"
     },
     {
-      "venue": "computers & graphics",
+      "venue": "c&g",
       "doi": "10.1016/j.cag.2019.08.011"
     },
     {
@@ -3059,7 +3059,7 @@
       "doi": "10.1145/3072959.3073713"
     },
     {
-      "venue": "acm trans. graph",
+      "venue": "TOG",
       "doi": "10.1145/2421636.2421641"
     },
     {
@@ -3151,11 +3151,11 @@
       "doi": "10.1057/palgrave.ivs.9500087"
     },
     {
-      "venue": "proceedings of the 24th acm symposium on computational geometry",
+      "venue": "SOCG",
       "doi": "10.1145/1377676.1377683"
     },
     {
-      "venue": "VISIGRAPP ",
+      "venue": "VISIGRAPP",
       "doi": "=10.5220/0006617102730280"
     },
     {
@@ -3217,7 +3217,7 @@
       "doi": "10.1145/2414536.2414592"
     },
     {
-      "venue": "VISIGRAPP ",
+      "venue": "VISIGRAPP",
       "doi": "=10.5220/0006267501760185"
     },
     {
@@ -3301,7 +3301,7 @@
       "doi": "10.1109/TVCG.2015.2424889"
     },
     {
-      "venue": "GI",
+      "venue": "ieee transactions on software engineering",
       "doi": "10.1109/TSE.1981.234519"
     },
     {
@@ -3455,7 +3455,11 @@
       "doi": "10.5555/832271.833862"
     },
     {
-      "venue": "TOG",
+      "venue": "congress numerantium",
+      "doi": "temp4777"
+    },
+    {
+      "venue": "the cartographic journal",
       "doi": "abs/10.1179/000870403235002042"
     },
     {
@@ -3506,7 +3510,7 @@
       "doi": "10.1145/3231622.3231638"
     },
     {
-      "venue": "the visual computer",
+      "venue": "tvc",
       "doi": "10.1007/s00371-013-0892-3"
     }
   ],
@@ -3600,7 +3604,7 @@
   ],
   "10.1145/3430036.3430057": [
     {
-      "venue": "TOG",
+      "venue": "the cartographic journal",
       "doi": "abs/10.1179/000870403235002042"
     }
   ],
@@ -3654,7 +3658,7 @@
       "doi": "temp1967"
     },
     {
-      "venue": "TOG",
+      "venue": "cartographica: the international journal for geographic information and geovisualization",
       "doi": "10.3138/K877-7273-2238-5Q6V"
     },
     {
@@ -3720,11 +3724,11 @@
       "doi": "10.1007/s00521-018-3470-9"
     },
     {
-      "venue": "GI",
+      "venue": "transportation research part c: emerging technologies",
       "doi": "temp1984"
     },
     {
-      "venue": "GI",
+      "venue": "transportation research part c: emerging technologies",
       "doi": "temp1985"
     },
     {
@@ -3744,7 +3748,7 @@
       "doi": "10.1061/9780784481523.165"
     },
     {
-      "venue": "GI",
+      "venue": "10th international conference on geographic information science (giscience 2018). schloss dagstuhl-leibniz-zentrum fuer informatik",
       "doi": "temp1990"
     },
     {
@@ -3978,11 +3982,11 @@
       "doi": "temp2060"
     },
     {
-      "venue": "GI",
+      "venue": "software engineering and service science (icsess), 2017 8th ieee international conference on. ieee",
       "doi": "temp2061"
     },
     {
-      "venue": "GI",
+      "venue": "proceedings of the fourth international conference on communities and technologies",
       "doi": "10.1145/1556460.1556497"
     },
     {
@@ -4004,7 +4008,7 @@
       "doi": "temp2067"
     },
     {
-      "venue": "GI",
+      "venue": "science technology and engineering",
       "doi": "temp2068"
     },
     {
@@ -4038,7 +4042,7 @@
       "doi": "temp2077"
     },
     {
-      "venue": "TOG",
+      "venue": "kartographische nachrichten",
       "doi": "temp2085"
     },
     {
@@ -4046,7 +4050,7 @@
       "doi": "abs/10.1080/01944365908978307"
     },
     {
-      "venue": "GI",
+      "venue": "proceedings agit",
       "doi": "temp2089"
     },
     {
@@ -4058,7 +4062,7 @@
       "doi": "temp2096"
     },
     {
-      "venue": "GI",
+      "venue": "proceedings of giscience",
       "doi": "temp2097"
     },
     {
@@ -4076,7 +4080,7 @@
       "doi": "10.1145/1743666.1743697"
     },
     {
-      "venue": "GI",
+      "venue": "proceedings of conference on intelligent decision technologies",
       "doi": "temp2108"
     },
     {
@@ -4084,7 +4088,7 @@
       "doi": "10.1145/3139295.3139304"
     },
     {
-      "venue": "GI",
+      "venue": "proceedings of conference on intelligent decision technologies",
       "doi": "temp2110"
     },
     {
@@ -4112,7 +4116,7 @@
       "doi": "temp2116"
     },
     {
-      "venue": "GI",
+      "venue": "proceedings of et4s@giscience",
       "doi": "temp2117"
     },
     {
@@ -4202,11 +4206,11 @@
       "doi": "10.1016/j.jvlc.2017.04.001"
     },
     {
-      "venue": "TOG",
+      "venue": "cartography and geographic information science",
       "doi": "temp2149"
     },
     {
-      "venue": "GI",
+      "venue": "annals of gis",
       "doi": "10.1080/19475683.2014.904560"
     },
     {
@@ -4222,11 +4226,11 @@
       "doi": "10.1111/cgf.12923"
     },
     {
-      "venue": "GI",
+      "venue": "journal of electronic imaging",
       "doi": "temp2158"
     },
     {
-      "venue": "GI",
+      "venue": "proceedings of the 19th acm sigspatial international conference on advances in geographic information systems (gis '11",
       "doi": "10.1145/2093973.2094038"
     },
     {
@@ -4284,11 +4288,11 @@
       "doi": "temp2177"
     },
     {
-      "venue": "GI",
+      "venue": "electromechanical engineering",
       "doi": "temp2180"
     },
     {
-      "venue": "GI",
+      "venue": "aerospace medicine and medical engineering",
       "doi": "temp2181"
     },
     {
@@ -4358,7 +4362,7 @@
       "doi": "10.1145/2037715.2037813"
     },
     {
-      "venue": "elsevier computers & graphics",
+      "venue": "c&g",
       "doi": "temp2203"
     },
     {
@@ -4386,7 +4390,7 @@
       "doi": "temp2209"
     },
     {
-      "venue": "PG",
+      "venue": "APGV",
       "doi": "10.1145/1140491.1140541"
     },
     {
@@ -4438,7 +4442,7 @@
       "doi": "10.1145/3055624.3075951"
     },
     {
-      "venue": "VISIGRAPP ",
+      "venue": "VISIGRAPP",
       "doi": "10.5220/0006267501760185"
     },
     {
@@ -4454,7 +4458,7 @@
       "doi": "10.1145/3231622.3231638"
     },
     {
-      "venue": "VISIGRAPP ",
+      "venue": "VISIGRAPP",
       "doi": "=10.5220/0007576203140321"
     },
     {
@@ -4478,15 +4482,15 @@
       "doi": "10.1109/CRIWG.2001.951823"
     },
     {
-      "venue": "VISIGRAPP ",
+      "venue": "VISIGRAPP",
       "doi": "temp2235"
     },
     {
-      "venue": "VISIGRAPP ",
+      "venue": "VISIGRAPP",
       "doi": "10.5220/0005694401310138"
     },
     {
-      "venue": "VISIGRAPP ",
+      "venue": "VISIGRAPP",
       "doi": "=10.5220/0006617102730280"
     },
     {
@@ -4572,7 +4576,7 @@
       "doi": "10.1109/PACIFICVIS.2016.7465263"
     },
     {
-      "venue": "the visual computer",
+      "venue": "tvc",
       "doi": "10.1007/s00371-009-0368-7"
     },
     {
@@ -4886,7 +4890,7 @@
       "doi": "temp2354"
     },
     {
-      "venue": "GI",
+      "venue": "acm sigspatial international symposium on advances in geographic information systems, acm-gis 2010",
       "doi": "10.1145/1869790.1869861"
     }
   ],
@@ -4974,7 +4978,7 @@
   ],
   "10.1145/3356422.3356447": [
     {
-      "venue": "VISIGRAPP ",
+      "venue": "VISIGRAPP",
       "doi": "temp2384"
     },
     {
@@ -4986,7 +4990,7 @@
       "doi": "temp2386"
     },
     {
-      "venue": "GI",
+      "venue": "VISIGRAPP",
       "doi": "=10.5220/0007307701910198"
     },
     {
@@ -5006,7 +5010,7 @@
       "doi": "temp2392"
     },
     {
-      "venue": "computers and graphics",
+      "venue": "c&g",
       "doi": "10.1016/j.cag.2008.01.005"
     },
     {
@@ -5046,7 +5050,7 @@
       "doi": "temp2405"
     },
     {
-      "venue": "the american statistician",
+      "venue": "tas",
       "doi": "temp2406"
     },
     {
@@ -5070,7 +5074,7 @@
       "doi": "10.1109/MCG.2013.57"
     },
     {
-      "venue": "GI",
+      "venue": "a review of the research. journal on engineering education",
       "doi": "10.1002/j.2168-9830.2004.tb00809.x"
     },
     {
@@ -5086,7 +5090,7 @@
       "doi": "temp2415"
     },
     {
-      "venue": "GI",
+      "venue": "developing critical skills. chemical engineering education",
       "doi": "temp2417"
     },
     {
@@ -5144,11 +5148,11 @@
       "doi": "temp2430"
     },
     {
-      "venue": "computers & graphics",
+      "venue": "c&g",
       "doi": "10.1016/j.cag.2006.09.008"
     },
     {
-      "venue": "computers & graphics",
+      "venue": "c&g",
       "doi": "10.1016/j.cag.2005.08.007"
     },
     {
@@ -5226,11 +5230,11 @@
       "doi": "temp2455"
     },
     {
-      "venue": "corr",
+      "venue": "CoRR",
       "doi": "1801.05076"
     },
     {
-      "venue": "corr",
+      "venue": "CoRR",
       "doi": "1801.05469"
     },
     {
@@ -5280,8 +5284,8 @@
       "doi": "temp2472"
     },
     {
-      "venue": "congressus numerantium",
-      "doi": "temp2473"
+      "venue": "congress numerantium",
+      "doi": "temp4777"
     },
     {
       "venue": "siam journal on algebraic and discrete methods",
@@ -5292,7 +5296,7 @@
       "doi": "10.1145/345513.345353"
     },
     {
-      "venue": "GI",
+      "venue": "is&t international symposium on electronic imaging 2019, visualization and data analysis 2019 proceedings (vda 2019",
       "doi": "10.2352/ISSN.2470-1173.2019.1.VDA-683"
     },
     {
@@ -5354,7 +5358,7 @@
       "doi": "temp2499"
     },
     {
-      "venue": "acm trans. graph",
+      "venue": "TOG",
       "doi": "10.1145/1477926.1477928"
     },
     {
@@ -5370,7 +5374,7 @@
       "doi": "10.1145/383507.383530"
     },
     {
-      "venue": "acm trans. graph",
+      "venue": "TOG",
       "doi": "10.1145/1276377.1276416"
     },
     {
@@ -5378,7 +5382,7 @@
       "doi": "10.1145/2448531.2448537"
     },
     {
-      "venue": "PG",
+      "venue": "proceedings of the conference on high performance graphics 2009 (hpg '09). acm",
       "doi": "10.1145/1572769.1572779"
     },
     {
@@ -5448,7 +5452,7 @@
       "doi": "temp2539"
     },
     {
-      "venue": "GI",
+      "venue": "2017 18th international conference on parallel and distributed computing, applications and technologies (pdcat",
       "doi": "temp2540"
     },
     {
@@ -5466,7 +5470,7 @@
   ],
   "10.1145/3356422.3356428": [
     {
-      "venue": "GI",
+      "venue": "computing in science & engineering",
       "doi": "10.1109/MCSE.2013.131"
     },
     {
@@ -5474,7 +5478,7 @@
       "doi": "10.1007/s12650-016-0376-4"
     },
     {
-      "venue": "GI",
+      "venue": "computing in science & engineering",
       "doi": "10.1109/MCSE.2013.131"
     },
     {
@@ -5526,17 +5530,17 @@
       "doi": "10.1109/TVCG.2009.185"
     },
     {
-      "venue": "acm computing surveys",
+      "venue": "CSUR",
       "doi": "10.1145/116873.116880"
     },
     {
-      "venue": "proceedings of the 27th annual acm symposium on computational geometry",
+      "venue": "SOCG",
       "doi": "10.1145/1998196.1998234"
     }
   ],
   "10.1145/3356422.3356432": [
     {
-      "venue": "journal of wuhan technical university of surveying and mapping",
+      "venue": "jwtusm",
       "doi": "temp2566"
     },
     {
@@ -5560,15 +5564,15 @@
       "doi": "10.1016/j.procs.2015.06.090"
     },
     {
-      "venue": "GI",
+      "venue": "ATSIP",
       "doi": "10.1109/ATSIP.2017.8075612"
     },
     {
-      "venue": "journal of the royal statistical society",
+      "venue": "jrss",
       "doi": "10.5555/540298"
     },
     {
-      "venue": "GI",
+      "venue": "international journal of innovative research in computer and communication engineering",
       "doi": "temp2578"
     },
     {
@@ -5700,7 +5704,7 @@
       "doi": "10.1109/TITS.2011.2157497"
     },
     {
-      "venue": "GI",
+      "venue": "infrared and laser engineering",
       "doi": "temp2622"
     },
     {
@@ -5746,15 +5750,15 @@
       "doi": "10.1109/IVS.2017.7995975"
     },
     {
-      "venue": "corr",
+      "venue": "CoRR",
       "doi": "temp2634"
     },
     {
-      "venue": "corr",
+      "venue": "CoRR",
       "doi": "temp2635"
     },
     {
-      "venue": "corr",
+      "venue": "CoRR",
       "doi": "temp2636"
     }
   ],
@@ -5784,7 +5788,7 @@
       "doi": "temp2644"
     },
     {
-      "venue": "GI",
+      "venue": "neural network and deep learning foundation [j]. digital communication world",
       "doi": "temp2645"
     },
     {
@@ -5928,11 +5932,11 @@
       "doi": "10.1145/2016904.2016906"
     },
     {
-      "venue": "GI",
+      "venue": "psychological review",
       "doi": ".apa.org/getdoi.cfm?doi=10.1037/h0043158"
     },
     {
-      "venue": "GI",
+      "venue": "ieee transactions on software engineering",
       "doi": "10.1109/TSE.2009.67"
     },
     {
@@ -5968,7 +5972,7 @@
       "doi": "10.5555/1884734.1884764"
     },
     {
-      "venue": "GI",
+      "venue": "proc. digital urban modeling and simulation",
       "doi": "temp2708"
     },
     {
@@ -6018,7 +6022,7 @@
       "doi": "temp2721"
     },
     {
-      "venue": "GI",
+      "venue": "computers and industrial engineering",
       "doi": "temp2722"
     },
     {
@@ -6100,7 +6104,7 @@
       "doi": "10.1109/TIP.2010.2095866"
     },
     {
-      "venue": "acm trans. graph",
+      "venue": "TOG",
       "doi": "10.1145/2010324.1964935"
     },
     {
@@ -6144,7 +6148,7 @@
       "doi": "10.1063/1.4822401"
     },
     {
-      "venue": "the american statistician",
+      "venue": "tas",
       "doi": "temp2759"
     },
     {
@@ -6166,7 +6170,7 @@
   ],
   "10.1145/3231622.3231635": [
     {
-      "venue": "GI",
+      "venue": "computer vision, imaging and computer graphics - theory and applications - international joint conference, revised selected papers",
       "doi": "temp2764"
     },
     {
@@ -6234,7 +6238,7 @@
       "doi": "10.5555/949607.949654"
     },
     {
-      "venue": "the american statistician",
+      "venue": "tas",
       "doi": "temp2781"
     },
     {
@@ -6250,7 +6254,7 @@
       "doi": "10.1016/j.jvlc.2013.11.004"
     },
     {
-      "venue": "GI",
+      "venue": "ieee transactions on software engineering",
       "doi": "10.1109/TSE.1981.234519"
     },
     {
@@ -6328,7 +6332,7 @@
       "doi": "10.1068/b220475"
     },
     {
-      "venue": "GI",
+      "venue": "research in engineering design",
       "doi": "temp2809"
     },
     {
@@ -6356,11 +6360,11 @@
       "doi": "temp2817"
     },
     {
-      "venue": "GI",
+      "venue": "2009 sixth international conference on computer graphics, imaging and visualization",
       "doi": "10.1109/CGIV.2009.74"
     },
     {
-      "venue": "the visual computer",
+      "venue": "tvc",
       "doi": "10.1007/s00371-010-0473-7"
     },
     {
@@ -6442,11 +6446,11 @@
       "doi": "10.1109/TVCG.2010.186"
     },
     {
-      "venue": "the american statistician",
+      "venue": "tas",
       "doi": "temp2840"
     },
     {
-      "venue": "VISIGRAPP ",
+      "venue": "VISIGRAPP",
       "doi": "=10.5220/0006267501760185"
     },
     {
@@ -6466,7 +6470,7 @@
       "doi": "10.1109/IV.2009.32"
     },
     {
-      "venue": "journal of experimental psychology: human perception and performance",
+      "venue": "JEP",
       "doi": ".apa.org/getdoi.cfm?doi=10.1037/0096-1523.22.1.173"
     },
     {
@@ -6482,7 +6486,7 @@
       "doi": "10.1145/102377.115768"
     },
     {
-      "venue": "proc. ieee isvd",
+      "venue": "ISVD",
       "doi": "10.1109/ISVD.2010.16"
     },
     {
@@ -6512,19 +6516,19 @@
   ],
   "10.1145/3231622.3231623": [
     {
-      "venue": "international conference on augmented reality",
-      "doi": "temp2860"
+      "venue": "AVR",
+      "doi": "10.1007/978-3-319-60928-7_37"
     },
     {
-      "venue": "congressus numerantium",
-      "doi": "temp2863"
+      "venue": "congress numerantium",
+      "doi": "temp4777"
     },
     {
-      "venue": "discrete applied mathematics",
+      "venue": "DAM",
       "doi": "10.1016/S0166-218X%2800%2900389-9"
     },
     {
-      "venue": "acm computing surveys (csur",
+      "venue": "CSUR",
       "doi": "10.1145/641865.641868"
     },
     {
@@ -6618,7 +6622,7 @@
       "doi": "temp2904"
     },
     {
-      "venue": "GI",
+      "venue": "electronic imaging, proceedings of stereoscopic displays and applications",
       "doi": "temp2905"
     },
     {
@@ -6750,7 +6754,7 @@
       "doi": "temp2942"
     },
     {
-      "venue": "journal of graph algorithms and applications",
+      "venue": "jgaa",
       "doi": "temp2943"
     },
     {
@@ -6798,7 +6802,7 @@
       "doi": "10.1109/VISUAL.2003.1250415"
     },
     {
-      "venue": "GI",
+      "venue": "iasted international conference on computer graphics and imaging",
       "doi": "temp2965"
     },
     {
@@ -6810,7 +6814,7 @@
       "doi": "10.1145/1029208.1029215"
     },
     {
-      "venue": "GI",
+      "venue": "proc. of the 12th int. joint conf. on computer vision, imaging and computer graphics theory and applications",
       "doi": "temp2969"
     },
     {
@@ -6878,7 +6882,7 @@
   ],
   "10.1145/3231622.3231625": [
     {
-      "venue": "GI",
+      "venue": "extended papers of the international symposium on digital humanities (dh 2016): (ceur workshop proceedings",
       "doi": "temp2988"
     },
     {
@@ -6940,7 +6944,7 @@
       "doi": "10.1145/2254556.2254572"
     },
     {
-      "venue": "GI",
+      "venue": "proceedings of the acm symposium on document engineering (doceng '13). acm",
       "doi": "10.1145/2494266.2494271"
     },
     {
@@ -7096,7 +7100,7 @@
       "doi": "temp3050"
     },
     {
-      "venue": "GI",
+      "venue": "digital health",
       "doi": "temp3051"
     },
     {
@@ -7132,7 +7136,7 @@
       "doi": "temp3067"
     },
     {
-      "venue": "GI",
+      "venue": "collaboration technologies and systems (cts), 2016 international conference on. ieee",
       "doi": "temp3068"
     }
   ],
@@ -7180,7 +7184,7 @@
       "doi": "full/10.1080/15551393.2017.1343153"
     },
     {
-      "venue": "GI",
+      "venue": "digital humanities quarterly",
       "doi": "temp3083"
     },
     {
@@ -7414,7 +7418,7 @@
       "doi": "10.1109/TVCG.2012.212"
     },
     {
-      "venue": "GI",
+      "venue": "software engineering ieee transactions on",
       "doi": "10.1109/32.221135"
     }
   ],
@@ -7646,7 +7650,7 @@
   "10.1145/3105971.3108450": [],
   "10.1145/3105971.3108444": [
     {
-      "venue": "GI",
+      "venue": "2009 sixth international conference on computer graphics, imaging and visualization",
       "doi": "10.1109/CGIV.2009.74"
     }
   ],
@@ -7813,7 +7817,7 @@
       "doi": "10.1111/j.0020-2754.1998.00269.x"
     },
     {
-      "venue": "TOG",
+      "venue": "cartography and geographic information systems",
       "doi": "abs/10.1559/152304098782383034"
     },
     {
@@ -7885,7 +7889,7 @@
       "doi": "10.1145/22949.22950"
     },
     {
-      "venue": "computers and graphics",
+      "venue": "c&g",
       "doi": "10.1016/j.cag.2011.01.011"
     },
     {
@@ -7993,7 +7997,7 @@
       "doi": "10.1111/j.1467-8659.2011.01898.x"
     },
     {
-      "venue": "GI",
+      "venue": "ASE",
       "doi": "10.1109/ASE.2006.41"
     }
   ],
@@ -8153,7 +8157,7 @@
       "doi": "10.1080/10447319509526110"
     },
     {
-      "venue": "the visual computer",
+      "venue": "tvc",
       "doi": "10.1007/s00371-013-0892-3"
     },
     {
@@ -8275,7 +8279,7 @@
   ],
   "10.1145/2968220.2968224": [
     {
-      "venue": "GI",
+      "venue": "psychological review",
       "doi": ".apa.org/getdoi.cfm?doi=10.1037/0033-295X.96.3.433"
     },
     {
@@ -8367,7 +8371,7 @@
       "doi": "temp3786"
     },
     {
-      "venue": "GI",
+      "venue": "proceedings of 7th international conference on computer graphics, imaging and visualization (cgiv2010",
       "doi": "10.1109/CGIV.2010.33"
     },
     {
@@ -8437,7 +8441,7 @@
       "doi": "temp3814"
     },
     {
-      "venue": "the visual computer",
+      "venue": "tvc",
       "doi": "temp3815"
     },
     {
@@ -8485,7 +8489,7 @@
       "doi": "full/10.1080/10618600.2012.694762"
     },
     {
-      "venue": "GI",
+      "venue": "journal of computing science and engineering",
       "doi": "temp3829"
     },
     {
@@ -8543,11 +8547,11 @@
       "doi": "10.1145/293701.293710"
     },
     {
-      "venue": "TOG",
+      "venue": "proc. of int. symp. on lbs and telecartography",
       "doi": "temp3847"
     },
     {
-      "venue": "TOG",
+      "venue": "cartogr j",
       "doi": "temp3848"
     },
     {
@@ -8629,7 +8633,7 @@
       "doi": "temp3869"
     },
     {
-      "venue": "GI",
+      "venue": "journal of magnetic resonance imaging",
       "doi": "10.1002/jmri.22478"
     },
     {
@@ -8657,7 +8661,7 @@
       "doi": "temp3881"
     },
     {
-      "venue": "GI",
+      "venue": "journal of digital imaging",
       "doi": "temp3882"
     },
     {
@@ -8673,7 +8677,7 @@
       "doi": "temp3885"
     },
     {
-      "venue": "GI",
+      "venue": "medical imaging, ieee transactions on",
       "doi": "temp3886"
     }
   ],
@@ -8797,15 +8801,15 @@
       "doi": "temp3919"
     },
     {
-      "venue": "TOG",
+      "venue": "cartography and geographic information systems",
       "doi": "abs/10.1559/152304098782383034"
     },
     {
-      "venue": "journal of experimental psychology. applied",
+      "venue": "JEP",
       "doi": ".apa.org/getdoi.cfm?doi=10.1037/1076-898X.13.4.224"
     },
     {
-      "venue": "GI",
+      "venue": "biologically inspired cognitive architectures",
       "doi": "temp3927"
     },
     {
@@ -8825,7 +8829,7 @@
       "doi": "10.1145/2038558.2038579"
     },
     {
-      "venue": "GI",
+      "venue": "psychological review",
       "doi": "temp3935"
     },
     {
@@ -8833,7 +8837,7 @@
       "doi": "10.1006/ijhc.1996.0048"
     },
     {
-      "venue": "GI",
+      "venue": "computing in science & engineering",
       "doi": "10.1109/MCSE.2004.26"
     },
     {
@@ -8851,11 +8855,11 @@
   ],
   "10.1145/2968220.2968240": [
     {
-      "venue": "GI",
+      "venue": "journal of engineering psychology",
       "doi": "temp3944"
     },
     {
-      "venue": "TOG",
+      "venue": "cartographic perspectives",
       "doi": "temp3945"
     },
     {
@@ -8863,11 +8867,11 @@
       "doi": "temp3946"
     },
     {
-      "venue": "journal of the royal statistical society",
+      "venue": "jrss",
       "doi": "temp3947"
     },
     {
-      "venue": "TOG",
+      "venue": "the american cartographer",
       "doi": "abs/10.1559/152304076784080195"
     },
     {
@@ -8875,11 +8879,11 @@
       "doi": "temp3949"
     },
     {
-      "venue": "journal of consumer research",
+      "venue": "jcr",
       "doi": "temp3950"
     },
     {
-      "venue": "TOG",
+      "venue": "tire canadian cartographer",
       "doi": "10.3138/J647-1776-745H-3667"
     },
     {
@@ -8891,7 +8895,7 @@
       "doi": "temp3954"
     },
     {
-      "venue": "journal of consumer research",
+      "venue": "jcr",
       "doi": "temp3955"
     },
     {
@@ -8993,7 +8997,7 @@
       "doi": "10.1145/2702123.2702545"
     },
     {
-      "venue": "GI",
+      "venue": "computing in science and engineering",
       "doi": "10.1109/MCSE.2007.55"
     },
     {
@@ -9043,7 +9047,7 @@
       "doi": "10.1109/TVCG.2012.254"
     },
     {
-      "venue": "acm computing surveys",
+      "venue": "CSUR",
       "doi": "10.1145/1132960.1132963"
     },
     {
@@ -9063,7 +9067,7 @@
       "doi": "10.1109/TVCG.2006.76"
     },
     {
-      "venue": "computers & graphics",
+      "venue": "c&g",
       "doi": "10.1016/j.cag.2007.01.023"
     },
     {
@@ -9199,7 +9203,7 @@
       "doi": "full/10.1073/pnas.0307513100"
     },
     {
-      "venue": "journal of the american society for information science and technology",
+      "venue": "jasist",
       "doi": "10.5555/1115657.1115670"
     },
     {
@@ -9277,7 +9281,7 @@
       "doi": "temp4087"
     },
     {
-      "venue": "GI",
+      "venue": "ieee transactions on knowledge and data enginnering (tkde",
       "doi": "10.1109/TKDE.2015.2485222"
     }
   ],
@@ -9307,11 +9311,11 @@
       "doi": "10.1145/1291233.1291353"
     },
     {
-      "venue": "the visual computer",
+      "venue": "tvc",
       "doi": "temp4096"
     },
     {
-      "venue": "GI",
+      "venue": "proceedings of electronic publishing, artistic imaging, and digital typography",
       "doi": "10.5555/647506.725891"
     },
     {
@@ -9331,7 +9335,7 @@
       "doi": "10.1145/508530.508534"
     },
     {
-      "venue": "the visual computer",
+      "venue": "tvc",
       "doi": "10.1007/s00371-006-0047-x"
     },
     {
@@ -9343,7 +9347,7 @@
       "doi": "10.1145/1377980.1377997"
     },
     {
-      "venue": "the visual computer",
+      "venue": "tvc",
       "doi": "10.1007/s00371-008-0242-z"
     },
     {
@@ -9351,7 +9355,7 @@
       "doi": "10.1109/SIBGRAPI.2008.12"
     },
     {
-      "venue": "the visual computer",
+      "venue": "tvc",
       "doi": "10.1007/s00371-009-0370-0"
     },
     {
@@ -9425,7 +9429,7 @@
       "doi": "temp4149"
     },
     {
-      "venue": "the visual computer",
+      "venue": "tvc",
       "doi": "10.1007/s00371-014-0985-7"
     },
     {
@@ -9505,7 +9509,7 @@
       "doi": "abs/10.1080/00223980.1976.9921410"
     },
     {
-      "venue": "journal of experimental psychology: learning, memory, and cognition.vol",
+      "venue": "JEP",
       "doi": "10.1037//0278-7393.28.3.509."
     },
     {
@@ -9537,7 +9541,7 @@
   ],
   "10.1145/2968220.2968245": [
     {
-      "venue": "computers and graphics",
+      "venue": "c&g",
       "doi": "10.1016/j.cag.2012.12.003"
     },
     {
@@ -9599,7 +9603,7 @@
       "doi": ".apa.org/getdoi.cfm?doi=10.1037/0893-164X.16.2.173"
     },
     {
-      "venue": "GI",
+      "venue": "studia psychologica",
       "doi": "temp4214"
     },
     {
@@ -9646,7 +9650,7 @@
       "doi": "10.1109/VAST.2012.6400557"
     },
     {
-      "venue": "computers & graphics",
+      "venue": "c&g",
       "doi": "10.1016/j.cag.2013.10.008"
     },
     {
@@ -9760,7 +9764,7 @@
       "doi": "temp4264"
     },
     {
-      "venue": "GI",
+      "venue": "international journal of engineering research and innovative technology",
       "doi": "temp4265"
     },
     {
@@ -9794,7 +9798,7 @@
       "doi": "10.5555/2820282.2820304"
     },
     {
-      "venue": "GI",
+      "venue": "proceedings of the acm sigsoft symposium and the european conference on foundations of software engineering",
       "doi": "10.1145/2025113.2025119"
     },
     {
@@ -9814,11 +9818,11 @@
       "doi": "10.1145/1031607.1031622"
     },
     {
-      "venue": "GI",
+      "venue": "ieee transactions on software engineering",
       "doi": "10.1109/32.177365"
     },
     {
-      "venue": "GI",
+      "venue": "proceedings of the international conference on evaluation and assessment in software engineering",
       "doi": "10.1145/2601248.2601283"
     },
     {
@@ -9834,7 +9838,7 @@
       "doi": "temp4287"
     },
     {
-      "venue": "GI",
+      "venue": "proceedings of the australian software engineering conference",
       "doi": "10.1109/ASWEC.2010.18"
     },
     {
@@ -9842,7 +9846,7 @@
       "doi": "temp4290"
     },
     {
-      "venue": "GI",
+      "venue": "WCRE",
       "doi": "10.5555/950792.951381"
     },
     {
@@ -9900,7 +9904,7 @@
       "doi": "10.1145/2556288.2556956"
     },
     {
-      "venue": "computers & graphics",
+      "venue": "c&g",
       "doi": "temp4306"
     },
     {
@@ -10030,7 +10034,7 @@
       "doi": "10.5555/1778331.1778362"
     },
     {
-      "venue": "corr",
+      "venue": "CoRR",
       "doi": "temp4351"
     },
     {
@@ -10222,7 +10226,7 @@
       "doi": "10.1145/2636240.2636841"
     },
     {
-      "venue": "the visual computer",
+      "venue": "tvc",
       "doi": "10.5555/1051759"
     },
     {
@@ -10242,7 +10246,7 @@
       "doi": "temp4424"
     },
     {
-      "venue": "GI",
+      "venue": "on information processing and machine learning for applications of engineering selected papers from the {ieee} 17th international conference on intelligent engineering systems (ines13) solving complex machine learning problems with ensemble methods visual analytics using multidimensional projections selected papers from the workshop on visual analytics using multidimensional projections",
       "doi": "temp4425"
     },
     {
@@ -10280,7 +10284,7 @@
   ],
   "10.1145/2801040.2801046": [
     {
-      "venue": "acm trans. graph",
+      "venue": "TOG",
       "doi": "10.1145/2508363.2508395"
     },
     {
@@ -10296,7 +10300,7 @@
       "doi": "10.1145/2407516.2407594"
     },
     {
-      "venue": "computers & graphics",
+      "venue": "c&g",
       "doi": "10.1016/j.cag.2013.08.004"
     },
     {
@@ -10316,7 +10320,7 @@
       "doi": "10.1145/1809939.1809943"
     },
     {
-      "venue": "acm trans. graph",
+      "venue": "TOG",
       "doi": "10.1145/1073204.1073221"
     },
     {
@@ -10344,7 +10348,7 @@
       "doi": "10.1145/1978942.1979133"
     },
     {
-      "venue": "the visual computer",
+      "venue": "tvc",
       "doi": "temp4451"
     },
     {
@@ -10352,7 +10356,7 @@
       "doi": "10.1145/1015706.1015745"
     },
     {
-      "venue": "acm trans. graph",
+      "venue": "TOG",
       "doi": "10.1145/2461912.2461998"
     },
     {
@@ -10380,7 +10384,7 @@
       "doi": "10.1145/192161.192185"
     },
     {
-      "venue": "acm trans. graph",
+      "venue": "TOG",
       "doi": "10.1145/2699649"
     },
     {
@@ -10464,7 +10468,7 @@
       "doi": "temp4481"
     },
     {
-      "venue": "GI",
+      "venue": "j digit imaging",
       "doi": "temp4482"
     },
     {
@@ -10590,7 +10594,7 @@
       "doi": "temp4528"
     },
     {
-      "venue": "communications of the acm",
+      "venue": "comacm",
       "doi": "10.1145/330534.330538"
     },
     {
@@ -10626,7 +10630,7 @@
       "doi": "10.1145/2522848.2522892"
     },
     {
-      "venue": "GI",
+      "venue": "telkomnika indonesian journal of electrical engineering",
       "doi": "temp4545"
     },
     {
@@ -10658,7 +10662,7 @@
       "doi": "10.1109/34.895976"
     },
     {
-      "venue": "acm trans. graph",
+      "venue": "TOG",
       "doi": "10.1145/2010324.1964963"
     },
     {
@@ -10700,7 +10704,7 @@
       "doi": "10.1109/VAST.2012.6400527"
     },
     {
-      "venue": "GI",
+      "venue": "technologies for homeland security (hst), 2013 ieee international conference on",
       "doi": "temp4571"
     },
     {
@@ -10712,7 +10716,7 @@
       "doi": "temp4573"
     },
     {
-      "venue": "TOG",
+      "venue": "cartographic perspectives",
       "doi": "temp4574"
     },
     {
@@ -10728,7 +10732,7 @@
       "doi": "temp4578"
     },
     {
-      "venue": "GI",
+      "venue": "technologies for homeland security, 2009. hst'09. ieee conference on",
       "doi": "temp4579"
     },
     {
@@ -10736,7 +10740,7 @@
       "doi": "temp4580"
     },
     {
-      "venue": "GI",
+      "venue": "proceedings of the 4th annual workshop on cyber security and information intelligence research: developing strategies to meet the cyber security and information intelligence challenges ahead, csiirw '08",
       "doi": "10.1145/1413140.1413177"
     },
     {
@@ -10882,7 +10886,7 @@
       "doi": "temp4624"
     },
     {
-      "venue": "TOG",
+      "venue": "proceedings of the 21st international cartographic conference: 1988--1996",
       "doi": "temp4625"
     },
     {
@@ -10898,7 +10902,7 @@
       "doi": "temp4631"
     },
     {
-      "venue": "GI",
+      "venue": "chinese meteorological industry standard",
       "doi": "temp4632"
     },
     {
@@ -10948,7 +10952,7 @@
       "doi": "10.1111/j.1467-8659.2005.00889.x"
     },
     {
-      "venue": "ITS",
+      "venue": "ieee transactions on circuits and systems for video technology",
       "doi": "10.1109/76.718510"
     },
     {
@@ -10962,7 +10966,7 @@
       "doi": "10.1109/TVCG.2011.185"
     },
     {
-      "venue": "GI",
+      "venue": "proceedings of international joint conferences on web intelligence (wi) and intelligent agent technologies (iat",
       "doi": "10.1109/WI-IAT.2013.78"
     },
     {
@@ -11070,7 +11074,7 @@
       "doi": "10.1177/002202217300400201"
     },
     {
-      "venue": "GI",
+      "venue": "psychological bulletin",
       "doi": ".apa.org/getdoi.cfm?doi=10.1037/0033-2909.93.2.203"
     },
     {
@@ -11110,7 +11114,7 @@
       "doi": ".apa.org/getdoi.cfm?doi=10.1037/0022-3514.63.4.568"
     },
     {
-      "venue": "GI",
+      "venue": "proceedings of the 2009 annual research conference of the south african institute of computer scientists and information technologists, saicsit '09, acm",
       "doi": "10.1145/1632149.1632167"
     },
     {
@@ -11126,11 +11130,11 @@
       "doi": "temp4701"
     },
     {
-      "venue": "GI",
+      "venue": "psychological review",
       "doi": ".apa.org/getdoi.cfm?doi=10.1037/0033-295X.100.4.609"
     },
     {
-      "venue": "GI",
+      "venue": "psychological bulletin",
       "doi": ".apa.org/getdoi.cfm?doi=10.1037/a0020970"
     },
     {
@@ -11162,7 +11166,7 @@
       "doi": "temp4715"
     },
     {
-      "venue": "computers and graphics",
+      "venue": "c&g",
       "doi": "10.1016/j.cag.2011.01.011"
     },
     {
@@ -11170,7 +11174,7 @@
       "doi": "temp4717"
     },
     {
-      "venue": "GI",
+      "venue": "the psychologist",
       "doi": "temp4718"
     },
     {
@@ -11318,7 +11322,7 @@
       "doi": "10.1111/j.1467-8659.2012.03078.x"
     },
     {
-      "venue": "proceedings of the 24th acm symposium on computational geometry",
+      "venue": "SOCG",
       "doi": "10.1145/1377676.1377683"
     },
     {
@@ -11407,7 +11411,7 @@
       "doi": "temp4790"
     },
     {
-      "venue": "GI",
+      "venue": "the journal of the institute of image information and television engineers",
       "doi": "temp4791"
     }
   ],
@@ -11529,7 +11533,7 @@
       "doi": "10.1109/IV.2006.16"
     },
     {
-      "venue": "GI",
+      "venue": "educational psychologist",
       "doi": "temp4839"
     },
     {
@@ -11557,7 +11561,7 @@
       "doi": "temp4848"
     },
     {
-      "venue": "GI",
+      "venue": "acta psychologica",
       "doi": "temp4849"
     },
     {
@@ -11621,11 +11625,11 @@
       "doi": "temp4867"
     },
     {
-      "venue": "GI",
+      "venue": "educational psychologist",
       "doi": "temp4868"
     },
     {
-      "venue": "GI",
+      "venue": "psychological review",
       "doi": "temp4869"
     },
     {
@@ -11641,7 +11645,7 @@
       "doi": "temp4874"
     },
     {
-      "venue": "GI",
+      "venue": "educational psychologist",
       "doi": "temp4875"
     },
     {
@@ -11677,7 +11681,7 @@
       "doi": "10.1145/2470654.2470696"
     },
     {
-      "venue": "journal of experimental psychology: applied",
+      "venue": "JEP",
       "doi": ".apa.org/getdoi.cfm?doi=10.1037/1076-898X.2.3.270"
     },
     {
@@ -11723,7 +11727,7 @@
       "doi": "10.5555/1038262.1038777"
     },
     {
-      "venue": "TOG",
+      "venue": "cartographic journal, the",
       "doi": "temp4907"
     },
     {
@@ -11765,7 +11769,7 @@
   ],
   "10.1145/2636240.2636841": [
     {
-      "venue": "the visual computer",
+      "venue": "tvc",
       "doi": "10.5555/1051759"
     },
     {
@@ -11817,7 +11821,7 @@
       "doi": "10.5555/1038262.1038786"
     },
     {
-      "venue": "the american statistician",
+      "venue": "tas",
       "doi": "abs/10.1198/000313002533"
     },
     {
@@ -11833,7 +11837,7 @@
       "doi": "10.5555/244979.245597"
     },
     {
-      "venue": "TOG",
+      "venue": "the cartographic journal",
       "doi": "abs/10.1179/000870403235002042"
     },
     {
@@ -11883,7 +11887,7 @@
       "doi": "10.1109/TVCG.2011.226"
     },
     {
-      "venue": "VISIGRAPP ",
+      "venue": "VISIGRAPP",
       "doi": "temp4953"
     },
     {
@@ -12001,7 +12005,7 @@
       "doi": "10.1109/TPAMI.2007.70755"
     },
     {
-      "venue": "GI",
+      "venue": "proc. knowledge-based intelligent information and engineering systems",
       "doi": "10.1007/978-3-540-85565-1_103"
     },
     {
@@ -12063,7 +12067,7 @@
       "doi": "10.1111/j.1467-8659.2009.01666.x"
     },
     {
-      "venue": "the visual computer",
+      "venue": "tvc",
       "doi": "10.5555/1051759"
     },
     {
@@ -12083,7 +12087,7 @@
       "doi": "abs/10.1142/S0218195903001062"
     },
     {
-      "venue": "the visual computer",
+      "venue": "tvc",
       "doi": "10.1007/s00371-013-0892-3"
     },
     {
@@ -12141,7 +12145,7 @@
   ],
   "10.1145/2636240.2636843": [
     {
-      "venue": "GI",
+      "venue": "ieee transactions on software engineering",
       "doi": "10.1109/TSE.2009.67"
     },
     {
@@ -12153,7 +12157,7 @@
       "doi": "temp5033"
     },
     {
-      "venue": "GI",
+      "venue": "acm transactions on software engineering and methodology",
       "doi": "10.1145/1040291.1040293"
     },
     {
@@ -12161,7 +12165,7 @@
       "doi": "temp5035"
     },
     {
-      "venue": "GI",
+      "venue": "ASE",
       "doi": "temp5037"
     },
     {
@@ -12277,7 +12281,7 @@
       "doi": "10.1145/1073368.1073379"
     },
     {
-      "venue": "computers & graphics",
+      "venue": "c&g",
       "doi": "10.1016/j.cag.2013.08.004"
     },
     {
@@ -12321,7 +12325,7 @@
       "doi": "10.1145/1290128.1290133"
     },
     {
-      "venue": "GI",
+      "venue": "journal of basic engineering",
       "doi": "temp5086"
     },
     {
@@ -12333,7 +12337,7 @@
       "doi": "10.5555/1182635.1164203"
     },
     {
-      "venue": "the visual computer",
+      "venue": "tvc",
       "doi": "temp5089"
     },
     {
@@ -12419,7 +12423,7 @@
       "doi": "10.1016/j.jvlc.2009.11.002"
     },
     {
-      "venue": "GI",
+      "venue": "ieee transactions on software engineering",
       "doi": "10.1109/32.60298"
     },
     {
@@ -12467,7 +12471,7 @@
       "doi": "temp5131"
     },
     {
-      "venue": "GI",
+      "venue": "proceedings of the 10th international conference on current trends in web engineering, icwe'10",
       "doi": "10.5555/1927229.1927232"
     },
     {
@@ -12487,11 +12491,11 @@
       "doi": "10.1145/1518701.1518987"
     },
     {
-      "venue": "GI",
+      "venue": "proceedings of the 10th international conference on web information systems engineering, wise '09",
       "doi": "10.1007/978-3-642-04409-0_18"
     },
     {
-      "venue": "GI",
+      "venue": "proceedings of the 2004 acm workshop on formal methods in security engineering, fmse '04",
       "doi": "10.1145/1029133.1029141"
     }
   ],
@@ -12669,7 +12673,7 @@
       "doi": "10.1145/1316624.1316646"
     },
     {
-      "venue": "GI",
+      "venue": "ieee transactions on software engineering",
       "doi": "10.1109/TSE.2011.64"
     },
     {
@@ -12687,7 +12691,7 @@
   ],
   "10.1145/2636240.2636845": [
     {
-      "venue": "corr",
+      "venue": "CoRR",
       "doi": "temp5196"
     },
     {
@@ -12721,7 +12725,7 @@
       "doi": "temp5219"
     },
     {
-      "venue": "GI",
+      "venue": "master's thesis, virginia polytechnic institute and state university.(august",
       "doi": "temp5222"
     },
     {
@@ -12733,7 +12737,7 @@
       "doi": "temp5224"
     },
     {
-      "venue": "GI",
+      "venue": "proceedings of information and communication technologies for development",
       "doi": "10.1109/ICTD.2006.301849."
     },
     {
@@ -12745,7 +12749,7 @@
       "doi": "temp5232"
     },
     {
-      "venue": "GI",
+      "venue": "proceedings of the 3rd international conference on tangible and embedded interaction",
       "doi": "10.1145/1517664.1517699"
     },
     {
@@ -12807,7 +12811,7 @@
       "doi": ".apa.org/getdoi.cfm?doi=10.1037/0021-9010.63.4.428"
     },
     {
-      "venue": "journal of consumer research",
+      "venue": "jcr",
       "doi": "temp5273"
     },
     {
@@ -12835,7 +12839,7 @@
       "doi": "10.1109/HICSS.2007.325"
     },
     {
-      "venue": "computers & graphics",
+      "venue": "c&g",
       "doi": "10.1016/j.cag.2013.11.002"
     },
     {
@@ -12967,7 +12971,7 @@
       "doi": "10.1145/989863.989880"
     },
     {
-      "venue": "journal of graph algorithms and applications",
+      "venue": "jgaa",
       "doi": "temp5335"
     },
     {
@@ -12975,7 +12979,7 @@
       "doi": "10.5555/647549.728779"
     },
     {
-      "venue": "GI",
+      "venue": "psychological bulletin",
       "doi": ".apa.org/getdoi.cfm?doi=10.1037/0033-2909.124.3.372"
     },
     {
@@ -12983,7 +12987,7 @@
       "doi": "temp5342"
     },
     {
-      "venue": "journal of the american society for information science",
+      "venue": "jasist",
       "doi": "10.1002/asi.20106"
     },
     {
@@ -13013,7 +13017,7 @@
       "doi": "temp5351"
     },
     {
-      "venue": "communications of the acm",
+      "venue": "comacm",
       "doi": "10.1145/176789.176793"
     },
     {
@@ -13191,7 +13195,7 @@
       "doi": "10.1145/1922649.1922658"
     },
     {
-      "venue": "GI",
+      "venue": "proceedings of the 10th international conference on web information systems engineering, wise '09",
       "doi": "10.1007/978-3-642-04409-0_18"
     },
     {
@@ -13249,7 +13253,7 @@
       "doi": "10.1016/j.matcom.2009.02.011"
     },
     {
-      "venue": "GI",
+      "venue": "acta metallurgica sinica",
       "doi": "temp5505"
     },
     {
@@ -13273,7 +13277,7 @@
       "doi": "temp5510"
     },
     {
-      "venue": "GI",
+      "venue": "materials science and engineering",
       "doi": "temp5511"
     },
     {
@@ -13303,6 +13307,10 @@
     {
       "venue": "GD",
       "doi": "10.5555/647554.729718"
+    },
+    {
+      "venue": "congress numerantium",
+      "doi": "temp4777"
     },
     {
       "venue": "TVCG",
@@ -13343,7 +13351,7 @@
       "doi": "10.1145/102377.115768"
     },
     {
-      "venue": "proceedings of the 24th acm symposium on computational geometry",
+      "venue": "SOCG",
       "doi": "10.1145/1377676.1377683"
     },
     {
@@ -13383,7 +13391,7 @@
       "doi": "temp5597"
     },
     {
-      "venue": "journal of experimental psychology: human perception & performance",
+      "venue": "JEP",
       "doi": "temp5598"
     },
     {
@@ -13445,7 +13453,7 @@
       "doi": "10.1057/palgrave.ivs.9500087"
     },
     {
-      "venue": "proceedings of the 24th acm symposium on computational geometry",
+      "venue": "SOCG",
       "doi": "10.1145/1377676.1377683"
     },
     {
@@ -13453,7 +13461,7 @@
       "doi": "10.5555/857190.857683"
     },
     {
-      "venue": "proc. ieee isvd",
+      "venue": "ISVD",
       "doi": "10.1109/ISVD.2010.16"
     },
     {
@@ -13542,7 +13550,7 @@
       "doi": "10.1109/TVCG.2009.179"
     },
     {
-      "venue": "GI",
+      "venue": "international journal of computer and information engineering",
       "doi": "temp5718"
     }
   ],
@@ -13588,7 +13596,7 @@
   ],
   "10.1145/2397696.2397699": [
     {
-      "venue": "the visual computer",
+      "venue": "tvc",
       "doi": "10.5555/1051759"
     },
     {
@@ -13639,7 +13647,7 @@
       "doi": "10.1145/331770.331780"
     },
     {
-      "venue": "TOG",
+      "venue": "the cartographic journal",
       "doi": "abs/10.1179/000870403235002042"
     }
   ],
@@ -13689,7 +13697,7 @@
   ],
   "10.1145/2397696.2397706": [
     {
-      "venue": "communications of the acm",
+      "venue": "comacm",
       "doi": "10.1145/361219.361220"
     },
     {
@@ -13701,7 +13709,7 @@
       "doi": "10.1112/blms/9.3.261"
     },
     {
-      "venue": "journal of the royal statistical society. series c (applied statistics",
+      "venue": "jrss",
       "doi": "temp5909"
     },
     {
@@ -13709,7 +13717,7 @@
       "doi": "10.1109/TVCG.2008.119"
     },
     {
-      "venue": "the visual computer",
+      "venue": "tvc",
       "doi": "10.1007/BF01898350"
     },
     {
@@ -13759,7 +13767,7 @@
       "doi": "10.1109/TMC.2006.152"
     },
     {
-      "venue": "GI",
+      "venue": "ieee transactions on software engineering",
       "doi": "10.1109/TSE.2011.64"
     },
     {
@@ -13808,7 +13816,7 @@
       "doi": "temp6007"
     },
     {
-      "venue": "journal of experimental psychology: applied",
+      "venue": "JEP",
       "doi": ".apa.org/getdoi.cfm?doi=10.1037/1076-898X.8.1.57"
     }
   ],
@@ -13858,7 +13866,7 @@
       "doi": "10.1145/1842993.1843001"
     },
     {
-      "venue": "computers and graphics",
+      "venue": "c&g",
       "doi": "10.1016/j.cag.2009.06.004"
     },
     {
@@ -13920,7 +13928,7 @@
       "doi": "temp6060"
     },
     {
-      "venue": "journal of the american society for information science",
+      "venue": "jasist",
       "doi": "10.1002/%28SICI%291097-4571%28199701%2948%3A1%253C40%3A%3AAID-ASI6%253E3.0.CO%3B2-1"
     },
     {
@@ -13928,7 +13936,7 @@
       "doi": "10.5555/794192.794831"
     },
     {
-      "venue": "WWW",
+      "venue": "Journal of Visual Languages & Computing",
       "doi": "10.1145/1013367.1013386"
     },
     {
@@ -13944,7 +13952,7 @@
       "doi": "10.1145/142750.142763"
     },
     {
-      "venue": "communications of the acm",
+      "venue": "comacm",
       "doi": "10.1145/198366.198384"
     },
     {
@@ -13994,7 +14002,7 @@
       "doi": "abs/10.1504/IJEM.2009.031567"
     },
     {
-      "venue": "GI",
+      "venue": "comacm",
       "doi": "10.1145/1226736.1226766"
     },
     {
@@ -14024,7 +14032,7 @@
       "doi": "abs/10.1080/00140137808931762"
     },
     {
-      "venue": "j. experiment. psych",
+      "venue": "JEP",
       "doi": ".apa.org/getdoi.cfm?doi=10.1037/h0055392"
     },
     {
@@ -14103,7 +14111,7 @@
       "doi": "10.1109/2.488299"
     },
     {
-      "venue": "GI",
+      "venue": "ieee transactions on software engineering",
       "doi": "10.1109/32.177365"
     },
     {
@@ -14305,7 +14313,7 @@
       "doi": "10.5555/580582.857719"
     },
     {
-      "venue": "the american statistician",
+      "venue": "tas",
       "doi": "temp6365"
     },
     {
@@ -14415,11 +14423,11 @@
       "doi": "temp6405"
     },
     {
-      "venue": "GI",
+      "venue": "systerms engineering-theory and practice",
       "doi": "temp6406"
     },
     {
-      "venue": "communications of the acm",
+      "venue": "comacm",
       "doi": "10.1145/341852.341868"
     },
     {
@@ -14441,7 +14449,7 @@
       "doi": "temp6412"
     },
     {
-      "venue": "the visual computer",
+      "venue": "tvc",
       "doi": "10.5555/1051759"
     },
     {
@@ -14479,7 +14487,7 @@
       "doi": "10.1145/1054972.1055031"
     },
     {
-      "venue": "the visual computer",
+      "venue": "tvc",
       "doi": "10.5555/1051759"
     },
     {
@@ -14577,7 +14585,7 @@
       "doi": "temp6458"
     },
     {
-      "venue": "journal of experimental psychology: applied",
+      "venue": "JEP",
       "doi": ".apa.org/getdoi.cfm?doi=10.1037/1076-898X.8.1.57"
     },
     {
@@ -14609,7 +14617,7 @@
       "doi": "10.5555/647403.723688"
     },
     {
-      "venue": "ITS",
+      "venue": "journal of circuits, systems, and computers",
       "doi": "temp6495"
     },
     {
@@ -14623,7 +14631,7 @@
       "doi": "temp6502"
     },
     {
-      "venue": "proceedings of the 12th annual acm symposium on computational geometry, may 24--26",
+      "venue": "SOCG",
       "doi": "10.1145/237218.237407"
     },
     {
@@ -14635,7 +14643,7 @@
       "doi": "10.1109/VLHCC.2005.33"
     },
     {
-      "venue": "GI",
+      "venue": "proceedings of the 6th iasted international conference on visualization, imaging, and image processing (viip '06",
       "doi": "temp6508"
     },
     {
@@ -14863,7 +14871,7 @@
       "doi": "temp6590"
     },
     {
-      "venue": "GI",
+      "venue": "journal of natural language engineering",
       "doi": "10.1017/S1351324909990192"
     },
     {
@@ -14905,7 +14913,7 @@
       "doi": "10.1145/1242572.1242602"
     },
     {
-      "venue": "GI",
+      "venue": "psychological review",
       "doi": "temp6603"
     },
     {
@@ -14913,7 +14921,7 @@
       "doi": "10.1006/ijhc.1995.1066"
     },
     {
-      "venue": "journal of experimental psychology",
+      "venue": "JEP",
       "doi": ".apa.org/getdoi.cfm?doi=10.1037/0096-3445.104.3.192"
     },
     {
@@ -14929,7 +14937,7 @@
       "doi": "10.1145/1242572.1242826"
     },
     {
-      "venue": "GI",
+      "venue": "international conference on multidisciplinary information sciences and technologies",
       "doi": "temp6610"
     },
     {
@@ -14937,7 +14945,7 @@
       "doi": "10.1145/1242572.1242700"
     },
     {
-      "venue": "GI",
+      "venue": "journal of digital information",
       "doi": "temp6612"
     },
     {
@@ -14973,7 +14981,7 @@
       "doi": "10.5555/647548.757113"
     },
     {
-      "venue": "journal of graph algorithms and applications",
+      "venue": "jgaa",
       "doi": "temp6621"
     },
     {
@@ -15141,7 +15149,7 @@
       "doi": "10.1109/TVCG.2009.117"
     },
     {
-      "venue": "the american statistician",
+      "venue": "tas",
       "doi": "temp6672"
     },
     {
@@ -15203,7 +15211,7 @@
       "doi": "10.1145/792704.792729"
     },
     {
-      "venue": "GI",
+      "venue": "proceedings of the international conference on data engineering",
       "doi": "temp6692"
     },
     {
@@ -15325,7 +15333,7 @@
       "doi": "10.5555/1778528.1778544"
     },
     {
-      "venue": "TOG",
+      "venue": "international archives of photogrammetry remote sensing and spatial information sciences",
       "doi": "temp6750"
     },
     {
@@ -15333,7 +15341,7 @@
       "doi": "10.1177/0013916584142005"
     },
     {
-      "venue": "GI",
+      "venue": "spatial coginition and computation",
       "doi": "10.1023/A%3A1015566423907"
     },
     {
@@ -15341,7 +15349,7 @@
       "doi": "temp6756"
     },
     {
-      "venue": "GI",
+      "venue": "proceedings of the first joint workshop on contemporary knowledge engineering and cognition",
       "doi": "10.5555/648262.753365"
     },
     {
@@ -15399,7 +15407,7 @@
       "doi": "temp09_7"
     },
     {
-      "venue": "GI",
+      "venue": "conference on digital interactive media in entertainment and arts (dimea’08",
       "doi": "temp09_9"
     },
     {
@@ -15413,7 +15421,7 @@
       "doi": "temp09_17"
     },
     {
-      "venue": "discrete applied mathematics",
+      "venue": "DAM",
       "doi": "temp09_18"
     },
     {
@@ -15487,7 +15495,7 @@
       "doi": "temp09_40"
     },
     {
-      "venue": "journal of graph algorithms and applications",
+      "venue": "jgaa",
       "doi": "temp09_41"
     },
     {
@@ -15499,7 +15507,7 @@
       "doi": "temp09_45"
     },
     {
-      "venue": "proceedings 14th annual acm symposium of computational geometry (socg’98",
+      "venue": "SOCG",
       "doi": "temp09_46"
     },
     {
@@ -15507,7 +15515,7 @@
       "doi": "temp09_49"
     },
     {
-      "venue": "GI",
+      "venue": "proceedings ieee international conference on e-business engineering",
       "doi": "temp09_50"
     },
     {
@@ -15523,7 +15531,7 @@
       "doi": "temp09_53"
     },
     {
-      "venue": "GI",
+      "venue": "proceedings of computer graphics international (cgi ’01",
       "doi": "temp09_54"
     },
     {
@@ -15593,7 +15601,7 @@
       "doi": "temp09_81"
     },
     {
-      "venue": "GI",
+      "venue": "man. the journal of the royal anthropological institute",
       "doi": "temp09_82"
     },
     {
@@ -15601,7 +15609,7 @@
       "doi": "temp09_83"
     },
     {
-      "venue": "TOG",
+      "venue": "cartographica",
       "doi": "temp09_84"
     },
     {
@@ -15621,7 +15629,7 @@
       "doi": "temp09_89"
     },
     {
-      "venue": "TOG",
+      "venue": "cartography in the european renaissance",
       "doi": "temp09_92"
     },
     {
@@ -15643,7 +15651,7 @@
       "doi": "temp09_101"
     },
     {
-      "venue": "journal of graph algorithms and applications",
+      "venue": "jgaa",
       "doi": "temp09_102"
     },
     {
@@ -15663,7 +15671,7 @@
       "doi": "temp09_106"
     },
     {
-      "venue": "communications of the acm",
+      "venue": "comacm",
       "doi": "temp09_107"
     },
     {
@@ -15785,7 +15793,7 @@
       "doi": "temp09_140"
     },
     {
-      "venue": "GI",
+      "venue": "is&t/spie’s international symposium on electronic imaging, conference on visualization and data analysis 2007",
       "doi": "temp09_141"
     },
     {
@@ -15901,7 +15909,7 @@
   ],
   "10.1007/978-1-4419-0312-9_10": [
     {
-      "venue": "GI",
+      "venue": "2004 annual national conference on digital government research",
       "doi": "temp09_190"
     },
     {
@@ -15913,7 +15921,7 @@
       "doi": "temp09_193"
     },
     {
-      "venue": "theory and method. psychometrika",
+      "venue": "psychometrika",
       "doi": "temp09_194"
     },
     {
@@ -15925,7 +15933,7 @@
       "doi": "temp09_198"
     },
     {
-      "venue": "GI",
+      "venue": "third ieee international conference on digital ecosystems and technologies (dest 2009), ieee",
       "doi": "temp09_199"
     },
     {
@@ -16063,11 +16071,11 @@
   ],
   "10.1007/978-1-4419-0312-9_13": [
     {
-      "venue": "journal of the american society for information science",
+      "venue": "jasist",
       "doi": "temp09_255"
     },
     {
-      "venue": "journal of the american society for information science",
+      "venue": "jasist",
       "doi": "temp09_256"
     },
     {
@@ -16083,7 +16091,7 @@
       "doi": "temp09_259"
     },
     {
-      "venue": "journal of the american society for information science",
+      "venue": "jasist",
       "doi": "temp09_260"
     },
     {
@@ -16095,7 +16103,7 @@
       "doi": "temp09_262"
     },
     {
-      "venue": "journal of the american society for information science",
+      "venue": "jasist",
       "doi": "temp09_268"
     },
     {
@@ -16153,7 +16161,7 @@
       "doi": "temp09_282"
     },
     {
-      "venue": "GI",
+      "venue": "ieee transactions on software engineering",
       "doi": "temp09_283"
     },
     {
@@ -16221,7 +16229,7 @@
       "doi": "temp09_300"
     },
     {
-      "venue": "journal of graph algorithms and applications",
+      "venue": "jgaa",
       "doi": "temp09_301"
     },
     {
@@ -16342,11 +16350,11 @@
       "doi": "temp09_353"
     },
     {
-      "venue": "the visual computer",
+      "venue": "tvc",
       "doi": "temp09_354"
     },
     {
-      "venue": "GI",
+      "venue": "proc. 5th international conference on computer graphics, imaging and visualization. cgiv, isbn",
       "doi": "temp09_355"
     },
     {
@@ -16410,7 +16418,7 @@
       "doi": "temp09_382"
     },
     {
-      "venue": "GI",
+      "venue": "proc. of the 9th european conference on software maintenance and reengineering",
       "doi": "temp09_383"
     },
     {
@@ -16418,7 +16426,7 @@
       "doi": "temp09_384"
     },
     {
-      "venue": "GI",
+      "venue": "proc. of the 2009 world congress on software engineering (wcse 2009",
       "doi": "temp09_385"
     },
     {
@@ -16430,11 +16438,11 @@
       "doi": "temp09_387"
     },
     {
-      "venue": "GI",
+      "venue": "proc. of the conference on the future of software engineering",
       "doi": "temp09_389"
     },
     {
-      "venue": "GI",
+      "venue": "LNCS",
       "doi": "temp09_390"
     },
     {
@@ -16446,7 +16454,7 @@
       "doi": "temp09_392"
     },
     {
-      "venue": "GI",
+      "venue": "acm sigsoft software engineering notes",
       "doi": "temp09_393"
     },
     {
@@ -16462,7 +16470,7 @@
       "doi": "temp09_396"
     },
     {
-      "venue": "journal of the american society for information science",
+      "venue": "jasist",
       "doi": "temp09_399"
     },
     {
@@ -16496,21 +16504,21 @@
       "doi": "temp09_408"
     },
     {
-      "venue": "GI",
+      "venue": "2nd workshop on aspect-oriented product line engineering (aople’07) co-located with the 6th international conference on generative programming and component engineering (gpce’07). online proceedings",
       "doi": "temp09_410"
     },
     {
-      "venue": "GI",
+      "venue": "proceedings of the 4th international conference on generative programming and component engineering",
       "doi": "temp09_411"
     },
     {
-      "venue": "GI",
+      "venue": "proceedings of the 5th international conference on generative programming and component engineering (gpce’06",
       "doi": "temp09_412"
     }
   ],
   "10.1007/978-1-4419-0312-9_21": [
     {
-      "venue": "ITS",
+      "venue": "proceedings of the 20th annual conference on integrated circuits and systems design, copacabana, rio de janeiro",
       "doi": "temp09_413"
     },
     {
@@ -16594,7 +16602,7 @@
       "doi": "temp09_439"
     },
     {
-      "venue": "GI",
+      "venue": "information and communication technologies",
       "doi": "temp09_440"
     },
     {
@@ -16602,7 +16610,7 @@
       "doi": "temp09_441"
     },
     {
-      "venue": "GI",
+      "venue": "spie medical imaging’03",
       "doi": "temp09_443"
     },
     {
@@ -16614,7 +16622,7 @@
       "doi": "temp09_445"
     },
     {
-      "venue": "GI",
+      "venue": "journal of magnetic resonance imaging",
       "doi": "temp09_446"
     },
     {
@@ -16646,7 +16654,7 @@
       "doi": "temp09_453"
     },
     {
-      "venue": "computers and graphics",
+      "venue": "c&g",
       "doi": "temp09_455"
     },
     {
@@ -16666,7 +16674,7 @@
       "doi": "temp09_463"
     },
     {
-      "venue": "GI",
+      "venue": "proc. 14th nordic-baltic conference on biomedical engineering and medical physics",
       "doi": "temp09_464"
     },
     {
@@ -16698,11 +16706,11 @@
       "doi": "temp09_480"
     },
     {
-      "venue": "GI",
+      "venue": "proc. of the joint international conference on computing and decision making in civil and building engineer-ing",
       "doi": "temp09_481"
     },
     {
-      "venue": "GI",
+      "venue": "cd proc. of the 10th biennial asce aerospace division international confer-ence on engineering, construction and operations in chal-lenging environments (earth and space 2006",
       "doi": "temp09_482"
     },
     {
@@ -16718,7 +16726,7 @@
       "doi": "temp09_486"
     },
     {
-      "venue": "computers and graphics",
+      "venue": "c&g",
       "doi": "temp09_487"
     },
     {
@@ -16734,7 +16742,7 @@
       "doi": "temp09_490"
     },
     {
-      "venue": "GI",
+      "venue": "proc. intl conf. augmented virtual environments and 3d imaging, greece",
       "doi": "temp09_491"
     },
     {
@@ -16802,7 +16810,7 @@
       "doi": "temp09_509"
     },
     {
-      "venue": "computers and graphics",
+      "venue": "c&g",
       "doi": "temp09_511"
     },
     {
@@ -16894,7 +16902,7 @@
       "doi": "temp09_545"
     },
     {
-      "venue": "communications of the acm",
+      "venue": "comacm",
       "doi": "temp09_547"
     },
     {
@@ -17070,7 +17078,7 @@
       "doi": "temp09_604"
     },
     {
-      "venue": "ITS",
+      "venue": "proc. interservice/industry training, simulation, and education conference, (i/itsec ’02",
       "doi": "temp09_608"
     },
     {
@@ -17106,7 +17114,7 @@
       "doi": "temp09_623"
     },
     {
-      "venue": "GI",
+      "venue": "proc. asce third congress on computing in civil engineering",
       "doi": "temp09_624"
     },
     {
@@ -17114,7 +17122,7 @@
       "doi": "temp09_625"
     },
     {
-      "venue": "GI",
+      "venue": "proc. 8th international conference on computing in civil and building engineering",
       "doi": "temp09_626"
     },
     {
@@ -17154,7 +17162,7 @@
       "doi": "temp09_637"
     },
     {
-      "venue": "TOG",
+      "venue": "proc. the international archives of the photogrammetry, remote sensing and spatial information sciences",
       "doi": "temp09_638"
     },
     {
@@ -17306,7 +17314,7 @@
       "doi": "temp09_686"
     },
     {
-      "venue": "GI",
+      "venue": "advanced engineering informatics",
       "doi": "temp09_687"
     },
     {
@@ -17322,7 +17330,7 @@
       "doi": "temp09_691"
     },
     {
-      "venue": "GI",
+      "venue": "world trans. on engineering and technology education",
       "doi": "temp09_692"
     },
     {
@@ -17330,7 +17338,7 @@
       "doi": "temp09_693"
     },
     {
-      "venue": "computers and graphics",
+      "venue": "c&g",
       "doi": "temp09_694"
     },
     {
@@ -17438,7 +17446,7 @@
       "doi": "temp09_736"
     },
     {
-      "venue": "GI",
+      "venue": "the second international conference on intelligent technologies for interactive entertainment (icst intetain ’08",
       "doi": "temp09_739"
     },
     {
@@ -17472,7 +17480,7 @@
       "doi": "temp09_749"
     },
     {
-      "venue": "GI",
+      "venue": "proceedings of spie - the international society for optical engineering",
       "doi": "temp09_750"
     },
     {
@@ -17484,7 +17492,7 @@
       "doi": "temp09_753"
     },
     {
-      "venue": "ITS",
+      "venue": "ieee international symposium on circuits and systems",
       "doi": "temp09_754"
     },
     {
@@ -17504,7 +17512,7 @@
       "doi": "temp09_760"
     },
     {
-      "venue": "GI",
+      "venue": "proc. of the 2nd international workshop on digital watermarking",
       "doi": "temp09_761"
     },
     {
@@ -17536,7 +17544,7 @@
   ],
   "10.1007/978-1-4419-0312-9_24": [
     {
-      "venue": "j. communications of the acm",
+      "venue": "comacm",
       "doi": "temp09_774"
     },
     {

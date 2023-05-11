@@ -31,7 +31,7 @@
     "venue": "Proc. International Symposium on Smart Graphics",
     "location": "",
     "note": "",
-    "publisher": "",
+    "publisher": "springer",
     "volume": "",
     "pages": "247–254"
   },
@@ -48,7 +48,7 @@
     "venue": "Proc. EuroVis (Posters",
     "location": "",
     "note": "",
-    "publisher": "",
+    "publisher": "The Eurographics Association",
     "volume": "",
     "pages": "113–115"
   },
@@ -64,7 +64,7 @@
     "venue": "Computer vision, graphics, and image processing",
     "location": "",
     "note": "",
-    "publisher": "",
+    "publisher": "Elsevier Science",
     "volume": "3",
     "pages": "344–371"
   },
@@ -99,7 +99,7 @@
     "venue": "IEEE Transactions on Automation Science and Engineering",
     "location": "",
     "note": "",
-    "publisher": "",
+    "publisher": "IEEE",
     "volume": "3",
     "pages": "382–394"
   },
@@ -117,7 +117,7 @@
     "venue": "Proc. International Conference on Parallel Processing",
     "location": "",
     "note": "",
-    "publisher": "",
+    "publisher": "IEEE",
     "volume": "",
     "pages": "382–391"
   },
@@ -531,7 +531,7 @@
     "venue": "Journal of Visual Languages & Computing",
     "location": "",
     "note": "",
-    "publisher": "",
+    "publisher": "Elsevier Science",
     "volume": "25, 6",
     "pages": "924–934"
   },
@@ -675,7 +675,7 @@
     "venue": "Proc. ACM Conference on Designing Interactive Systems",
     "location": "",
     "note": "",
-    "publisher": "",
+    "publisher": "acm",
     "volume": "",
     "pages": "543–555"
   },
@@ -730,7 +730,7 @@
     "venue": "Proc. ACM Symposium on User Interface Software and Technology",
     "location": "",
     "note": "",
-    "publisher": "",
+    "publisher": "acm",
     "volume": "",
     "pages": "243–252"
   },
@@ -750,7 +750,7 @@
     "venue": "ACM Transactions on Multimedia Computing, Communications, and Applications",
     "location": "",
     "note": "",
-    "publisher": "",
+    "publisher": "acm",
     "volume": "2",
     "pages": "1–22"
   },
@@ -885,7 +885,7 @@
     "venue": "Journal of Computer-Aided Design & Computer Graphics",
     "location": "",
     "note": "",
-    "publisher": "",
+    "publisher": "sciengine",
     "volume": "33",
     "pages": "1092–1101,"
   },
@@ -1959,7 +1959,7 @@
     "venue": "Proceedings of the AAAI conference on artificial intelligence",
     "location": "",
     "note": "",
-    "publisher": "",
+    "publisher": "AAAI press",
     "volume": "33",
     "pages": "590–597"
   },
@@ -2569,7 +2569,7 @@
     "venue": "IJCAI: Proceedings of the Conference",
     "location": "",
     "note": "NIH Public Access, 4951.",
-    "publisher": "",
+    "publisher": "IJCAI",
     "volume": "",
     "pages": ""
   },
@@ -3298,7 +3298,7 @@
     "venue": "Journal of Visualization",
     "location": "",
     "note": "",
-    "publisher": "",
+    "publisher": "springer",
     "volume": "24, 5",
     "pages": "943–961"
   },
@@ -31731,7 +31731,7 @@
     "authors": [
       "Peter Eades"
     ],
-    "doi": "temp1670",
+    "doi": "temp4777",
     "venue": "",
     "location": "",
     "note": "",
@@ -37515,7 +37515,7 @@
     "venue": "Proceedings of the AAAI Conference on Artificial Intelligence",
     "location": "",
     "note": "",
-    "publisher": "",
+    "publisher": "aaai press",
     "volume": "33",
     "pages": "1393–1400"
   },
@@ -38567,7 +38567,7 @@
     "venue": "Procedia Computer Science",
     "location": "",
     "note": "",
-    "publisher": "",
+    "publisher": "elsevier",
     "volume": "47",
     "pages": "197–204"
   },
@@ -47160,7 +47160,7 @@
     "authors": [
       "Peter Eades"
     ],
-    "doi": "temp2473",
+    "doi": "temp4777",
     "venue": "Congressus numerantium",
     "location": "",
     "note": "",
@@ -48116,7 +48116,7 @@
       "Calgary, Alberta, Canada"
     ],
     "note": "Canadian Human-Computer Communications Society (CHCCS),",
-    "publisher": "",
+    "publisher": "acm",
     "volume": "",
     "pages": "17–24"
   },
@@ -49102,7 +49102,7 @@
     "venue": "Procedia Computer Science",
     "location": "",
     "note": "",
-    "publisher": "",
+    "publisher": "elsevier",
     "volume": "54",
     "pages": "764 – 771"
   },
@@ -54539,13 +54539,13 @@
   "temp2860": {
     "type": "paper-conference",
     "title": "Steering Versus Teleport Locomotion for Head Mounted Displays",
-    "url": "",
+    "url": "https://doi.org/10.1007/978-3-319-60928-7_37",
     "date": "2017",
     "authors": [
       "Chris G. Christou",
       "Poppy Aristidou"
     ],
-    "doi": "temp2860",
+    "doi": "10.1007/978-3-319-60928-7_37",
     "venue": "International Conference on Augmented Reality",
     "location": "",
     "note": "",
@@ -54604,7 +54604,7 @@
     "authors": [
       "Peter Eades"
     ],
-    "doi": "temp2863",
+    "doi": "temp4777",
     "venue": "Congressus numerantium",
     "location": "",
     "note": "",
@@ -54650,7 +54650,7 @@
   "temp2866": {
     "type": "article-journal",
     "title": "A multiscale algorithm for drawing graphs nicely",
-    "url": "",
+    "url": "https://www.sciencedirect.com/science/article/pii/S0166218X00003899",
     "date": [
       "2001",
       "2001"
@@ -54663,7 +54663,7 @@
     "venue": "Discrete Applied Mathematics",
     "location": "",
     "note": "",
-    "publisher": "",
+    "publisher": "Elsevier",
     "volume": "113, 1",
     "pages": "3–21"
   },
@@ -60437,7 +60437,7 @@
     "venue": "Proceedings of the 17th Brazilian Symposium on Computer Graphics and Image Processing",
     "location": "",
     "note": "",
-    "publisher": "",
+    "publisher": "ieee",
     "volume": "",
     "pages": "340–347,"
   },
@@ -73941,7 +73941,7 @@
     "venue": "Proc. Graphics Interface 2007",
     "location": "",
     "note": "",
-    "publisher": "",
+    "publisher": "acm",
     "volume": "",
     "pages": "119–125,"
   },
@@ -74596,7 +74596,7 @@
     "venue": "Journal of the Royal Statistical Society",
     "location": "",
     "note": "Series A (General), 192--229.",
-    "publisher": "",
+    "publisher": "Oxford University Press",
     "volume": "",
     "pages": ""
   },
@@ -81294,7 +81294,7 @@
     "venue": "ACM Transactions on Graphics",
     "location": "",
     "note": "",
-    "publisher": "",
+    "publisher": "acm",
     "volume": "21",
     "pages": ""
   },
@@ -83930,7 +83930,7 @@
     "venue": "Computer Graphics Forum",
     "location": "",
     "note": "",
-    "publisher": "",
+    "publisher": "Eurographics Association",
     "volume": "27",
     "pages": ""
   },
@@ -89650,7 +89650,7 @@
     "type": "article-journal",
     "title": "A heuristic for graph drawing",
     "url": "",
-    "date": "1994",
+    "date": "1984",
     "authors": [
       "P. Eades"
     ],
@@ -94813,7 +94813,7 @@
       "J. Wolter"
     ],
     "doi": "temp5070",
-    "venue": "",
+    "venue": "CoRR",
     "location": "",
     "note": "The Computing Research Repository (CoRR), abs/1311.5126, 2013.",
     "publisher": "",
@@ -96913,7 +96913,7 @@
     "venue": "Proc. 7th Annual ACM symposium on User Interface Software and Technology (UIST'1994",
     "location": "",
     "note": "",
-    "publisher": "ACM Press",
+    "publisher": "ACM",
     "volume": "",
     "pages": "13–14"
   },
@@ -103296,7 +103296,7 @@
     "authors": [
       "P. Eades"
     ],
-    "doi": "temp5541",
+    "doi": "temp4777",
     "venue": "",
     "location": "",
     "note": "",
@@ -112039,7 +112039,7 @@
     "venue": "Computers and Graphics",
     "location": "",
     "note": "",
-    "publisher": "",
+    "publisher": "elsevier",
     "volume": "33",
     "pages": ""
   },
@@ -112607,7 +112607,6 @@
     ],
     "doi": "10.1145/1013367.1013386",
     "venue": [
-      "Proceedings of the 13th international World Wide Web conference on Alternate track papers\\& posters. 2004, ACM",
       "Journal of Visual Languages & Computing"
     ],
     "location": "New York, NY, USA",
@@ -113826,7 +113825,6 @@
     ],
     "doi": ".apa.org/getdoi.cfm?doi=10.1037/h0055392",
     "venue": [
-      "J. Experiment. Psych",
       "Journal of Experimental Psychology: General"
     ],
     "location": "",
