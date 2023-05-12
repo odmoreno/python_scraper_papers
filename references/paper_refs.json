@@ -48,7 +48,7 @@
     "venue": "Proc. EuroVis (Posters",
     "location": "",
     "note": "",
-    "publisher": "The Eurographics Association",
+    "publisher": "Eurographics Association",
     "volume": "",
     "pages": "113–115"
   },
@@ -4270,7 +4270,7 @@
     "venue": "Information Visualization",
     "location": "",
     "note": "",
-    "publisher": "",
+    "publisher": "sage",
     "volume": "1, 1",
     "pages": "50–65"
   },
@@ -5651,7 +5651,7 @@
     ],
     "location": "",
     "note": "",
-    "publisher": "",
+    "publisher": "Eurographics Association",
     "volume": "",
     "pages": ""
   },
@@ -8194,7 +8194,7 @@
     "venue": "Proc. 20th SIGKDD International Conference on Knowledge Discovery and Data Mining(KDD ’14). ACM",
     "location": "",
     "note": "",
-    "publisher": "",
+    "publisher": "acm",
     "volume": "",
     "pages": "1007–1016"
   },
@@ -8651,7 +8651,7 @@
     "venue": "Information Visualization",
     "location": "",
     "note": "",
-    "publisher": "",
+    "publisher": "sage",
     "volume": "10, 4",
     "pages": "327–340"
   },
@@ -9009,7 +9009,7 @@
     "venue": "Proc. ACM Intl. Conf. Knowledge Discovery and Data Mining (SIGKDD",
     "location": "",
     "note": "",
-    "publisher": "",
+    "publisher": "acm",
     "volume": "",
     "pages": "245–250"
   },
@@ -9418,7 +9418,7 @@
     "venue": "Information Visualization",
     "location": "",
     "note": "",
-    "publisher": "",
+    "publisher": "sage",
     "volume": "18, 4",
     "pages": "426–438"
   },
@@ -9812,7 +9812,7 @@
     "venue": "Information Visualization",
     "location": "",
     "note": "",
-    "publisher": "",
+    "publisher": "sage",
     "volume": "1",
     "pages": [
       "3–4",
@@ -10419,7 +10419,7 @@
     "venue": "Proceedings of the 3rd International Conference on Knowledge Discovery and Data Mining",
     "location": "Seattle, WA",
     "note": "",
-    "publisher": "AAAI Press",
+    "publisher": "acm",
     "volume": "",
     "pages": "359–370"
   },
@@ -10500,7 +10500,7 @@
     "venue": "Information Visualization",
     "location": "",
     "note": "",
-    "publisher": "",
+    "publisher": "sage",
     "volume": "19, 3",
     "pages": "207–233"
   },
@@ -12485,7 +12485,6 @@
     ],
     "note": "",
     "publisher": [
-      "Proceedings",
       "Springer"
     ],
     "volume": "",
@@ -12576,7 +12575,7 @@
     "venue": "Proc. Computer Graphics and Visual Computing (CGVC",
     "location": "",
     "note": "",
-    "publisher": "The Eurographics Association",
+    "publisher": "Eurographics Association",
     "volume": "",
     "pages": "69–76"
   },
@@ -14500,7 +14499,7 @@
     "venue": "Information Visualization",
     "location": "",
     "note": "",
-    "publisher": "",
+    "publisher": "sage",
     "volume": "15, 3",
     "pages": "198–213"
   },
@@ -17236,7 +17235,7 @@
     "venue": "Information Visualization",
     "location": "",
     "note": "",
-    "publisher": "",
+    "publisher": "sage",
     "volume": "10, 4",
     "pages": "327–340"
   },
@@ -18190,7 +18189,7 @@
     "venue": "Information Visualization",
     "location": "",
     "note": "",
-    "publisher": "",
+    "publisher": "sage",
     "volume": "4, 2",
     "pages": "114–135"
   },
@@ -18730,7 +18729,7 @@
     "venue": "Information Visualization",
     "location": "",
     "note": "",
-    "publisher": "",
+    "publisher": "sage",
     "volume": "12, 2",
     "pages": "200–216"
   },
@@ -22971,10 +22970,10 @@
       "Jonathan I. Helfman"
     ],
     "doi": "10.1177/154193120504900508",
-    "venue": "",
+    "venue": "Proceedings of the Human Factors and Ergonomics Society Annual Meeting",
     "location": "",
     "note": "",
-    "publisher": "",
+    "publisher": "sage",
     "volume": "",
     "pages": ""
   },
@@ -23989,7 +23988,7 @@
     "venue": "In",
     "location": "",
     "note": "",
-    "publisher": "",
+    "publisher": "springer",
     "volume": "",
     "pages": ""
   },
@@ -34542,7 +34541,7 @@
     "venue": "In",
     "location": "",
     "note": "",
-    "publisher": "",
+    "publisher": "Indented Pixel Tree Plots",
     "volume": "",
     "pages": ""
   },
@@ -38298,7 +38297,7 @@
     "venue": "Proceedings of the 22nd ACM SIGKDD international conference on Knowledge discovery and data mining. ACM",
     "location": "",
     "note": "",
-    "publisher": "",
+    "publisher": "acm",
     "volume": "",
     "pages": "855–864"
   },
@@ -40681,7 +40680,7 @@
     "venue": "Information Visualization",
     "location": "",
     "note": "",
-    "publisher": "",
+    "publisher": "sage",
     "volume": "18, 1",
     "pages": "138–152"
   },
@@ -40869,7 +40868,7 @@
       "Falk Schreiber"
     ],
     "doi": "10.2312/vcbm.20171234",
-    "venue": "Eurographics Workshop on Visual Computing for Biology and Medicine. The Eurographics Association",
+    "venue": "Eurographics Workshop on Visual Computing for Biology and Medicine. Eurographics Association",
     "location": "",
     "note": "",
     "publisher": "",
@@ -41258,10 +41257,10 @@
       "Christopher D. Wickens"
     ],
     "doi": "10.1518/001872001775870359",
-    "venue": "Intensity Coding, and Decluttering Techniques [J]. Human Factors",
+    "venue": "Human Factors: The Journal of the Human Factors and Ergonomics Society",
     "location": "",
     "note": "",
-    "publisher": "",
+    "publisher": "sagepub",
     "volume": "43",
     "pages": "543–562"
   },
@@ -41544,12 +41543,12 @@
     ],
     "doi": "10.2312/VisSym/VisSym04/261-266",
     "venue": [
-      "Proc. EG/IEEE VisSym",
-      "The Eurographics Association"
+      "Proc. EG/IEEE VisSym | IEEE VGTC Symposium on Visualization",
+      "Eurographics Association"
     ],
     "location": "",
     "note": "",
-    "publisher": "",
+    "publisher": "Eurographics Association",
     "volume": "",
     "pages": ""
   },
@@ -41912,7 +41911,7 @@
     ],
     "location": "",
     "note": "",
-    "publisher": "The Eurographics Association",
+    "publisher": "Eurographics Association",
     "volume": "",
     "pages": ""
   },
@@ -42548,7 +42547,7 @@
     "venue": "Information Visualization",
     "location": "",
     "note": "",
-    "publisher": "",
+    "publisher": "sage",
     "volume": "12, 2",
     "pages": "200–216"
   },
@@ -42719,10 +42718,10 @@
       "Jürgen Döllner"
     ],
     "doi": "10.2312/cgvc.20151246",
-    "venue": "Proc. CGVC. The Eurographics Association",
+    "venue": "Proc. CGVC. Eurographics Association",
     "location": "",
     "note": "",
-    "publisher": "",
+    "publisher": "Eurographics Association",
     "volume": "",
     "pages": ""
   },
@@ -43720,7 +43719,7 @@
     "venue": "Information Visualization",
     "location": "",
     "note": "",
-    "publisher": "",
+    "publisher": "sage",
     "volume": "14, 2",
     "pages": "168–180"
   },
@@ -45506,7 +45505,7 @@
     "venue": "Proceedings of International Symposium on Visual Computing",
     "location": "",
     "note": "",
-    "publisher": "",
+    "publisher": "Springer Press",
     "volume": "",
     "pages": "338–349"
   },
@@ -51248,7 +51247,7 @@
       "Florian Mansmann"
     ],
     "doi": "temp2691",
-    "venue": "Proc. Eurographics Conference on Visualization. The Eurographics Association",
+    "venue": "Proc. Eurographics Conference on Visualization. Eurographics Association",
     "location": "",
     "note": "",
     "publisher": "",
@@ -51700,7 +51699,7 @@
     "venue": "Information Visualization",
     "location": "",
     "note": "",
-    "publisher": "",
+    "publisher": "sage",
     "volume": "12",
     "pages": [
       "3–4",
@@ -52873,7 +52872,7 @@
     "venue": "Proceedings of 6th International Symposium on Advances in Visual Computing, ISVC",
     "location": "",
     "note": "",
-    "publisher": "",
+    "publisher": "springer",
     "volume": "",
     "pages": "338–349"
   },
@@ -52891,7 +52890,7 @@
     "venue": "Proceedings of 7th International Symposium on Advances in Visual Computing, ISVC",
     "location": "",
     "note": "",
-    "publisher": "",
+    "publisher": "springer",
     "volume": "",
     "pages": "301–312"
   },
@@ -53114,7 +53113,7 @@
     "venue": "Proceedings of the 5th Intern. Symp. on Advances in Visual Computing",
     "location": "",
     "note": "",
-    "publisher": "",
+    "publisher": "springer",
     "volume": "",
     "pages": "970–981"
   },
@@ -55663,7 +55662,7 @@
     "venue": "Proceedings of the International Symposium on Advances in Visual Computing, ISVC",
     "location": "",
     "note": "",
-    "publisher": "",
+    "publisher": "springer",
     "volume": "",
     "pages": "151–160"
   },
@@ -56497,7 +56496,7 @@
     "venue": "Advances in visual computing",
     "location": "",
     "note": "",
-    "publisher": "",
+    "publisher": "springer",
     "volume": "",
     "pages": "696–705"
   },
@@ -56775,7 +56774,7 @@
     "venue": "Proceedings of the International Symposium on Advances in Visual Computing, ISVC",
     "location": "",
     "note": "",
-    "publisher": "",
+    "publisher": "springer",
     "volume": "",
     "pages": "151–160"
   },
@@ -57018,7 +57017,7 @@
     "venue": "Information Visualization",
     "location": "",
     "note": "",
-    "publisher": "",
+    "publisher": "sage",
     "volume": "12, 1",
     "pages": "85–101"
   },
@@ -58180,7 +58179,7 @@
     "venue": "Information Visualization",
     "location": "",
     "note": "",
-    "publisher": "",
+    "publisher": "sage",
     "volume": "7, 2",
     "pages": "118–132"
   },
@@ -58891,7 +58890,7 @@
     "venue": "Information Visualization",
     "location": "",
     "note": "",
-    "publisher": "",
+    "publisher": "sage",
     "volume": "10, 4",
     "pages": "310–326"
   },
@@ -58974,7 +58973,7 @@
     "venue": "Information Visualization",
     "location": "",
     "note": "",
-    "publisher": "",
+    "publisher": "sage",
     "volume": "10, 4",
     "pages": "356–371"
   },
@@ -59014,7 +59013,7 @@
     "venue": "Information Visualization",
     "location": "",
     "note": "",
-    "publisher": "",
+    "publisher": "sage",
     "volume": "15, 3",
     "pages": "238–252"
   },
@@ -59126,7 +59125,7 @@
     "venue": "Proceedings of 11th International Symposium on Advances in Visual Computing, ISVC",
     "location": "",
     "note": "",
-    "publisher": "",
+    "publisher": "springer",
     "volume": "",
     "pages": "733–744"
   },
@@ -59163,7 +59162,7 @@
     "venue": "Proceedings of the International Symposium on Advances in Visual Computing, ISVC",
     "location": "",
     "note": "",
-    "publisher": "",
+    "publisher": "springer",
     "volume": "",
     "pages": "151–160"
   },
@@ -62470,7 +62469,7 @@
     "venue": "In",
     "location": "",
     "note": "",
-    "publisher": "",
+    "publisher": "springer",
     "volume": "",
     "pages": ""
   },
@@ -63246,7 +63245,7 @@
     "venue": "Information visualization",
     "location": "",
     "note": "",
-    "publisher": "",
+    "publisher": "sage",
     "volume": "7",
     "pages": "118–132"
   },
@@ -64866,7 +64865,7 @@
     "venue": "Information Visualization",
     "location": "",
     "note": "",
-    "publisher": "",
+    "publisher": "sage",
     "volume": "1",
     "pages": "103–110"
   },
@@ -70375,7 +70374,7 @@
     "venue": "Information Visualization",
     "location": "",
     "note": "",
-    "publisher": "",
+    "publisher": "sage",
     "volume": "6",
     "pages": ""
   },
@@ -71726,7 +71725,7 @@
     "venue": "Information Visualization",
     "location": "",
     "note": "",
-    "publisher": "",
+    "publisher": "sage",
     "volume": "8",
     "pages": "309–314"
   },
@@ -72088,7 +72087,7 @@
     "venue": "Information Visualization",
     "location": "",
     "note": "",
-    "publisher": "",
+    "publisher": "sage",
     "volume": "9",
     "pages": "301–311"
   },
@@ -78360,7 +78359,7 @@
     "venue": "Information Visualization",
     "location": "",
     "note": "",
-    "publisher": "",
+    "publisher": "sage",
     "volume": "",
     "pages": ""
   },
@@ -78380,7 +78379,7 @@
     "venue": "Information Visualization",
     "location": "",
     "note": "",
-    "publisher": "",
+    "publisher": "sage",
     "volume": "15",
     "pages": "93–116"
   },
@@ -79818,7 +79817,7 @@
     "venue": "Information Visualization",
     "location": "",
     "note": "",
-    "publisher": "",
+    "publisher": "sage",
     "volume": "12",
     "pages": ""
   },
@@ -80857,7 +80856,7 @@
     "venue": "Proceedings of the International Conference on Advances in Visual Computing",
     "location": "",
     "note": "",
-    "publisher": "",
+    "publisher": "springer",
     "volume": "",
     "pages": "447–457,"
   },
@@ -81466,7 +81465,7 @@
     "venue": "Proc. Advances in Visual Computing",
     "location": "",
     "note": "",
-    "publisher": "",
+    "publisher": "springer",
     "volume": "",
     "pages": "970–981,"
   },
@@ -81880,7 +81879,7 @@
     "venue": "Information Visualization",
     "location": "",
     "note": "",
-    "publisher": "",
+    "publisher": "sage",
     "volume": "4",
     "pages": ""
   },
@@ -82766,7 +82765,7 @@
     "venue": "Information Visualization",
     "location": "",
     "note": "",
-    "publisher": "",
+    "publisher": "sage",
     "volume": "1",
     "pages": ""
   },
@@ -83117,7 +83116,7 @@
     "venue": "Eurographics 2013-State of the Art Reports",
     "location": "",
     "note": "",
-    "publisher": "The Eurographics Association",
+    "publisher": "Eurographics Association",
     "volume": "",
     "pages": "95–116"
   },
@@ -91045,7 +91044,7 @@
     "venue": "Information Visualization",
     "location": "",
     "note": "",
-    "publisher": "",
+    "publisher": "sage",
     "volume": "11",
     "pages": "205–221"
   },
@@ -91063,7 +91062,7 @@
     "venue": "Information Visualization",
     "location": "",
     "note": "",
-    "publisher": "",
+    "publisher": "sage",
     "volume": "8",
     "pages": "139–152"
   },
@@ -92424,7 +92423,7 @@
     "venue": "Information Visualization",
     "location": "",
     "note": "",
-    "publisher": "",
+    "publisher": "sage",
     "volume": "1",
     "pages": ""
   },
@@ -92648,7 +92647,7 @@
     "venue": "EuroVis",
     "location": "",
     "note": "",
-    "publisher": "The Eurographics Association",
+    "publisher": "Eurographics Association",
     "volume": "",
     "pages": ""
   },
@@ -94341,7 +94340,7 @@
     "venue": "Information Visualization",
     "location": "",
     "note": "",
-    "publisher": "",
+    "publisher": "sage",
     "volume": "10",
     "pages": "271–288,"
   },
@@ -99585,7 +99584,7 @@
     "venue": "Information Visualization",
     "location": "",
     "note": "",
-    "publisher": "",
+    "publisher": "sage",
     "volume": "4, 1",
     "pages": "1–21"
   },
@@ -99906,7 +99905,7 @@
     "venue": "Information Visualization",
     "location": "",
     "note": "",
-    "publisher": "",
+    "publisher": "sage",
     "volume": "1",
     "pages": "103–110"
   },
@@ -100748,7 +100747,7 @@
     "venue": "Information Visualization",
     "location": "",
     "note": "",
-    "publisher": "",
+    "publisher": "sage",
     "volume": "7",
     "pages": ""
   },
@@ -100813,7 +100812,7 @@
     "venue": "Information Visualization",
     "location": "",
     "note": "",
-    "publisher": "",
+    "publisher": "sage",
     "volume": "10",
     "pages": ""
   },
@@ -115126,7 +115125,7 @@
     "venue": "Information Visualization",
     "location": "",
     "note": "",
-    "publisher": "",
+    "publisher": "sage",
     "volume": "",
     "pages": "125–136,"
   },
@@ -115549,7 +115548,7 @@
     "venue": "Information Visualization",
     "location": "",
     "note": "",
-    "publisher": "",
+    "publisher": "sage",
     "volume": "5",
     "pages": "125–136"
   },
@@ -117663,7 +117662,7 @@
     "venue": "Information Visualization",
     "location": "",
     "note": "",
-    "publisher": "Palgrave Macmillan",
+    "publisher": "sage",
     "volume": "3",
     "pages": "227–244"
   },
@@ -119568,7 +119567,7 @@
     "venue": "Information Visualization",
     "location": "",
     "note": "",
-    "publisher": "",
+    "publisher": "sage",
     "volume": "8",
     "pages": ""
   },
@@ -119757,7 +119756,7 @@
     "venue": "Information Visualization",
     "location": "",
     "note": "",
-    "publisher": "",
+    "publisher": "sage",
     "volume": "1",
     "pages": "103–110"
   },
@@ -123177,7 +123176,7 @@
     "venue": "Information Visualization",
     "location": "",
     "note": "",
-    "publisher": "Palgrave Macmillan",
+    "publisher": "sage",
     "volume": "3",
     "pages": "227–244"
   },
@@ -123450,7 +123449,7 @@
     "venue": "Information Visualization",
     "location": "",
     "note": "",
-    "publisher": "Palgrave Macmillan",
+    "publisher": "sage",
     "volume": "7",
     "pages": "198–209"
   },

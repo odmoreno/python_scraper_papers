@@ -1,0 +1,279 @@
+{
+  "ieee": {
+    "name": "ieee",
+    "venues": {
+      "smc": 0,
+      "tvcg": 0,
+      "ieee automation science and engineering": 0,
+      "icpp": 0,
+      "vl/hcc": 0,
+      "pacificvis": 0,
+      "isbi": 0,
+      "ieee software": 0,
+      "cvpr": 0,
+      "embc": 0,
+      "iccv": 0,
+      "cg&a": 0,
+      "infovis": 0,
+      "sibgrapi": 0,
+      "bigdata": 0,
+      "vast": 0,
+      "iv": 0,
+      "ieee vr": 0,
+      "ismar": 0,
+      "vissoft": 0,
+      "computational physics conference": 0,
+      "wcre": 0,
+      "wpc": 0,
+      "criwg": 0,
+      "atsip": 0,
+      "pami": 0,
+      "tse": 0,
+      "isvd": 0,
+      "ldav": 0,
+      "icpr": 0,
+      "icip": 0,
+      "icra": 0,
+      "information visualization ieee": 0
+    }
+  },
+  "springer": {
+    "name": "springer",
+    "venues": {
+      "sg": 0,
+      "gd": 0,
+      "eccv": 0,
+      "ipmi": 0,
+      "jov": 0,
+      "psychometrika": 0,
+      "dmkd": 0,
+      "tvc": 0,
+      "isvc": 0,
+      "ijcv": 0,
+      "lncs": 0,
+      "informationsciences": 0,
+      "avr": 0,
+      "information visualization springer": 0
+    }
+  },
+  "the eurographics association": {
+    "name": "the eurographics association",
+    "venues": {
+      "eurovis": 0,
+      "cgvc": 0
+    }
+  },
+  "elsevier": {
+    "name": "elsevier",
+    "venues": {
+      "cvgip": 0,
+      "journal of visual languages & computing": 0,
+      "c&g": 0,
+      "jvlc": 0,
+      "neuroimage": 0,
+      "ijhcs": 0,
+      "dam": 0
+    }
+  },
+  "": {
+    "name": "",
+    "venues": {
+      "corr": 0,
+      "nips": 0,
+      "jwtusm": 0,
+      "isca": 0,
+      "sui": 0
+    }
+  },
+  "acm": {
+    "name": "acm",
+    "venues": {
+      "iui": 0,
+      "gi": 0,
+      "tog": 0,
+      "its": 0,
+      "comacm": 0,
+      "dis": 0,
+      "tomccap": 0,
+      "acm multimedia": 0,
+      "socg": 0,
+      "eurosys": 0,
+      "icse": 0,
+      "asplos": 0,
+      "tois": 0,
+      "sigir": 0,
+      "csur": 0,
+      "web3d": 0,
+      "wsdm": 0,
+      "apgv": 0,
+      "ase": 0,
+      "tist": 0,
+      "cscw": 0,
+      "www": 0,
+      "cikm": 0,
+      "soda": 0,
+      "information visualization acm": 0,
+      "tochi": 0,
+      "sigcomm": 0
+    }
+  },
+  "association for computing machinery": {
+    "name": "association for computing machinery",
+    "venues": {
+      "chi": 0,
+      "uist": 0,
+      "vinci": 0,
+      "sigkdd": 0
+    }
+  },
+  "plos one": {
+    "name": "plos one",
+    "venues": {
+      "plos one": 0
+    }
+  },
+  "eurographics association": {
+    "name": "eurographics association",
+    "venues": {
+      "cgf": 0,
+      "siggraph": 0
+    }
+  },
+  "sciengine": {
+    "name": "sciengine",
+    "venues": {
+      "cadcg": 0
+    }
+  },
+  "mit press direct": {
+    "name": "mit press direct",
+    "venues": {
+      "leonardo": 0
+    }
+  },
+  "aaai press": {
+    "name": "aaai press",
+    "venues": {
+      "aaai": 0,
+      "kdd": 0
+    }
+  },
+  "morgan kaufmann publishers inc": {
+    "name": "morgan kaufmann publishers inc",
+    "venues": {
+      "icml": 0
+    }
+  },
+  "ijcai": {
+    "name": "ijcai",
+    "venues": {
+      "ijcai": 0
+    }
+  },
+  "sage": {
+    "name": "sage",
+    "venues": {
+      "information visualization": 0,
+      "information visualization sage": 0,
+      "euac": 0
+    }
+  },
+  "oxford university press": {
+    "name": "oxford university press",
+    "venues": {
+      "jrss": 0
+    }
+  },
+  "asa": {
+    "name": "asa",
+    "venues": {
+      "tas": 0,
+      "jcgs": 0
+    }
+  },
+  "insticc, scitepress": {
+    "name": "insticc, scitepress",
+    "venues": {
+      "visigrapp": 0
+    }
+  },
+  "microtome publishing": {
+    "name": "microtome publishing",
+    "venues": {
+      "jmlr": 0
+    }
+  },
+  "asis&t": {
+    "name": "asis&t",
+    "venues": {
+      "jasist": 0
+    }
+  },
+  "brown university": {
+    "name": "brown university",
+    "venues": {
+      "jgaa": 0
+    }
+  },
+  "john wiley & sons": {
+    "name": "john wiley & sons",
+    "venues": {
+      "jos": 0
+    }
+  },
+  "association for computational linguistics": {
+    "name": "association for computational linguistics",
+    "venues": {
+      "acl": 0,
+      "coling": 0
+    }
+  },
+  "university of hawai’i at manoa": {
+    "name": "university of hawai’i at manoa",
+    "venues": {
+      "hicss": 0
+    }
+  },
+  "union agency - science press": {
+    "name": "union agency - science press",
+    "venues": {
+      "wscg": 0
+    }
+  },
+  "science and technology publications": {
+    "name": "science and technology publications",
+    "venues": {
+      "grapp": 0
+    }
+  },
+  "american psychological association": {
+    "name": "american psychological association",
+    "venues": {
+      "jep": 0
+    }
+  },
+  "citeseer": {
+    "name": "citeseer",
+    "venues": {
+      "emnlp": 0
+    }
+  },
+  "oxford academic": {
+    "name": "oxford academic",
+    "venues": {
+      "jcr": 0
+    }
+  },
+  "tex users group": {
+    "name": "tex users group",
+    "venues": {
+      "mm": 0
+    }
+  },
+  "australian computer society, inc. darlinghurst, australia": {
+    "name": "australian computer society, inc. darlinghurst, australia",
+    "venues": {
+      "information visualization australian computer society, inc. darlinghurst, australia": 0
+    }
+  }
+}

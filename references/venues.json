@@ -2,586 +2,733 @@
   "SMC": {
     "name": "IEEE Transactions on Systems, Man, and Cybernetics: Systems",
     "code": "SMC",
-    "publisher": "IEEE"
+    "publisher": "IEEE",
+    "value": 10
   },
   "SG": {
     "name": "International Symposium on Smart Graphics",
     "code": "SG",
-    "publisher": "SPRINGER"
+    "publisher": "SPRINGER",
+    "value": 4
   },
   "EuroVis": {
     "name": "European Conference on Visualization",
     "code": "EuroVis",
-    "publisher": "the eurographics association"
+    "publisher": "the eurographics association",
+    "value": 11
   },
   "CVGIP": {
     "name": "Computer Vision, Graphics, and Image Processing",
     "code": "CVGIP",
-    "publisher": "Elsevier"
+    "publisher": "Elsevier",
+    "value": 1
   },
   "TVCG": {
     "name": "IEEE Transactions on Visualization and Computer Graphics",
     "code": "TVCG",
-    "publisher": "IEEE"
+    "publisher": "IEEE",
+    "value": 364
   },
   "IEEE Automation Science and Engineering": {
     "name": "IEEE Transactions on Automation Science and Engineering",
     "code": "IEEE Automation Science and Engineering",
-    "publisher": "IEEE"
+    "publisher": "IEEE",
+    "value": 1
   },
   "ICPP": {
     "name": "International Conference on Parallel Processing",
     "code": "ICPP",
-    "publisher": "IEEE"
+    "publisher": "IEEE",
+    "value": 2
   },
   "CoRR": {
     "name": "Computing Research Repository ",
     "code": "CoRR",
-    "publisher": ""
+    "publisher": "",
+    "value": 8
   },
   "GD": {
     "name": "Graph Drawing",
     "code": "GD",
-    "publisher": "SPRINGER"
+    "publisher": "SPRINGER",
+    "value": 50
   },
   "IUI": {
     "name": "International Conference on Intelligent User Interfaces",
     "code": "IUI",
-    "publisher": "ACM"
+    "publisher": "ACM",
+    "value": 15
   },
   "VL/HCC": {
     "name": "IEEE Symposium on Visual Languages and Human-Centric Computing",
     "code": "VL/HCC",
-    "publisher": "IEEE"
+    "publisher": "IEEE",
+    "value": 31
   },
   "GI": {
     "name": "Proceedings of Graphics Interface",
     "code": "GI",
-    "publisher": "ACM"
+    "publisher": "ACM",
+    "value": 9
   },
   "CHI": {
     "name": "ACM Conference on Human-Computer Interaction",
     "code": "CHI",
-    "publisher": "association for computing machinery"
+    "publisher": "association for computing machinery",
+    "value": 163
   },
   "TOG": {
     "name": "ACM Transactions on Graphics",
     "code": "TOG",
-    "publisher": "ACM"
+    "publisher": "ACM",
+    "value": 36
   },
   "PLOS ONE": {
     "name": "PloS one, inclusive journal community",
     "code": "PLOS ONE",
-    "publisher": "PLOS ONE"
+    "publisher": "PLOS ONE",
+    "value": 10
   },
   "PacificVis": {
     "name": "IEEE Pacific Visualization Symposium",
     "code": "PacificVis",
-    "publisher": "IEEE"
+    "publisher": "IEEE",
+    "value": 40
   },
   "CGF": {
     "name": "Computer Graphics Forum (journal of Eurographics)",
     "code": "CGF",
-    "publisher": "eurographics association"
+    "publisher": "eurographics association",
+    "value": 91
   },
   "ITS": {
     "name": "ACM Conference on Interactive Tabletops and Surfaces",
     "code": "ITS",
-    "publisher": "ACM"
+    "publisher": "ACM",
+    "value": 7
   },
   "Journal of Visual Languages & Computing": {
     "name": "Journal of Visual Languages & Computing",
     "code": "Journal of Visual Languages & Computing",
-    "publisher": "Elsevier"
+    "publisher": "Elsevier",
+    "value": 10
   },
   "comacm": {
     "name": "Communications of the ACM",
     "code": "comacm",
-    "publisher": "ACM"
+    "publisher": "ACM",
+    "value": 21
   },
   "DIS": {
     "name": "ACM Conference on Designing Interactive Systems",
     "code": "DIS",
-    "publisher": "ACM"
+    "publisher": "ACM",
+    "value": 4
   },
   "UIST": {
     "name": "ACM Symposium on User Interface Software and Technology",
     "code": "UIST",
-    "publisher": "association for computing machinery"
+    "publisher": "association for computing machinery",
+    "value": 24
   },
   "TOMCCAP": {
     "name": "ACM Transactions on Multimedia Computing, Communications, and Applications",
     "code": "TOMCCAP",
-    "publisher": "ACM"
+    "publisher": "ACM",
+    "value": 1
   },
   "ACM Multimedia": {
     "name": "Acm international conference on multimedia",
     "code": "ACM Multimedia",
-    "publisher": "ACM"
+    "publisher": "ACM",
+    "value": 11
   },
   "CADCG": {
     "name": "Journal of Computer-Aided Design & Computer Graphics",
     "code": "CADCG",
-    "publisher": "sciengine"
+    "publisher": "sciengine",
+    "value": 3
   },
   "c&g": {
     "name": "Journal of Systems & Applications in Computer Graphics",
     "code": "c&g",
-    "publisher": "Elsevier"
+    "publisher": "Elsevier",
+    "value": 22
   },
   "Leonardo": {
     "name": "",
     "code": "Leonardo",
-    "publisher": "mit press direct"
+    "publisher": "mit press direct",
+    "value": 6
   },
   "ECCV": {
     "name": "European Conference on Computer Vision",
     "code": "ECCV",
-    "publisher": "SPRINGER"
+    "publisher": "SPRINGER",
+    "value": 7
   },
   "ISBI": {
     "name": "IEEE International Symposium on Biomedical Imaging",
     "code": "ISBI",
-    "publisher": "IEEE"
+    "publisher": "IEEE",
+    "value": 4
   },
   "ieee software": {
     "name": "",
     "code": "ieee software",
-    "publisher": "IEEE"
+    "publisher": "IEEE",
+    "value": 73
   },
   "IPMI": {
     "name": "International conference on information processing in medical imaging",
     "code": "IPMI",
-    "publisher": "SPRINGER"
+    "publisher": "SPRINGER",
+    "value": 1
   },
   "CVPR": {
     "name": "conference on computer vision and pattern recognition",
     "code": "CVPR",
-    "publisher": "IEEE"
+    "publisher": "IEEE",
+    "value": 16
   },
   "AAAI": {
     "name": "national conference on artificial intelligence",
     "code": "AAAI",
-    "publisher": "aaai press"
+    "publisher": "aaai press",
+    "value": 10
   },
   "EMBC": {
     "name": "Engineering in Medicine & Biology Society",
     "code": "EMBC",
-    "publisher": "IEEE"
+    "publisher": "IEEE",
+    "value": 1
   },
   "ICCV": {
     "name": "international conference on computer vision",
     "code": "ICCV",
-    "publisher": "IEEE"
+    "publisher": "IEEE",
+    "value": 15
   },
   "ICML": {
     "name": "international conference on machine learning",
     "code": "ICML",
-    "publisher": "morgan kaufmann publishers inc"
+    "publisher": "morgan kaufmann publishers inc",
+    "value": 7
   },
   "IJCAI": {
     "name": "international joint conference on artificial intelligence",
     "code": "IJCAI",
-    "publisher": "ijcai"
+    "publisher": "ijcai",
+    "value": 1
   },
   "SOCG": {
     "name": "symposium on computational geometry",
     "code": "SOCG",
-    "publisher": "ACM"
+    "publisher": "ACM",
+    "value": 5
   },
   "CG&A": {
     "name": "Computer Graphics and Applications",
     "code": "CG&A",
-    "publisher": "IEEE"
+    "publisher": "IEEE",
+    "value": 45
   },
   "JOV": {
     "name": "Journal of Visualization",
     "code": "JOV",
-    "publisher": "SPRINGER"
+    "publisher": "SPRINGER",
+    "value": 12
   },
   "SIGGRAPH": {
     "name": "SIG GRAPH (special interest group on computer graphics and interactive techniques)",
     "code": "SIGGRAPH",
-    "publisher": "eurographics association"
+    "publisher": "eurographics association",
+    "value": 54
   },
   "InfoVis": {
     "name": "IEEE Symposium on Information Visualization",
     "code": "InfoVis",
-    "publisher": "IEEE"
+    "publisher": "IEEE",
+    "value": 183
   },
   "Information Visualization": {
     "name": "Information Visualization Journal",
     "code": "Information Visualization",
-    "publisher": "ACM"
+    "publisher": "sage",
+    "value": 73
+  },
+  "Information Visualization sage": {
+    "name": "",
+    "code": "Information Visualization sage",
+    "publisher": "sage",
+    "value": 43
   },
   "SIBGRAPI": {
     "name": "Brazilian Symposium on Computer Graphics and Image Processing",
     "code": "SIBGRAPI",
-    "publisher": "IEEE"
+    "publisher": "IEEE",
+    "value": 4
   },
   "VINCI": {
     "name": "Visual Information Communication and Interaction conference",
     "code": "VINCI",
-    "publisher": "association for computing machinery"
+    "publisher": "association for computing machinery",
+    "value": 30
   },
   "jrss": {
     "name": "journal of the royal statistical society",
     "code": "jrss",
-    "publisher": "oxford university press"
+    "publisher": "oxford university press",
+    "value": 4
   },
   "BIGDATA": {
     "name": "International Conference on Big Data",
     "code": "BIGDATA",
-    "publisher": "IEEE"
+    "publisher": "IEEE",
+    "value": 5
   },
   "VAST": {
     "name": "IEEE Visual Analytics Science and Technology",
     "code": "VAST",
-    "publisher": "IEEE"
+    "publisher": "IEEE",
+    "value": 16
   },
   "JVLC": {
     "name": "Journal of Visual Languages and Computing",
     "code": "JVLC",
-    "publisher": "Elsevier"
+    "publisher": "Elsevier",
+    "value": 28
   },
   "IV": {
     "name": "IEEE Conference on Information Visualization Theory and Applications",
     "code": "IV",
-    "publisher": "IEEE"
+    "publisher": "IEEE",
+    "value": 69
   },
   "tas": {
     "name": "The American Statistician",
     "code": "tas",
-    "publisher": "ASA"
+    "publisher": "ASA",
+    "value": 9
   },
   "psychometrika": {
     "name": "Psychometrika",
     "code": "psychometrika",
-    "publisher": "SPRINGER"
+    "publisher": "SPRINGER",
+    "value": 8
   },
   "VISIGRAPP": {
     "name": "International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications",
     "code": "VISIGRAPP",
-    "publisher": "insticc, scitepress"
+    "publisher": "insticc, scitepress",
+    "value": 12
   },
   "JMLR": {
     "name": "Journal of Machine Learning Research",
     "code": "JMLR",
-    "publisher": "microtome publishing"
+    "publisher": "microtome publishing",
+    "value": 12
   },
   "jasist": {
     "name": "Journal of the American Society for Information Science",
     "code": "jasist",
-    "publisher": "asis&t"
+    "publisher": "asis&t",
+    "value": 9
   },
   "jgaa": {
     "name": "Journal of Graph Algorithms and Applications",
     "code": "jgaa",
-    "publisher": "brown university"
+    "publisher": "brown university",
+    "value": 7
   },
   "jos": {
     "name": "",
     "code": "jos",
-    "publisher": "john wiley & sons"
+    "publisher": "john wiley & sons",
+    "value": 9
   },
   "KDD": {
-    "name": "knowledge discovery and data mining",
+    "name": "International Conference on Knowledge Discovery and Data Mining",
     "code": "KDD",
-    "publisher": "aaai press"
+    "publisher": "aaai press",
+    "value": 12
   },
   "ACL": {
     "name": "association for computational linguistics",
     "code": "ACL",
-    "publisher": "association for computational linguistics"
+    "publisher": "association for computational linguistics",
+    "value": 8
   },
   "NIPS": {
     "name": "advances in neural information processing systems",
     "code": "NIPS",
-    "publisher": ""
+    "publisher": "",
+    "value": 1
   },
   "HICSS": {
     "name": "Hawaii International Conference on System Sciences",
     "code": "HICSS",
-    "publisher": "university of hawai’i at manoa"
+    "publisher": "university of hawai’i at manoa",
+    "value": 6
   },
   "dmkd": {
-    "name": "",
+    "name": "data mining and knowledge discovery",
     "code": "dmkd",
-    "publisher": "SPRINGER"
+    "publisher": "SPRINGER",
+    "value": 9
   },
   "SIGKDD": {
     "name": "special interest group on knowledge discovery and data mining",
     "code": "SIGKDD",
-    "publisher": "association for computing machinery"
+    "publisher": "association for computing machinery",
+    "value": 3
   },
   "tvc": {
     "name": "The Visual Computer, International Journal of Computer Graphics",
     "code": "tvc",
-    "publisher": "SPRINGER"
+    "publisher": "SPRINGER",
+    "value": 20
   },
   "ISVC": {
     "name": "International Symposium on Visual Computing",
     "code": "ISVC",
-    "publisher": "proceedings"
+    "publisher": "SPRINGER",
+    "value": 16
   },
   "CGVC": {
     "name": "Computer Graphics & Visual Computing",
     "code": "CGVC",
-    "publisher": "the eurographics association"
+    "publisher": "the eurographics association",
+    "value": 2
   },
   "NeuroImage": {
     "name": "Journal of Brain Function",
     "code": "NeuroImage",
-    "publisher": "Elsevier"
+    "publisher": "Elsevier",
+    "value": 2
   },
   "IJCV": {
     "name": "International Journal of Computer Vision",
     "code": "IJCV",
-    "publisher": "SPRINGER"
+    "publisher": "SPRINGER",
+    "value": 5
   },
   "IEEE VR": {
     "name": "IEEE Virtual Reality Conference",
     "code": "IEEE VR",
-    "publisher": "IEEE"
+    "publisher": "IEEE",
+    "value": 6
   },
   "ISMAR": {
     "name": "International Symposium on Mixed and Augmented Reality",
     "code": "ISMAR",
-    "publisher": "IEEE"
+    "publisher": "IEEE",
+    "value": 24
   },
   "EuroSys": {
     "name": "European Conference on Computer Systems",
     "code": "EuroSys",
-    "publisher": "ACM"
+    "publisher": "ACM",
+    "value": 1
   },
   "VISSOFT": {
     "name": "IEEE International Workshop on Visualizing Software for Understanding and Analysis",
     "code": "VISSOFT",
-    "publisher": "IEEE"
+    "publisher": "IEEE",
+    "value": 6
   },
   "Computational Physics Conference": {
     "name": "Computational Physics Conference",
     "code": "Computational Physics Conference",
-    "publisher": "IEEE"
+    "publisher": "IEEE",
+    "value": 4
   },
   "ICSE": {
     "name": "international conference on software engineering",
     "code": "ICSE",
-    "publisher": "ACM"
+    "publisher": "ACM",
+    "value": 5
   },
   "ASPLOS": {
     "name": "ACM International Conference on Architectural Support for Programming Languages and Operating Systems",
     "code": "ASPLOS",
-    "publisher": "ACM"
+    "publisher": "ACM",
+    "value": 1
   },
   "TOIS": {
     "name": "ACM Transactions on Information Systems",
     "code": "TOIS",
-    "publisher": "ACM"
+    "publisher": "ACM",
+    "value": 6
   },
   "SIGIR": {
     "name": "special interest group on information retrieval",
     "code": "SIGIR",
-    "publisher": "ACM"
+    "publisher": "ACM",
+    "value": 2
   },
   "CSUR": {
     "name": "acm computing surveys",
     "code": "CSUR",
-    "publisher": "ACM"
+    "publisher": "ACM",
+    "value": 4
   },
   "IJHCS": {
     "name": "International Journal of Human-Computer Studies",
     "code": "IJHCS",
-    "publisher": "Elsevier"
+    "publisher": "Elsevier",
+    "value": 11
   },
   "WCRE": {
     "name": "Working Conference on Reverse Engineering",
     "code": "WCRE",
-    "publisher": "IEEE"
+    "publisher": "IEEE",
+    "value": 3
   },
   "Web3D": {
     "name": "International Conference on 3D Web Technology",
     "code": "Web3D",
-    "publisher": "ACM"
+    "publisher": "ACM",
+    "value": 6
   },
   "WSCG": {
     "name": "International Conference on Computer Graphics, Visualization and Computer Vision",
     "code": "WSCG",
-    "publisher": "union agency - science press"
+    "publisher": "union agency - science press",
+    "value": 6
   },
   "WSDM": {
     "name": "ACM Web Search and Data Mining",
     "code": "WSDM",
-    "publisher": "ACM"
+    "publisher": "ACM",
+    "value": 2
   },
   "APGV": {
     "name": "Applied Perception in Graphics and Visualization",
     "code": "APGV",
-    "publisher": "ACM"
+    "publisher": "ACM",
+    "value": 1
   },
   "LNCS": {
     "name": "Lecture Notes in Computer Science",
     "code": "LNCS",
-    "publisher": "SPRINGER"
+    "publisher": "SPRINGER",
+    "value": 23
   },
   "WPC": {
     "name": "IEEE Workshop on Program Comprehension",
     "code": "WPC",
-    "publisher": "IEEE"
+    "publisher": "IEEE",
+    "value": 3
   },
   "ASE": {
     "name": "ACM International Conference on Automated Software Engineering",
     "code": "ASE",
-    "publisher": "ACM"
+    "publisher": "ACM",
+    "value": 3
   },
   "CRIWG": {
     "name": "International Workshop on Groupware",
     "code": "CRIWG",
-    "publisher": "IEEE"
+    "publisher": "IEEE",
+    "value": 1
   },
   "GRAPP": {
     "name": "International Conference on Computer Graphics Theory and Applications",
     "code": "GRAPP",
-    "publisher": "science and technology publications"
+    "publisher": "science and technology publications",
+    "value": 5
   },
   "jwtusm": {
     "name": "Journal of Wuhan Technical University of Surveying and Mapping",
     "code": "jwtusm",
-    "publisher": ""
+    "publisher": "",
+    "value": 1
   },
   "ATSIP": {
     "name": "International Conference on Advanced Technologies for Signal and Image Processing",
     "code": "ATSIP",
-    "publisher": "IEEE"
+    "publisher": "IEEE",
+    "value": 1
   },
   "PAMI": {
     "name": "Transactions on Pattern Analysis and Machine Intelligence",
     "code": "PAMI",
-    "publisher": "IEEE"
+    "publisher": "IEEE",
+    "value": 6
   },
   "tse": {
     "name": "",
     "code": "tse",
-    "publisher": "IEEE"
+    "publisher": "IEEE",
+    "value": 7
   },
   "euac": {
-    "name": "",
+    "name": "Environment and Planning B: Urban Analytics and City Science|environment and planning b: planning and design",
     "code": "euac",
-    "publisher": "SAGE"
+    "publisher": "SAGE",
+    "value": 10
   },
   "informationsciences": {
     "name": "",
     "code": "informationsciences",
-    "publisher": "SPRINGER"
+    "publisher": "SPRINGER",
+    "value": 13
   },
   "JEP": {
     "name": "Journal of Experimental Psychology",
     "code": "JEP",
-    "publisher": "american psychological association"
+    "publisher": "american psychological association",
+    "value": 9
   },
   "ISVD": {
     "name": "International Symposium on Voronoi Diagrams in Science and Engineering",
     "code": "ISVD",
-    "publisher": "IEEE"
+    "publisher": "IEEE",
+    "value": 1
   },
   "AVR": {
     "name": "International Conference on Augmented Reality",
     "code": "AVR",
-    "publisher": "SPRINGER"
+    "publisher": "SPRINGER",
+    "value": 1
   },
   "DAM": {
     "name": "Discrete Applied Mathematics",
     "code": "DAM",
-    "publisher": "Elsevier"
+    "publisher": "Elsevier",
+    "value": 2
   },
   "LDAV": {
     "name": "IEEE Symposium on Large-Scale Data Analysis and Visualization",
     "code": "LDAV",
-    "publisher": "IEEE"
+    "publisher": "IEEE",
+    "value": 4
   },
   "ICPR": {
     "name": "International Conference on Pattern Recognition",
     "code": "ICPR",
-    "publisher": "IEEE"
+    "publisher": "IEEE",
+    "value": 2
   },
   "TIST": {
     "name": "ACM Transactions on Intelligent Systems and Technology",
     "code": "TIST",
-    "publisher": "ACM"
+    "publisher": "ACM",
+    "value": 2
   },
   "CSCW": {
     "name": "computer supported cooperative work and social computing",
     "code": "CSCW",
-    "publisher": "ACM"
+    "publisher": "ACM",
+    "value": 5
   },
   "WWW": {
     "name": "ACM International World Wide Web Conference",
     "code": "WWW",
-    "publisher": "ACM"
+    "publisher": "ACM",
+    "value": 3
   },
   "COLING": {
     "name": "conference on computational linguistics",
     "code": "COLING",
-    "publisher": "association for computational linguistics"
+    "publisher": "association for computational linguistics",
+    "value": 1
   },
   "EMNLP": {
     "name": "empirical methods in natural language processing",
     "code": "EMNLP",
-    "publisher": "citeseer"
+    "publisher": "citeseer",
+    "value": 1
   },
   "ICIP": {
     "name": "IEEE International Conference on Image Processing",
     "code": "ICIP",
-    "publisher": "IEEE"
+    "publisher": "IEEE",
+    "value": 2
   },
   "JCGS": {
     "name": "Journal of Computational and Graphical Statistics",
     "code": "JCGS",
-    "publisher": "ASA"
+    "publisher": "ASA",
+    "value": 3
   },
   "jcr": {
     "name": "journal of consumer research",
     "code": "jcr",
-    "publisher": "oxford academic"
+    "publisher": "oxford academic",
+    "value": 3
   },
   "CIKM": {
     "name": "conference on information and knowledge management",
     "code": "CIKM",
-    "publisher": "ACM"
+    "publisher": "ACM",
+    "value": 3
   },
   "MM": {
     "name": "ACM International Conference on Multimedia",
     "code": "MM",
-    "publisher": "tex users group"
+    "publisher": "tex users group",
+    "value": 3
   },
   "ISCA": {
     "name": "international symposium on computer architecture",
     "code": "ISCA",
-    "publisher": ""
+    "publisher": "",
+    "value": 1
   },
   "ICRA": {
     "name": "IEEE International Conference on Robotics and Automation",
     "code": "ICRA",
-    "publisher": "IEEE"
+    "publisher": "IEEE",
+    "value": 2
   },
   "SODA": {
     "name": "symposium on discrete algorithms",
     "code": "SODA",
-    "publisher": "ACM"
+    "publisher": "ACM",
+    "value": 1
+  },
+  "Information Visualization springer": {
+    "name": "",
+    "code": "Information Visualization springer",
+    "publisher": "springer",
+    "value": 1
+  },
+  "Information Visualization acm": {
+    "name": "",
+    "code": "Information Visualization acm",
+    "publisher": "acm",
+    "value": 1
+  },
+  "Information Visualization ieee": {
+    "name": "",
+    "code": "Information Visualization ieee",
+    "publisher": "ieee",
+    "value": 5
+  },
+  "Information Visualization australian computer society, inc. darlinghurst, australia": {
+    "name": "",
+    "code": "Information Visualization australian computer society, inc. darlinghurst, australia",
+    "publisher": "australian computer society, inc. darlinghurst, australia",
+    "value": 1
   },
   "TOCHI": {
     "name": "ACM Transactions on Computer-Human Interaction (TOCHI)",
     "code": "TOCHI",
-    "publisher": "ACM"
+    "publisher": "ACM",
+    "value": 2
   },
   "SUI": {
     "name": "Symposium on Spatial User Interaction",
     "code": "SUI",
-    "publisher": ""
+    "publisher": "",
+    "value": 1
   },
   "SIGCOMM": {
     "name": "special interest group on data communication",
     "code": "SIGCOMM",
-    "publisher": "ACM"
+    "publisher": "ACM",
+    "value": 1
   }
 }

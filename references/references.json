@@ -31,7 +31,7 @@
     "venue": "SG",
     "location": "",
     "note": "",
-    "publisher": "SPRINGER",
+    "publisher": "springer",
     "volume": "",
     "pages": "247–254"
   },
@@ -48,7 +48,7 @@
     "venue": "EuroVis",
     "location": "",
     "note": "",
-    "publisher": "the eurographics association",
+    "publisher": "eurographics association",
     "volume": "",
     "pages": "113–115"
   },
@@ -64,7 +64,7 @@
     "venue": "CVGIP",
     "location": "",
     "note": "",
-    "publisher": "Elsevier",
+    "publisher": "elsevier",
     "volume": "3",
     "pages": "344–371"
   },
@@ -99,7 +99,7 @@
     "venue": "IEEE Automation Science and Engineering",
     "location": "",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "3",
     "pages": "382–394"
   },
@@ -117,7 +117,7 @@
     "venue": "ICPP",
     "location": "",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "",
     "pages": "382–391"
   },
@@ -488,7 +488,7 @@
     "venue": "Journal of Visual Languages & Computing",
     "location": "",
     "note": "",
-    "publisher": "Elsevier",
+    "publisher": "elsevier",
     "volume": "25, 6",
     "pages": "924–934"
   },
@@ -614,7 +614,7 @@
     "venue": "DIS",
     "location": "",
     "note": "",
-    "publisher": "ACM",
+    "publisher": "acm",
     "volume": "",
     "pages": "543–555"
   },
@@ -633,7 +633,7 @@
     "venue": "UIST",
     "location": "",
     "note": "",
-    "publisher": "ACM",
+    "publisher": "acm",
     "volume": "",
     "pages": "243–252"
   },
@@ -653,7 +653,7 @@
     "venue": "TOMCCAP",
     "location": "",
     "note": "",
-    "publisher": "ACM",
+    "publisher": "acm",
     "volume": "2",
     "pages": "1–22"
   },
@@ -878,7 +878,7 @@
     "venue": "ieee journal of selected topics in signal processing",
     "location": "",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "3",
     "pages": "236–252,"
   },
@@ -944,7 +944,7 @@
     "venue": "the journal of mathematical neuroscience",
     "location": "",
     "note": "",
-    "publisher": "SPRINGER",
+    "publisher": "springer",
     "volume": "10",
     "pages": "14,"
   },
@@ -1143,7 +1143,7 @@
     "venue": "visual computing for industry, biomedicine, and art",
     "location": "",
     "note": "",
-    "publisher": "SPRINGER",
+    "publisher": "springer",
     "volume": "3",
     "pages": "23,"
   },
@@ -1162,7 +1162,7 @@
     "venue": "pers soc psychol bull",
     "location": "",
     "note": "",
-    "publisher": "SAGE",
+    "publisher": "sage",
     "volume": "40",
     "pages": "175–188,"
   },
@@ -1180,7 +1180,7 @@
     "venue": "ECCV",
     "location": "",
     "note": "",
-    "publisher": "SPRINGER",
+    "publisher": "springer",
     "volume": "",
     "pages": "618–634"
   },
@@ -1199,7 +1199,7 @@
     "venue": "international conference on medical image computing and computer-assisted intervention",
     "location": "",
     "note": "",
-    "publisher": "SPRINGER",
+    "publisher": "springer",
     "volume": "",
     "pages": "871–879"
   },
@@ -1221,7 +1221,7 @@
     "venue": "ISBI",
     "location": "",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "",
     "pages": ""
   },
@@ -1283,7 +1283,7 @@
     "venue": "ieee software",
     "location": "",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "",
     "pages": "839–847"
   },
@@ -1305,7 +1305,7 @@
     "venue": "IPMI",
     "location": "",
     "note": "",
-    "publisher": "SPRINGER",
+    "publisher": "springer",
     "volume": "",
     "pages": "592–604"
   },
@@ -1326,7 +1326,7 @@
     "venue": "ISBI",
     "location": "",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "",
     "pages": "1711–1714"
   },
@@ -1396,7 +1396,7 @@
     "venue": "CVPR",
     "location": "",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "",
     "pages": "770–778"
   },
@@ -1420,7 +1420,7 @@
     "venue": "attention, perception, & psychophysics",
     "location": "",
     "note": "",
-    "publisher": "SPRINGER",
+    "publisher": "springer",
     "volume": "81, 7",
     "pages": "2288–2303"
   },
@@ -1438,7 +1438,7 @@
     "venue": "CVPR",
     "location": "",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "",
     "pages": "7132–7141"
   },
@@ -1482,7 +1482,7 @@
     "venue": "CVPR",
     "location": "",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "",
     "pages": "16327–16336"
   },
@@ -1578,7 +1578,7 @@
     "venue": "CVPR",
     "location": "",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "",
     "pages": "4525–4534"
   },
@@ -1657,7 +1657,7 @@
     "venue": "EMBC",
     "location": "",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "",
     "pages": ""
   },
@@ -1695,7 +1695,7 @@
     "venue": "ieee transactions on neural networks and learning systems",
     "location": "",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "5",
     "pages": "2066–2074"
   },
@@ -1715,7 +1715,7 @@
     "venue": "CVPR",
     "location": "",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "",
     "pages": "4510–4520"
   },
@@ -1761,7 +1761,7 @@
     "venue": "ICCV",
     "location": "",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "",
     "pages": "618–626"
   },
@@ -1780,7 +1780,7 @@
     "venue": "ISBI",
     "location": "",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "",
     "pages": "1646–1649"
   },
@@ -1839,7 +1839,7 @@
     "venue": "CVPR",
     "location": "",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "",
     "pages": "24–25"
   },
@@ -1883,7 +1883,7 @@
     "venue": "CVPR",
     "location": "",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "",
     "pages": ""
   },
@@ -1907,7 +1907,7 @@
     "venue": "ISBI",
     "location": "",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "",
     "pages": "1851–1855"
   },
@@ -2000,7 +2000,7 @@
     "venue": "CVPR",
     "location": "",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "",
     "pages": "2921–2929"
   },
@@ -2018,7 +2018,7 @@
     "venue": "annual conference on medical image understanding and analysis",
     "location": "",
     "note": "",
-    "publisher": "SPRINGER",
+    "publisher": "springer",
     "volume": "",
     "pages": "594–608"
   },
@@ -2258,7 +2258,7 @@
     "venue": "algorithmica",
     "location": "",
     "note": "",
-    "publisher": "SPRINGER",
+    "publisher": "springer",
     "volume": "66, 3",
     "pages": "595–614"
   },
@@ -2354,7 +2354,7 @@
     "venue": "international conference on geographic information science",
     "location": "",
     "note": "",
-    "publisher": "SPRINGER",
+    "publisher": "springer",
     "volume": "",
     "pages": "90–105"
   },
@@ -2560,7 +2560,7 @@
     "venue": "JOV",
     "location": "",
     "note": "",
-    "publisher": "SPRINGER",
+    "publisher": "springer",
     "volume": "24, 5",
     "pages": "943–961"
   },
@@ -3250,10 +3250,10 @@
       "Daniel Robbins"
     ],
     "doi": "10.1057/palgrave.ivs.9500002",
-    "venue": "Information Visualization",
+    "venue": "Information Visualization sage",
     "location": "",
     "note": "",
-    "publisher": "ACM",
+    "publisher": "sage",
     "volume": "1, 1",
     "pages": "50–65"
   },
@@ -3365,7 +3365,7 @@
     "venue": "CHI",
     "location": "",
     "note": "",
-    "publisher": "ACM",
+    "publisher": "acm",
     "volume": "",
     "pages": ""
   },
@@ -3387,7 +3387,7 @@
     "venue": "public choice",
     "location": "",
     "note": "",
-    "publisher": "SPRINGER",
+    "publisher": "springer",
     "volume": "176, 1",
     "pages": "17–32"
   },
@@ -3498,7 +3498,7 @@
     "venue": "applied network science",
     "location": "",
     "note": "",
-    "publisher": "SPRINGER",
+    "publisher": "springer",
     "volume": "4, 1",
     "pages": "1–15"
   },
@@ -3802,7 +3802,7 @@
     "venue": "ieee software",
     "location": "",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "",
     "pages": "354–361"
   },
@@ -3864,7 +3864,7 @@
     "venue": "2012 brazilian symposium on collaborative systems",
     "location": "",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "",
     "pages": "75–83"
   },
@@ -4463,7 +4463,7 @@
     "venue": "VAST",
     "location": "",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "",
     "pages": "51–58"
   },
@@ -4484,7 +4484,7 @@
     "venue": "JVLC",
     "location": "",
     "note": "",
-    "publisher": "Elsevier",
+    "publisher": "elsevier",
     "volume": "14, 6",
     "pages": "503–541"
   },
@@ -4718,7 +4718,7 @@
     "venue": "TVCG",
     "location": "",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "20, 12",
     "pages": "1963–1972"
   },
@@ -4784,7 +4784,7 @@
       "Los Angeles, CA"
     ],
     "note": "",
-    "publisher": "SAGE",
+    "publisher": "sage",
     "volume": "31, 3",
     "pages": "444–457"
   },
@@ -4806,7 +4806,7 @@
     "venue": "human factors",
     "location": "",
     "note": "",
-    "publisher": "SAGE",
+    "publisher": "sage",
     "volume": "40, 1",
     "pages": "28–41"
   },
@@ -4870,7 +4870,7 @@
     "venue": "journal of science education and technology",
     "location": "",
     "note": "",
-    "publisher": "SPRINGER",
+    "publisher": "springer",
     "volume": "25, 4",
     "pages": "665–681"
   },
@@ -4973,7 +4973,7 @@
     "venue": "educational psychology review",
     "location": "",
     "note": "",
-    "publisher": "SPRINGER",
+    "publisher": "springer",
     "volume": "14, 1",
     "pages": "47–69"
   },
@@ -5124,7 +5124,7 @@
     "venue": "ieee world haptics conference",
     "location": "",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "",
     "pages": "383–388"
   },
@@ -5220,7 +5220,7 @@
     "venue": "proceedings of conference on virtual reality and 3d user interfaces",
     "location": "",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "",
     "pages": "21–31"
   },
@@ -5267,7 +5267,7 @@
     "venue": "BIGDATA",
     "location": "",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "",
     "pages": "609–614"
   },
@@ -5301,7 +5301,7 @@
     "venue": "ieee software",
     "location": "",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "",
     "pages": "129–133"
   },
@@ -5707,7 +5707,7 @@
     "venue": "international conference on computational science (iccs",
     "location": "",
     "note": "",
-    "publisher": "SPRINGER",
+    "publisher": "springer",
     "volume": "",
     "pages": "603–609"
   },
@@ -6156,7 +6156,7 @@
     "venue": "KDD",
     "location": "",
     "note": "",
-    "publisher": "aaai press",
+    "publisher": "acm",
     "volume": "",
     "pages": "1007–1016"
   },
@@ -6332,10 +6332,10 @@
       "T.J. Jankun-Kelly"
     ],
     "doi": "10.1177/1473871611413180",
-    "venue": "Information Visualization",
+    "venue": "Information Visualization sage",
     "location": "",
     "note": "",
-    "publisher": "ACM",
+    "publisher": "sage",
     "volume": "10, 4",
     "pages": "327–340"
   },
@@ -6496,7 +6496,7 @@
     "venue": "KDD",
     "location": "",
     "note": "",
-    "publisher": "aaai press",
+    "publisher": "acm",
     "volume": "",
     "pages": "245–250"
   },
@@ -6776,10 +6776,10 @@
       "Ives R.Venturini Pola"
     ],
     "doi": "10.1177/1473871619845093",
-    "venue": "Information Visualization",
+    "venue": "Information Visualization sage",
     "location": "",
     "note": "",
-    "publisher": "ACM",
+    "publisher": "sage",
     "volume": "18, 4",
     "pages": "426–438"
   },
@@ -6861,7 +6861,7 @@
     "venue": "science",
     "location": "",
     "note": "",
-    "publisher": "",
+    "publisher": "science.org",
     "volume": "290",
     "pages": [
       "5500",
@@ -6934,7 +6934,7 @@
     "venue": "science",
     "location": "",
     "note": "",
-    "publisher": "",
+    "publisher": "science.org",
     "volume": "290",
     "pages": [
       "5500",
@@ -6976,10 +6976,10 @@
       "Matthew O. Ward"
     ],
     "doi": "10.1057/PALGRAVE.IVS.9500025",
-    "venue": "Information Visualization",
+    "venue": "Information Visualization sage",
     "location": "",
     "note": "",
-    "publisher": "ACM",
+    "publisher": "sage",
     "volume": "1",
     "pages": [
       "3–4",
@@ -7106,7 +7106,7 @@
     "venue": "TVCG",
     "location": "",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "12",
     "pages": "1943–1952"
   },
@@ -7194,7 +7194,7 @@
     "venue": "TVCG",
     "location": "",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "24, 1",
     "pages": "542–552"
   },
@@ -7340,7 +7340,7 @@
     "venue": "TVCG",
     "location": "",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "1",
     "pages": "759–769"
   },
@@ -7567,7 +7567,7 @@
     "venue": "KDD",
     "location": "Seattle, WA",
     "note": "",
-    "publisher": "aaai press",
+    "publisher": "acm",
     "volume": "",
     "pages": "359–370"
   },
@@ -7608,10 +7608,10 @@
       "Andreas Kerren"
     ],
     "doi": "10.1177/1473871620904671",
-    "venue": "Information Visualization",
+    "venue": "Information Visualization sage",
     "location": "",
     "note": "",
-    "publisher": "ACM",
+    "publisher": "sage",
     "volume": "19, 3",
     "pages": "207–233"
   },
@@ -7653,7 +7653,7 @@
     "venue": "PacificVis",
     "location": "Tianjin, China",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "",
     "pages": "156–165"
   },
@@ -7794,7 +7794,7 @@
     "venue": "BIGDATA",
     "location": "Seattle, WA",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "",
     "pages": "2924–2929"
   },
@@ -8131,7 +8131,7 @@
     "venue": "ieee software",
     "location": "Columbus, OH, USA",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "",
     "pages": "163–170"
   },
@@ -8210,7 +8210,7 @@
     "venue": "InfoVis",
     "location": "",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "",
     "pages": "197–204"
   },
@@ -8271,7 +8271,7 @@
     "venue": "ieee transactions on rehabilitation engineering",
     "location": "",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "3",
     "pages": "372–384"
   },
@@ -8313,7 +8313,7 @@
     "venue": "international conference on human haptic sensing and touch enabled computer applications",
     "location": "",
     "note": "",
-    "publisher": "SPRINGER",
+    "publisher": "springer",
     "volume": "",
     "pages": "96–104"
   },
@@ -8835,7 +8835,7 @@
     "venue": "ISVC",
     "location": "Berlin Heidelberg",
     "note": "",
-    "publisher": "SPRINGER",
+    "publisher": "springer",
     "volume": "",
     "pages": "929–938"
   },
@@ -8874,7 +8874,7 @@
     "venue": "proc. ieee",
     "location": "",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "76, 1",
     "pages": "56–79"
   },
@@ -8893,7 +8893,7 @@
     "venue": "CGVC",
     "location": "",
     "note": "",
-    "publisher": "the eurographics association",
+    "publisher": "eurographics association",
     "volume": "",
     "pages": ""
   },
@@ -8912,7 +8912,7 @@
     "venue": "proceedings of the 1st international symposium on big data visual analytics",
     "location": "",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "",
     "pages": "17–24"
   },
@@ -8928,7 +8928,7 @@
     "venue": "proceedings of the 9th kes international conference on intelligent decision technologies (kes-idt(smart innovation, systems and technologies, vol. 73), ireneusz czarnowski, robert j",
     "location": "",
     "note": "",
-    "publisher": "SPRINGER",
+    "publisher": "springer",
     "volume": "",
     "pages": "237–246"
   },
@@ -8949,7 +8949,7 @@
     "venue": "PacificVis",
     "location": "",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "",
     "pages": "169–176"
   },
@@ -9194,7 +9194,7 @@
     "venue": "2017 14th iapr international conference on document analysis and recognition (icdar), vol. 3",
     "location": "",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "",
     "pages": "54–59"
   },
@@ -9352,7 +9352,7 @@
     "venue": "IJCV",
     "location": "",
     "note": "",
-    "publisher": "SPRINGER",
+    "publisher": "springer",
     "volume": "111, 1",
     "pages": "98–136"
   },
@@ -9416,7 +9416,7 @@
     "venue": "ECCV",
     "location": "",
     "note": "",
-    "publisher": "SPRINGER",
+    "publisher": "springer",
     "volume": "",
     "pages": "740–755"
   },
@@ -9460,7 +9460,7 @@
     "venue": "CVPR",
     "location": "",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "",
     "pages": "658–666"
   },
@@ -9552,7 +9552,7 @@
     "venue": "ITS",
     "location": "Brisbane",
     "note": "DOI:",
-    "publisher": "ACM",
+    "publisher": "acm",
     "volume": "",
     "pages": "1–2"
   },
@@ -9577,7 +9577,7 @@
     "venue": "IEEE VR",
     "location": "Osaka",
     "note": "DOI:",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "",
     "pages": ""
   },
@@ -9594,7 +9594,7 @@
     "venue": "comacm",
     "location": "",
     "note": "DOI:",
-    "publisher": "ACM",
+    "publisher": "acm",
     "volume": "44, 8",
     "pages": "31–37"
   },
@@ -9738,7 +9738,7 @@
     "venue": "VL/HCC",
     "location": "Memphis, TN",
     "note": "DOI:",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "",
     "pages": ""
   },
@@ -9805,7 +9805,7 @@
     "venue": "proceedings of the australasian computer science week multiconference (acsw ’16",
     "location": "Canberra",
     "note": "",
-    "publisher": "ACM",
+    "publisher": "acm",
     "volume": "",
     "pages": ""
   },
@@ -10152,10 +10152,10 @@
       "Joe Heimlich"
     ],
     "doi": "10.1177/1473871615594652",
-    "venue": "Information Visualization",
+    "venue": "Information Visualization sage",
     "location": "",
     "note": "",
-    "publisher": "ACM",
+    "publisher": "sage",
     "volume": "15, 3",
     "pages": "198–213"
   },
@@ -10315,7 +10315,7 @@
     "venue": "science",
     "location": "",
     "note": "",
-    "publisher": "",
+    "publisher": "science.org",
     "volume": "320",
     "pages": [
       "5875",
@@ -10354,7 +10354,7 @@
     "venue": "CHI",
     "location": "New York, NY, USA",
     "note": "",
-    "publisher": "ACM",
+    "publisher": "acm",
     "volume": "",
     "pages": "993–997"
   },
@@ -10796,7 +10796,7 @@
     "venue": "ieee software",
     "location": "Washington, DC, USA",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "",
     "pages": "74–81"
   },
@@ -10948,7 +10948,7 @@
     "venue": "CG&A",
     "location": "",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "34, 6",
     "pages": "26–34"
   },
@@ -10988,7 +10988,7 @@
     "venue": "ieee transactions on learning technologies",
     "location": "",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "7, 1",
     "pages": "38–56"
   },
@@ -11050,7 +11050,7 @@
       "New York, NY, USA"
     ],
     "note": "AFIPS ’68 (Fall, part I)).",
-    "publisher": "ACM",
+    "publisher": "acm",
     "volume": "",
     "pages": "757–764"
   },
@@ -11091,7 +11091,7 @@
     "venue": "ieee software",
     "location": "",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "",
     "pages": "463–468"
   },
@@ -11134,7 +11134,7 @@
     "venue": "TVCG",
     "location": "",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "26",
     "pages": "536–546"
   },
@@ -11172,7 +11172,7 @@
     "venue": "IEEE VR",
     "location": "",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "",
     "pages": "200–209,"
   },
@@ -11229,7 +11229,7 @@
     "venue": "ieee international symposium on big data visual analytics (bdva",
     "location": "",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "",
     "pages": "1–10,"
   },
@@ -11282,7 +11282,7 @@
     "venue": "TVCG",
     "location": "",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "20",
     "pages": "1530–1541"
   },
@@ -11319,7 +11319,7 @@
     "venue": "IV",
     "location": "",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "",
     "pages": "19–24,"
   },
@@ -11436,7 +11436,7 @@
     "venue": "EuroSys",
     "location": "Belgrade, Serbia",
     "note": "",
-    "publisher": "ACM",
+    "publisher": "acm",
     "volume": "",
     "pages": "298–313"
   },
@@ -11459,7 +11459,7 @@
     "venue": "VISSOFT",
     "location": "Cleveland, OH, USA",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "",
     "pages": "28–32"
   },
@@ -11526,7 +11526,7 @@
     "venue": "ICSE",
     "location": "Gothenburg, Sweden",
     "note": "",
-    "publisher": "ACM",
+    "publisher": "acm",
     "volume": "",
     "pages": "41–44"
   },
@@ -11635,7 +11635,7 @@
     "venue": "ASPLOS",
     "location": "Seattle, WA, USA",
     "note": "",
-    "publisher": "ACM",
+    "publisher": "acm",
     "volume": "",
     "pages": "329–339"
   },
@@ -11657,7 +11657,7 @@
     "venue": "proceedings of the 2019 acm/spec international conference on performance engineering, icpe 2019",
     "location": "Mumbai, India",
     "note": "",
-    "publisher": "ACM",
+    "publisher": "acm",
     "volume": "",
     "pages": "119–126"
   },
@@ -11678,7 +11678,7 @@
     "venue": "proceedings of the acm 2006 symposium on software visualization",
     "location": "Brighton, UK",
     "note": "",
-    "publisher": "ACM",
+    "publisher": "acm",
     "volume": "",
     "pages": "37–45"
   },
@@ -11748,7 +11748,7 @@
     "venue": "ieee software",
     "location": "Edmonton, Alberta, Canada",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "",
     "pages": "253–262"
   },
@@ -12133,7 +12133,7 @@
     "venue": "TOIS",
     "location": "",
     "note": "",
-    "publisher": "ACM",
+    "publisher": "acm",
     "volume": "26, 4, Article 21",
     "pages": "36"
   },
@@ -12171,7 +12171,7 @@
     "venue": "proceedings of the european conference on advances in information retrieval",
     "location": "Berlin, Heidelberg",
     "note": "",
-    "publisher": "SPRINGER",
+    "publisher": "springer",
     "volume": "",
     "pages": "25–36"
   },
@@ -12237,7 +12237,7 @@
     "venue": "CHI",
     "location": "",
     "note": "",
-    "publisher": "ACM",
+    "publisher": "acm",
     "volume": "",
     "pages": "4189–4198"
   },
@@ -12275,7 +12275,7 @@
     "venue": "proceedings of the 2017 conference on conference human information interaction and retrieval",
     "location": "",
     "note": "",
-    "publisher": "ACM",
+    "publisher": "acm",
     "volume": "",
     "pages": "57–66"
   },
@@ -12353,7 +12353,7 @@
     "venue": "proceedings of the conference on big data and analytics",
     "location": "",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "",
     "pages": "84–89"
   },
@@ -12581,7 +12581,7 @@
     "venue": "Information Visualization",
     "location": "",
     "note": "",
-    "publisher": "ACM",
+    "publisher": "sage",
     "volume": "",
     "pages": "94–101"
   },
@@ -12696,7 +12696,7 @@
     "venue": "InfoVis",
     "location": "",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "24, 8",
     "pages": "2339–2352"
   },
@@ -12820,7 +12820,7 @@
     "venue": "ieee software",
     "location": "",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "",
     "pages": "4–9"
   },
@@ -12932,10 +12932,10 @@
       "P. Castagliola"
     ],
     "doi": "10.1057/palgrave.ivs.9500092",
-    "venue": "Information Visualization",
+    "venue": "Information Visualization sage",
     "location": "",
     "note": "",
-    "publisher": "ACM",
+    "publisher": "sage",
     "volume": "4",
     "pages": ""
   },
@@ -13012,7 +13012,7 @@
     "venue": "Information Visualization",
     "location": "",
     "note": "",
-    "publisher": "ACM",
+    "publisher": "sage",
     "volume": "",
     "pages": "1–5,"
   },
@@ -13068,7 +13068,7 @@
     "venue": "VL/HCC",
     "location": "",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "",
     "pages": "336 – 343"
   },
@@ -13316,10 +13316,10 @@
       "Claus Lewerentz"
     ],
     "doi": "10.1177/1473871612438785",
-    "venue": "Information Visualization",
+    "venue": "Information Visualization sage",
     "location": "",
     "note": "",
-    "publisher": "ACM",
+    "publisher": "sage",
     "volume": "12, 2",
     "pages": "200–216"
   },
@@ -13363,7 +13363,7 @@
     "venue": "Web3D",
     "location": "",
     "note": "",
-    "publisher": "ACM",
+    "publisher": "acm",
     "volume": "31",
     "pages": "1–2"
   },
@@ -13482,7 +13482,7 @@
     "venue": "IV",
     "location": "Los Alamitos, CA, USA",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "",
     "pages": "94–99"
   },
@@ -13544,7 +13544,7 @@
     "venue": "CG&A",
     "location": "",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "36, 5",
     "pages": "38–49"
   },
@@ -13605,7 +13605,7 @@
     "venue": "proceedings of the conference on visualization ’01",
     "location": "San Diego, California",
     "note": "VIS ’01). IEEE Computer Society, USA, 75–82.",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "",
     "pages": ""
   },
@@ -13627,7 +13627,7 @@
       "Los Alamitos, California"
     ],
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "",
     "pages": "336–343"
   },
@@ -13870,7 +13870,7 @@
     "venue": "InfoVis",
     "location": "",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "",
     "pages": "14– 14"
   },
@@ -13953,7 +13953,7 @@
     "venue": "memory & cognition",
     "location": "",
     "note": "",
-    "publisher": "SPRINGER",
+    "publisher": "springer",
     "volume": "5, 4",
     "pages": "383–396"
   },
@@ -14067,7 +14067,7 @@
     "venue": "WSDM",
     "location": "",
     "note": "",
-    "publisher": "ACM",
+    "publisher": "acm",
     "volume": "",
     "pages": "815–824"
   },
@@ -14163,7 +14163,7 @@
     "venue": "ieee software",
     "location": "",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "",
     "pages": "187–194"
   },
@@ -14203,7 +14203,7 @@
     "venue": "business & information systems engineering",
     "location": "",
     "note": "",
-    "publisher": "SPRINGER",
+    "publisher": "springer",
     "volume": "58, 1",
     "pages": "93–99"
   },
@@ -14220,7 +14220,7 @@
     "venue": "ICML",
     "location": "",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "",
     "pages": "950–954"
   },
@@ -14644,7 +14644,7 @@
     "venue": "ieee access",
     "location": "",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "8",
     "pages": "116392–116414"
   },
@@ -14663,7 +14663,7 @@
     "venue": "ICML",
     "location": "",
     "note": "",
-    "publisher": "SPRINGER",
+    "publisher": "springer",
     "volume": "",
     "pages": "246–257"
   },
@@ -14683,7 +14683,7 @@
     "venue": "TVCG",
     "location": "",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "3",
     "pages": "2153–2173"
   },
@@ -14720,7 +14720,7 @@
     "venue": "proceedings of the 36th annual conference on data analysis, machine learning and knowledge discovery(studies in classification, data analysis, and knowledge organization), myra spiliopoulou",
     "location": "",
     "note": "",
-    "publisher": "SPRINGER",
+    "publisher": "springer",
     "volume": "",
     "pages": "417–425"
   },
@@ -14908,7 +14908,7 @@
     "venue": "psychometrika",
     "location": "",
     "note": "",
-    "publisher": "SPRINGER",
+    "publisher": "springer",
     "volume": "35, 3",
     "pages": "283–319"
   },
@@ -14931,7 +14931,7 @@
     "venue": "ieee transactions on human-machine systems",
     "location": "",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "47, 3",
     "pages": "380–391"
   },
@@ -15102,7 +15102,7 @@
     "venue": "proceedings 19th icde",
     "location": "",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "",
     "pages": "315–326"
   },
@@ -15125,7 +15125,7 @@
     "venue": "PLOS ONE",
     "location": "",
     "note": "",
-    "publisher": "PLOS ONE",
+    "publisher": "plos one",
     "volume": "7, 4",
     "pages": "34487"
   },
@@ -15192,7 +15192,7 @@
     "venue": "PacificVis",
     "location": "",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "",
     "pages": "91–100"
   },
@@ -15259,7 +15259,7 @@
     "venue": "SMC",
     "location": "",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "45, 1",
     "pages": "129–142"
   },
@@ -15278,7 +15278,7 @@
     "venue": "proceedings of the 2013 acm international joint conference on pervasive and ubiquitous computing (ubicomp '13",
     "location": "New York, NY, USA",
     "note": "",
-    "publisher": "ACM",
+    "publisher": "acm",
     "volume": "",
     "pages": "13–22"
   },
@@ -15317,7 +15317,7 @@
     "venue": "ieee intelligent transportation systems magazine",
     "location": "",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "11",
     "pages": "42–47"
   },
@@ -15542,7 +15542,7 @@
     "venue": "InfoVis",
     "location": "Paris, France",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "",
     "pages": "1–4"
   },
@@ -15587,7 +15587,7 @@
     "venue": "InfoVis",
     "location": "France",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "",
     "pages": ""
   },
@@ -15668,7 +15668,7 @@
     "venue": "InfoVis",
     "location": "",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "20",
     "pages": [
       "12",
@@ -15714,7 +15714,7 @@
     "venue": "ieee software",
     "location": "France",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "",
     "pages": ""
   },
@@ -15734,7 +15734,7 @@
     "venue": "InfoVis",
     "location": "",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "20",
     "pages": [
       "12",
@@ -16016,7 +16016,7 @@
     "venue": "ieee software",
     "location": "",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "",
     "pages": "399–404"
   },
@@ -16053,7 +16053,7 @@
     "venue": "KDD",
     "location": "",
     "note": "",
-    "publisher": "aaai press",
+    "publisher": "acm",
     "volume": "",
     "pages": "855–864"
   },
@@ -16071,7 +16071,7 @@
     "venue": "dmkd",
     "location": "",
     "note": "",
-    "publisher": "SPRINGER",
+    "publisher": "springer",
     "volume": "",
     "pages": "13–23"
   },
@@ -16169,7 +16169,7 @@
     "venue": "international conference on information processing and management of uncertainty in knowledge-based systems",
     "location": "",
     "note": "",
-    "publisher": "SPRINGER",
+    "publisher": "springer",
     "volume": "",
     "pages": "549–561"
   },
@@ -16213,7 +16213,7 @@
     "venue": "BIGDATA",
     "location": "",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "",
     "pages": "271–278"
   },
@@ -16233,7 +16233,7 @@
     "venue": "procedia computer science",
     "location": "",
     "note": "",
-    "publisher": "Elsevier",
+    "publisher": "elsevier",
     "volume": "47",
     "pages": "197–204"
   },
@@ -16317,7 +16317,7 @@
     "venue": "TVCG",
     "location": "",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "20",
     "pages": [
       "12",
@@ -16407,7 +16407,7 @@
     "venue": "KDD",
     "location": "New York, NY, USA",
     "note": "",
-    "publisher": "ACM",
+    "publisher": "acm",
     "volume": "",
     "pages": "555–564"
   },
@@ -16483,7 +16483,7 @@
     "venue": "InfoVis",
     "location": "",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "",
     "pages": "17–24"
   },
@@ -16504,7 +16504,7 @@
     "venue": "TVCG",
     "location": "",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "20",
     "pages": [
       "11",
@@ -16547,7 +16547,7 @@
     "venue": "proceedings of the 9th international conference on the theory and application of diagrams 2016",
     "location": "Philadelphia",
     "note": "",
-    "publisher": "SPRINGER",
+    "publisher": "springer",
     "volume": "",
     "pages": ""
   },
@@ -16590,7 +16590,7 @@
     "venue": "intelligence and security informatics conference (eisic), 2016 european. ieee",
     "location": "",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "",
     "pages": "140–143"
   },
@@ -16607,7 +16607,7 @@
     "venue": "ieee software",
     "location": "",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "",
     "pages": "474–478"
   },
@@ -16674,7 +16674,7 @@
     "venue": "proceedings of the 2011 acm sigmod international conference on management of data (sigmod '11",
     "location": "New York, NY, USA",
     "note": "",
-    "publisher": "ACM",
+    "publisher": "acm",
     "volume": "",
     "pages": ""
   },
@@ -17028,7 +17028,7 @@
     "venue": "proceedings of conference on intelligent decision technologies",
     "location": "",
     "note": "",
-    "publisher": "SPRINGER",
+    "publisher": "springer",
     "volume": "",
     "pages": "273–283"
   },
@@ -17097,7 +17097,7 @@
     "venue": "PacificVis",
     "location": "",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "",
     "pages": "169–176"
   },
@@ -17212,7 +17212,7 @@
     "venue": "proceedings of the national academy of sciences, india section a: physical sciences",
     "location": "",
     "note": "",
-    "publisher": "SPRINGER",
+    "publisher": "springer",
     "volume": "",
     "pages": "1–13"
   },
@@ -17275,7 +17275,7 @@
     "venue": "TVCG",
     "location": "",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "14",
     "pages": "47–60"
   },
@@ -17397,7 +17397,7 @@
     "venue": "GD",
     "location": "",
     "note": "",
-    "publisher": "SPRINGER",
+    "publisher": "springer",
     "volume": "",
     "pages": "215–225"
   },
@@ -17497,10 +17497,10 @@
       "Kevin Buchin"
     ],
     "doi": "10.1177/1473871617751245",
-    "venue": "Information Visualization",
+    "venue": "Information Visualization sage",
     "location": "",
     "note": "",
-    "publisher": "ACM",
+    "publisher": "sage",
     "volume": "18, 1",
     "pages": "138–152"
   },
@@ -17542,7 +17542,7 @@
     "venue": "proceedings of the 6th international conference on social computing and social media",
     "location": "New York, Inc., New York, NY, USA",
     "note": "",
-    "publisher": "SPRINGER",
+    "publisher": "springer",
     "volume": "8531",
     "pages": "221–228"
   },
@@ -17710,7 +17710,7 @@
     "venue": "proceedings of the 19th acm sigspatial international conference on advances in geographic information systems (gis '11",
     "location": "New York, NY, USA",
     "note": "",
-    "publisher": "ACM",
+    "publisher": "acm",
     "volume": "",
     "pages": "421–424"
   },
@@ -17839,7 +17839,7 @@
     "venue": "SIGGRAPH",
     "location": "New York, NY, USA",
     "note": "",
-    "publisher": "ACM",
+    "publisher": "acm",
     "volume": "1",
     "pages": "381–390"
   },
@@ -17893,7 +17893,7 @@
     "venue": "human factors",
     "location": "",
     "note": "",
-    "publisher": "SAGE",
+    "publisher": "sage",
     "volume": "35",
     "pages": "195–204"
   },
@@ -17910,7 +17910,7 @@
     "venue": "human factors",
     "location": "",
     "note": "",
-    "publisher": "SAGE",
+    "publisher": "sage",
     "volume": "38",
     "pages": "484–494"
   },
@@ -17924,10 +17924,10 @@
       "Christopher D. Wickens"
     ],
     "doi": "10.1518/001872001775870359",
-    "venue": "intensity coding, and decluttering techniques [j]. human factors",
+    "venue": "human factors: the journal of the human factors and ergonomics society",
     "location": "",
     "note": "",
-    "publisher": "SAGE",
+    "publisher": "sage",
     "volume": "43",
     "pages": "543–562"
   },
@@ -18130,7 +18130,7 @@
     "venue": "InfoVis",
     "location": "Washington, DC, USA",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "",
     "pages": ""
   },
@@ -18146,10 +18146,10 @@
       "Claus Lewerentz"
     ],
     "doi": "10.2312/VisSym/VisSym04/261-266",
-    "venue": "proc. eg/ieee vissym",
+    "venue": "proc. eg/ieee vissym | ieee vgtc symposium on visualization",
     "location": "",
     "note": "",
-    "publisher": "",
+    "publisher": "eurographics association",
     "volume": "",
     "pages": ""
   },
@@ -18167,7 +18167,7 @@
     "venue": "proc. apchi",
     "location": "",
     "note": "",
-    "publisher": "SPRINGER",
+    "publisher": "springer",
     "volume": "",
     "pages": "50–59"
   },
@@ -18254,7 +18254,7 @@
     "venue": "InfoVis",
     "location": "",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "",
     "pages": ""
   },
@@ -18271,7 +18271,7 @@
     "venue": "InfoVis",
     "location": "",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "",
     "pages": "63–70"
   },
@@ -18446,7 +18446,7 @@
     "venue": "APGV",
     "location": "",
     "note": "",
-    "publisher": "ACM",
+    "publisher": "acm",
     "volume": "",
     "pages": "164–164"
   },
@@ -18463,7 +18463,7 @@
     "venue": "EuroVis",
     "location": "",
     "note": "",
-    "publisher": "the eurographics association",
+    "publisher": "eurographics association",
     "volume": "",
     "pages": ""
   },
@@ -18519,7 +18519,7 @@
     "venue": "VISSOFT",
     "location": "",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "",
     "pages": "1–6"
   },
@@ -18581,7 +18581,7 @@
     "venue": "WPC",
     "location": "",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "",
     "pages": "4–11"
   },
@@ -18829,7 +18829,7 @@
     "venue": "CRIWG",
     "location": "",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "",
     "pages": "106–114"
   },
@@ -18949,7 +18949,7 @@
     "venue": "Computational Physics Conference",
     "location": "",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "",
     "pages": "231–242"
   },
@@ -18984,7 +18984,7 @@
     "venue": "InfoVis",
     "location": "",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "",
     "pages": "124–131"
   },
@@ -19017,7 +19017,7 @@
     "venue": "InfoVis",
     "location": "",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "",
     "pages": "73–78"
   },
@@ -19034,7 +19034,7 @@
     "venue": "Computational Physics Conference",
     "location": "",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "",
     "pages": "231–240"
   },
@@ -19704,7 +19704,7 @@
     "venue": "TVCG",
     "location": "",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "24, 8",
     "pages": "2397–2410"
   },
@@ -19722,7 +19722,7 @@
     "venue": "international symposium on experimental algorithms",
     "location": "",
     "note": "",
-    "publisher": "SPRINGER",
+    "publisher": "springer",
     "volume": "",
     "pages": "247–258"
   },
@@ -19784,7 +19784,7 @@
     "venue": "PacificVis",
     "location": "",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "",
     "pages": "121–128"
   },
@@ -19843,7 +19843,7 @@
     "venue": "HICSS",
     "location": "",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "",
     "pages": ""
   },
@@ -19902,10 +19902,10 @@
       "Yifan Hu"
     ],
     "doi": "10.1177/1473871614534095",
-    "venue": "Information Visualization",
+    "venue": "Information Visualization sage",
     "location": "",
     "note": "",
-    "publisher": "SAGE",
+    "publisher": "sage",
     "volume": "14, 2",
     "pages": "168–180"
   },
@@ -20062,7 +20062,7 @@
     "venue": "PacificVis",
     "location": "",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "",
     "pages": "239–243"
   },
@@ -20360,7 +20360,7 @@
     "venue": "j marketing",
     "location": "",
     "note": "",
-    "publisher": "SAGE",
+    "publisher": "sage",
     "volume": "28, 3",
     "pages": "34–38"
   },
@@ -20381,7 +20381,7 @@
     "venue": "human interface and the management of information. methods, techniques and tools in information design, symposium on human interface 2007, held as",
     "location": "",
     "note": "",
-    "publisher": "SPRINGER",
+    "publisher": "springer",
     "volume": "",
     "pages": "307–316"
   },
@@ -20506,7 +20506,7 @@
     "venue": "TVCG",
     "location": "",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "20",
     "pages": [
       "12",
@@ -20529,7 +20529,7 @@
     "venue": "journal of marketing analytics",
     "location": "",
     "note": "",
-    "publisher": "SPRINGER",
+    "publisher": "springer",
     "volume": "4",
     "pages": [
       "2–3",
@@ -20797,7 +20797,7 @@
     "venue": "KDD",
     "location": "New York, NY, USA",
     "note": "",
-    "publisher": "ACM",
+    "publisher": "acm",
     "volume": "",
     "pages": "785–794,"
   },
@@ -20880,7 +20880,7 @@
     "venue": "PLOS ONE",
     "location": "",
     "note": "",
-    "publisher": "PLOS ONE",
+    "publisher": "plos one",
     "volume": "13",
     "pages": ""
   },
@@ -20900,7 +20900,7 @@
     "venue": "science",
     "location": "",
     "note": "",
-    "publisher": "",
+    "publisher": "science.org",
     "volume": "360",
     "pages": ""
   },
@@ -20964,7 +20964,7 @@
     "venue": "science",
     "location": "",
     "note": "",
-    "publisher": "",
+    "publisher": "science.org",
     "volume": "348",
     "pages": ""
   },
@@ -21065,7 +21065,7 @@
       "New York, NY, USA"
     ],
     "note": "",
-    "publisher": "ACM",
+    "publisher": "acm",
     "volume": "",
     "pages": "25–34"
   },
@@ -21083,7 +21083,7 @@
     "venue": "PLOS ONE",
     "location": "",
     "note": "",
-    "publisher": "PLOS ONE",
+    "publisher": "plos one",
     "volume": "10",
     "pages": "02"
   },
@@ -21258,7 +21258,7 @@
     "venue": "ISVC",
     "location": "",
     "note": "",
-    "publisher": "SPRINGER",
+    "publisher": "springer",
     "volume": "",
     "pages": "338–349"
   },
@@ -21275,7 +21275,7 @@
     "venue": "Information Visualization",
     "location": "",
     "note": "",
-    "publisher": "ACM",
+    "publisher": "sage",
     "volume": "",
     "pages": "74–81"
   },
@@ -21482,7 +21482,7 @@
     "venue": "Information Visualization",
     "location": "",
     "note": "",
-    "publisher": "ACM",
+    "publisher": "sage",
     "volume": "",
     "pages": "87–94"
   },
@@ -21583,7 +21583,7 @@
     "venue": "InfoVis",
     "location": "",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "",
     "pages": ""
   },
@@ -21769,7 +21769,7 @@
     "venue": "proc. of 3dv",
     "location": "",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "",
     "pages": "108–117"
   },
@@ -21789,7 +21789,7 @@
     "venue": "CVPR",
     "location": "",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "",
     "pages": "5504–5514"
   },
@@ -21808,7 +21808,7 @@
     "venue": "ECCV",
     "location": "",
     "note": "",
-    "publisher": "SPRINGER",
+    "publisher": "springer",
     "volume": "",
     "pages": "88–104"
   },
@@ -22155,7 +22155,7 @@
     "venue": "proceedings of the 2016 international conference on management of data (sigmod '16",
     "location": "New York, NY, USA",
     "note": "",
-    "publisher": "ACM",
+    "publisher": "acm",
     "volume": "",
     "pages": ""
   },
@@ -22285,7 +22285,7 @@
     "venue": "Information Visualization",
     "location": "",
     "note": "",
-    "publisher": "ACM",
+    "publisher": "sage",
     "volume": "8, 1",
     "pages": "42–55"
   },
@@ -22431,7 +22431,7 @@
     "venue": "international conference on enterprise information systems",
     "location": "",
     "note": "",
-    "publisher": "SPRINGER",
+    "publisher": "springer",
     "volume": "",
     "pages": "428–450"
   },
@@ -22586,7 +22586,7 @@
     "venue": "ieee access",
     "location": "",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "6",
     "pages": "9614–9622"
   },
@@ -22788,7 +22788,7 @@
     "venue": "ITS",
     "location": "",
     "note": "",
-    "publisher": "SPRINGER",
+    "publisher": "springer",
     "volume": "",
     "pages": "295–305"
   },
@@ -22806,7 +22806,7 @@
     "venue": "ISVC",
     "location": "",
     "note": "",
-    "publisher": "SPRINGER",
+    "publisher": "springer",
     "volume": "",
     "pages": "745–756"
   },
@@ -22888,7 +22888,7 @@
     "venue": "proceedings of the eurographics workshop on rendering techniques 2000",
     "location": "London, UK",
     "note": "",
-    "publisher": "SPRINGER",
+    "publisher": "springer",
     "volume": "",
     "pages": "125–136"
   },
@@ -22908,7 +22908,7 @@
     "venue": "proceedings of the 2007 symposium on interactive 3d graphics and games (i3d '07",
     "location": "New York, NY, USA",
     "note": "",
-    "publisher": "ACM",
+    "publisher": "acm",
     "volume": "",
     "pages": "97–104"
   },
@@ -22928,7 +22928,7 @@
     "venue": "npar '07: proceedings of the 5th international symposium on non-photorealistic animation and rendering",
     "location": "New York, NY, USA",
     "note": "",
-    "publisher": "ACM",
+    "publisher": "acm",
     "volume": "",
     "pages": "33–42"
   },
@@ -22945,7 +22945,7 @@
     "venue": "SIGGRAPH",
     "location": "New York, NY, USA",
     "note": "",
-    "publisher": "ACM",
+    "publisher": "acm",
     "volume": "154",
     "pages": "7"
   },
@@ -23215,7 +23215,7 @@
       "Calgary, Alberta, Canada"
     ],
     "note": "Canadian Human-Computer Communications Society (CHCCS),",
-    "publisher": "ACM",
+    "publisher": "acm",
     "volume": "",
     "pages": "17–24"
   },
@@ -23309,7 +23309,7 @@
     "venue": "SIGGRAPH",
     "location": "",
     "note": "",
-    "publisher": "ACM",
+    "publisher": "acm",
     "volume": "",
     "pages": "453–460"
   },
@@ -23344,7 +23344,7 @@
     "venue": "InfoVis",
     "location": "",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": [],
     "pages": "163–170"
   },
@@ -23399,7 +23399,7 @@
     "venue": "2017 18th international conference on parallel and distributed computing, applications and technologies (pdcat",
     "location": "",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "",
     "pages": "510–515"
   },
@@ -23506,7 +23506,7 @@
     "venue": "TVCG",
     "location": "",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "20",
     "pages": "2634–2643,"
   },
@@ -23718,7 +23718,7 @@
     "venue": "CSUR",
     "location": "",
     "note": "",
-    "publisher": "ACM",
+    "publisher": "acm",
     "volume": "23",
     "pages": "345–405,"
   },
@@ -23790,7 +23790,7 @@
     "venue": "international conference on mechatronics and automation",
     "location": "",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "",
     "pages": "1174–1180"
   },
@@ -23828,7 +23828,7 @@
     "venue": "procedia computer science",
     "location": "",
     "note": "",
-    "publisher": "Elsevier",
+    "publisher": "elsevier",
     "volume": "54",
     "pages": "764 – 771"
   },
@@ -23844,7 +23844,7 @@
     "venue": "ATSIP",
     "location": "",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "",
     "pages": "1–5"
   },
@@ -23922,7 +23922,7 @@
     "venue": "SMC",
     "location": "",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "9, 1",
     "pages": "62–66"
   },
@@ -23975,7 +23975,7 @@
     "venue": "JVLC",
     "location": "",
     "note": "",
-    "publisher": "Elsevier",
+    "publisher": "elsevier",
     "volume": "51",
     "pages": "241–260"
   },
@@ -24090,7 +24090,7 @@
     "venue": "GD",
     "location": "",
     "note": "",
-    "publisher": "SPRINGER",
+    "publisher": "springer",
     "volume": "",
     "pages": "239–250"
   },
@@ -24181,7 +24181,7 @@
     "venue": "TVCG",
     "location": "",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "24, 1",
     "pages": "489–499"
   },
@@ -24234,7 +24234,7 @@
     "venue": "journal of library",
     "location": "Conference Name",
     "note": "",
-    "publisher": "ACM",
+    "publisher": "acm",
     "volume": "35",
     "pages": "55–62"
   },
@@ -24362,7 +24362,7 @@
     "venue": "international journal of computer applications",
     "location": "",
     "note": "",
-    "publisher": "SPRINGER",
+    "publisher": "springer",
     "volume": "169",
     "pages": "12–18"
   },
@@ -24508,7 +24508,7 @@
     "venue": "PAMI",
     "location": "",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "39",
     "pages": "1137–1149"
   },
@@ -24527,7 +24527,7 @@
     "venue": "CVPR",
     "location": "",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "",
     "pages": "779–788"
   },
@@ -24748,7 +24748,7 @@
     "venue": "ieee transactions on information theory",
     "location": "",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "8",
     "pages": "179 187"
   },
@@ -25391,7 +25391,7 @@
       "Florian Mansmann"
     ],
     "doi": "temp2691",
-    "venue": "proc. eurographics conference on visualization. the eurographics association",
+    "venue": "proc. eurographics conference on visualization. eurographics association",
     "location": "",
     "note": "",
     "publisher": "",
@@ -25467,7 +25467,7 @@
     "venue": "VL/HCC",
     "location": "Raleigh, NC",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "",
     "pages": ""
   },
@@ -25490,7 +25490,7 @@
     "venue": "proc. ieee - vgtc conference on visualization",
     "location": "Bergen, Norway",
     "note": "",
-    "publisher": "ACM",
+    "publisher": "acm",
     "volume": "",
     "pages": ""
   },
@@ -25531,7 +25531,7 @@
     "venue": "proc. symposium on visualization in data science",
     "location": "Phoenix, Arizona, USA",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "",
     "pages": "1–6"
   },
@@ -25551,7 +25551,7 @@
     "venue": "educational psychology review",
     "location": "",
     "note": "",
-    "publisher": "SPRINGER",
+    "publisher": "springer",
     "volume": "14, 1",
     "pages": "47–69"
   },
@@ -25609,7 +25609,7 @@
     "venue": "proc. diagrams'10 proceedings of the 6th international conference on diagrammatic representation and inference",
     "location": "Berlin, Heidelberg, Portland, OR",
     "note": "",
-    "publisher": "SPRINGER",
+    "publisher": "springer",
     "volume": "",
     "pages": "220–234"
   },
@@ -25628,7 +25628,7 @@
     "venue": "proc. digital urban modeling and simulation",
     "location": "Berlin Heidelberg, Berlin, Heidelberg",
     "note": "",
-    "publisher": "SPRINGER",
+    "publisher": "springer",
     "volume": "",
     "pages": "299–317"
   },
@@ -25705,7 +25705,7 @@
     "venue": "electronic markets",
     "location": "",
     "note": "",
-    "publisher": "SPRINGER",
+    "publisher": "springer",
     "volume": "26, 2",
     "pages": "1–15"
   },
@@ -25728,10 +25728,10 @@
       "F. Stoffel"
     ],
     "doi": "10.1177/1473871613481691",
-    "venue": "Information Visualization",
+    "venue": "Information Visualization sage",
     "location": "",
     "note": "",
-    "publisher": "SAGE",
+    "publisher": "sage",
     "volume": "12",
     "pages": [
       "3–4",
@@ -25753,7 +25753,7 @@
     "venue": "journal of marketing",
     "location": "",
     "note": "",
-    "publisher": "SAGE",
+    "publisher": "sage",
     "volume": "59, 2",
     "pages": "71–82"
   },
@@ -25773,7 +25773,7 @@
     "venue": "journal of the academy of marketing science",
     "location": "",
     "note": "",
-    "publisher": "SPRINGER",
+    "publisher": "springer",
     "volume": "29, 4",
     "pages": "374"
   },
@@ -25924,7 +25924,7 @@
     "venue": "TVCG",
     "location": "",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "20",
     "pages": [
       "12",
@@ -26161,7 +26161,7 @@
     "venue": "ieee software",
     "location": "",
     "note": "",
-    "publisher": "ACM",
+    "publisher": "acm",
     "volume": "02",
     "pages": "299–306"
   },
@@ -26598,7 +26598,7 @@
     "venue": "ISVC",
     "location": "",
     "note": "",
-    "publisher": "SPRINGER",
+    "publisher": "springer",
     "volume": "",
     "pages": "733–744"
   },
@@ -26617,7 +26617,7 @@
     "venue": "ISVC",
     "location": "",
     "note": "",
-    "publisher": "proceedings",
+    "publisher": "springer",
     "volume": "",
     "pages": "151–160"
   },
@@ -26678,7 +26678,7 @@
     "venue": "ISVC",
     "location": "",
     "note": "",
-    "publisher": "proceedings",
+    "publisher": "springer",
     "volume": "",
     "pages": "338–349"
   },
@@ -26696,7 +26696,7 @@
     "venue": "ISVC",
     "location": "",
     "note": "",
-    "publisher": "proceedings",
+    "publisher": "springer",
     "volume": "",
     "pages": "301–312"
   },
@@ -26827,7 +26827,7 @@
     "venue": "InfoVis",
     "location": "",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "",
     "pages": "284–291"
   },
@@ -26868,7 +26868,7 @@
     "venue": "ISVC",
     "location": "",
     "note": "",
-    "publisher": "proceedings",
+    "publisher": "springer",
     "volume": "",
     "pages": "970–981,"
   },
@@ -27002,7 +27002,7 @@
     "venue": "euac",
     "location": "",
     "note": "",
-    "publisher": "SAGE",
+    "publisher": "sage",
     "volume": "25, 2",
     "pages": "205–226"
   },
@@ -27038,7 +27038,7 @@
     "venue": "euac",
     "location": "",
     "note": "",
-    "publisher": "SAGE",
+    "publisher": "sage",
     "volume": "23, 4",
     "pages": "443–464"
   },
@@ -27057,7 +27057,7 @@
     "venue": "euac",
     "location": "",
     "note": "",
-    "publisher": "SAGE",
+    "publisher": "sage",
     "volume": "14, 3",
     "pages": "323–350"
   },
@@ -27074,7 +27074,7 @@
     "venue": "proceedings of the 2011 symposium on simulation for architecture and urban design (simaud '11",
     "location": "San Diego, CA, USA",
     "note": "",
-    "publisher": "ACM",
+    "publisher": "acm",
     "volume": "",
     "pages": "21–28"
   },
@@ -27094,7 +27094,7 @@
     "venue": "euac",
     "location": "",
     "note": "",
-    "publisher": "SAGE",
+    "publisher": "sage",
     "volume": "40, 5",
     "pages": "905–922"
   },
@@ -27174,7 +27174,7 @@
     "venue": "euac",
     "location": "",
     "note": "",
-    "publisher": "SAGE",
+    "publisher": "sage",
     "volume": "8, 3",
     "pages": "295–323"
   },
@@ -27216,7 +27216,7 @@
     "venue": "euac",
     "location": "",
     "note": "",
-    "publisher": "SAGE",
+    "publisher": "sage",
     "volume": "22, 4",
     "pages": "475–498"
   },
@@ -27277,7 +27277,7 @@
     "venue": "informationsciences",
     "location": "",
     "note": "",
-    "publisher": "SPRINGER",
+    "publisher": "springer",
     "volume": "328",
     "pages": "528–545"
   },
@@ -27316,7 +27316,7 @@
     "venue": "euac",
     "location": "",
     "note": "",
-    "publisher": "SAGE",
+    "publisher": "sage",
     "volume": "4, 1",
     "pages": "89–98"
   },
@@ -27336,7 +27336,7 @@
     "venue": "euac",
     "location": "",
     "note": "",
-    "publisher": "SAGE",
+    "publisher": "sage",
     "volume": "5, 1",
     "pages": "5–18"
   },
@@ -27428,7 +27428,7 @@
     "venue": "ieee software",
     "location": "",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "",
     "pages": "192–199"
   },
@@ -27448,7 +27448,7 @@
     "venue": "euac",
     "location": "",
     "note": "",
-    "publisher": "SAGE",
+    "publisher": "sage",
     "volume": "41, 1",
     "pages": "110–137"
   },
@@ -27509,7 +27509,7 @@
     "venue": "proc. apchi",
     "location": "",
     "note": "",
-    "publisher": "SPRINGER",
+    "publisher": "springer",
     "volume": "",
     "pages": "50–59"
   },
@@ -27528,7 +27528,7 @@
     "venue": "InfoVis",
     "location": "",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "",
     "pages": ""
   },
@@ -27680,7 +27680,7 @@
     "venue": "IV",
     "location": "",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "",
     "pages": ""
   },
@@ -27771,7 +27771,7 @@
     "venue": "ISVD",
     "location": "",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "",
     "pages": "85–94"
   },
@@ -27806,7 +27806,7 @@
     "venue": "InfoVis",
     "location": "",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "",
     "pages": "93–100"
   },
@@ -27826,7 +27826,7 @@
     "venue": "Information Visualization",
     "location": "",
     "note": "",
-    "publisher": "ACM",
+    "publisher": "sage",
     "volume": "2, 1",
     "pages": "31–39"
   },
@@ -27859,7 +27859,7 @@
     "venue": "AVR",
     "location": "",
     "note": "",
-    "publisher": "SPRINGER",
+    "publisher": "springer",
     "volume": "",
     "pages": "431–446"
   },
@@ -27879,7 +27879,7 @@
     "venue": "DAM",
     "location": "",
     "note": "",
-    "publisher": "Elsevier",
+    "publisher": "elsevier",
     "volume": "113, 1",
     "pages": "3–21"
   },
@@ -28023,7 +28023,7 @@
     "venue": "LDAV",
     "location": "",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "",
     "pages": "109–110"
   },
@@ -28065,7 +28065,7 @@
     "venue": "TVCG",
     "location": "",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "21, 2",
     "pages": "201–214"
   },
@@ -28113,7 +28113,7 @@
     "venue": "PLOS ONE",
     "location": "",
     "note": "",
-    "publisher": "PLOS ONE",
+    "publisher": "plos one",
     "volume": "7",
     "pages": [
       "12",
@@ -28484,7 +28484,7 @@
     "venue": "VL/HCC",
     "location": "",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "",
     "pages": "185–192"
   },
@@ -28516,7 +28516,7 @@
     "venue": "IV",
     "location": "",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "",
     "pages": "1–8"
   },
@@ -28707,7 +28707,7 @@
     "venue": "GD",
     "location": "",
     "note": "",
-    "publisher": "SPRINGER",
+    "publisher": "springer",
     "volume": "",
     "pages": "435–446"
   },
@@ -28789,7 +28789,7 @@
     "venue": "TVCG",
     "location": "",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "24, 7",
     "pages": "2194–2208"
   },
@@ -28936,7 +28936,7 @@
     "venue": "TVCG",
     "location": "",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "8",
     "pages": "9–20"
   },
@@ -28978,7 +28978,7 @@
     "venue": "ISVC",
     "location": "",
     "note": "",
-    "publisher": "proceedings",
+    "publisher": "springer",
     "volume": "",
     "pages": "696–705"
   },
@@ -29050,7 +29050,7 @@
     "venue": "InfoVis",
     "location": "",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "",
     "pages": "69"
   },
@@ -29167,7 +29167,7 @@
     "venue": "conference for homeland security",
     "location": "",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "",
     "pages": [
       "09",
@@ -29229,7 +29229,7 @@
     "venue": "TVCG",
     "location": "",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "24, 1",
     "pages": "719–728"
   },
@@ -29251,7 +29251,7 @@
     "venue": "LDAV",
     "location": "Paris, France",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "",
     "pages": "115–116"
   },
@@ -29303,10 +29303,10 @@
       "Daniel Svonava"
     ],
     "doi": "10.1177/1473871612439644",
-    "venue": "Information Visualization",
+    "venue": "Information Visualization sage",
     "location": "",
     "note": "",
-    "publisher": "ACM",
+    "publisher": "sage",
     "volume": "12, 1",
     "pages": "85–101"
   },
@@ -29342,7 +29342,7 @@
     "venue": "SIGGRAPH",
     "location": "New York, NY, USA",
     "note": "",
-    "publisher": "ACM",
+    "publisher": "acm",
     "volume": "7",
     "pages": ""
   },
@@ -29361,7 +29361,7 @@
     "venue": "SIGGRAPH",
     "location": "New York, NY, USA",
     "note": "",
-    "publisher": "ACM",
+    "publisher": "acm",
     "volume": "",
     "pages": "212–221"
   },
@@ -29385,7 +29385,7 @@
     "venue": "CHI",
     "location": "New York, NY, USA",
     "note": "",
-    "publisher": "ACM",
+    "publisher": "acm",
     "volume": "",
     "pages": ""
   },
@@ -29446,7 +29446,7 @@
     "venue": "ICPR",
     "location": "",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "",
     "pages": "2122–2127"
   },
@@ -29466,7 +29466,7 @@
     "venue": "VAST",
     "location": "New York, NY, USA",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "",
     "pages": "173–182"
   },
@@ -29558,7 +29558,7 @@
     "venue": "VINCI",
     "location": "New York, NY, USA",
     "note": "",
-    "publisher": "ACM",
+    "publisher": "acm",
     "volume": "",
     "pages": ""
   },
@@ -29576,7 +29576,7 @@
     "venue": "proceedings of the international working conference on advanced visual interfaces (avi '12",
     "location": "New York, NY, USA",
     "note": "",
-    "publisher": "ACM",
+    "publisher": "acm",
     "volume": "",
     "pages": "74–77"
   },
@@ -29608,7 +29608,7 @@
     "venue": "2011. proceedings of the 2011 visual information communication -- international symposium. acm",
     "location": "New York, NY, USA",
     "note": "",
-    "publisher": "ACM",
+    "publisher": "acm",
     "volume": "",
     "pages": ""
   },
@@ -29679,7 +29679,7 @@
     "venue": "VINCI",
     "location": "Boston, MA, USA",
     "note": "",
-    "publisher": "SPRINGER",
+    "publisher": "springer",
     "volume": "",
     "pages": ""
   },
@@ -29693,7 +29693,7 @@
     "venue": "VINCI",
     "location": "New York, NY, USA",
     "note": "",
-    "publisher": "ACM",
+    "publisher": "acm",
     "volume": "",
     "pages": ""
   },
@@ -29710,7 +29710,7 @@
     "venue": "PacificVis",
     "location": "New York, NY, USA",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "",
     "pages": "117–121"
   },
@@ -29784,7 +29784,7 @@
     "venue": "VINCI",
     "location": "New York, NY, USA",
     "note": "",
-    "publisher": "ACM",
+    "publisher": "acm",
     "volume": "",
     "pages": ""
   },
@@ -29840,7 +29840,7 @@
     "venue": "VINCI",
     "location": "New York, NY, USA",
     "note": "",
-    "publisher": "ACM",
+    "publisher": "acm",
     "volume": "",
     "pages": ""
   },
@@ -29875,7 +29875,7 @@
     "venue": "VINCI",
     "location": "New York, NY, USA",
     "note": "",
-    "publisher": "ACM",
+    "publisher": "acm",
     "volume": "",
     "pages": ""
   },
@@ -29963,7 +29963,7 @@
     "venue": "proceedings of the 3rd international symposium on visual information communication. acm",
     "location": "New York, NY, USA",
     "note": "",
-    "publisher": "ACM",
+    "publisher": "acm",
     "volume": "",
     "pages": ""
   },
@@ -29998,7 +29998,7 @@
     "venue": "VINCI",
     "location": "New York, NY, USA",
     "note": "",
-    "publisher": "ACM",
+    "publisher": "acm",
     "volume": "",
     "pages": ""
   },
@@ -30105,7 +30105,7 @@
     "venue": "TVCG",
     "location": "",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "19, 10",
     "pages": "1646–1663"
   },
@@ -30181,7 +30181,7 @@
     "venue": "proceedings of the international conference on speech and computer (specom '17",
     "location": "",
     "note": "",
-    "publisher": "SPRINGER",
+    "publisher": "springer",
     "volume": "",
     "pages": "302–311"
   },
@@ -30214,10 +30214,10 @@
       "R. Spence"
     ],
     "doi": "10.1145/1466620.1466622",
-    "venue": "Information Visualization",
+    "venue": "Information Visualization sage",
     "location": "",
     "note": "",
-    "publisher": "ACM",
+    "publisher": "sage",
     "volume": "7",
     "pages": ""
   },
@@ -30322,7 +30322,7 @@
     "venue": "PacificVis",
     "location": "New York, NY, USA",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "",
     "pages": "117–121"
   },
@@ -30501,7 +30501,7 @@
     "venue": "clothing and textiles research journal",
     "location": "",
     "note": "",
-    "publisher": "SAGE",
+    "publisher": "sage",
     "volume": "10, 1",
     "pages": "37–45"
   },
@@ -30599,7 +30599,7 @@
     "venue": "journal of business and technical communication",
     "location": "",
     "note": "",
-    "publisher": "SAGE",
+    "publisher": "sage",
     "volume": "21, 4",
     "pages": "376–401"
   },
@@ -30621,7 +30621,7 @@
     "venue": "CG&A",
     "location": "",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "29, 2",
     "pages": "14–17"
   },
@@ -30680,7 +30680,7 @@
     "venue": "science communication",
     "location": "",
     "note": "",
-    "publisher": "SAGE",
+    "publisher": "sage",
     "volume": "37, 1",
     "pages": "140–148"
   },
@@ -30701,10 +30701,10 @@
       "Hans Hagen"
     ],
     "doi": "10.1177/1473871611412817",
-    "venue": "Information Visualization",
+    "venue": "Information Visualization sage",
     "location": "",
     "note": "",
-    "publisher": "ACM",
+    "publisher": "sage",
     "volume": "10, 4",
     "pages": "310–326"
   },
@@ -30760,10 +30760,10 @@
       "H. Purchase"
     ],
     "doi": "10.1177/1473871611415996",
-    "venue": "Information Visualization",
+    "venue": "Information Visualization sage",
     "location": "",
     "note": "",
-    "publisher": "ACM",
+    "publisher": "sage",
     "volume": "10",
     "pages": ""
   },
@@ -30781,10 +30781,10 @@
       "Joost Schilperoord"
     ],
     "doi": "10.1177/1473871615606478",
-    "venue": "Information Visualization",
+    "venue": "Information Visualization sage",
     "location": "",
     "note": "",
-    "publisher": "ACM",
+    "publisher": "sage",
     "volume": "15, 3",
     "pages": "238–252"
   },
@@ -30861,7 +30861,7 @@
     "venue": "ISVC",
     "location": "",
     "note": "",
-    "publisher": "SPRINGER",
+    "publisher": "springer",
     "volume": "",
     "pages": "733–744"
   },
@@ -31000,7 +31000,7 @@
     "venue": "proceedings of 16th ifac symposium on information control problems in manufacturing incom 2018",
     "location": "Bergamo, Italy",
     "note": "",
-    "publisher": "Elsevier",
+    "publisher": "elsevier",
     "volume": "",
     "pages": ""
   },
@@ -31142,7 +31142,7 @@
     "venue": "PAMI",
     "location": "",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "15",
     "pages": ""
   },
@@ -31222,7 +31222,7 @@
     "venue": "SIBGRAPI",
     "location": "",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "",
     "pages": "340–347,"
   },
@@ -31239,7 +31239,7 @@
     "venue": "Information Visualization",
     "location": "",
     "note": "",
-    "publisher": "ACM",
+    "publisher": "sage",
     "volume": "",
     "pages": "104–109,"
   },
@@ -31313,7 +31313,7 @@
     "venue": "PacificVis",
     "location": "",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "",
     "pages": "111–115,"
   },
@@ -31330,7 +31330,7 @@
     "venue": "IV",
     "location": "",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "",
     "pages": ""
   },
@@ -31522,7 +31522,7 @@
     "venue": "CHI",
     "location": "",
     "note": "",
-    "publisher": "ACM",
+    "publisher": "acm",
     "volume": "",
     "pages": "313–317"
   },
@@ -31615,7 +31615,7 @@
     "venue": "CSCW",
     "location": "",
     "note": "",
-    "publisher": "ACM",
+    "publisher": "acm",
     "volume": "",
     "pages": "955–966"
   },
@@ -31633,7 +31633,7 @@
     "venue": "proc. groupware and the world wide web",
     "location": "",
     "note": "",
-    "publisher": "SPRINGER",
+    "publisher": "springer",
     "volume": "",
     "pages": "1–24"
   },
@@ -31668,7 +31668,7 @@
     "venue": "CHI",
     "location": "",
     "note": "",
-    "publisher": "ACM",
+    "publisher": "acm",
     "volume": "",
     "pages": "167–176"
   },
@@ -31742,7 +31742,7 @@
     "venue": "IUI",
     "location": "",
     "note": "",
-    "publisher": "ACM",
+    "publisher": "acm",
     "volume": "",
     "pages": "117–128"
   },
@@ -31832,7 +31832,7 @@
     "venue": "PacificVis",
     "location": "",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "",
     "pages": "117–121"
   },
@@ -31932,7 +31932,7 @@
     "venue": "CHI",
     "location": "",
     "note": "",
-    "publisher": "ACM",
+    "publisher": "acm",
     "volume": "",
     "pages": "1657–1660"
   },
@@ -31949,7 +31949,7 @@
     "venue": "CHI",
     "location": "",
     "note": "",
-    "publisher": "ACM",
+    "publisher": "acm",
     "volume": "",
     "pages": ""
   },
@@ -32004,7 +32004,7 @@
     "venue": "proceedings of the 22nd acm international conference on conference on information & knowledge management",
     "location": "",
     "note": "",
-    "publisher": "ACM",
+    "publisher": "acm",
     "volume": "",
     "pages": "1759–1764"
   },
@@ -32061,7 +32061,7 @@
     "venue": "inproceedings of the 2013 international conference on intelligent user",
     "location": "",
     "note": "",
-    "publisher": "ACM",
+    "publisher": "acm",
     "volume": "",
     "pages": "351–362"
   },
@@ -32078,7 +32078,7 @@
     "venue": "CHI",
     "location": "",
     "note": "",
-    "publisher": "ACM",
+    "publisher": "acm",
     "volume": "",
     "pages": "270–277"
   },
@@ -32184,7 +32184,7 @@
     "venue": "GD",
     "location": "",
     "note": "",
-    "publisher": "SPRINGER",
+    "publisher": "springer",
     "volume": "",
     "pages": ""
   },
@@ -32200,10 +32200,10 @@
       "M. McGill"
     ],
     "doi": "10.1057/palgrave.ivs.9500013",
-    "venue": "Information Visualization",
+    "venue": "Information Visualization sage",
     "location": "",
     "note": "",
-    "publisher": "ACM",
+    "publisher": "sage",
     "volume": "1",
     "pages": "103–110"
   },
@@ -32221,7 +32221,7 @@
     "venue": "informationsciences",
     "location": "",
     "note": "",
-    "publisher": "Elsevier",
+    "publisher": "elsevier",
     "volume": "330",
     "pages": "444–454"
   },
@@ -32305,7 +32305,7 @@
     "venue": "IV",
     "location": "",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "",
     "pages": ""
   },
@@ -32381,7 +32381,7 @@
     "venue": "ieee software",
     "location": "",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "",
     "pages": "116–124,"
   },
@@ -32433,7 +32433,7 @@
     "venue": "WPC",
     "location": "",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "",
     "pages": "205–214,"
   },
@@ -32506,7 +32506,7 @@
     "venue": "ASE",
     "location": "",
     "note": "",
-    "publisher": "ACM",
+    "publisher": "acm",
     "volume": "",
     "pages": "231–240,"
   },
@@ -32645,7 +32645,7 @@
     "venue": "GD",
     "location": "",
     "note": "",
-    "publisher": "SPRINGER",
+    "publisher": "springer",
     "volume": "",
     "pages": "452–463"
   },
@@ -32743,7 +32743,7 @@
     "venue": "InfoVis",
     "location": "",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "20",
     "pages": ""
   },
@@ -32928,7 +32928,7 @@
     "venue": "CHI",
     "location": "",
     "note": "",
-    "publisher": "ACM",
+    "publisher": "acm",
     "volume": "",
     "pages": "1459–1468"
   },
@@ -33020,10 +33020,10 @@
       "B.B. Bederson"
     ],
     "doi": "10.1057/palgrave.ivs.9500143",
-    "venue": "Information Visualization",
+    "venue": "Information Visualization sage",
     "location": "",
     "note": "",
-    "publisher": "ACM",
+    "publisher": "sage",
     "volume": "6",
     "pages": ""
   },
@@ -33125,7 +33125,7 @@
     "venue": "CHI",
     "location": "",
     "note": "",
-    "publisher": "ACM",
+    "publisher": "acm",
     "volume": "",
     "pages": "335–342"
   },
@@ -33198,7 +33198,7 @@
     "venue": "VAST",
     "location": "",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "",
     "pages": "139–146"
   },
@@ -33234,7 +33234,7 @@
     "venue": "network, ieee",
     "location": "",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "26",
     "pages": ""
   },
@@ -33275,7 +33275,7 @@
     "venue": "ieee software",
     "location": "",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "",
     "pages": "123–128"
   },
@@ -33292,7 +33292,7 @@
     "venue": "proceedings of the 2004 acm workshop on visualization and data mining for computer security",
     "location": "",
     "note": "",
-    "publisher": "ACM",
+    "publisher": "acm",
     "volume": "",
     "pages": "143–147"
   },
@@ -33312,7 +33312,7 @@
     "venue": "ieee software",
     "location": "",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "",
     "pages": "92–99"
   },
@@ -33351,7 +33351,7 @@
     "venue": "informationsciences",
     "location": "",
     "note": "",
-    "publisher": "SPRINGER",
+    "publisher": "springer",
     "volume": "56",
     "pages": ""
   },
@@ -33369,7 +33369,7 @@
     "venue": "proceedings of the working conference on advanced visual interfaces",
     "location": "New York",
     "note": "",
-    "publisher": "ACM",
+    "publisher": "acm",
     "volume": "",
     "pages": "412–419,"
   },
@@ -33405,7 +33405,7 @@
     "venue": "CHI",
     "location": "New York",
     "note": "",
-    "publisher": "ACM",
+    "publisher": "acm",
     "volume": "",
     "pages": "1807–1816,"
   },
@@ -33443,7 +33443,7 @@
     "venue": "TVCG",
     "location": "",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "21",
     "pages": ""
   },
@@ -33465,7 +33465,7 @@
     "venue": "proceedings of the 2014 international working conference on advanced visual interfaces",
     "location": "New York",
     "note": "",
-    "publisher": "ACM",
+    "publisher": "acm",
     "volume": "",
     "pages": "281–288,"
   },
@@ -33537,7 +33537,7 @@
     "venue": "TVCG",
     "location": "",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "20",
     "pages": ""
   },
@@ -33697,7 +33697,7 @@
     "venue": "cognitive computation",
     "location": "",
     "note": "",
-    "publisher": "SPRINGER",
+    "publisher": "springer",
     "volume": "3",
     "pages": ""
   },
@@ -33825,7 +33825,7 @@
     "venue": "psychonomic bulletin & review",
     "location": "",
     "note": "",
-    "publisher": "SPRINGER",
+    "publisher": "springer",
     "volume": "5",
     "pages": ""
   },
@@ -33879,7 +33879,7 @@
     "venue": "ieee software",
     "location": "",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "",
     "pages": "965–968,"
   },
@@ -33916,7 +33916,7 @@
     "venue": "ICIP",
     "location": "",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "",
     "pages": "181–185,"
   },
@@ -33969,10 +33969,10 @@
       "J. Kielman"
     ],
     "doi": "10.1057/ivs.2009.26",
-    "venue": "Information Visualization",
+    "venue": "Information Visualization sage",
     "location": "",
     "note": "",
-    "publisher": "ACM",
+    "publisher": "sage",
     "volume": "8",
     "pages": "309–314"
   },
@@ -34107,10 +34107,10 @@
       "P. Bak"
     ],
     "doi": "10.1057/ivs.2009.34",
-    "venue": "Information Visualization",
+    "venue": "Information Visualization sage",
     "location": "",
     "note": "",
-    "publisher": "ACM",
+    "publisher": "sage",
     "volume": "9",
     "pages": "301–311"
   },
@@ -34214,7 +34214,7 @@
     "venue": "tvc",
     "location": "",
     "note": "",
-    "publisher": "SPRINGER",
+    "publisher": "springer",
     "volume": "1",
     "pages": "69–97"
   },
@@ -34340,7 +34340,7 @@
     "venue": "TVCG",
     "location": "",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "14",
     "pages": "1141–1148"
   },
@@ -34471,7 +34471,7 @@
     "venue": "ieee transactions on human-machine systems",
     "location": "",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "45",
     "pages": "272–279"
   },
@@ -34619,7 +34619,7 @@
     "venue": "InfoVis",
     "location": "",
     "note": "",
-    "publisher": "SPRINGER",
+    "publisher": "springer",
     "volume": "8",
     "pages": ""
   },
@@ -34852,7 +34852,7 @@
     "venue": "synthesis lectures on human-centered informatics",
     "location": "",
     "note": "",
-    "publisher": "SPRINGER",
+    "publisher": "springer",
     "volume": "9",
     "pages": ""
   },
@@ -34931,7 +34931,7 @@
     "venue": "CHI",
     "location": "",
     "note": "",
-    "publisher": "ACM",
+    "publisher": "acm",
     "volume": "",
     "pages": "1161–1170"
   },
@@ -34991,7 +34991,7 @@
     "venue": "vocations and learning",
     "location": "",
     "note": "",
-    "publisher": "SPRINGER",
+    "publisher": "springer",
     "volume": "6",
     "pages": ""
   },
@@ -35169,7 +35169,7 @@
     "venue": "proceedings of the ninth biennial acm symposium on eye tracking research & applications",
     "location": "",
     "note": "",
-    "publisher": "ACM",
+    "publisher": "acm",
     "volume": "",
     "pages": "171–174"
   },
@@ -35464,7 +35464,7 @@
     "venue": "LNCS",
     "location": "",
     "note": "",
-    "publisher": "SPRINGER",
+    "publisher": "springer",
     "volume": "",
     "pages": "104–115,"
   },
@@ -35612,7 +35612,7 @@
     "venue": "GI",
     "location": "",
     "note": "",
-    "publisher": "ACM",
+    "publisher": "acm",
     "volume": "",
     "pages": "119–125,"
   },
@@ -35687,7 +35687,7 @@
     "venue": "VINCI",
     "location": "New York, NY, USA",
     "note": "",
-    "publisher": "ACM",
+    "publisher": "acm",
     "volume": "",
     "pages": "97–104,"
   },
@@ -35811,7 +35811,7 @@
     "venue": "acm transactions computer-human interaction",
     "location": "",
     "note": "",
-    "publisher": "ACM",
+    "publisher": "acm",
     "volume": "13, 1",
     "pages": "37–70"
   },
@@ -36069,7 +36069,7 @@
     "venue": "memory & cognition",
     "location": "",
     "note": "",
-    "publisher": "SPRINGER",
+    "publisher": "springer",
     "volume": "6",
     "pages": "454–461"
   },
@@ -36119,7 +36119,7 @@
     "venue": "PLOS ONE",
     "location": "",
     "note": "",
-    "publisher": "PLOS ONE",
+    "publisher": "plos one",
     "volume": "7",
     "pages": "37426"
   },
@@ -36205,7 +36205,7 @@
     "venue": "psychometrika",
     "location": "",
     "note": "",
-    "publisher": "SPRINGER",
+    "publisher": "springer",
     "volume": "15",
     "pages": "349–367"
   },
@@ -36258,7 +36258,7 @@
     "venue": "VINCI",
     "location": "",
     "note": "",
-    "publisher": "ACM",
+    "publisher": "acm",
     "volume": "",
     "pages": "121–130"
   },
@@ -36276,7 +36276,7 @@
     "venue": "journal of marketing",
     "location": "",
     "note": "",
-    "publisher": "SAGE",
+    "publisher": "sage",
     "volume": "74",
     "pages": "94–110"
   },
@@ -36345,7 +36345,7 @@
     "venue": "journal of marketing research",
     "location": "",
     "note": "",
-    "publisher": "SAGE",
+    "publisher": "sage",
     "volume": "",
     "pages": "313–326"
   },
@@ -36382,7 +36382,7 @@
     "venue": "CHI",
     "location": "New York, New York, USA",
     "note": "",
-    "publisher": "ACM",
+    "publisher": "acm",
     "volume": "",
     "pages": "2573,"
   },
@@ -36457,7 +36457,7 @@
     "venue": "Information Visualization",
     "location": "",
     "note": "",
-    "publisher": "ACM",
+    "publisher": "sage",
     "volume": "",
     "pages": "637–648,"
   },
@@ -36725,7 +36725,7 @@
     "venue": "computer science and statistics: proceedings of the 13th symposium on the interface",
     "location": "",
     "note": "",
-    "publisher": "SPRINGER",
+    "publisher": "springer",
     "volume": "",
     "pages": ""
   },
@@ -36797,7 +36797,7 @@
     "venue": "international journal of intelligence science",
     "location": "",
     "note": "",
-    "publisher": "SPRINGER",
+    "publisher": "springer",
     "volume": "3",
     "pages": ""
   },
@@ -37102,7 +37102,7 @@
     "venue": "VAST",
     "location": "",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "",
     "pages": "231–240,"
   },
@@ -37121,7 +37121,7 @@
     "venue": "TVCG",
     "location": "",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "20",
     "pages": ""
   },
@@ -37440,7 +37440,7 @@
     "venue": "CHI",
     "location": "",
     "note": "",
-    "publisher": "ACM",
+    "publisher": "acm",
     "volume": "",
     "pages": "2751–2754"
   },
@@ -37534,7 +37534,7 @@
     "venue": "VINCI",
     "location": "New York, NY, USA",
     "note": "",
-    "publisher": "ACM",
+    "publisher": "acm",
     "volume": "",
     "pages": "1–8,"
   },
@@ -37702,7 +37702,7 @@
     "venue": "tvc",
     "location": "",
     "note": "",
-    "publisher": "SPRINGER",
+    "publisher": "springer",
     "volume": "19",
     "pages": ""
   },
@@ -37842,7 +37842,7 @@
     "venue": "proceedings of the 6th international symposium on non-photorealistic animation and rendering",
     "location": "",
     "note": "",
-    "publisher": "ACM",
+    "publisher": "acm",
     "volume": "",
     "pages": "79–87"
   },
@@ -37945,7 +37945,7 @@
     "venue": "SIGGRAPH",
     "location": "",
     "note": "",
-    "publisher": "ACM",
+    "publisher": "acm",
     "volume": "",
     "pages": "201–208"
   },
@@ -37978,7 +37978,7 @@
     "venue": "SIGGRAPH",
     "location": "",
     "note": "",
-    "publisher": "ACM",
+    "publisher": "acm",
     "volume": "24",
     "pages": "207–214"
   },
@@ -38029,7 +38029,7 @@
     "venue": "IV",
     "location": "",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "",
     "pages": "245–250"
   },
@@ -38063,7 +38063,7 @@
     "venue": "ieee software",
     "location": "",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "",
     "pages": "201–205"
   },
@@ -38221,7 +38221,7 @@
     "venue": "proceedings of the 8th international symposium on non-photorealistic animation and rendering",
     "location": "",
     "note": "",
-    "publisher": "ACM",
+    "publisher": "acm",
     "volume": "",
     "pages": "99–107"
   },
@@ -38263,7 +38263,7 @@
     "venue": "TVCG",
     "location": "",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "20",
     "pages": "1530–1541"
   },
@@ -38279,7 +38279,7 @@
     "venue": "GD",
     "location": "Berlin Heidelberg",
     "note": "",
-    "publisher": "SPRINGER",
+    "publisher": "springer",
     "volume": "",
     "pages": "171–182"
   },
@@ -38298,10 +38298,10 @@
       "B.W. Wong"
     ],
     "doi": "10.1177/1473871615605347.",
-    "venue": "Information Visualization",
+    "venue": "Information Visualization sage",
     "location": "",
     "note": "",
-    "publisher": "ACM",
+    "publisher": "sage",
     "volume": "",
     "pages": ""
   },
@@ -38318,10 +38318,10 @@
       "M. Sahlgren"
     ],
     "doi": "10.1177/1473871615575079",
-    "venue": "Information Visualization",
+    "venue": "Information Visualization sage",
     "location": "",
     "note": "",
-    "publisher": "SAGE",
+    "publisher": "sage",
     "volume": "15",
     "pages": "93–116"
   },
@@ -38357,7 +38357,7 @@
     "venue": "proceedings of the 16th international workshop on quality of service",
     "location": "",
     "note": "Data at netsg.cs.sfu.ca/youtubedata.",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "",
     "pages": "229–238,"
   },
@@ -38375,7 +38375,7 @@
     "venue": "CHI",
     "location": "New York, NY, USA",
     "note": "",
-    "publisher": "ACM",
+    "publisher": "acm",
     "volume": "",
     "pages": "401–408,"
   },
@@ -38392,7 +38392,7 @@
     "venue": "journal of cross cultural psychology",
     "location": "",
     "note": "",
-    "publisher": "SAGE",
+    "publisher": "sage",
     "volume": "4, 2",
     "pages": "135–156"
   },
@@ -38462,7 +38462,7 @@
     "venue": "NeuroImage",
     "location": "",
     "note": "",
-    "publisher": "Elsevier",
+    "publisher": "elsevier",
     "volume": "59",
     "pages": "808–814"
   },
@@ -38642,7 +38642,7 @@
     "venue": "PLOS ONE",
     "location": "",
     "note": "",
-    "publisher": "PLOS ONE",
+    "publisher": "plos one",
     "volume": "9",
     "pages": "93609"
   },
@@ -38663,7 +38663,7 @@
     "venue": "PLOS ONE",
     "location": "",
     "note": "",
-    "publisher": "PLOS ONE",
+    "publisher": "plos one",
     "volume": "8",
     "pages": "62403"
   },
@@ -39103,7 +39103,7 @@
     "venue": "LDAV",
     "location": "",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "",
     "pages": "95–103,"
   },
@@ -39119,10 +39119,10 @@
       "D.A. Keim"
     ],
     "doi": "10.1177/1473871613493996",
-    "venue": "Information Visualization",
+    "venue": "Information Visualization sage",
     "location": "",
     "note": "",
-    "publisher": "SAGE",
+    "publisher": "sage",
     "volume": "12",
     "pages": ""
   },
@@ -39161,7 +39161,7 @@
     "venue": "VAST",
     "location": "",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "",
     "pages": "193–202,"
   },
@@ -39203,7 +39203,7 @@
     "venue": "TVCG",
     "location": "",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "20",
     "pages": ""
   },
@@ -39350,7 +39350,7 @@
     "venue": "CHI",
     "location": "New York, NY, USA",
     "note": "",
-    "publisher": "ACM",
+    "publisher": "acm",
     "volume": "",
     "pages": "1079–1088,"
   },
@@ -39369,7 +39369,7 @@
     "venue": "CIKM",
     "location": "",
     "note": "",
-    "publisher": "ACM",
+    "publisher": "acm",
     "volume": "",
     "pages": "2541–2544,"
   },
@@ -39440,7 +39440,7 @@
     "venue": "cism courses and lectures",
     "location": "",
     "note": "",
-    "publisher": "SPRINGER",
+    "publisher": "springer",
     "volume": "524",
     "pages": "375–382,"
   },
@@ -39514,7 +39514,7 @@
     "venue": "the british journal of visual impairment",
     "location": "",
     "note": "",
-    "publisher": "SAGE",
+    "publisher": "sage",
     "volume": "21",
     "pages": "54–63,"
   },
@@ -39837,7 +39837,7 @@
     "venue": "Information Visualization",
     "location": "",
     "note": "",
-    "publisher": "ACM",
+    "publisher": "sage",
     "volume": "",
     "pages": "24–31,"
   },
@@ -39856,7 +39856,7 @@
     "venue": "ISVC",
     "location": "",
     "note": "",
-    "publisher": "proceedings",
+    "publisher": "springer",
     "volume": "",
     "pages": "447–457,"
   },
@@ -39872,7 +39872,7 @@
     "venue": "algorithmica",
     "location": "",
     "note": "",
-    "publisher": "SPRINGER",
+    "publisher": "springer",
     "volume": "1",
     "pages": ""
   },
@@ -39889,7 +39889,7 @@
     "venue": "ieee software",
     "location": "",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "",
     "pages": "191–198,"
   },
@@ -40134,7 +40134,7 @@
     "venue": "InfoVis",
     "location": "",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "21",
     "pages": ""
   },
@@ -40211,7 +40211,7 @@
     "venue": "TOG",
     "location": "",
     "note": "",
-    "publisher": "ACM",
+    "publisher": "acm",
     "volume": "21",
     "pages": ""
   },
@@ -40625,7 +40625,7 @@
     "venue": "SMC",
     "location": "",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "11",
     "pages": ""
   },
@@ -40722,7 +40722,7 @@
     "venue": "PacificVis",
     "location": "",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "",
     "pages": "215–222,"
   },
@@ -41018,7 +41018,7 @@
     "venue": "nonlinear dynamics",
     "location": "",
     "note": "",
-    "publisher": "SPRINGER",
+    "publisher": "springer",
     "volume": "44",
     "pages": ""
   },
@@ -41058,7 +41058,7 @@
     "venue": "towards a service-based internet - 4th european conference, servicewave 2011",
     "location": "Poznan, Poland",
     "note": "",
-    "publisher": "SPRINGER",
+    "publisher": "springer",
     "volume": "Proceedings, volume 6994",
     "pages": "14–25"
   },
@@ -41133,7 +41133,7 @@
     "venue": "VINCI",
     "location": "VINCI '14, Sydney, NSW, Australia",
     "note": "",
-    "publisher": "ACM",
+    "publisher": "acm",
     "volume": "",
     "pages": "19"
   },
@@ -41169,7 +41169,7 @@
     "venue": "GD",
     "location": "Redmond, WA, USA",
     "note": "",
-    "publisher": "SPRINGER",
+    "publisher": "springer",
     "volume": "7704",
     "pages": "55–66"
   },
@@ -41207,7 +41207,7 @@
     "venue": "PacificVis",
     "location": "Yokohama, Japan",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "",
     "pages": "73–80"
   },
@@ -41227,7 +41227,7 @@
     "venue": "IV",
     "location": "",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "",
     "pages": "7–12,"
   },
@@ -41330,7 +41330,7 @@
     "venue": "IV",
     "location": "London, United Kingdom",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "",
     "pages": "59–65"
   },
@@ -41367,7 +41367,7 @@
     "venue": "psychometrika",
     "location": "",
     "note": "",
-    "publisher": "SPRINGER",
+    "publisher": "springer",
     "volume": "30",
     "pages": ""
   },
@@ -41385,7 +41385,7 @@
     "venue": "PacificVis",
     "location": "",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "",
     "pages": ""
   },
@@ -41511,7 +41511,7 @@
     "venue": "VINCI",
     "location": "",
     "note": "",
-    "publisher": "ACM",
+    "publisher": "acm",
     "volume": "",
     "pages": "78"
   },
@@ -41620,7 +41620,7 @@
     "venue": "SIGGRAPH",
     "location": "",
     "note": "",
-    "publisher": "ACM",
+    "publisher": "acm",
     "volume": "",
     "pages": "421–430"
   },
@@ -41673,7 +41673,7 @@
     "venue": "proceedings of computer animation",
     "location": "",
     "note": "",
-    "publisher": "SPRINGER",
+    "publisher": "springer",
     "volume": "",
     "pages": "177–189,"
   },
@@ -41710,7 +41710,7 @@
     "venue": "tvc",
     "location": "",
     "note": "",
-    "publisher": "SPRINGER",
+    "publisher": "springer",
     "volume": "30",
     "pages": ""
   },
@@ -41766,7 +41766,7 @@
     "venue": "ICIP",
     "location": "",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "",
     "pages": "4652–4656"
   },
@@ -41840,7 +41840,7 @@
     "venue": "SIGGRAPH",
     "location": "",
     "note": "",
-    "publisher": "ACM",
+    "publisher": "acm",
     "volume": "",
     "pages": "101–108"
   },
@@ -41875,7 +41875,7 @@
     "venue": "SIGGRAPH",
     "location": "",
     "note": "",
-    "publisher": "ACM",
+    "publisher": "acm",
     "volume": "",
     "pages": "121–128"
   },
@@ -41897,7 +41897,7 @@
     "venue": "proceedings of the acm international conference on interactive tabletops and surfaces",
     "location": "",
     "note": "",
-    "publisher": "ACM",
+    "publisher": "acm",
     "volume": "",
     "pages": "53–56"
   },
@@ -42546,7 +42546,7 @@
     "venue": "computational intelligence in information systems: proceedings of the fourth inns symposia series on computational intelligence in information systems (inns-ciis 2014",
     "location": "",
     "note": "",
-    "publisher": "SPRINGER",
+    "publisher": "springer",
     "volume": "331",
     "pages": "245"
   },
@@ -42564,7 +42564,7 @@
     "venue": "ISMAR",
     "location": "",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "",
     "pages": ""
   },
@@ -42681,7 +42681,7 @@
       "New York, NY"
     ],
     "note": "",
-    "publisher": "ACM",
+    "publisher": "acm",
     "volume": "",
     "pages": "871–880"
   },
@@ -42722,7 +42722,7 @@
     "venue": "ieee software",
     "location": "",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "86",
     "pages": "853–869"
   },
@@ -42740,7 +42740,7 @@
     "venue": "ICRA",
     "location": "",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "2",
     "pages": "1329–1334"
   },
@@ -42810,7 +42810,7 @@
     "venue": "proceedings of the 2009 international conference on multimodal interfaces",
     "location": "",
     "note": "",
-    "publisher": "ACM",
+    "publisher": "acm",
     "volume": "",
     "pages": ""
   },
@@ -42830,7 +42830,7 @@
     "venue": "proceedings of the international symposium on augmented reality",
     "location": "",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "",
     "pages": "111–119"
   },
@@ -42883,7 +42883,7 @@
     "venue": "proceedings of the 15th acm on international conference on multimodal interaction",
     "location": "",
     "note": "",
-    "publisher": "ACM",
+    "publisher": "acm",
     "volume": "",
     "pages": ""
   },
@@ -42938,7 +42938,7 @@
     "venue": "SIGGRAPH",
     "location": "",
     "note": "",
-    "publisher": "ACM",
+    "publisher": "acm",
     "volume": "",
     "pages": "22"
   },
@@ -42977,7 +42977,7 @@
     "venue": "ISMAR",
     "location": "",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "",
     "pages": "1–6"
   },
@@ -43172,7 +43172,7 @@
     "venue": "spectrum, ieee",
     "location": "",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "50",
     "pages": "20–21"
   },
@@ -43190,7 +43190,7 @@
     "venue": "journal on multimodal user interfaces",
     "location": "",
     "note": "",
-    "publisher": "SPRINGER",
+    "publisher": "springer",
     "volume": "9",
     "pages": "105–119,"
   },
@@ -43209,7 +43209,7 @@
     "venue": "ieee software",
     "location": "",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "2",
     "pages": "850–855"
   },
@@ -43229,7 +43229,7 @@
     "venue": "VAST",
     "location": "Washington, DC, USA",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "",
     "pages": "259–260,"
   },
@@ -43249,7 +43249,7 @@
     "venue": "ieee software",
     "location": "",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "",
     "pages": "73–79"
   },
@@ -43269,7 +43269,7 @@
     "venue": "darpa information survivability conference & exposition ii",
     "location": "",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": [],
     "pages": "343–351"
   },
@@ -43286,7 +43286,7 @@
     "venue": "darpa information survivability conference and exposition, 2003. proceedings",
     "location": "",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "2",
     "pages": "190–195"
   },
@@ -43318,7 +43318,7 @@
     "venue": "proceedings of the ninth international symposium on visualization for cyber security",
     "location": "",
     "note": "",
-    "publisher": "ACM",
+    "publisher": "acm",
     "volume": "",
     "pages": "17–24"
   },
@@ -43352,7 +43352,7 @@
     "venue": "VAST",
     "location": "",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "",
     "pages": "315–316,"
   },
@@ -43369,7 +43369,7 @@
     "venue": "technologies for homeland security, 2009. hst'09. ieee conference on",
     "location": "",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "",
     "pages": "143–150"
   },
@@ -43404,7 +43404,7 @@
     "venue": "proceedings of the 4th annual workshop on cyber security and information intelligence research: developing strategies to meet the cyber security and information intelligence challenges ahead, csiirw '08",
     "location": "New York, NY, USA",
     "note": "",
-    "publisher": "ACM",
+    "publisher": "acm",
     "volume": 32,
     "pages": "1–32 2,"
   },
@@ -43456,7 +43456,7 @@
     "venue": "proceedings of the tenth workshop on visualization for cyber security",
     "location": "",
     "note": "",
-    "publisher": "ACM",
+    "publisher": "acm",
     "volume": "",
     "pages": "49–56"
   },
@@ -43474,7 +43474,7 @@
     "venue": "military communications conference, 2008. milcom 2008. ieee",
     "location": "",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "",
     "pages": "1–6"
   },
@@ -43508,7 +43508,7 @@
     "venue": "proceedings of the tenth workshop on visualization for cyber security",
     "location": "",
     "note": "",
-    "publisher": "ACM",
+    "publisher": "acm",
     "volume": "",
     "pages": "25–32"
   },
@@ -43527,7 +43527,7 @@
     "venue": "military communications conference, 2009. milcom 2009. ieee",
     "location": "",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "",
     "pages": "1–7"
   },
@@ -43698,7 +43698,7 @@
     "venue": "InfoVis",
     "location": "",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "20",
     "pages": "1813–1822,"
   },
@@ -43906,7 +43906,7 @@
     "venue": "proceedings of the 2004 acm symposium on applied computing",
     "location": "Nicosia, Cyprus",
     "note": "",
-    "publisher": "ACM",
+    "publisher": "acm",
     "volume": "",
     "pages": "1242–1247"
   },
@@ -44028,7 +44028,7 @@
     "venue": "advances in atmospheric sciences",
     "location": "",
     "note": "In Chinese",
-    "publisher": "SPRINGER",
+    "publisher": "springer",
     "volume": "29",
     "pages": "958–977,"
   },
@@ -44322,7 +44322,7 @@
     "venue": "ieee software",
     "location": "",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "",
     "pages": "810–817,"
   },
@@ -44674,7 +44674,7 @@
     "venue": "personality and social psychology review",
     "location": "",
     "note": "",
-    "publisher": "SAGE",
+    "publisher": "sage",
     "volume": "13, 3",
     "pages": "219–235"
   },
@@ -45153,7 +45153,7 @@
     "venue": "j. comput. mol. des",
     "location": "",
     "note": "",
-    "publisher": "SPRINGER",
+    "publisher": "springer",
     "volume": "10",
     "pages": ""
   },
@@ -45225,7 +45225,7 @@
     "venue": "InfoVis",
     "location": "",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "21",
     "pages": ""
   },
@@ -45330,7 +45330,7 @@
     "venue": "LDAV",
     "location": "",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "",
     "pages": "91–95,"
   },
@@ -45513,7 +45513,7 @@
     "venue": "ieee software",
     "location": "",
     "note": "",
-    "publisher": "SPRINGER",
+    "publisher": "springer",
     "volume": "",
     "pages": "33–42"
   },
@@ -45565,7 +45565,7 @@
     "venue": "VL/HCC",
     "location": "",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "",
     "pages": "55–60,"
   },
@@ -45634,7 +45634,7 @@
     "venue": "InfoVis",
     "location": "",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "",
     "pages": "73–73"
   },
@@ -45667,7 +45667,7 @@
     "venue": "proceedings of the 3rd conference on visualization'92",
     "location": "",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "",
     "pages": "124–131"
   },
@@ -45736,7 +45736,7 @@
     "venue": "VL/HCC",
     "location": "",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "",
     "pages": "213–216"
   },
@@ -46027,7 +46027,7 @@
     "venue": "journal of economic interaction and coordination",
     "location": "",
     "note": "",
-    "publisher": "SPRINGER",
+    "publisher": "springer",
     "volume": "9",
     "pages": "151–181"
   },
@@ -46062,7 +46062,7 @@
     "venue": "IV",
     "location": "",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "",
     "pages": "106–111"
   },
@@ -46260,7 +46260,7 @@
     "venue": "proc. of the dnis (databases in networked information systems",
     "location": "Heidelberg",
     "note": "",
-    "publisher": "SPRINGER",
+    "publisher": "springer",
     "volume": "",
     "pages": "132–143,"
   },
@@ -46313,7 +46313,7 @@
     "venue": "IV",
     "location": "",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "",
     "pages": "142–150"
   },
@@ -46416,7 +46416,7 @@
     "venue": "instructional science",
     "location": "",
     "note": "",
-    "publisher": "SPRINGER",
+    "publisher": "springer",
     "volume": "38",
     "pages": "105–134"
   },
@@ -46482,7 +46482,7 @@
     "venue": "CHI",
     "location": "",
     "note": "",
-    "publisher": "ACM",
+    "publisher": "acm",
     "volume": "",
     "pages": "2297–2306"
   },
@@ -46498,7 +46498,7 @@
     "venue": "cognitive processing",
     "location": "",
     "note": "",
-    "publisher": "SPRINGER",
+    "publisher": "springer",
     "volume": "11",
     "pages": "133–142"
   },
@@ -46533,7 +46533,7 @@
     "venue": "IUI",
     "location": "",
     "note": "",
-    "publisher": "ACM",
+    "publisher": "acm",
     "volume": "",
     "pages": "315–324"
   },
@@ -46547,10 +46547,10 @@
       "B. Fisher"
     ],
     "doi": "10.1177/1473871612441542",
-    "venue": "Information Visualization",
+    "venue": "Information Visualization sage",
     "location": "",
     "note": "",
-    "publisher": "ACM",
+    "publisher": "sage",
     "volume": "11",
     "pages": "205–221"
   },
@@ -46565,10 +46565,10 @@
       "S.-H. Hong"
     ],
     "doi": "10.1057/ivs.2009.10",
-    "venue": "Information Visualization",
+    "venue": "Information Visualization sage",
     "location": "",
     "note": "",
-    "publisher": "ACM",
+    "publisher": "sage",
     "volume": "8",
     "pages": ""
   },
@@ -46775,7 +46775,7 @@
     "venue": "proceedings of the 6th international conference on multimodal interfaces",
     "location": "",
     "note": "",
-    "publisher": "ACM",
+    "publisher": "acm",
     "volume": "",
     "pages": "129–136"
   },
@@ -46898,7 +46898,7 @@
     "venue": "IUI",
     "location": "",
     "note": "",
-    "publisher": "ACM",
+    "publisher": "acm",
     "volume": "",
     "pages": "317–328"
   },
@@ -46951,7 +46951,7 @@
     "venue": "CHI",
     "location": "",
     "note": "",
-    "publisher": "ACM",
+    "publisher": "acm",
     "volume": "",
     "pages": "295–304"
   },
@@ -47220,7 +47220,7 @@
     "venue": "InfoVis",
     "location": "Washington, DC, USA",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "",
     "pages": "3–,"
   },
@@ -47245,7 +47245,7 @@
       "Providence, RI, USA"
     ],
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "",
     "pages": ""
   },
@@ -47356,7 +47356,7 @@
     "venue": "PacificVis",
     "location": "",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "",
     "pages": "97–104,"
   },
@@ -47550,10 +47550,10 @@
       "Meichun Hsu"
     ],
     "doi": "10.1057/palgrave/ivs/9500003",
-    "venue": "Information Visualization",
+    "venue": "Information Visualization sage",
     "location": "",
     "note": "",
-    "publisher": "ACM",
+    "publisher": "sage",
     "volume": "1",
     "pages": ""
   },
@@ -47621,7 +47621,7 @@
     "venue": "Information Visualization",
     "location": "",
     "note": "",
-    "publisher": "ACM",
+    "publisher": "sage",
     "volume": "",
     "pages": "127–130,"
   },
@@ -47677,7 +47677,7 @@
     "venue": "VL/HCC",
     "location": "",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "",
     "pages": "185–192,"
   },
@@ -47817,7 +47817,7 @@
     "venue": "SMC",
     "location": "",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "11",
     "pages": ""
   },
@@ -47854,7 +47854,7 @@
     "venue": "SODA",
     "location": "",
     "note": "",
-    "publisher": "ACM",
+    "publisher": "acm",
     "volume": "",
     "pages": "293–311"
   },
@@ -47906,7 +47906,7 @@
     "venue": "proc. 10th european conference on machine learning",
     "location": "",
     "note": "",
-    "publisher": "SPRINGER",
+    "publisher": "springer",
     "volume": "1398",
     "pages": "137–142"
   },
@@ -47922,7 +47922,7 @@
     "venue": "psychometrika",
     "location": "",
     "note": "",
-    "publisher": "SPRINGER",
+    "publisher": "springer",
     "volume": "29, 1",
     "pages": "1–27"
   },
@@ -48135,7 +48135,7 @@
     "venue": "psychometrika",
     "location": "",
     "note": "",
-    "publisher": "SPRINGER",
+    "publisher": "springer",
     "volume": "17, 4",
     "pages": "401–419"
   },
@@ -48261,7 +48261,7 @@
     "venue": "Information Visualization",
     "location": "",
     "note": "",
-    "publisher": "ACM",
+    "publisher": "sage",
     "volume": "",
     "pages": "125–132,"
   },
@@ -48419,7 +48419,7 @@
     "venue": "journal of computer science and technology",
     "location": "",
     "note": "",
-    "publisher": "SPRINGER",
+    "publisher": "springer",
     "volume": "28",
     "pages": ""
   },
@@ -48475,7 +48475,7 @@
     "venue": "Information Visualization",
     "location": "",
     "note": "",
-    "publisher": "ACM",
+    "publisher": "sage",
     "volume": "",
     "pages": "73–80,"
   },
@@ -48508,7 +48508,7 @@
     "venue": "InfoVis",
     "location": "Los Alamitos, CA, USA",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "",
     "pages": "53–60"
   },
@@ -48638,10 +48638,10 @@
       "P. Buono"
     ],
     "doi": "10.1177/1473871611415994",
-    "venue": "Information Visualization",
+    "venue": "Information Visualization sage",
     "location": "",
     "note": "",
-    "publisher": "ACM",
+    "publisher": "sage",
     "volume": "10",
     "pages": "271–288,"
   },
@@ -48963,7 +48963,7 @@
     "venue": "VL/HCC",
     "location": "",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "",
     "pages": "182–183,"
   },
@@ -48995,7 +48995,7 @@
     "venue": "VL/HCC",
     "location": "",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "",
     "pages": "139–142,"
   },
@@ -49049,7 +49049,7 @@
     "venue": "instrumentation and measurement technology conference proceedings, 2007. imtc 2007. ieee",
     "location": "",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "",
     "pages": "1–6,"
   },
@@ -49145,7 +49145,7 @@
     "venue": "CG&A",
     "location": "",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "34",
     "pages": ""
   },
@@ -49253,7 +49253,7 @@
     "venue": "tvc",
     "location": "",
     "note": "",
-    "publisher": "SPRINGER",
+    "publisher": "springer",
     "volume": "30",
     "pages": ""
   },
@@ -49305,7 +49305,7 @@
     "venue": "ieee international conference on systems, man and cybernetics",
     "location": "",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "4",
     "pages": "3099–3104,"
   },
@@ -49475,7 +49475,7 @@
     "venue": "proceedings of the international conference on information systems and design of communication, isdoc '13",
     "location": "New York, NY, USA",
     "note": "",
-    "publisher": "ACM",
+    "publisher": "acm",
     "volume": "",
     "pages": "27–32,"
   },
@@ -49519,7 +49519,7 @@
     "venue": "proceedings of the international conference on world wide web, www '12",
     "location": "New York, NY, USA",
     "note": "",
-    "publisher": "ACM",
+    "publisher": "acm",
     "volume": "",
     "pages": "235–238,"
   },
@@ -49537,7 +49537,7 @@
     "venue": "VINCI",
     "location": "New York, NY, USA",
     "note": "",
-    "publisher": "ACM",
+    "publisher": "acm",
     "volume": "",
     "pages": "17–26,"
   },
@@ -49610,7 +49610,7 @@
     "venue": "tse",
     "location": "",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "16",
     "pages": ""
   },
@@ -49693,7 +49693,7 @@
     "venue": "IUI",
     "location": "New York, NY, USA",
     "note": "",
-    "publisher": "ACM",
+    "publisher": "acm",
     "volume": "",
     "pages": "97–106,"
   },
@@ -49747,7 +49747,7 @@
     "venue": "CHI",
     "location": "New York, NY, USA",
     "note": "",
-    "publisher": "ACM",
+    "publisher": "acm",
     "volume": "",
     "pages": "197–206,"
   },
@@ -49782,7 +49782,7 @@
     "venue": "IUI",
     "location": "New York, NY, USA",
     "note": "",
-    "publisher": "ACM",
+    "publisher": "acm",
     "volume": "",
     "pages": "149–158,"
   },
@@ -49800,7 +49800,7 @@
     "venue": "proceedings of the third international conference on end-user development, is-eud'11",
     "location": "Berlin, Heidelberg",
     "note": "",
-    "publisher": "SPRINGER",
+    "publisher": "springer",
     "volume": "",
     "pages": "258–263,"
   },
@@ -49841,7 +49841,7 @@
     "venue": "proceedings of the 10th international conference on current trends in web engineering, icwe'10",
     "location": "Berlin, Heidelberg",
     "note": "",
-    "publisher": "SPRINGER",
+    "publisher": "springer",
     "volume": "",
     "pages": "13–24,"
   },
@@ -49876,7 +49876,7 @@
     "venue": "proceedings of the european conference on software architecture, ecsa '10",
     "location": "New York, NY, USA",
     "note": "",
-    "publisher": "ACM",
+    "publisher": "acm",
     "volume": "",
     "pages": "261–268,"
   },
@@ -49914,7 +49914,7 @@
     "venue": "CHI",
     "location": "New York, NY, USA",
     "note": "",
-    "publisher": "ACM",
+    "publisher": "acm",
     "volume": "",
     "pages": "1859–1868,"
   },
@@ -49931,7 +49931,7 @@
     "venue": "proceedings of the 10th international conference on web information systems engineering, wise '09",
     "location": "Berlin, Heidelberg",
     "note": "",
-    "publisher": "SPRINGER",
+    "publisher": "springer",
     "volume": "",
     "pages": "131–144,"
   },
@@ -49949,7 +49949,7 @@
     "venue": "proceedings of the 2004 acm workshop on formal methods in security engineering, fmse '04",
     "location": "New York, NY, USA",
     "note": "",
-    "publisher": "ACM",
+    "publisher": "acm",
     "volume": "",
     "pages": "56–65,"
   },
@@ -50130,7 +50130,7 @@
     "venue": "informationsciences",
     "location": "",
     "note": "",
-    "publisher": "SPRINGER",
+    "publisher": "springer",
     "volume": "56, 5",
     "pages": "1–12"
   },
@@ -50204,7 +50204,7 @@
     "venue": "studies in health technology and informatics",
     "location": "",
     "note": "",
-    "publisher": "SPRINGER",
+    "publisher": "springer",
     "volume": "",
     "pages": "169–178"
   },
@@ -50241,7 +50241,7 @@
     "venue": "proceedings of assets '08",
     "location": "New York",
     "note": "",
-    "publisher": "ACM",
+    "publisher": "acm",
     "volume": "",
     "pages": "73–80"
   },
@@ -50258,7 +50258,7 @@
     "venue": "the proceedings of the 13th international acm sigaccess conference on computers and accessibility",
     "location": "",
     "note": "",
-    "publisher": "ACM",
+    "publisher": "acm",
     "volume": "",
     "pages": ""
   },
@@ -50308,7 +50308,7 @@
     "venue": "the proceedings of the 13th international acm sigaccess conference on computers and accessibility",
     "location": "",
     "note": "",
-    "publisher": "ACM",
+    "publisher": "acm",
     "volume": "",
     "pages": ""
   },
@@ -50327,7 +50327,7 @@
     "venue": "ieee software",
     "location": "",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "",
     "pages": "170–177"
   },
@@ -50362,7 +50362,7 @@
     "venue": "proceedings of the 5th nordic conference on human-computer interaction: building bridges",
     "location": "",
     "note": "",
-    "publisher": "ACM",
+    "publisher": "acm",
     "volume": "",
     "pages": ""
   },
@@ -50378,7 +50378,7 @@
     "venue": "human factors and ergonomics society annual meeting proceedings",
     "location": "",
     "note": "",
-    "publisher": "SAGE",
+    "publisher": "sage",
     "volume": "40",
     "pages": "1266"
   },
@@ -50420,7 +50420,7 @@
     "venue": "proc. 1996 acm conf. computer supported coop",
     "location": "Work",
     "note": "",
-    "publisher": "ACM",
+    "publisher": "acm",
     "volume": "",
     "pages": "209–218"
   },
@@ -50457,7 +50457,7 @@
     "venue": "proc. 4th int'l workshop on social software eng",
     "location": "",
     "note": "",
-    "publisher": "ACM",
+    "publisher": "acm",
     "volume": "",
     "pages": "39–42"
   },
@@ -50474,7 +50474,7 @@
     "venue": "VINCI",
     "location": "",
     "note": "",
-    "publisher": "ACM",
+    "publisher": "acm",
     "volume": "",
     "pages": "69–76"
   },
@@ -50527,7 +50527,7 @@
     "venue": "proc. 2000 acm conf. computer supported coop",
     "location": "Work",
     "note": "",
-    "publisher": "ACM",
+    "publisher": "acm",
     "volume": "",
     "pages": "319–328"
   },
@@ -50543,7 +50543,7 @@
     "venue": "proc. 4th int'l conf. intelligent computer communication",
     "location": "",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "",
     "pages": "137–144,"
   },
@@ -50559,7 +50559,7 @@
     "venue": "CHI",
     "location": "",
     "note": "",
-    "publisher": "ACM",
+    "publisher": "acm",
     "volume": "",
     "pages": "369–370"
   },
@@ -50576,7 +50576,7 @@
     "venue": "UIST",
     "location": "",
     "note": "",
-    "publisher": "ACM",
+    "publisher": "acm",
     "volume": "",
     "pages": "13–14"
   },
@@ -50654,7 +50654,7 @@
     "venue": "proc. 2007 int'l acm conf. supporting group work",
     "location": "",
     "note": "",
-    "publisher": "ACM",
+    "publisher": "acm",
     "volume": "",
     "pages": "147–156"
   },
@@ -50894,7 +50894,7 @@
     "venue": "ieee software",
     "location": "",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "",
     "pages": "352–359"
   },
@@ -51001,7 +51001,7 @@
     "venue": "ieee software",
     "location": "",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "",
     "pages": "07"
   },
@@ -51417,7 +51417,7 @@
     "venue": "perception & psychophysics",
     "location": "",
     "note": "",
-    "publisher": "SPRINGER",
+    "publisher": "springer",
     "volume": "46",
     "pages": ""
   },
@@ -51719,7 +51719,7 @@
     "venue": "proceedings of asia pacific symposium on visualization",
     "location": "",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": [],
     "pages": "97–100"
   },
@@ -51770,10 +51770,10 @@
       "Huang "
     ],
     "doi": "10.1057/palgrave.ivs.9500087",
-    "venue": "Information Visualization",
+    "venue": "Information Visualization sage",
     "location": "",
     "note": "",
-    "publisher": "ACM",
+    "publisher": "sage",
     "volume": "4, 1",
     "pages": "1–21"
   },
@@ -51860,7 +51860,7 @@
     "venue": "educational psychology review",
     "location": "",
     "note": "",
-    "publisher": "SPRINGER",
+    "publisher": "springer",
     "volume": "10",
     "pages": "251296"
   },
@@ -51980,7 +51980,7 @@
     "venue": "CHI",
     "location": "Denver, Colorado, United States",
     "note": "",
-    "publisher": "ACM",
+    "publisher": "acm",
     "volume": "",
     "pages": ""
   },
@@ -52012,7 +52012,7 @@
     "venue": "IV",
     "location": "Zurich, Switzerland",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "",
     "pages": ""
   },
@@ -52046,7 +52046,7 @@
     "venue": "proceedings of the 9th acm conference on creativity and cognition",
     "location": "Sydney, Australia",
     "note": "",
-    "publisher": "ACM",
+    "publisher": "acm",
     "volume": "",
     "pages": "425–426"
   },
@@ -52150,7 +52150,7 @@
     "venue": "PacificVis",
     "location": "Yokohama",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "",
     "pages": ""
   },
@@ -52184,7 +52184,7 @@
     "venue": "proceedings of the 14th european conference on cognitive ergonomics invent! explore! - ecce '07",
     "location": "New York, New York, USA",
     "note": "",
-    "publisher": "ACM",
+    "publisher": "acm",
     "volume": "number August",
     "pages": "185,"
   },
@@ -52202,10 +52202,10 @@
       "G. Melançon"
     ],
     "doi": "10.1007/978-3-540-70956-5_7",
-    "venue": "Information Visualization",
+    "venue": "Information Visualization springer",
     "location": "Berlin Heidelberg",
     "note": "",
-    "publisher": "SPRINGER",
+    "publisher": "springer",
     "volume": [],
     "pages": "154–175"
   },
@@ -52222,7 +52222,7 @@
     "venue": "IV",
     "location": "",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "",
     "pages": "87–92"
   },
@@ -52254,7 +52254,7 @@
     "venue": "JCGS",
     "location": "",
     "note": "",
-    "publisher": "ASA",
+    "publisher": "asa",
     "volume": "22",
     "pages": ""
   },
@@ -52304,7 +52304,7 @@
     "venue": "social studies of science",
     "location": "",
     "note": "",
-    "publisher": "SAGE",
+    "publisher": "sage",
     "volume": "19",
     "pages": ""
   },
@@ -52324,7 +52324,7 @@
       "Berlin Heidelberg"
     ],
     "note": "",
-    "publisher": "SPRINGER",
+    "publisher": "springer",
     "volume": "4564",
     "pages": "182–191,"
   },
@@ -52399,7 +52399,7 @@
     "venue": "Information Visualization",
     "location": "",
     "note": "",
-    "publisher": "ACM",
+    "publisher": "sage",
     "volume": "",
     "pages": "518–523,"
   },
@@ -52807,7 +52807,7 @@
     "venue": "journal of materials science",
     "location": "",
     "note": "",
-    "publisher": "SPRINGER",
+    "publisher": "springer",
     "volume": "33",
     "pages": ""
   },
@@ -52910,7 +52910,7 @@
     "venue": "personality and social psychology bulletin",
     "location": "",
     "note": "",
-    "publisher": "SAGE",
+    "publisher": "sage",
     "volume": "34",
     "pages": "1260–1275"
   },
@@ -53124,7 +53124,7 @@
     "venue": "the",
     "location": "Washington, DC, USA",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "",
     "pages": "143–147"
   },
@@ -53150,7 +53150,7 @@
     "venue": "proceedings of the acm workshop on visualization and data mining for computer security",
     "location": "Washington, DC, USA",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "",
     "pages": "26–34"
   },
@@ -53175,7 +53175,7 @@
     "venue": "InfoVis",
     "location": "Minneapolis, Minnesota, USA",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "",
     "pages": "95–102"
   },
@@ -53221,7 +53221,7 @@
     "venue": "ieee symposium on visual analytics science and technology",
     "location": "Sacramento, CA",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "",
     "pages": "139–146"
   },
@@ -53711,7 +53711,7 @@
     "venue": "proceedings of the international conference on advanced visual interfaces, avi '10",
     "location": "New York, NY, USA",
     "note": "",
-    "publisher": "ACM",
+    "publisher": "acm",
     "volume": "",
     "pages": "41–48,"
   },
@@ -53732,7 +53732,7 @@
     "venue": "c&g",
     "location": "",
     "note": "",
-    "publisher": "Elsevier",
+    "publisher": "elsevier",
     "volume": "33",
     "pages": ""
   },
@@ -53784,7 +53784,7 @@
     "venue": "ekc 2009 proceedings of the eu-korea conference on science and technology",
     "location": "Berlin Heidelberg",
     "note": "",
-    "publisher": "SPRINGER",
+    "publisher": "springer",
     "volume": "",
     "pages": "213–222"
   },
@@ -54074,7 +54074,7 @@
     "venue": "CHI",
     "location": "",
     "note": "",
-    "publisher": "ACM",
+    "publisher": "acm",
     "volume": "",
     "pages": "311–318"
   },
@@ -54240,7 +54240,7 @@
     "venue": "CHI",
     "location": "",
     "note": "",
-    "publisher": "ACM",
+    "publisher": "acm",
     "volume": "",
     "pages": "201–204"
   },
@@ -54334,7 +54334,7 @@
     "venue": "CHI",
     "location": "",
     "note": "",
-    "publisher": "ACM",
+    "publisher": "acm",
     "volume": "",
     "pages": "303–306"
   },
@@ -54391,7 +54391,7 @@
     "venue": "UIST",
     "location": "",
     "note": "",
-    "publisher": "ACM",
+    "publisher": "acm",
     "volume": "",
     "pages": "81–90"
   },
@@ -54430,7 +54430,7 @@
     "venue": "CHI",
     "location": "",
     "note": "",
-    "publisher": "ACM",
+    "publisher": "acm",
     "volume": "",
     "pages": "1077–1086"
   },
@@ -54500,7 +54500,7 @@
     "venue": "visual computer",
     "location": "",
     "note": "",
-    "publisher": "SPRINGER",
+    "publisher": "springer",
     "volume": "1",
     "pages": "69–91,"
   },
@@ -54533,10 +54533,10 @@
       "Cooper M"
     ],
     "doi": "10.1057/palgrave.ivs.9500117",
-    "venue": "Information Visualization",
+    "venue": "Information Visualization sage",
     "location": "",
     "note": "",
-    "publisher": "ACM",
+    "publisher": "sage",
     "volume": "5",
     "pages": "125–136"
   },
@@ -54555,7 +54555,7 @@
     "venue": "InfoVis",
     "location": "Washington, DC, USA",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "",
     "pages": "105–112"
   },
@@ -54573,7 +54573,7 @@
     "venue": "IV",
     "location": "Barcelona, Spain",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "",
     "pages": "252–259"
   },
@@ -54606,10 +54606,10 @@
       "N. Freeman-Cadoret"
     ],
     "doi": "10.1057/ivs.2009.18",
-    "venue": "Information Visualization",
+    "venue": "Information Visualization acm",
     "location": "",
     "note": "",
-    "publisher": "palgrave macmillan",
+    "publisher": "acm",
     "volume": "8",
     "pages": "212–229"
   },
@@ -54623,10 +54623,10 @@
       "D. Gallagher"
     ],
     "doi": "10.1057/palgrave.ivs.9500081",
-    "venue": "Information Visualization",
+    "venue": "Information Visualization sage",
     "location": "",
     "note": "",
-    "publisher": "palgrave macmillan",
+    "publisher": "sage",
     "volume": "3",
     "pages": "227–244"
   },
@@ -54646,7 +54646,7 @@
     "venue": "CG&A",
     "location": "",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "26",
     "pages": "48–59"
   },
@@ -54683,7 +54683,7 @@
     "venue": "IV",
     "location": "Barcelona, Spain",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "",
     "pages": "197–202"
   },
@@ -54701,7 +54701,7 @@
     "venue": "proceedings of the working conference on advanced visual interfaces (avi'04",
     "location": "Gallipoli (Lecce), Italy",
     "note": "",
-    "publisher": "ACM",
+    "publisher": "acm",
     "volume": "",
     "pages": "179–182"
   },
@@ -54741,7 +54741,7 @@
     "venue": "IV",
     "location": "Barcelona, Spain",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "",
     "pages": "44–50"
   },
@@ -54758,7 +54758,7 @@
     "venue": "proceedings of the 3rd international symposium on visual information communication (vince'10",
     "location": "Beijing, China",
     "note": "",
-    "publisher": "ACM",
+    "publisher": "acm",
     "volume": "",
     "pages": "114–122"
   },
@@ -54808,7 +54808,7 @@
     "venue": "ieee symposium on visual analytics science and technology",
     "location": "Atlantic City, New Jersey, USA",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "",
     "pages": "195–202"
   },
@@ -54825,7 +54825,7 @@
     "venue": "IV",
     "location": "London, UK",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "",
     "pages": "336–343"
   },
@@ -54843,7 +54843,7 @@
     "venue": "ieee trans. visualization and computer graphis",
     "location": "",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "15",
     "pages": "945–952"
   },
@@ -54861,7 +54861,7 @@
     "venue": "InfoVis",
     "location": "San Diego, California, USA",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "",
     "pages": "7–13"
   },
@@ -54878,7 +54878,7 @@
     "venue": "tas",
     "location": "",
     "note": "",
-    "publisher": "ASA",
+    "publisher": "asa",
     "volume": "62",
     "pages": "179–184"
   },
@@ -54912,10 +54912,10 @@
       "D.A. Keim"
     ],
     "doi": "10.1109/IV.2008.80",
-    "venue": "Information Visualization",
+    "venue": "Information Visualization ieee",
     "location": "London, UK",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "",
     "pages": "287–295"
   },
@@ -54932,7 +54932,7 @@
     "venue": "CHI",
     "location": "Los Angeles, California, USA",
     "note": "",
-    "publisher": "ACM",
+    "publisher": "acm",
     "volume": "",
     "pages": "392–399"
   },
@@ -55614,7 +55614,7 @@
     "venue": "InfoVis",
     "location": "",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "",
     "pages": "41–46"
   },
@@ -55648,7 +55648,7 @@
     "venue": "proc. asia pacific symposium on visualization",
     "location": "",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": [],
     "pages": "97–100"
   },
@@ -55664,7 +55664,7 @@
     "venue": "GD",
     "location": "",
     "note": "",
-    "publisher": "SPRINGER",
+    "publisher": "springer",
     "volume": "",
     "pages": "318–333"
   },
@@ -55855,7 +55855,7 @@
     "venue": "journal of global optimization",
     "location": "",
     "note": "",
-    "publisher": "SPRINGER",
+    "publisher": "springer",
     "volume": "6",
     "pages": "109–133,"
   },
@@ -55888,7 +55888,7 @@
     "venue": "congress on evolutionary computation",
     "location": "",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "CEC2004)2",
     "pages": "1473–1478,"
   },
@@ -55914,7 +55914,7 @@
       "Piscataway, NJ, USA"
     ],
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "",
     "pages": "721–729"
   },
@@ -55933,7 +55933,7 @@
       "Piscataway, NJ, USA"
     ],
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "",
     "pages": "69–74"
   },
@@ -55955,7 +55955,7 @@
       "Piscataway, NJ, USA"
     ],
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "",
     "pages": "421–426"
   },
@@ -55980,7 +55980,7 @@
       "Piscataway, NJ, USA"
     ],
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "",
     "pages": "32–37"
   },
@@ -56006,7 +56006,7 @@
       "Piscataway, NJ, USA"
     ],
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "",
     "pages": "258–263"
   },
@@ -56029,7 +56029,7 @@
       "Piscataway, NJ, USA"
     ],
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "",
     "pages": "143–150"
   },
@@ -56049,7 +56049,7 @@
       "Piscataway, NJ, USA"
     ],
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "",
     "pages": "44–50"
   },
@@ -56073,7 +56073,7 @@
       "Piscataway, NJ, USA"
     ],
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "",
     "pages": "44–52"
   },
@@ -56128,7 +56128,7 @@
     "venue": "InfoVis",
     "location": "Salt Lake City, USA",
     "note": "Oct 09--10, 2000). InfoVis '2000.",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "",
     "pages": "69–76"
   },
@@ -56215,7 +56215,7 @@
     "venue": "proceedings of the 2010 acm symposium on applied computing",
     "location": "Sierre, Switzerland",
     "note": "",
-    "publisher": "ACM",
+    "publisher": "acm",
     "volume": "",
     "pages": "1165–1172"
   },
@@ -56299,7 +56299,7 @@
     "venue": "Information Visualization",
     "location": "",
     "note": "",
-    "publisher": "ACM",
+    "publisher": "sage",
     "volume": "",
     "pages": "205–219"
   },
@@ -56513,7 +56513,7 @@
     "venue": "proc. ieee symposium on visual analytics science and technology",
     "location": "Columbus, Ohio",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "",
     "pages": "19–26"
   },
@@ -56555,7 +56555,7 @@
     "venue": "proc. ieee symposium on visual analytics science and technology",
     "location": "Atlantic City, New Jersey",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "",
     "pages": "59–66"
   },
@@ -56573,7 +56573,7 @@
     "venue": "proc. ieee symposium on visual analytics science and technology",
     "location": "Columbus, Ohio",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "",
     "pages": "91–98"
   },
@@ -56591,7 +56591,7 @@
     "venue": "proc. ieee symposium on visual analytics science and technology",
     "location": "Columbus, Ohio",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "",
     "pages": "99–106"
   },
@@ -57558,7 +57558,7 @@
     "venue": "WWW",
     "location": "",
     "note": "",
-    "publisher": "ACM",
+    "publisher": "acm",
     "volume": "",
     "pages": "1067–1068"
   },
@@ -57613,7 +57613,7 @@
     "venue": "CG&A",
     "location": "",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "27",
     "pages": "15–19"
   },
@@ -57631,7 +57631,7 @@
     "venue": "physica d: nonlinear phenomena",
     "location": "",
     "note": "",
-    "publisher": "Elsevier",
+    "publisher": "elsevier",
     "volume": "224",
     "pages": "7–19"
   },
@@ -57673,7 +57673,7 @@
     "venue": "TVCG",
     "location": "",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "16",
     "pages": "205–220"
   },
@@ -57691,7 +57691,7 @@
     "venue": "ieee symposium on visual analytics science and technology",
     "location": "Atlantic City, New Jersey, USA",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "",
     "pages": "195–202"
   },
@@ -57710,7 +57710,7 @@
     "venue": "dmkd",
     "location": "",
     "note": "",
-    "publisher": "SPRINGER",
+    "publisher": "springer",
     "volume": "2",
     "pages": "169–194"
   },
@@ -57729,7 +57729,7 @@
     "venue": "SIGKDD",
     "location": "",
     "note": "",
-    "publisher": "ACM",
+    "publisher": "acm",
     "volume": "9",
     "pages": "30 37"
   },
@@ -57745,7 +57745,7 @@
     "venue": "european economic review",
     "location": "",
     "note": "",
-    "publisher": "Elsevier",
+    "publisher": "elsevier",
     "volume": "50",
     "pages": "1937–1950"
   },
@@ -57762,7 +57762,7 @@
     "venue": "tas",
     "location": "",
     "note": "",
-    "publisher": "ASA",
+    "publisher": "asa",
     "volume": "62",
     "pages": "179–184"
   },
@@ -57777,10 +57777,10 @@
       "A.S. Harvey"
     ],
     "doi": "10.1057/palgrave.ivs.9500184",
-    "venue": "Information Visualization",
+    "venue": "Information Visualization sage",
     "location": "",
     "note": "",
-    "publisher": "palgrave macmillan",
+    "publisher": "sage",
     "volume": "7",
     "pages": "198–209"
   },
@@ -57822,7 +57822,7 @@
     "venue": "SMC",
     "location": "",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "",
     "pages": "2848–2853"
   },
@@ -57845,7 +57845,7 @@
     "venue": "proceedings of the first nsf/nij symposium on intelligence and security informatics (isi 2003",
     "location": "Heidelberg, Tucson, AZ, USA",
     "note": "",
-    "publisher": "SPRINGER",
+    "publisher": "springer",
     "volume": "",
     "pages": "181–194"
   },
@@ -57971,7 +57971,7 @@
     "venue": "human factors: the journal of the human factors and ergonomics society",
     "location": "",
     "note": "",
-    "publisher": "SAGE",
+    "publisher": "sage",
     "volume": "17, 2",
     "pages": "157–164"
   },
@@ -58030,7 +58030,7 @@
     "venue": "proceedings of the international conference on data engineering",
     "location": "Bangalore, India",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "",
     "pages": "8–21"
   },
@@ -58144,7 +58144,7 @@
     "venue": "proceedings of",
     "location": "",
     "note": "",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "volume": "VAST'08",
     "pages": "91–98"
   },
@@ -58562,7 +58562,7 @@
     "venue": "environment and behavior",
     "location": "",
     "note": "",
-    "publisher": "SAGE",
+    "publisher": "sage",
     "volume": "14",
     "pages": "202"
   },
@@ -58747,7 +58747,7 @@
     "url": "",
     "date": "2004",
     "venue": "nordic conference on human-computer interaction",
-    "publisher": "ACM",
+    "publisher": "acm",
     "id": "",
     "doi": "temp09_1",
     "authors": [
@@ -58761,7 +58761,7 @@
     "url": "",
     "date": "2004",
     "venue": "IV",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "id": "",
     "doi": "temp09_2",
     "authors": [
@@ -58787,7 +58787,7 @@
     "url": "",
     "date": "2007",
     "venue": "TVCG",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "id": "",
     "doi": "temp09_5",
     "authors": [
@@ -58815,7 +58815,7 @@
     "url": "",
     "date": "2007",
     "venue": "IV",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "id": "",
     "doi": "temp09_7",
     "authors": [
@@ -58828,7 +58828,7 @@
     "url": "",
     "date": "2008",
     "venue": "conference on digital interactive media in entertainment and arts (dimea’08",
-    "publisher": "ACM",
+    "publisher": "acm",
     "id": "",
     "doi": "temp09_9",
     "authors": [
@@ -59054,7 +59054,7 @@
     "url": "",
     "date": "3D",
     "venue": "GD",
-    "publisher": "SPRINGER",
+    "publisher": "springer",
     "id": "",
     "doi": "temp09_35",
     "authors": []
@@ -59092,7 +59092,7 @@
     "url": "",
     "date": "2008",
     "venue": "IV",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "id": "",
     "doi": "temp09_38",
     "authors": [
@@ -59106,7 +59106,7 @@
     "url": "",
     "date": "2007",
     "venue": "GD",
-    "publisher": "SPRINGER",
+    "publisher": "springer",
     "id": "",
     "doi": "temp09_39",
     "authors": [
@@ -59180,7 +59180,7 @@
     "url": "",
     "date": "1998",
     "venue": "SOCG",
-    "publisher": "ACM",
+    "publisher": "acm",
     "id": "",
     "doi": "temp09_46",
     "authors": [
@@ -59207,7 +59207,7 @@
     "url": "",
     "date": "2007",
     "venue": "ieee software",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "id": "",
     "doi": "temp09_50",
     "authors": [
@@ -59220,8 +59220,8 @@
     "title": "Visualization of Clustered Directed Acyclic Graphs without Node Overlapping",
     "url": "",
     "date": "2008",
-    "venue": "Information Visualization",
-    "publisher": "IEEE",
+    "venue": "Information Visualization ieee",
+    "publisher": "ieee",
     "id": "",
     "doi": "temp09_51",
     "authors": [
@@ -59236,7 +59236,7 @@
     "url": "",
     "date": "2009",
     "venue": "proceedings of the 24th annual acm symposium on applied computing (sac ‘09",
-    "publisher": "ACM",
+    "publisher": "acm",
     "id": "",
     "doi": "temp09_52",
     "authors": [
@@ -59266,7 +59266,7 @@
     "url": "",
     "date": "2001",
     "venue": "proceedings of computer graphics international (cgi ’01",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "id": "",
     "doi": "temp09_54",
     "authors": [
@@ -59333,7 +59333,7 @@
     "title": "Using spring algorithms to remove node overlapping",
     "url": "",
     "date": "2005",
-    "venue": "Information Visualization",
+    "venue": "Information Visualization australian computer society, inc. darlinghurst, australia",
     "publisher": "australian computer society, inc. darlinghurst, australia",
     "id": "",
     "doi": "temp09_60",
@@ -59420,7 +59420,7 @@
     "url": "",
     "date": "1995",
     "venue": "GD",
-    "publisher": "SPRINGER",
+    "publisher": "springer",
     "id": "",
     "doi": "temp09_66",
     "authors": [
@@ -59435,7 +59435,7 @@
     "url": "",
     "date": "2000",
     "venue": "GD",
-    "publisher": "SPRINGER",
+    "publisher": "springer",
     "id": "",
     "doi": "temp09_67",
     "authors": [
@@ -59448,8 +59448,8 @@
     "title": "Applying Graphical Design Techniques to Graph Visualization",
     "url": "",
     "date": "2005",
-    "venue": "Information Visualization",
-    "publisher": "IEEE",
+    "venue": "Information Visualization ieee",
+    "publisher": "ieee",
     "id": "",
     "doi": "temp09_68",
     "authors": [
@@ -59638,7 +59638,7 @@
     "url": "",
     "date": "2001",
     "venue": "InfoVis",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "id": "",
     "doi": "temp09_100",
     "authors": [
@@ -59653,7 +59653,7 @@
     "url": "",
     "date": "1996",
     "venue": "GD",
-    "publisher": "SPRINGER",
+    "publisher": "springer",
     "id": "",
     "doi": "temp09_101",
     "authors": [
@@ -59727,7 +59727,7 @@
     "url": "",
     "date": "2006",
     "venue": "CHI",
-    "publisher": "ACM",
+    "publisher": "acm",
     "id": "",
     "doi": "temp09_106",
     "authors": [
@@ -59800,7 +59800,7 @@
     "url": "",
     "date": "1998",
     "venue": "GD",
-    "publisher": "SPRINGER",
+    "publisher": "springer",
     "id": "",
     "doi": "temp09_111",
     "authors": [
@@ -59881,7 +59881,7 @@
     "url": "",
     "date": "2002",
     "venue": "Information Visualization",
-    "publisher": "ACM",
+    "publisher": "sage",
     "id": "",
     "doi": "temp09_120",
     "authors": [
@@ -59897,7 +59897,7 @@
     "url": "",
     "date": "",
     "venue": "Information Visualization",
-    "publisher": "ACM",
+    "publisher": "sage",
     "id": "",
     "doi": "temp09_121",
     "authors": [
@@ -60235,7 +60235,7 @@
     "url": "",
     "date": "2008",
     "venue": "civr ’08: proceedings of the 2008 international conference oncontent-based image and video retrieval",
-    "publisher": "ACM",
+    "publisher": "acm",
     "id": "",
     "doi": "temp09_152",
     "authors": [
@@ -60320,7 +60320,7 @@
     "url": "",
     "date": "2001",
     "venue": "ieee software",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "id": "",
     "doi": "temp09_164",
     "authors": [
@@ -60350,7 +60350,7 @@
     "url": "",
     "date": "2006",
     "venue": "TOCHI",
-    "publisher": "ACM",
+    "publisher": "acm",
     "id": "",
     "doi": "temp09_166",
     "authors": [
@@ -60364,7 +60364,7 @@
     "url": "",
     "date": "2004",
     "venue": "VL/HCC",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "id": "",
     "doi": "temp09_167",
     "authors": [
@@ -60424,7 +60424,7 @@
     "url": "",
     "date": "2005",
     "venue": "VL/HCC",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "id": "",
     "doi": "temp09_171",
     "authors": [
@@ -60439,7 +60439,7 @@
     "url": "",
     "date": "2000",
     "venue": "VL/HCC",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "id": "",
     "doi": "temp09_172",
     "authors": [
@@ -60453,7 +60453,7 @@
     "url": "",
     "date": "2002",
     "venue": "international journal of industrial ergonomics",
-    "publisher": "Elsevier",
+    "publisher": "elsevier",
     "id": "",
     "doi": "temp09_173",
     "authors": [
@@ -60495,7 +60495,7 @@
     "url": "",
     "date": "1991",
     "venue": "CHI",
-    "publisher": "ACM",
+    "publisher": "acm",
     "id": "",
     "doi": "temp09_182",
     "authors": [
@@ -60510,7 +60510,7 @@
     "url": "",
     "date": "2006, April 22-27, 2006",
     "venue": "CHI",
-    "publisher": "ACM",
+    "publisher": "acm",
     "id": "",
     "doi": "temp09_183",
     "authors": [
@@ -60524,7 +60524,7 @@
     "url": "",
     "date": "1988",
     "venue": "SIGGRAPH",
-    "publisher": "ACM",
+    "publisher": "acm",
     "id": "",
     "doi": "temp09_184",
     "authors": [
@@ -60932,7 +60932,7 @@
     "url": "",
     "date": "1997",
     "venue": "InfoVis",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "id": "",
     "doi": "temp09_228",
     "authors": [
@@ -60989,7 +60989,7 @@
     "url": "",
     "date": "",
     "venue": "proceedings of the 2004 acm workshop on visualization and data mining for computer security",
-    "publisher": "ACM",
+    "publisher": "acm",
     "id": "",
     "doi": "temp09_236",
     "authors": [
@@ -61235,7 +61235,7 @@
     "url": "",
     "date": "1992",
     "venue": "SIGIR",
-    "publisher": "ACM",
+    "publisher": "acm",
     "id": "",
     "doi": "temp09_262",
     "authors": [
@@ -61347,7 +61347,7 @@
     "url": "",
     "date": "2006",
     "venue": "TOCHI",
-    "publisher": "ACM",
+    "publisher": "acm",
     "id": "",
     "doi": "temp09_276",
     "authors": [
@@ -61361,7 +61361,7 @@
     "url": "",
     "date": "2006",
     "venue": "CHI",
-    "publisher": "ACM",
+    "publisher": "acm",
     "id": "",
     "doi": "temp09_277",
     "authors": [
@@ -61374,7 +61374,7 @@
     "url": "",
     "date": "2000",
     "venue": "proceedings of the working conference on advanced visual interfaces(avi’00",
-    "publisher": "ACM",
+    "publisher": "acm",
     "id": "",
     "doi": "temp09_278",
     "authors": [
@@ -61388,7 +61388,7 @@
     "url": "",
     "date": "1996",
     "venue": "ieee software",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "id": "",
     "doi": "temp09_279",
     "authors": [
@@ -61401,7 +61401,7 @@
     "url": "",
     "date": "2005",
     "venue": "CHI",
-    "publisher": "ACM",
+    "publisher": "acm",
     "id": "",
     "doi": "temp09_280",
     "authors": [
@@ -61434,7 +61434,7 @@
     "url": "",
     "date": "2000",
     "venue": "UIST",
-    "publisher": "ACM",
+    "publisher": "acm",
     "id": "",
     "doi": "temp09_282",
     "authors": [
@@ -61464,7 +61464,7 @@
     "url": "",
     "date": "2000",
     "venue": "proceedings of the working conference on advanced visual interfaces(avi’00",
-    "publisher": "ACM",
+    "publisher": "acm",
     "id": "",
     "doi": "temp09_284",
     "authors": [
@@ -61492,7 +61492,7 @@
     "url": "",
     "date": "2007",
     "venue": "IV",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "id": "",
     "doi": "temp09_286",
     "authors": [
@@ -61526,7 +61526,7 @@
     "url": "",
     "date": "2001",
     "venue": "IV",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "id": "",
     "doi": "temp09_288",
     "authors": [
@@ -61540,7 +61540,7 @@
     "url": "",
     "date": "2004",
     "venue": "InfoVis",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "id": "",
     "doi": "temp09_289",
     "authors": [
@@ -61569,8 +61569,8 @@
     "title": "ComVis: A coordinated multiple views system for prototyping new visualization technology",
     "url": "",
     "date": "2008",
-    "venue": "Information Visualization",
-    "publisher": "IEEE",
+    "venue": "Information Visualization ieee",
+    "publisher": "ieee",
     "id": "",
     "doi": "temp09_291",
     "authors": [
@@ -61599,7 +61599,7 @@
     "url": "",
     "date": "1991",
     "venue": "CHI",
-    "publisher": "ACM",
+    "publisher": "acm",
     "id": "",
     "doi": "temp09_294",
     "authors": [
@@ -61627,7 +61627,7 @@
     "url": "",
     "date": "2002",
     "venue": "InfoVis",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "id": "",
     "doi": "temp09_296",
     "authors": [
@@ -61641,7 +61641,7 @@
     "url": "",
     "date": "2004",
     "venue": "proceedings of the working conference on advanced visual interfaces(avi’04",
-    "publisher": "ACM",
+    "publisher": "acm",
     "id": "",
     "doi": "temp09_297",
     "authors": [
@@ -61655,7 +61655,7 @@
     "url": "",
     "date": "2002",
     "venue": "InfoVis",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "id": "",
     "doi": "temp09_298",
     "authors": [
@@ -61669,7 +61669,7 @@
     "url": "",
     "date": "2006",
     "venue": "CHI",
-    "publisher": "ACM",
+    "publisher": "acm",
     "id": "",
     "doi": "temp09_299",
     "authors": [
@@ -61684,7 +61684,7 @@
     "url": "",
     "date": "1996",
     "venue": "GD",
-    "publisher": "SPRINGER",
+    "publisher": "springer",
     "id": "",
     "doi": "temp09_300",
     "authors": [
@@ -61712,7 +61712,7 @@
     "url": "",
     "date": "2001",
     "venue": "InfoVis",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "id": "",
     "doi": "temp09_302",
     "authors": [
@@ -61740,7 +61740,7 @@
     "url": "",
     "date": "1990",
     "venue": "1st conference on visualization",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "id": "",
     "doi": "temp09_304",
     "authors": [
@@ -61753,7 +61753,7 @@
     "url": "",
     "date": "2000",
     "venue": "InfoVis",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "id": "",
     "doi": "temp09_305",
     "authors": [
@@ -61768,7 +61768,7 @@
     "url": "",
     "date": "2004",
     "venue": "proceedings of the working conference on advanced visual interfaces (avi’04",
-    "publisher": "ACM",
+    "publisher": "acm",
     "id": "",
     "doi": "temp09_306",
     "authors": [
@@ -61782,7 +61782,7 @@
     "url": "",
     "date": "2004",
     "venue": "acm symposium on applied computing",
-    "publisher": "ACM",
+    "publisher": "acm",
     "id": "",
     "doi": "temp09_307",
     "authors": [
@@ -61841,7 +61841,7 @@
     "url": "",
     "date": "2006",
     "venue": "fourth international conference on coordinated & multiple views in exploratory visualization",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "id": "",
     "doi": "temp09_314",
     "authors": [
@@ -61961,7 +61961,7 @@
     "url": "",
     "date": "2005",
     "venue": "Information Visualization",
-    "publisher": "ACM",
+    "publisher": "sage",
     "id": "",
     "doi": "temp09_335",
     "authors": [
@@ -62122,7 +62122,7 @@
     "url": "",
     "date": "",
     "venue": "proc. 5th international conference on computer graphics, imaging and visualization. cgiv, isbn",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "id": "",
     "doi": "temp09_355",
     "authors": [
@@ -62260,7 +62260,7 @@
     "url": "http://doi.acm.org/10.1145/1297144.1297176",
     "date": "",
     "venue": "proceedings of the 25th annual acm international conference on design of communication 2007 acm: el paso",
-    "publisher": "ACM",
+    "publisher": "acm",
     "id": "",
     "doi": "temp09_374",
     "authors": [
@@ -62288,7 +62288,7 @@
     "url": "http://doi.acm.org/10.1145/1291151.1291187,",
     "date": "",
     "venue": "proceedings of the 2007 acm sigplan international conference on functional programming. 2007, acm",
-    "publisher": "ACM",
+    "publisher": "acm",
     "id": "",
     "doi": "temp09_376",
     "authors": [
@@ -62316,7 +62316,7 @@
     "url": "",
     "date": "2004",
     "venue": "WPC",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "id": "",
     "doi": "temp09_382",
     "authors": [
@@ -62330,7 +62330,7 @@
     "url": "",
     "date": "2005",
     "venue": "proc. of the 9th european conference on software maintenance and reengineering",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "id": "",
     "doi": "temp09_383",
     "authors": [
@@ -62359,7 +62359,7 @@
     "url": "",
     "date": "2009",
     "venue": "proc. of the 2009 world congress on software engineering (wcse 2009",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "id": "",
     "doi": "temp09_385",
     "authors": [
@@ -62398,7 +62398,7 @@
     "url": "",
     "date": "2000",
     "venue": "proc. of the conference on the future of software engineering",
-    "publisher": "ACM",
+    "publisher": "acm",
     "id": "",
     "doi": "temp09_389",
     "authors": [
@@ -62411,7 +62411,7 @@
     "url": "",
     "date": "2007",
     "venue": "LNCS",
-    "publisher": "SPRINGER",
+    "publisher": "springer",
     "id": "",
     "doi": "temp09_390",
     "authors": [
@@ -62429,7 +62429,7 @@
     "url": "",
     "date": "2007",
     "venue": "proc. of the 2007 international acm conference on supporting group work",
-    "publisher": "ACM",
+    "publisher": "acm",
     "id": "",
     "doi": "temp09_391",
     "authors": [
@@ -62458,7 +62458,7 @@
     "url": "",
     "date": "2005",
     "venue": "acm sigsoft software engineering notes",
-    "publisher": "ACM",
+    "publisher": "acm",
     "id": "",
     "doi": "temp09_393",
     "authors": [
@@ -62485,7 +62485,7 @@
     "url": "",
     "date": "2007",
     "venue": "proc. of the fourth international workshop on mining software repositories",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "id": "",
     "doi": "temp09_395",
     "authors": [
@@ -62503,7 +62503,7 @@
     "url": "",
     "date": "1999",
     "venue": "SIGCOMM",
-    "publisher": "ACM",
+    "publisher": "acm",
     "id": "",
     "doi": "temp09_396",
     "authors": [
@@ -62645,7 +62645,7 @@
     "url": "",
     "date": "2005",
     "venue": "proceedings of the 4th international conference on generative programming and component engineering",
-    "publisher": "SPRINGER",
+    "publisher": "springer",
     "id": "",
     "doi": "temp09_411",
     "authors": [
@@ -62659,7 +62659,7 @@
     "url": "",
     "date": "2006",
     "venue": "proceedings of the 5th international conference on generative programming and component engineering (gpce’06",
-    "publisher": "ACM",
+    "publisher": "acm",
     "id": "",
     "doi": "temp09_412",
     "authors": [
@@ -63967,7 +63967,7 @@
     "url": "",
     "date": "2004",
     "venue": "ICRA",
-    "publisher": "IEEE",
+    "publisher": "ieee",
     "id": "",
     "doi": "temp09_539",
     "authors": [
@@ -64855,7 +64855,7 @@
     "url": "",
     "date": "2004",
     "venue": "Information Visualization",
-    "publisher": "ACM",
+    "publisher": "sage",
     "id": "",
     "doi": "temp09_633",
     "authors": [

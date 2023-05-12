@@ -44,7 +44,7 @@
   "IV": "IEEE Conference on Information Visualization Theory and Applications",
   "IROS": "IEEE/RSJ International Conference on Intelligent Robots and Systems",
   "JMLR": "Journal of Machine Learning Research",
-  "KDD": "knowledge discovery and data mining",
+  "KDD": "International Conference on Knowledge Discovery and Data Mining",
   "ACL": "association for computational linguistics",
   "HICSS": "Hawaii International Conference on System Sciences",
   "SIGKDD": "special interest group on knowledge discovery and data mining",
@@ -114,5 +114,7 @@
   "c&g":"Journal of Systems & Applications in Computer Graphics",
   "EMBC":"Engineering in Medicine & Biology Society",
   "SOCG":"symposium on computational geometry",
-  "jrss":"journal of the royal statistical society"
+  "jrss":"journal of the royal statistical society",
+  "euac":"Environment and Planning B: Urban Analytics and City Science|environment and planning b: planning and design",
+  "dmkd":"data mining and knowledge discovery"
 }

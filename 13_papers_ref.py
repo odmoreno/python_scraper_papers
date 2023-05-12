@@ -123,8 +123,17 @@ class refs:
         for key in self.temp:
             paper = self.temp[key]
             type_paper = paper['type']
+
+            venue = self.checkifhaslist(paper['venue'])
+            self.temp[key]['venue'] = venue
+            url = self.checkifhaslist(paper['url'])
+            self.temp[key]['url'] = url
+            publisher = self.checkifhaslist(paper['publisher'])
+            self.temp[key]['publisher'] = publisher
+
             all_refs[paper['doi']] = self.temp[key]
             if type_paper == 'article-journal' or (type_paper == 'paper-conference'):
+                print(type_paper)
                 venue = self.checkifhaslist(paper['venue'])
                 self.temp[key]['venue'] = venue
                 url = self.checkifhaslist(paper['url'])
@@ -159,6 +168,18 @@ class refs:
                 current_paper = self.temp[key]
                 conference = current_paper['venue']
                 pub = current_paper['publisher']
+
+                if conference == "Information Visualization" and pub !="":
+                    new_name = conference +' '+pub
+
+                    #print(f"Conf '{key}': {new_name}")
+                    self.temp[key]['venue'] = new_name
+                    if new_name in venue_counts:
+                        venue_counts[new_name] += 1
+                    else:
+                        venue_counts[new_name] = 1
+
+
                 if pub == "":
                     if conference in self.venues_pub:
                         pub_tmp = self.venues_pub[conference]
@@ -193,13 +214,16 @@ class refs:
             data = {
                 "name": name,
                 "code": key,
-                "publisher": publisher
+                "publisher": publisher,
+                "value": value
             }
             venues_dict[key] = data
 
         print(venue_counts)
         print(val)
         print(publisher_counts)
+        pubxvenues = self.create_pub_conferences_dict(venues_dict)
+        #pubxvenues = self.count_conferences_in_refs(new_refs, pubxvenues)
 
 
         for key, value in new_refs.items():
@@ -214,6 +238,8 @@ class refs:
         sorted_dict = dict(sorted(venues_no_registradas.items(), key=lambda x: x[1], reverse=True))
         sorted_counts = dict(sorted(venue_counts.items(), key=lambda x: x[1], reverse=True))
         sorted_pubs = dict(sorted(publisher_counts.items(), key=lambda x: x[1], reverse=True))
+
+
         save_generic('references/references.json', new_refs)
         save_generic('references/references_2.json', all_refs)
         save_generic('references/count.json', sorted_counts)
@@ -221,6 +247,46 @@ class refs:
         save_generic('references/no_count.json', sorted_dict)
         save_generic('references/venues.json', venues_dict)
         save_generic('references/venues_pubs.json', self.venues_pub)
+        save_generic('references/publishers.json', pubxvenues)
+
+    def create_pub_conferences_dict(self, conferences):
+        pub_dict = {}
+        for key, value in conferences.items():
+            #print(key)
+            publisher = value['publisher'].lower().strip()
+            venue = value['code'].lower().strip()
+            if publisher not in pub_dict:
+                data  = {}
+                data[venue] = 0
+                pub_dict[publisher] = {
+                    'name' : publisher,
+                    'venues': data
+                }
+            else:
+                pub = pub_dict[publisher]
+                #venues_in_pub = pub['venues']
+                if venue not in pub['venues']:
+                    pub['venues'][venue] = 0
+                else:
+                    pub['venues'][venue] += 1
+
+        return  pub_dict
+
+    def count_conferences_in_refs(self, refs, pubs):
+        '''
+                for key, value in refs.items():
+            publisher = value['publisher']
+            venue = value['venue']
+            if publisher in pubs:
+                if venue in pubs['venues']:
+                    pubs['venue']:
+        :param refs:
+        :param pubs:
+        :return:
+        '''
+        pass
+
+
 
     def create_cites_ref(self):
         papers_refs = load_generic('references/references.json')

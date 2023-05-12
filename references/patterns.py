@@ -67,10 +67,10 @@ patterns = {
     "InfoVis": re.compile(r"\b(InfoVis|IEEE InfoVis| Information Visualization |IEEE Symposium on Information Visualization|VIS|IEEE VIS|IEEE Visualization)\b",re.IGNORECASE),
     "VAST": re.compile(r"\b(VAST|IEEE VAST|IEEE Visual Analytics Science and Technology)\b", re.IGNORECASE),
     "LDAV": re.compile(r"\b(LDAV|IEEE LDAV|IEEE Symposium on Large-Scale Data Analysis and Visualization)\b",re.IGNORECASE),
-    "CHI": re.compile(r"\b(SIGCHI|CHI|ACM CHI|ACM Conference on Human-Computer Interaction|Conference on Human Factors in Computing Systems)\b", re.IGNORECASE),
+    "CHI": re.compile(r"\b(SIGCHI|BELIV|CHI|ACM CHI|ACM Conference on Human-Computer Interaction|Conference on Human Factors in Computing Systems)\b", re.IGNORECASE),
     "EuroVis": re.compile(r"\b(EuroVis|European Conference on Visualization)\b", re.IGNORECASE),
     "PacificVis": re.compile(r"\b(PacificVis|IEEE PacificVis|IEEE Pacific Visualization Symposium)\b",re.IGNORECASE),
-    "IV": re.compile(r"\b(IV|IEEE IV|international conference information visualisation|IEEE Conference on Information Visualization Theory and Applications|International Conference on Information Visualisation)\b",re.IGNORECASE),
+    "IV": re.compile(r"\b(IV|IEEE IV| International Conference on Information Visualization | international conference information visualisation|IEEE Conference on Information Visualization Theory and Applications|International Conference on Information Visualisation)\b",re.IGNORECASE),
     'VINCI': re.compile(r'\b(Vinci|Visual Information Communication and Interaction)\b', re.IGNORECASE),
      #IEEE Transactions on Visualization and Computer Graphics
     #'IEEE TVCG': re.compile(r'\b(IEEE Transactions on Visualization and Computer Graphics|TVCG)\b', re.IGNORECASE),
@@ -191,11 +191,11 @@ patterns = {
 }
 
 pub_patterns = {
-    'SAGE': re.compile(r'\b(SAGE PublicationsSage CA|Sage|sagepub)\b', re.IGNORECASE),
-    'PLOS ONE': re.compile(r'\b(plosone)\b', re.IGNORECASE),
-    'IEEE': re.compile(r'\b(ieee)\b', re.IGNORECASE),
-    'ACM': re.compile(r'\b(ACM|acm|acmsiggraph)\b', re.IGNORECASE),
-    'SPRINGER': re.compile(r'\b(springer-verlag|springer|springeropen)\b', re.IGNORECASE),
-    'ASA': re.compile(r'\b(american statistical association)\b', re.IGNORECASE),
-    'Elsevier': re.compile(r'\b(Elsevier|Elsevier Science)\b', re.IGNORECASE),
+    'sage': re.compile(r'SAGE Publications|Sage CA|Sage|sagepub', re.IGNORECASE),
+    'plos one': re.compile(r'\b(plosone)\b', re.IGNORECASE),
+    'ieee': re.compile(r'\b(ieee)\b', re.IGNORECASE),
+    'acm': re.compile(r'ACM|acm|acmsiggraphb', re.IGNORECASE),
+    'springer': re.compile(r'springer-verlag|springer|springeropen', re.IGNORECASE),
+    'asa': re.compile(r'\b(american statistical association)\b', re.IGNORECASE),
+    'elsevier': re.compile(r'Elsevier|Elsevier Science', re.IGNORECASE),
 }

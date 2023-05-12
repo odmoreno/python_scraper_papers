@@ -67,10 +67,9 @@
     "TVCG": 12,
     "ICCV": 2,
     "CGF": 3,
-    "": 2,
+    "": 3,
     "CHI": 6,
     "InfoVis": 1,
-    "Information Visualization": 1,
     "Journal of Visual Languages & Computing": 1
   },
   "10.1145/3554944.3554957": {
@@ -143,8 +142,7 @@
   "10.1145/3554944.3554962": {},
   "10.1145/3554944.3554963": {
     "CHI": 2,
-    "Information Visualization": 1,
-    "": 2
+    "": 3
   },
   "10.1145/3554944.3554964": {
     "TVCG": 1,
@@ -155,11 +153,10 @@
   },
   "10.1145/3554944.3554966": {},
   "10.1145/3481549.3481569": {
-    "": 18,
+    "": 20,
     "KDD": 1,
     "TVCG": 4,
     "psychometrika": 1,
-    "Information Visualization": 2,
     "CGF": 1,
     "InfoVis": 2
   },
@@ -173,10 +170,9 @@
     "": 1
   },
   "10.1145/3481549.3481557": {
-    "": 16,
+    "": 17,
     "CGF": 1,
     "KDD": 1,
-    "Information Visualization": 1,
     "TVCG": 7,
     "PacificVis": 1,
     "HICSS": 1,
@@ -242,8 +238,7 @@
     "CHI": 3,
     "UIST": 2,
     "TVCG": 13,
-    "Information Visualization": 1,
-    "": 8,
+    "": 9,
     "tas": 1,
     "CGF": 2
   },
@@ -282,20 +277,20 @@
     "ICML": 1
   },
   "10.1145/3481549.3481565": {
-    "": 23,
+    "": 24,
     "IUI": 4,
     "TVCG": 1,
     "InfoVis": 5,
-    "Information Visualization": 2,
     "TOIS": 2,
     "comacm": 3,
     "CHI": 2,
     "TOG": 1,
     "SIGIR": 1,
-    "IV": 1
+    "IV": 1,
+    "Information Visualization": 1
   },
   "10.1145/3481549.3481550": {
-    "": 5,
+    "": 6,
     "CGF": 4,
     "dmkd": 1,
     "ieee software": 2,
@@ -303,7 +298,7 @@
     "CSUR": 1,
     "GD": 3,
     "InfoVis": 1,
-    "Information Visualization": 2,
+    "Information Visualization": 1,
     "JVLC": 1,
     "VL/HCC": 1
   },
@@ -313,9 +308,8 @@
   "10.1145/3481549.3481573": {
     "VISIGRAPP": 1,
     "JMLR": 1,
-    "": 4,
+    "": 5,
     "WCRE": 1,
-    "Information Visualization": 1,
     "CGF": 1,
     "Web3D": 1
   },
@@ -366,15 +360,15 @@
   "10.1145/3430036.3430041": {
     "TVCG": 6,
     "TOG": 1,
-    "": 1,
+    "": 2,
     "EuroVis": 1,
     "InfoVis": 2,
     "ASE": 1,
     "GI": 1,
-    "Information Visualization": 2,
     "SOCG": 1,
     "VISIGRAPP": 1,
     "CG&A": 1,
+    "Information Visualization": 1,
     "Computational Physics Conference": 1,
     "VINCI": 1
   },
@@ -388,10 +382,9 @@
     "VINCI": 1
   },
   "10.1145/3430036.3430037": {
-    "": 1,
+    "": 2,
     "TVCG": 1,
     "CHI": 1,
-    "Information Visualization": 1,
     "CGF": 1,
     "CG&A": 1,
     "TOG": 1
@@ -403,8 +396,7 @@
   "10.1145/3430036.3430058": {},
   "10.1145/3430036.3430053": {
     "CGF": 3,
-    "": 4,
-    "Information Visualization": 1,
+    "": 5,
     "TVCG": 1,
     "tse": 1,
     "CHI": 1
@@ -466,9 +458,8 @@
   },
   "10.1145/3430036.3430070": {},
   "10.1145/3430036.3430044": {
-    "": 2,
+    "": 3,
     "TVCG": 1,
-    "Information Visualization": 1,
     "CGF": 1,
     "CG&A": 1,
     "TOG": 1
@@ -478,15 +469,14 @@
     "": 1
   },
   "10.1145/3430036.3430064": {
-    "": 1,
-    "Information Visualization": 2,
+    "": 3,
     "CGF": 1,
     "TVCG": 2,
     "CHI": 1
   },
   "10.1145/3430036.3430068": {},
   "10.1145/3430036.3430063": {
-    "Information Visualization": 2
+    "": 2
   },
   "10.1145/3430036.3432753": {
     "TVCG": 1
@@ -564,10 +554,9 @@
   "10.1145/3356422.3356450": {
     "TVCG": 2,
     "SIGKDD": 1,
-    "": 15,
+    "": 16,
     "GD": 1,
     "CGF": 3,
-    "Information Visualization": 1,
     "InfoVis": 2,
     "PLOS ONE": 1,
     "BIGDATA": 1,
@@ -580,7 +569,7 @@
   "10.1145/3356422.3356444": {
     "InfoVis": 7,
     "IV": 4,
-    "": 9,
+    "": 10,
     "VISSOFT": 2,
     "TVCG": 9,
     "PacificVis": 1,
@@ -601,7 +590,6 @@
     "CRIWG": 1,
     "VL/HCC": 1,
     "Computational Physics Conference": 2,
-    "Information Visualization": 1,
     "ISVC": 1,
     "GRAPP": 1,
     "ICSE": 1,
@@ -623,11 +611,10 @@
   },
   "10.1145/3356422.3356449": {
     "TVCG": 4,
-    "": 6,
+    "": 7,
     "JMLR": 1,
     "PacificVis": 2,
     "HICSS": 1,
-    "Information Visualization": 1,
     "IV": 1,
     "CHI": 1,
     "ieee software": 1,
@@ -795,8 +782,7 @@
   },
   "10.1145/3231622.3231627": {
     "InfoVis": 2,
-    "": 9,
-    "Information Visualization": 1,
+    "": 10,
     "CGF": 1,
     "dmkd": 2,
     "TVCG": 4,
@@ -897,12 +883,11 @@
     "VL/HCC": 1,
     "IV": 1,
     "InfoVis": 1,
-    "": 4,
+    "": 5,
     "TVCG": 1,
     "LDAV": 1,
     "CHI": 1,
-    "TOG": 1,
-    "Information Visualization": 1
+    "TOG": 1
   },
   "10.1145/3231622.3231625": {
     "": 2,
@@ -925,12 +910,11 @@
     "JOV": 1
   },
   "10.1145/3231622.3232505": {
-    "": 5,
+    "": 6,
     "CG&A": 1,
     "TVCG": 1,
     "AAAI": 1,
-    "CGF": 1,
-    "Information Visualization": 1
+    "CGF": 1
   },
   "10.1145/3231622.3232508": {
     "": 5,
@@ -946,9 +930,8 @@
     "": 5
   },
   "10.1145/3231622.3231636": {
-    "": 9,
+    "": 12,
     "CG&A": 3,
-    "Information Visualization": 3,
     "CGF": 1,
     "TVCG": 1
   },
@@ -1003,7 +986,7 @@
   },
   "10.1145/3105971.3105981": {
     "CHI": 8,
-    "": 17,
+    "": 18,
     "EuroVis": 1,
     "CSCW": 3,
     "IUI": 2,
@@ -1011,11 +994,10 @@
     "PacificVis": 1,
     "jasist": 2,
     "UIST": 1,
-    "AAAI": 1,
-    "Information Visualization": 1
+    "AAAI": 1
   },
   "10.1145/3105971.3105984": {
-    "Information Visualization": 1,
+    "": 1,
     "TVCG": 1
   },
   "10.1145/3105971.3105987": {},
@@ -1041,7 +1023,7 @@
   "10.1145/3105971.3108448": {},
   "10.1145/3105971.3105992": {
     "GD": 3,
-    "Information Visualization": 1,
+    "": 1,
     "informationsciences": 1
   },
   "10.1145/3105971.3108449": {},
@@ -1059,8 +1041,7 @@
     "CHI": 1
   },
   "10.1145/3105971.3105989": {
-    "Information Visualization": 1,
-    "": 2,
+    "": 3,
     "JVLC": 1,
     "TVCG": 1
   },
@@ -1115,9 +1096,8 @@
     "CHI": 3,
     "TVCG": 6,
     "InfoVis": 2,
-    "Information Visualization": 1,
+    "": 5,
     "CG&A": 1,
-    "": 4,
     "tvc": 1,
     "COLING": 1,
     "EMNLP": 1
@@ -1148,9 +1128,8 @@
     "ICIP": 1
   },
   "10.1145/2968220.2968248": {
-    "Information Visualization": 2,
+    "": 17,
     "CG&A": 1,
-    "": 15,
     "TVCG": 9,
     "JCGS": 1,
     "tvc": 1,
@@ -1259,10 +1238,9 @@
     "tvc": 1
   },
   "10.1145/2968220.2968227": {
-    "": 1,
+    "": 3,
     "TVCG": 1,
-    "GD": 1,
-    "Information Visualization": 2
+    "GD": 1
   },
   "10.1145/2968220.2968231": {
     "TVCG": 1,
@@ -1303,14 +1281,13 @@
   "10.1145/2801040.2801054": {
     "ieee software": 1,
     "WSDM": 1,
-    "": 11,
+    "": 12,
     "InfoVis": 4,
     "TVCG": 6,
     "VAST": 2,
     "c&g": 1,
     "CGF": 1,
     "LDAV": 1,
-    "Information Visualization": 1,
     "ISCA": 1,
     "AAAI": 1,
     "CHI": 1,
@@ -1344,24 +1321,23 @@
     "TVCG": 3,
     "GD": 4,
     "VINCI": 1,
-    "": 8,
+    "": 9,
     "InfoVis": 1,
-    "Information Visualization": 2,
     "CoRR": 1,
     "PacificVis": 1,
     "CHI": 2,
+    "Information Visualization": 1,
     "SMC": 1,
     "CGF": 1
   },
   "10.1145/2801040.2801053": {
     "AAAI": 1,
-    "": 9,
+    "": 10,
     "PacificVis": 3,
     "TVCG": 6,
     "CGF": 3,
     "InfoVis": 1,
-    "GD": 1,
-    "Information Visualization": 1
+    "GD": 1
   },
   "10.1145/2801040.2801059": {
     "": 11,
@@ -1523,11 +1499,10 @@
     "": 4
   },
   "10.1145/2636240.2636844": {
-    "": 34,
+    "": 36,
     "IV": 1,
     "CHI": 2,
     "IUI": 2,
-    "Information Visualization": 2,
     "JEP": 1
   },
   "10.1145/2636240.2636850": {
@@ -1538,7 +1513,7 @@
   },
   "10.1145/2636240.2636841": {
     "tvc": 1,
-    "": 8,
+    "": 9,
     "TOG": 1,
     "PacificVis": 1,
     "InfoVis": 5,
@@ -1546,8 +1521,8 @@
     "TVCG": 1,
     "tas": 1,
     "ICML": 1,
-    "Information Visualization": 2,
-    "CHI": 1
+    "CHI": 1,
+    "Information Visualization": 1
   },
   "10.1145/2636240.2636839": {
     "TVCG": 5,
@@ -1589,10 +1564,9 @@
     "tse": 1,
     "InfoVis": 1,
     "JVLC": 1,
-    "": 1,
+    "": 2,
     "VL/HCC": 3,
-    "ASE": 1,
-    "Information Visualization": 1
+    "ASE": 1
   },
   "10.1145/2636240.2636840": {
     "VL/HCC": 4,
@@ -1627,10 +1601,9 @@
     "CHI": 2
   },
   "10.1145/2636240.2636842": {
-    "": 11,
+    "": 12,
     "HICSS": 1,
     "InfoVis": 1,
-    "Information Visualization": 1,
     "informationsciences": 1,
     "TVCG": 1
   },
@@ -1679,13 +1652,12 @@
     "InfoVis": 1
   },
   "10.1145/2636240.2636848": {
-    "": 11,
+    "": 13,
     "LNCS": 1,
     "InfoVis": 2,
     "IV": 1,
     "TVCG": 2,
     "CHI": 1,
-    "Information Visualization": 2,
     "jgaa": 1,
     "GD": 1,
     "jasist": 1
@@ -1700,11 +1672,10 @@
   "10.1145/2636240.2636852": {
     "CHI": 1,
     "TVCG": 1,
-    "": 9,
+    "": 12,
     "JCGS": 2,
     "PacificVis": 1,
-    "IV": 2,
-    "Information Visualization": 3
+    "IV": 2
   },
   "10.1145/2636240.2636849": {
     "": 4,
@@ -1757,10 +1728,9 @@
   "10.1145/2493102.2493112": {
     "InfoVis": 6,
     "TOG": 1,
-    "Information Visualization": 2,
+    "": 4,
     "CG&A": 1,
     "TVCG": 1,
-    "": 2,
     "SOCG": 1,
     "ISVD": 1
   },
@@ -1826,7 +1796,7 @@
     "ICCV": 1
   },
   "10.1145/2397696.2397705": {
-    "Information Visualization": 1
+    "": 1
   },
   "10.1145/2397696.2397706": {
     "comacm": 1,
@@ -1907,16 +1877,15 @@
   "10.1145/2016656.2016667": {
     "TVCG": 4,
     "JVLC": 1,
-    "": 2,
+    "": 3,
     "InfoVis": 4,
-    "Information Visualization": 1,
     "IV": 1,
     "UIST": 1,
     "TOG": 1
   },
   "10.1145/2016656.2016668": {
-    "": 1,
-    "Information Visualization": 2,
+    "": 2,
+    "Information Visualization": 1,
     "TVCG": 1,
     "InfoVis": 1
   },
@@ -1931,8 +1900,7 @@
   "10.1145/2016656.2016672": {
     "TVCG": 2,
     "IV": 4,
-    "": 11,
-    "Information Visualization": 3,
+    "": 14,
     "CG&A": 1,
     "InfoVis": 1,
     "tas": 1,
@@ -1976,9 +1944,8 @@
   "10.1145/1865841.1865854": {
     "GD": 7,
     "LNCS": 1,
-    "": 5,
+    "": 7,
     "TVCG": 1,
-    "Information Visualization": 2,
     "InfoVis": 1,
     "JEP": 1
   },
@@ -1994,9 +1961,8 @@
     "VL/HCC": 1
   },
   "10.1145/1865841.1865860": {
-    "": 6,
+    "": 7,
     "IV": 6,
-    "Information Visualization": 1,
     "InfoVis": 2,
     "jos": 2
   },
@@ -2042,8 +2008,7 @@
     "TVCG": 3,
     "IV": 2,
     "CG&A": 1,
-    "": 7,
-    "Information Visualization": 3,
+    "": 10,
     "dmkd": 1,
     "SIGKDD": 1,
     "tas": 1,
@@ -2083,7 +2048,7 @@
     "InfoVis": 1
   },
   "10.1007/978-1-4419-0312-9_3": {
-    "": 13,
+    "": 16,
     "GD": 4,
     "TOG": 1,
     "IV": 1,
@@ -2092,7 +2057,6 @@
     "informationsciences": 1,
     "SOCG": 1,
     "ieee software": 1,
-    "Information Visualization": 3,
     "comacm": 1
   },
   "10.1007/978-1-4419-0312-9_4": {
@@ -2168,13 +2132,12 @@
     "ieee software": 2,
     "TOCHI": 1,
     "CHI": 4,
-    "": 12,
+    "": 13,
     "UIST": 1,
     "tse": 1,
     "IV": 2,
     "TVCG": 2,
     "InfoVis": 5,
-    "Information Visualization": 1,
     "TOG": 1,
     "JVLC": 1,
     "GD": 1,
