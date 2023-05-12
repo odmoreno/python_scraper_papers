@@ -2350,7 +2350,7 @@
     "url": "",
     "date": "2006",
     "venue": "ACM Transactions on Computer-Human Interaction",
-    "publisher": "",
+    "publisher": "acm",
     "id": "",
     "doi": "temp09_166",
     "authors": [
@@ -3911,7 +3911,7 @@
     "url": "",
     "date": "2006",
     "venue": "ACM Transactions on Computer-Human Interaction(TOCHI",
-    "publisher": "",
+    "publisher": "acm",
     "id": "",
     "doi": "temp09_276",
     "authors": [
@@ -5407,7 +5407,7 @@
     "url": "",
     "date": "2004",
     "venue": "Proc. of the 12th International Workshop on Program Comprehension",
-    "publisher": "IEEE CS Press",
+    "publisher": "IEEE",
     "id": "",
     "doi": "temp09_382",
     "authors": [
@@ -5609,7 +5609,7 @@
     "url": "",
     "date": "1999",
     "venue": "ACM SIGCOMM Computer Communication Review",
-    "publisher": "",
+    "publisher": "acm",
     "id": "",
     "doi": "temp09_396",
     "authors": [
@@ -7600,7 +7600,7 @@
     "url": "",
     "date": "2004",
     "venue": "Proc. 2004 IEEE International Conference on Robotics and Automation, Piscataway, United States",
-    "publisher": "",
+    "publisher": "IEEE",
     "id": "",
     "doi": "temp09_539",
     "authors": [

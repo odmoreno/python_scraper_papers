@@ -70,7 +70,7 @@ patterns = {
     "CHI": re.compile(r"\b(SIGCHI|CHI|ACM CHI|ACM Conference on Human-Computer Interaction|Conference on Human Factors in Computing Systems)\b", re.IGNORECASE),
     "EuroVis": re.compile(r"\b(EuroVis|European Conference on Visualization)\b", re.IGNORECASE),
     "PacificVis": re.compile(r"\b(PacificVis|IEEE PacificVis|IEEE Pacific Visualization Symposium)\b",re.IGNORECASE),
-    "IV": re.compile(r"\b(IV|IEEE IV|IEEE Conference on Information Visualization Theory and Applications|International Conference on Information Visualisation)\b",re.IGNORECASE),
+    "IV": re.compile(r"\b(IV|IEEE IV|international conference information visualisation|IEEE Conference on Information Visualization Theory and Applications|International Conference on Information Visualisation)\b",re.IGNORECASE),
     'VINCI': re.compile(r'\b(Vinci|Visual Information Communication and Interaction)\b', re.IGNORECASE),
      #IEEE Transactions on Visualization and Computer Graphics
     #'IEEE TVCG': re.compile(r'\b(IEEE Transactions on Visualization and Computer Graphics|TVCG)\b', re.IGNORECASE),
@@ -81,7 +81,7 @@ patterns = {
     # Journal of Visualization
     'JOV': re.compile(r'\b(Journal of Visualization|JOV)\b', re.IGNORECASE),
     # Computer Graphics Forum
-    'CGF': re.compile(r'\b(Computer Graphics Forum|CGF)\b', re.IGNORECASE),
+    'CGF': re.compile(r'\b(Computer Graphics Forum|CGF|Comput. Graph. Forum|comp. graph. forum)\b', re.IGNORECASE),
     # Journal of Computational and Graphical Statistics
     'JCGS': re.compile(r'\b(Journal of Computational and Graphical Statistics|JCGS)\b', re.IGNORECASE),
     # ACM Transactions on Interactive Intelligent Systems (TiiS)
@@ -97,7 +97,7 @@ patterns = {
     'GRAPP': re.compile(r'\b(GRAPP|International Conference on Computer Graphics Theory and Applications)\b',re.IGNORECASE),
     'Intelligent User Interfaces': re.compile(r'\b(Intelligent User Interfaces|International Conference on Intelligent User Interfaces)\b', re.IGNORECASE),
     'IEEE SMC Systems': re.compile(r'\b(IEEE Transactions on Systems, Man, and Cybernetics: Systems)\b', re.IGNORECASE),
-    'TVCG': re.compile(r'\b(TVCG|Transaction on Computer Graphics|IEEE Transactions on Visualization and Computer Graphics|Visualization and Computer Graphics|IEEE\sTransactions\s?on\sComputer\s?Graphics\s?and\s?Visualization)\b', re.IGNORECASE),
+    'TVCG': re.compile(r'\b(TVCG|Transaction on Computer Graphics|IEEE Transactions on Visualization and Computer Graphics|Visualization and Computer Graphics|IEEE\sTransactions\s?on\sComputer\s?Graphics\s?and\s?Visualization|ieee transactions on visualization & computer graphics)\b', re.IGNORECASE),
     'Journal of Visualization': re.compile(r'\b(Journal of Visualization)\b', re.IGNORECASE),
     'Computer Graphics Forum': re.compile(r'\b(Computer Graphics Forum)\b', re.IGNORECASE),
     'Journal of Computational and Graphical Statistics': re.compile( r'\b(Journal of Computational and Graphical Statistics)\b', re.IGNORECASE),
@@ -138,7 +138,7 @@ patterns = {
     'VISSOFT': re.compile(r'\b(IEEE International Workshop on Visualizing Software for Understanding and Analysis|VISSOFT|IEEE VISSOFT)\b', re.IGNORECASE),
     'CGA': re.compile(r'\b(IEEE Computer Graphics and Applications|IEEE CG&A|CG&A)\b', re.IGNORECASE),
     'LNCS': re.compile(r'\b(Lecture Notes in Computer Science|LNCS|Springer LNCS)\b', re.IGNORECASE),
-    'WPC': re.compile(r'\b(IEEE Workshop on Program Comprehension|WPC)\b', re.IGNORECASE),
+    'WPC': re.compile(r'Workshop on Program Comprehension|WPC', re.IGNORECASE),
     'WCRE': re.compile(r'\b(Working Conference on Reverse Engineering|WCRE)\b', re.IGNORECASE),
     'ASE': re.compile(r'\b(ACM International Conference on Automated Software Engineering|ASE|ACM ASE)\b', re.IGNORECASE),
     'Web3D': re.compile(r'\b(International Conference on 3D Web Technology|Web3D|ACM Web3D)\b', re.IGNORECASE),
@@ -157,7 +157,7 @@ patterns = {
     'DIS': re.compile(r'\b(ACM Conference on Designing Interactive Systems|DIS)\b', re.IGNORECASE),
     'CADCG': re.compile(r'\b(Journal of Computer-Aided Design & Computer Graphics|CAD)\b', re.IGNORECASE),
     'SIBGRAPI': re.compile(r'\b(Brazilian Symposium on Computer Graphics and Image Processing|SIBGRAPI)\b', re.IGNORECASE),
-    'JVLC': re.compile(r'\b(Journal of Visual Languages and Computing|jvlc)\b', re.IGNORECASE),
+    'JVLC': re.compile(r'\b(Journal of Visual Languages and Computing|jvlc|Journal of Computer Languages)\b', re.IGNORECASE),
     'HICSS': re.compile(r'\b(Hawaii International Conference on System Sciences|HICSS)\b', re.IGNORECASE),
     'BIGDATA': re.compile(r'\b(International Conference on Big Data)\b', re.IGNORECASE),
     'IPMI': re.compile(r'\b(IPMI|International conference on information processing in medical imaging)\b', re.IGNORECASE),
@@ -175,11 +175,19 @@ patterns = {
     'tvc': re.compile(r'the visual computer', re.IGNORECASE),
     'c&g': re.compile(r'\b(Computers and Graphics|computers & graphics|Journal of Systems & Applications in Computer Graphics)\b', re.IGNORECASE),
     'tas': re.compile(r'\b(the american statistician)\b', re.IGNORECASE),
+    #'Science': re.compile(r'\bScience', re.IGNORECASE),
     'CoRR': re.compile(r'\b(CoRR|The Computing Research Repository|corr)\b', re.IGNORECASE),
     'jasist': re.compile(r'Journal of the American Society for Information Science', re.IGNORECASE),
-    'comacm': re.compile(r'Communications of the ACM', re.IGNORECASE),
+    'comacm': re.compile(r'Communications of the ACM|Commun. ACM|communications of acm', re.IGNORECASE),
     'psychometrika': re.compile(r'Psychometrika', re.IGNORECASE),
     'jgaa': re.compile(r'Journal of Graph Algorithms and Applications', re.IGNORECASE),
+    'euac': re.compile(r'Environment and Planning B: Urban Analytics and City Science|environment and planning b: planning and design', re.IGNORECASE),
+    'dmkd': re.compile(r'data mining and knowledge discovery', re.IGNORECASE),
+    'informationsciences': re.compile(r'\b(Information Sciences)', re.IGNORECASE),
+    'jos': re.compile(r'\b(Journal of Software)', re.IGNORECASE),
+    'Leonardo': re.compile(r'\b(Leonardo)', re.IGNORECASE),
+    'tse': re.compile(r'\b(IEEE Transactions on Software Engineering)', re.IGNORECASE),
+    'ieee software': re.compile(r'\b(ieee software| ieee)', re.IGNORECASE),
 }
 
 pub_patterns = {

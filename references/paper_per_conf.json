@@ -239,7 +239,7 @@
       "doi": "temp78"
     },
     {
-      "venue": "leonardo",
+      "venue": "Leonardo",
       "doi": "temp80"
     },
     {
@@ -273,7 +273,7 @@
       "doi": "temp88"
     },
     {
-      "venue": "2018 ieee winter conference on applications of computer vision (wacv",
+      "venue": "ieee software",
       "doi": "temp89"
     },
     {
@@ -683,7 +683,7 @@
   ],
   "10.1145/3554944.3554957": [
     {
-      "venue": "2012 ieee/acm international conference on advances in social networks analysis and mining. ieee",
+      "venue": "ieee software",
       "doi": "10.1109/ASONAM.2012.33"
     },
     {
@@ -779,7 +779,7 @@
       "doi": "10.1111/lsq.12129"
     },
     {
-      "venue": "2011 ieee third international conference on privacy, security, risk and trust and 2011 ieee third international conference on social computing",
+      "venue": "ieee software",
       "doi": "temp252"
     },
     {
@@ -865,7 +865,7 @@
       "doi": "10.1111/cgf.14172"
     },
     {
-      "venue": "2006 ieee southwest symposium on image analysis and interpretation. ieee",
+      "venue": "ieee software",
       "doi": "10.1109/SSIAI.2006.1633722"
     },
     {
@@ -1075,7 +1075,7 @@
       "doi": "temp354"
     },
     {
-      "venue": "proceedings of the 2nd ieee international workshop on wireless and mobile technologies in education",
+      "venue": "ieee software",
       "doi": "temp355"
     },
     {
@@ -1245,7 +1245,7 @@
       "doi": "10.1145/3231622.3231641"
     },
     {
-      "venue": "journal of software maintenance and evolution: research and practice",
+      "venue": "jos",
       "doi": "10.1002/smr.414"
     },
     {
@@ -1627,7 +1627,7 @@
       "doi": "10.1109/TVCG.2012.213"
     },
     {
-      "venue": "data mining and knowledge discovery",
+      "venue": "dmkd",
       "doi": "10.1007/s10618-018-0557-y"
     },
     {
@@ -1651,7 +1651,7 @@
       "doi": "10.1109/TVCG.2018.2865146"
     },
     {
-      "venue": "2008 ieee symposium on visual analytics science and technology",
+      "venue": "ieee software",
       "doi": "10.1109/VAST.2008.4677370"
     },
     {
@@ -1755,7 +1755,7 @@
       "doi": "10.1109/TVCG.2014.2346419"
     },
     {
-      "venue": "2009 ieee symposium on visual analytics science and technology",
+      "venue": "ieee software",
       "doi": "10.1109/VAST.2009.5333920"
     },
     {
@@ -2187,7 +2187,7 @@
       "doi": "10.1109/TVCG.2006.80"
     },
     {
-      "venue": "comput. graph. forum",
+      "venue": "CGF",
       "doi": "10.1111/cgf.13719"
     }
   ],
@@ -2225,7 +2225,7 @@
       "doi": "10.1109/MC.2013.147"
     },
     {
-      "venue": "proceedings of the 1st ieee international symposium on wearable computers(iswc ’97",
+      "venue": "ieee software",
       "doi": "temp795"
     },
     {
@@ -2249,7 +2249,7 @@
       "doi": "10.1109/TVCG.2018.2868591"
     },
     {
-      "venue": "comput. graph. forum",
+      "venue": "CGF",
       "doi": "10.1111/cgf.13206"
     },
     {
@@ -2285,13 +2285,13 @@
       "doi": "10.1007/BF01409796"
     },
     {
-      "venue": "2015 ieee international conference on signal and image processing applications (icsipa",
+      "venue": "ieee software",
       "doi": "temp811"
     }
   ],
   "10.1145/3481549.3481555": [
     {
-      "venue": "comp. graph. forum",
+      "venue": "CGF",
       "doi": "10.1111/cgf.12722"
     },
     {
@@ -2311,7 +2311,7 @@
       "doi": "10.1145/3126594.3126613"
     },
     {
-      "venue": "comp. graph. forum",
+      "venue": "CGF",
       "doi": "10.1111/j.1467-8659.2012.03080.x"
     },
     {
@@ -2343,7 +2343,7 @@
       "doi": "10.1109/TVCG.2016.2520921"
     },
     {
-      "venue": "23rd international conference information visualisation (iv2019",
+      "venue": "IV",
       "doi": "temp831"
     },
     {
@@ -2425,7 +2425,7 @@
       "doi": "10.1109/TSE.2011.42"
     },
     {
-      "venue": "25th ieee international conference on software maintenance (icsm 2009), september 20-26, 2009",
+      "venue": "ieee software",
       "doi": "10.1109/ICSM.2009.5306302"
     },
     {
@@ -2519,7 +2519,7 @@
       "doi": "10.1007/978-3-642-28997-2_3"
     },
     {
-      "venue": "commun. acm",
+      "venue": "comacm",
       "doi": "10.1145/567498.567525"
     },
     {
@@ -2559,7 +2559,7 @@
       "doi": "temp891"
     },
     {
-      "venue": "commun. acm",
+      "venue": "comacm",
       "doi": "10.1145/1121949.1121979"
     },
     {
@@ -2615,7 +2615,7 @@
       "doi": "temp906"
     },
     {
-      "venue": "commun. acm",
+      "venue": "comacm",
       "doi": "10.1145/1121949.1121980"
     },
     {
@@ -2641,11 +2641,11 @@
       "doi": "10.1111/cgf.12791"
     },
     {
-      "venue": "wires data mining and knowledge discovery",
+      "venue": "dmkd",
       "doi": "10.1002/widm.1178"
     },
     {
-      "venue": "proc. of the 1991 ieee workshop on visual languages",
+      "venue": "ieee software",
       "doi": "temp916"
     },
     {
@@ -2665,7 +2665,7 @@
       "doi": "10.1007/3-540-36151-0_3"
     },
     {
-      "venue": "proceedings of ieee vgtc pacific visualization symposium",
+      "venue": "ieee software",
       "doi": "10.1109/PACIFICVIS.2008.4475479"
     },
     {
@@ -2969,7 +2969,7 @@
       "doi": "temp1018"
     },
     {
-      "venue": "2009 ieee symposium on visual analytics science and technology",
+      "venue": "ieee software",
       "doi": "temp1019"
     },
     {
@@ -3255,7 +3255,7 @@
       "doi": "10.1057/palgrave.ivs.9500087"
     },
     {
-      "venue": "comp. graph. forum",
+      "venue": "CGF",
       "doi": "10.1111/j.1467-8659.2012.03078.x"
     },
     {
@@ -3301,7 +3301,7 @@
       "doi": "10.1109/TVCG.2015.2424889"
     },
     {
-      "venue": "ieee transactions on software engineering",
+      "venue": "tse",
       "doi": "10.1109/TSE.1981.234519"
     },
     {
@@ -3451,7 +3451,7 @@
   "10.1145/3430036.3430043": [],
   "10.1145/3430036.3430056": [
     {
-      "venue": "proceedings of ieee conference on visualization",
+      "venue": "ieee software",
       "doi": "10.5555/832271.833862"
     },
     {
@@ -3529,7 +3529,7 @@
       "doi": "10.1057/palgrave.ivs.9500087"
     },
     {
-      "venue": "comp. graph. forum",
+      "venue": "CGF",
       "doi": "10.1111/j.1467-8659.2012.03078.x"
     },
     {
@@ -3690,7 +3690,7 @@
       "doi": "temp1975"
     },
     {
-      "venue": "data mining and knowledge discovery",
+      "venue": "dmkd",
       "doi": "10.1023/B:DAMI.0000023676.72185.7c"
     },
     {
@@ -3798,7 +3798,7 @@
       "doi": "temp2002"
     },
     {
-      "venue": "proc. of ieee conf",
+      "venue": "ieee software",
       "doi": "temp2003"
     },
     {
@@ -3844,7 +3844,7 @@
       "doi": "temp2016"
     },
     {
-      "venue": "eighth ieee international conference on data mining",
+      "venue": "ieee software",
       "doi": "temp2018"
     },
     {
@@ -3860,7 +3860,7 @@
       "doi": "10.14778/2732286.2732289"
     },
     {
-      "venue": "seventh ieee international conference on data mining workshops (icdmw 2007",
+      "venue": "ieee software",
       "doi": "10.1109/ICDMW.2007.74"
     },
     {
@@ -3872,11 +3872,11 @@
       "doi": "10.1145/2939672.2939754"
     },
     {
-      "venue": "european conference on principles of data mining and knowledge discovery",
+      "venue": "dmkd",
       "doi": "temp2025"
     },
     {
-      "venue": "data mining and knowledge discovery",
+      "venue": "dmkd",
       "doi": "temp2026"
     },
     {
@@ -3928,7 +3928,7 @@
       "doi": "temp2042"
     },
     {
-      "venue": "2002 ieee international conference on data mining, 2002. proceedings. ieee",
+      "venue": "ieee software",
       "doi": "temp2043"
     },
     {
@@ -3982,7 +3982,7 @@
       "doi": "temp2060"
     },
     {
-      "venue": "software engineering and service science (icsess), 2017 8th ieee international conference on. ieee",
+      "venue": "ieee software",
       "doi": "temp2061"
     },
     {
@@ -4672,7 +4672,7 @@
       "doi": "10.1109/TVCG.2018.2835485"
     },
     {
-      "venue": "proceedings of ieee symposium on visual analytics science and technology",
+      "venue": "ieee software",
       "doi": "10.1109/VAST.2006.261425"
     },
     {
@@ -4742,7 +4742,7 @@
       "doi": "10.1145/1240624.1240775"
     },
     {
-      "venue": "proceedings of the 2015 ieee/acm international conference on advances in social networks analysis and mining 2015. acm",
+      "venue": "ieee software",
       "doi": "10.1145/2808797.2808916"
     },
     {
@@ -4810,7 +4810,7 @@
       "doi": "10.1515/jib-2008-97/html"
     },
     {
-      "venue": "ieee transactions on visualization & computer graphics",
+      "venue": "TVCG",
       "doi": "10.1109/TVCG.2007.70521"
     },
     {
@@ -4838,7 +4838,7 @@
       "doi": "10.1007/s11192-015-1830-0"
     },
     {
-      "venue": "ieee transactions on visualization & computer graphics",
+      "venue": "TVCG",
       "doi": "10.1109/TVCG.2016.2598432"
     },
     {
@@ -4854,7 +4854,7 @@
       "doi": "temp2344"
     },
     {
-      "venue": "ieee transactions on visualization & computer graphics",
+      "venue": "TVCG",
       "doi": "temp2345"
     },
     {
@@ -5058,7 +5058,7 @@
       "doi": "temp2407"
     },
     {
-      "venue": "proceedings of 2016 ieee frontiers in education conference",
+      "venue": "ieee software",
       "doi": "10.1109/FIE.2016.7757576"
     },
     {
@@ -5332,7 +5332,7 @@
       "doi": "temp2490"
     },
     {
-      "venue": "ieee transactions on visualization & computer graphics",
+      "venue": "TVCG",
       "doi": "temp2491"
     },
     {
@@ -5390,7 +5390,7 @@
       "doi": "temp2512"
     },
     {
-      "venue": "comput. graph. forum",
+      "venue": "CGF",
       "doi": "10.1111/j.1467-8659.2008.01332.x"
     },
     {
@@ -5594,7 +5594,7 @@
       "doi": "temp2582"
     },
     {
-      "venue": "journal of computer languages",
+      "venue": "JVLC",
       "doi": "10.1016/j.cola.2019.01.002"
     },
     {
@@ -5768,7 +5768,7 @@
       "doi": "temp2638"
     },
     {
-      "venue": "systems man & cybernetics ieee t ransactionson",
+      "venue": "ieee software",
       "doi": "temp2639"
     },
     {
@@ -5936,7 +5936,7 @@
       "doi": ".apa.org/getdoi.cfm?doi=10.1037/h0043158"
     },
     {
-      "venue": "ieee transactions on software engineering",
+      "venue": "tse",
       "doi": "10.1109/TSE.2009.67"
     },
     {
@@ -6010,7 +6010,7 @@
       "doi": "temp2717"
     },
     {
-      "venue": "data mining and knowledge discovery",
+      "venue": "dmkd",
       "doi": "10.1023/A%3A1009843912662"
     },
     {
@@ -6038,7 +6038,7 @@
       "doi": "temp2726"
     },
     {
-      "venue": "data mining and knowledge discovery",
+      "venue": "dmkd",
       "doi": "10.1007/s10618-012-0250-5"
     },
     {
@@ -6072,7 +6072,7 @@
       "doi": "10.1109/TVCG.2013.129"
     },
     {
-      "venue": "proceedings of ieee conference on visualization",
+      "venue": "ieee software",
       "doi": "10.5555/832271.833862"
     },
     {
@@ -6088,7 +6088,7 @@
       "doi": "10.1109/TVCG.2013.163"
     },
     {
-      "venue": "proceedings of ieee conference on visualization",
+      "venue": "ieee software",
       "doi": "10.5555/602099.602145"
     },
     {
@@ -6218,7 +6218,7 @@
       "doi": "10.1145/2487276.2487285"
     },
     {
-      "venue": "commun. acm",
+      "venue": "comacm",
       "doi": "10.1145/129888.129892"
     },
     {
@@ -6254,7 +6254,7 @@
       "doi": "10.1016/j.jvlc.2013.11.004"
     },
     {
-      "venue": "ieee transactions on software engineering",
+      "venue": "tse",
       "doi": "10.1109/TSE.1981.234519"
     },
     {
@@ -6284,19 +6284,19 @@
   ],
   "10.1145/3231622.3231637": [
     {
-      "venue": "environment and planning b: planning and design",
+      "venue": "euac",
       "doi": "10.1068/b250205"
     },
     {
-      "venue": "19th ieee international conference on tools with artificial intelligence(ictai 2007",
+      "venue": "ieee software",
       "doi": "10.1109/ICTAI.2007.79"
     },
     {
-      "venue": "environment and planning b: planning and design",
+      "venue": "euac",
       "doi": "10.1068/b230443"
     },
     {
-      "venue": "environment and planning b: planning and design",
+      "venue": "euac",
       "doi": "10.1068/b140323"
     },
     {
@@ -6304,7 +6304,7 @@
       "doi": "10.5555/2048536.2048539"
     },
     {
-      "venue": "environment and planning b: planning and design",
+      "venue": "euac",
       "doi": "10.1068/b38156"
     },
     {
@@ -6312,7 +6312,7 @@
       "doi": "temp2803"
     },
     {
-      "venue": "2008 20th ieee international conference on tools with artificial intelligence",
+      "venue": "ieee software",
       "doi": "10.1109/ICTAI.2008.41"
     },
     {
@@ -6320,15 +6320,15 @@
       "doi": "10.1145/1165734.1165739"
     },
     {
-      "venue": "environment and planning b: planning and design",
+      "venue": "euac",
       "doi": "10.1068/b080295"
     },
     {
-      "venue": "leonardo",
+      "venue": "Leonardo",
       "doi": "temp2807"
     },
     {
-      "venue": "environment and planning b: planning and design",
+      "venue": "euac",
       "doi": "10.1068/b220475"
     },
     {
@@ -6340,7 +6340,7 @@
       "doi": "temp2810"
     },
     {
-      "venue": "information sciences",
+      "venue": "informationsciences",
       "doi": "10.1016/j.ins.2015.08.052"
     },
     {
@@ -6348,15 +6348,15 @@
       "doi": "10.1016/S0019-9958%2886%2980045-6"
     },
     {
-      "venue": "environment and planning b: planning and design",
+      "venue": "euac",
       "doi": "10.1068/b040089"
     },
     {
-      "venue": "environment and planning b: planning and design",
+      "venue": "euac",
       "doi": "10.1068/b050005"
     },
     {
-      "venue": "environment and planning b: planning and design",
+      "venue": "euac",
       "doi": "temp2817"
     },
     {
@@ -6372,11 +6372,11 @@
       "doi": "10.1145/3191801.3191805"
     },
     {
-      "venue": "proceedings ieee workshop on visual languages",
+      "venue": "ieee software",
       "doi": "temp2821"
     },
     {
-      "venue": "environment and planning b: planning and design",
+      "venue": "euac",
       "doi": "10.1068/b39107"
     },
     {
@@ -6430,11 +6430,11 @@
       "doi": "10.1109/VISSOF.2005.1684299"
     },
     {
-      "venue": "comput. graph. forum",
+      "venue": "CGF",
       "doi": "10.1111/cgf.12466"
     },
     {
-      "venue": "comput. graph. forum",
+      "venue": "CGF",
       "doi": "10.1111/cgf.12466"
     },
     {
@@ -6794,7 +6794,7 @@
       "doi": "temp2961"
     },
     {
-      "venue": "2016 ieee symposium on visualization for cyber security",
+      "venue": "ieee software",
       "doi": "temp2963"
     },
     {
@@ -6928,7 +6928,7 @@
       "doi": "10.3115/1225403.1225421"
     },
     {
-      "venue": "commun. acm",
+      "venue": "comacm",
       "doi": "10.1145/2133806.2133826"
     },
     {
@@ -7374,7 +7374,7 @@
       "doi": "temp3174"
     },
     {
-      "venue": "2009 13th international conference information visualisation",
+      "venue": "IV",
       "doi": "10.1109/IV.2009.74"
     },
     {
@@ -7418,7 +7418,7 @@
       "doi": "10.1109/TVCG.2012.212"
     },
     {
-      "venue": "software engineering ieee transactions on",
+      "venue": "ieee software",
       "doi": "10.1109/32.221135"
     }
   ],
@@ -7691,7 +7691,7 @@
       "doi": "10.1057/palgrave.ivs.9500013"
     },
     {
-      "venue": "information sciences",
+      "venue": "informationsciences",
       "doi": "10.1016/j.ins.2015.05.028"
     },
     {
@@ -7722,7 +7722,7 @@
       "doi": "10.1145/3020165.3020174"
     },
     {
-      "venue": "commun. acm",
+      "venue": "comacm",
       "doi": "10.1145/1121949.1121979"
     },
     {
@@ -7917,7 +7917,7 @@
       "doi": "10.1016/j.ijhcs.2013.08.004"
     },
     {
-      "venue": "information sciences",
+      "venue": "informationsciences",
       "doi": "10.1016/j.ins.2015.04.017"
     },
     {
@@ -7945,7 +7945,7 @@
       "doi": "temp3657"
     },
     {
-      "venue": "proceedings of the 3rd ieee working conference on software visualization",
+      "venue": "ieee software",
       "doi": "temp3658"
     },
     {
@@ -7961,7 +7961,7 @@
       "doi": "10.5555/647554.729718"
     },
     {
-      "venue": "proceedings of the 2001 joint eurographics and ieee tcvg symposium on visualization",
+      "venue": "ieee software",
       "doi": "10.5555/2384110.2384134"
     },
     {
@@ -7973,7 +7973,7 @@
       "doi": "10.1111/j.1432-1033.1970.tb01046.x"
     },
     {
-      "venue": "proceedings of 13th international workshop on program comprehension",
+      "venue": "WPC",
       "doi": "10.1109/WPC.2005.18"
     },
     {
@@ -8011,7 +8011,7 @@
       "doi": "10.1109/TVCG.2013.184"
     },
     {
-      "venue": "comp. graph. forum",
+      "venue": "CGF",
       "doi": "10.1111/cgf.12722"
     },
     {
@@ -8035,11 +8035,11 @@
       "doi": "temp3680"
     },
     {
-      "venue": "comp. graph. forum",
+      "venue": "CGF",
       "doi": "10.5555/3071534.3071543"
     },
     {
-      "venue": "comp. graph. forum",
+      "venue": "CGF",
       "doi": "10.1111/j.1467-8659.2012.03080.x"
     },
     {
@@ -8103,7 +8103,7 @@
       "doi": "temp3699"
     },
     {
-      "venue": "comp. graph. forum",
+      "venue": "CGF",
       "doi": "10.1111/cgf.12093"
     }
   ],
@@ -8207,7 +8207,7 @@
       "doi": "temp3740"
     },
     {
-      "venue": "visual analytics science and technology, 2006 ieee symposium on",
+      "venue": "ieee software",
       "doi": "temp3741"
     },
     {
@@ -8215,7 +8215,7 @@
       "doi": "10.1145/1029208.1029232"
     },
     {
-      "venue": "information assurance workshop, 2005. iaw'05. proceedings from the sixth annual ieee smc",
+      "venue": "ieee software",
       "doi": "temp3743"
     },
     {
@@ -8223,7 +8223,7 @@
       "doi": "10.1109/TVCG.2011.144"
     },
     {
-      "venue": "science china information sciences",
+      "venue": "informationsciences",
       "doi": "temp3746"
     }
   ],
@@ -8359,7 +8359,7 @@
       "doi": "10.1016/0010-0285%2880%2990005-"
     },
     {
-      "venue": "proceedings of the ieee international conference on acoustics, speech and signal processing, 2008 (icassp 2008",
+      "venue": "ieee software",
       "doi": "temp3783"
     },
     {
@@ -8457,7 +8457,7 @@
       "doi": "10.1111/j.1467-8659.2009.01694.x"
     },
     {
-      "venue": "science china information sciences",
+      "venue": "informationsciences",
       "doi": "temp3821"
     },
     {
@@ -8563,7 +8563,7 @@
       "doi": "temp3851"
     },
     {
-      "venue": "comput. graph. forum",
+      "venue": "CGF",
       "doi": "10.1111/j.1467-8659.2008.01332.x"
     },
     {
@@ -8583,7 +8583,7 @@
       "doi": "10.1145/1230100.1230105"
     },
     {
-      "venue": "comput. graph. forum",
+      "venue": "CGF",
       "doi": "10.1111/j.1467-8659.2012.03081.x"
     },
     {
@@ -8727,7 +8727,7 @@
       "doi": "10.1145/2470654.2466142"
     },
     {
-      "venue": "information sciences",
+      "venue": "informationsciences",
       "doi": "10.1016/j.ins.2012.05.010"
     },
     {
@@ -8989,7 +8989,7 @@
       "doi": "10.1002/jhbs.20078"
     },
     {
-      "venue": "leonardo",
+      "venue": "Leonardo",
       "doi": "temp3984"
     },
     {
@@ -9237,7 +9237,7 @@
       "doi": "10.1145/2636240.2636842"
     },
     {
-      "venue": "proceedings of 2014 ieee international congress on big data",
+      "venue": "ieee software",
       "doi": "temp4077"
     },
     {
@@ -9397,7 +9397,7 @@
       "doi": "10.1109/MCG.2007.123"
     },
     {
-      "venue": "2014 ieee/acis 13th international conference on computer and information science (icis",
+      "venue": "ieee software",
       "doi": "temp4141"
     },
     {
@@ -9409,7 +9409,7 @@
       "doi": "temp4143"
     },
     {
-      "venue": "leonardo",
+      "venue": "Leonardo",
       "doi": "temp4144"
     },
     {
@@ -9425,7 +9425,7 @@
       "doi": "10.1109/MCG.2007.58"
     },
     {
-      "venue": "leonardo",
+      "venue": "Leonardo",
       "doi": "temp4149"
     },
     {
@@ -9443,7 +9443,7 @@
       "doi": "10.1145/1963192.1963254"
     },
     {
-      "venue": "ieee transactions on visualization & computer graphics",
+      "venue": "TVCG",
       "doi": "temp4155"
     },
     {
@@ -9618,7 +9618,7 @@
   "10.1145/2968220.2968249": [],
   "10.1145/2801040.2801054": [
     {
-      "venue": "proceedings of the 2010 ieee/wic/acm international conference on web intelligence and intelligent agent technology",
+      "venue": "ieee software",
       "doi": "10.1109/WI-IAT.2010.63"
     },
     {
@@ -9818,7 +9818,7 @@
       "doi": "10.1145/1031607.1031622"
     },
     {
-      "venue": "ieee transactions on software engineering",
+      "venue": "tse",
       "doi": "10.1109/32.177365"
     },
     {
@@ -9862,7 +9862,7 @@
       "doi": "temp4294"
     },
     {
-      "venue": "proceedings of ieee vgtc pacific visualization symposium",
+      "venue": "ieee software",
       "doi": "temp4295"
     },
     {
@@ -10540,7 +10540,7 @@
       "doi": "temp4504"
     },
     {
-      "venue": "leonardo",
+      "venue": "Leonardo",
       "doi": "temp4506"
     },
     {
@@ -10586,7 +10586,7 @@
       "doi": "10.1145/266180.266328"
     },
     {
-      "venue": "proceedings of the ieee",
+      "venue": "ieee software",
       "doi": "temp4527"
     },
     {
@@ -10614,7 +10614,7 @@
       "doi": "temp4537"
     },
     {
-      "venue": "proceedings of the 11th ieee international symposium on wearable computers, iswc '07",
+      "venue": "ieee software",
       "doi": "10.1109/ISWC.2007.4373785"
     },
     {
@@ -10682,7 +10682,7 @@
       "doi": "10.5555/1864098.1864113"
     },
     {
-      "venue": "the ieee journal of pervasive computing",
+      "venue": "ieee software",
       "doi": "10.1109/MPRV.2003.1186727"
     },
     {
@@ -10696,7 +10696,7 @@
   ],
   "10.1145/2801040.2801052": [
     {
-      "venue": "military communications conference, 2003. milcom'03. 2003 ieee",
+      "venue": "ieee software",
       "doi": "10.5555/1950654.1950680"
     },
     {
@@ -10704,7 +10704,7 @@
       "doi": "10.1109/VAST.2012.6400527"
     },
     {
-      "venue": "technologies for homeland security (hst), 2013 ieee international conference on",
+      "venue": "ieee software",
       "doi": "temp4571"
     },
     {
@@ -10990,7 +10990,7 @@
       "doi": "10.5555/1182620.1182622"
     },
     {
-      "venue": "proceedings of ieee international conference on data mining workshop (icdmw",
+      "venue": "ieee software",
       "doi": "temp4657"
     },
     {
@@ -11248,7 +11248,7 @@
       "doi": "temp4740"
     },
     {
-      "venue": "comput. graph. forum",
+      "venue": "CGF",
       "doi": "10.5555/2854210.2854237"
     },
     {
@@ -11294,7 +11294,7 @@
       "doi": "10.1111/j.0020-2754.1998.00269.x"
     },
     {
-      "venue": "proceedings of the joint eurographics and ieee tcvg symposium on visualization",
+      "venue": "ieee software",
       "doi": "temp4757"
     },
     {
@@ -11318,7 +11318,7 @@
       "doi": "10.1145/223904.223956"
     },
     {
-      "venue": "comp. graph. forum",
+      "venue": "CGF",
       "doi": "10.1111/j.1467-8659.2012.03078.x"
     },
     {
@@ -11356,7 +11356,7 @@
   ],
   "10.1145/2801040.2801064": [
     {
-      "venue": "information sciences",
+      "venue": "informationsciences",
       "doi": "10.1016/j.ins.2013.09.048"
     },
     {
@@ -11372,7 +11372,7 @@
       "doi": "temp4779"
     },
     {
-      "venue": "information sciences",
+      "venue": "informationsciences",
       "doi": "10.1016/j.ins.2011.06.005"
     },
     {
@@ -11743,7 +11743,7 @@
       "doi": "10.1109/INFOVIS.2005.22"
     },
     {
-      "venue": "proc. of ieee biovis 2011",
+      "venue": "ieee software",
       "doi": "10.1109/BioVis.2011.6094056"
     },
     {
@@ -11957,7 +11957,7 @@
       "doi": "10.1145/311535.311567"
     },
     {
-      "venue": "proc. 10th ieee international conference on data mining",
+      "venue": "ieee software",
       "doi": "10.1109/ICDM.2010.80"
     },
     {
@@ -12107,7 +12107,7 @@
       "doi": "10.1111/j.1467-8659.2008.01231.x"
     },
     {
-      "venue": "proc. of ieee pacific visualization symp",
+      "venue": "ieee software",
       "doi": "10.1109/PacificVis.2012.6183570"
     },
     {
@@ -12115,7 +12115,7 @@
       "doi": "temp5019"
     },
     {
-      "venue": "proc. of ieee congress on evolutionary computation",
+      "venue": "ieee software",
       "doi": "10.5555/1251972.1252462"
     },
     {
@@ -12145,7 +12145,7 @@
   ],
   "10.1145/2636240.2636843": [
     {
-      "venue": "ieee transactions on software engineering",
+      "venue": "tse",
       "doi": "10.1109/TSE.2009.67"
     },
     {
@@ -12423,7 +12423,7 @@
       "doi": "10.1016/j.jvlc.2009.11.002"
     },
     {
-      "venue": "ieee transactions on software engineering",
+      "venue": "tse",
       "doi": "10.1109/32.60298"
     },
     {
@@ -12541,7 +12541,7 @@
       "doi": "temp5151"
     },
     {
-      "venue": "science china information sciences",
+      "venue": "informationsciences",
       "doi": "temp5152"
     },
     {
@@ -12587,7 +12587,7 @@
       "doi": "10.1145/2049536.2049614"
     },
     {
-      "venue": "proc. ninth ieee international symposium on wearable computers",
+      "venue": "ieee software",
       "doi": "10.1109/ISWC.2005.49"
     },
     {
@@ -12633,7 +12633,7 @@
       "doi": "10.1109/MC.2006.109"
     },
     {
-      "venue": "proc. 2007 ieee int'l symp. consumer electronics",
+      "venue": "ieee software",
       "doi": "temp5179"
     },
     {
@@ -12673,7 +12673,7 @@
       "doi": "10.1145/1316624.1316646"
     },
     {
-      "venue": "ieee transactions on software engineering",
+      "venue": "tse",
       "doi": "10.1109/TSE.2011.64"
     },
     {
@@ -12733,7 +12733,7 @@
       "doi": "temp5223"
     },
     {
-      "venue": "proceedings of annual ieee ipcc conference",
+      "venue": "ieee software",
       "doi": "temp5224"
     },
     {
@@ -12753,7 +12753,7 @@
       "doi": "10.1145/1517664.1517699"
     },
     {
-      "venue": "proceedings of ieee congress on evolutionary computation",
+      "venue": "ieee software",
       "doi": "temp5235"
     },
     {
@@ -13767,7 +13767,7 @@
       "doi": "10.1109/TMC.2006.152"
     },
     {
-      "venue": "ieee transactions on software engineering",
+      "venue": "tse",
       "doi": "10.1109/TSE.2011.64"
     },
     {
@@ -14111,7 +14111,7 @@
       "doi": "10.1109/2.488299"
     },
     {
-      "venue": "ieee transactions on software engineering",
+      "venue": "tse",
       "doi": "10.1109/32.177365"
     },
     {
@@ -14237,7 +14237,7 @@
       "doi": "10.1109/TVCG.2007.70415"
     },
     {
-      "venue": "proceedings of the 2009 13th international conference information visualisation",
+      "venue": "IV",
       "doi": "10.1109/IV.2009.29"
     },
     {
@@ -14265,7 +14265,7 @@
       "doi": "10.5555/2384179.2384183"
     },
     {
-      "venue": "proceedings of the 13th international conference information visualisation",
+      "venue": "IV",
       "doi": "10.1109/IV.2009.23"
     },
     {
@@ -14277,7 +14277,7 @@
       "doi": "10.5555/1082315.1082329"
     },
     {
-      "venue": "proceedings of the 2009 13th international conference information visualisation",
+      "venue": "IV",
       "doi": "10.1109/IV.2009.52"
     },
     {
@@ -14385,7 +14385,7 @@
       "doi": "10.5555/1143079.1143089"
     },
     {
-      "venue": "journal of software",
+      "venue": "jos",
       "doi": "temp6394"
     },
     {
@@ -14673,19 +14673,19 @@
       "doi": "10.5555/1351542.1351675"
     },
     {
-      "venue": "12th international conference information visualisation",
+      "venue": "IV",
       "doi": "10.1109/IV.2008.104"
     },
     {
-      "venue": "12th international conference information visualisation",
+      "venue": "IV",
       "doi": "10.1109/IV.2008.97"
     },
     {
-      "venue": "12th international conference information visualisation",
+      "venue": "IV",
       "doi": "10.1109/IV.2008.70"
     },
     {
-      "venue": "12th international conference information visualisation",
+      "venue": "IV",
       "doi": "10.1109/IV.2008.61"
     },
     {
@@ -14693,11 +14693,11 @@
       "doi": "10.1109/IV.2008.80"
     },
     {
-      "venue": "12th international conference information visualisation",
+      "venue": "IV",
       "doi": "10.1109/IV.2008.51"
     },
     {
-      "venue": "12th international conference information visualisation",
+      "venue": "IV",
       "doi": "10.1109/IV.2008.88"
     },
     {
@@ -14717,11 +14717,11 @@
       "doi": "10.5555/857190.857691"
     },
     {
-      "venue": "journal of software",
+      "venue": "jos",
       "doi": "temp6537"
     },
     {
-      "venue": "journal of software",
+      "venue": "jos",
       "doi": "temp6538"
     },
     {
@@ -14937,7 +14937,7 @@
       "doi": "10.1145/1242572.1242826"
     },
     {
-      "venue": "international conference on multidisciplinary information sciences and technologies",
+      "venue": "informationsciences",
       "doi": "temp6610"
     },
     {
@@ -15047,11 +15047,11 @@
       "doi": "10.1145/1506250.1506260"
     },
     {
-      "venue": "communications of acm",
+      "venue": "comacm",
       "doi": "10.1145/1400181.1400187"
     },
     {
-      "venue": "communications of acm",
+      "venue": "comacm",
       "doi": "10.1145/1230819.1241670"
     },
     {
@@ -15071,7 +15071,7 @@
       "doi": "temp6649"
     },
     {
-      "venue": "proceedings of 2005 ieee/wic/acm international conference on web intelligence",
+      "venue": "ieee software",
       "doi": "10.1109/WI.2005.157"
     },
     {
@@ -15093,7 +15093,7 @@
       "doi": "10.1109/TVCG.2007.70415"
     },
     {
-      "venue": "proceedings of the 2009 13th international conference information visualisation",
+      "venue": "IV",
       "doi": "10.1109/IV.2009.29"
     },
     {
@@ -15113,7 +15113,7 @@
       "doi": "10.1109/2945.981848"
     },
     {
-      "venue": "proceedings of the 13th international conference information visualisation",
+      "venue": "IV",
       "doi": "10.1109/IV.2009.23"
     },
     {
@@ -15133,7 +15133,7 @@
       "doi": "temp6666"
     },
     {
-      "venue": "data mining and knowledge discovery",
+      "venue": "dmkd",
       "doi": "10.1023/A%3A1009745219419"
     },
     {
@@ -15207,7 +15207,7 @@
       "doi": "10.1109/2.989927"
     },
     {
-      "venue": "commun. acm",
+      "venue": "comacm",
       "doi": "10.1145/792704.792729"
     },
     {
@@ -15313,7 +15313,7 @@
       "doi": "10.1007/978-3-642-12654-3_8"
     },
     {
-      "venue": "journal of software",
+      "venue": "jos",
       "doi": "temp6737"
     },
     {
@@ -15333,7 +15333,7 @@
       "doi": "10.5555/1778528.1778544"
     },
     {
-      "venue": "international archives of photogrammetry remote sensing and spatial information sciences",
+      "venue": "informationsciences",
       "doi": "temp6750"
     },
     {
@@ -15483,7 +15483,7 @@
       "doi": "temp09_37"
     },
     {
-      "venue": "proceedings of the 12th international conference information visualisation",
+      "venue": "IV",
       "doi": "temp09_38"
     },
     {
@@ -15503,7 +15503,7 @@
       "doi": "temp09_42"
     },
     {
-      "venue": "information sciences",
+      "venue": "informationsciences",
       "doi": "temp09_45"
     },
     {
@@ -15515,7 +15515,7 @@
       "doi": "temp09_49"
     },
     {
-      "venue": "proceedings ieee international conference on e-business engineering",
+      "venue": "ieee software",
       "doi": "temp09_50"
     },
     {
@@ -15555,7 +15555,7 @@
       "doi": "temp09_60"
     },
     {
-      "venue": "communications of acm",
+      "venue": "comacm",
       "doi": "temp09_61"
     },
     {
@@ -15701,7 +15701,7 @@
       "doi": "temp09_114"
     },
     {
-      "venue": "proceedings of the 1993 ieee/acm international conference on computer-aided design (iccad ’93",
+      "venue": "ieee software",
       "doi": "temp09_116"
     },
     {
@@ -15781,7 +15781,7 @@
       "doi": "temp09_136"
     },
     {
-      "venue": "in proceedings ieee symposium on visual analytics science and technology 2006",
+      "venue": "ieee software",
       "doi": "temp09_137"
     },
     {
@@ -15823,7 +15823,7 @@
       "doi": "temp09_156"
     },
     {
-      "venue": "data mining and knowledge discovery",
+      "venue": "dmkd",
       "doi": "temp09_158"
     }
   ],
@@ -15837,7 +15837,7 @@
       "doi": "temp09_163"
     },
     {
-      "venue": "18th ieee international symposium on human-centric computing languages and environments",
+      "venue": "ieee software",
       "doi": "temp09_164"
     },
     {
@@ -15861,7 +15861,7 @@
       "doi": "temp09_169"
     },
     {
-      "venue": "journal of software",
+      "venue": "jos",
       "doi": "temp09_170"
     },
     {
@@ -15913,7 +15913,7 @@
       "doi": "temp09_190"
     },
     {
-      "venue": "communications of acm",
+      "venue": "comacm",
       "doi": "temp09_192"
     },
     {
@@ -15933,7 +15933,7 @@
       "doi": "temp09_198"
     },
     {
-      "venue": "third ieee international conference on digital ecosystems and technologies (dest 2009), ieee",
+      "venue": "ieee software",
       "doi": "temp09_199"
     },
     {
@@ -16145,7 +16145,7 @@
       "doi": "temp09_278"
     },
     {
-      "venue": "proceedings of ieee workshop visual languages",
+      "venue": "ieee software",
       "doi": "temp09_279"
     },
     {
@@ -16161,7 +16161,7 @@
       "doi": "temp09_282"
     },
     {
-      "venue": "ieee transactions on software engineering",
+      "venue": "tse",
       "doi": "temp09_283"
     },
     {
@@ -16265,7 +16265,7 @@
       "doi": "temp09_312"
     },
     {
-      "venue": "journal of software",
+      "venue": "jos",
       "doi": "temp09_313"
     },
     {
@@ -16315,7 +16315,7 @@
       "doi": "temp09_336"
     },
     {
-      "venue": "journal of software",
+      "venue": "jos",
       "doi": "temp09_337"
     },
     {
@@ -16342,7 +16342,7 @@
       "doi": "temp09_350"
     },
     {
-      "venue": "tutorial notes of the ieee int. conference on visualization. ieee cs",
+      "venue": "ieee software",
       "doi": "temp09_352"
     },
     {
@@ -16414,7 +16414,7 @@
   ],
   "10.1007/978-1-4419-0312-9_19": [
     {
-      "venue": "proc. of the 12th international workshop on program comprehension",
+      "venue": "WPC",
       "doi": "temp09_382"
     },
     {
@@ -16430,7 +16430,7 @@
       "doi": "temp09_385"
     },
     {
-      "venue": "journal of software maintenance and evolution: research and practice",
+      "venue": "jos",
       "doi": "temp09_386"
     },
     {
@@ -16534,7 +16534,7 @@
       "doi": "temp09_418"
     },
     {
-      "venue": "proc. of the 2nd ieee and acm international workshop on augmented reality",
+      "venue": "ieee software",
       "doi": "temp09_420"
     },
     {
@@ -16842,7 +16842,7 @@
       "doi": "temp09_521"
     },
     {
-      "venue": "proc. of the 2nd ieee in-ternational augmented reality toolkit workshop",
+      "venue": "ieee software",
       "doi": "temp09_523"
     },
     {
@@ -16942,7 +16942,7 @@
       "doi": "temp09_557"
     },
     {
-      "venue": "proc. first ieee workshop on augmented reality (iwar’98), san francisco",
+      "venue": "ieee software",
       "doi": "temp09_558"
     },
     {
@@ -17162,7 +17162,7 @@
       "doi": "temp09_637"
     },
     {
-      "venue": "proc. the international archives of the photogrammetry, remote sensing and spatial information sciences",
+      "venue": "informationsciences",
       "doi": "temp09_638"
     },
     {
@@ -17306,7 +17306,7 @@
       "doi": "temp09_682"
     },
     {
-      "venue": "proc. of ieee virtual reality",
+      "venue": "ieee software",
       "doi": "temp09_683"
     },
     {
@@ -17334,7 +17334,7 @@
       "doi": "temp09_692"
     },
     {
-      "venue": "proc. of the first ieee international augmented reality toolkit workshop",
+      "venue": "ieee software",
       "doi": "temp09_693"
     },
     {
@@ -17386,7 +17386,7 @@
       "doi": "temp09_708"
     },
     {
-      "venue": "proc. of the 2008 eighth ieee international conference on advanced learning",
+      "venue": "ieee software",
       "doi": "temp09_711"
     },
     {
@@ -17454,7 +17454,7 @@
       "doi": "temp09_740"
     },
     {
-      "venue": "proc. of the ieee symposium on computational intelligence and games",
+      "venue": "ieee software",
       "doi": "temp09_742"
     },
     {
@@ -17564,7 +17564,7 @@
       "doi": "temp09_778"
     },
     {
-      "venue": "in:proceedings of the ieee symposium on parallel visualization and graphics",
+      "venue": "ieee software",
       "doi": "temp09_780"
     },
     {

@@ -5834,7 +5834,7 @@
     "venue": "Journal of Visual Languages and Computing",
     "location": "",
     "note": "",
-    "publisher": "",
+    "publisher": "elsevier",
     "volume": "14, 6",
     "pages": "503–541"
   },
@@ -8023,7 +8023,7 @@
     "venue": "Journal of Machine Learning Research",
     "location": "",
     "note": "",
-    "publisher": "",
+    "publisher": "Microtome Publishing",
     "volume": "3",
     "pages": "993–1022"
   },
@@ -8124,7 +8124,7 @@
     "venue": "Journal of Graph Algorithms and Applications",
     "location": "",
     "note": "",
-    "publisher": "",
+    "publisher": "brown university",
     "volume": "4",
     "pages": "515–540"
   },
@@ -11589,7 +11589,7 @@
     "venue": "ICRA ’09. IEEE",
     "location": "",
     "note": "",
-    "publisher": "",
+    "publisher": "ieee",
     "volume": "",
     "pages": "1461–1466"
   },
@@ -11805,7 +11805,7 @@
     "venue": "SUI ’16. ACM",
     "location": "",
     "note": "",
-    "publisher": "",
+    "publisher": "acm",
     "volume": "",
     "pages": "43–46"
   },
@@ -12576,7 +12576,7 @@
     "venue": "Proc. Computer Graphics and Visual Computing (CGVC",
     "location": "",
     "note": "",
-    "publisher": "",
+    "publisher": "The Eurographics Association",
     "volume": "",
     "pages": "69–76"
   },
@@ -13181,7 +13181,7 @@
     "venue": "International journal of computer vision",
     "location": "",
     "note": "",
-    "publisher": "",
+    "publisher": "springer",
     "volume": "111, 1",
     "pages": "98–136"
   },
@@ -13645,7 +13645,7 @@
     "venue": "Communications of the ACM",
     "location": "",
     "note": "DOI:",
-    "publisher": "",
+    "publisher": "acm",
     "volume": "44, 8",
     "pages": "31–37"
   },
@@ -16273,7 +16273,7 @@
     "venue": "23rd International Conference Information Visualisation (IV2019",
     "location": "",
     "note": "",
-    "publisher": "",
+    "publisher": "ieee",
     "volume": "",
     "pages": "19–24,"
   },
@@ -16423,7 +16423,7 @@
     "venue": "Proceedings of the Twelfth European Conference on Computer Systems, EuroSys 2017",
     "location": "Belgrade, Serbia",
     "note": "",
-    "publisher": "",
+    "publisher": "acm",
     "volume": "",
     "pages": "298–313"
   },
@@ -16513,7 +16513,7 @@
     "venue": "Proceedings of the 40th International Conference on Software Engineering: Companion Proceeedings, ICSE 2018",
     "location": "Gothenburg, Sweden",
     "note": "",
-    "publisher": "",
+    "publisher": "acm",
     "volume": "",
     "pages": "41–44"
   },
@@ -16638,7 +16638,7 @@
     "venue": "Proceedings of the 13th International Conference on Architectural Support for Programming Languages and Operating Systems, ASPLOS 2008",
     "location": "Seattle, WA, USA",
     "note": "",
-    "publisher": "",
+    "publisher": "acm",
     "volume": "",
     "pages": "329–339"
   },
@@ -17257,7 +17257,7 @@
     "venue": "ACM Transactions on Information Systems (TOIS",
     "location": "",
     "note": "",
-    "publisher": "",
+    "publisher": "acm",
     "volume": "26, 4, Article 21",
     "pages": "36"
   },
@@ -18777,7 +18777,7 @@
     ],
     "location": "",
     "note": "",
-    "publisher": "",
+    "publisher": "acm",
     "volume": "31",
     "pages": "1–2"
   },
@@ -19845,7 +19845,7 @@
     "venue": "Proceedings of the fourth ACM international conference on Web search and data mining",
     "location": "",
     "note": "",
-    "publisher": "",
+    "publisher": "acm",
     "volume": "",
     "pages": "815–824"
   },
@@ -41892,7 +41892,7 @@
     "venue": "Proc. ACM APGV",
     "location": "",
     "note": "",
-    "publisher": "",
+    "publisher": "acm",
     "volume": "",
     "pages": "164–164"
   },
@@ -42033,7 +42033,7 @@
     "venue": "Proc. WPC",
     "location": "",
     "note": "",
-    "publisher": "",
+    "publisher": "ieee",
     "volume": "",
     "pages": "4–11"
   },
@@ -42317,7 +42317,7 @@
     "venue": "Proc. CRIWG",
     "location": "",
     "note": "",
-    "publisher": "",
+    "publisher": "ieee",
     "volume": "",
     "pages": "106–114"
   },
@@ -48865,7 +48865,7 @@
     "venue": "ACM Computing Surveys",
     "location": "",
     "note": "",
-    "publisher": "",
+    "publisher": "acm",
     "volume": "23",
     "pages": "345–405,"
   },
@@ -49118,7 +49118,7 @@
     "venue": "2017 International Conference on Advanced Technologies for Signal and Image Processing (ATSIP",
     "location": "",
     "note": "",
-    "publisher": "",
+    "publisher": "ieee",
     "volume": "",
     "pages": "1–5"
   },
@@ -49249,7 +49249,7 @@
     "venue": "Journal of Computer Languages",
     "location": "",
     "note": "",
-    "publisher": "",
+    "publisher": "elsevier",
     "volume": "51",
     "pages": "241–260"
   },
@@ -50021,7 +50021,7 @@
     "venue": "IEEE Transactions On Pattern Analysis And Machine Intelligence",
     "location": "",
     "note": "",
-    "publisher": "",
+    "publisher": "ieee",
     "volume": "39",
     "pages": "1137–1149"
   },
@@ -53338,7 +53338,7 @@
     "venue": "Environment and Planning B: Planning and Design",
     "location": "",
     "note": "",
-    "publisher": "",
+    "publisher": "Sage Publications",
     "volume": "25, 2",
     "pages": "205–226"
   },
@@ -53556,7 +53556,7 @@
     "venue": "Leonardo",
     "location": "",
     "note": "",
-    "publisher": "",
+    "publisher": "mit press direct",
     "volume": "50, 2",
     "pages": "177–181"
   },
@@ -53638,7 +53638,7 @@
     "venue": "Information Sciences",
     "location": "",
     "note": "",
-    "publisher": "",
+    "publisher": "springer",
     "volume": "328",
     "pages": "528–545"
   },
@@ -54401,7 +54401,7 @@
     "venue": "Proc. IEEE ISVD",
     "location": "",
     "note": "",
-    "publisher": "",
+    "publisher": "ieee",
     "volume": "",
     "pages": "85–94"
   },
@@ -55387,7 +55387,7 @@
     "venue": "Science",
     "location": "",
     "note": "",
-    "publisher": "",
+    "publisher": "Science.org",
     "volume": "175",
     "pages": [
       "23",
@@ -57710,7 +57710,7 @@
     "venue": "ACM Transactions on Intelligent Systems and Technology",
     "location": "",
     "note": "",
-    "publisher": "",
+    "publisher": "acm",
     "volume": "3, 2, Article 25",
     "pages": "28"
   },
@@ -60337,7 +60337,7 @@
     "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
     "location": "",
     "note": "",
-    "publisher": "",
+    "publisher": "ieee",
     "volume": "15",
     "pages": ""
   },
@@ -62669,7 +62669,7 @@
     "venue": "Proc.CSCW 2013, ACM Press(2013",
     "location": "",
     "note": "",
-    "publisher": "",
+    "publisher": "acm",
     "volume": "",
     "pages": "955–966"
   },
@@ -64884,7 +64884,7 @@
     "venue": "Information Sciences",
     "location": "",
     "note": "",
-    "publisher": "",
+    "publisher": "elsevier",
     "volume": "330",
     "pages": "444–454"
   },
@@ -69438,7 +69438,7 @@
     "venue": "Proceedings of 13th International Workshop on Program Comprehension",
     "location": "",
     "note": "",
-    "publisher": "",
+    "publisher": "ieee",
     "volume": "",
     "pages": "205–214,"
   },
@@ -69566,7 +69566,7 @@
     "venue": "Proceedings of 21st IEEE/ACM International Conference on Automated Software Engineering",
     "location": "",
     "note": "",
-    "publisher": "",
+    "publisher": "acm",
     "volume": "",
     "pages": "231–240,"
   },
@@ -70444,7 +70444,7 @@
     "venue": "International journal of human-computer studies",
     "location": "",
     "note": "",
-    "publisher": "",
+    "publisher": "elsevier",
     "volume": "60",
     "pages": ""
   },
@@ -74216,7 +74216,7 @@
     "venue": "Journal of experimental psychology. Applied",
     "location": "",
     "note": "",
-    "publisher": "",
+    "publisher": "American Psychological Association",
     "volume": "13, 4",
     "pages": "224–248"
   },
@@ -74290,7 +74290,7 @@
     "venue": "ACM Transactions Computer-Human Interaction",
     "location": "",
     "note": "",
-    "publisher": "",
+    "publisher": "acm",
     "volume": "13, 1",
     "pages": "37–70"
   },
@@ -74645,7 +74645,7 @@
     "venue": "Journal of Consumer Research",
     "location": "",
     "note": "",
-    "publisher": "",
+    "publisher": "oxford academic",
     "volume": "31",
     "pages": "390–401"
   },
@@ -78623,7 +78623,7 @@
     "venue": "NeuroImage",
     "location": "",
     "note": "",
-    "publisher": "",
+    "publisher": "elsevier",
     "volume": "59",
     "pages": "808–814"
   },
@@ -80161,7 +80161,7 @@
     "venue": "Proceedings of the 20th ACM International Conference on Information and Knowledge Management",
     "location": "",
     "note": "",
-    "publisher": "",
+    "publisher": "acm",
     "volume": "",
     "pages": "2541–2544,"
   },
@@ -85159,7 +85159,7 @@
     "venue": "Proceedings of 1997 IEEE International Conference on Robotics and Automation",
     "location": "",
     "note": "",
-    "publisher": "",
+    "publisher": "ieee",
     "volume": "2",
     "pages": "1329–1334"
   },
@@ -93068,7 +93068,7 @@
     "venue": "Proc. 21st Annual ACM-SIAM Symposium on Discrete Algorithms",
     "location": "",
     "note": "",
-    "publisher": "",
+    "publisher": "acm",
     "volume": "",
     "pages": "293–311"
   },
@@ -95665,7 +95665,7 @@
     "venue": "IEEE Transactions on Software Engineering",
     "location": "",
     "note": "",
-    "publisher": "",
+    "publisher": "ieee",
     "volume": "16",
     "pages": ""
   },
@@ -97482,7 +97482,7 @@
     "venue": "CIKM",
     "location": "",
     "note": "",
-    "publisher": "",
+    "publisher": "acm",
     "volume": "",
     "pages": "275–284,"
   },
@@ -100680,7 +100680,7 @@
     "venue": "Journal of Computational and Graphical Statistics",
     "location": "",
     "note": "",
-    "publisher": "",
+    "publisher": "American Statistical Association",
     "volume": "22",
     "pages": ""
   },
@@ -112568,7 +112568,7 @@
     "venue": "Journal of The American Society For Information Science",
     "location": "",
     "note": "",
-    "publisher": "",
+    "publisher": "ASIS&T",
     "volume": "48",
     "pages": "40–54,"
   },
@@ -123033,7 +123033,7 @@
     "venue": "Proceedings of ACM International World Wide Web Conference",
     "location": "",
     "note": "",
-    "publisher": "",
+    "publisher": "acm",
     "volume": "",
     "pages": "1067–1068"
   },
@@ -127500,7 +127500,7 @@
     "url": "",
     "date": "2006",
     "venue": "ACM Transactions on Computer-Human Interaction",
-    "publisher": "",
+    "publisher": "acm",
     "id": "",
     "doi": "temp09_166",
     "authors": [
@@ -129061,7 +129061,7 @@
     "url": "",
     "date": "2006",
     "venue": "ACM Transactions on Computer-Human Interaction(TOCHI",
-    "publisher": "",
+    "publisher": "acm",
     "id": "",
     "doi": "temp09_276",
     "authors": [
@@ -130557,7 +130557,7 @@
     "url": "",
     "date": "2004",
     "venue": "Proc. of the 12th International Workshop on Program Comprehension",
-    "publisher": "IEEE CS Press",
+    "publisher": "IEEE",
     "id": "",
     "doi": "temp09_382",
     "authors": [
@@ -130759,7 +130759,7 @@
     "url": "",
     "date": "1999",
     "venue": "ACM SIGCOMM Computer Communication Review",
-    "publisher": "",
+    "publisher": "acm",
     "id": "",
     "doi": "temp09_396",
     "authors": [
@@ -132750,7 +132750,7 @@
     "url": "",
     "date": "2004",
     "venue": "Proc. 2004 IEEE International Conference on Robotics and Automation, Piscataway, United States",
-    "publisher": "",
+    "publisher": "IEEE",
     "id": "",
     "doi": "temp09_539",
     "authors": [
