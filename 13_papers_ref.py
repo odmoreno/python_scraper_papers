@@ -65,6 +65,15 @@ class refs:
         new_ref_per_paper = new_ref_per_paper | self.ref_per_paper_2009
         self.temp = self.temp | self.refs_2009
 
+        for key in self.temp:
+            paper = self.temp[key]
+            venue = self.checkifhaslist(paper['venue'])
+            self.temp[key]['venue'] = venue
+            url = self.checkifhaslist(paper['url'])
+            self.temp[key]['url'] = url
+            publisher = self.checkifhaslist(paper['publisher'])
+            self.temp[key]['publisher'] = publisher
+
         save_generic('references/paper_refs.json', self.temp)
         save_generic('references/ref_per_paper.json', new_ref_per_paper)
 
@@ -123,24 +132,13 @@ class refs:
         for key in self.temp:
             paper = self.temp[key]
             type_paper = paper['type']
-
-            venue = self.checkifhaslist(paper['venue'])
-            self.temp[key]['venue'] = venue
-            url = self.checkifhaslist(paper['url'])
-            self.temp[key]['url'] = url
-            publisher = self.checkifhaslist(paper['publisher'])
-            self.temp[key]['publisher'] = publisher
+            venue = paper['venue']
+            url = paper['url']
+            publisher = paper['publisher']
 
             all_refs[paper['doi']] = self.temp[key]
             if type_paper == 'article-journal' or (type_paper == 'paper-conference'):
                 print(type_paper)
-                venue = self.checkifhaslist(paper['venue'])
-                self.temp[key]['venue'] = venue
-                url = self.checkifhaslist(paper['url'])
-                self.temp[key]['url'] = url
-                publisher = self.checkifhaslist(paper['publisher'])
-                self.temp[key]['publisher'] = publisher
-
                 # Buscar coincidencias entre la cadena del atributo "venue" y los patrones de búsqueda
                 for conference, pattern in patterns.items():
                     if re.search(pattern, venue):
