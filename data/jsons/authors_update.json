@@ -87,18 +87,6 @@
     "id": "a09_8",
     "url": ""
   },
-  "99660626111": {
-    "name": "Kang Zhang",
-    "url": "https://dl.acm.org/profile/99660626111",
-    "id": "99660626111",
-    "institution": [
-      {
-        "id": "60008592",
-        "name": "Hong Kong University of Science and Technology",
-        "url": "https://dl.acm.org/institution/60008592"
-      }
-    ]
-  },
   "a09_10": {
     "name": "Mao Lin Huang",
     "institution": [
@@ -2677,6 +2665,11 @@
         "id": "60000251",
         "name": "IEEE",
         "url": "https://dl.acm.org/institution/60000251"
+      },
+      {
+        "id": "60008592",
+        "name": "Hong Kong University of Science and Technology",
+        "url": "https://dl.acm.org/institution/60008592"
       }
     ]
   },

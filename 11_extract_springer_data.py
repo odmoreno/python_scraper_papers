@@ -596,7 +596,7 @@ class SpringerClient:
     def main(self):
         self.papers_acm = load_generic('data/vinci_2009/papers_acm.json')
 
-        self.extract_page_for_acm()
+        #self.extract_page_for_acm()
         #self.save_info()
         #self.driver_for_acm.get("https://dl.acm.org/profile/99660628905")
 

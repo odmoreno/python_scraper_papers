@@ -643,7 +643,7 @@ class PostP:
 
         list2 = new_authors.values()
         papers_col = ['name', 'institutions']
-        #csv_generics('data/vinci_2009/authors_vinci.csv', list2, papers_col)
+        csv_generics('data/vinci_2009/authors_vinci.csv', list2, papers_col)
 
 
 if __name__ == '__main__':
