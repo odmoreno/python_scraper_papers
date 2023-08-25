@@ -2224,6 +2224,11 @@
         "id": "60000251",
         "name": "IEEE",
         "url": "https://dl.acm.org/institution/60000251"
+      },
+      {
+        "id": "60008592",
+        "name": "Hong Kong University of Science and Technology",
+        "url": "https://dl.acm.org/institution/60008592"
       }
     ],
     "papers": [
@@ -12486,23 +12491,6 @@
       }
     ],
     "papers": [
-      "10.1145/3554944.3554951"
-    ]
-  },
-  "99660626111": {
-    "name": "Kang Zhang",
-    "institution": "Computational Media and Arts, Hong Kong University of Science and Technology (Guangzhou), China",
-    "url": "https://dl.acm.org/profile/99660626111",
-    "id": "99660626111",
-    "institutions": [
-      {
-        "id": "60008592",
-        "name": "Hong Kong University of Science and Technology",
-        "url": "https://dl.acm.org/institution/60008592"
-      }
-    ],
-    "papers": [
-      "10.1007/978-1-4419-0312-9_3",
       "10.1145/3554944.3554951"
     ]
   },

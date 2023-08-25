@@ -31,6 +31,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\data\vinci_2009\co-authorship_people.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\data\vinci_2009\papers.csv">
           <value>
             <Attribute>
@@ -45,7 +52,28 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\data\vinci_refs\cocitations_authors.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\data\vinci_refs\cocitations_papers.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\data\vinci_refs\papers.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\references\cocitation_venues.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />

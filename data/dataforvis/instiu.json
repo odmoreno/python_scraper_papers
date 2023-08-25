@@ -64,7 +64,6 @@
       2,
       33,
       33,
-      33,
       144,
       144
     ],
@@ -72,7 +71,6 @@
       "a09_6",
       "99659658214",
       "99658723776",
-      "81464670479",
       "81335494516",
       "99658766123"
     ]
@@ -95,45 +93,16 @@
     "country": "united states",
     "region": "north america",
     "papers": [
-      3,
-      60,
-      60,
-      91,
-      99,
-      124,
-      147,
-      151,
-      166,
-      180,
-      214,
-      214,
-      241,
-      258,
-      258,
-      262,
-      262,
-      282,
-      282,
-      288,
-      344,
-      362
+      3
     ],
     "authors": [
-      "a09_8",
-      "99659256604",
-      "81350576955",
-      "81549576556",
-      "81472652484",
-      "99659528788",
-      "81418594635",
-      "81100482168",
-      "99659201074"
+      "a09_8"
     ]
   },
   "7": {
     "id": 7,
     "name": "hong kong university of science and technology",
-    "country": "china",
+    "country": "hong kong",
     "region": "asia",
     "papers": [
       3,
@@ -179,11 +148,8 @@
       6,
       12,
       15,
-      112,
       246,
-      257,
-      272,
-      278
+      257
     ],
     "authors": [
       "81100079792"
@@ -787,14 +753,49 @@
       22,
       22,
       22,
-      22
+      22,
+      47,
+      47,
+      47,
+      52,
+      52,
+      52,
+      99,
+      99,
+      99,
+      119,
+      119,
+      119,
+      123,
+      123,
+      238,
+      349,
+      349,
+      349
     ],
     "authors": [
       "a09_75",
       "a09_76",
       "a09_77",
       "a09_78",
-      "a09_79"
+      "a09_79",
+      "99659915850",
+      "99659915914",
+      "81452604154",
+      "99659483556",
+      "81421599679",
+      "81408600175",
+      "99659185901",
+      "81466642306",
+      "81381602769",
+      "99659068366",
+      "81548161656",
+      "81451598508",
+      "81490644010",
+      "99659664633",
+      "99659482782",
+      "99659667955",
+      "99659664636"
     ]
   },
   "31": {
@@ -834,14 +835,6 @@
       83,
       83,
       100,
-      101,
-      101,
-      101,
-      101,
-      101,
-      101,
-      101,
-      101,
       106,
       138,
       138,
@@ -898,13 +891,6 @@
       "99659194145",
       "81331488994",
       "81548014780",
-      "81466647554",
-      "99659194267",
-      "99659194244",
-      "99659194217",
-      "99659194195",
-      "99659194159",
-      "99659194207",
       "81444600345",
       "81330495342",
       "81332497603",
@@ -932,7 +918,7 @@
   },
   "33": {
     "id": 33,
-    "name": "shenzhen institute of advanced technology",
+    "name": "shenzen institutes of advanced technology",
     "country": "china",
     "region": "asia",
     "papers": [
@@ -1071,7 +1057,7 @@
   },
   "37": {
     "id": 37,
-    "name": "mercedes benz",
+    "name": "mercedes-benz ag",
     "country": "germany",
     "region": "europe",
     "papers": [
@@ -1193,7 +1179,7 @@
   },
   "42": {
     "id": 42,
-    "name": "university of applied sciences western switzerland",
+    "name": "university of applied sciences",
     "country": "switzerland",
     "region": "europe",
     "papers": [
@@ -1202,13 +1188,22 @@
       48,
       48,
       48,
-      48
+      48,
+      76,
+      76,
+      76,
+      316,
+      316
     ],
     "authors": [
       "81331488994",
       "99659916273",
       "99659915055",
-      "99659916017"
+      "99659916017",
+      "81482662429",
+      "99659185142",
+      "81361609796",
+      "99659635934"
     ]
   },
   "43": {
@@ -1248,7 +1243,19 @@
   },
   "45": {
     "id": 45,
-    "name": "universidad el bosque",
+    "name": "university of new south wales and csiro",
+    "country": "australia",
+    "region": "oceania",
+    "papers": [
+      33
+    ],
+    "authors": [
+      "81464670479"
+    ]
+  },
+  "46": {
+    "id": 46,
+    "name": "universidad de los andes and universidad el bosque",
     "country": "colombia",
     "region": "south america",
     "papers": [
@@ -1258,8 +1265,8 @@
       "99659914931"
     ]
   },
-  "46": {
-    "id": 46,
+  "47": {
+    "id": 47,
     "name": "universidad de los andes",
     "country": "colombia",
     "region": "south america",
@@ -1270,9 +1277,9 @@
       "99659915656"
     ]
   },
-  "47": {
-    "id": 47,
-    "name": "st. polten university of applied sciences",
+  "48": {
+    "id": 48,
+    "name": "st",
     "country": "austria",
     "region": "europe",
     "papers": [
@@ -1286,9 +1293,9 @@
       "81503660777"
     ]
   },
-  "48": {
-    "id": 48,
-    "name": "johannes kepler university linz",
+  "49": {
+    "id": 49,
+    "name": "jku linz",
     "country": "austria",
     "region": "europe",
     "papers": [
@@ -1300,8 +1307,8 @@
       "81375612900"
     ]
   },
-  "49": {
-    "id": 49,
+  "50": {
+    "id": 50,
     "name": "datavisyn gmbh",
     "country": "austria",
     "region": "europe",
@@ -1312,9 +1319,9 @@
       "87258908057"
     ]
   },
-  "50": {
-    "id": 50,
-    "name": "the university of north carolina at charlotte",
+  "51": {
+    "id": 51,
+    "name": "unc charlotte",
     "country": "united states",
     "region": "north america",
     "papers": [
@@ -1322,8 +1329,6 @@
       36,
       36,
       36,
-      238,
-      238,
       244,
       244,
       244,
@@ -1334,13 +1339,13 @@
       "99659090947",
       "81467643151",
       "81100052641",
-      "81548739656",
       "81467663707",
-      "81435599709"
+      "81435599709",
+      "81548739656"
     ]
   },
-  "51": {
-    "id": 51,
+  "52": {
+    "id": 52,
     "name": "toyohashi university of technology",
     "country": "japan",
     "region": "asia",
@@ -1353,8 +1358,8 @@
       "81324495113"
     ]
   },
-  "52": {
-    "id": 52,
+  "53": {
+    "id": 53,
     "name": "university of trier",
     "country": "germany",
     "region": "europe",
@@ -1369,8 +1374,8 @@
       "81100020010"
     ]
   },
-  "53": {
-    "id": 53,
+  "54": {
+    "id": 54,
     "name": "university of helsinki",
     "country": "finland",
     "region": "europe",
@@ -1399,8 +1404,8 @@
       "99659194161"
     ]
   },
-  "54": {
-    "id": 54,
+  "55": {
+    "id": 55,
     "name": "university of copenhagen",
     "country": "denmark",
     "region": "europe",
@@ -1411,8 +1416,8 @@
       "81548012985"
     ]
   },
-  "55": {
-    "id": 55,
+  "56": {
+    "id": 56,
     "name": "eindhoven university of technology",
     "country": "netherlands",
     "region": "europe",
@@ -1513,9 +1518,9 @@
       "99659482887"
     ]
   },
-  "56": {
-    "id": 56,
-    "name": "litoral polytechnic school",
+  "57": {
+    "id": 57,
+    "name": "escuela superior politécnica del litoral",
     "country": "ecuador",
     "region": "south america",
     "papers": [
@@ -1533,8 +1538,8 @@
       "81492646025"
     ]
   },
-  "57": {
-    "id": 57,
+  "58": {
+    "id": 58,
     "name": "reutlingen university",
     "country": "germany",
     "region": "europe",
@@ -1564,8 +1569,8 @@
       "99659289339"
     ]
   },
-  "58": {
-    "id": 58,
+  "59": {
+    "id": 59,
     "name": "north carolina state university",
     "country": "united states",
     "region": "north america",
@@ -1578,8 +1583,8 @@
       "81100375996"
     ]
   },
-  "59": {
-    "id": 59,
+  "60": {
+    "id": 60,
     "name": "east china normal university",
     "country": "china",
     "region": "asia",
@@ -1590,9 +1595,6 @@
       46,
       46,
       46,
-      57,
-      57,
-      57,
       57,
       81,
       81,
@@ -1623,7 +1625,6 @@
       "99659915122",
       "99659482820",
       "99658761360",
-      "99659289556",
       "81549102456",
       "99659194118",
       "99659194271",
@@ -1633,61 +1634,6 @@
       "82459080257",
       "99659052542",
       "81549269856"
-    ]
-  },
-  "60": {
-    "id": 60,
-    "name": "zhejiang university of technology",
-    "country": "china",
-    "region": "asia",
-    "papers": [
-      47,
-      47,
-      47,
-      52,
-      52,
-      52,
-      99,
-      99,
-      99,
-      119,
-      119,
-      119,
-      119,
-      123,
-      123,
-      231,
-      231,
-      231,
-      231,
-      238,
-      349,
-      349,
-      349
-    ],
-    "authors": [
-      "99659915850",
-      "99659915914",
-      "81452604154",
-      "99659483556",
-      "81421599679",
-      "81408600175",
-      "99659185901",
-      "81466642306",
-      "81381602769",
-      "99659068366",
-      "99659068293",
-      "81548161656",
-      "81451598508",
-      "81490644010",
-      "99659664633",
-      "81388592076",
-      "81508690581",
-      "81549289956",
-      "81388598707",
-      "99659482782",
-      "99659667955",
-      "99659664636"
     ]
   },
   "61": {
@@ -1732,7 +1678,7 @@
   },
   "63": {
     "id": 63,
-    "name": "birla institute of technology and science pilani",
+    "name": "bits pilani",
     "country": "india",
     "region": "asia",
     "papers": [
@@ -1744,7 +1690,7 @@
   },
   "64": {
     "id": 64,
-    "name": "university of montpellier",
+    "name": "lirmm",
     "country": "france",
     "region": "europe",
     "papers": [
@@ -1772,7 +1718,7 @@
   },
   "66": {
     "id": 66,
-    "name": "territoires, environnement, télédétection et information spatiale",
+    "name": "tetis",
     "country": "france",
     "region": "europe",
     "papers": [
@@ -1816,7 +1762,62 @@
   },
   "69": {
     "id": 69,
-    "name": "technion - israel institute of technology",
+    "name": "east of china normal university",
+    "country": "china",
+    "region": "asia",
+    "papers": [
+      57,
+      57,
+      57
+    ],
+    "authors": [
+      "99659289556",
+      "81100220966",
+      "99658761360"
+    ]
+  },
+  "70": {
+    "id": 70,
+    "name": "university of texas",
+    "country": "united states",
+    "region": "north america",
+    "papers": [
+      60,
+      60,
+      91,
+      99,
+      124,
+      147,
+      151,
+      166,
+      180,
+      214,
+      214,
+      241,
+      258,
+      258,
+      262,
+      262,
+      282,
+      282,
+      288,
+      344,
+      362
+    ],
+    "authors": [
+      "99659256604",
+      "81350576955",
+      "81549576556",
+      "81472652484",
+      "99659528788",
+      "81418594635",
+      "81100482168",
+      "99659201074"
+    ]
+  },
+  "71": {
+    "id": 71,
+    "name": "technion",
     "country": "israel",
     "region": "middle east",
     "papers": [
@@ -1828,26 +1829,36 @@
       "81100400502"
     ]
   },
-  "70": {
-    "id": 70,
+  "72": {
+    "id": 72,
+    "name": "ipk gaterslebenbielefeld university",
+    "country": "germany",
+    "region": "europe",
+    "papers": [
+      63
+    ],
+    "authors": [
+      "99659292007"
+    ]
+  },
+  "73": {
+    "id": 73,
     "name": "bielefeld university",
     "country": "germany",
     "region": "europe",
     "papers": [
       63,
       63,
-      63,
       63
     ],
     "authors": [
-      "99659292007",
       "99659292087",
       "99659290368",
       "99659291490"
     ]
   },
-  "71": {
-    "id": 71,
+  "74": {
+    "id": 74,
     "name": "roma tre university",
     "country": "italy",
     "region": "europe",
@@ -1860,8 +1871,8 @@
       "81100464555"
     ]
   },
-  "72": {
-    "id": 72,
+  "75": {
+    "id": 75,
     "name": "ripe ncc",
     "country": "netherlands",
     "region": "europe",
@@ -1872,8 +1883,8 @@
       "99659290958"
     ]
   },
-  "73": {
-    "id": 73,
+  "76": {
+    "id": 76,
     "name": "lund university",
     "country": "sweden",
     "region": "europe",
@@ -1884,9 +1895,9 @@
       "99659289733"
     ]
   },
-  "74": {
-    "id": 74,
-    "name": "riken",
+  "77": {
+    "id": 77,
+    "name": "riken center for computational science",
     "country": "japan",
     "region": "asia",
     "papers": [
@@ -1898,8 +1909,8 @@
       "81100125090"
     ]
   },
-  "75": {
-    "id": 75,
+  "78": {
+    "id": 78,
     "name": "kyushu university",
     "country": "japan",
     "region": "asia",
@@ -1918,8 +1929,8 @@
       "81100385632"
     ]
   },
-  "76": {
-    "id": 76,
+  "79": {
+    "id": 79,
     "name": "shenzhen university",
     "country": "china",
     "region": "asia",
@@ -1934,8 +1945,8 @@
       "81100136462"
     ]
   },
-  "77": {
-    "id": 77,
+  "80": {
+    "id": 80,
     "name": "mid sweden university",
     "country": "sweden",
     "region": "europe",
@@ -1948,24 +1959,8 @@
       "81496672621"
     ]
   },
-  "78": {
-    "id": 78,
-    "name": "university of applied sciences upper austria",
-    "country": "austria",
-    "region": "europe",
-    "papers": [
-      76,
-      76,
-      76
-    ],
-    "authors": [
-      "81482662429",
-      "99659185142",
-      "81361609796"
-    ]
-  },
-  "79": {
-    "id": 79,
+  "81": {
+    "id": 81,
     "name": "ajou university",
     "country": "south korea",
     "region": "asia",
@@ -1997,8 +1992,8 @@
       "99658768692"
     ]
   },
-  "80": {
-    "id": 80,
+  "82": {
+    "id": 82,
     "name": "sap se",
     "country": "germany",
     "region": "europe",
@@ -2009,8 +2004,8 @@
       "99659194221"
     ]
   },
-  "81": {
-    "id": 81,
+  "83": {
+    "id": 83,
     "name": "technische universität dresden",
     "country": "germany",
     "region": "europe",
@@ -2030,8 +2025,8 @@
       "81502795846"
     ]
   },
-  "82": {
-    "id": 82,
+  "84": {
+    "id": 84,
     "name": "central south university",
     "country": "china",
     "region": "asia",
@@ -2078,8 +2073,8 @@
       "99659633237"
     ]
   },
-  "83": {
-    "id": 83,
+  "85": {
+    "id": 85,
     "name": "enterprise security group",
     "country": "china",
     "region": "asia",
@@ -2090,8 +2085,8 @@
       "99659194273"
     ]
   },
-  "84": {
-    "id": 84,
+  "86": {
+    "id": 86,
     "name": "beijing technology and business university",
     "country": "china",
     "region": "asia",
@@ -2102,8 +2097,8 @@
       "81490680300"
     ]
   },
-  "85": {
-    "id": 85,
+  "87": {
+    "id": 87,
     "name": "yonsei university",
     "country": "south korea",
     "region": "asia",
@@ -2116,8 +2111,8 @@
       "81451594353"
     ]
   },
-  "86": {
-    "id": 86,
+  "88": {
+    "id": 88,
     "name": "fraunhofer institute for solar energy systems ise",
     "country": "germany",
     "region": "europe",
@@ -2130,8 +2125,8 @@
       "81440598602"
     ]
   },
-  "87": {
-    "id": 87,
+  "89": {
+    "id": 89,
     "name": "aalto university",
     "country": "finland",
     "region": "europe",
@@ -2146,34 +2141,26 @@
       "81100125974"
     ]
   },
-  "88": {
-    "id": 88,
-    "name": "vienna university of technology",
+  "90": {
+    "id": 90,
+    "name": "vienna university of technology tu wien",
     "country": "austria",
     "region": "europe",
     "papers": [
       85,
       85,
       85,
-      85,
-      336,
-      336,
-      336,
-      336
+      85
     ],
     "authors": [
       "99659194168",
       "81474695092",
       "81375620061",
-      "81100255622",
-      "99659483644",
-      "99659483210",
-      "99659482511",
-      "81100260842"
+      "81100255622"
     ]
   },
-  "89": {
-    "id": 89,
+  "91": {
+    "id": 91,
     "name": "university of tsukuba",
     "country": "japan",
     "region": "asia",
@@ -2196,8 +2183,8 @@
       "81487644992"
     ]
   },
-  "90": {
-    "id": 90,
+  "92": {
+    "id": 92,
     "name": "fujitsu laboratories ltd",
     "country": "japan",
     "region": "asia",
@@ -2208,8 +2195,8 @@
       "99659194114"
     ]
   },
-  "91": {
-    "id": 91,
+  "93": {
+    "id": 93,
     "name": "university of california",
     "country": "united states",
     "region": "north america",
@@ -2226,8 +2213,8 @@
       "81332504463"
     ]
   },
-  "92": {
-    "id": 92,
+  "94": {
+    "id": 94,
     "name": "university of toronto",
     "country": "canada",
     "region": "north america",
@@ -2242,8 +2229,8 @@
       "99659194245"
     ]
   },
-  "93": {
-    "id": 93,
+  "95": {
+    "id": 95,
     "name": "king mongkuts university of technology thonburi",
     "country": "thailand",
     "region": "asia",
@@ -2252,9 +2239,6 @@
       89,
       94,
       94,
-      95,
-      95,
-      95,
       97,
       97,
       97,
@@ -2264,15 +2248,13 @@
       "99659194157",
       "81413599918",
       "99659127931",
-      "99659194291",
-      "81384616279",
       "99659154692",
       "81442613236",
       "81550167556"
     ]
   },
-  "94": {
-    "id": 94,
+  "96": {
+    "id": 96,
     "name": "beijing film academy",
     "country": "china",
     "region": "asia",
@@ -2283,8 +2265,8 @@
       "99659194158"
     ]
   },
-  "95": {
-    "id": 95,
+  "97": {
+    "id": 97,
     "name": "china automotive technology and research center",
     "country": "china",
     "region": "asia",
@@ -2299,8 +2281,8 @@
       "99659194136"
     ]
   },
-  "96": {
-    "id": 96,
+  "98": {
+    "id": 98,
     "name": "seoul national university",
     "country": "south korea",
     "region": "asia",
@@ -2311,8 +2293,8 @@
       "99659194257"
     ]
   },
-  "97": {
-    "id": 97,
+  "99": {
+    "id": 99,
     "name": "agoda services co",
     "country": "thailand",
     "region": "asia",
@@ -2323,9 +2305,25 @@
       "99659128019"
     ]
   },
-  "98": {
-    "id": 98,
-    "name": "university of padova",
+  "100": {
+    "id": 100,
+    "name": "kmutt",
+    "country": "thailand",
+    "region": "asia",
+    "papers": [
+      95,
+      95,
+      95
+    ],
+    "authors": [
+      "99659194291",
+      "81384616279",
+      "81413599918"
+    ]
+  },
+  "101": {
+    "id": 101,
+    "name": "universitá di padova",
     "country": "italy",
     "region": "europe",
     "papers": [
@@ -2339,8 +2337,34 @@
       "81100210885"
     ]
   },
-  "99": {
-    "id": 99,
+  "102": {
+    "id": 102,
+    "name": "university of stuttgart and university of reutlingen",
+    "country": "germany",
+    "region": "europe",
+    "papers": [
+      101,
+      101,
+      101,
+      101,
+      101,
+      101,
+      101,
+      101
+    ],
+    "authors": [
+      "81331488994",
+      "81466647554",
+      "99659194267",
+      "99659194244",
+      "99659194217",
+      "99659194195",
+      "99659194159",
+      "99659194207"
+    ]
+  },
+  "103": {
+    "id": 103,
     "name": "university of melbourne",
     "country": "australia",
     "region": "oceania",
@@ -2352,8 +2376,8 @@
       "99658770790"
     ]
   },
-  "100": {
-    "id": 100,
+  "104": {
+    "id": 104,
     "name": "university of brighton",
     "country": "united kingdom",
     "region": "europe",
@@ -2379,8 +2403,8 @@
       "81339499356"
     ]
   },
-  "101": {
-    "id": 101,
+  "105": {
+    "id": 105,
     "name": "university of kent",
     "country": "united kingdom",
     "region": "europe",
@@ -2392,8 +2416,8 @@
       "81100642599"
     ]
   },
-  "102": {
-    "id": 102,
+  "106": {
+    "id": 106,
     "name": "deecoob technology gmbh",
     "country": "germany",
     "region": "europe",
@@ -2404,9 +2428,9 @@
       "99659194141"
     ]
   },
-  "103": {
-    "id": 103,
-    "name": "mercateo deutschland ag",
+  "107": {
+    "id": 107,
+    "name": "mercateo ag",
     "country": "germany",
     "region": "europe",
     "papers": [
@@ -2416,8 +2440,8 @@
       "81479655070"
     ]
   },
-  "104": {
-    "id": 104,
+  "108": {
+    "id": 108,
     "name": "chemmedia ag",
     "country": "germany",
     "region": "europe",
@@ -2428,8 +2452,8 @@
       "99659194167"
     ]
   },
-  "105": {
-    "id": 105,
+  "109": {
+    "id": 109,
     "name": "university of cambridge",
     "country": "united kingdom",
     "region": "europe",
@@ -2442,8 +2466,8 @@
       "99658750308"
     ]
   },
-  "106": {
-    "id": 106,
+  "110": {
+    "id": 110,
     "name": "university of illinois",
     "country": "united states",
     "region": "north america",
@@ -2460,8 +2484,8 @@
       "81100304143"
     ]
   },
-  "107": {
-    "id": 107,
+  "111": {
+    "id": 111,
     "name": "oklahoma state university",
     "country": "united states",
     "region": "north america",
@@ -2472,8 +2496,8 @@
       "81551311756"
     ]
   },
-  "108": {
-    "id": 108,
+  "112": {
+    "id": 112,
     "name": "arizona state university",
     "country": "united states",
     "region": "north america",
@@ -2484,8 +2508,8 @@
       "99658630885"
     ]
   },
-  "109": {
-    "id": 109,
+  "113": {
+    "id": 113,
     "name": "vrvis research center",
     "country": "austria",
     "region": "europe",
@@ -2498,8 +2522,8 @@
       "81375609028"
     ]
   },
-  "110": {
-    "id": 110,
+  "114": {
+    "id": 114,
     "name": "university of buenos aires",
     "country": "argentina",
     "region": "south america",
@@ -2510,8 +2534,8 @@
       "99658770166"
     ]
   },
-  "111": {
-    "id": 111,
+  "115": {
+    "id": 115,
     "name": "university of maryland",
     "country": "united states",
     "region": "north america",
@@ -2524,8 +2548,8 @@
       "81100083927"
     ]
   },
-  "112": {
-    "id": 112,
+  "116": {
+    "id": 116,
     "name": "conicet and u",
     "country": "argentina",
     "region": "south america",
@@ -2536,8 +2560,8 @@
       "81544964956"
     ]
   },
-  "113": {
-    "id": 113,
+  "117": {
+    "id": 117,
     "name": "virginia tech blacksburg",
     "country": "united states",
     "region": "north america",
@@ -2548,8 +2572,8 @@
       "81100637283"
     ]
   },
-  "114": {
-    "id": 114,
+  "118": {
+    "id": 118,
     "name": "university of tokyo",
     "country": "japan",
     "region": "asia",
@@ -2570,8 +2594,8 @@
       "99659641964"
     ]
   },
-  "115": {
-    "id": 115,
+  "119": {
+    "id": 119,
     "name": "university of aizu",
     "country": "japan",
     "region": "asia",
@@ -2585,8 +2609,8 @@
       "99659631139"
     ]
   },
-  "116": {
-    "id": 116,
+  "120": {
+    "id": 120,
     "name": "keio university",
     "country": "japan",
     "region": "asia",
@@ -2597,9 +2621,9 @@
       "81440610884"
     ]
   },
-  "117": {
-    "id": 117,
-    "name": "j. craig venter institute",
+  "121": {
+    "id": 121,
+    "name": "j craig venter institute",
     "country": "united states",
     "region": "north america",
     "papers": [
@@ -2609,9 +2633,30 @@
       "81452599675"
     ]
   },
-  "118": {
-    "id": 118,
-    "name": "university of rostock",
+  "122": {
+    "id": 122,
+    "name": "university of technology",
+    "country": "australia",
+    "region": "oceania",
+    "papers": [
+      112,
+      170,
+      170,
+      217,
+      217,
+      239,
+      272,
+      278
+    ],
+    "authors": [
+      "81100079792",
+      "81430601375",
+      "81375593142"
+    ]
+  },
+  "123": {
+    "id": 123,
+    "name": "institute for computer science",
     "country": "germany",
     "region": "europe",
     "papers": [
@@ -2623,8 +2668,8 @@
       "81100094349"
     ]
   },
-  "119": {
-    "id": 119,
+  "124": {
+    "id": 124,
     "name": "university of north texas",
     "country": "united states",
     "region": "north america",
@@ -2649,8 +2694,8 @@
       "99659068083"
     ]
   },
-  "120": {
-    "id": 120,
+  "125": {
+    "id": 125,
     "name": "washington university",
     "country": "united states",
     "region": "north america",
@@ -2661,8 +2706,8 @@
       "99658628447"
     ]
   },
-  "121": {
-    "id": 121,
+  "126": {
+    "id": 126,
     "name": "rochester institute of technology",
     "country": "united states",
     "region": "north america",
@@ -2673,8 +2718,8 @@
       "87658893257"
     ]
   },
-  "122": {
-    "id": 122,
+  "127": {
+    "id": 127,
     "name": "oregon state university",
     "country": "united states",
     "region": "north america",
@@ -2689,8 +2734,8 @@
       "81100115231"
     ]
   },
-  "123": {
-    "id": 123,
+  "128": {
+    "id": 128,
     "name": "north dakota state university",
     "country": "united states",
     "region": "north america",
@@ -2705,8 +2750,8 @@
       "81408600332"
     ]
   },
-  "124": {
-    "id": 124,
+  "129": {
+    "id": 129,
     "name": "nankai university",
     "country": "china",
     "region": "asia",
@@ -2721,8 +2766,8 @@
       "99658766563"
     ]
   },
-  "125": {
-    "id": 125,
+  "130": {
+    "id": 130,
     "name": "university of san francisco",
     "country": "united states",
     "region": "north america",
@@ -2746,8 +2791,8 @@
       "99659067967"
     ]
   },
-  "126": {
-    "id": 126,
+  "131": {
+    "id": 131,
     "name": "changsha university of science and technology",
     "country": "china",
     "region": "asia",
@@ -2758,8 +2803,28 @@
       "99659068491"
     ]
   },
-  "127": {
-    "id": 127,
+  "132": {
+    "id": 132,
+    "name": "zhejiang university of technology",
+    "country": "china",
+    "region": "asia",
+    "papers": [
+      119,
+      231,
+      231,
+      231,
+      231
+    ],
+    "authors": [
+      "99659068293",
+      "81388592076",
+      "81508690581",
+      "81549289956",
+      "81388598707"
+    ]
+  },
+  "133": {
+    "id": 133,
     "name": "fraunhofer igd",
     "country": "germany",
     "region": "europe",
@@ -2776,8 +2841,8 @@
       "99658657326"
     ]
   },
-  "128": {
-    "id": 128,
+  "134": {
+    "id": 134,
     "name": "technical university of germany",
     "country": "germany",
     "region": "europe",
@@ -2790,8 +2855,8 @@
       "81332509409"
     ]
   },
-  "129": {
-    "id": 129,
+  "135": {
+    "id": 135,
     "name": "drexel university",
     "country": "united states",
     "region": "north america",
@@ -2806,8 +2871,8 @@
       "81100220220"
     ]
   },
-  "130": {
-    "id": 130,
+  "136": {
+    "id": 136,
     "name": "baidu inc",
     "country": "china",
     "region": "asia",
@@ -2820,8 +2885,8 @@
       "81548022965"
     ]
   },
-  "131": {
-    "id": 131,
+  "137": {
+    "id": 137,
     "name": "university of californiadavis",
     "country": "united states",
     "region": "north america",
@@ -2832,8 +2897,8 @@
       "81452595774"
     ]
   },
-  "132": {
-    "id": 132,
+  "138": {
+    "id": 138,
     "name": "university shanghai",
     "country": "china",
     "region": "asia",
@@ -2850,8 +2915,8 @@
       "81100220966"
     ]
   },
-  "133": {
-    "id": 133,
+  "139": {
+    "id": 139,
     "name": "byu hawaii",
     "country": "united states",
     "region": "north america",
@@ -2864,8 +2929,8 @@
       "81430638972"
     ]
   },
-  "134": {
-    "id": 134,
+  "140": {
+    "id": 140,
     "name": "brigham young university",
     "country": "united states",
     "region": "north america",
@@ -2880,11 +2945,11 @@
       "81430638972"
     ]
   },
-  "135": {
-    "id": 135,
+  "141": {
+    "id": 141,
     "name": "national taipei university of technology",
     "country": "taiwan",
-    "region": "north america",
+    "region": "asia",
     "papers": [
       128
     ],
@@ -2892,8 +2957,8 @@
       "99659068200"
     ]
   },
-  "136": {
-    "id": 136,
+  "142": {
+    "id": 142,
     "name": "southeast university",
     "country": "china",
     "region": "asia",
@@ -2906,8 +2971,8 @@
       "99659068936"
     ]
   },
-  "137": {
-    "id": 137,
+  "143": {
+    "id": 143,
     "name": "university of wyoming",
     "country": "united states",
     "region": "north america",
@@ -2920,8 +2985,8 @@
       "83059087157"
     ]
   },
-  "138": {
-    "id": 138,
+  "144": {
+    "id": 144,
     "name": "highland park high school",
     "country": "united states",
     "region": "north america",
@@ -2932,8 +2997,8 @@
       "99659067636"
     ]
   },
-  "139": {
-    "id": 139,
+  "145": {
+    "id": 145,
     "name": "john paul ii high school",
     "country": "united states",
     "region": "north america",
@@ -2944,8 +3009,8 @@
       "99659067860"
     ]
   },
-  "140": {
-    "id": 140,
+  "146": {
+    "id": 146,
     "name": "tongji university",
     "country": "china",
     "region": "asia",
@@ -2972,8 +3037,8 @@
       "99659483648"
     ]
   },
-  "141": {
-    "id": 141,
+  "147": {
+    "id": 147,
     "name": "shanghai jiao tong university",
     "country": "china",
     "region": "asia",
@@ -2992,8 +3057,8 @@
       "99659483372"
     ]
   },
-  "142": {
-    "id": 142,
+  "148": {
+    "id": 148,
     "name": "purdue university",
     "country": "united states",
     "region": "north america",
@@ -3004,8 +3069,8 @@
       "81487640747"
     ]
   },
-  "143": {
-    "id": 143,
+  "149": {
+    "id": 149,
     "name": "indiana university",
     "country": "united states",
     "region": "north america",
@@ -3016,8 +3081,8 @@
       "81372593397"
     ]
   },
-  "144": {
-    "id": 144,
+  "150": {
+    "id": 150,
     "name": "aichi university of education",
     "country": "japan",
     "region": "asia",
@@ -3028,8 +3093,8 @@
       "99658769229"
     ]
   },
-  "145": {
-    "id": 145,
+  "151": {
+    "id": 151,
     "name": "toba national college of maritime technology",
     "country": "japan",
     "region": "asia",
@@ -3040,8 +3105,8 @@
       "81309484223"
     ]
   },
-  "146": {
-    "id": 146,
+  "152": {
+    "id": 152,
     "name": "aichi institute of technology",
     "country": "japan",
     "region": "asia",
@@ -3052,8 +3117,8 @@
       "99660176893"
     ]
   },
-  "147": {
-    "id": 147,
+  "153": {
+    "id": 153,
     "name": "visualisierungsinstitut der universität stuttgart",
     "country": "germany",
     "region": "europe",
@@ -3068,11 +3133,11 @@
       "81332497603"
     ]
   },
-  "148": {
-    "id": 148,
+  "154": {
+    "id": 154,
     "name": "national chiao tung university",
     "country": "taiwan",
-    "region": "oceania",
+    "region": "asia",
     "papers": [
       142,
       142,
@@ -3087,8 +3152,8 @@
       "81100227371"
     ]
   },
-  "149": {
-    "id": 149,
+  "155": {
+    "id": 155,
     "name": "st vincent's hospital",
     "country": "australia",
     "region": "oceania",
@@ -3101,8 +3166,8 @@
       "99658712892"
     ]
   },
-  "150": {
-    "id": 150,
+  "156": {
+    "id": 156,
     "name": "st vincent's private hospital",
     "country": "australia",
     "region": "oceania",
@@ -3113,8 +3178,8 @@
       "99658767746"
     ]
   },
-  "151": {
-    "id": 151,
+  "157": {
+    "id": 157,
     "name": "universiti teknologi malaysia",
     "country": "malaysia",
     "region": "asia",
@@ -3127,8 +3192,8 @@
       "81100128492"
     ]
   },
-  "152": {
-    "id": 152,
+  "158": {
+    "id": 158,
     "name": "university of canterbury",
     "country": "new zealand",
     "region": "oceania",
@@ -3139,8 +3204,8 @@
       "81100499261"
     ]
   },
-  "153": {
-    "id": 153,
+  "159": {
+    "id": 159,
     "name": "university of rome la sapienza rome",
     "country": "italy",
     "region": "europe",
@@ -3153,8 +3218,8 @@
       "81100525081"
     ]
   },
-  "154": {
-    "id": 154,
+  "160": {
+    "id": 160,
     "name": "tcs research",
     "country": "india",
     "region": "asia",
@@ -3171,8 +3236,8 @@
       "81100327275"
     ]
   },
-  "155": {
-    "id": 155,
+  "161": {
+    "id": 161,
     "name": "university of chinese academy of sciences",
     "country": "china",
     "region": "asia",
@@ -3183,8 +3248,8 @@
       "99659047793"
     ]
   },
-  "156": {
-    "id": 156,
+  "162": {
+    "id": 162,
     "name": "state key laboratory of computer science",
     "country": "china",
     "region": "asia",
@@ -3197,8 +3262,8 @@
       "81100220294"
     ]
   },
-  "157": {
-    "id": 157,
+  "163": {
+    "id": 163,
     "name": "visus",
     "country": "germany",
     "region": "europe",
@@ -3217,8 +3282,8 @@
       "81332497603"
     ]
   },
-  "158": {
-    "id": 158,
+  "164": {
+    "id": 164,
     "name": "gakushuin university",
     "country": "japan",
     "region": "asia",
@@ -3236,8 +3301,8 @@
       "99658767496"
     ]
   },
-  "159": {
-    "id": 159,
+  "165": {
+    "id": 165,
     "name": "school of commerce senshu university",
     "country": "japan",
     "region": "asia",
@@ -3248,8 +3313,8 @@
       "99658766578"
     ]
   },
-  "160": {
-    "id": 160,
+  "166": {
+    "id": 166,
     "name": "tokyo metropolitan university",
     "country": "japan",
     "region": "asia",
@@ -3262,8 +3327,8 @@
       "81365592172"
     ]
   },
-  "161": {
-    "id": 161,
+  "167": {
+    "id": 167,
     "name": "interdisciplinary graduate school of science and engineering shimane university",
     "country": "japan",
     "region": "asia",
@@ -3276,8 +3341,8 @@
       "81100170303"
     ]
   },
-  "162": {
-    "id": 162,
+  "168": {
+    "id": 168,
     "name": "university of western sydney",
     "country": "australia",
     "region": "oceania",
@@ -3294,8 +3359,8 @@
       "81100317930"
     ]
   },
-  "163": {
-    "id": 163,
+  "169": {
+    "id": 169,
     "name": "tokyo university of science",
     "country": "japan",
     "region": "asia",
@@ -3310,8 +3375,8 @@
       "99658768164"
     ]
   },
-  "164": {
-    "id": 164,
+  "170": {
+    "id": 170,
     "name": "centre les capucins",
     "country": "france",
     "region": "europe",
@@ -3324,8 +3389,8 @@
       "99658768472"
     ]
   },
-  "165": {
-    "id": 165,
+  "171": {
+    "id": 171,
     "name": "laboratoire angevin de recherche en ingénierie des systèmes",
     "country": "france",
     "region": "europe",
@@ -3336,8 +3401,8 @@
       "81452605387"
     ]
   },
-  "166": {
-    "id": 166,
+  "172": {
+    "id": 172,
     "name": "university of electrocommunications",
     "country": "japan",
     "region": "asia",
@@ -3350,8 +3415,8 @@
       "99658765798"
     ]
   },
-  "167": {
-    "id": 167,
+  "173": {
+    "id": 173,
     "name": "chang gung university",
     "country": "taiwan",
     "region": "asia",
@@ -3366,8 +3431,8 @@
       "99658768076"
     ]
   },
-  "168": {
-    "id": 168,
+  "174": {
+    "id": 174,
     "name": "chang gung memorial hospital",
     "country": "taiwan",
     "region": "asia",
@@ -3380,8 +3445,8 @@
       "81322499106"
     ]
   },
-  "169": {
-    "id": 169,
+  "175": {
+    "id": 175,
     "name": "national institute of informatics",
     "country": "japan",
     "region": "asia",
@@ -3396,8 +3461,8 @@
       "81100094722"
     ]
   },
-  "170": {
-    "id": 170,
+  "176": {
+    "id": 176,
     "name": "senshu university",
     "country": "japan",
     "region": "asia",
@@ -3408,8 +3473,8 @@
       "99658766578"
     ]
   },
-  "171": {
-    "id": 171,
+  "177": {
+    "id": 177,
     "name": "lomonosov moscow state university",
     "country": "russian federation",
     "region": "europe",
@@ -3422,8 +3487,8 @@
       "81336489058"
     ]
   },
-  "172": {
-    "id": 172,
+  "178": {
+    "id": 178,
     "name": "micron technology incorporated",
     "country": "united states",
     "region": "north america",
@@ -3434,8 +3499,8 @@
       "99658638266"
     ]
   },
-  "173": {
-    "id": 173,
+  "179": {
+    "id": 179,
     "name": "boise state university",
     "country": "united states",
     "region": "north america",
@@ -3450,26 +3515,8 @@
       "81504684109"
     ]
   },
-  "174": {
-    "id": 174,
-    "name": "university of technology",
-    "country": "australia",
-    "region": "oceania",
-    "papers": [
-      170,
-      170,
-      217,
-      217,
-      239
-    ],
-    "authors": [
-      "81430601375",
-      "81100079792",
-      "81375593142"
-    ]
-  },
-  "175": {
-    "id": 175,
+  "180": {
+    "id": 180,
     "name": "university of paderborn",
     "country": "germany",
     "region": "europe",
@@ -3482,8 +3529,8 @@
       "81100449926"
     ]
   },
-  "176": {
-    "id": 176,
+  "181": {
+    "id": 181,
     "name": "university of salerno",
     "country": "italy",
     "region": "europe",
@@ -3512,8 +3559,8 @@
       "81315488598"
     ]
   },
-  "177": {
-    "id": 177,
+  "182": {
+    "id": 182,
     "name": "australian catholic university",
     "country": "australia",
     "region": "oceania",
@@ -3524,8 +3571,8 @@
       "82459248057"
     ]
   },
-  "178": {
-    "id": 178,
+  "183": {
+    "id": 183,
     "name": "central queensland university",
     "country": "australia",
     "region": "oceania",
@@ -3540,8 +3587,8 @@
       "99658641075"
     ]
   },
-  "179": {
-    "id": 179,
+  "184": {
+    "id": 184,
     "name": "university of british columbia",
     "country": "canada",
     "region": "north america",
@@ -3558,8 +3605,8 @@
       "81100291054"
     ]
   },
-  "180": {
-    "id": 180,
+  "185": {
+    "id": 185,
     "name": "kansas state university",
     "country": "united states",
     "region": "north america",
@@ -3570,8 +3617,8 @@
       "99658640509"
     ]
   },
-  "181": {
-    "id": 181,
+  "186": {
+    "id": 186,
     "name": "university of alberta",
     "country": "canada",
     "region": "north america",
@@ -3582,8 +3629,8 @@
       "99658639143"
     ]
   },
-  "182": {
-    "id": 182,
+  "187": {
+    "id": 187,
     "name": "technology national institute of technology karnataka",
     "country": "india",
     "region": "asia",
@@ -3596,8 +3643,8 @@
       "99658638866"
     ]
   },
-  "183": {
-    "id": 183,
+  "188": {
+    "id": 188,
     "name": "national institute of technology karnataka",
     "country": "india",
     "region": "asia",
@@ -3624,8 +3671,8 @@
       "99658641888"
     ]
   },
-  "184": {
-    "id": 184,
+  "189": {
+    "id": 189,
     "name": "indian institute of technology guwahati",
     "country": "india",
     "region": "asia",
@@ -3638,8 +3685,8 @@
       "87958883657"
     ]
   },
-  "185": {
-    "id": 185,
+  "190": {
+    "id": 190,
     "name": "university of waikato",
     "country": "new zealand",
     "region": "oceania",
@@ -3652,8 +3699,8 @@
       "81100385323"
     ]
   },
-  "186": {
-    "id": 186,
+  "191": {
+    "id": 191,
     "name": "university of tasmania",
     "country": "australia",
     "region": "oceania",
@@ -3668,8 +3715,8 @@
       "81100508565"
     ]
   },
-  "187": {
-    "id": 187,
+  "192": {
+    "id": 192,
     "name": "csiro",
     "country": "australia",
     "region": "oceania",
@@ -3680,8 +3727,8 @@
       "81464670479"
     ]
   },
-  "188": {
-    "id": 188,
+  "193": {
+    "id": 193,
     "name": "queensland university of technology",
     "country": "australia",
     "region": "oceania",
@@ -3702,8 +3749,8 @@
       "81342494632"
     ]
   },
-  "189": {
-    "id": 189,
+  "194": {
+    "id": 194,
     "name": "csiro computational informatics",
     "country": "australia",
     "region": "oceania",
@@ -3714,8 +3761,8 @@
       "81464670479"
     ]
   },
-  "190": {
-    "id": 190,
+  "195": {
+    "id": 195,
     "name": "shandong university jinan",
     "country": "china",
     "region": "asia",
@@ -3739,8 +3786,8 @@
       "81322501374"
     ]
   },
-  "191": {
-    "id": 191,
+  "196": {
+    "id": 196,
     "name": "james cook university",
     "country": "australia",
     "region": "oceania",
@@ -3759,8 +3806,8 @@
       "81550383556"
     ]
   },
-  "192": {
-    "id": 192,
+  "197": {
+    "id": 197,
     "name": "university of colombo",
     "country": "sri lanka",
     "region": "asia",
@@ -3779,8 +3826,8 @@
       "99658641797"
     ]
   },
-  "193": {
-    "id": 193,
+  "198": {
+    "id": 198,
     "name": "the 28th research institute of china electronics technology group corporation",
     "country": "china",
     "region": "asia",
@@ -3795,8 +3842,8 @@
       "99658639236"
     ]
   },
-  "194": {
-    "id": 194,
+  "199": {
+    "id": 199,
     "name": "monash university malaysia",
     "country": "malaysia",
     "region": "asia",
@@ -3807,8 +3854,8 @@
       "81100553482"
     ]
   },
-  "195": {
-    "id": 195,
+  "200": {
+    "id": 200,
     "name": "shiseido research center",
     "country": "japan",
     "region": "asia",
@@ -3821,8 +3868,8 @@
       "99658641213"
     ]
   },
-  "196": {
-    "id": 196,
+  "201": {
+    "id": 201,
     "name": "department of it",
     "country": "india",
     "region": "asia",
@@ -3843,8 +3890,8 @@
       "99658641888"
     ]
   },
-  "197": {
-    "id": 197,
+  "202": {
+    "id": 202,
     "name": "university of toyama",
     "country": "japan",
     "region": "asia",
@@ -3859,8 +3906,8 @@
       "99658639630"
     ]
   },
-  "198": {
-    "id": 198,
+  "203": {
+    "id": 203,
     "name": "sapienza university of rome",
     "country": "italy",
     "region": "europe",
@@ -3871,8 +3918,8 @@
       "81100425686"
     ]
   },
-  "199": {
-    "id": 199,
+  "204": {
+    "id": 204,
     "name": "shizuoka university",
     "country": "japan",
     "region": "asia",
@@ -3883,8 +3930,8 @@
       "81350572984"
     ]
   },
-  "200": {
-    "id": 200,
+  "205": {
+    "id": 205,
     "name": "kinjito co",
     "country": "japan",
     "region": "asia",
@@ -3895,8 +3942,8 @@
       "81100503196"
     ]
   },
-  "201": {
-    "id": 201,
+  "206": {
+    "id": 206,
     "name": "australia and australian catholic university",
     "country": "australia",
     "region": "oceania",
@@ -3907,8 +3954,8 @@
       "82459248057"
     ]
   },
-  "202": {
-    "id": 202,
+  "207": {
+    "id": 207,
     "name": "harbin institute of technology",
     "country": "china",
     "region": "asia",
@@ -3927,8 +3974,8 @@
       "82458827157"
     ]
   },
-  "203": {
-    "id": 203,
+  "208": {
+    "id": 208,
     "name": "information system sina technology",
     "country": "china",
     "region": "asia",
@@ -3941,8 +3988,8 @@
       "82458816557"
     ]
   },
-  "204": {
-    "id": 204,
+  "209": {
+    "id": 209,
     "name": "university of rome",
     "country": "italy",
     "region": "europe",
@@ -3953,8 +4000,8 @@
       "81100425686"
     ]
   },
-  "205": {
-    "id": 205,
+  "210": {
+    "id": 210,
     "name": "university françois rabelais of tours",
     "country": "france",
     "region": "europe",
@@ -3967,8 +4014,8 @@
       "81100271205"
     ]
   },
-  "206": {
-    "id": 206,
+  "211": {
+    "id": 211,
     "name": "university of lille",
     "country": "france",
     "region": "europe",
@@ -3979,8 +4026,8 @@
       "81339491153"
     ]
   },
-  "207": {
-    "id": 207,
+  "212": {
+    "id": 212,
     "name": "aston university",
     "country": "united kingdom",
     "region": "europe",
@@ -3991,8 +4038,8 @@
       "81453651594"
     ]
   },
-  "208": {
-    "id": 208,
+  "213": {
+    "id": 213,
     "name": "loughborough university",
     "country": "united kingdom",
     "region": "europe",
@@ -4004,8 +4051,8 @@
       "81324493315"
     ]
   },
-  "209": {
-    "id": 209,
+  "214": {
+    "id": 214,
     "name": "winthrop university",
     "country": "united states",
     "region": "north america",
@@ -4016,8 +4063,8 @@
       "82459188557"
     ]
   },
-  "210": {
-    "id": 210,
+  "215": {
+    "id": 215,
     "name": "institute of design",
     "country": "united states",
     "region": "north america",
@@ -4028,8 +4075,8 @@
       "81363600690"
     ]
   },
-  "211": {
-    "id": 211,
+  "216": {
+    "id": 216,
     "name": "university college london",
     "country": "united kingdom",
     "region": "europe",
@@ -4042,8 +4089,8 @@
       "81548023973"
     ]
   },
-  "212": {
-    "id": 212,
+  "217": {
+    "id": 217,
     "name": "ibm research",
     "country": "united states",
     "region": "north america",
@@ -4054,8 +4101,8 @@
       "81100264735"
     ]
   },
-  "213": {
-    "id": 213,
+  "218": {
+    "id": 218,
     "name": "ibm research -- china",
     "country": "china",
     "region": "asia",
@@ -4068,8 +4115,8 @@
       "81442597296"
     ]
   },
-  "214": {
-    "id": 214,
+  "219": {
+    "id": 219,
     "name": "ibm t",
     "country": "united states",
     "region": "north america",
@@ -4080,8 +4127,8 @@
       "81100484491"
     ]
   },
-  "215": {
-    "id": 215,
+  "220": {
+    "id": 220,
     "name": "tsinghua university beijing",
     "country": "china",
     "region": "asia",
@@ -4092,8 +4139,8 @@
       "99659739027"
     ]
   },
-  "216": {
-    "id": 216,
+  "221": {
+    "id": 221,
     "name": "vanderbilt university",
     "country": "united states",
     "region": "north america",
@@ -4104,8 +4151,8 @@
       "81549326956"
     ]
   },
-  "217": {
-    "id": 217,
+  "222": {
+    "id": 222,
     "name": "beijing normal university",
     "country": "china",
     "region": "asia",
@@ -4133,8 +4180,22 @@
       "84458937957"
     ]
   },
-  "218": {
-    "id": 218,
+  "223": {
+    "id": 223,
+    "name": "unc charlotte charlotte",
+    "country": "united states",
+    "region": "north america",
+    "papers": [
+      238,
+      238
+    ],
+    "authors": [
+      "81548739656",
+      "81100052641"
+    ]
+  },
+  "224": {
+    "id": 224,
     "name": "university of western",
     "country": "australia",
     "region": "oceania",
@@ -4145,8 +4206,8 @@
       "81100511332"
     ]
   },
-  "219": {
-    "id": 219,
+  "225": {
+    "id": 225,
     "name": "ut southwestern medical center at dallas",
     "country": "united states",
     "region": "north america",
@@ -4157,8 +4218,8 @@
       "81452599675"
     ]
   },
-  "220": {
-    "id": 220,
+  "226": {
+    "id": 226,
     "name": "soochow university suzhou",
     "country": "china",
     "region": "asia",
@@ -4169,8 +4230,8 @@
       "99659918096"
     ]
   },
-  "221": {
-    "id": 221,
+  "227": {
+    "id": 227,
     "name": "university of the pacific",
     "country": "united states",
     "region": "north america",
@@ -4183,8 +4244,8 @@
       "81100132506"
     ]
   },
-  "222": {
-    "id": 222,
+  "228": {
+    "id": 228,
     "name": "australia university of technology",
     "country": "australia",
     "region": "oceania",
@@ -4195,8 +4256,8 @@
       "81100080630"
     ]
   },
-  "223": {
-    "id": 223,
+  "229": {
+    "id": 229,
     "name": "charlotte visualization center",
     "country": "",
     "region": "",
@@ -4211,8 +4272,8 @@
       "81414604610"
     ]
   },
-  "224": {
-    "id": 224,
+  "230": {
+    "id": 230,
     "name": "palo alto research center",
     "country": "united states",
     "region": "north america",
@@ -4223,8 +4284,8 @@
       "81100084142"
     ]
   },
-  "225": {
-    "id": 225,
+  "231": {
+    "id": 231,
     "name": "university of new hampshire",
     "country": "united states",
     "region": "north america",
@@ -4235,8 +4296,8 @@
       "81367590837"
     ]
   },
-  "226": {
-    "id": 226,
+  "232": {
+    "id": 232,
     "name": "beijing jiaotong university",
     "country": "china",
     "region": "asia",
@@ -4247,8 +4308,8 @@
       "81487643126"
     ]
   },
-  "227": {
-    "id": 227,
+  "233": {
+    "id": 233,
     "name": "chinese academy of sciences beijing",
     "country": "china",
     "region": "asia",
@@ -4259,8 +4320,8 @@
       "81100172122"
     ]
   },
-  "228": {
-    "id": 228,
+  "234": {
+    "id": 234,
     "name": "shimane university",
     "country": "japan",
     "region": "asia",
@@ -4278,8 +4339,8 @@
       "81470647019"
     ]
   },
-  "229": {
-    "id": 229,
+  "235": {
+    "id": 235,
     "name": "yamamoto clinic",
     "country": "japan",
     "region": "asia",
@@ -4292,8 +4353,8 @@
       "81487645665"
     ]
   },
-  "230": {
-    "id": 230,
+  "236": {
+    "id": 236,
     "name": "pennsylvania state university",
     "country": "united states",
     "region": "north america",
@@ -4313,8 +4374,8 @@
       "81100429353"
     ]
   },
-  "231": {
-    "id": 231,
+  "237": {
+    "id": 237,
     "name": "microsoft research asia",
     "country": "china",
     "region": "asia",
@@ -4327,8 +4388,8 @@
       "81100228981"
     ]
   },
-  "232": {
-    "id": 232,
+  "238": {
+    "id": 238,
     "name": "dalhousie university halifax",
     "country": "canada",
     "region": "north america",
@@ -4341,8 +4402,8 @@
       "81100654649"
     ]
   },
-  "233": {
-    "id": 233,
+  "239": {
+    "id": 239,
     "name": "southern methodist university",
     "country": "united states",
     "region": "north america",
@@ -4355,8 +4416,8 @@
       "81409595451"
     ]
   },
-  "234": {
-    "id": 234,
+  "240": {
+    "id": 240,
     "name": "the penn state university",
     "country": "united states",
     "region": "north america",
@@ -4369,8 +4430,8 @@
       "81316491376"
     ]
   },
-  "235": {
-    "id": 235,
+  "241": {
+    "id": 241,
     "name": "sun yatsen university",
     "country": "china",
     "region": "asia",
@@ -4385,8 +4446,8 @@
       "81487650203"
     ]
   },
-  "236": {
-    "id": 236,
+  "242": {
+    "id": 242,
     "name": "csiro ict centre",
     "country": "australia",
     "region": "oceania",
@@ -4399,8 +4460,8 @@
       "81100080630"
     ]
   },
-  "237": {
-    "id": 237,
+  "243": {
+    "id": 243,
     "name": "brunel university",
     "country": "united kingdom",
     "region": "europe",
@@ -4411,8 +4472,8 @@
       "81100549711"
     ]
   },
-  "238": {
-    "id": 238,
+  "244": {
+    "id": 244,
     "name": "peking university",
     "country": "china",
     "region": "asia",
@@ -4429,8 +4490,8 @@
       "81100213064"
     ]
   },
-  "239": {
-    "id": 239,
+  "245": {
+    "id": 245,
     "name": "women's academy at shandong",
     "country": "china",
     "region": "asia",
@@ -4441,8 +4502,8 @@
       "81470647974"
     ]
   },
-  "240": {
-    "id": 240,
+  "246": {
+    "id": 246,
     "name": "dalhousie university",
     "country": "canada",
     "region": "north america",
@@ -4455,8 +4516,8 @@
       "81314488396"
     ]
   },
-  "241": {
-    "id": 241,
+  "247": {
+    "id": 247,
     "name": "kdu college penang campus",
     "country": "malaysia",
     "region": "asia",
@@ -4469,8 +4530,8 @@
       "81470645933"
     ]
   },
-  "242": {
-    "id": 242,
+  "248": {
+    "id": 248,
     "name": "csiro -- ict centre",
     "country": "australia",
     "region": "oceania",
@@ -4483,8 +4544,8 @@
       "81100495902"
     ]
   },
-  "243": {
-    "id": 243,
+  "249": {
+    "id": 249,
     "name": "the penn state university park",
     "country": "united states",
     "region": "north america",
@@ -4501,8 +4562,8 @@
       "81316491376"
     ]
   },
-  "244": {
-    "id": 244,
+  "250": {
+    "id": 250,
     "name": "university of applied sciences of the grisons",
     "country": "switzerland",
     "region": "europe",
@@ -4546,8 +4607,8 @@
       "99660627947"
     ]
   },
-  "245": {
-    "id": 245,
+  "251": {
+    "id": 251,
     "name": "pölten university of applied sciences",
     "country": "austria",
     "region": "europe",
@@ -4562,8 +4623,8 @@
       "81503660777"
     ]
   },
-  "246": {
-    "id": 246,
+  "252": {
+    "id": 252,
     "name": "university of bergen",
     "country": "norway",
     "region": "europe",
@@ -4580,8 +4641,8 @@
       "99659982875"
     ]
   },
-  "247": {
-    "id": 247,
+  "253": {
+    "id": 253,
     "name": "university of mining and technology",
     "country": "china",
     "region": "asia",
@@ -4592,8 +4653,8 @@
       "99660626204"
     ]
   },
-  "248": {
-    "id": 248,
+  "254": {
+    "id": 254,
     "name": "university of pennsylvania",
     "country": "united states",
     "region": "north america",
@@ -4604,8 +4665,8 @@
       "99660628227"
     ]
   },
-  "249": {
-    "id": 249,
+  "255": {
+    "id": 255,
     "name": "haukeland university hospital",
     "country": "norway",
     "region": "europe",
@@ -4622,8 +4683,8 @@
       "99658770659"
     ]
   },
-  "250": {
-    "id": 250,
+  "256": {
+    "id": 256,
     "name": "naval research laboratory",
     "country": "united states",
     "region": "north america",
@@ -4636,8 +4697,8 @@
       "81100455302"
     ]
   },
-  "251": {
-    "id": 251,
+  "257": {
+    "id": 257,
     "name": "escuela de diseno",
     "country": "chile",
     "region": "south america",
@@ -4648,8 +4709,8 @@
       "99659082618"
     ]
   },
-  "252": {
-    "id": 252,
+  "258": {
+    "id": 258,
     "name": "behaviour lab ltd",
     "country": "united kingdom",
     "region": "europe",
@@ -4660,8 +4721,8 @@
       "81100493586"
     ]
   },
-  "253": {
-    "id": 253,
+  "259": {
+    "id": 259,
     "name": "imperial college london",
     "country": "united kingdom",
     "region": "europe",
@@ -4672,8 +4733,8 @@
       "81100397330"
     ]
   },
-  "254": {
-    "id": 254,
+  "260": {
+    "id": 260,
     "name": "",
     "country": "",
     "region": "",
@@ -4684,8 +4745,8 @@
       "edina_misini"
     ]
   },
-  "255": {
-    "id": 255,
+  "261": {
+    "id": 261,
     "name": "aalen university of applied sciences",
     "country": "germany",
     "region": "europe",
@@ -4706,8 +4767,8 @@
       "99659628001"
     ]
   },
-  "256": {
-    "id": 256,
+  "262": {
+    "id": 262,
     "name": "technische universiteit eindhoven",
     "country": "netherlands",
     "region": "europe",
@@ -4722,8 +4783,8 @@
       "81100431196"
     ]
   },
-  "257": {
-    "id": 257,
+  "263": {
+    "id": 263,
     "name": "philips research eindhoven",
     "country": "netherlands",
     "region": "europe",
@@ -4736,8 +4797,8 @@
       "81100528828"
     ]
   },
-  "258": {
-    "id": 258,
+  "264": {
+    "id": 264,
     "name": "technische universität berlin",
     "country": "germany",
     "region": "europe",
@@ -4748,8 +4809,8 @@
       "81331505904"
     ]
   },
-  "259": {
-    "id": 259,
+  "265": {
+    "id": 265,
     "name": "eth zurich",
     "country": "switzerland",
     "region": "europe",
@@ -4760,8 +4821,8 @@
       "84459518557"
     ]
   },
-  "260": {
-    "id": 260,
+  "266": {
+    "id": 266,
     "name": "akita university",
     "country": "japan",
     "region": "asia",
@@ -4772,22 +4833,8 @@
       "81100253521"
     ]
   },
-  "261": {
-    "id": 261,
-    "name": "university of applied sciences",
-    "country": "switzerland",
-    "region": "europe",
-    "papers": [
-      316,
-      316
-    ],
-    "authors": [
-      "81331488994",
-      "99659635934"
-    ]
-  },
-  "262": {
-    "id": 262,
+  "267": {
+    "id": 267,
     "name": "hochschule reutlingen",
     "country": "germany",
     "region": "europe",
@@ -4808,8 +4855,8 @@
       "81466647554"
     ]
   },
-  "263": {
-    "id": 263,
+  "268": {
+    "id": 268,
     "name": "aarhus university",
     "country": "denmark",
     "region": "europe",
@@ -4822,8 +4869,8 @@
       "81317499938"
     ]
   },
-  "264": {
-    "id": 264,
+  "269": {
+    "id": 269,
     "name": "texas tech university",
     "country": "united states",
     "region": "north america",
@@ -4843,8 +4890,8 @@
       "99659571901"
     ]
   },
-  "265": {
-    "id": 265,
+  "270": {
+    "id": 270,
     "name": "tu delft",
     "country": "netherlands",
     "region": "europe",
@@ -4859,8 +4906,8 @@
       "81100421577"
     ]
   },
-  "266": {
-    "id": 266,
+  "271": {
+    "id": 271,
     "name": "tu delft and eindhoven university of technology",
     "country": "netherlands",
     "region": "europe",
@@ -4871,8 +4918,8 @@
       "81100563888"
     ]
   },
-  "267": {
-    "id": 267,
+  "272": {
+    "id": 272,
     "name": "tokyo institute of technology",
     "country": "japan",
     "region": "asia",
@@ -4885,8 +4932,8 @@
       "81444603436"
     ]
   },
-  "268": {
-    "id": 268,
+  "273": {
+    "id": 273,
     "name": "institute for software technology",
     "country": "germany",
     "region": "europe",
@@ -4897,8 +4944,8 @@
       "81100086957"
     ]
   },
-  "269": {
-    "id": 269,
+  "274": {
+    "id": 274,
     "name": "dell inc",
     "country": "",
     "region": "",
@@ -4909,8 +4956,8 @@
       "99659231116"
     ]
   },
-  "270": {
-    "id": 270,
+  "275": {
+    "id": 275,
     "name": "royal danish academy",
     "country": "denmark",
     "region": "europe",
@@ -4925,8 +4972,8 @@
       "81392616675"
     ]
   },
-  "271": {
-    "id": 271,
+  "276": {
+    "id": 276,
     "name": "school of computer science and technology",
     "country": "china",
     "region": "asia",
@@ -4939,8 +4986,26 @@
       "81329493297"
     ]
   },
-  "272": {
-    "id": 272,
+  "277": {
+    "id": 277,
+    "name": "vienna university of technology",
+    "country": "austria",
+    "region": "europe",
+    "papers": [
+      336,
+      336,
+      336,
+      336
+    ],
+    "authors": [
+      "99659483644",
+      "99659483210",
+      "99659482511",
+      "81100260842"
+    ]
+  },
+  "278": {
+    "id": 278,
     "name": "information engineering university",
     "country": "china",
     "region": "asia",
@@ -4963,8 +5028,8 @@
       "99659483693"
     ]
   },
-  "273": {
-    "id": 273,
+  "279": {
+    "id": 279,
     "name": "targomo gmbh",
     "country": "germany",
     "region": "europe",
@@ -4977,8 +5042,8 @@
       "99659483605"
     ]
   },
-  "274": {
-    "id": 274,
+  "280": {
+    "id": 280,
     "name": "royal college of arts",
     "country": "united kingdom",
     "region": "europe",
@@ -4989,8 +5054,8 @@
       "99658771476"
     ]
   },
-  "275": {
-    "id": 275,
+  "281": {
+    "id": 281,
     "name": "shanghai hanjie science and technology development co",
     "country": "china",
     "region": "asia",
@@ -5005,8 +5070,8 @@
       "99659483771"
     ]
   },
-  "276": {
-    "id": 276,
+  "282": {
+    "id": 282,
     "name": "chinese academy of sciences and university of chinese academy of sciencess",
     "country": "china",
     "region": "asia",
@@ -5017,8 +5082,8 @@
       "99659483356"
     ]
   },
-  "277": {
-    "id": 277,
+  "283": {
+    "id": 283,
     "name": "technology and business university",
     "country": "china",
     "region": "asia",
@@ -5029,8 +5094,8 @@
       "81490680300"
     ]
   },
-  "278": {
-    "id": 278,
+  "284": {
+    "id": 284,
     "name": "university of science and technology of china",
     "country": "china",
     "region": "asia",
@@ -5041,8 +5106,8 @@
       "99659483717"
     ]
   },
-  "279": {
-    "id": 279,
+  "285": {
+    "id": 285,
     "name": "hunan university",
     "country": "china",
     "region": "asia",
@@ -5061,8 +5126,8 @@
       "99658641077"
     ]
   },
-  "280": {
-    "id": 280,
+  "286": {
+    "id": 286,
     "name": "university of techonlogy sydney",
     "country": "australia",
     "region": "oceania",
@@ -5073,8 +5138,8 @@
       "99659483715"
     ]
   },
-  "281": {
-    "id": 281,
+  "287": {
+    "id": 287,
     "name": "shanghai chinafortune co",
     "country": "china",
     "region": "asia",
@@ -5085,8 +5150,8 @@
       "99659483061"
     ]
   },
-  "282": {
-    "id": 282,
+  "288": {
+    "id": 288,
     "name": "chengshu information technology",
     "country": "china",
     "region": "asia",
@@ -5097,8 +5162,8 @@
       "99659918096"
     ]
   },
-  "283": {
-    "id": 283,
+  "289": {
+    "id": 289,
     "name": "department evolutionary ecology",
     "country": "germany",
     "region": "europe",
@@ -5113,8 +5178,8 @@
       "99659482747"
     ]
   },
-  "284": {
-    "id": 284,
+  "290": {
+    "id": 290,
     "name": "engineering rwth aachen university",
     "country": "germany",
     "region": "europe",
@@ -5125,8 +5190,8 @@
       "99659482606"
     ]
   },
-  "285": {
-    "id": 285,
+  "291": {
+    "id": 291,
     "name": "university of wuppertal",
     "country": "germany",
     "region": "europe",
@@ -5137,8 +5202,8 @@
       "81435611476"
     ]
   },
-  "286": {
-    "id": 286,
+  "292": {
+    "id": 292,
     "name": "university of louisville",
     "country": "united states",
     "region": "north america",
@@ -5151,8 +5216,8 @@
       "99659681063"
     ]
   },
-  "287": {
-    "id": 287,
+  "293": {
+    "id": 293,
     "name": "national university of defense technology",
     "country": "china",
     "region": "asia",
@@ -5167,8 +5232,8 @@
       "81464649520"
     ]
   },
-  "288": {
-    "id": 288,
+  "294": {
+    "id": 294,
     "name": "qufu normal university",
     "country": "china",
     "region": "asia",
@@ -5183,8 +5248,8 @@
       "99659483560"
     ]
   },
-  "289": {
-    "id": 289,
+  "295": {
+    "id": 295,
     "name": "chalmers university of technology",
     "country": "sweden",
     "region": "europe",
@@ -5197,8 +5262,8 @@
       "81100571519"
     ]
   },
-  "290": {
-    "id": 290,
+  "296": {
+    "id": 296,
     "name": "lmu munich",
     "country": "germany",
     "region": "europe",
@@ -5209,8 +5274,8 @@
       "99659483172"
     ]
   },
-  "291": {
-    "id": 291,
+  "297": {
+    "id": 297,
     "name": "karlsruhe institut für technologie",
     "country": "germany",
     "region": "europe",
@@ -5221,8 +5286,8 @@
       "99659482979"
     ]
   },
-  "292": {
-    "id": 292,
+  "298": {
+    "id": 298,
     "name": "university of eastern finland",
     "country": "finland",
     "region": "europe",
@@ -5233,8 +5298,8 @@
       "99660043363"
     ]
   },
-  "293": {
-    "id": 293,
+  "299": {
+    "id": 299,
     "name": "chalmers university of technology gothenburg",
     "country": "sweden",
     "region": "europe",
@@ -5245,8 +5310,8 @@
       "81340489303"
     ]
   },
-  "294": {
-    "id": 294,
+  "300": {
+    "id": 300,
     "name": "communication university of china",
     "country": "china",
     "region": "asia",
@@ -5259,8 +5324,8 @@
       "99659483602"
     ]
   },
-  "295": {
-    "id": 295,
+  "301": {
+    "id": 301,
     "name": "tongji university shanghai",
     "country": "china",
     "region": "asia",
@@ -5271,8 +5336,8 @@
       "99659482745"
     ]
   },
-  "296": {
-    "id": 296,
+  "302": {
+    "id": 302,
     "name": "east china university of science and technology",
     "country": "china",
     "region": "asia",

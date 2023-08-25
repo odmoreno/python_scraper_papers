@@ -25,8 +25,11 @@ class dataVis:
         self.regiones = {}
         self.insti_final = {}
         self.new_authors = {}
+        self.insti_id = {}
 
+        self.new_paises = {}
         self.new_regions = {}
+        self.regions_new = {}
 
     def load_data(self):
         self.institutions = load_generic(self.base + 'insti.json')
@@ -35,6 +38,7 @@ class dataVis:
         self.authors_2009 = load_generic('data/vinci_2009/authors.json')
         self.countries = load_generic('data/jsons/countries.json')
         self.papers_en_vinci = load_generic('data/vinci_refs/papers_vinci.json')
+        self.insti_id = load_generic('data/dataforvis/instiID.json')
 
         for element in self.countries:
             pais = element["country"].strip().lower()
@@ -64,6 +68,7 @@ class dataVis:
                 insti = author['institution']
                 key = insti['name'].lower()
                 id_insti = insti_id
+                clear_author = author
 
                 if insti['region'] not in self.new_regions:
                     self.new_regions[insti['region']] = insti['region']
@@ -80,7 +85,7 @@ class dataVis:
                     }
                     self.new_instis[key]['papers'].append(counter)
                     self.new_instis[key]['authors'].append(id)
-
+                    self.insti_id[key] = insti_id
                     #if insti_id not in list_instis:
                     list_instis.append(insti_id)
                     insti_id += 1
@@ -145,6 +150,8 @@ class dataVis:
                         temp_authors[id]['regions'].append(insti['region'])
 
 
+                self.record_countries(clear_author, counter)
+                self.record_regions(clear_author, counter)
 
                 # append lists
                 if insti['country'] not in list_paises:
@@ -179,7 +186,82 @@ class dataVis:
         save_generic('data/dataforvis/nodesu.json', new_format)
         save_generic('data/dataforvis/instiu.json', self.new_instis)
         save_generic('data/dataforvis/authorsu.json', self.new_authors)
+        save_generic('data/dataforvis/paisesu.json', self.new_paises)
+        save_generic('data/dataforvis/regionu.json', self.regions_new)
+
         save_generic('data/dataforvis/regions.json', self.new_regions)
+        save_generic('data/dataforvis/instiID.json', self.insti_id)
+
+    def record_countries(self, author, paperid):
+        try:
+            institution = author['institution']
+            instiname = institution['name'].lower()
+            pais = institution['country']
+            region = institution['region']
+            instiid = self.insti_id[instiname]
+            authorid = author['id']
+            new_pais = pais
+            # Check if there are two words or spaces between
+            if re.search(r'\b\w+\s+\w+\b', new_pais):
+                # Replace the whitespace between with underscore
+                new_pais = re.sub(r'(\b\w+)\s+(\w+\b)', r'\1_\2', new_pais)
+
+            if new_pais not in self.new_paises:
+                data = {
+                    'id': new_pais,
+                    'name': pais,
+                    'region': region,
+                    'papers': {},
+                    'authors': {},
+                    'institutions': {}
+                }
+                self.new_paises[new_pais] = data
+                self.new_paises[new_pais]['papers'][paperid] = paperid
+                self.new_paises[new_pais]['authors'][authorid] = authorid
+                self.new_paises[new_pais]['institutions'][instiid] = instiid
+            else:
+                self.new_paises[new_pais]['papers'][paperid] = paperid
+                self.new_paises[new_pais]['authors'][authorid] = authorid
+                self.new_paises[new_pais]['institutions'][instiid] = instiid
+        except Exception as e:
+            print(f"Error  {e} , Author : {author}")
+
+    def record_regions(self, author, paperid):
+        try:
+            institution = author['institution']
+            instiname = institution['name'].lower()
+            pais = institution['country']
+            region = institution['region']
+            instiid = self.insti_id[instiname]
+            authorid = author['id']
+
+            new_region = region
+            # Check if there are two words or spaces between
+            if re.search(r'\b\w+\s+\w+\b', new_region):
+                # Replace the whitespace between with underscore
+                new_region = re.sub(r'(\b\w+)\s+(\w+\b)', r'\1_\2', new_region)
+
+            if new_region not in self.regions_new:
+                data = {
+                    'id': new_region,
+                    'name': region,
+                    'papers': {},
+                    'authors': {},
+                    'institutions': {},
+                    'paises': {}
+                }
+                self.regions_new[new_region] = data
+                self.regions_new[new_region]['papers'][paperid] = paperid
+                self.regions_new[new_region]['authors'][authorid] = authorid
+                self.regions_new[new_region]['institutions'][instiid] = instiid
+                self.regions_new[new_region]['paises'][pais] = pais
+            else:
+                self.regions_new[new_region]['papers'][paperid] = paperid
+                self.regions_new[new_region]['authors'][authorid] = authorid
+                self.regions_new[new_region]['institutions'][instiid] = instiid
+                self.regions_new[new_region]['paises'][pais] = pais
+        except Exception as e:
+            print(f"Error  {e} , REGION : {author}")
 
     def reformat_institutions(self):
         insti_reverse = load_generic('data/dataforvis/instiu.json')
@@ -188,6 +270,37 @@ class dataVis:
             self.insti_final[id] = list
 
         save_generic('data/dataforvis/instiu.json', self.insti_final)
+
+    def change_paises_new(self):
+        for id, data in self.new_paises.items():
+            try:
+                papers = data['papers']
+                autores = data['authors']
+                instituciones = data['institutions']
+                self.new_paises[id]['papers'] = list(papers.keys())
+                self.new_paises[id]['authors'] = list(autores.keys())
+                self.new_paises[id]['institutions'] = list(instituciones.keys())
+            except Exception as e:
+                print(f"Error  {e} , data : {data}")
+
+        save_generic('data/dataforvis/paisesu2.json', self.new_paises)
+
+    def change_regions_new(self):
+        for id, data in self.regions_new.items():
+            try:
+                papers = data['papers']
+                autores = data['authors']
+                instituciones = data['institutions']
+                paises = data['paises']
+                self.regions_new[id]['papers'] = list(papers.keys())
+                self.regions_new[id]['authors'] = list(autores.keys())
+                self.regions_new[id]['institutions'] = list(instituciones.keys())
+                self.regions_new[id]['paises'] = list(paises.keys())
+            except Exception as e:
+                print(f"Error  {e} , data : {data}")
+
+        save_generic('data/dataforvis/regionesu2.json', self.regions_new)
+
 
     def fill_authors_2009(self):
         papers = {}
@@ -340,9 +453,10 @@ class dataVis:
         self.config_vinci_au()
         self.reformat_papers()
         self.reformat_institutions()
-
+        self.change_paises_new()
         self.merge_authors()
-
+        self.change_paises_new()
+        self.change_regions_new()
 
 if __name__ == '__main__':
 
