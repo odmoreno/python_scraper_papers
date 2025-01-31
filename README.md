@@ -1,0 +1,1 @@
+Proyecto de scraping en Python para extraer información de conferencias académicas y sus referencias. Recopila títulos, autores, fechas e instituciones, almacenando los datos en JSON/CSV para su análisis.
